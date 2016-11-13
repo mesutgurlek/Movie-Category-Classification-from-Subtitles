@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -The project folder in scrapy_project includes a web-crawler built with Scrapy Framework
 
 - In order to be able to execute the project
@@ -15,3 +16,7 @@ You should configure the path so that script downloads the subtitles into that f
 
 - Beware the download limit which is 200 downloads/per day !!
 
+=======
+# Movie-Category-Classification-from-Subtitles
+Machine Learning Project - Finds Category of Movies from Subtitles
+>>>>>>> f7ba4b06e803354cab3ba279c503552da8c70aff
