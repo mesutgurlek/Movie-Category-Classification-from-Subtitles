@@ -98,14 +98,16 @@ class SubtitlesSpider(scrapy.Spider):
         import base64
         import gzip
 
+
         if subtitle_files_response['status'] == '200 OK':
             print("Subtitles downloaded, writing to files...")
             for subtitle_object in subtitle_files_response['data']: #each subtitle_object has base64 data and idsubtitlefile key
                 sub = subtitles[subtitle_object['idsubtitlefile']]
 
-                with open(sub['filename'], 'w') as file:
-                    file.write(gzip.decompress(base64.b64decode(subtitle_object['data'])).decode())
-                    print("Subtitle file saved into: %s" % sub['filename'])
+                with open(sub['filename'], 'w', encoding='utf-8', errors='ignore') as file:
+                   file.write(gzip.decompress(base64.b64decode(subtitle_object['data'])).decode())
+                       print("Subtitle file saved into: %s" % sub['filename'])
 
+        catch UnicodeDecodeError
     def parse_movie(self):
         pass
