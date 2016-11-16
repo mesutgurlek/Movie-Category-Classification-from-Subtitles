@@ -4,18 +4,24 @@ import scrapy
 import os
 import xmlrpc.client as xrpc
 
-subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
+subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
 imdb_page_limit = 1
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
-token = server.LogIn("", "", "en", "OSTestUserAgentTemp").get("token")
+token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
+
+print(server.ServerInfo())
+
+categories = ['action', 'comedy', 'horror', 'war', 'romance', 'adventure']
+subtitle_per_category = int(remaining_quota / len(categories))
 
 class SubtitlesSpider(scrapy.Spider):
     name = "subtitles"
     # start_urls = ["http://www.opensubtitles.org/en/search/sublanguageid-all/searchonlymovies-on/genre-action/movielanguage-english/movieimdbratingsign-5/movieimdbrating-7/movieyearsign-5/movieyear-1990/offset-0"]
 
-    start_urls = [ url_template % (genre) for genre in ['action', 'comedy', 'horror', 'war', 'romance', 'adventure']]
+    start_urls = [ url_template % (genre) for genre in categories]
 
     def parse(self, response):
         # return self.parse_movies(response)
@@ -24,14 +30,15 @@ class SubtitlesSpider(scrapy.Spider):
 
         folder_path = "%s/%s" % (subtitles_path, category_name)
         try:
-            os.mkdir(folder_path, 0o755)
+            if not os.path.isdir(folder_path):
+                os.mkdir(folder_path, 0o755)
         except OSError:
             print("Directorty cannot be opened in %s" % folder_path)
 
-            import shutil
-            shutil.rmtree(folder_path, ignore_errors=True)
-        finally:
-            os.mkdir(folder_path, 0o755)
+        #     import shutil
+        #     shutil.rmtree(folder_path, ignore_errors=True)
+        # finally:
+        #     os.mkdir(folder_path, 0o755)
 
         response.meta['page_limit'] = imdb_page_limit # configure # of pages to be visited to 5
         response.meta['category_name'] = category_name
@@ -65,9 +72,11 @@ class SubtitlesSpider(scrapy.Spider):
         subtitles = {} # key => IDSubtitleFile, value => Metadata of subtitle
 
         # USING IMDB ID'S, DOWNLOAD THEIR METADATA AND SELECT ID OF A SUITABLE SUBTITLE FOR EACH MOVIE
-        for imdb_id in imdb_ids[:10]:
+        for imdb_id in imdb_ids[:subtitle_per_category]:
             print("Searching subtitle for movie with ID: %s" % imdb_id)
             found_subtitles = server.SearchSubtitles(token, [{'imdbid': imdb_id, 'sublanguageid': 'eng'}])['data']
+
+            print("!!!!! Found subtitles: %s" % found_subtitles)
 
             if impaired_support:
                 impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1', found_subtitles))
@@ -93,7 +102,7 @@ class SubtitlesSpider(scrapy.Spider):
         #DOWNLOAD SUBTITLES AND WRITE THEM INTO FILES
         print("Downloading subtitles of %s" % category_name)
         subtitle_ids = [ idsubtitlefile for idsubtitlefile, val in subtitles.items()]
-        subtitle_files_response = server.DownloadSubtitles(token, subtitle_ids[:1])
+        subtitle_files_response = server.DownloadSubtitles(token, subtitle_ids)
 
         import base64
         import gzip
