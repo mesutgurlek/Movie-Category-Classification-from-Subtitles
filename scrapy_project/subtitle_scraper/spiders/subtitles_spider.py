@@ -7,7 +7,7 @@ import xmlrpc.client as xrpc
 # subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
 subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
-imdb_page_limit = 5
+imdb_page_limit = 3
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
 token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
@@ -22,7 +22,8 @@ class SubtitlesSpider(scrapy.Spider):
     name = "subtitles"
     # start_urls = ["http://www.opensubtitles.org/en/search/sublanguageid-all/searchonlymovies-on/genre-action/movielanguage-english/movieimdbratingsign-5/movieimdbrating-7/movieyearsign-5/movieyear-1990/offset-0"]
 
-    start_urls = [ url_template % (genre) for genre in categories]
+    # start_urls = [ url_template % (genre) for genre in categories]
+    start_urls = [ url_template % ('romance') ]
 
     def parse(self, response):
         # return self.parse_movies(response)
@@ -84,7 +85,8 @@ class SubtitlesSpider(scrapy.Spider):
             print("!!!!! Found %d subtitles for movie with ID: %s " % (len(found_subtitles), imdb_id))
 
             if impaired_support:
-                impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1', found_subtitles))
+                impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
+                                                                sub['SubFormat'] == 'srt', found_subtitles))
 
             impaired_label = ""
             if len(impaired_subtitles) > 0:
