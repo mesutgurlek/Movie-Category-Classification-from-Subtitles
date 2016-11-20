@@ -1,0 +1,2069 @@
+1
+00:03:10,000 --> 00:03:12,195  X1:272 X2:446 Y1:422 Y2:447
+Hey. Hey, hey.
+
+2
+00:03:12,320 --> 00:03:14,754  X1:170 X2:548 Y1:422 Y2:442
+Come here. Take a look at this.
+
+3
+00:03:16,080 --> 00:03:17,911  X1:319 X2:399 Y1:422 Y2:442
+What?
+
+4
+00:03:19,280 --> 00:03:22,238  X1:175 X2:543 Y1:422 Y2:474
+- What is it?
+- It's a data stream from PS12.
+
+5
+00:03:22,360 --> 00:03:26,148  X1:213 X2:504 Y1:422 Y2:479
+- Where is she?
+- Right above sector 14.
+
+6
+00:03:26,280 --> 00:03:28,236  X1:157 X2:560 Y1:422 Y2:447
+There isn't anything in sector 14.
+
+7
+00:03:28,360 --> 00:03:30,316  X1:276 X2:441 Y1:422 Y2:442
+There is now.
+
+8
+00:03:58,720 --> 00:04:02,110  X1:112 X2:606 Y1:422 Y2:479
+- Hello?
+- Miss Woods. Pleasure to speak to you.
+
+9
+00:04:02,240 --> 00:04:04,674  X1:173 X2:544 Y1:422 Y2:479
+- Who is this?
+- My name's Maxwell Stafford.
+
+10
+00:04:04,800 --> 00:04:07,109  X1:167 X2:551 Y1:422 Y2:447
+I represent Weyland Industries.
+
+11
+00:04:08,080 --> 00:04:11,470  X1:133 X2:585 Y1:422 Y2:474
+- Let me guess. He's suing us again?
+- You misunderstand.
+
+12
+00:04:11,600 --> 00:04:17,311  X1:080 X2:637 Y1:422 Y2:479
+Mr Weyland has offered to fund your
+foundation for a year, if you'll meet with him.
+
+13
+00:04:17,440 --> 00:04:18,793  X1:315 X2:402 Y1:422 Y2:442
+When?
+
+14
+00:04:18,920 --> 00:04:20,353  X1:291 X2:426 Y1:422 Y2:442
+Tomorrow.
+
+15
+00:04:20,480 --> 00:04:25,793  X1:109 X2:608 Y1:422 Y2:479
+Tomorrow's gonna be a problem.
+Take me a week to get back to the world.
+
+16
+00:04:25,920 --> 00:04:29,071  X1:189 X2:529 Y1:422 Y2:447
+Yes, I told Mr Weyland that.
+
+17
+00:04:29,200 --> 00:04:31,668  X1:174 X2:543 Y1:422 Y2:442
+He said he didn't have a week.
+
+18
+00:04:48,240 --> 00:04:50,595  X1:178 X2:540 Y1:422 Y2:447
+We must be right on top of it.
+
+19
+00:05:10,600 --> 00:05:12,989  X1:224 X2:493 Y1:422 Y2:446
+What is it, Sebastian?
+
+20
+00:05:26,760 --> 00:05:29,957  X1:171 X2:546 Y1:422 Y2:479
+The burial chamber is here.
+I know it. We are gonna find it.
+
+21
+00:05:30,080 --> 00:05:33,675  X1:143 X2:575 Y1:422 Y2:479
+I know it too, but without a crew
+and a permit we're out of business.
+
+22
+00:05:33,800 --> 00:05:38,555  X1:085 X2:632 Y1:422 Y2:479
+Hold the team together for two days.
+I'll go to Mexico City and I'll talk to the bank.
+
+23
+00:05:38,680 --> 00:05:40,716  X1:218 X2:499 Y1:422 Y2:447
+I'll get us more money.
+
+24
+00:05:40,840 --> 00:05:44,674  X1:189 X2:529 Y1:422 Y2:479
+I might be able to help you
+accomplish that, Professor.
+
+25
+00:05:44,800 --> 00:05:47,075  X1:263 X2:455 Y1:422 Y2:447
+Do I know you?
+
+26
+00:05:47,640 --> 00:05:50,712  X1:140 X2:578 Y1:422 Y2:447
+In exchange for a little of your time.
+
+27
+00:06:14,520 --> 00:06:17,830  X1:150 X2:566 Y1:422 Y2:474
+Oh, I'm sorry.
+I should've switched the flash off.
+
+28
+00:06:17,960 --> 00:06:20,520  X1:142 X2:576 Y1:422 Y2:447
+There's your magazine. Excuse me.
+
+29
+00:06:20,640 --> 00:06:22,392  X1:295 X2:422 Y1:422 Y2:442
+That's OK.
+
+30
+00:06:22,520 --> 00:06:25,751  X1:124 X2:592 Y1:422 Y2:474
+I'm documenting the trip for my boys.
+This is them.
+
+31
+00:06:25,880 --> 00:06:28,189  X1:248 X2:469 Y1:422 Y2:447
+Jacob and Scotty.
+
+32
+00:06:28,680 --> 00:06:30,910  X1:148 X2:569 Y1:422 Y2:479
+Would you mind taking a picture?
+Thank you.
+
+33
+00:06:31,040 --> 00:06:35,079  X1:120 X2:598 Y1:422 Y2:479
+Just wanna show them
+that their dad wasn't always so boring.
+
+34
+00:06:35,200 --> 00:06:37,316  X1:312 X2:405 Y1:422 Y2:474
+- Smile.
+- OK.
+
+35
+00:06:39,240 --> 00:06:41,515  X1:266 X2:451 Y1:422 Y2:479
+- There you go.
+- Thank you.
+
+36
+00:06:41,640 --> 00:06:44,393  X1:093 X2:624 Y1:422 Y2:447
+I'm Graeme Miller. I'm a chemical engineer.
+
+37
+00:06:44,520 --> 00:06:47,637  X1:132 X2:585 Y1:422 Y2:479
+Alexa Woods,
+environmental technician and guide.
+
+38
+00:06:47,760 --> 00:06:50,479  X1:186 X2:531 Y1:422 Y2:478
+- Do you work for Weyland?
+- Oh, no.
+
+39
+00:06:50,600 --> 00:06:54,673  X1:135 X2:580 Y1:422 Y2:479
+No, I split my time between working
+for a small environmental group
+
+40
+00:06:54,800 --> 00:06:57,951  X1:200 X2:518 Y1:422 Y2:479
+and taking scientists
+on expeditions on the ice.
+
+41
+00:06:58,080 --> 00:07:01,356  X1:151 X2:567 Y1:422 Y2:479
+Lex. Buckle up.
+We're gonna hit some turbulence.
+
+42
+00:07:01,480 --> 00:07:03,835  X1:276 X2:442 Y1:422 Y2:446
+Thanks, Jack.
+
+43
+00:07:03,960 --> 00:07:06,269  X1:208 X2:509 Y1:422 Y2:479
+- Is he a friend of yours?
+- Of my dad's.
+
+44
+00:07:06,400 --> 00:07:08,391  X1:149 X2:568 Y1:422 Y2:447
+He trained most of the pilots here.
+
+45
+00:07:08,520 --> 00:07:12,149  X1:144 X2:574 Y1:422 Y2:479
+- Just passed the PSR.
+- Oh, damn. I wish I'd got a picture.
+
+46
+00:07:12,640 --> 00:07:15,029  X1:294 X2:423 Y1:422 Y2:474
+- Of what?
+- The PSR.
+
+47
+00:07:15,160 --> 00:07:18,709  X1:090 X2:628 Y1:422 Y2:447
+I wish he'd called it out before we passed it.
+
+48
+00:07:18,840 --> 00:07:22,071  X1:143 X2:575 Y1:422 Y2:447
+The PSR is the point of safe return.
+
+49
+00:07:22,200 --> 00:07:26,159  X1:132 X2:584 Y1:422 Y2:474
+It means we've used up half our fuel,
+so we can't turn back.
+
+50
+00:07:26,960 --> 00:07:32,080  X1:134 X2:581 Y1:422 Y2:479
+Right, but if something went wrong,
+we could land, presumably.
+
+51
+00:07:32,200 --> 00:07:34,430  X1:255 X2:463 Y1:422 Y2:474
+- We could ditch.
+- Yeah. Ditch.
+
+52
+00:07:34,560 --> 00:07:39,315  X1:158 X2:559 Y1:422 Y2:474
+But the temperature of the water
+would kill us in three minutes.
+
+53
+00:07:52,520 --> 00:07:55,239  X1:131 X2:587 Y1:422 Y2:447
+Welcome aboard, everybody. Please.
+
+54
+00:07:55,800 --> 00:07:59,429  X1:139 X2:579 Y1:422 Y2:479
+Some of you may be wondering
+why this team has been assembled.
+
+55
+00:07:59,560 --> 00:08:01,994  X1:111 X2:607 Y1:422 Y2:447
+Your host will give you the answer now.
+
+56
+00:08:02,120 --> 00:08:04,156  X1:282 X2:435 Y1:422 Y2:447
+Mr Weyland.
+
+57
+00:08:17,440 --> 00:08:22,150  X1:084 X2:633 Y1:422 Y2:479
+Seven days ago, one of my satellites
+over Antarctica hunting for mineral deposits
+
+58
+00:08:22,280 --> 00:08:27,308  X1:121 X2:595 Y1:422 Y2:478
+discovered a sudden heat bloom
+beneath the earth, which outlined this.
+
+59
+00:08:27,440 --> 00:08:29,954  X1:152 X2:565 Y1:422 Y2:442
+The red lines indicate solid walls.
+
+60
+00:08:30,480 --> 00:08:36,237  X1:090 X2:627 Y1:422 Y2:479
+Through thermal mapping, we've generated
+a three-dimensional image of the structure.
+
+61
+00:08:36,360 --> 00:08:42,310  X1:086 X2:630 Y1:422 Y2:474
+It's massive, containing hundreds of rooms,
+all built around a central core.
+
+62
+00:08:43,440 --> 00:08:45,715  X1:155 X2:562 Y1:422 Y2:447
+My experts tell me it's a pyramid.
+
+63
+00:08:47,080 --> 00:08:50,629  X1:206 X2:510 Y1:422 Y2:474
+What they can't agree on
+is who built it and when.
+
+64
+00:08:50,760 --> 00:08:54,799  X1:134 X2:584 Y1:422 Y2:474
+One expert tells me this has features
+reminiscent of the Aztecs.
+
+65
+00:08:54,920 --> 00:08:57,434  X1:097 X2:621 Y1:422 Y2:447
+Another tells me it's probably Cambodian.
+
+66
+00:08:57,560 --> 00:09:01,758  X1:108 X2:609 Y1:422 Y2:479
+What they all agree on is that
+the smooth side is definitively Egyptian.
+
+67
+00:09:01,880 --> 00:09:05,031  X1:172 X2:545 Y1:422 Y2:474
+- I think your experts are right.
+- Which one?
+
+68
+00:09:05,160 --> 00:09:08,630  X1:205 X2:512 Y1:422 Y2:479
+- All of them.
+- Meaning what, exactly?
+
+69
+00:09:09,560 --> 00:09:13,678  X1:159 X2:559 Y1:422 Y2:474
+This pyramid contains
+the features of all three cultures.
+
+70
+00:09:14,800 --> 00:09:17,758  X1:102 X2:616 Y1:422 Y2:447
+This might be the first pyramid ever built.
+
+71
+00:09:17,880 --> 00:09:22,271  X1:207 X2:511 Y1:422 Y2:479
+- But built by whom?
+- By the first civilisation.
+
+72
+00:09:23,800 --> 00:09:25,552  X1:291 X2:427 Y1:422 Y2:447
+Thank you.
+
+73
+00:09:25,680 --> 00:09:28,672  X1:163 X2:555 Y1:422 Y2:479
+But how could anyone possibly
+build a pyramid out here?
+
+74
+00:09:28,800 --> 00:09:31,519  X1:101 X2:616 Y1:422 Y2:447
+Ancient maps show Antarctica free of ice.
+
+75
+00:09:31,640 --> 00:09:36,589  X1:084 X2:633 Y1:422 Y2:479
+- It's likely the continent was once habitable.
+- I can't tell you who built it.
+
+76
+00:09:36,720 --> 00:09:39,996  X1:143 X2:574 Y1:422 Y2:479
+But if I could take a sample from it,
+I can tell you how old it is.
+
+77
+00:09:40,120 --> 00:09:43,430  X1:150 X2:568 Y1:422 Y2:479
+Dr Miller, I'm offering
+to put you right next to this thing.
+
+78
+00:09:43,560 --> 00:09:47,155  X1:167 X2:550 Y1:422 Y2:474
+- What caused the heat bloom?
+- I don't know.
+
+79
+00:09:47,280 --> 00:09:50,590  X1:151 X2:567 Y1:422 Y2:479
+- Where exactly on the ice is this?
+- Bouvetoya Island.
+
+80
+00:09:50,720 --> 00:09:54,395  X1:102 X2:616 Y1:422 Y2:446
+But it's not on the ice. It's 2,000ft below it.
+
+81
+00:09:57,360 --> 00:09:59,874  X1:278 X2:440 Y1:422 Y2:474
+- Mr Quinn?
+- Mr Stafford.
+
+82
+00:10:00,000 --> 00:10:04,471  X1:075 X2:642 Y1:422 Y2:479
+You're looking at the best drilling team in the
+world. We'll chew to that depth in seven days.
+
+83
+00:10:04,600 --> 00:10:07,478  X1:169 X2:549 Y1:422 Y2:479
+Add three weeks on top of that
+to train everyone here.
+
+84
+00:10:07,600 --> 00:10:10,478  X1:090 X2:627 Y1:422 Y2:446
+We don't have that kind of time, Ms Woods.
+
+85
+00:10:10,600 --> 00:10:13,273  X1:167 X2:550 Y1:422 Y2:474
+I'm not the only one
+with a satellite over Antarctica.
+
+86
+00:10:13,400 --> 00:10:15,755  X1:205 X2:513 Y1:422 Y2:442
+Others will be here soon.
+
+87
+00:10:15,880 --> 00:10:20,237  X1:108 X2:610 Y1:422 Y2:479
+Maybe I wasn't clear.
+No one in this room is ready for this trip.
+
+88
+00:10:20,360 --> 00:10:22,635  X1:184 X2:533 Y1:422 Y2:447
+That's why I asked you here.
+
+89
+00:10:22,760 --> 00:10:27,356  X1:076 X2:641 Y1:422 Y2:479
+Bouvetoya is one of the world's most isolated
+places. The nearest land is 1,000 miles away.
+
+90
+00:10:27,480 --> 00:10:31,917  X1:119 X2:598 Y1:422 Y2:479
+- There's no help if we run into trouble.
+- You're right. It's a no-man's-land.
+
+91
+00:10:32,040 --> 00:10:34,713  X1:161 X2:557 Y1:422 Y2:442
+But the train has left the station.
+
+92
+00:10:34,840 --> 00:10:38,799  X1:173 X2:544 Y1:422 Y2:479
+And I think I speak
+for everyone aboard this ship.
+
+93
+00:10:38,920 --> 00:10:40,717  X1:225 X2:492 Y1:422 Y2:442
+This is worth the risk.
+
+94
+00:10:49,760 --> 00:10:52,194  X1:239 X2:479 Y1:422 Y2:447
+Find another guide.
+
+95
+00:11:08,120 --> 00:11:11,715  X1:132 X2:586 Y1:422 Y2:479
+I've spoken with Mr Weyland.
+Money's been wired to your account.
+
+96
+00:11:11,840 --> 00:11:14,991  X1:128 X2:589 Y1:422 Y2:447
+Chopper's refuelling to fly you home.
+
+97
+00:11:16,200 --> 00:11:18,509  X1:261 X2:456 Y1:422 Y2:447
+Who'd you get?
+
+98
+00:11:19,640 --> 00:11:21,756  X1:256 X2:462 Y1:422 Y2:442
+Gerald Murdoch.
+
+99
+00:11:25,160 --> 00:11:27,515  X1:117 X2:600 Y1:422 Y2:474
+- Come in.
+- Murdoch has two seasons of ice time.
+
+100
+00:11:27,640 --> 00:11:29,358  X1:268 X2:450 Y1:422 Y2:447
+He's not ready.
+
+101
+00:11:29,480 --> 00:11:32,278  X1:174 X2:544 Y1:422 Y2:474
+- Don't worry about it.
+- What about Paul Woodman?
+
+102
+00:11:32,400 --> 00:11:35,517  X1:089 X2:628 Y1:422 Y2:479
+- We called him.
+- He gave the same bullshit answer you did.
+
+103
+00:11:35,640 --> 00:11:37,039  X1:290 X2:427 Y1:422 Y2:442
+"Bullshit"?
+
+104
+00:11:38,320 --> 00:11:44,509  X1:077 X2:640 Y1:422 Y2:479
+What I told you in there wasn't bullshit. If you
+rush this, people will get hurt. Maybe die.
+
+105
+00:11:44,640 --> 00:11:48,155  X1:092 X2:625 Y1:422 Y2:479
+I don't understand.
+We're not asking you to take us up Everest.
+
+106
+00:11:48,280 --> 00:11:52,034  X1:129 X2:589 Y1:422 Y2:479
+We need you to take us from the ship
+to the pyramid, and back. That's it.
+
+107
+00:11:52,160 --> 00:11:55,118  X1:153 X2:565 Y1:422 Y2:479
+- What about inside the pyramid?
+- Don't worry about that.
+
+108
+00:11:55,240 --> 00:11:59,472  X1:084 X2:634 Y1:422 Y2:479
+Once we're on the site, we have the best
+technology and experts that money can buy.
+
+109
+00:11:59,600 --> 00:12:01,431  X1:269 X2:449 Y1:422 Y2:474
+- Is this new?
+- It's the latest.
+
+110
+00:12:01,560 --> 00:12:06,190  X1:151 X2:565 Y1:422 Y2:479
+Mr Weyland, when I lead my team
+I don't ever leave my team.
+
+111
+00:12:06,320 --> 00:12:08,390  X1:221 X2:496 Y1:422 Y2:447
+I admire your passion.
+
+112
+00:12:09,320 --> 00:12:12,392  X1:171 X2:547 Y1:422 Y2:447
+I wish you were going with us.
+
+113
+00:12:12,520 --> 00:12:14,636  X1:204 X2:514 Y1:422 Y2:447
+You're making a mistake.
+
+114
+00:12:21,280 --> 00:12:24,636  X1:183 X2:535 Y1:422 Y2:447
+It's in the upper atmosphere.
+
+115
+00:12:25,560 --> 00:12:28,120  X1:193 X2:524 Y1:422 Y2:474
+Streams of protons
+and electrons from the sun
+
+116
+00:12:28,240 --> 00:12:32,677  X1:114 X2:601 Y1:422 Y2:479
+being deflected by the earth's magnetic
+field, causing a solar radiation storm.
+
+117
+00:12:32,800 --> 00:12:37,396  X1:142 X2:575 Y1:422 Y2:479
+Shackleton called Antarctica
+"the last greatjourney left to man".
+
+118
+00:12:37,920 --> 00:12:41,230  X1:152 X2:562 Y1:422 Y2:474
+It's the one place left in the world
+that no one owns.
+
+119
+00:12:41,360 --> 00:12:43,316  X1:238 X2:479 Y1:422 Y2:447
+It's completely free.
+
+120
+00:12:45,240 --> 00:12:48,789  X1:124 X2:593 Y1:422 Y2:447
+Me, I'm sort of partial to the penguins.
+
+121
+00:12:51,720 --> 00:12:55,110  X1:083 X2:634 Y1:422 Y2:447
+I wish you'd reconsider coming with us, Lex.
+
+122
+00:12:55,240 --> 00:12:59,199  X1:154 X2:564 Y1:422 Y2:479
+Come on, don't make me pull out
+pictures of my kids again.
+
+123
+00:12:59,320 --> 00:13:01,311  X1:201 X2:517 Y1:422 Y2:442
+Your kids aren't that cute.
+
+124
+00:13:01,440 --> 00:13:05,399  X1:216 X2:502 Y1:422 Y2:479
+What if we got pictures
+of other people's kids?
+
+125
+00:13:05,520 --> 00:13:08,114  X1:252 X2:466 Y1:422 Y2:447
+Want my advice?
+
+126
+00:13:08,680 --> 00:13:10,830  X1:255 X2:463 Y1:422 Y2:447
+Stay on the boat.
+
+127
+00:13:10,960 --> 00:13:14,191  X1:166 X2:552 Y1:422 Y2:447
+OK. Let me ask you something.
+
+128
+00:13:14,760 --> 00:13:17,593  X1:185 X2:532 Y1:422 Y2:479
+Do we stand a better chance
+of surviving with you
+
+129
+00:13:17,720 --> 00:13:21,076  X1:161 X2:556 Y1:422 Y2:442
+or with the number-two choice?
+
+130
+00:13:22,040 --> 00:13:24,759  X1:110 X2:607 Y1:422 Y2:447
+Miss Woods, your helicopter's refuelled.
+
+131
+00:13:24,880 --> 00:13:27,348  X1:213 X2:505 Y1:422 Y2:447
+They're waiting for you.
+
+132
+00:14:29,880 --> 00:14:32,348  X1:228 X2:489 Y1:422 Y2:447
+Everybody, listen up!
+
+133
+00:14:32,480 --> 00:14:34,630  X1:274 X2:444 Y1:422 Y2:442
+Gather round.
+
+134
+00:14:35,360 --> 00:14:39,148  X1:120 X2:598 Y1:422 Y2:479
+Told you she'd stay.
+She can't resist my animal magnetism.
+
+135
+00:14:39,280 --> 00:14:41,430  X1:166 X2:552 Y1:422 Y2:447
+Laugh it up, Miller. Laugh it up.
+
+136
+00:14:41,560 --> 00:14:43,073  X1:284 X2:434 Y1:422 Y2:442
+Gentlemen?
+
+137
+00:14:44,760 --> 00:14:48,275  X1:181 X2:536 Y1:422 Y2:479
+It is my job to keep you alive
+on this expedition,
+
+138
+00:14:48,400 --> 00:14:50,595  X1:166 X2:551 Y1:422 Y2:447
+and I need your help to do that.
+
+139
+00:14:50,720 --> 00:14:54,872  X1:084 X2:634 Y1:422 Y2:479
+Since I don't have time to properly train you,
+I'm laying down three rules.
+
+140
+00:14:55,000 --> 00:14:59,312  X1:112 X2:606 Y1:422 Y2:447
+One. No one goes anywhere alone, ever.
+
+141
+00:14:59,440 --> 00:15:01,510  X1:329 X2:388 Y1:422 Y2:442
+Two.
+
+142
+00:15:01,640 --> 00:15:06,031  X1:201 X2:517 Y1:422 Y2:474
+Everyone must maintain
+constant communication.
+
+143
+00:15:06,160 --> 00:15:09,516  X1:083 X2:634 Y1:422 Y2:447
+Three. Unexpected things are gonna happen.
+
+144
+00:15:09,640 --> 00:15:12,757  X1:113 X2:605 Y1:422 Y2:447
+When they do, no one tries to be a hero.
+
+145
+00:15:13,640 --> 00:15:15,915  X1:279 X2:439 Y1:422 Y2:442
+Understood?
+
+146
+00:15:17,200 --> 00:15:18,792  X1:279 X2:439 Y1:422 Y2:442
+Understood?
+
+147
+00:15:18,920 --> 00:15:21,354  X1:277 X2:441 Y1:422 Y2:474
+- Yes, ma'am.
+- Good.
+
+148
+00:15:26,000 --> 00:15:29,788  X1:074 X2:644 Y1:422 Y2:479
+Seven seasons on the ice
+and I've never seen a gun save someone's life.
+
+149
+00:15:29,920 --> 00:15:33,435  X1:208 X2:509 Y1:422 Y2:479
+- I don't plan on using it.
+- Then why bring it?
+
+150
+00:15:33,560 --> 00:15:35,630  X1:180 X2:537 Y1:422 Y2:447
+Same principle as a condom.
+
+151
+00:15:35,760 --> 00:15:40,072  X1:147 X2:569 Y1:422 Y2:474
+I'd rather have one and not need it
+than need it and not have one.
+
+152
+00:15:40,960 --> 00:15:43,269  X1:154 X2:563 Y1:422 Y2:447
+I'm glad that you decided to stay.
+
+153
+00:15:45,280 --> 00:15:48,397  X1:169 X2:548 Y1:422 Y2:442
+Move the trucks out on the ice.
+
+154
+00:15:48,520 --> 00:15:51,239  X1:198 X2:520 Y1:422 Y2:446
+Move that. OK, let's move.
+
+155
+00:16:04,560 --> 00:16:06,869  X1:183 X2:535 Y1:422 Y2:474
+- What's with the bottle cap?
+- What?
+
+156
+00:16:07,000 --> 00:16:09,673  X1:190 X2:527 Y1:422 Y2:447
+What's with the bottle cap?
+
+157
+00:16:11,160 --> 00:16:14,391  X1:125 X2:592 Y1:422 Y2:447
+This is a valuable archaeological find.
+
+158
+00:16:21,880 --> 00:16:27,079  X1:099 X2:617 Y1:422 Y2:479
+When I was a kid growing up in Italy,
+you know what they call a moon that big?
+
+159
+00:16:27,640 --> 00:16:29,756  X1:222 X2:495 Y1:422 Y2:442
+La luna del cacciatore.
+
+160
+00:16:33,640 --> 00:16:35,392  X1:320 X2:397 Y1:422 Y2:442
+Brava.
+
+161
+00:16:35,520 --> 00:16:38,478  X1:256 X2:461 Y1:422 Y2:474
+- What's that?
+- Hunter's moon.
+
+162
+00:16:38,960 --> 00:16:41,110  X1:265 X2:453 Y1:422 Y2:442
+Hunter's moon.
+
+163
+00:16:57,920 --> 00:17:00,115  X1:277 X2:440 Y1:422 Y2:447
+Hold it, guys.
+
+164
+00:17:01,840 --> 00:17:05,913  X1:173 X2:544 Y1:422 Y2:474
+- Keep those engines running!
+- Set it down.
+
+165
+00:17:06,040 --> 00:17:09,237  X1:143 X2:574 Y1:422 Y2:442
+Move over a little further. Connors.
+
+166
+00:17:27,040 --> 00:17:28,951  X1:147 X2:570 Y1:422 Y2:447
+It's an abandoned whaling station.
+
+167
+00:17:29,080 --> 00:17:34,757  X1:102 X2:616 Y1:422 Y2:479
+According to your satellite imagery,
+the pyramid is located directly beneath it.
+
+168
+00:17:47,680 --> 00:17:50,797  X1:170 X2:547 Y1:422 Y2:447
+All right, bring it up. Come on.
+
+169
+00:17:50,920 --> 00:17:53,434  X1:288 X2:429 Y1:422 Y2:447
+Spread out.
+
+170
+00:17:53,560 --> 00:17:58,634  X1:073 X2:645 Y1:422 Y2:479
+We'll use this place as a base camp. Mr Quinn,
+begin drilling operations as soon as you can.
+
+171
+00:17:58,760 --> 00:18:01,797  X1:147 X2:570 Y1:422 Y2:447
+I'm on it. OK, guys, let's move out.
+
+172
+00:18:43,880 --> 00:18:46,348  X1:252 X2:466 Y1:422 Y2:474
+- What are these?
+- Whale bones.
+
+173
+00:18:49,000 --> 00:18:54,074  X1:127 X2:590 Y1:422 Y2:479
+This station was abandoned in 1904.
+Everyone just disappeared overnight.
+
+174
+00:18:54,200 --> 00:18:57,078  X1:168 X2:549 Y1:422 Y2:447
+It was a big mystery back then.
+
+175
+00:19:45,160 --> 00:19:47,913  X1:180 X2:537 Y1:422 Y2:447
+One for National Geographic.
+
+176
+00:20:29,960 --> 00:20:33,509  X1:169 X2:548 Y1:422 Y2:479
+- Lex.
+- No one goes anywhere alone.
+
+177
+00:20:33,640 --> 00:20:37,519  X1:115 X2:603 Y1:422 Y2:447
+There's something there. Listen. Listen.
+
+178
+00:20:44,000 --> 00:20:46,036  X1:246 X2:471 Y1:422 Y2:447
+Careful. They bite.
+
+179
+00:20:57,680 --> 00:20:59,955  X1:229 X2:489 Y1:422 Y2:442
+Over here. Over here.
+
+180
+00:21:00,080 --> 00:21:01,672  X1:292 X2:425 Y1:422 Y2:442
+What is it?
+
+181
+00:21:02,880 --> 00:21:05,189  X1:224 X2:493 Y1:422 Y2:447
+Can you believe that?
+
+182
+00:21:13,560 --> 00:21:17,155  X1:121 X2:597 Y1:422 Y2:447
+It's drilled at a perfect 30-degree angle.
+
+183
+00:21:17,280 --> 00:21:21,478  X1:185 X2:533 Y1:422 Y2:479
+- How far does it go down?
+- All the way to the pyramid.
+
+184
+00:21:21,600 --> 00:21:25,354  X1:168 X2:549 Y1:422 Y2:479
+There it is. Clear as day.
+And the same time yesterday...
+
+185
+00:21:26,760 --> 00:21:29,228  X1:241 X2:477 Y1:422 Y2:474
+- Nothing.
+- How was it done?
+
+186
+00:21:29,360 --> 00:21:34,070  X1:143 X2:575 Y1:422 Y2:479
+- Thermal equipment of some kind.
+- Like yours?
+
+187
+00:21:34,200 --> 00:21:36,794  X1:134 X2:584 Y1:422 Y2:447
+More advanced. Incredibly powerful.
+
+188
+00:21:39,120 --> 00:21:41,714  X1:168 X2:549 Y1:422 Y2:447
+I've never seen anything like it.
+
+189
+00:21:41,840 --> 00:21:46,960  X1:080 X2:636 Y1:422 Y2:479
+There's no team and no machine in the world
+that could cut to this depth in 24 hours.
+
+190
+00:21:47,080 --> 00:21:51,358  X1:078 X2:639 Y1:422 Y2:479
+Well, the only way we're gonna know for sure
+is to get down there and find out.
+
+191
+00:22:14,200 --> 00:22:16,555  X1:181 X2:536 Y1:422 Y2:447
+Look at that. Change it. Now!
+
+192
+00:22:17,560 --> 00:22:21,678  X1:155 X2:562 Y1:422 Y2:479
+OK, guys, what's taking so long?
+There's a storm coming.
+
+193
+00:22:30,920 --> 00:22:34,037  X1:178 X2:538 Y1:422 Y2:479
+There's no room for sick men
+on this expedition.
+
+194
+00:22:34,160 --> 00:22:38,870  X1:087 X2:630 Y1:422 Y2:479
+- My doctors tell me the worst is behind me.
+- You're not a very good liar, Mr Weyland.
+
+195
+00:22:39,000 --> 00:22:42,675  X1:104 X2:614 Y1:422 Y2:479
+Stay on the ship.
+We'll update you at the top of every hour.
+
+196
+00:22:42,800 --> 00:22:47,430  X1:085 X2:632 Y1:422 Y2:479
+When you get sick, you think about your life
+and how you're gonna be remembered.
+
+197
+00:22:47,560 --> 00:22:51,189  X1:117 X2:602 Y1:422 Y2:479
+You know what will happen when I go?
+Ten per cent fall in share prices.
+
+198
+00:22:51,320 --> 00:22:53,675  X1:241 X2:476 Y1:422 Y2:447
+Maybe 12. That's it.
+
+199
+00:22:54,520 --> 00:22:57,273  X1:179 X2:539 Y1:422 Y2:447
+I've heard this speech before.
+
+200
+00:22:57,400 --> 00:23:01,632  X1:111 X2:606 Y1:422 Y2:474
+My dad broke his leg
+700ft from the summit of Mount Rainier.
+
+201
+00:23:02,200 --> 00:23:05,829  X1:145 X2:572 Y1:422 Y2:479
+He was like you.
+He wouldn't go back or let us stop.
+
+202
+00:23:05,960 --> 00:23:09,794  X1:122 X2:594 Y1:422 Y2:479
+We reached the top,
+and he opened a bottle of champagne.
+
+203
+00:23:11,760 --> 00:23:15,548  X1:093 X2:625 Y1:422 Y2:447
+I had my first drink with my dad at 14,400ft.
+
+204
+00:23:17,040 --> 00:23:21,352  X1:085 X2:634 Y1:422 Y2:479
+On the way down, he developed a blood clot
+in his leg that travelled to his lung.
+
+205
+00:23:21,480 --> 00:23:25,871  X1:118 X2:600 Y1:422 Y2:479
+He suffered for four hours
+before dying 20 minutes from the base.
+
+206
+00:23:27,120 --> 00:23:31,238  X1:157 X2:560 Y1:422 Y2:479
+You think that's the last thing
+your dad remembers? The pain?
+
+207
+00:23:31,840 --> 00:23:37,392  X1:133 X2:584 Y1:422 Y2:479
+Or drinking champagne
+with his daughter 14,000ft in the air?
+
+208
+00:23:39,160 --> 00:23:40,798  X1:292 X2:426 Y1:422 Y2:442
+I need this.
+
+209
+00:23:49,240 --> 00:23:51,470  X1:258 X2:459 Y1:422 Y2:446
+Come on, move.
+
+210
+00:24:35,520 --> 00:24:36,919  X1:331 X2:387 Y1:422 Y2:442
+Shit.
+
+211
+00:24:41,400 --> 00:24:43,072  X1:282 X2:435 Y1:422 Y2:447
+Mr Weyland!
+
+212
+00:24:43,200 --> 00:24:45,350  X1:291 X2:425 Y1:422 Y2:442
+Man down!
+
+213
+00:24:45,480 --> 00:24:48,119  X1:181 X2:535 Y1:422 Y2:447
+Get him! Somebody get him!
+
+214
+00:25:10,800 --> 00:25:11,869  X1:310 X2:407 Y1:422 Y2:442
+Move it!
+
+215
+00:25:12,000 --> 00:25:13,592  X1:328 X2:389 Y1:422 Y2:442
+Now!
+
+216
+00:26:40,200 --> 00:26:45,399  X1:113 X2:605 Y1:422 Y2:479
+I don't understand it.
+No equipment. No sign of another team.
+
+217
+00:26:47,600 --> 00:26:50,637  X1:157 X2:561 Y1:422 Y2:447
+Well, that tunnel didn't dig itself.
+
+218
+00:26:52,280 --> 00:26:56,034  X1:127 X2:591 Y1:422 Y2:447
+Move it. Connors, get those lights up.
+
+219
+00:26:56,160 --> 00:26:58,355  X1:261 X2:457 Y1:422 Y2:447
+We have power.
+
+220
+00:27:31,800 --> 00:27:34,234  X1:174 X2:543 Y1:422 Y2:447
+Congratulations, Mr Weyland.
+
+221
+00:27:34,360 --> 00:27:38,399  X1:194 X2:523 Y1:422 Y2:479
+Looks like you'll be
+leaving your mark after all.
+
+222
+00:27:41,000 --> 00:27:43,798  X1:219 X2:499 Y1:422 Y2:447
+Thank you. Thank you.
+
+223
+00:27:43,920 --> 00:27:46,070  X1:224 X2:493 Y1:422 Y2:447
+Thank you all for this.
+
+224
+00:27:47,640 --> 00:27:49,710  X1:243 X2:475 Y1:422 Y2:447
+Let's make history.
+
+225
+00:29:52,520 --> 00:29:54,590  X1:306 X2:412 Y1:422 Y2:442
+Thomas.
+
+226
+00:29:55,560 --> 00:29:57,516  X1:292 X2:425 Y1:422 Y2:442
+What is it?
+
+227
+00:29:58,720 --> 00:30:02,076  X1:174 X2:544 Y1:422 Y2:479
+- I recognise the Egyptian...
+- The second symbol is Aztec.
+
+228
+00:30:02,200 --> 00:30:05,670  X1:098 X2:619 Y1:422 Y2:447
+Pre-conquest era. The third is Cambodian.
+
+229
+00:30:05,800 --> 00:30:09,349  X1:113 X2:604 Y1:422 Y2:479
+Then you were right.
+The pyramid contains all three cultures.
+
+230
+00:30:09,480 --> 00:30:16,033  X1:181 X2:536 Y1:422 Y2:479
+- That's what it looks like.
+- "You may choose to enter."
+
+231
+00:30:16,960 --> 00:30:19,633  X1:162 X2:555 Y1:422 Y2:447
+"Those who choose may enter."
+
+232
+00:30:19,760 --> 00:30:21,955  X1:178 X2:539 Y1:422 Y2:447
+Who taught you to translate?
+
+233
+00:30:22,080 --> 00:30:24,992  X1:175 X2:542 Y1:422 Y2:447
+Funny. Kinda looked like you.
+
+234
+00:30:26,120 --> 00:30:29,396  X1:218 X2:500 Y1:422 Y2:446
+Well, it's not "choose".
+
+235
+00:30:29,520 --> 00:30:31,192  X1:277 X2:440 Y1:422 Y2:442
+It's "chosen".
+
+236
+00:30:31,800 --> 00:30:34,234  X1:144 X2:573 Y1:422 Y2:447
+"Only the chosen ones may enter."
+
+237
+00:30:53,560 --> 00:30:56,996  X1:182 X2:536 Y1:422 Y2:447
+Quinn, is that you out there?
+
+238
+00:31:38,800 --> 00:31:40,358  X1:316 X2:402 Y1:422 Y2:442
+Mikkel.
+
+239
+00:33:19,280 --> 00:33:21,748  X1:259 X2:459 Y1:422 Y2:442
+What is all this?
+
+240
+00:33:21,880 --> 00:33:25,316  X1:170 X2:548 Y1:422 Y2:442
+This is the sacrificial chamber.
+
+241
+00:33:29,000 --> 00:33:31,389  X1:147 X2:571 Y1:422 Y2:447
+Like the Aztecs and the Egyptians.
+
+242
+00:33:31,520 --> 00:33:36,230  X1:190 X2:527 Y1:422 Y2:474
+Whoever built this pyramid
+believed in ritual sacrifice.
+
+243
+00:33:36,360 --> 00:33:40,717  X1:171 X2:546 Y1:422 Y2:479
+This is where the chosen ones
+were offered to the gods.
+
+244
+00:33:49,440 --> 00:33:52,750  X1:118 X2:600 Y1:422 Y2:442
+Those that were chosen would lie here.
+
+245
+00:33:52,880 --> 00:33:55,314  X1:120 X2:598 Y1:422 Y2:447
+They weren't bound or tied in any way.
+
+246
+00:33:55,880 --> 00:33:58,314  X1:196 X2:522 Y1:422 Y2:447
+They went to die willingly.
+
+247
+00:33:58,440 --> 00:34:00,396  X1:254 X2:463 Y1:422 Y2:442
+Men and women.
+
+248
+00:34:02,040 --> 00:34:04,600  X1:180 X2:537 Y1:422 Y2:442
+It was considered an honour.
+
+249
+00:34:05,720 --> 00:34:08,280  X1:284 X2:434 Y1:422 Y2:447
+Lucky them.
+
+250
+00:34:17,840 --> 00:34:22,755  X1:203 X2:515 Y1:422 Y2:479
+"They gave their lives
+so the hunt could begin."
+
+251
+00:34:34,080 --> 00:34:35,832  X1:224 X2:494 Y1:422 Y2:447
+What happened here?
+
+252
+00:34:35,960 --> 00:34:39,350  X1:173 X2:542 Y1:422 Y2:474
+It's common in ritual sacrifice
+to take the heart of the victim.
+
+253
+00:34:39,480 --> 00:34:41,675  X1:289 X2:429 Y1:422 Y2:442
+That's nice.
+
+254
+00:34:41,800 --> 00:34:44,633  X1:150 X2:567 Y1:422 Y2:447
+But that's not where your heart is.
+
+255
+00:34:45,600 --> 00:34:49,559  X1:165 X2:550 Y1:422 Y2:479
+Besides, it looks like the bones
+were bent straight out.
+
+256
+00:34:51,120 --> 00:34:54,078  X1:147 X2:570 Y1:422 Y2:447
+Something broke out of this body.
+
+257
+00:35:44,760 --> 00:35:49,709  X1:179 X2:539 Y1:422 Y2:474
+- What have you found, Max?
+- It's a shaft to another level.
+
+258
+00:35:50,200 --> 00:35:53,272  X1:087 X2:630 Y1:422 Y2:442
+Looks like there's another room down there.
+
+259
+00:36:15,040 --> 00:36:19,556  X1:162 X2:555 Y1:422 Y2:479
+- Let's move to that lower room.
+- We're moving on, everyone.
+
+260
+00:36:19,680 --> 00:36:21,989  X1:291 X2:427 Y1:422 Y2:442
+Ms Woods.
+
+261
+00:36:23,200 --> 00:36:26,795  X1:081 X2:637 Y1:422 Y2:479
+You, stay here. Rousseau, you stay with him.
+Keep a team with you.
+
+262
+00:36:26,920 --> 00:36:28,592  X1:223 X2:495 Y1:422 Y2:447
+Catalogue everything.
+
+263
+00:36:30,280 --> 00:36:31,793  X1:296 X2:422 Y1:422 Y2:442
+Professor.
+
+264
+00:36:50,280 --> 00:36:54,910  X1:175 X2:543 Y1:422 Y2:474
+This should be directly below
+the sacrificial chamber.
+
+265
+00:37:01,920 --> 00:37:03,990  X1:295 X2:423 Y1:422 Y2:442
+Sebastian.
+
+266
+00:37:10,080 --> 00:37:12,719  X1:244 X2:474 Y1:422 Y2:447
+It's a sarcophagus.
+
+267
+00:37:15,120 --> 00:37:17,236  X1:214 X2:503 Y1:422 Y2:447
+This is the Long Count.
+
+268
+00:37:18,680 --> 00:37:20,955  X1:197 X2:521 Y1:422 Y2:442
+This is the Aztec calendar.
+
+269
+00:37:21,080 --> 00:37:24,959  X1:082 X2:636 Y1:422 Y2:446
+And this, it's some kind of combination lock.
+
+270
+00:37:26,600 --> 00:37:28,511  X1:313 X2:405 Y1:422 Y2:447
+"Days."
+
+271
+00:37:29,360 --> 00:37:31,112  X1:297 X2:421 Y1:422 Y2:442
+"Months."
+
+272
+00:37:31,240 --> 00:37:33,196  X1:309 X2:409 Y1:422 Y2:442
+"Years."
+
+273
+00:37:34,040 --> 00:37:36,190  X1:227 X2:491 Y1:422 Y2:442
+The dials are set for...
+
+274
+00:37:41,000 --> 00:37:43,195  X1:328 X2:389 Y1:422 Y2:442
+1904.
+
+275
+00:37:43,320 --> 00:37:45,788  X1:128 X2:589 Y1:422 Y2:447
+Someone opened this 100 years ago?
+
+276
+00:37:46,480 --> 00:37:49,233  X1:223 X2:495 Y1:422 Y2:474
+- What's today's date?
+- October 10.
+
+277
+00:37:49,360 --> 00:37:51,920  X1:293 X2:424 Y1:422 Y2:442
+10/10/2004.
+
+278
+00:37:54,240 --> 00:37:58,597  X1:146 X2:571 Y1:422 Y2:474
+- Are you sure this is gonna work?
+- I don't know.
+
+279
+00:38:11,520 --> 00:38:13,715  X1:306 X2:411 Y1:422 Y2:447
+Back up!
+
+280
+00:38:33,640 --> 00:38:36,154  X1:163 X2:555 Y1:422 Y2:447
+Oh, my God. Take a look at this.
+
+281
+00:39:01,120 --> 00:39:04,396  X1:196 X2:522 Y1:422 Y2:474
+- Any idea what these are?
+- No.
+
+282
+00:39:04,520 --> 00:39:06,715  X1:318 X2:399 Y1:422 Y2:474
+- You?
+- No.
+
+283
+00:39:06,840 --> 00:39:10,799  X1:101 X2:616 Y1:422 Y2:479
+- It's a good thing we brought the experts.
+- Well, yeah. It is a good thing.
+
+284
+00:39:10,920 --> 00:39:14,276  X1:216 X2:501 Y1:422 Y2:474
+Cos this is like finding
+Moses' DVD collection.
+
+285
+00:39:19,720 --> 00:39:21,472  X1:297 X2:421 Y1:422 Y2:447
+Weyland?
+
+286
+00:39:24,000 --> 00:39:26,560  X1:180 X2:537 Y1:422 Y2:442
+A little too much excitement.
+
+287
+00:39:28,520 --> 00:39:30,317  X1:119 X2:598 Y1:422 Y2:447
+We've been out long enough for today.
+
+288
+00:39:30,440 --> 00:39:34,718  X1:079 X2:637 Y1:422 Y2:479
+We'll set up base camp at the whaling station
+and get back at it tomorrow morning.
+
+289
+00:39:34,840 --> 00:39:38,799  X1:111 X2:607 Y1:422 Y2:479
+Well, you can go back to the base camp,
+Ms Woods, but we're staying here.
+
+290
+00:39:38,920 --> 00:39:42,435  X1:182 X2:536 Y1:422 Y2:479
+No. You wanted to leave
+without proper prep. We did.
+
+291
+00:39:42,560 --> 00:39:47,839  X1:117 X2:601 Y1:422 Y2:479
+You wanted to be the first here. We are.
+You've claimed the find. It's yours.
+
+292
+00:39:47,960 --> 00:39:51,839  X1:192 X2:525 Y1:422 Y2:479
+Now, we move as a team,
+and we're done for the day.
+
+293
+00:39:51,960 --> 00:39:54,076  X1:269 X2:449 Y1:422 Y2:442
+You heard her.
+
+294
+00:39:54,920 --> 00:39:57,480  X1:134 X2:584 Y1:422 Y2:474
+- What do you wanna do with these?
+- Take them.
+
+295
+00:39:57,600 --> 00:39:59,636  X1:130 X2:588 Y1:422 Y2:442
+We'll run further tests on the surface.
+
+296
+00:39:59,760 --> 00:40:02,433  X1:200 X2:518 Y1:422 Y2:442
+No. No! Don't touch them.
+
+297
+00:40:17,280 --> 00:40:20,192  X1:284 X2:432 Y1:422 Y2:474
+- Watch out!
+- The doors!
+
+298
+00:40:20,320 --> 00:40:22,436  X1:300 X2:417 Y1:422 Y2:442
+The door!
+
+299
+00:40:41,000 --> 00:40:42,797  X1:295 X2:422 Y1:422 Y2:474
+- You OK?
+- Yeah.
+
+300
+00:40:43,280 --> 00:40:47,432  X1:183 X2:533 Y1:422 Y2:474
+Slab's gotta weigh two tons.
+We'll never move it.
+
+301
+00:41:27,120 --> 00:41:29,759  X1:111 X2:606 Y1:422 Y2:447
+What did you say this room was called?
+
+302
+00:41:30,640 --> 00:41:33,029  X1:236 X2:481 Y1:422 Y2:442
+Sacrificial chamber.
+
+303
+00:41:46,360 --> 00:41:48,828  X1:244 X2:474 Y1:422 Y2:479
+- Rousseau.
+- Tommy, come in.
+
+304
+00:41:48,960 --> 00:41:50,598  X1:227 X2:490 Y1:422 Y2:474
+- Come in, Rousseau.
+- Come in.
+
+305
+00:41:50,720 --> 00:41:54,759  X1:101 X2:617 Y1:422 Y2:479
+- Is there anything you didn't tell me?
+- Nothing. Your guess is as good as mine.
+
+306
+00:41:54,880 --> 00:41:56,996  X1:148 X2:569 Y1:422 Y2:447
+Whatever it is, we're not prepared.
+
+307
+00:41:57,120 --> 00:42:01,352  X1:099 X2:618 Y1:422 Y2:479
+We're gonna round up the rest of the team
+and get to the surface. Let's move!
+
+308
+00:42:04,200 --> 00:42:08,478  X1:216 X2:502 Y1:422 Y2:479
+- What are you doing?
+- My job. Yours is over.
+
+309
+00:42:08,600 --> 00:42:11,831  X1:174 X2:543 Y1:422 Y2:479
+My job is over when everyone
+is back on the boat safely.
+
+310
+00:42:11,960 --> 00:42:15,111  X1:119 X2:599 Y1:422 Y2:447
+And that gun doesn't change anything.
+
+311
+00:42:28,400 --> 00:42:32,871  X1:075 X2:643 Y1:422 Y2:479
+This bearing should take us back to the
+entrance. We'll regroup at the whaling station.
+
+312
+00:42:33,000 --> 00:42:35,719  X1:153 X2:564 Y1:422 Y2:442
+What about Thomas? Rousseau?
+
+313
+00:42:35,840 --> 00:42:38,195  X1:164 X2:554 Y1:422 Y2:474
+- We'll find them on the way up.
+- Max?
+
+314
+00:42:38,320 --> 00:42:40,675  X1:142 X2:575 Y1:422 Y2:446
+Stone, Verheiden. Cover our backs.
+
+315
+00:42:40,800 --> 00:42:44,156  X1:122 X2:595 Y1:422 Y2:474
+The heat bloom your satellite detected
+makes more sense now.
+
+316
+00:42:44,280 --> 00:42:46,032  X1:235 X2:483 Y1:422 Y2:447
+What do you mean?
+
+317
+00:42:46,160 --> 00:42:49,357  X1:179 X2:537 Y1:422 Y2:479
+A building this sophisticated
+requires an energy source.
+
+318
+00:42:49,480 --> 00:42:54,474  X1:103 X2:612 Y1:422 Y2:479
+I think that's what your satellite detected.
+A power plant for this pyramid firing up.
+
+319
+00:42:54,600 --> 00:42:57,433  X1:216 X2:501 Y1:422 Y2:479
+- Preparing.
+- Preparing? For what?
+
+320
+00:42:57,560 --> 00:42:59,551  X1:284 X2:434 Y1:422 Y2:442
+Gentlemen?
+
+321
+00:44:09,480 --> 00:44:11,436  X1:288 X2:429 Y1:422 Y2:447
+Keep close.
+
+322
+00:44:22,440 --> 00:44:26,911  X1:117 X2:600 Y1:422 Y2:474
+- Recognise what's on their shoulders?
+- Yeah.
+
+323
+00:44:29,360 --> 00:44:33,399  X1:167 X2:551 Y1:422 Y2:479
+- We worshipped these things?
+- According to this, we did.
+
+324
+00:44:33,520 --> 00:44:39,390  X1:090 X2:627 Y1:422 Y2:479
+And the artefacts you removed from
+the sarcophagus seem to be their weapons.
+
+325
+00:44:42,360 --> 00:44:47,195  X1:117 X2:601 Y1:422 Y2:479
+Let's keep moving.
+Only another 200 yards to the entrance.
+
+326
+00:45:06,040 --> 00:45:08,156  X1:289 X2:429 Y1:422 Y2:442
+Take cover.
+
+327
+00:45:08,280 --> 00:45:09,759  X1:262 X2:456 Y1:422 Y2:442
+Where's Stone?
+
+328
+00:45:13,040 --> 00:45:14,632  X1:319 X2:397 Y1:422 Y2:442
+Stone!
+
+329
+00:45:33,840 --> 00:45:36,195  X1:179 X2:539 Y1:422 Y2:447
+The pyramid's shifting again.
+
+330
+00:45:43,520 --> 00:45:46,080  X1:169 X2:549 Y1:422 Y2:447
+The doors are closing. Get out.
+
+331
+00:45:48,280 --> 00:45:49,315  X1:300 X2:418 Y1:422 Y2:442
+Come on.
+
+332
+00:45:49,440 --> 00:45:50,668  X1:280 X2:437 Y1:422 Y2:447
+OK. Let's go.
+
+333
+00:45:50,800 --> 00:45:52,677  X1:251 X2:466 Y1:422 Y2:447
+Let's go. Let's go.
+
+334
+00:45:54,040 --> 00:45:55,598  X1:262 X2:455 Y1:422 Y2:447
+Hey! Verheiden!
+
+335
+00:45:55,720 --> 00:45:56,869  X1:292 X2:424 Y1:422 Y2:442
+Verheiden!
+
+336
+00:45:57,520 --> 00:45:59,715  X1:292 X2:424 Y1:422 Y2:442
+Verheiden!
+
+337
+00:46:00,200 --> 00:46:01,918  X1:288 X2:428 Y1:422 Y2:447
+Somebody!
+
+338
+00:46:02,040 --> 00:46:04,190  X1:274 X2:443 Y1:422 Y2:447
+Run! Let's go!
+
+339
+00:46:04,320 --> 00:46:05,799  X1:338 X2:378 Y1:422 Y2:442
+No!
+
+340
+00:46:05,920 --> 00:46:07,831  X1:308 X2:409 Y1:422 Y2:447
+Quickly!
+
+341
+00:46:07,960 --> 00:46:11,111  X1:313 X2:403 Y1:422 Y2:442
+No! No!
+
+342
+00:46:40,400 --> 00:46:42,960  X1:216 X2:502 Y1:422 Y2:447
+Hey! Can you hear me?
+
+343
+00:46:46,920 --> 00:46:49,434  X1:180 X2:538 Y1:422 Y2:447
+It's Connors! Where are you?
+
+344
+00:47:11,520 --> 00:47:14,637  X1:132 X2:586 Y1:422 Y2:447
+We're never getting out of this place.
+
+345
+00:47:15,400 --> 00:47:17,470  X1:189 X2:528 Y1:422 Y2:447
+Have you got any children?
+
+346
+00:47:18,280 --> 00:47:20,510  X1:238 X2:480 Y1:422 Y2:479
+- Got a son.
+- Yeah, I've got two.
+
+347
+00:47:20,640 --> 00:47:23,916  X1:161 X2:555 Y1:422 Y2:479
+That means that we do not have
+the luxury of quitting.
+
+348
+00:47:24,040 --> 00:47:26,600  X1:164 X2:554 Y1:422 Y2:447
+We're gonna make it outta here.
+
+349
+00:47:27,560 --> 00:47:32,395  X1:135 X2:581 Y1:422 Y2:479
+We're surviving this
+if I have to carry you the whole way.
+
+350
+00:47:38,120 --> 00:47:40,509  X1:171 X2:546 Y1:422 Y2:447
+There's no way out back there.
+
+351
+00:47:41,880 --> 00:47:44,952  X1:267 X2:450 Y1:422 Y2:479
+- What's that?
+- Just a theory.
+
+352
+00:47:45,080 --> 00:47:49,153  X1:167 X2:550 Y1:422 Y2:479
+The Aztec calendar was metric.
+Based on multiples of ten.
+
+353
+00:47:50,440 --> 00:47:54,797  X1:163 X2:554 Y1:422 Y2:479
+I'm guessing the pyramid
+reconfigures every ten minutes.
+
+354
+00:48:16,000 --> 00:48:18,753  X1:238 X2:479 Y1:422 Y2:447
+Let's stick together.
+
+355
+00:48:22,600 --> 00:48:24,352  X1:301 X2:416 Y1:422 Y2:447
+Weyland.
+
+356
+00:48:29,040 --> 00:48:34,194  X1:109 X2:608 Y1:422 Y2:442
+It would seem that we are rats in a maze.
+
+357
+00:48:37,600 --> 00:48:39,079  X1:322 X2:396 Y1:422 Y2:447
+Sorry.
+
+358
+00:49:15,320 --> 00:49:17,754  X1:237 X2:480 Y1:422 Y2:442
+Connors? Connors!
+
+359
+00:49:31,920 --> 00:49:34,229  X1:214 X2:503 Y1:422 Y2:442
+Verheiden? Verheiden?
+
+360
+00:49:34,360 --> 00:49:37,511  X1:176 X2:540 Y1:422 Y2:474
+- Oh, God.
+- Dr Miller! Get me outta here!
+
+361
+00:49:37,640 --> 00:49:41,235  X1:180 X2:535 Y1:422 Y2:479
+It's OK. I'm gonna find a way
+to get down to you. OK?
+
+362
+00:49:44,680 --> 00:49:45,829  X1:292 X2:424 Y1:422 Y2:442
+Verheiden!
+
+363
+00:49:45,960 --> 00:49:47,712  X1:338 X2:378 Y1:422 Y2:442
+No!
+
+364
+00:50:06,520 --> 00:50:10,832  X1:208 X2:511 Y1:422 Y2:479
+You want a piece of me?
+You ugly son of a bitch!
+
+365
+00:50:22,160 --> 00:50:23,639  X1:305 X2:413 Y1:422 Y2:446
+Oh, God.
+
+366
+00:50:47,480 --> 00:50:48,879  X1:301 X2:416 Y1:422 Y2:447
+Weyland.
+
+367
+00:50:49,000 --> 00:50:52,117  X1:264 X2:454 Y1:422 Y2:478
+- You OK?
+- Yeah, I'm fine.
+
+368
+00:50:54,280 --> 00:50:56,794  X1:124 X2:593 Y1:422 Y2:447
+Leave it. They can only slow us down.
+
+369
+00:50:56,920 --> 00:51:00,708  X1:194 X2:524 Y1:422 Y2:479
+Too much has been lost
+to leave here with nothing.
+
+370
+00:51:02,800 --> 00:51:04,756  X1:277 X2:441 Y1:422 Y2:442
+Give it to me.
+
+371
+00:51:21,640 --> 00:51:24,518  X1:331 X2:387 Y1:422 Y2:442
+Max.
+
+372
+00:51:27,760 --> 00:51:28,829  X1:307 X2:410 Y1:422 Y2:442
+Hold on.
+
+373
+00:51:28,960 --> 00:51:31,030  X1:301 X2:416 Y1:422 Y2:442
+Look out!
+
+374
+00:53:02,920 --> 00:53:05,480  X1:144 X2:574 Y1:422 Y2:447
+Come on. We have to get Weyland.
+
+375
+00:53:12,960 --> 00:53:14,916  X1:241 X2:477 Y1:422 Y2:447
+Weyland, come on.
+
+376
+00:55:47,160 --> 00:55:49,799  X1:243 X2:475 Y1:422 Y2:479
+- What were they?
+- You're the expert.
+
+377
+00:55:49,920 --> 00:55:52,673  X1:164 X2:553 Y1:422 Y2:447
+I've got to stop. I've got to stop.
+
+378
+00:55:55,440 --> 00:55:58,079  X1:222 X2:496 Y1:422 Y2:447
+Take it easy. Weyland.
+
+379
+00:55:58,200 --> 00:55:59,792  X1:288 X2:430 Y1:422 Y2:442
+Look at me.
+
+380
+00:55:59,920 --> 00:56:02,354  X1:116 X2:602 Y1:422 Y2:447
+You have to slow your breathing down.
+
+381
+00:56:02,480 --> 00:56:04,835  X1:227 X2:491 Y1:422 Y2:447
+Slow, steady breaths.
+
+382
+00:56:10,120 --> 00:56:12,395  X1:233 X2:484 Y1:422 Y2:479
+- Weyland, come on.
+- I can hardly stand.
+
+383
+00:56:12,520 --> 00:56:14,715  X1:134 X2:584 Y1:422 Y2:447
+I'm not gonna let you die down here.
+
+384
+00:56:14,840 --> 00:56:17,149  X1:292 X2:426 Y1:422 Y2:442
+You didn't.
+
+385
+00:56:17,280 --> 00:56:21,159  X1:095 X2:622 Y1:422 Y2:479
+- There's another one. We have to go. Now!
+- Weyland.
+
+386
+00:56:21,280 --> 00:56:23,999  X1:237 X2:481 Y1:422 Y2:474
+- Come with us.
+- Get her outta here.
+
+387
+00:56:24,120 --> 00:56:26,509  X1:292 X2:426 Y1:422 Y2:474
+- Now!
+- Come on.
+
+388
+00:56:26,640 --> 00:56:29,108  X1:330 X2:386 Y1:422 Y2:442
+Run!
+
+389
+00:56:55,440 --> 00:56:58,352  X1:188 X2:530 Y1:422 Y2:447
+Don't turn your back on me.
+
+390
+00:57:25,320 --> 00:57:26,548  X1:327 X2:390 Y1:422 Y2:442
+Wait.
+
+391
+00:57:34,800 --> 00:57:36,153  X1:300 X2:417 Y1:422 Y2:447
+This way.
+
+392
+00:57:41,880 --> 00:57:44,713  X1:312 X2:405 Y1:422 Y2:442
+Go! Go!
+
+393
+00:59:01,080 --> 00:59:03,036  X1:264 X2:454 Y1:422 Y2:442
+Look over here.
+
+394
+00:59:29,800 --> 00:59:32,872  X1:217 X2:501 Y1:422 Y2:474
+- He's marking himself.
+- What?
+
+395
+00:59:33,000 --> 00:59:37,312  X1:105 X2:613 Y1:422 Y2:474
+Ancient warriors would mark themselves
+with the blood of their kill.
+
+396
+00:59:37,440 --> 00:59:39,590  X1:233 X2:485 Y1:422 Y2:447
+It's a rite of passage.
+
+397
+00:59:44,080 --> 00:59:46,640  X1:171 X2:547 Y1:422 Y2:447
+This is starting to make sense.
+
+398
+00:59:55,080 --> 00:59:58,993  X1:189 X2:529 Y1:422 Y2:474
+The hieroglyphs are
+a little difficult to make out.
+
+399
+00:59:59,120 --> 01:00:01,714  X1:212 X2:505 Y1:422 Y2:447
+But the story is all here.
+
+400
+01:00:05,240 --> 01:00:10,633  X1:112 X2:606 Y1:422 Y2:479
+Thousands of years ago,
+these hunters found a backwater planet.
+
+401
+01:00:17,360 --> 01:00:22,639  X1:150 X2:566 Y1:422 Y2:479
+They taught humans how to build
+and were worshipped as gods.
+
+402
+01:00:27,080 --> 01:00:30,709  X1:088 X2:630 Y1:422 Y2:447
+Every hundred years the gods would return.
+
+403
+01:00:33,200 --> 01:00:37,637  X1:176 X2:542 Y1:422 Y2:479
+And when they did,
+they would expect a sacrifice.
+
+404
+01:00:38,280 --> 01:00:41,750  X1:075 X2:642 Y1:422 Y2:447
+Humans were used to breed the ultimate prey.
+
+405
+01:00:50,040 --> 01:00:53,237  X1:203 X2:515 Y1:422 Y2:479
+The hunters would battle
+with these great serpents
+
+406
+01:00:53,360 --> 01:00:57,114  X1:185 X2:532 Y1:422 Y2:479
+to prove themselves worthy
+to carry the mark.
+
+407
+01:01:13,160 --> 01:01:15,435  X1:221 X2:496 Y1:422 Y2:446
+But if the hunters lost,
+
+408
+01:01:15,560 --> 01:01:18,313  X1:151 X2:567 Y1:422 Y2:447
+they made sure nothing survived.
+
+409
+01:01:22,720 --> 01:01:26,474  X1:098 X2:620 Y1:422 Y2:447
+An entire civilisation wiped out overnight.
+
+410
+01:01:29,160 --> 01:01:30,309  X1:332 X2:385 Y1:422 Y2:442
+So...
+
+411
+01:01:31,040 --> 01:01:36,592  X1:093 X2:624 Y1:422 Y2:479
+the humanoids, the hunters -
+they brought those creatures here to hunt?
+
+412
+01:01:36,720 --> 01:01:38,711  X1:192 X2:525 Y1:422 Y2:447
+And they use us like cattle.
+
+413
+01:01:39,520 --> 01:01:42,318  X1:157 X2:561 Y1:422 Y2:442
+We're hosts for them to breed in.
+
+414
+01:01:42,440 --> 01:01:45,750  X1:180 X2:535 Y1:422 Y2:474
+The heat bloom was the sign
+to lure us down here.
+
+415
+01:01:45,880 --> 01:01:48,519  X1:185 X2:532 Y1:422 Y2:447
+This whole thing was a trap.
+
+416
+01:01:49,400 --> 01:01:52,073  X1:140 X2:577 Y1:422 Y2:446
+Without us, there could be no hunt.
+
+417
+01:02:20,000 --> 01:02:21,479  X1:330 X2:386 Y1:422 Y2:442
+Shit!
+
+418
+01:02:21,600 --> 01:02:23,511  X1:292 X2:424 Y1:422 Y2:442
+Verheiden!
+
+419
+01:03:02,640 --> 01:03:03,868  X1:307 X2:410 Y1:422 Y2:446
+Oh, shit.
+
+420
+01:03:08,560 --> 01:03:11,711  X1:145 X2:572 Y1:422 Y2:447
+When that door opens, we're dead.
+
+421
+01:03:11,840 --> 01:03:14,718  X1:195 X2:523 Y1:422 Y2:479
+- Not if we set things right.
+- What do you mean?
+
+422
+01:03:14,840 --> 01:03:17,798  X1:180 X2:538 Y1:422 Y2:447
+This pyramid is like a prison.
+
+423
+01:03:18,840 --> 01:03:22,435  X1:114 X2:602 Y1:422 Y2:479
+We took the guards' guns,
+and now the prisoners are running free.
+
+424
+01:03:22,560 --> 01:03:25,916  X1:083 X2:634 Y1:422 Y2:447
+To restore order, the guards need their guns.
+
+425
+01:03:27,480 --> 01:03:32,235  X1:104 X2:613 Y1:422 Y2:479
+When that door opens,
+we're gonna give that thing his gun back.
+
+426
+01:03:32,360 --> 01:03:36,956  X1:084 X2:633 Y1:422 Y2:479
+Are you crazy? During a big-game hunt, the
+animals being hunted don't arm the hunters.
+
+427
+01:03:37,080 --> 01:03:40,390  X1:183 X2:534 Y1:422 Y2:474
+They're not hunting us.
+We're in the middle of a war.
+
+428
+01:03:40,520 --> 01:03:44,069  X1:213 X2:505 Y1:422 Y2:474
+- It's time to pick a side.
+- We are on our side.
+
+429
+01:03:45,040 --> 01:03:50,592  X1:127 X2:590 Y1:422 Y2:479
+We have to consider the possibility
+that we might not make it out of here.
+
+430
+01:03:51,640 --> 01:03:56,077  X1:119 X2:598 Y1:422 Y2:479
+But we have to make sure
+those serpents don't reach the surface.
+
+431
+01:03:56,680 --> 01:03:58,955  X1:242 X2:476 Y1:422 Y2:447
+Because if they do,
+
+432
+01:03:59,520 --> 01:04:01,954  X1:153 X2:564 Y1:422 Y2:447
+everything everywhere could die.
+
+433
+01:04:05,720 --> 01:04:07,676  X1:197 X2:521 Y1:422 Y2:447
+The enemy of my enemy...
+
+434
+01:04:08,800 --> 01:04:10,791  X1:282 X2:435 Y1:422 Y2:447
+is my friend.
+
+435
+01:04:32,920 --> 01:04:35,275  X1:215 X2:503 Y1:422 Y2:447
+Let's go find our friend.
+
+436
+01:04:44,760 --> 01:04:47,320  X1:086 X2:631 Y1:422 Y2:447
+How do you say "scared shitless" in Italian?
+
+437
+01:04:47,440 --> 01:04:52,195  X1:102 X2:616 Y1:422 Y2:479
+Non vedo I'ora di uscire con te da questa
+piramide perché mi sto cagando addosso.
+
+438
+01:04:52,320 --> 01:04:54,629  X1:280 X2:438 Y1:422 Y2:442
+More or less.
+
+439
+01:05:15,680 --> 01:05:17,193  X1:322 X2:395 Y1:422 Y2:442
+Move!
+
+440
+01:05:39,760 --> 01:05:41,273  X1:334 X2:383 Y1:422 Y2:442
+Lex.
+
+441
+01:05:43,360 --> 01:05:44,759  X1:334 X2:383 Y1:422 Y2:442
+Lex.
+
+442
+01:05:44,880 --> 01:05:46,313  X1:307 X2:410 Y1:422 Y2:442
+Hold on.
+
+443
+01:05:46,840 --> 01:05:48,478  X1:271 X2:447 Y1:422 Y2:446
+Come on, Lex.
+
+444
+01:05:54,480 --> 01:05:55,708  X1:315 X2:403 Y1:422 Y2:446
+Oh, no.
+
+445
+01:07:46,400 --> 01:07:48,755  X1:211 X2:506 Y1:422 Y2:446
+Wait. Wait. Please, wait.
+
+446
+01:07:52,600 --> 01:07:55,637  X1:126 X2:591 Y1:422 Y2:447
+The enemy of my enemy is my friend.
+
+447
+01:07:58,080 --> 01:08:00,310  X1:126 X2:591 Y1:422 Y2:447
+The enemy of my enemy is my friend.
+
+448
+01:09:56,200 --> 01:10:00,432  X1:158 X2:560 Y1:422 Y2:479
+I'm coming with you.
+You hear me, you ugly creature?
+
+449
+01:10:45,240 --> 01:10:47,356  X1:230 X2:488 Y1:422 Y2:447
+What are you doing?
+
+450
+01:12:51,760 --> 01:12:53,751  X1:320 X2:396 Y1:422 Y2:442
+Miller!
+
+451
+01:13:02,000 --> 01:13:03,752  X1:320 X2:396 Y1:422 Y2:442
+Miller!
+
+452
+01:13:51,960 --> 01:13:53,188  X1:295 X2:423 Y1:422 Y2:442
+Sebastian.
+
+453
+01:13:54,160 --> 01:13:56,799  X1:161 X2:556 Y1:422 Y2:479
+- Help me, Lex.
+- I'm gonna get you out of there.
+
+454
+01:13:56,920 --> 01:14:00,390  X1:170 X2:547 Y1:422 Y2:479
+- It's too late. It's inside me.
+- I'm gonna get you outta here.
+
+455
+01:14:00,520 --> 01:14:02,670  X1:283 X2:435 Y1:422 Y2:474
+- You can't...
+- No!
+
+456
+01:14:02,800 --> 01:14:05,598  X1:264 X2:452 Y1:422 Y2:442
+No. No. No! No!
+
+457
+01:14:05,720 --> 01:14:07,676  X1:245 X2:472 Y1:422 Y2:447
+I have to help him.
+
+458
+01:14:10,880 --> 01:14:12,518  X1:334 X2:383 Y1:422 Y2:442
+Lex!
+
+459
+01:14:12,640 --> 01:14:15,108  X1:165 X2:552 Y1:422 Y2:447
+They mustn't reach the surface.
+
+460
+01:14:15,360 --> 01:14:18,079  X1:165 X2:552 Y1:422 Y2:447
+They mustn't reach the surface.
+
+461
+01:14:18,200 --> 01:14:20,760  X1:315 X2:402 Y1:422 Y2:442
+I know.
+
+462
+01:14:28,360 --> 01:14:30,316  X1:326 X2:390 Y1:422 Y2:442
+Do it!
+
+463
+01:14:33,920 --> 01:14:35,876  X1:239 X2:478 Y1:422 Y2:447
+I'm sorry. I'm sorry.
+
+464
+01:15:52,480 --> 01:15:54,710  X1:288 X2:430 Y1:422 Y2:442
+It's a bomb.
+
+465
+01:15:54,840 --> 01:15:56,910  X1:085 X2:632 Y1:422 Y2:447
+Well, I hope it kills every fucking one of 'em.
+
+466
+01:16:40,800 --> 01:16:43,633  X1:196 X2:522 Y1:422 Y2:447
+You are one ugly mother...
+
+467
+01:21:58,080 --> 01:21:59,638  X1:321 X2:396 Y1:422 Y2:442
+Got it!
+
+468
+01:37:44,280 --> 01:37:47,511  X1:134 X2:584 Y1:422 Y2:447
+Visiontext Subtitles: Margaret Burke
+
+469
+01:37:54,200 --> 01:37:56,156  X1:302 X2:415 Y1:422 Y2:442
+ENGLISH
+
