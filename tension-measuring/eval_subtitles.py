@@ -15,7 +15,7 @@ def parse_subtitle(filename):
             sub = [x.strip() for x in sub]
             number = sub[0].decode("UTF-8")
             start_end = sub[1].decode("UTF-8")
-            content = sub[1].decode("UTF-8")
+            content = sub[2]
 
             if len(start_end.split(' --> ')) == 2:
                 start, end = start_end.split(' --> ')
