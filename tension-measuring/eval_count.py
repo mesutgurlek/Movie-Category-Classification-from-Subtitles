@@ -3,8 +3,9 @@ import datetime as dt
 from datetime import timedelta
 import matplotlib.pyplot as plt
 
-subs = parse_subtitle("/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles/Action/The Dark Knight Rises (IMPAIRED)")
-
+filename = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles/Romance/Twilight (IMPAIRED).srt"
+subs = parse_subtitle(filename)
+movie_name = filename.split('/')[-1]
 
 
 def str_to_timedelta(str_tm="02:14:53,085"):
@@ -31,22 +32,25 @@ def count_intervals(subs, minute_interval):
 
         return counts
 
+def plot_counts(counts, interval):
 
-counts = count_intervals(subs, 5)
+    plt.figure(figsize=(12, 9), dpi=80)
 
-plt.figure(figsize=(12, 9), dpi=80)
+    # def plot_counts(counts):
+    plt.plot(range(0, len(counts)*interval, interval), counts, label='Counts')
+    # print(indices, " ", dialog_per_minutes)
+    # if cnt > 0:
+    #     print(sum/cnt)
+    plt.interactive(False)
 
-# def plot_counts(counts):
-plt.plot(range(len(counts)), counts, label='Counts')
-# print(indices, " ", dialog_per_minutes)
-# if cnt > 0:
-#     print(sum/cnt)
-plt.interactive(False)
+    plt.xlabel('Minutes')
+    plt.ylabel('Dialog Count')
+    # plt.legend(loc='upper right', numpoints = 1)
+    plt.title("Dialog Tension of %s" % movie_name)
+    # plt.show(block=True)
+    plt.savefig('%s.png' % movie_name)
+    print(counts)
 
-plt.xlabel('Movies')
-plt.ylabel('Dialog per Minute')
-plt.legend(loc='upper right', numpoints = 1)
-plt.title("Dialog per Minute / Movie Genres")
-plt.show(block=True)
-plt.savefig('foo.png')
-print(counts)
+interval = 5
+counts = count_intervals(subs, interval)
+plot_counts(counts, interval)
