@@ -94,7 +94,7 @@ class SubtitlesSpider(scrapy.Spider):
             else:
                 subtitle = found_subtitles[0] # for now get the first subtitle
 
-            filename = "%s/%s/%s %s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label)
+            filename = "%s/%s/%s %s.%s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label, subtitle['SubFormat'])
 
             # if this subtitle has already been downloaded before don't append it to array of subtitles to be downloadec
             if not os.path.isfile(filename):
