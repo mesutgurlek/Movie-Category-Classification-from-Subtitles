@@ -5,7 +5,7 @@ import os
 import xmlrpc.client as xrpc
 
 # subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
-subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
+subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
 imdb_page_limit = 3
 
@@ -22,8 +22,7 @@ class SubtitlesSpider(scrapy.Spider):
     name = "subtitles"
     # start_urls = ["http://www.opensubtitles.org/en/search/sublanguageid-all/searchonlymovies-on/genre-action/movielanguage-english/movieimdbratingsign-5/movieimdbrating-7/movieyearsign-5/movieyear-1990/offset-0"]
 
-    # start_urls = [ url_template % (genre) for genre in categories]
-    start_urls = [ url_template % ('romance') ]
+    start_urls = [ url_template % (genre) for genre in categories]
 
     def parse(self, response):
         # return self.parse_movies(response)
