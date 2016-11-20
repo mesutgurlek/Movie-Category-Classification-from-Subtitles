@@ -6,7 +6,7 @@ def parse_subtitle(filename):
     with open(filename) as f:
         res = [list(g) for b,g in groupby(f, lambda x: bool(x.strip())) if b]
 
-    Subtitle = namedtuple('Subtitle', 'number start end content')
+    Subtitle = namedtuple('Subtitle', 'number start end content at_minute')
 
     subs = []
 
@@ -15,8 +15,9 @@ def parse_subtitle(filename):
             sub = [x.strip() for x in sub]
             number, start_end, *content = sub # py3 syntax
             start, end = start_end.split(' --> ')
-            subs.append(Subtitle(number, start, end, content))
+            at_minute = int(start[:2]) * 60 + int(start[3:5])
+            subs.append(Subtitle(number, start, end, content, at_minute))
 
     return subs
 
-subs = parse_subtitle("castaway.srt")
+# subs = parse_subtitle("castaway.srt")
