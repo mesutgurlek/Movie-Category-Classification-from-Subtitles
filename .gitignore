@@ -4,3 +4,4 @@ scrapy_project/subtitle_scraper/spiders/__pycache__/
 tension-measuring/.idea/
 ipython/.ipynb_checkpoints/
 !.gitignore
+.idea/
