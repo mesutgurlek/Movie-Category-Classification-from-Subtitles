@@ -27,6 +27,8 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
         cnt += 1
         count_movie += 1
         movie_time_minute = 60*int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
+        if movie_time_minute <= 0:
+            continue
         word_per_minute = word_count/movie_time_minute
 
         if min_wpm > word_per_minute:
@@ -43,7 +45,7 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
     if cnt > 0:
         print(sum/cnt)
 
-plt.axis([0, count_movie+10, min_wpm - 5, max_wpm +5])
+plt.axis([0, count_movie+10, 0, 150])
 
 plt.xlabel('Movies')
 plt.ylabel('Word per Minute')

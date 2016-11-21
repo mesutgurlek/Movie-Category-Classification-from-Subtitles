@@ -34,6 +34,8 @@ for dirpath, dirnames, filenames in os.walk("../Training"):
         cnt += 1
         count_movie += 1
         movie_time_minute = 60 * int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
+        if movie_time_minute <= 0:
+            continue
         word_per_minute = word_count / movie_time_minute
 
         if min_wpm > word_per_minute:
@@ -51,7 +53,7 @@ for dirpath, dirnames, filenames in os.walk("../Training"):
         values.append([dialog_per_minute, word_per_minute])
         labels.append(dirname)
 
-neigh = KNeighborsClassifier(n_neighbors=1)
+neigh = KNeighborsClassifier(n_neighbors=19)
 neigh.fit(np.array(values, dtype='float_'), labels)
 
 
@@ -77,6 +79,8 @@ for dirpath, dirnames, filenames in os.walk("../Test"):
         cnt += 1
         count_movie += 1
         movie_time_minute = 60 * int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
+        if movie_time_minute <= 0:
+            continue
         word_per_minute = word_count / movie_time_minute
 
         if min_wpm > word_per_minute:

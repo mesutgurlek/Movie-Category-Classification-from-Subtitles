@@ -5,12 +5,16 @@ import os
 import xmlrpc.client as xrpc
 
 #subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
-subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
+subtitles_path = "/Users/aeakdogan/hooop/Movie-Category-Classification-from-Subtitles/Subtitles"
+#subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
-imdb_page_limit = 5
+imdb_page_limit = 20
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
-token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+#token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+#token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
+#token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
+token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
 
 print(server.ServerInfo())
