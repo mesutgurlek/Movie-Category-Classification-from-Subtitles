@@ -4,16 +4,15 @@ from os import mkdir
 import re
 import codecs
 
-from itertools import groupby
-from collections import namedtuple
-
 
 def filter_hearing_descriptions(line):
     res = re.findall(r'(\[.+\]|\(.+\))', line) # fix the monsters inc case.
-    return res
+    if res:
+        res[0] = re.sub(r'<.*?>', '', res[0])
+    return list(res)
+
 
 def parse(file_path, output_path):
-
     hearing_descriptions = []
     with codecs.open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
         #finds hearing descriptions
@@ -26,7 +25,6 @@ def parse(file_path, output_path):
     if content:
         with open(output_path, 'w') as f:
             f.write(content)
-
 
 def preprocess_subtitles(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)

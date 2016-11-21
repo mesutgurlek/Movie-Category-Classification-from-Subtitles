@@ -5,6 +5,8 @@ from os import path
 from os import mkdir
 from os import listdir
 import codecs
+categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+
 
 def clean_stopword(text):
     stop = set(stopwords.words('english'))
@@ -27,7 +29,6 @@ def plot_data(data):
 def stem_subtitles(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)
     output_path = path.relpath(output_folder)
-    categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
 
     text_dict = {}
     for category in categories:
@@ -43,7 +44,7 @@ def stem_subtitles(input_folder, output_folder):
         except OSError:
             print("Directorty cannot be opened in %s" % output_folder_path)
 
-        impaired = '(IMPAIRED)';
+        impaired = '(IMPAIRED)'
 
         for f in listdir(input_folder_path):
             if impaired in f:
@@ -64,8 +65,16 @@ def stem_subtitles(input_folder, output_folder):
 
 
 category_dict = stem_subtitles(path.relpath("ProcessedSubtitles"), path.relpath("ProcessedSubtitles"))
-cleaned_list = clean_stopword(category_dict['Adventure'])
-#stemmed_data = stemming(cleaned_list)
-plot_data(cleaned_list)
+# for c in categories:
+#     cleaned_list = clean_stopword(category_dict[c])
+#     stemmed_data = stemming(cleaned_list)
+#     plot_data(cleaned_list)
+#     break
+for c in categories:
+    output_file_path = "%s/%s" % (path.relpath("CategoryData"), c)
+    with codecs.open(output_file_path, 'w', encoding='utf-8', errors='ignore') as f:
+        # finds hearing descriptions
+        f.write(category_dict[c])
+
 
 
