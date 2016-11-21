@@ -2,240 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4927328b-5361-45da-b392-1e5b3f95d065" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Action/The Hunger Games (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Action/The Matrix (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Action/The Terminator (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Action/Thor (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Action/V for Vendetta (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Adventure/WALL*E (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Adventure/World War Z (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Adventure/X-Men (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Adventure/X-Men: Days of Future Past (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Adventure/X: First Class (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Comedy/The Wolf of Wall Street (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Comedy/Toy Story (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Comedy/Toy Story 3 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Comedy/Up (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Comedy/Vo stvorici po opici (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Horror/The Ring (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Horror/The Shining (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Horror/The Thing (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Horror/World War Z (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Horror/Zombieland (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Romance/The Perks of Being a Wallflower (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Romance/The Proposal (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Romance/The Terminal (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Romance/Titanic (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/Romance/Twilight (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/War/The Imitation Game (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/War/The Last Samurai (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/War/The Patriot (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/War/The Pianist (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/War/Valkyrie (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/300 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Avatar (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Batman Begins (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Deadpool (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Die Hard (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/District 9 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Gladiator (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Guardians of the Galaxy (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Inception (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Iron Man (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Iron Man 2 .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Iron Man Three (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Kill Bill: Vol. 1 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Mad Max: Fury Road (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Man of Steel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Raiders of the Lost Ark (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Saving Private Ryan (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Spider-Man (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Star Wars: Episode I - The Phantom Menace (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Star Wars: Episode IV - A New Hope (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Star Wars: Episode VI - Return of the Jedi (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Star Wars: The Force Awakens (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Terminator 2: Judgment Day (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Avengers (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Dark Knight (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Dark Knight Rises (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Hunger Games (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Matrix (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/The Terminator (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/Thor (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Action/V for Vendetta (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Aliens (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Avatar (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Avengers: Age of Ultron (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Back to the Future (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Batman Begins (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Captain America: The First Avenger (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Captain America: The Winter Soldier (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Casino Royale (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Deadpool (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Gladiator (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Gravity (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Guardians of the Galaxy (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Harry Potter and the Deathly Hallows: Part 2 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Hlada sa Nemo (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/How to Train Your Dragon (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Inception (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Indiana Jones and the Last Crusade (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Inglourious Basterds (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Interstellar (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Iron Man (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Iron Man 2 .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Iron Man Three (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Jurassic Park (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Mad Max: Fury Road (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Man of Steel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Monsters, Inc. (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Pirates of the Caribbean: At World's End (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Pirati z Karibiku a truhlica mrtveho muza (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Prometheus (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Raiders of the Lost Ark (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Sherlock Holmes (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Shrek (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Skyfall (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Spider-Man (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Trek (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode I - The Phantom Menace (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode II - Attack of the Clones (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode III - Revenge of the Sith (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode IV - A New Hope (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: Episode VI - Return of the Jedi (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/Star Wars: The Force Awakens (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Amazing Spider-Man (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Grand Budapest Hotel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Hobbit: An Unexpected Journey (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Hobbit: The Desolation of Smaug (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Hunger Games (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Hunger Games: Catching Fire (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Incredibles (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Lion King (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Lord of the Rings: The Fellowship of the Ring (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Lord of the Rings: The Return of the King (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Lord of the Rings: The Two Towers (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Adventure/The Martian (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/21 Jump Street (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Amelie .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Back to the Future (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Deadpool (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Forrest Gump (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Frozen (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Groundhog Day (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Hlada sa Nemo (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/How to Train Your Dragon (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Juno .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Kick-Ass (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Kingsman: The Secret Service (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Life Is Beautiful .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Monsters, Inc. (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Ratatouille (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Shrek (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Silver Linings Playbook (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Snatch .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Superbad (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/Ted (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/The Big Lebowski (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/The Grand Budapest Hotel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/The Intouchables (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Comedy/The Truman Show (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/&quot;Stranger Things&quot; Chapter Five: The Flea and the Acrobat (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/&quot;Supernatural&quot; Shadow (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/&quot;The Vampire Diaries&quot; The Murder of One (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/&quot;The Walking Dead&quot; What Lies Ahead (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/1408 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/28 Days Later... (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/28 Weeks Later .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Alien (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Alien3 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Cloverfield (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Constantine (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/From Dusk Till Dawn (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Hellboy .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Hellboy II: The Golden Army (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/I Am Legend (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Interview with the Vampire: The Vampire Chronicles (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Predator (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Psycho (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Saw (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Scream .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Shaun of the Dead (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Sleepy Hollow (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/Sweeney Todd: The Demon Barber of Fleet Street (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/The Cabin in the Woods (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/The Conjuring (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/The Exorcist (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/The Mist (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Horror/The Others (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/(500) Days of Summer (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Amelie .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/American Beauty (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Beauty and the Beast (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Birdman or (The Unexpected Virtue of Ignorance) (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Casablanca (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Cast Away (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Crazy, Stupid, Love. (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Deadpool (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Edward Scissorhands (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Eternal Sunshine of the Spotless Mind (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Groundhog Day (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Her (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/King Kong (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Knocked Up (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Love Actually (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Midnight in Paris (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Mr. &amp; Mrs. Smith .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Pearl Harbor (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Shrek 2 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Silver Linings Playbook (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/Source Code (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/The 40-Year-Old Virgin (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/The Bourne Legacy (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/The Curious Case of Benjamin Button (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/The Great Gatsby (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/Romance/The Notebook .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/&quot;Band of Brothers&quot; Replacements .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/&quot;Vikings&quot; Brother's War (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/300 (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/300: Rise of an Empire (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/American Sniper (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Apocalypse Now (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Atonement (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Black Hawk Down (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Braveheart (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Casablanca (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Downfall .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Enemy at the Gates (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Full Metal Jacket (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Fury (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Gone with the Wind (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Hotel Rwanda .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Inglourious Basterds (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Kingdom of Heaven .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Lawrence of Arabia (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Life Is Beautiful .srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Lincoln (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Lone Survivor (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Pan's Labyrinth (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Pearl Harbor (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Platoon (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/Saving Private Ryan (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/The Deer Hunter (IMPAIRED).srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Training/War/The Hurt Locker (IMPAIRED).srt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tension-measuring/knn_wpm_dpm.py" afterPath="$PROJECT_DIR$/tension-measuring/knn_wpm_dpm.py" />
     </list>
     <ignored path="Movie-Category-Classification-from-Subtitles.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -255,22 +23,12 @@
     <favorites_list name="Movie-Category-Classification-from-Subtitles" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="eval_wpm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tension-measuring/eval_wpm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="knn_wpm_dpm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tension-measuring/knn_wpm_dpm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+            <state relative-caret-position="334">
+              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -278,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eval_dpm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tension-measuring/eval_dpm.py">
+      <file leaf-file-name="eval_wpm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tension-measuring/eval_wpm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="364">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="53" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -341,6 +99,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -443,8 +203,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -456,7 +214,7 @@
       <recent name="$PROJECT_DIR$/tension-measuring" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.eval_frequency">
+  <component name="RunManager" selected="Python.knn_wpm_dpm">
     <configuration default="false" name="eval_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -649,14 +407,17 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.eval_frequency" />
-        <item index="1" class="java.lang.String" itemvalue="Python.knn_wpm_dpm" />
+        <item index="0" class="java.lang.String" itemvalue="Python.knn_wpm_dpm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.eval_frequency" />
         <item index="2" class="java.lang.String" itemvalue="Python.eval_wpm" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -672,7 +433,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.493007" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.48601398" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -680,7 +441,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.506993" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.513986" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -691,6 +452,14 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -724,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,13 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tension-measuring/eval_subtitles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_project/subtitle_scraper/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -785,10 +546,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_project/subtitle_scraper/spiders/subtitles_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tension-measuring/eval_dpm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="330">
           <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tension-measuring/eval_subtitles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -796,23 +571,15 @@
     <entry file="file://$PROJECT_DIR$/tension-measuring/eval_wpm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_project/subtitle_scraper/spiders/subtitles_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="53" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tension-measuring/knn_wpm_dpm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        <state relative-caret-position="334">
+          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
