@@ -1,0 +1,4345 @@
+1
+00:03:06,603 --> 00:03:08,731
+<i>Beg your pardon. Forgot to knock.</i>
+
+2
+00:03:52,816 --> 00:03:56,070
+<i>Ni odnoho vyzdoha! Gdye vashy?</i>
+
+3
+00:03:56,695 --> 00:03:57,992
+<i>I'm alone.</i>
+
+4
+00:04:01,950 --> 00:04:04,078
+<i>Aren't we all?</i>
+
+5
+00:04:05,287 --> 00:04:08,587
+<i>- You're late, 007.
+- I had to stop in the bathroom.</i>
+
+6
+00:04:09,291 --> 00:04:12,761
+<i>- Ready to save the world again?
+- After you, 006.</i>
+
+7
+00:04:17,257 --> 00:04:22,184
+<i>- James... For England.
+- For England, Alec.</i>
+
+8
+00:04:48,079 --> 00:04:49,797
+<i>{bleeping}</i>
+
+9
+00:04:52,125 --> 00:04:54,253
+<i>{Click}</i>
+
+10
+00:05:05,555 --> 00:05:10,061
+<i>- It's too easy.
+- Half of everything is luck, James.</i>
+
+11
+00:05:10,936 --> 00:05:12,904
+<i>And the other half?</i>
+
+12
+00:05:13,230 --> 00:05:14,732
+<i>{alarm}</i>
+
+13
+00:05:15,065 --> 00:05:16,692
+<i>Fate.</i>
+
+14
+00:05:17,400 --> 00:05:20,529
+<i>- Set timers: six minutes.
+- Six minutes. Check.</i>
+
+15
+00:05:48,098 --> 00:05:49,771
+<i>Fire!</i>
+
+16
+00:05:51,977 --> 00:05:55,447
+<i>- Closing time, James! Last call!
+- Buy me a pint.</i>
+
+17
+00:06:12,080 --> 00:06:15,710
+<i>This is Colonel Ourumov!
+Come out with your hands up!</i>
+
+18
+00:06:16,251 --> 00:06:17,594
+<i>How original.</i>
+
+19
+00:06:21,631 --> 00:06:23,975
+<i>Shut the door, Alec! There's a draught!</i>
+
+20
+00:06:27,220 --> 00:06:29,268
+<i>Alec?</i>
+
+21
+00:06:41,902 --> 00:06:45,907
+<i>Move out. Throw down your weapon
+and walk towards me, slowly.</i>
+
+22
+00:06:45,989 --> 00:06:49,835
+<i>- Finish the job, James! Blow them to hell!
+- You have ten seconds.</i>
+
+23
+00:06:52,120 --> 00:06:53,463
+<i>Ten.</i>
+
+24
+00:06:54,205 --> 00:06:56,924
+<i>nine, eight,</i>
+
+25
+00:06:57,584 --> 00:07:00,053
+<i>seven, six,</i>
+
+26
+00:07:01,171 --> 00:07:03,515
+<i>five, four,</i>
+
+27
+00:07:03,924 --> 00:07:06,268
+<i>- three, two...
+- For England, James!</i>
+
+28
+00:07:09,137 --> 00:07:12,516
+<i>Hold your fire! You'll blow the gas tanks!</i>
+
+29
+00:07:14,476 --> 00:07:17,480
+<i>This is your last chance!
+Come out with your hands...</i>
+
+30
+00:07:22,275 --> 00:07:24,323
+<i>Wait!</i>
+
+31
+00:08:05,860 --> 00:08:07,157
+<i>You can't win.</i>
+
+32
+00:08:27,549 --> 00:08:30,473
+<i>{Ourumov} Get out there! Move! Move it!</i>
+
+33
+00:08:44,899 --> 00:08:46,276
+<i>Hold your fire!</i>
+
+34
+00:09:22,437 --> 00:09:24,110
+<i>Wait!</i>
+
+35
+00:10:34,300 --> 00:10:36,428
+<i>{ "GoIdenE ye " by Tina Turner}</i>
+
+36
+00:10:58,700 --> 00:11:02,705
+<i>See reflections on the water</i>
+
+37
+00:11:03,204 --> 00:11:07,459
+<i>More than darkness in the depths</i>
+
+38
+00:11:08,168 --> 00:11:12,014
+<i>See him surface in every shadow</i>
+
+39
+00:11:13,006 --> 00:11:17,011
+<i>On the wind, I feel his breath</i>
+
+40
+00:11:17,343 --> 00:11:21,314
+<i>GoIdenEye, I've found his weakness</i>
+
+41
+00:11:22,307 --> 00:11:26,232
+<i>GoldenE ye, he 'll do what I please</i>
+
+42
+00:11:27,145 --> 00:11:30,524
+<i>GoIdenEye, no time for sweetness</i>
+
+43
+00:11:30,857 --> 00:11:35,829
+<i>But a bitter kiss
+will bring him to his knees</i>
+
+44
+00:11:41,075 --> 00:11:45,125
+<i>See him move
+through smoke and mirrors</i>
+
+45
+00:11:45,580 --> 00:11:49,585
+<i>Feel his presence in the crowd</i>
+
+46
+00:11:50,752 --> 00:11:54,882
+<i>Other girls, they gather around him</i>
+
+47
+00:11:55,006 --> 00:11:58,852
+<i>If I had him, I wouldn't let him out</i>
+
+48
+00:12:00,053 --> 00:12:03,523
+<i>GoIdenE ye, not lace or leather</i>
+
+49
+00:12:04,724 --> 00:12:08,274
+<i>Golden chain, take him to the spot</i>
+
+50
+00:12:09,354 --> 00:12:13,200
+<i>GOIdenEye, I'll show him forever</i>
+
+51
+00:12:13,274 --> 00:12:17,575
+<i>It'll take forever to see what I've got</i>
+
+52
+00:12:19,572 --> 00:12:22,121
+<i>You'll never know</i>
+
+53
+00:12:22,242 --> 00:12:27,749
+<i>Howl watched you
+from the shadows as a child</i>
+
+54
+00:12:28,790 --> 00:12:31,509
+<i>You'll never know</i>
+
+55
+00:12:31,584 --> 00:12:37,262
+<i>How it feels
+to get so close and be denied</i>
+
+56
+00:12:37,882 --> 00:12:41,477
+<i>It's a golden honey trap</i>
+
+57
+00:12:41,594 --> 00:12:45,895
+<i>I've got for you tonight</i>
+
+58
+00:12:46,266 --> 00:12:48,485
+<i>Revenge, it's a kiss</i>
+
+59
+00:12:48,601 --> 00:12:50,774
+<i>This time I won't miss</i>
+
+60
+00:12:51,229 --> 00:12:58,113
+<i>Now I've got you in my sight</i>
+
+61
+00:12:59,070 --> 00:13:03,041
+<i>With a GoIdenEye</i>
+
+62
+00:13:04,200 --> 00:13:08,125
+<i>Golden, GoIdenE ye</i>
+
+63
+00:13:09,080 --> 00:13:12,254
+<i>With a GoIdenEye</i>
+
+64
+00:13:14,002 --> 00:13:17,472
+<i>GoIdenE ye</i>
+
+65
+00:13:40,862 --> 00:13:46,039
+<i>- James, is it necessary to drive so fast?
+- More often than you'd think.</i>
+
+66
+00:13:56,127 --> 00:13:59,973
+<i>I enjoy a spirited ride
+as much as the next girl, but...</i>
+
+67
+00:14:03,885 --> 00:14:06,684
+<i>- Who's that?
+- The next girl.</i>
+
+68
+00:14:26,699 --> 00:14:28,827
+<i>{Bond sounds horn}</i>
+
+69
+00:14:41,714 --> 00:14:43,842
+<i>{woman sounds horn}</i>
+
+70
+00:15:11,077 --> 00:15:13,375
+<i>James, stop this! Stop it!</i>
+
+71
+00:15:13,746 --> 00:15:16,716
+<i>- I know what you're doing.
+- What's that, dear?</i>
+
+72
+00:15:16,874 --> 00:15:20,003
+<i>You are just trying to show off
+the size of your...</i>
+
+73
+00:15:20,086 --> 00:15:22,259
+<i>- Engine?
+- Ego.</i>
+
+74
+00:15:22,380 --> 00:15:26,135
+<i>We're having a pleasant drive
+and you bring psychology into it.</i>
+
+75
+00:15:26,259 --> 00:15:30,605
+<i>- I was just sent here to evaluate you.
+- Let's put that behind us, shall we?</i>
+
+76
+00:16:06,799 --> 00:16:09,143
+<i>Ladies first.</i>
+
+77
+00:16:24,025 --> 00:16:25,993
+<i>James, I want you to stop this car!</i>
+
+78
+00:16:26,068 --> 00:16:28,662
+<i>- Really?
+- Stop this car at once!</i>
+
+79
+00:16:31,491 --> 00:16:34,335
+<i>{tyres screech}</i>
+
+80
+00:16:36,329 --> 00:16:40,084
+<i>As you can see, I have no problem
+with female authority.</i>
+
+81
+00:16:40,166 --> 00:16:41,884
+<i>Huh!</i>
+
+82
+00:16:46,506 --> 00:16:49,476
+<i>James, you're incorrigible.</i>
+
+83
+00:16:49,926 --> 00:16:52,429
+<i>What am I going to do with you?</i>
+
+84
+00:16:52,637 --> 00:16:55,937
+<i>Let's toast your evaluation, shall we?</i>
+
+85
+00:17:01,187 --> 00:17:04,441
+<i>{Bond} A very thorough evaluation.</i>
+
+86
+00:17:04,524 --> 00:17:06,026
+<i>{woman giggles}</i>
+
+87
+00:17:27,380 --> 00:17:30,304
+<i>Bonsoir, Monsieur Bond.
+Trés heureux de vous revoir.</i>
+
+88
+00:17:30,383 --> 00:17:34,638
+<i>- Bonsoir, Pierre. Ca va bien?
+- Trés bien. Et vous?</i>
+
+89
+00:17:55,408 --> 00:17:57,502
+<i>Sept é Ia banque.</i>
+
+90
+00:17:58,619 --> 00:18:00,713
+<i>Madame wins.</i>
+
+91
+00:18:07,587 --> 00:18:10,136
+<i>Bet, mademoiselle? Non?</i>
+
+92
+00:18:11,132 --> 00:18:12,884
+<i>Monsieur.</i>
+
+93
+00:18:13,009 --> 00:18:15,103
+<i>Bets, ladies and gentlemen?</i>
+
+94
+00:18:15,970 --> 00:18:18,723
+<i>- No players?
+- {Bond} Banco.</i>
+
+95
+00:18:32,820 --> 00:18:35,790
+<i>It appears we share the same passions.</i>
+
+96
+00:18:35,948 --> 00:18:37,700
+<i>Three, anyway.</i>
+
+97
+00:18:37,783 --> 00:18:42,289
+<i>I count two - motoring and... baccarat.</i>
+
+98
+00:18:44,248 --> 00:18:46,296
+<i>{croupier} Huit, pour la banque.</i>
+
+99
+00:18:48,878 --> 00:18:51,131
+<i>{croupier} Seven. Madame wins.</i>
+
+100
+00:18:51,297 --> 00:18:55,143
+<i>I hope the third
+is where your real talent lies.</i>
+
+101
+00:18:55,635 --> 00:18:58,138
+<i>One rises to meet a challenge.</i>
+
+102
+00:19:00,681 --> 00:19:02,854
+<i>Double.</i>
+
+103
+00:19:02,933 --> 00:19:04,981
+<i>Suivez.</i>
+
+104
+00:19:17,490 --> 00:19:19,618
+<i>Ca rte.</i>
+
+105
+00:19:34,924 --> 00:19:37,723
+<i>{croupier} Madame stands with five.</i>
+
+106
+00:19:41,013 --> 00:19:44,233
+<i>- Six. Madame loses.
+- Buliatchl</i>
+
+107
+00:19:46,519 --> 00:19:50,865
+<i>- Enjoy it... while it lasts.
+- The very words I live by.</i>
+
+108
+00:19:56,570 --> 00:19:59,198
+<i>And what words do you live by?</i>
+
+109
+00:20:00,408 --> 00:20:04,413
+<i>- The trick is to quit while you're ahead.
+- That's one trick I've never learned.</i>
+
+110
+00:20:04,495 --> 00:20:06,748
+<i>Perhaps you'll show me how it's done.</i>
+
+111
+00:20:07,748 --> 00:20:10,547
+<i>Vodka martini. Shaken, not stirred.</i>
+
+112
+00:20:10,710 --> 00:20:12,804
+<i>And for you?</i>
+
+113
+00:20:13,337 --> 00:20:15,055
+<i>The same.</i>
+
+114
+00:20:15,131 --> 00:20:17,225
+<i>How do you take it?</i>
+
+115
+00:20:17,883 --> 00:20:20,432
+<i>Straight up, with a twist.</i>
+
+116
+00:20:23,305 --> 00:20:25,148
+<i>Thank you, Mr...</i>
+
+117
+00:20:25,224 --> 00:20:28,353
+<i>The name's Bond. James Bond.</i>
+
+118
+00:20:28,936 --> 00:20:30,859
+<i>Xenia Zaragevna Onatopp.</i>
+
+119
+00:20:32,565 --> 00:20:35,068
+<i>_ Qnatopp?
+- OnatOPP-</i>
+
+120
+00:20:36,569 --> 00:20:40,073
+<i>- Your accent... Georgian?
+- Mm! Very good, Mr Bond.</i>
+
+121
+00:20:40,573 --> 00:20:42,621
+<i>- You've been to Russia.
+- Not recently.</i>
+
+122
+00:20:42,700 --> 00:20:46,421
+<i>I used to drop in occasionally.
+Shoot in and out.</i>
+
+123
+00:20:46,704 --> 00:20:50,675
+<i>It's very different now.
+A land of opportunity.</i>
+
+124
+00:20:51,417 --> 00:20:54,170
+<i>With a new Ferrari in every garage?</i>
+
+125
+00:20:54,378 --> 00:20:57,552
+<i>No, not quite. That belongs to a friend.</i>
+
+126
+00:20:57,631 --> 00:21:03,604
+<i>A tip for your friend: the French number
+plates for this year's model start with "L".</i>
+
+127
+00:21:03,721 --> 00:21:06,315
+<i>Even the counterfeit ones.</i>
+
+128
+00:21:06,766 --> 00:21:13,615
+<i>Oh. And what rank do you hold with
+the motor vehicles department, Mr Bond?</i>
+
+129
+00:21:13,814 --> 00:21:15,282
+<i>Commander.</i>
+
+130
+00:21:15,566 --> 00:21:17,614
+<i>Shall we go?</i>
+
+131
+00:21:18,152 --> 00:21:20,701
+<i>This one is an admiral.</i>
+
+132
+00:21:21,030 --> 00:21:23,283
+<i>I like a woman who enjoys pulling rank.</i>
+
+133
+00:21:24,116 --> 00:21:26,835
+<i>Nice to meet you, Mr Bond.</i>
+
+134
+00:21:27,453 --> 00:21:30,002
+<i>The pleasure, I'm sure, was all mine.</i>
+
+135
+00:21:59,568 --> 00:22:01,946
+<i>{laughing}</i>
+
+136
+00:22:57,251 --> 00:22:59,470
+<i>Transmission begins from Moneypenny.</i>
+
+137
+00:22:59,545 --> 00:23:04,346
+<i>Identiﬁcation conﬁrmed:
+Onatopp, Xenia. Ex-Soviet ﬁghter pilot.</i>
+
+138
+00:23:04,425 --> 00:23:08,350
+<i>Current suspected links to the Janus
+crime syndicate, St Petersburg.</i>
+
+139
+00:23:08,429 --> 00:23:12,150
+<i>Yacht "Manticore" is leased
+to a known Janus corporate front.</i>
+
+140
+00:23:12,391 --> 00:23:14,610
+<i>M authorises you
+to observe Miss Onatopp,</i>
+
+141
+00:23:14,685 --> 00:23:19,191
+<i>but stipulates no... contact
+without prior approval.</i>
+
+142
+00:23:19,440 --> 00:23:21,693
+<i>End of transmission. Moneypenny.</i>
+
+143
+00:23:21,775 --> 00:23:25,996
+<i>Good night, James. I trust
+you'll stay... "onatopp" of things</i>
+
+144
+00:23:26,071 --> 00:23:28,165
+<i>{Xenia shrieks}</i>
+
+145
+00:23:32,411 --> 00:23:34,539
+<i>{Xenia snarls}</i>
+
+146
+00:23:42,004 --> 00:23:44,098
+<i>Lyu beemyets.</i>
+
+147
+00:23:46,800 --> 00:23:48,928
+<i>{Xenia growls}</i>
+
+148
+00:24:03,150 --> 00:24:06,120
+<i>- {admiral cries out in pain}
+- {bone cracks}</i>
+
+149
+00:24:08,155 --> 00:24:11,785
+<i>Xenia, I... can't... breathe!</i>
+
+150
+00:24:12,618 --> 00:24:14,746
+<i>{admiral gasps for air}</i>
+
+151
+00:24:16,622 --> 00:24:19,842
+<i>{he cries in pain, she with pleasure}</i>
+
+152
+00:24:21,794 --> 00:24:23,137
+<i>Yes ! Yes !</i>
+
+153
+00:25:09,299 --> 00:25:11,393
+<i>{military band plays}</i>
+
+154
+00:25:20,644 --> 00:25:22,191
+<i>Merci, mon amiral.</i>
+
+155
+00:25:30,654 --> 00:25:32,702
+<i>My respects, Admiral.</i>
+
+156
+00:25:36,035 --> 00:25:38,538
+<i>Delighted to have you aboard,
+mademoiselle.</i>
+
+157
+00:25:40,372 --> 00:25:43,046
+<i>Ladies and gentlemen,</i>
+
+158
+00:25:43,208 --> 00:25:47,429
+<i>please take your seats
+for the demonstration of the aircraft.</i>
+
+159
+00:26:20,788 --> 00:26:25,510
+<i>What you are about to see is Europe's
+answer to the electronic battleﬁeld:</i>
+
+160
+00:26:25,751 --> 00:26:29,130
+<i>the first working prototype
+of the Tiger helicopter.</i>
+
+161
+00:26:29,213 --> 00:26:32,968
+<i>Uniquely manoeuvrable, the Tiger
+not only uses Stealth technology,</i>
+
+162
+00:26:33,133 --> 00:26:37,354
+<i>it is hardened against all forms
+of electronic interference,</i>
+
+163
+00:26:37,429 --> 00:26:40,103
+<i>radio jamming
+and electromagnetic radiation.</i>
+
+164
+00:26:45,604 --> 00:26:46,651
+<i>{whistles}</i>
+
+165
+00:26:48,607 --> 00:26:53,283
+<i>Shh. I have a small surprise from
+your friends back at the barracks.</i>
+
+166
+00:26:53,612 --> 00:26:55,580
+<i>I think I've gone to heaven.</i>
+
+167
+00:26:55,656 --> 00:26:57,374
+<i>Not yet.</i>
+
+168
+00:27:05,707 --> 00:27:09,211
+<i>- {captain} Please welcome the pilots.
+- {applause}</i>
+
+169
+00:27:11,296 --> 00:27:15,642
+<i>Lieutenant Commander Bernard Jaubert
+and Lieutenant Frangois Brouse.</i>
+
+170
+00:27:17,928 --> 00:27:19,976
+<i>{engines start}</i>
+
+171
+00:28:07,060 --> 00:28:09,529
+<i>{man shouting in Russian}</i>
+
+172
+00:28:22,743 --> 00:28:25,337
+<i>- Select Mir.
+- {bleep}</i>
+
+173
+00:28:25,412 --> 00:28:28,541
+<i>- Orthographic projection.
+- {bleep}</i>
+
+174
+00:28:29,917 --> 00:28:34,093
+<i>Compute possible intercept
+with second-stage geo-sat two.</i>
+
+175
+00:28:42,054 --> 00:28:43,101
+<i>Anna.</i>
+
+176
+00:28:46,350 --> 00:28:49,775
+<i>He wouldn't know a woman
+if one came up and sat on his head.</i>
+
+177
+00:28:52,731 --> 00:28:54,859
+<i>Bods</i>
+
+178
+00:28:55,400 --> 00:28:57,903
+<i>- Boris!
+- What?</i>
+
+179
+00:29:00,072 --> 00:29:02,700
+<i>I thought I'd post it
+on the Internet, no?</i>
+
+180
+00:29:02,866 --> 00:29:06,166
+<i>- What's the password?
+- I made it easy this time.</i>
+
+181
+00:29:06,245 --> 00:29:09,624
+<i>Even you should be able to break it,
+borscht-for-brains.</i>
+
+182
+00:29:11,041 --> 00:29:14,136
+<i>All right. All right. I'll give you a hint.</i>
+
+183
+00:29:14,253 --> 00:29:19,805
+<i>They're right in front of you
+and can open very large doors.</i>
+
+184
+00:29:21,426 --> 00:29:23,428
+<i>You're such a geek.</i>
+
+185
+00:29:23,512 --> 00:29:26,106
+<i>- {bleeping}
+- Yes! I'm in.</i>
+
+186
+00:29:33,605 --> 00:29:36,074
+<i>You've hacked into
+the US Department of Justice.</i>
+
+187
+00:29:36,149 --> 00:29:38,243
+<i>What if they trace it here?</i>
+
+188
+00:29:38,443 --> 00:29:42,198
+<i>The chief of computers will call me
+a genius, move me to Moscow</i>
+
+189
+00:29:42,281 --> 00:29:45,785
+<i>and give me a million bucks
+hard currency.</i>
+
+190
+00:29:46,952 --> 00:29:48,875
+<i>I think not.</i>
+
+191
+00:29:48,954 --> 00:29:53,084
+<i>Besides, the Americans are slug-heads.
+They'll never detect me.</i>
+
+192
+00:29:54,251 --> 00:29:57,221
+<i>You were saying, slug-head?</i>
+
+193
+00:29:57,296 --> 00:30:00,175
+<i>Nobody screws with Boris Grishenko.</i>
+
+194
+00:30:02,426 --> 00:30:05,225
+<i>- Spiked them!
+- Come on, Boris. Just hang up.</i>
+
+195
+00:30:05,304 --> 00:30:08,148
+<i>No way! I spiked them.</i>
+
+196
+00:30:10,475 --> 00:30:14,730
+<i>- All right. What's the password?
+- I'm not going to tell you.</i>
+
+197
+00:30:14,813 --> 00:30:17,692
+<i>OK. Let me guess.</i>
+
+198
+00:30:17,858 --> 00:30:20,452
+<i>- It's not in front of me?
+- Mm-mm.</i>
+
+199
+00:30:20,652 --> 00:30:24,077
+<i>You sit on it,
+but you can't take it with you.</i>
+
+200
+00:30:28,994 --> 00:30:32,498
+<i>My program seizes the phone line
+of whoever's tracing me</i>
+
+201
+00:30:32,581 --> 00:30:35,926
+<i>and jams their modem
+so they can't hang up.</i>
+
+202
+00:30:36,710 --> 00:30:39,839
+<i>Now the hunted becomes the hunter.</i>
+
+203
+00:30:43,592 --> 00:30:46,311
+<i>"Better luck next time,</i>
+
+204
+00:30:46,470 --> 00:30:48,313
+<i>slug-heads</i>
+
+205
+00:30:49,097 --> 00:30:52,727
+<i>Bang! Gone! I am invincible!</i>
+
+206
+00:30:58,732 --> 00:31:00,951
+<i>Was it good for you, too?</i>
+
+207
+00:31:01,026 --> 00:31:03,620
+<i>I'm getting some coffee.</i>
+
+208
+00:31:03,695 --> 00:31:05,618
+<i>I'm going for a cigarette.</i>
+
+209
+00:31:18,710 --> 00:31:20,838
+<i>{helicopter}</i>
+
+210
+00:32:10,262 --> 00:32:14,642
+<i>General Arkady Grigorovich Ourumov,
+head of Space Division.</i>
+
+211
+00:32:26,945 --> 00:32:29,323
+<i>- General, if I'd known...
+- You'd have been ready.</i>
+
+212
+00:32:29,406 --> 00:32:33,627
+<i>This is an unscheduled test
+of Severnaya, Major. War simulation.</i>
+
+213
+00:32:33,785 --> 00:32:37,130
+<i>We are going to test-ﬁre GoldenEye.
+Report your status.</i>
+
+214
+00:32:37,289 --> 00:32:42,921
+<i>Two operational satellites, sir, Petya and
+Mischa, in 90-minute earth orbit at 100km.</i>
+
+215
+00:32:43,003 --> 00:32:44,630
+<i>Good.</i>
+
+216
+00:32:45,005 --> 00:32:46,803
+<i>Here is the authorisation code.</i>
+
+217
+00:32:47,048 --> 00:32:51,929
+<i>Now, the GoldenEye and today's access
+numbers for satellite Petya, please.</i>
+
+218
+00:32:52,012 --> 00:32:54,185
+<i>lam timing you.</i>
+
+219
+00:33:25,295 --> 00:33:27,889
+<i>Good. Thank you, Major.</i>
+
+220
+00:33:44,105 --> 00:33:46,199
+<i>{moans with pleasure}</i>
+
+221
+00:34:05,710 --> 00:34:07,212
+<i>On my count.</i>
+
+222
+00:34:07,420 --> 00:34:10,640
+<i>Three... two... one...</i>
+
+223
+00:34:18,473 --> 00:34:21,443
+<i>Set target. Severnaya.</i>
+
+224
+00:34:32,487 --> 00:34:35,161
+<i>Arm the weapon.</i>
+
+225
+00:34:39,077 --> 00:34:41,205
+<i>{bleeping}</i>
+
+226
+00:34:43,957 --> 00:34:46,085
+<i>{ringing}</i>
+
+227
+00:34:54,384 --> 00:34:56,478
+<i>{buzzing}</i>
+
+228
+00:34:57,887 --> 00:34:59,605
+<i>{glass shatters}</i>
+
+229
+00:34:59,764 --> 00:35:01,766
+<i>- Check it.
+- {cocks firearm}</i>
+
+230
+00:35:03,393 --> 00:35:06,738
+<i>' {man groans}
+- {alarm}</i>
+
+231
+00:35:12,527 --> 00:35:16,532
+<i>Their best response time
+is 19 minutes. They'll be late.</i>
+
+232
+00:35:16,615 --> 00:35:18,663
+<i>{klaxon}</i>
+
+233
+00:35:51,149 --> 00:35:54,494
+<i>It's clean. I had to ventilate someone.</i>
+
+234
+00:36:31,189 --> 00:36:34,284
+<i>- Good evening, Moneypenny.
+- Good evening, James.</i>
+
+235
+00:36:34,359 --> 00:36:37,533
+<i>M will meet you in the Situation Room.
+I'm to take you in.</i>
+
+236
+00:36:37,737 --> 00:36:40,957
+<i>- Never seen you after hours. Lovely.
+- Thank you, James.</i>
+
+237
+00:36:41,032 --> 00:36:44,878
+<i>Out on some kind of assignment?
+Dressing to kill?</i>
+
+238
+00:36:44,994 --> 00:36:47,543
+<i>I know you'll find this crushing, O07,</i>
+
+239
+00:36:47,664 --> 00:36:51,385
+<i>but I don't sit at home
+praying for an international incident</i>
+
+240
+00:36:51,501 --> 00:36:54,846
+<i>so I can run down here
+all dressed up to impress James Bond.</i>
+
+241
+00:36:55,130 --> 00:36:58,600
+<i>I was on a date with a gentleman.
+We went to the theatre.</i>
+
+242
+00:36:58,800 --> 00:37:01,269
+<i>Moneypenny, I'm devastated.</i>
+
+243
+00:37:01,386 --> 00:37:03,639
+<i>What would I ever do without you?</i>
+
+244
+00:37:03,722 --> 00:37:07,898
+<i>As far as I can remember, James,
+you've never had me.</i>
+
+245
+00:37:10,812 --> 00:37:13,281
+<i>Hope springs eternal.</i>
+
+246
+00:37:13,481 --> 00:37:17,031
+<i>This sort of behaviour
+could qualify as sexual harassment.</i>
+
+247
+00:37:17,110 --> 00:37:20,580
+<i>Really? What's the penalty for that?</i>
+
+248
+00:37:20,780 --> 00:37:23,909
+<i>Someday you have to make good
+on your innuendoes.</i>
+
+249
+00:37:27,912 --> 00:37:32,509
+<i>- After you, Moneypenny.
+- No, I insist. You first.</i>
+
+250
+00:37:37,213 --> 00:37:40,262
+<i>- Good evening, O07.
+- Tanner. What's up?</i>
+
+251
+00:37:40,383 --> 00:37:43,057
+<i>16 minutes ago,
+we intercepted a distress call</i>
+
+252
+00:37:43,136 --> 00:37:47,141
+<i>from a supposedly abandoned
+radar station at Severnaya. Look.</i>
+
+253
+00:37:51,311 --> 00:37:56,909
+<i>- We found a match. Your missing Tiger.
+- In the middle of northern Russia?</i>
+
+254
+00:37:57,108 --> 00:38:01,329
+<i>Your hunch was right. Too bad the evil
+queen of numbers wouldn't let you play it.</i>
+
+255
+00:38:01,404 --> 00:38:03,452
+<i>Mm-hm.</i>
+
+256
+00:38:06,493 --> 00:38:09,497
+<i>- You were saying?
+- No, no. I was just... just...</i>
+
+257
+00:38:09,621 --> 00:38:14,798
+<i>Good. Because if I want sarcasm, I'll
+talk to my children, thank you very much.</i>
+
+258
+00:38:15,460 --> 00:38:17,713
+<i>- Good evening, 007.
+- Good evening, M.</i>
+
+259
+00:38:17,796 --> 00:38:20,925
+<i>The prime minister's
+waiting for an update.</i>
+
+260
+00:38:21,007 --> 00:38:24,056
+<i>Proceed with your briefing, Mr Tanner.</i>
+
+261
+00:38:24,135 --> 00:38:26,308
+<i>Thank you.</i>
+
+262
+00:38:26,638 --> 00:38:30,233
+<i>Yes, after the distress signal,
+your helicopter took off</i>
+
+263
+00:38:30,391 --> 00:38:33,144
+<i>and the Russians
+had three MiGs intercept it.</i>
+
+264
+00:38:33,228 --> 00:38:35,731
+<i>What do you think the base is used for?</i>
+
+265
+00:38:35,814 --> 00:38:38,658
+<i>We suspected it might be
+the ground station</i>
+
+266
+00:38:38,775 --> 00:38:42,575
+<i>for a secret space-based
+weapon called Go|denEye, but...</i>
+
+267
+00:38:42,654 --> 00:38:47,535
+<i>Our statistical analysis saw they had
+neither the finance nor technology.</i>
+
+268
+00:38:47,742 --> 00:38:50,666
+<i>Numbers were never my strong suit.</i>
+
+269
+00:38:51,287 --> 00:38:53,210
+<i>Are these pictures live?</i>
+
+270
+00:38:53,498 --> 00:38:57,093
+<i>Unlike the American government, we
+prefer not to get our bad news from CNN.</i>
+
+271
+00:39:20,733 --> 00:39:23,532
+<i>Negative so far.
+Everything seems normal.</i>
+
+272
+00:39:32,370 --> 00:39:34,668
+<i>{alarm sounds}</i>
+
+273
+00:40:26,966 --> 00:40:29,264
+<i>What the bloody hell was that?</i>
+
+274
+00:40:38,186 --> 00:40:40,234
+<i>Aaaarghhh!</i>
+
+275
+00:41:08,091 --> 00:41:09,764
+<i>{shrieks}</i>
+
+276
+00:41:13,513 --> 00:41:15,811
+<i>Aaarghhhh!</i>
+
+277
+00:41:55,471 --> 00:41:57,599
+<i>Natalya Fyodorovna Simonova.</i>
+
+278
+00:42:00,226 --> 00:42:02,604
+<i>Natalya Fyodorovna Simonova!</i>
+
+279
+00:42:02,687 --> 00:42:04,155
+<i>{claﬂg}</i>
+
+280
+00:42:33,384 --> 00:42:35,432
+<i>Aargh!</i>
+
+281
+00:43:15,593 --> 00:43:18,938
+<i>Boris! Boris!</i>
+
+282
+00:43:19,931 --> 00:43:21,353
+<i>Thanks.</i>
+
+283
+00:43:21,432 --> 00:43:25,812
+<i>Our satellite is knocked out.
+So are two of the Americans'.</i>
+
+284
+00:43:26,813 --> 00:43:31,410
+<i>We have another,
+coming into range... now.</i>
+
+285
+00:43:35,196 --> 00:43:37,290
+<i>Good God.</i>
+
+286
+00:43:38,699 --> 00:43:40,747
+<i>Two of the MiGs are down.</i>
+
+287
+00:43:40,827 --> 00:43:43,250
+<i>It looks like the third went into the dish.</i>
+
+288
+00:43:43,579 --> 00:43:45,377
+<i>What do you think?</i>
+
+289
+00:43:45,540 --> 00:43:50,546
+<i>No lights. Not one single
+electric light on in a 30-mile radius.</i>
+
+290
+00:43:51,879 --> 00:43:54,598
+<i>- EMP?
+- It would explain the MiGs and satellites.</i>
+
+291
+00:43:54,674 --> 00:43:57,473
+<i>- And the blackout.
+- Electromagnetic pulse.</i>
+
+292
+00:43:57,552 --> 00:44:02,558
+<i>- A satellite weapon developed by the...
+- Americans and Soviets in the Cold War.</i>
+
+293
+00:44:02,807 --> 00:44:04,730
+<i>I've read the brief.</i>
+
+294
+00:44:04,809 --> 00:44:09,440
+<i>Discovered after Hiroshima. Set off
+a nuclear device in the upper atmosphere.</i>
+
+295
+00:44:09,522 --> 00:44:14,699
+<i>Creates a pulse, a radiation surge,
+that destroys everything electronic.</i>
+
+296
+00:44:14,902 --> 00:44:20,033
+<i>The idea being to knock out the enemy's
+communications before they can retaliate.</i>
+
+297
+00:44:21,200 --> 00:44:23,623
+<i>So, Golden Eye exists.</i>
+
+298
+00:44:24,662 --> 00:44:26,335
+<i>Yes.</i>
+
+299
+00:44:26,497 --> 00:44:29,876
+<i>- Could this be an accident?
+- No. The helicopter.</i>
+
+300
+00:44:30,168 --> 00:44:33,422
+<i>For stealing the GoldenEye,
+it was the perfect getaway vehicle.</i>
+
+301
+00:44:33,504 --> 00:44:37,099
+<i>Setting off the blast would
+wipe out any trace of the crime.</i>
+
+302
+00:44:37,175 --> 00:44:41,521
+<i>- The Janus group?
+- It may be linked to the helicopter.</i>
+
+303
+00:44:42,555 --> 00:44:44,603
+<i>I know the Russian fail-safe systems.</i>
+
+304
+00:44:44,682 --> 00:44:49,859
+<i>You just don't walk in and ask for the keys
+to the bomb. You need the access codes.</i>
+
+305
+00:44:52,690 --> 00:44:54,818
+<i>{punches keys}</i>
+
+306
+00:44:57,111 --> 00:44:59,614
+<i>There had to be an insider.</i>
+
+307
+00:45:07,371 --> 00:45:09,999
+<i>At least one person
+probably knows who it is.</i>
+
+308
+00:45:14,545 --> 00:45:17,719
+<i>{animal whimpering}</i>
+
+309
+00:45:18,507 --> 00:45:21,056
+<i>{barking and whining}</i>
+
+310
+00:45:31,646 --> 00:45:35,150
+<i>Very well, sir. Thank you. Good night.</i>
+
+311
+00:45:36,901 --> 00:45:41,702
+<i>The prime minister's talked to Moscow. It
+was "an accident on a training exercise".</i>
+
+312
+00:45:41,864 --> 00:45:44,959
+<i>Governments change.
+The lies stay the same.</i>
+
+313
+00:45:45,076 --> 00:45:47,044
+<i>What else do we know about Janus?</i>
+
+314
+00:45:47,411 --> 00:45:50,506
+<i>Top-flight arms dealers,
+headquartered in St Petersburg.</i>
+
+315
+00:45:50,581 --> 00:45:53,551
+<i>Restocked the Iraqis during the Gulf War.</i>
+
+316
+00:45:53,626 --> 00:45:57,005
+<i>The head man's unreliably
+described. No photographs.</i>
+
+317
+00:45:57,088 --> 00:46:00,217
+<i>The woman, Onatopp,</i>
+
+318
+00:46:00,299 --> 00:46:02,472
+<i>is our only confirmed contact.</i>
+
+319
+00:46:02,718 --> 00:46:06,268
+<i>- Would you care for a drink?
+- Thank you.</i>
+
+320
+00:46:06,764 --> 00:46:10,394
+<i>- Your predecessor kept some cognac...
+- I prefer bourbon.</i>
+
+321
+00:46:10,726 --> 00:46:13,229
+<i>- Ice?
+- Yes.</i>
+
+322
+00:46:20,903 --> 00:46:25,875
+<i>We pulled the files on whoever may have
+had access or authority at Severnaya.</i>
+
+323
+00:46:26,033 --> 00:46:30,083
+<i>The top name on the list's
+an old friend of yours, I understand.</i>
+
+324
+00:46:33,416 --> 00:46:36,340
+<i>Ourumov. They made him a general.</i>
+
+325
+00:46:36,419 --> 00:46:39,389
+<i>He sees himself as the next
+"iron man of Russia".</i>
+
+326
+00:46:39,463 --> 00:46:43,434
+<i>Our political analysts say
+he doesn't ﬁt the profile of a traitor.</i>
+
+327
+00:46:43,509 --> 00:46:47,514
+<i>Are these the same analysts who said
+that Go|denEye couldn't exist?</i>
+
+328
+00:46:47,638 --> 00:46:52,644
+<i>Who said the helicopter posed no threat
+and wasn't worth following?</i>
+
+329
+00:46:54,061 --> 00:46:56,905
+<i>You don't like me, Bond.
+You don't like my methods.</i>
+
+330
+00:46:56,981 --> 00:47:01,953
+<i>You think I'm an accountant, more
+interested in numbers than your instincts.</i>
+
+331
+00:47:02,320 --> 00:47:04,414
+<i>- The thought had occurred to me.
+- Good.</i>
+
+332
+00:47:04,572 --> 00:47:07,746
+<i>Because I think you're
+a sexist, misogynist dinosaur,</i>
+
+333
+00:47:07,825 --> 00:47:11,921
+<i>a relic of the Cold War, whose
+boyish charms, though wasted on me,</i>
+
+334
+00:47:11,996 --> 00:47:15,591
+<i>obviously appealed to that
+young woman I sent out to evaluate you.</i>
+
+335
+00:47:15,791 --> 00:47:18,920
+<i>- Point taken.
+- Not quite, O07.</i>
+
+336
+00:47:19,503 --> 00:47:22,723
+<i>If you think I don't have the balls
+to send a man out to die,</i>
+
+337
+00:47:22,798 --> 00:47:25,176
+<i>your instincts are dead wrong.</i>
+
+338
+00:47:25,301 --> 00:47:28,225
+<i>I've no compunction
+about sending you to your death.</i>
+
+339
+00:47:28,346 --> 00:47:32,897
+<i>But I won't do it on a whim, even
+with your cavalier attitude towards life.</i>
+
+340
+00:47:36,604 --> 00:47:38,606
+<i>I want you to find GoldenEye.</i>
+
+341
+00:47:38,689 --> 00:47:42,034
+<i>Find who took it, what they plan
+to do with it, and stop it.</i>
+
+342
+00:47:42,360 --> 00:47:44,658
+<i>If you come across Ourumov,
+guilty or not,</i>
+
+343
+00:47:44,737 --> 00:47:50,039
+<i>don't run off on a vendetta. Avenging
+Alec Trevelyan will not bring him back.</i>
+
+344
+00:47:50,284 --> 00:47:55,040
+<i>- You didn't get him killed.
+- Neither did you. Don't make it personal.</i>
+
+345
+00:47:55,956 --> 00:47:57,879
+<i>Never.</i>
+
+346
+00:48:01,337 --> 00:48:03,385
+<i>Bond...</i>
+
+347
+00:48:05,758 --> 00:48:07,886
+<i>Come back alive.</i>
+
+348
+00:48:11,806 --> 00:48:13,524
+<i>{military march}</i>
+
+349
+00:48:34,370 --> 00:48:36,714
+<i>{knock on door}</i>
+
+350
+00:48:47,883 --> 00:48:50,762
+<i>Good morning, General Ourumov.</i>
+
+351
+00:48:52,263 --> 00:48:55,187
+<i>Defence Minister Mishkin... Gentlemen.</i>
+
+352
+00:48:55,266 --> 00:48:58,065
+<i>Please, deliver your report.</i>
+
+353
+00:49:00,980 --> 00:49:06,032
+<i>As you know, 72 hours ago, a secret
+weapons system - codename GoldenEye -</i>
+
+354
+00:49:06,110 --> 00:49:08,204
+<i>was detonated over Severnaya.</i>
+
+355
+00:49:08,320 --> 00:49:12,917
+<i>As head of Space Division,
+I personally undertook the investigation.</i>
+
+356
+00:49:12,992 --> 00:49:17,589
+<i>I have concluded this crime was
+committed by Siberian separatists</i>
+
+357
+00:49:17,663 --> 00:49:20,291
+<i>seeking to create political unrest.</i>
+
+358
+00:49:21,375 --> 00:49:25,846
+<i>Regrettably, the peaceful work and the
+hard-currency earnings of Severnaya</i>
+
+359
+00:49:25,921 --> 00:49:28,765
+<i>have been set back by several years.</i>
+
+360
+00:49:29,008 --> 00:49:31,136
+<i>Therefore, I tender my resignation.</i>
+
+361
+00:49:31,635 --> 00:49:33,729
+<i>{protests}</i>
+
+362
+00:49:34,138 --> 00:49:37,733
+<i>It seems the council does not want
+your head, Arkady Grigorovich.</i>
+
+363
+00:49:37,808 --> 00:49:41,278
+<i>Merely your assurance that
+there are no other Go|denEyes.</i>
+
+364
+00:49:41,353 --> 00:49:43,981
+<i>I can give you that assurance,
+Defence Minister.</i>
+
+365
+00:49:44,064 --> 00:49:47,068
+<i>And what of the two missing
+Severnaya technicians?</i>
+
+366
+00:49:49,987 --> 00:49:53,833
+<i>I was aware only of the one.
+Boris Grishenko.</i>
+
+367
+00:49:53,991 --> 00:49:57,040
+<i>There was a girl also, whose body
+was not among the dead.</i>
+
+368
+00:49:57,119 --> 00:50:00,339
+<i>Natalya Fyodorovna Simonova.
+A level-two programmer.</i>
+
+369
+00:50:00,498 --> 00:50:03,092
+<i>I will investigate immediately.</i>
+
+370
+00:50:03,501 --> 00:50:08,553
+<i>It would seem presumptuous to blame
+this incident on Siberian separatists</i>
+
+371
+00:50:08,631 --> 00:50:13,057
+<i>before the whereabouts
+of your own people are determined.</i>
+
+372
+00:50:13,677 --> 00:50:17,352
+<i>- Do you agree?
+- Yes, Defence Minister.</i>
+
+373
+00:50:17,890 --> 00:50:21,110
+<i>Thank you for bringing it to my attention.</i>
+
+374
+00:50:22,436 --> 00:50:24,530
+<i>That will be all.</i>
+
+375
+00:50:38,285 --> 00:50:41,880
+<i>Morning, Q. Sorry about the leg. Skiing?</i>
+
+376
+00:50:44,583 --> 00:50:46,836
+<i>Hunting.</i>
+
+377
+00:50:46,919 --> 00:50:49,388
+<i>Right. Now pay attention, O07.</i>
+
+378
+00:50:49,713 --> 00:50:51,465
+<i>First, your new car.</i>
+
+379
+00:50:51,632 --> 00:50:56,138
+<i>BMW. Agile, five forward gears,
+all-points radar.</i>
+
+380
+00:50:56,720 --> 00:51:01,851
+<i>Self-destruct system. And, naturally,
+all the usual refinements.</i>
+
+381
+00:51:02,059 --> 00:51:05,563
+<i>Now, this I'm particularly proud of.</i>
+
+382
+00:51:05,771 --> 00:51:08,570
+<i>Behind the headlights, Stinger missiles.</i>
+
+383
+00:51:09,066 --> 00:51:12,320
+<i>Excellent. Just the thing
+for unwinding after a rough day.</i>
+
+384
+00:51:12,403 --> 00:51:19,082
+<i>Need I remind you, O07, that you have
+a license to kill, not break the traffic laws.</i>
+
+385
+00:51:20,327 --> 00:51:22,204
+<i>- I wouldn't think of it.
+- Good.</i>
+
+386
+00:51:22,288 --> 00:51:25,337
+<i>Right. Let's get on
+to more practical matters.</i>
+
+387
+00:51:25,708 --> 00:51:31,431
+<i>A typical leather belt.
+Male, size 34, buckle, notch.</i>
+
+388
+00:51:34,258 --> 00:51:35,760
+<i>Have you finished?</i>
+
+389
+00:51:35,926 --> 00:51:37,348
+<i>- Yes.
+- Good.</i>
+
+390
+00:51:37,428 --> 00:51:40,432
+<i>- A typical belt...
+- Q, I'm familiar with that device.</i>
+
+391
+00:51:40,514 --> 00:51:44,860
+<i>Not one with a 75-foot
+rappelling cord built into the buckle.</i>
+
+392
+00:51:44,935 --> 00:51:48,155
+<i>Fire, and out shoots a piton,</i>
+
+393
+00:51:48,564 --> 00:51:52,194
+<i>followed by a high-tensile wire
+designed to support your weight.</i>
+
+394
+00:51:52,276 --> 00:51:55,530
+<i>I see. And what if I need
+additional support?</i>
+
+395
+00:51:55,863 --> 00:51:58,207
+<i>It's tested for one, O07.</i>
+
+396
+00:52:02,911 --> 00:52:06,006
+<i>Flight 878 to St Petersburg.</i>
+
+397
+00:52:07,958 --> 00:52:10,507
+<i>X-ray document scanner.</i>
+
+398
+00:52:11,086 --> 00:52:13,885
+<i>A pen. This is a class 4 grenade.</i>
+
+399
+00:52:14,298 --> 00:52:17,518
+<i>Three clicks arms the four-second fuse.</i>
+
+400
+00:52:17,885 --> 00:52:20,809
+<i>Another three disarms it.</i>
+
+401
+00:52:23,891 --> 00:52:25,893
+<i>How long did you say the fuse was?</i>
+
+402
+00:52:25,976 --> 00:52:28,570
+<i>Oh, grow up, O07.</i>
+
+403
+00:52:28,646 --> 00:52:32,776
+<i>- "The pen is mightier than the sword."
+- Thanks to me, it is.</i>
+
+404
+00:52:33,317 --> 00:52:36,912
+<i>Look, let's ask Freddie here
+to demonstrate for us.</i>
+
+405
+00:52:36,987 --> 00:52:41,663
+<i>Here we are. Sorry about this, Fred.
+One, two, three.</i>
+
+406
+00:52:47,873 --> 00:52:51,047
+<i>- Don't say it.
+- The writing's on the wall?</i>
+
+407
+00:52:51,710 --> 00:52:54,179
+<i>Along with the rest of him.</i>
+
+408
+00:52:54,922 --> 00:52:57,766
+<i>Now, 007, do please try and return...</i>
+
+409
+00:52:58,926 --> 00:53:01,054
+<i>{clattering}</i>
+
+410
+00:53:01,136 --> 00:53:04,731
+<i>Do try and return some of this
+equipment in pristine order.</i>
+
+411
+00:53:04,807 --> 00:53:06,730
+<i>Don't touch that! That's my lunch.</i>
+
+412
+00:53:34,002 --> 00:53:35,925
+<i>In London, April's a spring month.</i>
+
+413
+00:53:36,004 --> 00:53:38,678
+<i>Oh, yeah? What are you -
+the weatherman?</i>
+
+414
+00:53:39,216 --> 00:53:41,844
+<i>For cryin' out loud.
+Another stiff-assed Brit,</i>
+
+415
+00:53:41,927 --> 00:53:44,350
+<i>with your secret codes and passwords.</i>
+
+416
+00:53:44,805 --> 00:53:47,684
+<i>One of these days you guys
+are gonna learn just to drop it.</i>
+
+417
+00:53:47,933 --> 00:53:50,607
+<i>Come on. My car's over there.</i>
+
+418
+00:54:05,325 --> 00:54:07,999
+<i>- After you.
+- Thank you.</i>
+
+419
+00:54:10,289 --> 00:54:13,088
+<i>- Like you said, drop it.
+- All right.</i>
+
+420
+00:54:13,167 --> 00:54:16,797
+<i>In London, April's a spring month.
+In St Petersburg, we freeze our butts off.</i>
+
+421
+00:54:16,879 --> 00:54:19,758
+<i>- Close enough for government work?
+- No.</i>
+
+422
+00:54:20,674 --> 00:54:23,974
+<i>- Show me the rose.
+- Please, no.</i>
+
+423
+00:54:24,261 --> 00:54:26,730
+<i>All right, all right, all right.</i>
+
+424
+00:54:39,109 --> 00:54:41,532
+<i>- "Ml-iffy"?
+- Third wife.</i>
+
+425
+00:54:41,862 --> 00:54:45,537
+<i>- Jack Wade, CIA.
+- James Bond, stiff-assed Brit.</i>
+
+426
+00:54:45,616 --> 00:54:47,618
+<i>- That's a nice move.
+- Nice car.</i>
+
+427
+00:54:47,701 --> 00:54:51,831
+<i>Hasn't let me down yet. She's an ugly
+little bitch, but she gets you there.</i>
+
+428
+00:54:51,914 --> 00:54:54,633
+<i>Hey, Bond. Do you do any gardening?</i>
+
+429
+00:54:55,042 --> 00:54:59,218
+<i>{announcement in Russian
+over PA system}</i>
+
+430
+00:54:59,630 --> 00:55:05,182
+<i>{PA system} St Petersburg express
+has now arrived at Platform 3.</i>
+
+431
+00:55:11,642 --> 00:55:13,690
+<i>Can you hand me that wrench, Jimmy?</i>
+
+432
+00:55:14,686 --> 00:55:17,815
+<i>- So what do you know about Janus?
+- Zilch. Zipsky.</i>
+
+433
+00:55:18,232 --> 00:55:21,406
+<i>No one's ever seen him.
+But the man's connected up the kazoo.</i>
+
+434
+00:55:21,568 --> 00:55:24,071
+<i>KGB, military. Screwdriver.</i>
+
+435
+00:55:26,532 --> 00:55:30,253
+<i>Rumour has it he lives on
+one of those old Soviet missile trains.</i>
+
+436
+00:55:30,327 --> 00:55:34,457
+<i>That armoured stuff they used to
+run around so we couldn't target 'em.</i>
+
+437
+00:55:34,957 --> 00:55:37,881
+<i>Wanna hand me that hammer, Jimbo?</i>
+
+438
+00:55:38,168 --> 00:55:40,421
+<i>No, the bigger one. The sledge.</i>
+
+439
+00:55:40,838 --> 00:55:44,843
+<i>Anyways, to tell the truth,
+you don't find this guy. He finds you.</i>
+
+440
+00:55:45,259 --> 00:55:47,808
+<i>Hell, it's all Russian Mafia.</i>
+
+441
+00:55:48,262 --> 00:55:52,017
+<i>Best thing I can do is point you
+in the direction of his competition.</i>
+
+442
+00:55:56,061 --> 00:55:59,656
+<i>- Who is the competition?
+- An ex-KGB guy. Tough mother.</i>
+
+443
+00:55:59,731 --> 00:56:02,234
+<i>Limps on his right leg. Name's Zukovsky.</i>
+
+444
+00:56:02,526 --> 00:56:04,824
+<i>- Valentin Dimitreveych Zukovsky?
+- Yeah.</i>
+
+445
+00:56:05,153 --> 00:56:07,872
+<i>- You know him?
+- I gave him the limp.</i>
+
+446
+00:56:32,890 --> 00:56:34,688
+<i>Yes?</i>
+
+447
+00:56:35,142 --> 00:56:38,112
+<i>- Are these all you have?
+- How many do you want?</i>
+
+448
+00:56:40,397 --> 00:56:43,367
+<i>24 for the American school,
+11 for the Swedish.</i>
+
+449
+00:56:43,442 --> 00:56:48,824
+<i>IBM-compatible with 500 meg
+hard drives, CD-ROM and 14.4 modems.</i>
+
+450
+00:56:49,865 --> 00:56:51,959
+<i>- You pay dollars?
+- Of course.</i>
+
+451
+00:56:52,200 --> 00:56:54,202
+<i>If madam requires a demonstration...</i>
+
+452
+00:56:54,494 --> 00:56:58,499
+<i>Madam requires one demonstration
+model and a quiet place to test it.</i>
+
+453
+00:57:13,305 --> 00:57:14,557
+<i>Natalya.</i>
+
+454
+00:57:19,561 --> 00:57:21,609
+<i>{typing}</i>
+
+455
+00:57:30,989 --> 00:57:35,119
+<i>- Is everything satisfactory?
+- Everything except the interruption.</i>
+
+456
+00:57:48,131 --> 00:57:49,974
+<i>{Wade} Let me get this straight, Jimmy.</i>
+
+457
+00:57:50,050 --> 00:57:53,805
+<i>You shot him in the leg,
+you stole his car, you took his girl.</i>
+
+458
+00:57:54,262 --> 00:57:57,232
+<i>And now you want Zukovsky
+to set you up with Janus?</i>
+
+459
+00:57:57,474 --> 00:58:00,819
+<i>- {Bond} Yes.
+- Are you gonna appeal to his heart?</i>
+
+460
+00:58:00,894 --> 00:58:04,023
+<i>- No. His wallet.
+- That might work.</i>
+
+461
+00:58:04,982 --> 00:58:06,575
+<i>OK. Showtime.</i>
+
+462
+00:58:11,822 --> 00:58:14,575
+<i>Valentin operates
+out of building number 23.</i>
+
+463
+00:58:15,075 --> 00:58:16,748
+<i>Are you sure you wanna do this?</i>
+
+464
+00:58:16,994 --> 00:58:22,376
+<i>Last guy who dropped in uninvited went
+home air freight - in very small boxes.</i>
+
+465
+00:58:23,333 --> 00:58:26,507
+<i>Make sure they send me home first class.</i>
+
+466
+00:59:19,973 --> 00:59:22,601
+<i>- {screams}
+- Natalya! It's me! It's Boris!</i>
+
+467
+00:59:22,684 --> 00:59:24,732
+<i>It's Boris. It's Boris. Hello.</i>
+
+468
+00:59:25,062 --> 00:59:27,156
+<i>Shh-shh-shh.</i>
+
+469
+00:59:30,609 --> 00:59:33,453
+<i>Another morning shot to hell.</i>
+
+470
+00:59:34,988 --> 00:59:39,368
+<i>Free-market economy!
+I swear it will be the end of me.</i>
+
+471
+00:59:43,705 --> 00:59:47,130
+<i>Walther PPK, 7.65mm.</i>
+
+472
+00:59:47,209 --> 00:59:52,431
+<i>Only three men I know use such a gun.
+I believe I've killed two of them.</i>
+
+473
+00:59:52,506 --> 00:59:56,386
+<i>- Lucky me.
+- I think not.</i>
+
+474
+00:59:57,052 --> 01:00:00,056
+<i>Ooh-ahh</i>
+
+475
+01:00:00,138 --> 01:00:02,732
+<i>{Russian accent} And if you love him</i>
+
+476
+01:00:02,808 --> 01:00:03,980
+<i>Love him</i>
+
+477
+01:00:04,059 --> 01:00:07,029
+<i>Oh, be so proud of him</i>
+
+478
+01:00:07,104 --> 01:00:08,196
+<i>Of him</i>
+
+479
+01:00:08,271 --> 01:00:10,990
+<i>Cos after all</i>
+
+480
+01:00:11,066 --> 01:00:13,569
+<i>He's just a man</i>
+
+481
+01:00:16,363 --> 01:00:18,786
+<i>{tunelessly} Stand by your man...</i>
+
+482
+01:00:21,910 --> 01:00:24,004
+<i>James Bond.</i>
+
+483
+01:00:24,830 --> 01:00:27,959
+<i>Charming, sophisticated secret agent.</i>
+
+484
+01:00:29,042 --> 01:00:31,670
+<i>"Shaken, but not stirred."</i>
+
+485
+01:00:32,629 --> 01:00:36,634
+<i>I see you haven't lost your
+delicate sense of humour, Valentin.</i>
+
+486
+01:00:36,758 --> 01:00:39,102
+<i>Or your need for an audience.</i>
+
+487
+01:00:40,011 --> 01:00:43,936
+<i>- Who's strangling the cat?
+- Strangling a cat?</i>
+
+488
+01:00:44,015 --> 01:00:46,234
+<i>Stand by your man</i>
+
+489
+01:00:49,729 --> 01:00:52,824
+<i>That is Irina, my mistress.</i>
+
+490
+01:00:54,234 --> 01:00:56,737
+<i>Very talented girl.</i>
+
+491
+01:00:56,903 --> 01:00:59,281
+<i>Irina! Take a hike!</i>
+
+492
+01:01:03,910 --> 01:01:09,087
+<i>So, Mr Bond, what is it that brings you
+to my neighbourhood? Hm?</i>
+
+493
+01:01:09,249 --> 01:01:14,471
+<i>Still working for MI6, or
+have you joined the 21 st century?</i>
+
+494
+01:01:15,046 --> 01:01:17,265
+<i>I hear the new M is a lady.</i>
+
+495
+01:01:17,340 --> 01:01:20,344
+<i>I want you to do me a favour.</i>
+
+496
+01:01:21,887 --> 01:01:25,733
+<i>He wants me to do him a favour!</i>
+
+497
+01:01:26,433 --> 01:01:32,816
+<i>My knee aches every single day.
+Twice as bad when it is cold.</i>
+
+498
+01:01:32,898 --> 01:01:36,528
+<i>Have you any idea how long
+the winter lasts in this country?</i>
+
+499
+01:01:36,902 --> 01:01:39,121
+<i>- Tell him, Dimitri.
+- It depends...</i>
+
+500
+01:01:39,196 --> 01:01:40,869
+<i>Silence!</i>
+
+501
+01:01:40,947 --> 01:01:44,417
+<i>For an ex-KGB agent,
+you surprise me, Valentin.</i>
+
+502
+01:01:44,492 --> 01:01:49,293
+<i>Surely you must have realised the skill
+was not to hit your knee, but to...</i>
+
+503
+01:01:49,414 --> 01:01:51,712
+<i>Miss the rest of you.</i>
+
+504
+01:01:52,667 --> 01:01:57,423
+<i>- So why did you not kill me?
+- Call it professional courtesy.</i>
+
+505
+01:01:58,548 --> 01:02:01,768
+<i>Then I should extend you
+the same courtesy.</i>
+
+506
+01:02:04,554 --> 01:02:08,604
+<i>Kirov‘s funeral parlour,
+four o'clock this afternoon.</i>
+
+507
+01:02:08,683 --> 01:02:11,937
+<i>200 pounds of C4 explosives
+hidden in a casket.</i>
+
+508
+01:02:12,062 --> 01:02:15,487
+<i>Your man drives the hearse in,
+the money's exchanged,</i>
+
+509
+01:02:15,690 --> 01:02:18,113
+<i>their man drives the hearse out.</i>
+
+510
+01:02:18,193 --> 01:02:20,912
+<i>Their man will be arrested
+with the explosives.</i>
+
+511
+01:02:21,071 --> 01:02:24,996
+<i>Your man will make
+a miraculous escape with the money.</i>
+
+512
+01:02:25,075 --> 01:02:27,123
+<i>Your money.</i>
+
+513
+01:02:27,202 --> 01:02:29,921
+<i>And what do I owe
+for this accommodation?</i>
+
+514
+01:02:30,413 --> 01:02:33,633
+<i>I want you to set me up... with Janus.</i>
+
+515
+01:02:34,334 --> 01:02:38,589
+<i>- What has he done to deserve you?
+- Stole a helicopter.</i>
+
+516
+01:02:38,672 --> 01:02:42,017
+<i>- I have six.
+- Three. None that fly.</i>
+
+517
+01:02:42,550 --> 01:02:46,145
+<i>- Who's counting?
+- These aren't just criminals but traitors.</i>
+
+518
+01:02:46,304 --> 01:02:51,310
+<i>They used the chopper to steal a nuclear
+weapon. Killed a lot of innocent Russians.</i>
+
+519
+01:02:51,393 --> 01:02:54,112
+<i>- What do you expect from a Cossack?
+- Who?</i>
+
+520
+01:02:55,146 --> 01:02:58,946
+<i>This Janus - I never met the man,
+but I know he's a Lienz Cossack.</i>
+
+521
+01:02:59,109 --> 01:03:02,363
+<i>The group that worked
+for the Nazis, Second World War.</i>
+
+522
+01:03:02,445 --> 01:03:05,039
+<i>You know your history.
+At the end of the war,</i>
+
+523
+01:03:05,115 --> 01:03:08,710
+<i>the Lienz Cossacks surrendered
+to the British in Austria,</i>
+
+524
+01:03:08,785 --> 01:03:13,256
+<i>believing they would join them
+and wage war against the communists.</i>
+
+525
+01:03:13,331 --> 01:03:16,961
+<i>But the British betrayed them,
+sent them back to Stalin,</i>
+
+526
+01:03:17,043 --> 01:03:18,886
+<i>who promptly had them all shot.</i>
+
+527
+01:03:18,962 --> 01:03:21,556
+<i>Women, children, families.</i>
+
+528
+01:03:22,966 --> 01:03:25,810
+<i>Not exactly our ﬁnest hour.</i>
+
+529
+01:03:26,136 --> 01:03:29,982
+<i>Still, ruthless people.
+They got what they deserved.</i>
+
+530
+01:03:30,098 --> 01:03:34,103
+<i>I want you to set me up with Janus.
+Tell him I'm asking about the chopper.</i>
+
+531
+01:03:34,185 --> 01:03:38,531
+<i>- You meet me tonight at the Grand Hotel.
+- And then you and I are even and...</i>
+
+532
+01:03:38,648 --> 01:03:41,743
+<i>- he owes me one.
+- Precisely.</i>
+
+533
+01:04:44,547 --> 01:04:47,050
+<i>You don't need the gun... Commander.</i>
+
+534
+01:04:47,258 --> 01:04:51,229
+<i>That depends on
+your definition of safe sex.</i>
+
+535
+01:04:56,101 --> 01:04:58,320
+<i>That's close enough.</i>
+
+536
+01:04:58,436 --> 01:05:00,939
+<i>Not for what I have in mind.</i>
+
+537
+01:05:12,450 --> 01:05:15,078
+<i>{Xenia moans with pleasure}</i>
+
+538
+01:05:18,248 --> 01:05:20,125
+<i>{Xenia shrieks}</i>
+
+539
+01:05:24,629 --> 01:05:27,553
+<i>Oh, you think you can hurt me?</i>
+
+540
+01:05:27,632 --> 01:05:30,135
+<i>{laughs}</i>
+
+541
+01:05:34,848 --> 01:05:38,443
+<i>- {Bond gasps for breath}
+- {Xenia shrieks with pleasure}</i>
+
+542
+01:05:46,693 --> 01:05:48,991
+<i>You think you can break me?</i>
+
+543
+01:05:55,034 --> 01:05:57,128
+<i>{Bond roars}</i>
+
+544
+01:05:57,203 --> 01:06:00,002
+<i>{shrieking} Ah, yes! Yes! Yes!</i>
+
+545
+01:06:01,583 --> 01:06:03,256
+<i>{Xenia yelps}</i>
+
+546
+01:06:06,504 --> 01:06:09,474
+<i>No, no, no.</i>
+
+547
+01:06:09,924 --> 01:06:12,018
+<i>No more foreplay.</i>
+
+548
+01:06:12,969 --> 01:06:14,687
+<i>Take me to Janus.</i>
+
+549
+01:06:14,762 --> 01:06:15,763
+<i>Buliatch!</i>
+
+550
+01:06:30,153 --> 01:06:32,656
+<i>- This is it?
+- Yes.</i>
+
+551
+01:06:34,282 --> 01:06:38,458
+<i>Well, I must say, I've had a lovely evening.</i>
+
+552
+01:06:38,661 --> 01:06:42,541
+<i>- You?
+- Once again, the pleasure was all yours.</i>
+
+553
+01:06:42,624 --> 01:06:47,004
+<i>- You'll understand if I don't call.
+- I won't lose sleep over it.</i>
+
+554
+01:06:49,339 --> 01:06:51,387
+<i>Sweet dreams.</i>
+
+555
+01:07:50,316 --> 01:07:51,909
+<i>{Clink}</i>
+
+556
+01:08:03,454 --> 01:08:05,582
+<i>Hello, James.</i>
+
+557
+01:08:28,021 --> 01:08:31,491
+<i>- Alec?
+- Back from the dead.</i>
+
+558
+01:08:31,733 --> 01:08:36,079
+<i>No longer just an anonymous star
+on the Memorial Wall at MI6.</i>
+
+559
+01:08:36,154 --> 01:08:40,785
+<i>What's the matter, James?
+No glib remark? No pithy comeback?</i>
+
+560
+01:08:42,577 --> 01:08:44,671
+<i>- Why?
+- {laughs}</i>
+
+561
+01:08:45,455 --> 01:08:48,880
+<i>Hilarious question. Particularly from you.</i>
+
+562
+01:08:49,542 --> 01:08:54,799
+<i>Did you ever ask why we toppled
+all those dictators and regimes,</i>
+
+563
+01:08:55,757 --> 01:08:59,227
+<i>only to come home - "Well done!
+Good job, but sorry, old boy."</i>
+
+564
+01:08:59,385 --> 01:09:02,559
+<i>"Everything you risked
+your life for has changed."</i>
+
+565
+01:09:02,639 --> 01:09:06,360
+<i>- It was the job we were chosen for.
+- Of course you'd say that.</i>
+
+566
+01:09:06,601 --> 01:09:09,980
+<i>James Bond, Her Majesty's loyal terrier,</i>
+
+567
+01:09:10,063 --> 01:09:12,316
+<i>defender of the so-called faith.</i>
+
+568
+01:09:12,398 --> 01:09:14,867
+<i>Oh, please, James, put it away.</i>
+
+569
+01:09:15,526 --> 01:09:18,700
+<i>It's insulting to think
+I haven't anticipated your every move.</i>
+
+570
+01:09:21,449 --> 01:09:23,247
+<i>Yes.</i>
+
+571
+01:09:24,786 --> 01:09:30,008
+<i>- I trusted you, Alec.
+- Trust. What a quaint idea.</i>
+
+572
+01:09:31,709 --> 01:09:35,634
+<i>How did the MI6 screening miss
+that your parents were Lienz Cossacks?</i>
+
+573
+01:09:35,713 --> 01:09:39,388
+<i>Once again, your faith
+is misplaced. They knew.</i>
+
+574
+01:09:39,467 --> 01:09:41,845
+<i>We're both orphans, James.</i>
+
+575
+01:09:42,261 --> 01:09:46,186
+<i>But where your parents had the luxury
+of dying in a climbing accident,</i>
+
+576
+01:09:46,265 --> 01:09:49,735
+<i>mine survived the British betrayal
+and Stalin's execution squads.</i>
+
+577
+01:09:51,187 --> 01:09:55,067
+<i>But my father couldn't let himself
+or my mother live with the shame of it.</i>
+
+578
+01:09:56,651 --> 01:09:59,370
+<i>MI6 figured I was too young to remember.</i>
+
+579
+01:10:00,238 --> 01:10:02,536
+<i>And in one of life's little ironies,</i>
+
+580
+01:10:02,824 --> 01:10:05,919
+<i>the son went to work for
+the government whose betrayal</i>
+
+581
+01:10:06,202 --> 01:10:09,706
+<i>caused the father to kill
+himself and his wife.</i>
+
+582
+01:10:09,789 --> 01:10:15,171
+<i>Hence Janus, the two-faced
+Roman god, come to life.</i>
+
+583
+01:10:15,253 --> 01:10:18,223
+<i>It wasn't God who gave me this face.</i>
+
+584
+01:10:18,423 --> 01:10:21,973
+<i>It was you, setting the timers
+for three minutes instead of six.</i>
+
+585
+01:10:22,051 --> 01:10:27,433
+<i>- Am I supposed to feel sorry for you?
+- No. You're supposed to die for me.</i>
+
+586
+01:10:30,518 --> 01:10:32,441
+<i>By the WHY</i>
+
+587
+01:10:32,729 --> 01:10:37,701
+<i>I did think of asking you to join
+my little scheme, but somehow I knew</i>
+
+588
+01:10:37,775 --> 01:10:40,779
+<i>007's loyalty was always
+to the mission,</i>
+
+589
+01:10:41,904 --> 01:10:43,998
+<i>never to his friend.</i>
+
+590
+01:10:45,283 --> 01:10:47,752
+<i>Closing time, James. Last call.</i>
+
+591
+01:10:47,952 --> 01:10:49,625
+<i>{gunshot}</i>
+
+592
+01:11:03,593 --> 01:11:04,765
+<i>For England, James.</i>
+
+593
+01:11:05,094 --> 01:11:08,268
+<i>- {woman} Wake up! Mister!
+- {electronic bleeps}</i>
+
+594
+01:11:08,347 --> 01:11:09,849
+<i>{woman shrieks}</i>
+
+595
+01:11:09,932 --> 01:11:13,186
+<i>Wake up, please! Wake up!</i>
+
+596
+01:11:13,269 --> 01:11:15,271
+<i>I'm here. I'm here!</i>
+
+597
+01:11:15,354 --> 01:11:18,403
+<i>Hurry! Hurry up! Come on!</i>
+
+598
+01:11:19,525 --> 01:11:22,449
+<i>Pull yourself together or we're gonna die!</i>
+
+599
+01:11:24,864 --> 01:11:28,744
+<i>- Do something! Get us out of here!
+- I'm a little tied up!</i>
+
+600
+01:11:28,951 --> 01:11:30,419
+<i>Never mind.</i>
+
+601
+01:12:07,740 --> 01:12:09,834
+<i>{alarm}</i>
+
+602
+01:12:49,448 --> 01:12:52,702
+<i>The things we do
+for frequent-flier mileage.</i>
+
+603
+01:12:53,870 --> 01:12:55,998
+<i>Here. Let me help you.</i>
+
+604
+01:12:56,080 --> 01:12:58,708
+<i>That's it. Mind your head.</i>
+
+605
+01:13:06,549 --> 01:13:08,643
+<i>Let me... go!</i>
+
+606
+01:13:08,718 --> 01:13:11,141
+<i>{vehicles approaching}</i>
+
+607
+01:13:52,678 --> 01:13:54,180
+<i>Who are you?</i>
+
+608
+01:13:56,682 --> 01:13:59,686
+<i>- Listen. I'm on your side.
+- I don't know anything.</i>
+
+609
+01:13:59,769 --> 01:14:01,771
+<i>- I don't believe you.
+- I don't care.</i>
+
+610
+01:14:01,854 --> 01:14:04,152
+<i>Look, they might be back any minute.</i>
+
+611
+01:14:04,357 --> 01:14:08,078
+<i>Are you with me, or your countrymen
+who killed everyone at Severnaya?</i>
+
+612
+01:14:08,152 --> 01:14:10,951
+<i>I've never been to Severnaya.</i>
+
+613
+01:14:11,030 --> 01:14:14,375
+<i>Your watch has. Frozen
+by the Golden Eye blast.</i>
+
+614
+01:14:15,451 --> 01:14:19,001
+<i>And I'm willing to bet you're the one
+who climbed up the dish to get out.</i>
+
+615
+01:14:20,873 --> 01:14:23,376
+<i>- Who are you?
+- I work for the British government.</i>
+
+616
+01:14:23,459 --> 01:14:25,962
+<i>The more you tell me,
+the more I can help you.</i>
+
+617
+01:14:26,045 --> 01:14:30,221
+<i>- But I don't know anything!
+- Then start with what you do know.</i>
+
+618
+01:14:39,892 --> 01:14:42,645
+<i>My name is Natalya Simonova.</i>
+
+619
+01:14:43,312 --> 01:14:46,942
+<i>I was a systems programmer
+at Severnaya facility until...</i>
+
+620
+01:14:47,024 --> 01:14:49,118
+<i>Go on.</i>
+
+621
+01:14:50,403 --> 01:14:53,657
+<i>- Until they killed everyone.
+- Who? Alec Trevelyan?</i>
+
+622
+01:14:53,739 --> 01:14:58,245
+<i>- No. I don't know who that is.
+- Who's the insider? Who's the traitor?</i>
+
+623
+01:14:58,369 --> 01:15:00,667
+<i>Boris. Boris Grishenko.</i>
+
+624
+01:15:00,830 --> 01:15:04,676
+<i>- KGB or military?
+- Computer programmer.</i>
+
+625
+01:15:04,875 --> 01:15:08,004
+<i>- There was no one else?
+- No.</i>
+
+626
+01:15:09,964 --> 01:15:13,093
+<i>They're going to kill me, aren't they?</i>
+
+627
+01:15:13,884 --> 01:15:15,978
+<i>Trust me.</i>
+
+628
+01:15:17,596 --> 01:15:20,975
+<i>Trust you? I don't even know your name.</i>
+
+629
+01:15:21,350 --> 01:15:22,602
+<i>{door opens}</i>
+
+630
+01:15:22,852 --> 01:15:25,696
+<i>Good morning, Mr Bond. Sit.</i>
+
+631
+01:15:33,320 --> 01:15:35,869
+<i>I am Defence Minister Dimitri Mishkin.</i>
+
+632
+01:15:36,032 --> 01:15:39,377
+<i>So, by what means shall we
+execute you, Commander Bond?</i>
+
+633
+01:15:39,744 --> 01:15:41,542
+<i>What, no small talk?</i>
+
+634
+01:15:41,620 --> 01:15:43,748
+<i>No chitchat?</i>
+
+635
+01:15:44,040 --> 01:15:48,466
+<i>That's the trouble. No one has time to do
+a really sinister interrogation any more.</i>
+
+636
+01:15:48,711 --> 01:15:52,466
+<i>- It's a lost art.
+- Your sense of humour doesn't slay me.</i>
+
+637
+01:15:52,882 --> 01:15:55,135
+<i>- Where is the Golden Eye?
+- I assumed you had it.</i>
+
+638
+01:15:55,301 --> 01:15:58,851
+<i>I have an English spy,
+a programmer and a helicopter...</i>
+
+639
+01:15:58,929 --> 01:16:02,524
+<i>- That's how your traitor wants it to look.
+- Who attacked Severnaya?</i>
+
+640
+01:16:02,600 --> 01:16:06,321
+<i>- Who had the codes?
+- The penalty for terrorism is still death.</i>
+
+641
+01:16:06,395 --> 01:16:10,650
+<i>- And for treason?
+- Stop it, both of you! Stop it.</i>
+
+642
+01:16:10,733 --> 01:16:13,236
+<i>You're like... boys with toys.</i>
+
+643
+01:16:18,282 --> 01:16:21,752
+<i>It was Ourumov.
+General Ourumov set off the weapon.</i>
+
+644
+01:16:22,036 --> 01:16:24,130
+<i>I saw him do it.</i>
+
+645
+01:16:26,499 --> 01:16:28,968
+<i>- Are you certain it was Ourumov?
+- Yes.</i>
+
+646
+01:16:30,086 --> 01:16:32,589
+<i>He killed everyone,
+then stole the Go|denEye.</i>
+
+647
+01:16:34,673 --> 01:16:37,051
+<i>And why would he do that?</i>
+
+648
+01:16:37,259 --> 01:16:39,808
+<i>There is another satellite.</i>
+
+649
+01:16:42,890 --> 01:16:45,188
+<i>Another Golden Eye.</i>
+
+650
+01:16:46,102 --> 01:16:48,855
+<i>Thank you, Miss Simonova.</i>
+
+651
+01:16:49,188 --> 01:16:52,408
+<i>What did you say about
+the lost art of interrogation, Mr Bond?</i>
+
+652
+01:16:52,483 --> 01:16:53,905
+<i>{door opens}</i>
+
+653
+01:16:53,984 --> 01:16:58,239
+<i>Defence Minister, I must protest.
+This is my investigation.</i>
+
+654
+01:16:58,322 --> 01:17:01,496
+<i>- You are out of order.
+- Molcheetye. Molcheech!</i>
+
+655
+01:17:01,575 --> 01:17:05,580
+<i>From what I am hearing,
+it is you who is out of order.</i>
+
+656
+01:17:05,788 --> 01:17:08,041
+<i>I've seen this gun
+in the hand of our enemy.</i>
+
+657
+01:17:08,124 --> 01:17:12,425
+<i>- Put it down, General!
+- Do you even know who the enemy is?</i>
+
+658
+01:17:12,503 --> 01:17:14,380
+<i>- Do you?
+- Guard!</i>
+
+659
+01:17:20,469 --> 01:17:23,518
+<i>Defence Minister Dimitri Mishkin,</i>
+
+660
+01:17:24,682 --> 01:17:28,653
+<i>murdered by
+British agent James Bond,</i>
+
+661
+01:17:31,397 --> 01:17:34,742
+<i>himself shot while trying to escape.</i>
+
+662
+01:17:34,900 --> 01:17:36,322
+<i>Guards!</i>
+
+663
+01:17:47,204 --> 01:17:49,252
+<i>Come on!</i>
+
+664
+01:18:29,413 --> 01:18:31,040
+<i>They're in the archive!</i>
+
+665
+01:18:35,753 --> 01:18:37,471
+<i>Down!</i>
+
+666
+01:19:28,389 --> 01:19:31,393
+<i>{Ourumov} Spread out!
+Cover the other side!</i>
+
+667
+01:19:31,558 --> 01:19:33,606
+<i>Trust me.</i>
+
+668
+01:19:39,650 --> 01:19:41,277
+<i>{Natalya cries out}</i>
+
+669
+01:19:41,860 --> 01:19:43,407
+<i>Argh!</i>
+
+670
+01:20:09,763 --> 01:20:12,232
+<i>Go now!</i>
+
+671
+01:20:28,532 --> 01:20:30,250
+<i>{car horn}</i>
+
+672
+01:20:41,712 --> 01:20:43,806
+<i>Faster!</i>
+
+673
+01:21:03,859 --> 01:21:06,032
+<i>Damn it.</i>
+
+674
+01:21:12,493 --> 01:21:14,837
+<i>Down the alley!</i>
+
+675
+01:22:14,096 --> 01:22:16,394
+<i>Use the bumper. That's what it's for.</i>
+
+676
+01:22:29,153 --> 01:22:30,530
+<i>Nazad !</i>
+
+677
+01:22:35,075 --> 01:22:37,453
+<i>{police siren}</i>
+
+678
+01:22:40,747 --> 01:22:42,841
+<i>{car horn}</i>
+
+679
+01:23:35,302 --> 01:23:37,396
+<i>{police whistle}</i>
+
+680
+01:23:52,778 --> 01:23:54,621
+<i>What was that?</i>
+
+681
+01:24:31,441 --> 01:24:33,114
+<i>Go left!</i>
+
+682
+01:25:09,313 --> 01:25:11,816
+<i>{tyres squeal}</i>
+
+683
+01:25:13,400 --> 01:25:15,494
+<i>Get out!</i>
+
+684
+01:26:07,913 --> 01:26:13,340
+<i>Either you've brought me the perfect gift,
+or you've made me a very unhappy man.</i>
+
+685
+01:26:13,418 --> 01:26:16,297
+<i>Mishkin got to them before I could.</i>
+
+686
+01:26:17,214 --> 01:26:19,933
+<i>Bond is alive?</i>
+
+687
+01:26:20,008 --> 01:26:22,761
+<i>- He escaped.
+- Good for Bond.</i>
+
+688
+01:26:23,970 --> 01:26:26,564
+<i>Bad for you.</i>
+
+689
+01:26:28,558 --> 01:26:31,152
+<i>Take a seat, my dear.</i>
+
+690
+01:26:47,619 --> 01:26:50,839
+<i>You know, James and I
+shared everything.</i>
+
+691
+01:26:52,749 --> 01:26:55,218
+<i>Absolutely everything.</i>
+
+692
+01:27:00,048 --> 01:27:01,470
+<i>To the victor go the spoils.</i>
+
+693
+01:27:11,351 --> 01:27:13,069
+<i>You'll like it where we're going.</i>
+
+694
+01:27:19,860 --> 01:27:21,908
+<i>You may even learn to like me.</i>
+
+695
+01:27:29,578 --> 01:27:31,455
+<i>- Svinya!
+' {bleeping}</i>
+
+696
+01:27:31,538 --> 01:27:33,415
+<i>Stay with her.</i>
+
+697
+01:27:39,504 --> 01:27:42,428
+<i>Bond. Only Bond.</i>
+
+698
+01:27:42,883 --> 01:27:45,602
+<i>He's going to derail us.</i>
+
+699
+01:27:46,428 --> 01:27:48,522
+<i>- Full speed!
+- Shto?</i>
+
+700
+01:27:48,638 --> 01:27:50,390
+<i>Full speed! Ram him!</i>
+
+701
+01:27:52,100 --> 01:27:53,443
+<i>Bye-bye.</i>
+
+702
+01:27:56,021 --> 01:27:58,524
+<i>{train whistle}</i>
+
+703
+01:28:55,956 --> 01:28:58,709
+<i>Why can't you just
+be a good boy and die?</i>
+
+704
+01:28:58,875 --> 01:29:00,422
+<i>You first.</i>
+
+705
+01:29:00,502 --> 01:29:02,596
+<i>You... second.</i>
+
+706
+01:29:03,547 --> 01:29:05,220
+<i>Up!</i>
+
+707
+01:29:08,593 --> 01:29:12,143
+<i>Situation analysis... hopeless.</i>
+
+708
+01:29:13,348 --> 01:29:16,318
+<i>You have no backup, no escape route.</i>
+
+709
+01:29:16,768 --> 01:29:19,362
+<i>And I have the only bargaining chip.</i>
+
+710
+01:29:19,521 --> 01:29:24,027
+<i>- Where is she?
+- Ah, yes. Your fatal weakness.</i>
+
+711
+01:29:25,694 --> 01:29:28,197
+<i>Ourumov, bring her in.</i>
+
+712
+01:29:29,906 --> 01:29:31,783
+<i>Lovely girl.</i>
+
+713
+01:29:31,867 --> 01:29:35,497
+<i>Tastes like... like strawberries.</i>
+
+714
+01:29:35,829 --> 01:29:37,627
+<i>- I wouldn't know.
+- I would.</i>
+
+715
+01:29:46,047 --> 01:29:49,051
+<i>So, back where we started, James.</i>
+
+716
+01:29:49,134 --> 01:29:51,978
+<i>Your friend, or the mission?</i>
+
+717
+01:29:52,429 --> 01:29:54,727
+<i>Drop the gun. I'll let her live.</i>
+
+718
+01:29:58,268 --> 01:30:02,865
+<i>Ourumov... what has
+this Cossack promised you?</i>
+
+719
+01:30:03,982 --> 01:30:07,327
+<i>You knew, didn't you?
+He's a Lienz Cossack.</i>
+
+720
+01:30:07,402 --> 01:30:12,203
+<i>- It's in the past.
+- He'll betray you! Just like everyone else.</i>
+
+721
+01:30:12,866 --> 01:30:15,369
+<i>- ls this true?
+- What's true is that in 48 hours,</i>
+
+722
+01:30:15,452 --> 01:30:18,581
+<i>you and I will have
+more money than God</i>
+
+723
+01:30:18,955 --> 01:30:22,255
+<i>and Mr Bond here will have
+a small memorial service,</i>
+
+724
+01:30:22,542 --> 01:30:26,763
+<i>with only Moneypenny and a few
+tearful restaurateurs in attendance.</i>
+
+725
+01:30:27,964 --> 01:30:31,093
+<i>So, what's the choice, James?</i>
+
+726
+01:30:31,551 --> 01:30:35,272
+<i>Two targets, time enough for one shot.</i>
+
+727
+01:30:35,764 --> 01:30:37,892
+<i>The girl, or the mission?</i>
+
+728
+01:30:38,099 --> 01:30:40,943
+<i>Kill her. She means nothing to me.</i>
+
+729
+01:30:44,147 --> 01:30:45,865
+<i>See you in hell, James.</i>
+
+730
+01:30:57,077 --> 01:31:01,708
+<i>- One-inch armour plating.
+- I'm fine, thank you very much!</i>
+
+731
+01:31:06,503 --> 01:31:08,801
+<i>Boris. Yes!</i>
+
+732
+01:31:09,506 --> 01:31:12,510
+<i>- What are you doing?
+- Boris is on-line backing up his files.</i>
+
+733
+01:31:12,592 --> 01:31:16,938
+<i>If I can spike him, I might be able
+to find out where they're going.</i>
+
+734
+01:31:18,723 --> 01:31:22,569
+<i>- Don't stand there! Get us out of here!
+- Yes, sir.</i>
+
+735
+01:31:40,870 --> 01:31:42,838
+<i>{Alec} Good luck with the floor, James.</i>
+
+736
+01:31:42,914 --> 01:31:46,669
+<i>I set the timers for six minutes -
+the same six minutes you gave me.</i>
+
+737
+01:31:47,585 --> 01:31:50,179
+<i>It was the least I could do for a friend.</i>
+
+738
+01:31:52,424 --> 01:31:55,598
+<i>- What does that mean?
+- We've got three minutes.</i>
+
+739
+01:32:29,252 --> 01:32:31,675
+<i>- What else do you call your bottom?
+- What?</i>
+
+740
+01:32:31,880 --> 01:32:35,851
+<i>Boris' password. He plays word games
+"What I sit on but don't take with me."</i>
+
+741
+01:32:35,925 --> 01:32:38,895
+<i>- Chair.
+- Like I said...</i>
+
+742
+01:32:43,224 --> 01:32:44,350
+<i>{Bond} 30 seconds.</i>
+
+743
+01:32:44,434 --> 01:32:48,064
+<i>{Natalya} He's not in Russia,
+Germany, Paris, London, Madrid,</i>
+
+744
+01:32:48,146 --> 01:32:51,275
+<i>- 25 seconds.
+- New York, Toronto, Chicago,</i>
+
+745
+01:32:51,357 --> 01:32:53,325
+<i>- San Francisco...
+- 20 seconds!</i>
+
+746
+01:32:53,401 --> 01:32:55,745
+<i>Mexico City, Rio, Miami...</i>
+
+747
+01:33:01,868 --> 01:33:05,668
+<i>- Come on!
+- Wait! He's in Cuba. Havana - no.</i>
+
+748
+01:33:06,414 --> 01:33:08,257
+<i>NOW!</i>
+
+749
+01:33:27,685 --> 01:33:31,030
+<i>Do you destroy
+every vehicle you get into?</i>
+
+750
+01:33:31,106 --> 01:33:33,825
+<i>Standard operating procedure.</i>
+
+751
+01:33:35,110 --> 01:33:37,454
+<i>Boys with toys.</i>
+
+752
+01:33:40,198 --> 01:33:44,078
+<i>Maybe I should take care of
+the transportation for our trip to Cuba.</i>
+
+753
+01:33:45,286 --> 01:33:46,629
+<i>Our trip?</i>
+
+754
+01:33:46,871 --> 01:33:50,000
+<i>Do you know how to disarm the weapon?</i>
+
+755
+01:33:51,459 --> 01:33:55,509
+<i>I suppose that depends on what kind of
+weapon you're talking about disarming.</i>
+
+756
+01:33:57,465 --> 01:34:03,814
+<i>So... tell me. Are there any other
+standard operating procedures</i>
+
+757
+01:34:04,264 --> 01:34:06,767
+<i>I should be aware of, Commander?</i>
+
+758
+01:34:11,938 --> 01:34:13,690
+<i>Thousands.</i>
+
+759
+01:34:13,773 --> 01:34:16,322
+<i>But I only pay them</i>
+
+760
+01:34:16,860 --> 01:34:18,954
+<i>lip service.</i>
+
+761
+01:34:41,885 --> 01:34:45,515
+<i>My whole life I dreamed
+about coming to the Caribbean.</i>
+
+762
+01:34:45,847 --> 01:34:47,849
+<i>It's so beautiful.</i>
+
+763
+01:34:47,932 --> 01:34:50,185
+<i>Not another human being in sight.</i>
+
+764
+01:34:50,268 --> 01:34:52,362
+<i>{fast bleeping}</i>
+
+765
+01:35:03,364 --> 01:35:06,117
+<i>What is it with you and moving vehicles?</i>
+
+766
+01:35:31,017 --> 01:35:36,148
+<i>Yo, Jimbo! Brought a little gift
+from old... whatshisname? T? Z?</i>
+
+767
+01:35:36,231 --> 01:35:37,778
+<i>_ Q_
+- Yeah.</i>
+
+768
+01:35:37,982 --> 01:35:41,612
+<i>- What are you doing here, Wade?
+- Banyan trees.</i>
+
+769
+01:35:41,819 --> 01:35:45,323
+<i>Uh... lam not here. The CIA has
+no knowledge, no involvement.</i>
+
+770
+01:35:45,406 --> 01:35:49,081
+<i>Nothing to do with your insertion
+into Cuba, if you catch my drift.</i>
+
+771
+01:35:49,160 --> 01:35:50,787
+<i>Mm-hm. Yes, I do.</i>
+
+772
+01:35:51,162 --> 01:35:53,585
+<i>Borrowed the plane
+from a friend in the DEA.</i>
+
+773
+01:35:54,082 --> 01:35:56,176
+<i>The Coast Guard and the FAA
+are in the loop.</i>
+
+774
+01:35:56,251 --> 01:35:58,925
+<i>You're cleared on our radar
+for 0600 hours.</i>
+
+775
+01:35:59,170 --> 01:36:01,343
+<i>Here's the latest sat-int from Langley.</i>
+
+776
+01:36:01,547 --> 01:36:05,268
+<i>- Stay below 600 feet.
+- 500 feet.</i>
+
+777
+01:36:05,551 --> 01:36:07,895
+<i>- Who's that?
+- Natalya Simonova.</i>
+
+778
+01:36:07,971 --> 01:36:11,020
+<i>- Sim-yo-nova.
+- Russian minister of transportation.</i>
+
+779
+01:36:11,099 --> 01:36:13,193
+<i>{Wade clears throat}</i>
+
+780
+01:36:14,435 --> 01:36:16,654
+<i>Did you check her out?</i>
+
+781
+01:36:16,980 --> 01:36:19,153
+<i>- Head to toe.
+- Right...</i>
+
+782
+01:36:21,526 --> 01:36:25,702
+<i>So, you're lookin' for a dish the size
+of a football ﬁeld, huh? Doesn't exist.</i>
+
+783
+01:36:25,780 --> 01:36:29,375
+<i>- Light a cigar in Cuba and we see it.
+- I know it's there.</i>
+
+784
+01:36:29,450 --> 01:36:34,206
+<i>It's a duplicate of Severnaya, like
+your secret transmitters in New Zealand.</i>
+
+785
+01:36:34,455 --> 01:36:37,129
+<i>I've never been there.
+How does she know about that?</i>
+
+786
+01:36:37,208 --> 01:36:40,462
+<i>- What if I need backup?
+- Get on the radio. I'll send in the marines.</i>
+
+787
+01:36:42,505 --> 01:36:44,974
+<i>Anyway, hang a left
+at the end of the runway.</i>
+
+788
+01:36:45,091 --> 01:36:47,719
+<i>- Cuba's 80 miles on your right.
+- Yo, Wade!</i>
+
+789
+01:36:52,265 --> 01:36:55,314
+<i>Just one thing. Don't push
+any of the buttons on that car.</i>
+
+790
+01:36:55,810 --> 01:36:58,814
+<i>- I'm just gonna bomb around in it.
+- Exactly.</i>
+
+791
+01:36:59,522 --> 01:37:02,321
+<i>Yo, James. I got faith, but be careful.</i>
+
+792
+01:37:02,817 --> 01:37:06,617
+<i>- He knows you're comin'.
+- {starts engine}</i>
+
+793
+01:38:08,424 --> 01:38:11,018
+<i>He was your friend - Trevelyan.</i>
+
+794
+01:38:12,887 --> 01:38:15,891
+<i>And now he's your enemy
+and you will kill him.</i>
+
+795
+01:38:18,059 --> 01:38:19,857
+<i>It is that simple?</i>
+
+796
+01:38:21,062 --> 01:38:23,110
+<i>In a word, yes.</i>
+
+797
+01:38:24,399 --> 01:38:26,572
+<i>- Unless he kills you first.
+- Natalya...</i>
+
+798
+01:38:26,651 --> 01:38:31,578
+<i>You think I'm impressed? With your guns,
+your killing, your death. For what?</i>
+
+799
+01:38:31,948 --> 01:38:34,451
+<i>So you can be a hero?</i>
+
+800
+01:38:35,827 --> 01:38:38,000
+<i>- All the heroes I know are dead.
+- Natalya...</i>
+
+801
+01:38:38,079 --> 01:38:41,299
+<i>How can you act like this?
+How can you be so cold?</i>
+
+802
+01:38:43,376 --> 01:38:46,095
+<i>It's what keeps me alive.</i>
+
+803
+01:38:47,213 --> 01:38:50,387
+<i>No. It's what keeps you alone.</i>
+
+804
+01:39:29,755 --> 01:39:31,849
+<i>James...</i>
+
+805
+01:39:33,384 --> 01:39:35,478
+<i>Yes?</i>
+
+806
+01:39:41,976 --> 01:39:43,603
+<i>On the train,</i>
+
+807
+01:39:45,062 --> 01:39:49,488
+<i>when you told him to kill me
+and that I meant nothing to you,</i>
+
+808
+01:39:49,650 --> 01:39:51,277
+<i>did you mean it?</i>
+
+809
+01:39:53,613 --> 01:39:54,785
+<i>Yes.</i>
+
+810
+01:39:56,365 --> 01:39:59,619
+<i>Basic rule: always call their bluff.</i>
+
+811
+01:40:00,953 --> 01:40:03,047
+<i>{Bond laughs}</i>
+
+812
+01:40:04,290 --> 01:40:05,963
+<i>No.</i>
+
+813
+01:40:39,158 --> 01:40:43,288
+<i>Turn ten degrees south, bearing 1-8-4.</i>
+
+814
+01:40:43,371 --> 01:40:45,294
+<i>Yes, sir.</i>
+
+815
+01:41:09,981 --> 01:41:13,531
+<i>Nothing. There is nothing here.</i>
+
+816
+01:41:14,151 --> 01:41:16,245
+<i>Let's make another pass.</i>
+
+817
+01:41:29,125 --> 01:41:31,503
+<i>Maybe Wade was right. There is no dish.</i>
+
+818
+01:41:34,297 --> 01:41:36,550
+<i>{Natalya screams}</i>
+
+819
+01:42:30,144 --> 01:42:31,817
+<i>Natalya.</i>
+
+820
+01:42:36,484 --> 01:42:38,452
+<i>{Bond groans}</i>
+
+821
+01:42:46,744 --> 01:42:48,792
+<i>{shrill birdsong}</i>
+
+822
+01:43:31,997 --> 01:43:36,798
+<i>This time, Mr Bond,
+the pleasure will be all mine.</i>
+
+823
+01:43:38,796 --> 01:43:40,798
+<i>{cries out in pain}</i>
+
+824
+01:43:45,428 --> 01:43:47,647
+<i>{Xenia gasps with pleasure}</i>
+
+825
+01:43:47,805 --> 01:43:50,524
+<i>{Bond growls}</i>
+
+826
+01:43:56,564 --> 01:43:58,191
+<i>You wait for your turn.</i>
+
+827
+01:44:06,574 --> 01:44:08,247
+<i>{shrieks}</i>
+
+828
+01:44:32,224 --> 01:44:34,022
+<i>She always did enjoy a good squeeze.</i>
+
+829
+01:44:45,738 --> 01:44:49,038
+<i>- ls the satellite in range?
+- Six minutes.</i>
+
+830
+01:44:49,116 --> 01:44:51,835
+<i>- Prepare the dish.
+- No. It's too early.</i>
+
+831
+01:44:52,328 --> 01:44:55,423
+<i>- I am not ready.
+- Do it.</i>
+
+832
+01:44:59,168 --> 01:45:02,297
+<i>{klaxon}</i>
+
+833
+01:45:26,028 --> 01:45:28,656
+<i>No wonder we couldn't see it.</i>
+
+834
+01:45:38,749 --> 01:45:40,843
+<i>Come on.</i>
+
+835
+01:45:55,850 --> 01:45:58,694
+<i>The world's greatest cash card.</i>
+
+836
+01:46:00,020 --> 01:46:01,738
+<i>It had better not be rejected.</i>
+
+837
+01:47:06,462 --> 01:47:09,591
+<i>- Mischa is on-line.
+- {guard} Sir!</i>
+
+838
+01:47:15,012 --> 01:47:16,685
+<i>Kill him.</i>
+
+839
+01:47:17,139 --> 01:47:19,267
+<i>The man just won't take a hint.</i>
+
+840
+01:47:19,475 --> 01:47:20,692
+<i>Hm!</i>
+
+841
+01:47:20,768 --> 01:47:24,739
+<i>- Target coordinates?
+- The target is London.</i>
+
+842
+01:47:37,534 --> 01:47:40,333
+<i>He's getting ready to signal the satellite.</i>
+
+843
+01:47:40,621 --> 01:47:43,340
+<i>- How do you stop it?
+- The transmitter above the antenna.</i>
+
+844
+01:48:15,781 --> 01:48:18,284
+<i>Antenna in position.</i>
+
+845
+01:48:20,828 --> 01:48:23,001
+<i>On my count.</i>
+
+846
+01:48:23,330 --> 01:48:26,504
+<i>Three... two... one.</i>
+
+847
+01:48:37,386 --> 01:48:40,139
+<i>{ringing}</i>
+
+848
+01:48:55,654 --> 01:48:57,748
+<i>God save the Queen.</i>
+
+849
+01:48:57,906 --> 01:49:00,034
+<i>{klaxon}</i>
+
+850
+01:49:07,124 --> 01:49:09,718
+<i>{men shouting in Russian}</i>
+
+851
+01:49:16,717 --> 01:49:20,096
+<i>- The mainframe computer.
+- Don't move.</i>
+
+852
+01:50:05,182 --> 01:50:07,230
+<i>{fast bleeping}</i>
+
+853
+01:50:46,557 --> 01:50:49,777
+<i>James! What an unpleasant surprise.</i>
+
+854
+01:50:49,977 --> 01:50:53,026
+<i>- We aim to please.
+- Where's the girl?</i>
+
+855
+01:50:53,856 --> 01:50:55,824
+<i>Find her!</i>
+
+856
+01:51:02,865 --> 01:51:04,993
+<i>So, how is old Q?</i>
+
+857
+01:51:05,701 --> 01:51:07,874
+<i>Up to his usual tricks?</i>
+
+858
+01:51:08,662 --> 01:51:10,790
+<i>The watch.</i>
+
+859
+01:51:14,001 --> 01:51:16,925
+<i>Ah. A new model.</i>
+
+860
+01:51:17,296 --> 01:51:19,390
+<i>Still press here, do I?</i>
+
+861
+01:51:31,810 --> 01:51:33,858
+<i>{man shouting in Russian}</i>
+
+862
+01:51:36,315 --> 01:51:38,534
+<i>{Bond} Interesting setup, Alec.</i>
+
+863
+01:51:39,526 --> 01:51:41,699
+<i>You break into the Bank of England
+via computer,</i>
+
+864
+01:51:41,778 --> 01:51:44,327
+<i>then transfer the money electronically</i>
+
+865
+01:51:44,656 --> 01:51:47,705
+<i>just seconds before
+you set off the Go|denEye,</i>
+
+866
+01:51:47,951 --> 01:51:51,125
+<i>which erases any record
+of the transactions.</i>
+
+867
+01:51:51,788 --> 01:51:54,541
+<i>- Ingenious.
+- Thank you, James.</i>
+
+868
+01:51:54,875 --> 01:51:57,594
+<i>But it still boils down to petty theft.</i>
+
+869
+01:51:58,587 --> 01:52:02,808
+<i>In the end, you're just a bank robber.
+Nothing more than a common thief.</i>
+
+870
+01:52:13,268 --> 01:52:15,771
+<i>You always did have
+a small mind, James.</i>
+
+871
+01:52:16,438 --> 01:52:21,569
+<i>It's not just erasing bank records. It's
+everything on every computer in London.</i>
+
+872
+01:52:21,652 --> 01:52:26,453
+<i>Tax records, the stock market,
+credit ratings, land registries,</i>
+
+873
+01:52:26,531 --> 01:52:28,704
+<i>criminal records.</i>
+
+874
+01:52:28,909 --> 01:52:33,005
+<i>In 16 minutes and 43... no, 42 seconds,</i>
+
+875
+01:52:33,497 --> 01:52:35,841
+<i>the United Kingdom
+will re-enter the Stone Age.</i>
+
+876
+01:52:35,916 --> 01:52:38,920
+<i>A worldwide financial meltdown.</i>
+
+877
+01:52:39,127 --> 01:52:43,223
+<i>And all so mad little Alec can settle
+a score with the world 50 years on.</i>
+
+878
+01:52:43,298 --> 01:52:47,895
+<i>Oh, please, James! Spare me the Freud.
+I might as well ask you</i>
+
+879
+01:52:47,970 --> 01:52:52,567
+<i>if all the vodka martinis ever silence
+the screams of all the men you've killed.</i>
+
+880
+01:52:55,435 --> 01:52:59,440
+<i>Or if you find forgiveness
+in the arms of all those willing women</i>
+
+881
+01:52:59,606 --> 01:53:01,984
+<i>for all the dead ones
+you failed to protect.</i>
+
+882
+01:53:04,194 --> 01:53:07,698
+<i>England is about to learn
+the cost of betrayal,</i>
+
+883
+01:53:07,781 --> 01:53:10,660
+<i>inflation-adjusted for 1945.</i>
+
+884
+01:53:13,161 --> 01:53:15,789
+<i>- Welcome to the party, my dear.
+- {Boris} Natalya!</i>
+
+885
+01:53:20,335 --> 01:53:22,633
+<i>{Natalya grunts with rage}</i>
+
+886
+01:53:25,674 --> 01:53:28,097
+<i>{cocking of weapons}</i>
+
+887
+01:53:50,657 --> 01:53:54,161
+<i>Don't ever... do that again.</i>
+
+888
+01:53:54,494 --> 01:53:57,919
+<i>This is not one of your games, Boris.
+Real people will die!</i>
+
+889
+01:53:57,998 --> 01:54:01,047
+<i>You pathetic little worm.</i>
+
+890
+01:54:01,710 --> 01:54:04,179
+<i>She was in the mainframe.
+Check the computer.</i>
+
+891
+01:54:04,254 --> 01:54:08,350
+<i>She's a moron.
+A second-level programmer.</i>
+
+892
+01:54:09,009 --> 01:54:11,853
+<i>She works on the guidance system.</i>
+
+893
+01:54:11,928 --> 01:54:15,478
+<i>She doesn't even have access
+to the ﬁring codes.</i>
+
+894
+01:54:15,557 --> 01:54:18,151
+<i>{buzzer alarm}</i>
+
+895
+01:54:20,270 --> 01:54:21,863
+<i>Retro-rockets firing.</i>
+
+896
+01:54:39,873 --> 01:54:45,630
+<i>- What the hell's happening?
+- We will have re-entry in... 12 minutes.</i>
+
+897
+01:54:47,089 --> 01:54:49,717
+<i>It will burn up
+somewhere over the Atlantic.</i>
+
+898
+01:54:49,800 --> 01:54:53,771
+<i>- {Alec} Deal with it!
+- She changed the access codes!</i>
+
+899
+01:54:55,222 --> 01:54:57,725
+<i>Then she can fix it.</i>
+
+900
+01:55:00,560 --> 01:55:04,235
+<i>Go ahead. Shoot him.
+He means nothing to me.</i>
+
+901
+01:55:05,607 --> 01:55:08,702
+<i>I can do it! I can break her codes!</i>
+
+902
+01:55:08,777 --> 01:55:11,280
+<i>Then get on with it!</i>
+
+903
+01:55:38,974 --> 01:55:41,147
+<i>Tell him! Now!</i>
+
+904
+01:55:41,810 --> 01:55:45,064
+<i>Give me the codes, Natalya!
+Give them to me!</i>
+
+905
+01:56:01,496 --> 01:56:03,544
+<i>- Can Boris break your codes?
+- Possibly.</i>
+
+906
+01:56:04,040 --> 01:56:05,713
+<i>Possibly?</i>
+
+907
+01:56:06,710 --> 01:56:09,054
+<i>We have to destroy the transmitter.</i>
+
+908
+01:56:09,129 --> 01:56:12,303
+<i>By the way, I'm fine,
+thank you very much!</i>
+
+909
+01:56:40,994 --> 01:56:44,089
+<i>Do you know how to use one of these?</i>
+
+910
+01:56:45,999 --> 01:56:47,501
+<i>Yes.</i>
+
+911
+01:56:47,584 --> 01:56:49,837
+<i>Good. Stay out of sight.</i>
+
+912
+01:56:55,175 --> 01:56:57,678
+<i>{men shouting in Russian}</i>
+
+913
+01:57:04,601 --> 01:57:06,569
+<i>- How long?
+- Two minutes.</i>
+
+914
+01:57:06,686 --> 01:57:08,233
+<i>- One minute.
+- Guard!</i>
+
+915
+01:57:08,355 --> 01:57:12,155
+<i>- I'm ﬁxing it.
+- If he moves, kill him.</i>
+
+916
+01:58:34,899 --> 01:58:38,073
+<i>Yes! I am invincible.</i>
+
+917
+01:58:55,462 --> 01:58:56,805
+<i>{klaxon}</i>
+
+918
+01:59:30,747 --> 01:59:31,964
+<i>{claﬂg}</i>
+
+919
+02:00:48,616 --> 02:00:50,243
+<i>You know, James?</i>
+
+920
+02:00:51,911 --> 02:00:53,379
+<i>I was always better.</i>
+
+921
+02:01:10,930 --> 02:01:12,728
+<i>Alpha One to Gunship.</i>
+
+922
+02:01:13,099 --> 02:01:15,147
+<i>Alpha One to Gunship!</i>
+
+923
+02:02:15,995 --> 02:02:18,123
+<i>Speak to me!</i>
+
+924
+02:02:53,324 --> 02:02:55,292
+<i>For England, James?</i>
+
+925
+02:02:55,910 --> 02:02:56,957
+<i>No.</i>
+
+926
+02:02:58,371 --> 02:02:59,588
+<i>For me.</i>
+
+927
+02:03:00,081 --> 02:03:01,674
+<i>Aaaaarghhhhh!</i>
+
+928
+02:03:07,630 --> 02:03:09,132
+<i>Aaaaaarghhhhh!</i>
+
+929
+02:03:54,636 --> 02:03:56,229
+<i>Aaaarghhhhhh!</i>
+
+930
+02:04:18,910 --> 02:04:21,629
+<i>Yes! I am invincible!</i>
+
+931
+02:04:46,437 --> 02:04:47,984
+<i>James! James!</i>
+
+932
+02:04:48,773 --> 02:04:50,446
+<i>Are you all right?</i>
+
+933
+02:04:53,987 --> 02:04:55,989
+<i>Yes, I'm ﬁne. Thank you.</i>
+
+934
+02:05:06,165 --> 02:05:08,338
+<i>Suppose someone is watching?</i>
+
+935
+02:05:10,003 --> 02:05:12,381
+<i>There's no one within 25 miles,
+believe me.</i>
+
+936
+02:05:13,923 --> 02:05:15,550
+<i>{Wade} Yo, Jimbo!</i>
+
+937
+02:05:24,851 --> 02:05:29,197
+<i>Is this supposed to be your idea
+of "coming through in a clinch"?</i>
+
+938
+02:05:30,815 --> 02:05:32,567
+<i>It's tobacco plants.</i>
+
+939
+02:05:33,026 --> 02:05:35,074
+<i>I said I'd be here, huh?</i>
+
+940
+02:05:35,153 --> 02:05:36,530
+<i>Yo! Marines!</i>
+
+941
+02:05:47,582 --> 02:05:51,052
+<i>Maybe you two'd like to finish debriefing
+each other at Guantanamo, hm?</i>
+
+942
+02:05:53,880 --> 02:05:55,928
+<i>- Ready?
+- I'm not going on a helicopter with you.</i>
+
+943
+02:05:56,007 --> 02:05:59,352
+<i>No plane, no train, nothing that moves.</i>
+
+944
+02:05:59,427 --> 02:06:02,351
+<i>Darling, what could
+possibly go wrong, hey?</i>
+
+945
+02:06:28,414 --> 02:06:31,133
+<i>{"The Experience of Love”
+by Eric Serra}</i>
+
+946
+02:06:38,049 --> 02:06:41,679
+<i>I know you dream a lot</i>
+
+947
+02:06:44,305 --> 02:06:47,275
+<i>Holding on to lies</i>
+
+948
+02:06:50,019 --> 02:06:52,613
+<i>And you wait around</i>
+
+949
+02:06:56,692 --> 02:06:59,992
+<i>For someone to know where you hide</i>
+
+950
+02:07:02,949 --> 02:07:06,704
+<i>And in your dreams you feel a lot</i>
+
+951
+02:07:09,122 --> 02:07:12,422
+<i>Though you keep it all inside</i>
+
+952
+02:07:15,002 --> 02:07:17,846
+<i>And you close your eyes</i>
+
+953
+02:07:21,634 --> 02:07:24,478
+<i>It helps keep you alive</i>
+
+954
+02:07:27,640 --> 02:07:30,735
+<i>And the experience of /ovin'</i>
+
+955
+02:07:33,646 --> 02:07:36,365
+<i>Will take all the pain away</i>
+
+956
+02:07:39,944 --> 02:07:43,289
+<i>Just understanding for the ﬁrst time</i>
+
+957
+02:07:44,157 --> 02:07:46,660
+<i>What you feel inside</i>
+
+958
+02:07:47,201 --> 02:07:50,000
+<i>When love is in your life</i>
+
+959
+02:07:53,291 --> 02:07:55,885
+<i>Leave your dreams behind</i>
+
+960
+02:07:59,589 --> 02:08:04,311
+<i>Breathin' in the scent of love</i>
+
+961
+02:08:05,845 --> 02:08:08,439
+<i>Leave your dreams behind</i>
+
+962
+02:08:12,018 --> 02:08:18,025
+<i>Sensin‘ life in everything under the sky</i>
+
+963
+02:08:30,244 --> 02:08:33,544
+<i>And the experience of /ovin'</i>
+
+964
+02:08:36,209 --> 02:08:39,338
+<i>Will take all the pain away</i>
+
+965
+02:08:42,590 --> 02:08:46,595
+<i>Just understanding for the ﬁrst time</i>
+
+966
+02:08:46,886 --> 02:08:49,264
+<i>What you feel inside</i>
+
+967
+02:08:49,889 --> 02:08:52,813
+<i>When love is in your life</i>
+
+968
+02:08:58,522 --> 02:09:01,822
+<i>The experience of love</i>
+
+969
+02:09:05,446 --> 02:09:08,370
+<i>Under the sky</i>
+
+970
+02:09:08,449 --> 02:09:10,497
+<i>Sensing life</i>
+
+971
+02:09:10,910 --> 02:09:14,039
+<i>The experience of love</i>
+
+972
+02:09:15,623 --> 02:09:17,921
+<i>For the ﬁrst time</i>
+
+973
+02:09:18,000 --> 02:09:20,503
+<i>Under the sky</i>
+
+974
+02:09:20,586 --> 02:09:23,180
+<i>Will take all the pain away</i>
+
+975
+02:09:23,256 --> 02:09:26,430
+<i>The experience of love</i>
+
+976
+02:09:30,471 --> 02:09:33,224
+<i>Under the sky</i>
+
+977
+02:09:33,557 --> 02:09:36,026
+<i>When love is in your life</i>
+
+978
+02:09:36,102 --> 02:09:39,857
+<i>The experience of love</i>
+
+979
+02:09:41,524 --> 02:09:44,198
+<i>Take it now, feel the glow</i>
+
+980
+02:09:44,527 --> 02:09:46,950
+<i>Hold it close, don't let it go</i>
+

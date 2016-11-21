@@ -34,6 +34,8 @@ def preprocess_subtitles(input_folder, output_folder):
     for category in categories:
         input_folder_path = "%s/%s" % (subtitles_path, category)
         output_folder_path = "%s/%s" % (output_path, category)
+
+        print('.',)
         # Create folders
         try:
             if not path.isdir(output_folder_path):

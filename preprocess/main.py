@@ -6,4 +6,5 @@ def main():
     output_path = path.relpath("ProcessedSubtitles")
     preprocess_subtitles(input_path, output_path)
 
+
 main()
