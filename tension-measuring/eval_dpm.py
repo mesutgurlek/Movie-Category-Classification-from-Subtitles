@@ -21,6 +21,8 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
         cnt += 1
         count_movie += 1
         movie_time_minute = 60*int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
+        if movie_time_minute <= 0:
+            continue
         dialog_per_minute = len(subs)/movie_time_minute
         indices.append(count_movie)
         dialog_per_minutes.append(dialog_per_minute)

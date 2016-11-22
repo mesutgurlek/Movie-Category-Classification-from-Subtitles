@@ -3,20 +3,35 @@ import json
 import scrapy
 import os
 import xmlrpc.client as xrpc
+import sys
 
 #subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
+# subtitles_path = "/Users/aeakdogan/hooop/Movie-Category-Classification-from-Subtitles/Subtitles"
 subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
 imdb_page_limit = 5
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
 token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+# token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
+# token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
+# token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
 
 print(server.ServerInfo())
 
-categories = ['action', 'comedy', 'horror', 'war', 'romance', 'adventure']
+categories = ['comedy', 'war']# 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
 subtitle_per_category = int(remaining_quota / len(categories))
+
+# THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
+result = server.DownloadSubtitles(token, ['1953101239']) # an arbitrary subtitle id
+if result['data'] == False or result['status'].find('407') > -1:
+    print("Download limit reached, not starting the downloading process. Terminating...")
+    sys.exit()
+else:
+    print("Download limit test passed, starting to download...")
+#####################################################################
+
 
 class SubtitlesSpider(scrapy.Spider):
     name = "subtitles"
@@ -34,7 +49,8 @@ class SubtitlesSpider(scrapy.Spider):
             if not os.path.isdir(folder_path):
                 os.mkdir(folder_path, 0o755)
         except OSError:
-            print("Directorty cannot be opened in %s" % folder_path)
+            print("Directorty cannot be opened in %s, terminating..." % folder_path)
+            sys.exit() # for preventing unnecessary quota waste, abort the execution
 
         #     import shutil
         #     shutil.rmtree(folder_path, ignore_errors=True)
@@ -68,7 +84,10 @@ class SubtitlesSpider(scrapy.Spider):
         #     yield scrapy.Request(url=response.urljoin(link), callback=self.parse_movie)
         print("Listing scraped IMDB ids for%s: ", category_name)
         print(imdb_ids)
-        impaired_support = True
+
+        from random import shuffle
+        shuffle(imdb_ids) #otherwise it repeatedly tries the first N subtitles.
+
 
         subtitles = {} # key => IDSubtitleFile, value => Metadata of subtitle
 
@@ -81,20 +100,25 @@ class SubtitlesSpider(scrapy.Spider):
             print("Searching subtitle for movie with ID: %s" % imdb_id)
             found_subtitles = server.SearchSubtitles(token, [{'imdbid': imdb_id, 'sublanguageid': 'eng'}])['data']
 
+            if found_subtitles is None or len(found_subtitles) == 0:
+                i += 1
+                continue
+
             print("!!!!! Found %d subtitles for movie with ID: %s " % (len(found_subtitles), imdb_id))
 
-            if impaired_support:
-                impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
-                                                                sub['SubFormat'] == 'srt', found_subtitles))
+            impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
+                                                            sub['SubFormat'] == 'srt', found_subtitles))
 
             impaired_label = ""
             if len(impaired_subtitles) > 0:
                 subtitle = impaired_subtitles[0]
                 impaired_label = "(IMPAIRED)"
             else:
-                subtitle = found_subtitles[0] # for now get the first subtitle
+                # subtitle = found_subtitles[0] # for now get the first subtitle
+                # WE DON'T WANT MOVIES WITHOUT IMPAIRED SUPPORT!
+                continue
 
-            filename = "%s/%s/%s %s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label)
+            filename = "%s/%s/%s %s.%s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label, subtitle['SubFormat'])
 
             # if this subtitle has already been downloaded before don't append it to array of subtitles to be downloadec
             if not os.path.isfile(filename):
@@ -112,23 +136,35 @@ class SubtitlesSpider(scrapy.Spider):
         #DOWNLOAD SUBTITLES AND WRITE THEM INTO FILES
         print("Downloading subtitles of %s" % category_name)
         subtitle_ids = [ idsubtitlefile for idsubtitlefile, sub in subtitles.items()]
-        subtitle_files_response = server.DownloadSubtitles(token, subtitle_ids)
 
-        import base64
-        import gzip
+        if subtitle_ids == None or len(subtitle_ids) == 0:
+            print("No subtitles to download, every found one already exists in Subtitles folder.")
+            return None
 
-        if subtitle_files_response['status'] == '200 OK':
-            print("Subtitles downloaded, writing to files...")
-            for subtitle_object in subtitle_files_response['data']: #each subtitle_object has base64 data and idsubtitlefile key
-                sub = subtitles[subtitle_object['idsubtitlefile']]
+        # since API allows 20 subtitle downloads at once, divide subtitle_ids into portions 20 by 20 at each iteration
+        while len(subtitle_ids) > 0:
+            if len(subtitle_ids) > 20:
+                portion = subtitle_ids[:20]
+                subtitle_ids = subtitle_ids[20:]
+            else:
+                portion = subtitle_ids
+                subtitle_ids = []
 
-                # I SOLVED THE ISSUE OPENING THE FILE IN BYTE-WRITING MODE AND DIRECTLY WRITING BYTES OBJECT TO FILE
-                # WITHOUT TRYING TO DECODE THE BYTES INTO A STRING
-                with open(sub['filename'], 'wb') as file:
-                    file.write(gzip.decompress(base64.b64decode(subtitle_object['data']))) #.decode())
-                    print("Subtitle file saved into: %s" % sub['filename'])
-        else:
-            print("Subtitles cannot be downloaded! Status code: %s" % subtitle_files_response['status'])
+            subtitle_files_response = server.DownloadSubtitles(token, portion)
 
-    def parse_movie(self):
-        pass
+            import base64
+            import gzip
+
+            if subtitle_files_response['status'] == '200 OK':
+                print("Subtitles downloaded, writing to files...")
+                for subtitle_object in subtitle_files_response['data']: #each subtitle_object has base64 data and idsubtitlefile key
+                    sub = subtitles[subtitle_object['idsubtitlefile']]
+
+                    # I SOLVED THE ISSUE OPENING THE FILE IN BYTE-WRITING MODE AND DIRECTLY WRITING BYTES OBJECT TO FILE
+                    # WITHOUT TRYING TO DECODE THE BYTES INTO A STRING
+                    with open(sub['filename'], 'wb') as file:
+                        file.write(gzip.decompress(base64.b64decode(subtitle_object['data']))) #.decode())
+                        print("Subtitle file saved into: %s" % sub['filename'])
+            else:
+                print("Subtitles cannot be downloaded! Status code: %s" % subtitle_files_response['status'])
+                return None

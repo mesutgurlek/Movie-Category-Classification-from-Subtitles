@@ -1,0 +1,708 @@
+﻿0
+00:00:03,000 --> 00:00:10,500
+{\move(10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&H000000&\3c&H00FFFF&}anoXmous
+
+1
+00:00:12,501 --> 00:00:21,202
+{\move(400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125)\c&HFF0000&\3c&H00FFFF&}https://thepiratebay.se/user/ anoXmous
+
+4
+00:00:25,067 --> 00:00:28,361
+- [Rings]
+- Le concierge. Bonsoir, Monsieur Whitman.
+Puis-je vous aider?
+
+5
+00:00:28,445 --> 00:00:33,908
+Bonsoir. S'il vous plait, je voudrais un verre
+de lait au chocolat et une soupe d'oignon.
+
+6
+00:00:33,992 --> 00:00:36,077
+A, uh, sandwich avec-
+
+7
+00:00:37,579 --> 00:00:40,748
+- How do you say "grilled cheese"?
+- Toasts au fromage.
+
+8
+00:00:40,833 --> 00:00:42,750
+Merci. Exactement.
+
+9
+00:00:42,835 --> 00:00:44,794
+Merci beaucoup.
+
+10
+00:00:49,341 --> 00:00:52,009
+[Phone Rings]
+
+11
+00:00:52,094 --> 00:00:54,512
+- Hello.
+- [Woman] Hi.
+
+12
+00:00:56,265 --> 00:01:00,059
+I'm on my way from the airport, and
+the front desk won't give me your room number.
+
+13
+00:01:02,688 --> 00:01:04,689
+What's your room number?
+
+14
+00:01:07,359 --> 00:01:09,610
+- 403.
+- See you in a half an hour.
+
+15
+00:01:09,695 --> 00:01:11,946
+- Wait a second.
+- What?
+
+16
+00:01:12,030 --> 00:01:14,031
+- Where are you?
+- I'm here.
+
+17
+00:01:15,784 --> 00:01:18,536
+I didn't say you could come here.
+
+18
+00:01:18,620 --> 00:01:20,621
+Can I come there?
+
+19
+00:01:23,959 --> 00:01:26,169
+- Okay.
+- I'll see you in half an hour.
+
+20
+00:01:26,253 --> 00:01:30,840
+[Phone Beeping]
+
+21
+00:01:36,722 --> 00:01:38,723
+[Water Running]
+
+22
+00:02:21,141 --> 00:02:23,976
+♪♪ [Folk Pop]
+
+23
+00:02:26,021 --> 00:02:28,147
+♪♪ [Stops]
+
+24
+00:02:42,287 --> 00:02:44,205
+[Elevator Bell Dings]
+
+25
+00:02:50,879 --> 00:02:52,797
+[Knocking]
+
+26
+00:02:57,803 --> 00:02:59,470
+[iPod Clicks]
+
+27
+00:02:59,555 --> 00:03:02,056
+♪♪ [Folk Pop]
+
+28
+00:03:05,894 --> 00:03:07,895
+So who else is coming?
+
+29
+00:03:09,231 --> 00:03:11,232
+I'll call you later. Bye.
+
+30
+00:03:14,152 --> 00:03:17,071
+[Man]
+♪ You talk like Marlene Dietrich ♪
+
+31
+00:03:18,073 --> 00:03:21,951
+- ♪ And you dance like Zizi Jeanmaire ♪
+- What's this music?
+
+32
+00:03:22,035 --> 00:03:25,955
+♪ Your clothes are all made by Balmain ♪
+
+33
+00:03:26,039 --> 00:03:29,083
+♪ And there's diamonds and pearls
+in your hair ♪
+
+34
+00:03:29,167 --> 00:03:31,085
+♪ Yes, there are ♪
+
+35
+00:03:32,170 --> 00:03:35,339
+♪ You live in a fancy apartment ♪
+
+36
+00:03:36,341 --> 00:03:39,343
+♪ Off the Boulevard Saint-Michel ♪
+
+37
+00:03:40,345 --> 00:03:44,348
+♪ Where you keep
+your Rolling Stones records ♪
+
+38
+00:03:44,433 --> 00:03:47,393
+- ♪ And a friend of Sacha Distel ♪
+- How'd you find me?
+
+39
+00:03:47,477 --> 00:03:49,604
+♪ Yes, you do ♪
+
+40
+00:03:49,688 --> 00:03:51,606
+It wasn't actually that hard.
+
+41
+00:03:51,690 --> 00:03:54,942
+♪ But where do you go to, my lovely ♪
+
+42
+00:03:55,027 --> 00:03:57,945
+♪ When you're alone in your bed ♪
+
+43
+00:03:59,197 --> 00:04:03,075
+♪ Tell me the thoughts that surround you ♪
+
+44
+00:04:03,160 --> 00:04:05,870
+♪ I want to look inside your head ♪
+
+45
+00:04:05,954 --> 00:04:07,496
+♪ Yes, I do ♪
+
+46
+00:04:07,581 --> 00:04:09,206
+♪♪ [Music Box Tinkling]
+
+47
+00:04:09,291 --> 00:04:13,002
+♪ I've seen all your qualifications ♪
+
+48
+00:04:13,086 --> 00:04:16,923
+♪ You got from the Sorbonne ♪
+
+49
+00:04:17,007 --> 00:04:20,885
+♪ And the painting you stole from Picasso ♪
+
+50
+00:04:20,969 --> 00:04:24,138
+♪ Your loveliness goes on and on ♪
+
+51
+00:04:24,222 --> 00:04:26,140
+♪ Yes, it does ♪
+
+52
+00:04:27,309 --> 00:04:31,312
+♪ When you go on your summer vacation ♪
+
+53
+00:04:31,396 --> 00:04:34,482
+♪ You go to Juan-les-Pins ♪
+
+54
+00:04:35,567 --> 00:04:39,612
+♪ With your carefully designed
+topless swimsuit ♪
+
+55
+00:04:39,696 --> 00:04:42,657
+♪ You get an even suntan ♪
+
+56
+00:04:42,741 --> 00:04:45,660
+- ♪ On your back and on your legs ♪
+- [Water Running]
+
+57
+00:04:45,744 --> 00:04:49,538
+♪ And when the snow falls
+you're found in Saint Moritz ♪
+
+58
+00:04:49,623 --> 00:04:52,416
+Are you going to take a bath?
+
+59
+00:04:52,501 --> 00:04:54,168
+It's for you.
+
+60
+00:04:54,252 --> 00:04:57,838
+♪ And you sip your Napoleon brandy ♪
+
+61
+00:04:57,923 --> 00:04:59,924
+Who cut your hair?
+
+62
+00:05:01,510 --> 00:05:04,011
+The barber in the lobby.
+
+63
+00:05:04,096 --> 00:05:08,391
+♪ But where do you go to, my lovely ♪
+
+64
+00:05:08,475 --> 00:05:12,019
+♪ When you're alone in your bed ♪
+
+65
+00:05:12,104 --> 00:05:16,524
+♪ Oh, won't you tell me
+the thoughts that surround you ♪
+
+66
+00:05:16,608 --> 00:05:20,444
+♪ I want to look inside your head
+Yes, I do ♪
+
+67
+00:05:20,529 --> 00:05:22,697
+What the fuck is going on?
+
+68
+00:05:22,781 --> 00:05:26,575
+♪ Your name, it is heard in high places ♪
+
+69
+00:05:26,660 --> 00:05:30,454
+♪ You know the Aga Khan ♪
+
+70
+00:05:30,539 --> 00:05:33,624
+♪ He sent you a racehorse for Christmas ♪
+
+71
+00:05:33,709 --> 00:05:35,835
+How long have you had this hotel room?
+
+72
+00:05:35,919 --> 00:05:38,379
+- ♪ Keep it just for fun, for a laugh ♪
+- I don't know.
+
+73
+00:05:38,463 --> 00:05:40,631
+- ♪ Ha-ha-ha ♪
+- More than a week?
+
+74
+00:05:40,716 --> 00:05:43,634
+- ♪ They say that when you get married ♪
+- More than a week.
+
+75
+00:05:45,220 --> 00:05:47,888
+- More than a month?
+- ♪ It'll be to a millionaire ♪
+
+76
+00:05:47,973 --> 00:05:51,017
+- More than a month.
+- ♪ But they don't realize where you came from ♪
+
+77
+00:05:51,101 --> 00:05:53,019
+How much does it cost?
+
+78
+00:05:53,103 --> 00:05:54,687
+♪ And I wonder if they really care ♪
+
+79
+00:05:54,771 --> 00:05:58,315
+I think around 750 million euros
+or something.
+
+80
+00:05:58,400 --> 00:06:01,736
+- [Chuckles]
+- ♪ Where do you go to, my lovely ♪
+
+81
+00:06:01,820 --> 00:06:03,738
+How long are you going to stay?
+
+82
+00:06:03,822 --> 00:06:06,866
+- ♪ When you're alone in your bed ♪
+- How long are you going to stay?
+
+83
+00:06:08,660 --> 00:06:11,078
+I'm leaving tomorrow morning.
+
+84
+00:06:11,163 --> 00:06:14,331
+♪ I want to look inside your head ♪
+
+85
+00:06:14,416 --> 00:06:16,333
+♪ Yes, I do ♪
+
+86
+00:06:17,335 --> 00:06:21,714
+♪ I remember the backstreets of Naples ♪
+
+87
+00:06:21,798 --> 00:06:25,259
+♪ Two children begging in rags ♪
+
+88
+00:06:25,343 --> 00:06:30,222
+♪ Both touched with a burning ambition ♪
+
+89
+00:06:31,767 --> 00:06:34,351
+Don't you think it's time
+for you to go home?
+
+90
+00:06:36,438 --> 00:06:38,981
+- Probably.
+- ♪ So look into my face, Marie-Claire ♪
+
+91
+00:06:39,066 --> 00:06:40,983
+Are you running away from me?
+
+92
+00:06:41,068 --> 00:06:43,277
+♪ And remember just who you are ♪
+
+93
+00:06:43,361 --> 00:06:45,279
+I thought I already did.
+
+94
+00:06:45,363 --> 00:06:48,491
+♪ Then go and forget me forever ♪
+
+95
+00:06:48,575 --> 00:06:51,410
+♪ But I know you still bear the scar ♪
+
+96
+00:06:51,495 --> 00:06:53,412
+♪ Deep inside, yes, you do ♪
+
+97
+00:06:53,497 --> 00:06:58,375
+- [Knocking]
+- ♪ I know where you go to, my lovely ♪
+
+98
+00:06:59,377 --> 00:07:02,963
+♪ When you're alone in your bed ♪
+
+99
+00:07:03,048 --> 00:07:07,301
+- Bonsoir, Monsieur.
+- ♪ I know the thoughts that surround you ♪
+
+100
+00:07:07,385 --> 00:07:13,599
+♪ 'Cause I can look inside your head ♪
+
+101
+00:07:14,601 --> 00:07:16,894
+♪♪ [Continues]
+
+102
+00:07:16,978 --> 00:07:19,313
+[Plates Rattling]
+
+103
+00:07:20,982 --> 00:07:24,944
+♪ La, la-la-la, la-la-la
+La-la-la-la-la-la ♪♪
+
+104
+00:07:25,028 --> 00:07:28,906
+Soupe à l'oignon, toasts au fromage
+et chocolat.
+
+105
+00:07:28,990 --> 00:07:30,533
+-Je vous remercie.
+- Thank you.
+
+106
+00:07:30,617 --> 00:07:34,578
+- Would you order me a Bloody Mary, please?
+- Uh — Two Bloody Marys.
+
+107
+00:07:34,663 --> 00:07:36,580
+- Yes.
+- Please.
+
+108
+00:08:38,059 --> 00:08:40,060
+Have you slept with anyone?
+
+109
+00:08:42,564 --> 00:08:45,149
+No. Have you?
+
+110
+00:08:49,154 --> 00:08:50,905
+No.
+
+111
+00:08:50,989 --> 00:08:53,157
+That was a long pause.
+
+112
+00:09:01,374 --> 00:09:03,834
+- I guess it doesn't really matter.
+- No, it doesn't.
+
+113
+00:09:08,757 --> 00:09:10,674
+[Exhales]
+
+114
+00:09:11,676 --> 00:09:14,011
+You've got bruises on your body.
+
+115
+00:09:24,564 --> 00:09:28,025
+Whatever happens, in the end,
+I don't want to lose you as my friend.
+
+116
+00:09:30,403 --> 00:09:33,781
+I promise,
+I will never be your friend...
+
+117
+00:09:33,865 --> 00:09:36,200
+no matter what, ever.
+
+118
+00:09:42,082 --> 00:09:44,667
+If we fuck,
+I'm going to feel like shit tomorrow.
+
+119
+00:09:47,379 --> 00:09:49,380
+That's okay with me.
+
+120
+00:10:07,565 --> 00:10:10,192
+I love you.
+
+121
+00:10:10,277 --> 00:10:12,695
+I never hurt you on purpose.
+
+122
+00:10:14,489 --> 00:10:16,407
+I don't care.
+
+123
+00:10:26,334 --> 00:10:28,836
+♪♪ [Folk Pop]
+
+124
+00:10:34,092 --> 00:10:36,135
+Want to see my view of Paris?
+
+125
+00:10:37,470 --> 00:10:39,471
+[Whispers]
+Okay.
+
+126
+00:10:40,932 --> 00:10:43,851
+♪ You talk like Marlene Dietrich ♪
+
+127
+00:10:44,936 --> 00:10:48,814
+♪ And you dance like Zizi Jeanmaire ♪
+
+128
+00:10:48,898 --> 00:10:52,776
+♪ Your clothes are all made by Balmain ♪
+
+129
+00:10:52,861 --> 00:10:55,863
+♪ And there's diamonds and pearls
+in your hair ♪
+
+130
+00:10:55,947 --> 00:10:57,906
+♪ Yes, there are ♪
+
+131
+00:10:59,034 --> 00:11:03,037
+♪ You live in a fancy apartment ♪
+
+132
+00:11:03,121 --> 00:11:06,123
+♪ Off the Boulevard Saint-Michel ♪
+
+133
+00:11:07,125 --> 00:11:11,128
+♪ Where you keep
+your Rolling Stones records ♪
+
+134
+00:11:11,212 --> 00:11:14,173
+♪ And a friend of Sacha Distel ♪
+
+135
+00:11:14,257 --> 00:11:16,175
+♪ Yes, you do ♪
+
+136
+00:11:17,302 --> 00:11:21,722
+♪ But where do you go to, my lovely ♪
+
+137
+00:11:21,806 --> 00:11:24,725
+♪ When you're alone in your bed ♪
+
+138
+00:11:25,977 --> 00:11:29,855
+♪ Tell me the thoughts that surround you ♪
+
+139
+00:11:29,939 --> 00:11:32,566
+♪ I want to look inside your head ♪
+
+140
+00:11:32,650 --> 00:11:34,610
+♪ Yes, I do ♪
+
+141
+00:11:35,695 --> 00:11:39,740
+♪ I've seen all your qualifications ♪
+
+142
+00:11:39,824 --> 00:11:43,869
+♪ You got from the Sorbonne ♪
+
+143
+00:11:43,953 --> 00:11:48,165
+♪ And the painting you stole from Picasso ♪
+
+144
+00:11:48,249 --> 00:11:50,959
+♪ Your loveliness goes on and on ♪
+
+145
+00:11:51,044 --> 00:11:53,003
+♪ Yes, it does ♪
+
+146
+00:11:54,172 --> 00:11:58,175
+♪ When you go on your summer vacation ♪
+
+147
+00:11:58,259 --> 00:12:01,345
+♪ You go to Juan-les-Pins ♪
+
+148
+00:12:02,347 --> 00:12:06,266
+♪ With your carefully designed
+topless swimsuit ♪
+
+149
+00:12:06,351 --> 00:12:09,436
+♪ You get an even suntan ♪
+
+150
+00:12:09,521 --> 00:12:12,314
+♪ On your back and on your legs ♪
+
+151
+00:12:12,399 --> 00:12:16,443
+♪ And when the snow falls
+you're found in Saint Moritz ♪
+
+152
+00:12:16,528 --> 00:12:20,322
+♪ With the others of the jet-set ♪
+
+153
+00:12:20,407 --> 00:12:24,618
+♪ And you sip your Napoleon brandy ♪
+
+154
+00:12:24,702 --> 00:12:27,621
+♪ But you never get your lips wet ♪
+
+155
+00:12:27,705 --> 00:12:29,665
+♪ No, you don't ♪
+
+156
+00:12:30,875 --> 00:12:35,087
+♪ But where do you go to, my lovely ♪
+
+157
+00:12:35,171 --> 00:12:38,841
+♪ When you're alone in your bed ♪
+
+158
+00:12:38,925 --> 00:12:43,303
+♪ Oh, won't you tell me
+the thoughts that surround you ♪
+
+159
+00:12:43,388 --> 00:12:47,349
+♪ I want to look inside your head
+Yes, I do ♪
+
+160
+00:12:49,144 --> 00:12:53,313
+♪ Your name, it is heard in high places ♪
+
+161
+00:12:53,398 --> 00:12:57,192
+♪ You know the Aga Khan ♪
+
+162
+00:12:57,277 --> 00:13:01,447
+♪ He sent you a racehorse for Christmas ♪
+
+163
+00:13:01,531 --> 00:13:04,491
+♪ And you keep it just for fun ♪
+
+164
+00:13:04,576 --> 00:13:06,869
+♪ For a laugh, ha-ha-ha ♪♪
+
+165
+00:13:09,080 --> 00:13:11,582
+♪♪ [Fades]
+
+51
+00:13:12,300 --> 00:13:33,300
+<font face="Monotype Corsiva" color=#808080"> © anoXmous </ font>
+<font face="Monotype Corsiva" color=#D900D9"> @ https://thepiratebay.se/user/anoXmous </font>
