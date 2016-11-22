@@ -9,6 +9,9 @@ from os import path
 from os import mkdir
 from os import listdir
 import codecs
+import re
+
+
 categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
 
 
@@ -131,18 +134,39 @@ def randomize(text, genre):
 
     return shuffle(text, genre, random_state=100)
 
-# # Categorize words and plot them
-# category_dict = categorize_words(path.relpath("ProcessedSubtitles"))
-# for c in categories:
-#     cleaned_list = clean_stopword(category_dict[c])
-#     stemmed_data = stemming(cleaned_list)
-#     plot_data(stemmed_data)
+
+def filter_words(text):
+    to_be_filtered = ["grunt", "beep", "grunts", ",", "groan", "speak", "music"]
+
+    for i, movie in enumerate(text):
+
+        for filter in to_be_filtered:
+            text[i] = movie.lower().replace( filter, "")
+            print(text[i])
+
+    return text
+
+ # Categorize words and plot them
+category_dict = categorize_words(path.relpath("ProcessedSubtitles"))
+
+
+cleaned_list = clean_stopword( filter_words([category_dict["Adventure"]])[0])
+stemmed_data = stemming(cleaned_list)
+plot_data(stemmed_data)
 
 
 #process_movie_subtitles(path.relpath("ProcessedSubtitles"), path.relpath("CategoryData"))
-test_size = 200
+test_size = 50
 
 text, genre = tag_subtitles(path.relpath('CategoryData'))
+for i, mov in enumerate(text):
+    clean = clean_stopword(mov)
+    stem = stemming(clean)
+    text[i] = " ".join(stem)
+
+
+text = filter_words(text)
+print(text)
 text, genre = randomize(text,genre)
 
 bow_tf = bag_of_words_and_tf(text)
