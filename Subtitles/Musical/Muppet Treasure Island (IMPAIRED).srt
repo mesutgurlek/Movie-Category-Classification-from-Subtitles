@@ -1,0 +1,6492 @@
+﻿1
+00:01:20,562 --> 00:01:24,135
+MAN: <i>I was Flint's first mate that voyage.</i>
+
+2
+00:01:24,199 --> 00:01:30,150
+<i>Three days east of Tortola in the Caribee.
+Flint knew an island.</i>
+
+3
+00:01:30,205 --> 00:01:36,588
+<i>That's where we buried the treasure.
+Gold and blood were Flint's trademarks.</i>
+
+4
+00:01:36,645 --> 00:01:40,115
+<i>He'd leave both behind him that day.</i>
+
+5
+00:01:44,253 --> 00:01:47,757
+♪ Shiver my timbers, shiver my soul ♪
+
+6
+00:01:47,823 --> 00:01:50,861
+♪ Yo ho, heave ho ♪
+
+7
+00:01:50,926 --> 00:01:54,703
+♪ There are men whose hearts ♪
+♪ are as black as coal ♪
+
+8
+00:01:54,763 --> 00:01:57,972
+♪ Yo ho, heave ho ♪
+
+9
+00:01:58,033 --> 00:02:01,913
+♪ And they sailed their ship ♪
+♪ 'cross the ocean blue ♪
+
+10
+00:02:01,970 --> 00:02:05,247
+♪ A bloodthirsty captain ♪
+♪ and a cutthroat crew ♪
+
+11
+00:02:05,307 --> 00:02:08,880
+♪ It's as dark a tale as was ever told ♪
+
+12
+00:02:08,944 --> 00:02:14,257
+♪ Of the lust for treasure ♪
+♪ and the love of gold ♪
+
+13
+00:02:14,683 --> 00:02:18,392
+♪ Shiver my timbers, shiver my sides ♪
+
+14
+00:02:18,453 --> 00:02:21,434
+♪ Yo ho, heave ho ♪
+
+15
+00:02:21,490 --> 00:02:25,438
+♪ There are hungers as strong ♪
+♪ as the wind and tides ♪
+
+16
+00:02:25,494 --> 00:02:28,236
+♪ Yo ho, heave ho ♪
+
+17
+00:02:28,664 --> 00:02:32,407
+♪ And those buccaneers ♪
+♪ drowned their sins in rum ♪
+
+18
+00:02:32,467 --> 00:02:35,676
+♪ The devil himself ♪
+♪ would have to call them scum ♪
+
+19
+00:02:35,737 --> 00:02:39,344
+♪ Every man aboard ♪
+♪ would have killed his mate ♪
+
+20
+00:02:39,408 --> 00:02:43,185
+♪ For a bag of guineas ♪
+♪ or a piece of eight ♪
+
+21
+00:02:43,245 --> 00:02:44,815
+♪ A piece of eight ♪
+
+22
+00:02:45,047 --> 00:02:46,958
+♪ A piece of eight ♪
+
+23
+00:02:47,015 --> 00:02:48,790
+Five, six, seven, eight.
+
+24
+00:02:48,850 --> 00:02:51,888
+♪ Hulla wacka, ulla wacka, ♪
+♪ something not right ♪
+
+25
+00:02:51,954 --> 00:02:55,868
+♪ Many wicked, icky things ♪
+♪ gonna happen tonight ♪
+
+26
+00:02:55,924 --> 00:02:59,030
+♪ Hulla wacka, moola wacka, ♪
+♪ sailor man, beware ♪
+
+27
+00:02:59,094 --> 00:03:02,974
+♪ When de money in de ground, ♪
+♪ there'.s murder in de air ♪
+
+28
+00:03:03,031 --> 00:03:04,772
+♪ Murder in the air ♪
+
+29
+00:03:04,833 --> 00:03:06,744
+♪ One more time now ♪
+
+30
+00:03:06,802 --> 00:03:10,249
+♪ Shiver my timbers, shiver my bones ♪
+
+31
+00:03:10,305 --> 00:03:13,286
+♪ Yo ho, heave ho ♪
+
+32
+00:03:13,342 --> 00:03:17,552
+♪ There are secrets that sleep ♪
+♪ with old Davy Jones ♪
+
+33
+00:03:17,613 --> 00:03:20,560
+♪ Yo ho, heave ho ♪
+
+34
+00:03:20,616 --> 00:03:24,189
+♪ When the mainsail's set ♪
+♪ and the anchor's weighed ♪
+
+35
+00:03:24,252 --> 00:03:27,756
+♪ There's no turning back ♪
+♪ from any course that's laid ♪
+
+36
+00:03:27,823 --> 00:03:31,396
+♪ And when greed and villainy ♪
+♪ sail the sea ♪
+
+37
+00:03:31,460 --> 00:03:35,272
+♪ You can bet your boots ♪
+♪ there'll be treachery ♪
+
+38
+00:03:35,330 --> 00:03:37,105
+(LAUGHTER)
+
+39
+00:03:46,041 --> 00:03:49,682
+♪ Shiver my timbers, shiver my sails ♪
+
+40
+00:03:49,745 --> 00:03:52,191
+♪ Dead men tell no tales ♪
+
+41
+00:03:54,549 --> 00:03:58,520
+MAN: oh, aye.
+15 men went ashore that day,
+
+42
+00:03:58,587 --> 00:04:02,296
+and only Flint, his own self, returned.
+
+43
+00:04:03,191 --> 00:04:06,434
+Oh, aye,
+and then old Flinty up and died
+
+44
+00:04:06,495 --> 00:04:12,070
+Afore they could get back to that
+cursed island and dig up the treasure.
+
+45
+00:04:12,134 --> 00:04:17,049
+No one knows to this day
+who has old Flint's map.
+
+46
+00:04:17,105 --> 00:04:20,951
+ALL: Isn't that a story
+worth the hearing?
+
+47
+00:04:21,009 --> 00:04:23,546
+It was the first dozen times.
+
+48
+00:04:23,612 --> 00:04:26,058
+I'll drink to that.
+
+49
+00:04:26,114 --> 00:04:33,259
+But who has the map now, huh? Some
+black-hearted, squid-sucking buccaneer?
+
+50
+00:04:33,321 --> 00:04:37,133
+Or maybe it's our very own Jim Hawkins.
+
+51
+00:04:37,192 --> 00:04:38,933
+Eh, Jimmy?
+
+52
+00:04:38,994 --> 00:04:42,237
+If I had it,
+my friends and I wouldn't be here.
+
+53
+00:04:42,297 --> 00:04:45,397
+We'd be searching for
+that treasure, sailing
+
+54
+00:04:45,412 --> 00:04:48,111
+the seven seas on a
+five-year mission,
+
+55
+00:04:48,170 --> 00:04:52,744
+boldly going where no man
+has gone before. That's catchy.
+
+56
+00:04:52,808 --> 00:04:57,917
+Not me. If I had that treasure map,
+I'd trade it for a decent meal.
+
+57
+00:04:58,580 --> 00:05:00,253
+Think he'll eat this?
+
+58
+00:05:00,315 --> 00:05:05,060
+Aye! Beware the one-legged man.
+He's the one to fear.
+
+59
+00:05:05,120 --> 00:05:07,327
+We'll watch for him.
+Yeah.
+
+60
+00:05:07,389 --> 00:05:11,030
+I'll watch for him,
+if he's delivering a pizza.
+
+61
+00:05:11,093 --> 00:05:13,266
+Even old Flinty feared him.
+
+62
+00:05:13,328 --> 00:05:18,641
+If he comes round here, run for me quick.
+If we see him we'll tell you.
+
+63
+00:05:18,700 --> 00:05:22,204
+One leg, three heads,
+couple dozen noses...
+
+64
+00:05:22,270 --> 00:05:28,551
+lt'll be nay joking matter, hose nose.
+The one-legged man brings death.
+
+65
+00:05:28,977 --> 00:05:32,948
+Time, gentlemen!
+lt's closing time.
+
+66
+00:05:33,014 --> 00:05:36,461
+You pays your bills then shove off.
+Out you go.
+
+67
+00:05:36,518 --> 00:05:38,520
+(COW GROANS)
+
+68
+00:05:40,088 --> 00:05:42,625
+Drunk again, are you?
+(MOOS)
+
+69
+00:05:42,691 --> 00:05:45,137
+Look at the state of this place.
+
+70
+00:05:45,193 --> 00:05:48,174
+How comes it gets
+to be such a pigsty?
+
+71
+00:05:48,230 --> 00:05:49,903
+Pigsty? Hey!
+
+72
+00:05:49,965 --> 00:05:52,309
+No offense meant, gentlemen.
+
+73
+00:05:52,367 --> 00:05:56,782
+Here's to you, boys.
+I'm away to my room.
+
+74
+00:05:56,838 --> 00:05:58,545
+RIZZO: Thank you, Bill.
+
+75
+00:05:58,607 --> 00:06:02,783
+Come back tomorrow for
+our lunchtime special, roast suckling...
+
+76
+00:06:02,844 --> 00:06:04,949
+Huh?
+...potatoes.
+
+77
+00:06:05,013 --> 00:06:06,856
+PIG: Oh. All right.
+
+78
+00:06:06,915 --> 00:06:09,521
+No offense, madam.
+(GRUNTS)
+
+79
+00:06:10,218 --> 00:06:11,822
+(GROWLS)
+
+80
+00:06:11,887 --> 00:06:16,893
+Boys, when you're finished here,
+clean up in the kitchen.
+
+81
+00:06:16,958 --> 00:06:20,064
+I left some table scraps for your supper.
+
+82
+00:06:20,128 --> 00:06:22,665
+Oh, yes. And, boys...
+
+83
+00:06:23,165 --> 00:06:25,805
+last night you forgot
+to put out the lantern.
+
+84
+00:06:25,867 --> 00:06:30,441
+Forget again and there'll be
+no table scraps for a week.
+
+85
+00:06:32,040 --> 00:06:36,716
+GONZO: You're standing on my ear.
+Easy. Easy, Rizzo.
+
+86
+00:06:36,778 --> 00:06:38,416
+RIZZO: Whoa!
+
+87
+00:06:38,480 --> 00:06:41,188
+That's it. Steady.
+I hate my life.
+
+88
+00:06:41,249 --> 00:06:44,492
+I hate your life too.
+If I had a life, I'd hate it.
+
+89
+00:06:44,553 --> 00:06:46,863
+I should run off to sea
+like my father.
+
+90
+00:06:46,922 --> 00:06:50,665
+He was my age when he sailed to China.
+He wound up a first mate.
+
+91
+00:06:50,725 --> 00:06:53,171
+Run off to sea
+and leave everybody?
+
+92
+00:06:53,228 --> 00:06:55,538
+I'm an orphan.
+I have no family.
+
+93
+00:06:55,597 --> 00:06:58,976
+You got us.
+Yeah. We're family.
+
+94
+00:06:59,034 --> 00:07:00,536
+Got it.
+ALL: Whoa!
+
+95
+00:07:00,602 --> 00:07:02,445
+Ow!
+
+96
+00:07:04,339 --> 00:07:08,549
+Some family we are.
+We don't exactly look alike.
+
+97
+00:07:08,610 --> 00:07:13,821
+So I'm a rat and you're a human being
+and Gonzo's a...
+
+98
+00:07:13,882 --> 00:07:17,056
+Whatever.
+We're still family.
+
+99
+00:07:17,118 --> 00:07:21,396
+But I wish my life were more
+like one of Captain Bones' adventures.
+
+100
+00:07:21,456 --> 00:07:24,164
+Searching for buried treasure.
+
+101
+00:07:24,226 --> 00:07:28,299
+Discovering lost islands
+and weird civilizations.
+
+102
+00:07:28,363 --> 00:07:31,674
+Navigating with my father's old compass.
+
+103
+00:07:31,733 --> 00:07:34,441
+Off to Zanzibar
+to meet the Zanzibarbarians.
+
+104
+00:07:34,502 --> 00:07:37,608
+Here they go again.
+To the southwest, pirate galleons.
+
+105
+00:07:37,672 --> 00:07:43,054
+To the southeast, multi-armed Zanzibanian
+shark-women and their exploding wigs.
+
+106
+00:07:43,111 --> 00:07:46,183
+WOMAN: To the northwest, dirty dishes.
+
+107
+00:07:46,248 --> 00:07:50,458
+How does she do that?
+Might as well start. I'll wash.
+
+108
+00:07:50,518 --> 00:07:54,261
+RIZZO: I'll dry.
+GONZO: I'll break.
+
+109
+00:07:57,092 --> 00:08:00,767
+♪ I look around here and I want to cry ♪
+
+110
+00:08:00,829 --> 00:08:02,502
+Me too.
+
+111
+00:08:02,564 --> 00:08:07,604
+♪ I feel like the world is
+passing me by ♪ ♪ It is. ♪
+
+112
+00:08:07,669 --> 00:08:10,411
+♪ And I just can't help but wonder ♪
+
+113
+00:08:10,472 --> 00:08:13,316
+♪ Am I doomed to wash and dry? ♪
+
+114
+00:08:13,375 --> 00:08:15,878
+♪ And is it a curse I'm under ♪
+
+115
+00:08:15,944 --> 00:08:18,390
+♪ To do it till I die? ♪
+
+116
+00:08:18,446 --> 00:08:20,858
+I hope not.
+Yeah.
+
+117
+00:08:20,916 --> 00:08:23,419
+♪ When I could be an explorer ♪
+
+118
+00:08:23,485 --> 00:08:25,931
+♪ Sailing off to distant lands ♪
+♪ Not so fast. ♪
+
+119
+00:08:25,987 --> 00:08:30,367
+♪ Instead of spending every afternoon ♪
+♪ just getting dishpan hands ♪
+
+120
+00:08:30,425 --> 00:08:34,805
+♪ My future looks like nowhere ♪
+♪ that I want to be ♪
+
+121
+00:08:34,863 --> 00:08:37,810
+♪ There's gotta be something better ♪
+
+122
+00:08:37,866 --> 00:08:39,539
+♪ Something better ♪
+
+123
+00:08:39,601 --> 00:08:43,879
+♪ There's gotta be ♪
+♪ something better than this for me ♪
+
+124
+00:08:43,939 --> 00:08:45,145
+Now you're talking.
+
+125
+00:08:45,206 --> 00:08:49,882
+♪ If it's weird and wild ♪
+♪ let's go and find it ♪
+
+126
+00:08:49,945 --> 00:08:53,154
+♪ The crazier the better is what I say ♪
+
+127
+00:08:53,214 --> 00:08:54,488
+That's true.
+
+128
+00:08:54,549 --> 00:08:57,894
+♪ To tell the truth, ♪
+♪ I really wouldn't mind it ♪
+
+129
+00:08:57,953 --> 00:08:59,057
+Mind what?
+
+130
+00:08:59,120 --> 00:09:02,897
+♪ If we found some place ♪
+♪ with ten square meals a day ♪
+
+131
+00:09:03,792 --> 00:09:06,068
+♪ Let danger call my name ♪
+
+132
+00:09:06,127 --> 00:09:08,801
+♪ If it does I'm gonna hide ♪
+
+133
+00:09:08,863 --> 00:09:11,844
+♪ I'll put my courage to the test ♪
+
+134
+00:09:11,900 --> 00:09:16,440
+♪ And I'll be by your side ♪
+♪ He'll be by your side ♪
+
+135
+00:09:16,805 --> 00:09:21,481
+♪ There's gotta be ♪
+♪ something better than this ♪
+
+136
+00:09:21,543 --> 00:09:22,749
+♪ Something more than this ♪
+
+137
+00:09:22,811 --> 00:09:27,521
+♪ I know that there's ♪
+♪ so much out there to see ♪
+
+138
+00:09:28,583 --> 00:09:31,154
+♪ And I know this life I'm living ♪
+
+139
+00:09:31,219 --> 00:09:35,292
+♪ Can't be my destiny ♪
+
+140
+00:09:35,357 --> 00:09:38,861
+♪ There's gotta be something better ♪
+
+141
+00:09:38,927 --> 00:09:40,668
+♪ Something better ♪
+
+142
+00:09:40,729 --> 00:09:45,075
+♪ There's gotta be ♪
+♪ something better than this for me ♪
+
+143
+00:09:45,133 --> 00:09:48,342
+And me!
+Wait. What about me?
+
+144
+00:09:48,403 --> 00:09:50,781
+♪ There's something better than this ♪
+
+145
+00:09:50,839 --> 00:09:56,255
+♪ For you and me ♪
+
+146
+00:10:06,688 --> 00:10:09,567
+Enough of this singing!
+Rum! I need rum, lads!
+
+147
+00:10:09,624 --> 00:10:12,503
+I've got the horrors!
+Give me rum!
+
+148
+00:10:13,228 --> 00:10:15,435
+Rum till I float!
+
+149
+00:10:15,497 --> 00:10:18,273
+All right.
+Just one small one.
+
+150
+00:10:18,333 --> 00:10:21,576
+(WOMAN UPSTAIRS)
+Don't give him any more rum!
+
+151
+00:10:21,636 --> 00:10:23,877
+How does she bloody do that?
+
+152
+00:10:23,938 --> 00:10:26,077
+(BOTTLES CLINK)
+Shh.
+
+153
+00:10:26,141 --> 00:10:28,143
+(TAPPING)
+
+154
+00:10:29,611 --> 00:10:31,113
+(KNOCKING)
+
+155
+00:10:48,229 --> 00:10:49,299
+(CACKLES)
+
+156
+00:10:49,364 --> 00:10:55,246
+(FRENCH ACCENT) Billy Bones, it's me,
+Blind Pew.
+
+157
+00:10:55,670 --> 00:10:57,980
+I know you're here, Billy.
+
+158
+00:10:58,039 --> 00:10:58,813
+Ah!
+
+159
+00:10:58,873 --> 00:11:01,683
+You sniveling coward.
+
+160
+00:11:01,743 --> 00:11:04,314
+He's some kind of a blind fiend.
+
+161
+00:11:04,379 --> 00:11:09,021
+They prefer "visually challenged fiend."
+I heard that.
+
+162
+00:11:09,084 --> 00:11:13,157
+There's someone here. No?
+
+163
+00:11:13,221 --> 00:11:15,497
+Over here!
+
+164
+00:11:16,357 --> 00:11:17,768
+(GRUNTS)
+
+165
+00:11:17,826 --> 00:11:19,999
+Over here.
+
+166
+00:11:21,896 --> 00:11:23,671
+(MOOING)
+(CACKLING)
+
+167
+00:11:23,731 --> 00:11:25,972
+Billy Bones.
+
+168
+00:11:26,034 --> 00:11:30,710
+I'd know
+that scurvy mug of yours anywhere.
+
+169
+00:11:30,772 --> 00:11:33,582
+Sir, the bar is closed.
+Ah!
+
+170
+00:11:33,641 --> 00:11:35,848
+Ho-ho! Aha!
+
+171
+00:11:35,910 --> 00:11:39,084
+A pretty little girl, is it?
+
+172
+00:11:39,147 --> 00:11:43,289
+Yes, take me to Billy Bones, my pet.
+
+173
+00:11:43,718 --> 00:11:48,030
+There's no Billy Bones here
+and I'm not a girl.
+
+174
+00:11:48,089 --> 00:11:52,799
+I may be visually challenged,
+but I can see you're lying.
+
+175
+00:11:53,528 --> 00:11:55,508
+Huh?
+(MARTIAL ARTS CRY)
+
+176
+00:11:57,866 --> 00:12:02,110
+Good evening, Bill.
+I know it's you.
+
+177
+00:12:02,170 --> 00:12:06,880
+You thought you could
+get away with it, didn't you?
+
+178
+00:12:06,941 --> 00:12:13,825
+Just take it all for yourself
+and leave your shipmates with nothing.
+
+179
+00:12:13,882 --> 00:12:18,024
+We're not pleased with that.
+Not at all.
+
+180
+00:12:18,086 --> 00:12:21,863
+We want you to have this.
+
+181
+00:12:21,923 --> 00:12:23,732
+(CACKLES)
+
+182
+00:12:23,791 --> 00:12:26,271
+Oh! Argh! Who-ho-ho!
+
+183
+00:12:26,327 --> 00:12:28,500
+(LAUGHS)
+
+184
+00:12:31,766 --> 00:12:33,939
+(CLEARS THROAT)
+
+185
+00:12:36,804 --> 00:12:41,219
+(CAT MEOWS)
+Watch where you're going, stupid cat!
+
+186
+00:12:55,089 --> 00:12:57,535
+The black spot!
+
+187
+00:12:57,592 --> 00:13:00,163
+(SCREAMS)
+
+188
+00:13:07,001 --> 00:13:09,242
+What is the black spot?
+
+189
+00:13:09,304 --> 00:13:12,080
+It's a pirate's death sentence.
+
+190
+00:13:12,140 --> 00:13:16,316
+Fabulous.
+They'll be coming to kill me. Tonight.
+
+191
+00:13:16,377 --> 00:13:17,879
+We better help.
+
+192
+00:13:17,946 --> 00:13:21,723
+It's my old sea chest they are after.
+Underwear.
+
+193
+00:13:21,783 --> 00:13:26,163
+I'll trick them. I'll shake out
+another reef and daddle them again.
+
+194
+00:13:26,221 --> 00:13:29,225
+Run that by us again in English.
+
+195
+00:13:29,290 --> 00:13:35,070
+It's mine. I'm going for that treasure.
+No one-legged son of a bilge rat will...
+
+196
+00:13:35,129 --> 00:13:38,269
+Argh! Will ever... Argh!
+
+197
+00:13:38,333 --> 00:13:39,710
+Captain Bones!
+
+198
+00:13:41,169 --> 00:13:45,811
+He died?
+And this is supposed to be a kids' movie.
+
+199
+00:13:45,873 --> 00:13:49,411
+Jimmy Jim, Jimmy Jim,
+Jim, Jim, Jim!
+
+200
+00:13:49,477 --> 00:13:52,549
+You always been decent
+to Billy Bones.
+
+201
+00:13:52,614 --> 00:13:54,992
+I'm not Jimmy Jim,
+Jimmy Jim, Jim, Jim, Jim.
+
+202
+00:13:55,049 --> 00:13:57,893
+He's Jimmy Jim,
+Jimmy Jim, Jim, Jim, Jim.
+
+203
+00:13:57,952 --> 00:13:59,431
+Jim?
+Yes, Captain?
+
+204
+00:13:59,487 --> 00:14:03,264
+Jim Jimmy, Jimmy Jim, Jim, Jim, Jim?
+What is it?
+
+205
+00:14:03,324 --> 00:14:05,326
+Take the map.
+What map?
+
+206
+00:14:05,393 --> 00:14:08,704
+The map to old Flint's treasure.
+
+207
+00:14:08,763 --> 00:14:12,370
+I was Flinty's first mate.
+We all were, Blind Pew and me.
+
+208
+00:14:12,433 --> 00:14:17,212
+Me old shipmates will gully me,
+and anybody else, to get that map.
+
+209
+00:14:17,272 --> 00:14:21,220
+Gullying hurts, right?
+Oh, aye. A lot.
+
+210
+00:14:21,276 --> 00:14:23,552
+Go to my sea chest.
+Get the map.
+
+211
+00:14:23,611 --> 00:14:26,114
+Oh!
+Oh, yeah.
+
+212
+00:14:26,180 --> 00:14:29,821
+GONZO: There.
+RIZZO: I think I... No.
+
+213
+00:14:30,718 --> 00:14:35,098
+Hey, guys, look!
+Rizzo! Here. Look at this.
+
+214
+00:14:36,391 --> 00:14:38,564
+No.
+
+215
+00:14:39,761 --> 00:14:42,105
+Hey, Rizzo, look.
+
+216
+00:14:49,203 --> 00:14:52,514
+It is a treasure map.
+We're gonna be rich.
+
+217
+00:14:52,573 --> 00:14:56,521
+RIZZO: We're gonna be dead.
+Beware, lads.
+
+218
+00:14:56,577 --> 00:14:58,523
+The one-legged man?
+Aye.
+
+219
+00:14:58,579 --> 00:15:04,154
+But also beware running with scissors
+or any pointy objects.
+
+220
+00:15:04,218 --> 00:15:06,755
+It's fun till somebody loses an...
+
+221
+00:15:06,821 --> 00:15:08,994
+(SCREAMS)
+
+222
+00:15:10,825 --> 00:15:13,533
+Captain?
+(GULP)
+
+223
+00:15:13,594 --> 00:15:17,132
+We are standing
+in a room with a dead guy!
+
+224
+00:15:17,198 --> 00:15:19,838
+(ALL SCREAM)
+
+225
+00:15:22,570 --> 00:15:24,743
+Jim!
+
+226
+00:15:32,180 --> 00:15:34,285
+(PIRATES GROWL)
+
+227
+00:15:34,349 --> 00:15:38,559
+Oh, Billy Bones!
+Trick or treat?
+
+228
+00:15:38,619 --> 00:15:40,929
+(CACKLING)
+(ALL SCREAM)
+
+229
+00:15:40,988 --> 00:15:43,901
+Don't try to hide.
+You know what we want.
+
+230
+00:15:45,193 --> 00:15:47,230
+(BOTH SCREAM)
+
+231
+00:15:50,865 --> 00:15:53,869
+Where are you, Billy Bones?
+
+232
+00:15:53,935 --> 00:15:56,438
+Where are you, Billy?
+
+233
+00:15:57,271 --> 00:15:59,148
+Mrs. Bluveridge!
+
+234
+00:15:59,207 --> 00:16:01,881
+There's no use in hiding!
+
+235
+00:16:01,943 --> 00:16:03,217
+(GROWLS)
+
+236
+00:16:03,277 --> 00:16:06,918
+Can't a woman
+get her beauty sleep anymore?
+
+237
+00:16:06,981 --> 00:16:09,757
+Jim, what are you doing?
+
+238
+00:16:11,652 --> 00:16:13,825
+Aha! Aha!
+
+239
+00:16:15,490 --> 00:16:17,731
+Voilà.
+
+240
+00:16:17,792 --> 00:16:20,568
+(CLOCK CHIMES)
+
+241
+00:16:20,628 --> 00:16:24,132
+RIZZO: I've found the gun.
+We gotta load it.
+
+242
+00:16:24,198 --> 00:16:25,734
+RIZZO: Oops.
+Go.
+
+243
+00:16:26,467 --> 00:16:27,502
+(RIZZO SNEEZES)
+
+244
+00:16:27,568 --> 00:16:29,980
+GONZO: Where are the bullets?
+
+245
+00:16:30,405 --> 00:16:33,477
+Billy's dead
+and he hasn't got the map.
+
+246
+00:16:33,541 --> 00:16:37,250
+Agh! Those little girls must have it.
+Yeah.
+
+247
+00:16:37,311 --> 00:16:39,120
+Get them!
+Yeah!
+
+248
+00:16:39,180 --> 00:16:43,458
+Gonzo!
+I found the bullets, see? Here they are.
+
+249
+00:16:44,552 --> 00:16:45,087
+Oops.
+
+250
+00:16:46,454 --> 00:16:48,195
+Open up in there.
+
+251
+00:16:48,256 --> 00:16:52,261
+We want the map and we'll
+skewer anybody who gets in the way.
+
+252
+00:16:52,326 --> 00:16:55,330
+Quick, Jim. The back stairs.
+
+253
+00:16:55,396 --> 00:16:57,535
+Come on!
+
+254
+00:16:57,598 --> 00:16:58,906
+Run! Run!
+
+255
+00:17:05,973 --> 00:17:09,978
+Get out of my inn,
+you tattooed miseries.
+
+256
+00:17:11,112 --> 00:17:16,152
+Can't a woman get a night's sleep alone?
+You come here.
+
+257
+00:17:17,785 --> 00:17:21,028
+This gun is useless.
+You lost all the bullets.
+
+258
+00:17:21,088 --> 00:17:24,092
+You're losing the powder.
+
+259
+00:17:24,158 --> 00:17:26,934
+The map.
+Tell us where it is or die.
+
+260
+00:17:26,994 --> 00:17:28,598
+Argh!
+
+261
+00:17:28,663 --> 00:17:31,701
+DOG PIRATE: Get them!
+RIZZO: Run!
+
+262
+00:17:34,802 --> 00:17:36,304
+(SCREAMS)
+
+263
+00:17:36,370 --> 00:17:39,180
+PIRATE: Hurry! Hurry!
+Argh!
+
+264
+00:17:40,041 --> 00:17:42,715
+GONZO: Keep moving! Hurry!
+
+265
+00:17:44,812 --> 00:17:46,689
+GONZO: Out of the way!
+
+266
+00:17:54,856 --> 00:17:57,200
+Stop!
+
+267
+00:17:58,059 --> 00:17:59,697
+Oh, woof.
+
+268
+00:18:02,129 --> 00:18:03,233
+Ow!
+
+269
+00:18:07,435 --> 00:18:11,747
+(EXPLOSION)
+GONZO: Argh! Geronimo!
+
+270
+00:18:11,806 --> 00:18:13,080
+Guys!
+
+271
+00:18:13,140 --> 00:18:15,450
+What an exit.
+Right through a wall.
+
+272
+00:18:15,510 --> 00:18:18,184
+I'm in such pain.
+Come on!
+
+273
+00:18:19,113 --> 00:18:23,459
+I think I smell something burning, no?
+
+274
+00:18:24,352 --> 00:18:27,663
+GONZO: What are we gonna do?
+
+275
+00:18:27,722 --> 00:18:30,532
+We can't go home, so...
+
+276
+00:18:30,992 --> 00:18:32,869
+Ooh.
+Oh, no. Uh-uh.
+
+277
+00:18:32,927 --> 00:18:37,637
+You're not taking me on some crazy
+treasure hunt. I am staying here.
+
+278
+00:18:37,698 --> 00:18:42,078
+Good idea. Then you can see what
+half-burned pirates look like.
+
+279
+00:18:42,136 --> 00:18:46,175
+What are we waiting for?
+What about Mrs. Bluveridge?
+
+280
+00:18:46,240 --> 00:18:48,720
+MRS. BLUVERIDGE: Argh!
+
+281
+00:18:49,610 --> 00:18:52,113
+I'll be fine.
+Run for it!
+
+282
+00:18:53,681 --> 00:18:56,355
+ALL: How does she do that?
+
+283
+00:18:58,319 --> 00:19:00,390
+MRS. BLUVERIDGE:
+Who'll clean this up?
+
+284
+00:19:02,790 --> 00:19:05,396
+Two for a penny, sir.
+
+285
+00:19:06,627 --> 00:19:09,631
+Lovely hot baked potatoes.
+
+286
+00:19:10,665 --> 00:19:11,837
+(YAWNS)
+
+287
+00:19:11,899 --> 00:19:14,072
+Oh, what a night.
+
+288
+00:19:14,936 --> 00:19:17,212
+There it is!
+Huh? Oh.
+
+289
+00:19:19,607 --> 00:19:23,783
+"Trelawney and Son
+Master Ship Builders."
+
+290
+00:19:26,280 --> 00:19:28,590
+Reality check, guys.
+
+291
+00:19:28,649 --> 00:19:32,927
+Will some bozo give us a ship because
+we show him Captain Bones' map?
+
+292
+00:19:32,987 --> 00:19:36,867
+It's worth a try, Rizzo.
+I don't know.
+
+293
+00:19:38,225 --> 00:19:41,672
+May I help you?
+Yes. Thank you.
+
+294
+00:19:41,729 --> 00:19:45,575
+We wish to speak with Squire Trelawney.
+We need a ship.
+
+295
+00:19:45,633 --> 00:19:50,446
+Sorry. The squire's in Long Neddry
+for the grouse season.
+
+296
+00:19:50,504 --> 00:19:54,509
+He will return on the Feast of St. Lulu.
+
+297
+00:19:56,310 --> 00:19:57,653
+Thank you.
+
+298
+00:19:57,712 --> 00:20:00,955
+Of course, his rich half-wit son,
+
+299
+00:20:01,015 --> 00:20:04,827
+young Squire Trelawney's here.
+
+300
+00:20:05,486 --> 00:20:07,488
+We'll see him, then.
+
+301
+00:20:09,256 --> 00:20:15,229
+Gentlemen, this is definitely
+a genuine, bona fide treasure map.
+
+302
+00:20:15,296 --> 00:20:17,003
+Oh!
+Really?
+
+303
+00:20:17,064 --> 00:20:20,273
+Oh, yes.
+Mr. Bimbo told me so.
+
+304
+00:20:20,901 --> 00:20:24,348
+Mr. Bimbo lives in my finger.
+He's very smart.
+
+305
+00:20:24,405 --> 00:20:27,147
+He's been to the moon.
+
+306
+00:20:27,208 --> 00:20:29,552
+Thank you. Twice.
+
+307
+00:20:29,610 --> 00:20:32,022
+I smell a bozo.
+Mm-hm.
+
+308
+00:20:32,079 --> 00:20:34,719
+(BANG)
+(SQUEAL)
+
+309
+00:20:35,583 --> 00:20:37,563
+(LAUGHTER)
+
+310
+00:20:37,618 --> 00:20:38,722
+(COUGHING)
+
+311
+00:20:38,786 --> 00:20:41,460
+Well done, Beakie.
+(MEEPING)
+
+312
+00:20:41,522 --> 00:20:44,093
+Now we know
+that is too much gunpowder.
+
+313
+00:20:44,158 --> 00:20:45,637
+(MEEPS)
+
+314
+00:20:45,693 --> 00:20:50,438
+Beaker, stop fooling around.
+We've got company.
+
+315
+00:20:52,233 --> 00:20:56,613
+Everyone, this is Dr. Livesey
+and his assistant, Beaker.
+
+316
+00:20:56,671 --> 00:20:58,947
+They do research and development.
+
+317
+00:20:59,006 --> 00:21:00,451
+Hello.
+Mee-oh.
+
+318
+00:21:00,508 --> 00:21:05,082
+We hoped to meet with your father.
+We need a ship for an ocean voyage.
+
+319
+00:21:05,146 --> 00:21:08,525
+Ocean? Ocean? Ocean?
+
+320
+00:21:08,582 --> 00:21:12,553
+You know, the ocean -
+the big, blue, wet thing.
+
+321
+00:21:13,587 --> 00:21:16,329
+Oh! The big, blue, wet thing.
+
+322
+00:21:16,390 --> 00:21:18,370
+Yes!
+
+323
+00:21:18,426 --> 00:21:20,804
+I know what's happening.
+
+324
+00:21:20,861 --> 00:21:25,503
+You are planning to sail to this island
+to dig up this treasure.
+
+325
+00:21:25,566 --> 00:21:28,604
+Yes, but there are
+pirates looking for this map.
+
+326
+00:21:28,669 --> 00:21:32,583
+And they want to kill us for it.
+Isn't that exciting?
+
+327
+00:21:32,640 --> 00:21:36,087
+Pirates, eh?
+Well, that settles it.
+
+328
+00:21:36,143 --> 00:21:42,219
+We'll use one of my daddy's boats
+and I will finance the voyage myself.
+
+329
+00:21:42,283 --> 00:21:44,388
+You'll do that?
+Certainly.
+
+330
+00:21:44,452 --> 00:21:47,524
+What are rich half-wit sons for?
+
+331
+00:21:54,061 --> 00:21:58,339
+Here's the dock.
+We're on a dock? No wonder I'm seasick.
+
+332
+00:21:58,399 --> 00:22:01,039
+TRELAWNEY: Ahoy!
+Morning, Squire.
+
+333
+00:22:01,102 --> 00:22:02,638
+Welcome.
+
+334
+00:22:02,703 --> 00:22:07,413
+Ah! There she is, the <i>Hispaniola.</i>
+
+335
+00:22:07,475 --> 00:22:08,613
+ALL: Ah!
+
+336
+00:22:08,676 --> 00:22:11,714
+GONZO: Wow! Whoo-hoo!
+
+337
+00:22:12,613 --> 00:22:16,060
+GONZO: Come on, let's go.
+RIZZO: Let's go!
+
+338
+00:22:24,325 --> 00:22:26,771
+"Take a cruise," you said.
+
+339
+00:22:26,827 --> 00:22:29,774
+"See the world," you said.
+
+340
+00:22:29,830 --> 00:22:33,778
+Now here we are
+stuck on the front of this stupid ship.
+
+341
+00:22:33,834 --> 00:22:37,247
+It could be worse.
+We could be stuck in the audience.
+
+342
+00:22:37,304 --> 00:22:39,284
+(THEY LAUGH)
+
+343
+00:22:39,340 --> 00:22:43,413
+Mr. Bimbo, the ship is provisioned,
+the crew is in place,
+
+344
+00:22:43,477 --> 00:22:48,551
+and the captain should be on board
+within the hour. You have been busy.
+
+345
+00:22:48,616 --> 00:22:49,959
+Yuch!
+
+346
+00:22:50,017 --> 00:22:53,021
+Look there goes Jim.
+Yeah.
+
+347
+00:22:53,954 --> 00:22:57,060
+Look it's the boat-steering thing.
+
+348
+00:22:57,124 --> 00:22:59,161
+This is called the helm.
+
+349
+00:22:59,226 --> 00:23:03,675
+Hey, how does it feel,
+Captain Hawkins?
+
+350
+00:23:03,731 --> 00:23:09,147
+It feels like we're really doing it.
+Like we're finally having an adventure.
+
+351
+00:23:09,203 --> 00:23:12,184
+I'm starving.
+Where's the kitchen?
+
+352
+00:23:12,239 --> 00:23:13,411
+(GROANS)
+
+353
+00:23:13,474 --> 00:23:18,685
+MAN: ♪ Heigh ho, and up she rises ♪
+Something smells good.
+
+354
+00:23:18,746 --> 00:23:21,659
+GONZO: Cool.
+MAN: ♪ Heigh ho, and up she rises ♪
+
+355
+00:23:21,715 --> 00:23:25,288
+♪ Early in the mornin' ♪
+
+356
+00:23:25,352 --> 00:23:28,333
+♪ Put him in the longboat ♪
+♪ until he's sober ♪
+
+357
+00:23:28,556 --> 00:23:31,400
+♪ Put him in the longboat ♪
+♪ till he's sober ♪
+
+358
+00:23:31,625 --> 00:23:34,367
+♪ Put him in the longboat ♪
+♪ till he's sober ♪
+
+359
+00:23:34,428 --> 00:23:36,931
+♪ Early in the mornin' ♪
+(CLEARS THROAT)
+
+360
+00:23:36,997 --> 00:23:39,705
+What have we here? Stowaways.
+
+361
+00:23:39,767 --> 00:23:44,910
+I'm afraid we shish-kebab
+and barbecue stowaways on this ship.
+
+362
+00:23:44,972 --> 00:23:46,918
+(WHIMPERS)
+
+363
+00:23:47,975 --> 00:23:49,852
+(LAUGHTER)
+
+364
+00:23:53,581 --> 00:23:57,620
+I know, you must be the cabin boys.
+Yeah.
+
+365
+00:23:57,685 --> 00:24:02,634
+Hungry, lads? In my galley
+you're always welcome to help yourselves.
+
+366
+00:24:02,690 --> 00:24:05,136
+Yes! Thank you!
+Whooo!
+
+367
+00:24:05,192 --> 00:24:07,638
+Yahoo!
+(LAUGHS)
+
+368
+00:24:07,695 --> 00:24:09,800
+Oh, yes!
+
+369
+00:24:10,698 --> 00:24:13,907
+He's got a healthy appetite.
+How about you?
+
+370
+00:24:13,968 --> 00:24:16,175
+Huh?
+Here.
+
+371
+00:24:16,237 --> 00:24:18,376
+Hey, thank you.
+
+372
+00:24:18,439 --> 00:24:20,976
+My name is Gonzo.
+He's Rizzo.
+
+373
+00:24:21,041 --> 00:24:23,180
+(EATS NOISILY) Yo!
+
+374
+00:24:24,712 --> 00:24:28,524
+You must be Master Hawkins.
+Yes, sir.
+
+375
+00:24:28,582 --> 00:24:32,189
+You needn't call
+a lowly ship's cook "sir."
+
+376
+00:24:32,253 --> 00:24:36,292
+Long John Silver,
+at your humble service.
+
+377
+00:24:36,357 --> 00:24:38,997
+We're just cabin boys, Mr. Silver.
+
+378
+00:24:39,059 --> 00:24:43,303
+Long John to his friends.
+
+379
+00:24:43,364 --> 00:24:49,645
+And believe me, a friend you can trust
+is worth his weight in gold.
+
+380
+00:24:49,703 --> 00:24:54,652
+There's many a dark-hearted scoundrel
+in these ports.
+
+381
+00:24:54,708 --> 00:24:57,211
+What do you mean? Pirates?
+Shh!
+
+382
+00:24:57,278 --> 00:25:02,057
+Pirates? That's rich.
+What an imagination. Give me a cracker.
+
+383
+00:25:02,116 --> 00:25:05,359
+Allow me to introduce
+my pet lobster, Polly.
+
+384
+00:25:05,419 --> 00:25:07,831
+Pieces of eight!
+(SQUAWKS)
+
+385
+00:25:07,888 --> 00:25:13,304
+I raised him from a fingerling. As fine
+a crustacean as a man could ask for.
+
+386
+00:25:13,360 --> 00:25:16,534
+I thought sailors
+had talking parrots.
+
+387
+00:25:16,597 --> 00:25:18,873
+Talking parrots?
+
+388
+00:25:18,933 --> 00:25:23,382
+What an imagination.
+First pirates, now talking parrots.
+
+389
+00:25:23,437 --> 00:25:27,544
+What's next? A singing, dancing mouse
+with his own amusement park?
+
+390
+00:25:27,608 --> 00:25:29,747
+That's enough, Polly.
+Shoo!
+
+391
+00:25:29,810 --> 00:25:32,450
+Argh!
+(CRASH)
+
+392
+00:25:32,513 --> 00:25:37,292
+I'm gonna give you
+a cook's tour of this fine ship.
+
+393
+00:25:37,351 --> 00:25:42,232
+If you're gonna be the cook on this ship,
+I am gonna need bigger pants.
+
+394
+00:25:42,289 --> 00:25:45,133
+(LAUGHS)
+
+395
+00:25:49,229 --> 00:25:51,766
+What's the matter, lads?
+
+396
+00:25:54,335 --> 00:25:56,337
+Oh, that?
+
+397
+00:25:56,403 --> 00:26:01,477
+Lost that timber fighting brigands
+off Madagascar under Admiral Hawke.
+
+398
+00:26:01,542 --> 00:26:06,013
+There's many a man lost a leg and worse
+in the service of the king.
+
+399
+00:26:06,080 --> 00:26:10,586
+Why, look what a cannibal took off me
+
+400
+00:26:10,651 --> 00:26:13,655
+in exchange for me own life.
+
+401
+00:26:21,695 --> 00:26:24,175
+You're a fine pair of lads.
+
+402
+00:26:24,231 --> 00:26:27,178
+Bright as buttons.
+(BELL RINGS)
+
+403
+00:26:27,234 --> 00:26:30,181
+MAN: All hands on deck!
+Come on.
+
+404
+00:26:31,638 --> 00:26:36,712
+Chop-chop. Look lively.
+The captain will be here soon.
+
+405
+00:26:37,144 --> 00:26:39,385
+Chop-chop.
+
+406
+00:26:41,415 --> 00:26:44,362
+Who's that?
+Mr. Arrow, the first mate.
+
+407
+00:26:44,418 --> 00:26:45,897
+A capital fellow.
+
+408
+00:26:45,953 --> 00:26:47,864
+(FANFARE)
+
+409
+00:26:47,921 --> 00:26:51,061
+The captain approaches.
+
+410
+00:26:55,396 --> 00:27:00,436
+Move aside. Make ready for the captain!
+Lallygaggers will suffer his wrath.
+
+411
+00:27:00,501 --> 00:27:04,142
+Is this captain bad-tempered?
+ls he bad-tempered?
+
+412
+00:27:04,204 --> 00:27:10,382
+The man is a raging volcano. Tormented
+by inner demons mortals cannot fathom.
+
+413
+00:27:10,444 --> 00:27:12,720
+He's got demons? Cool.
+
+414
+00:27:25,459 --> 00:27:27,405
+Maniac!
+
+415
+00:27:51,752 --> 00:27:53,789
+Heigh ho, everyone.
+
+416
+00:27:53,854 --> 00:27:56,562
+That's the raging volcano?
+
+417
+00:27:56,623 --> 00:28:00,571
+He's a frog!
+Maybe he gets hopping mad.
+
+418
+00:28:00,627 --> 00:28:03,733
+Hopping mad!
+(LAUGHTER)
+
+419
+00:28:03,797 --> 00:28:05,970
+(WHISTLE)
+
+420
+00:28:10,070 --> 00:28:14,485
+Piping aboard
+Captain Abraham Smollett.
+
+421
+00:28:16,043 --> 00:28:18,455
+Good day, Mr. Arrow.
+
+422
+00:28:22,349 --> 00:28:25,922
+I knew it. He's furious.
+
+423
+00:28:25,986 --> 00:28:27,397
+You there.
+Me?
+
+424
+00:28:27,454 --> 00:28:31,903
+You were in charge of railing dust.
+30 lashes, then walk the plank.
+
+425
+00:28:31,959 --> 00:28:36,635
+I didn't say that.
+I was anticipating your whim.
+
+426
+00:28:36,697 --> 00:28:38,608
+Hm.
+
+427
+00:28:38,665 --> 00:28:41,578
+You must be the cabin boys.
+Yes, sir.
+
+428
+00:28:41,635 --> 00:28:44,946
+Which one of you is Hawkins?
+I am.
+
+429
+00:28:45,005 --> 00:28:47,952
+I knew your father.
+He was a good man.
+
+430
+00:28:48,008 --> 00:28:51,512
+Thank you, sir.
+Well...
+
+431
+00:28:51,578 --> 00:28:55,048
+This is shaping up
+to be a fine voyage, lads.
+
+432
+00:28:55,115 --> 00:28:57,789
+Oh, yes, indeed.
+
+433
+00:28:57,851 --> 00:29:00,457
+(LAUGHS NERVOUSLY)
+
+434
+00:29:00,521 --> 00:29:05,027
+One leg, Jim. One.
+Remember what Billy Bones said.
+
+435
+00:29:05,092 --> 00:29:07,402
+Gonzo, he seems all right.
+
+436
+00:29:07,461 --> 00:29:10,772
+Long John's only a cook.
+How dangerous could he be?
+
+437
+00:29:10,831 --> 00:29:14,301
+I don't know, but I...
+Where's Rizzo?
+
+438
+00:29:14,368 --> 00:29:17,474
+Enjoy your cruise, sir. Next!
+
+439
+00:29:17,538 --> 00:29:21,281
+Have your checks
+made out to Rat Tours Limited.
+
+440
+00:29:21,341 --> 00:29:25,812
+Remember, we put the "rat" in "pirate."
+
+441
+00:29:25,879 --> 00:29:28,291
+Thank you, Mr. Plagueman. Next!
+
+442
+00:29:28,348 --> 00:29:30,954
+What are you doing?
+What?
+
+443
+00:29:31,018 --> 00:29:35,489
+I figure if the treasure map's a dud,
+the trip won't be a total loss,
+
+444
+00:29:35,556 --> 00:29:37,502
+financially speaking.
+
+445
+00:29:37,558 --> 00:29:41,131
+The wind seems to be freshening.
+The tide is with us.
+
+446
+00:29:41,195 --> 00:29:44,335
+Mr. Arrow, this voyage has begun.
+
+447
+00:29:44,398 --> 00:29:47,402
+This voyage has begun.
+
+448
+00:29:47,467 --> 00:29:50,175
+Raise the gangplank.
+
+449
+00:29:50,237 --> 00:29:51,910
+Let go forward line.
+
+450
+00:29:51,972 --> 00:29:54,077
+Let go aft line.
+
+451
+00:29:54,141 --> 00:29:58,453
+Hard to starboard.
+Any man caught dawdling will be shot.
+
+452
+00:29:58,512 --> 00:30:00,617
+I didn't say that.
+I was paraphrasing.
+
+453
+00:30:00,681 --> 00:30:05,061
+Mr. Arrow, just set the sails.
+Set the sails!
+
+454
+00:30:08,121 --> 00:30:11,864
+MAN RAT: I'll miss you!
+I said I'll miss you!
+
+455
+00:30:11,925 --> 00:30:15,532
+WOMAN RAT: Goodbye!
+MAN RAT: Goodbye!
+
+456
+00:30:21,735 --> 00:30:24,545
+♪ When the course is laid ♪
+♪ and the anchor's weighed ♪
+
+457
+00:30:24,605 --> 00:30:27,085
+♪ A sailor's blood begins racing ♪
+
+458
+00:30:27,140 --> 00:30:30,121
+♪ With our hearts unbound ♪
+♪ and our flag unfurled ♪
+
+459
+00:30:30,177 --> 00:30:32,987
+♪ We're under way ♪
+♪ and off to see the world ♪
+
+460
+00:30:33,046 --> 00:30:35,686
+♪ Under way and off to see the world ♪
+
+461
+00:30:35,749 --> 00:30:38,559
+♪ Heigh ho, we'll go ♪
+
+462
+00:30:38,619 --> 00:30:41,156
+♪ Anywhere the wind is blowing ♪
+
+463
+00:30:41,221 --> 00:30:44,498
+♪ Manly men are we ♪
+
+464
+00:30:45,392 --> 00:30:48,134
+♪ Sailing for adventure ♪
+♪ on the deep blue sea ♪
+
+465
+00:30:48,662 --> 00:30:53,407
+Safely, now. Let's not get sloppy
+just because we're singing.
+
+466
+00:30:53,467 --> 00:30:56,346
+♪ Danger walks the deck, ♪
+♪ we say, "What the heck?" ♪
+
+467
+00:30:56,403 --> 00:30:58,679
+♪ We laugh at the perils we're facing ♪
+
+468
+00:30:59,106 --> 00:31:04,784
+♪ Every storm we ride is its own reward ♪
+♪ And people die by falling overboard ♪
+
+469
+00:31:04,845 --> 00:31:07,291
+♪ People die by falling overboard ♪
+
+470
+00:31:07,347 --> 00:31:10,328
+♪ Heigh ho, we'll go ♪
+
+471
+00:31:10,384 --> 00:31:12,990
+♪ Anywhere the wind is blowing ♪
+
+472
+00:31:13,053 --> 00:31:17,126
+♪ Hoist the sails and sing ♪
+
+473
+00:31:17,190 --> 00:31:20,967
+♪ Sailing for adventure ♪
+♪ on the big, blue, wet thing ♪
+
+474
+00:31:21,862 --> 00:31:25,674
+♪ I love to see 'em cry ♪
+♪ when they walk the plank ♪
+
+475
+00:31:25,732 --> 00:31:29,976
+♪ I prefer to cut a throat ♪
+
+476
+00:31:30,037 --> 00:31:33,849
+♪ I love to hang 'em high and watch ♪ ♪
+their little feet try to walk in the air ♪
+
+477
+00:31:33,907 --> 00:31:37,753
+♪ While their faces turn blue ♪
+♪ Just kidding. ♪
+
+478
+00:31:37,811 --> 00:31:40,553
+♪ It's a good life on a boat ♪
+
+479
+00:31:40,614 --> 00:31:43,424
+♪ There are distant lands ♪
+♪ with burning sands ♪
+
+480
+00:31:43,483 --> 00:31:45,986
+♪ That call across the oceans ♪
+
+481
+00:31:46,053 --> 00:31:48,863
+♪ There are bingo games ♪
+♪ every fun-filled day ♪
+
+482
+00:31:48,922 --> 00:31:51,766
+♪ And Margaritas at the midnight buffet ♪
+
+483
+00:31:51,825 --> 00:31:54,635
+♪ Margaritas at the midnight buffet ♪
+
+484
+00:31:54,695 --> 00:31:57,437
+♪ Heigh ho, we'll go ♪
+
+485
+00:31:57,497 --> 00:32:00,205
+♪ Anywhere the wind is blowing ♪
+
+486
+00:32:00,267 --> 00:32:04,215
+♪ Should have took a train ♪
+
+487
+00:32:04,271 --> 00:32:06,842
+♪ Sailing for adventure ♪
+♪ on the bounding main ♪
+
+488
+00:32:06,907 --> 00:32:09,478
+♪ The salty breezes whisper ♪
+
+489
+00:32:09,543 --> 00:32:12,251
+♪ Who knows what lies ahead? ♪
+
+490
+00:32:12,312 --> 00:32:14,986
+♪ I just know I was born to lead ♪
+
+491
+00:32:15,048 --> 00:32:18,029
+♪ The life my father led ♪
+
+492
+00:32:18,085 --> 00:32:20,691
+♪ The stars will be our compass ♪
+
+493
+00:32:20,754 --> 00:32:23,496
+♪ Wherever we may roam ♪
+
+494
+00:32:23,557 --> 00:32:26,128
+♪ And our mates will always be ♪
+
+495
+00:32:26,193 --> 00:32:28,901
+♪ Just like a family ♪
+
+496
+00:32:28,962 --> 00:32:32,000
+♪ And though we may put into port ♪
+
+497
+00:32:32,065 --> 00:32:35,012
+♪ The sea is always home ♪
+
+498
+00:32:35,068 --> 00:32:40,347
+Mr. Bimbo, I didn't know you had
+such a good voice. You're welcome.
+
+499
+00:32:40,407 --> 00:32:43,286
+♪ We'll chase our dreams ♪
+♪ standing on our own ♪
+
+500
+00:32:43,343 --> 00:32:46,085
+♪ Over the horizon ♪
+♪ to the great unknown ♪
+
+501
+00:32:46,146 --> 00:32:48,786
+♪ Heigh ho, we'll go ♪
+
+502
+00:32:48,849 --> 00:32:51,728
+♪ Anywhere the wind is blowing ♪
+
+503
+00:32:51,785 --> 00:32:55,858
+♪ Bold and brave and free ♪
+
+504
+00:32:55,922 --> 00:32:58,266
+♪ Sailing for adventure ♪
+♪ lt's so nauseating ♪
+
+505
+00:32:58,325 --> 00:33:01,169
+♪ Sailing for adventure ♪
+♪ So exhilarating ♪
+
+506
+00:33:01,228 --> 00:33:04,072
+♪ Sailing for adventure ♪
+♪ We're all celebrating ♪
+
+507
+00:33:04,131 --> 00:33:09,604
+♪ On the deep blue sea ♪
+
+508
+00:33:10,170 --> 00:33:12,411
+GONZO: Whoo-hoo!
+RIZZO: Ahoy!
+
+509
+00:33:12,739 --> 00:33:14,912
+(WHISTLE)
+
+510
+00:33:16,943 --> 00:33:19,287
+Roll call.
+
+511
+00:33:21,448 --> 00:33:23,928
+Long John Silver?
+Aye aye, sir!
+
+512
+00:33:23,984 --> 00:33:26,521
+Short Stack Stevens?
+Aye.
+
+513
+00:33:26,586 --> 00:33:28,463
+One-Eyed Jack?
+Aye.
+
+514
+00:33:28,522 --> 00:33:30,729
+Black-Eyed Pea?
+Here.
+
+515
+00:33:30,791 --> 00:33:32,634
+Walleyed Pike?
+Aye.
+
+516
+00:33:32,692 --> 00:33:34,899
+Polly Lobster?
+(SQUAWKS)
+
+517
+00:33:34,961 --> 00:33:37,305
+Mad Monty?
+Aye.
+
+518
+00:33:37,364 --> 00:33:40,402
+Sweetums?
+Aye.
+
+519
+00:33:41,635 --> 00:33:43,342
+Old Tom?
+Aye aye.
+
+520
+00:33:43,403 --> 00:33:45,440
+Real Old Tom?
+Aye.
+
+521
+00:33:45,505 --> 00:33:48,111
+Dead Tom?
+Aye aye.
+
+522
+00:33:48,175 --> 00:33:50,121
+(WHIMPERS)
+Cool.
+
+523
+00:33:52,546 --> 00:33:54,583
+Clueless Morgan?
+Huh?
+
+524
+00:33:54,648 --> 00:33:56,924
+Headless Bill?
+
+525
+00:33:57,150 --> 00:33:59,460
+Headless Bill?
+
+526
+00:34:04,357 --> 00:34:08,134
+Big Fat Ugly Bug-face
+Baby-eating O'Brien?
+
+527
+00:34:08,728 --> 00:34:10,969
+(GRUFFLY) Aye.
+
+528
+00:34:12,799 --> 00:34:14,642
+(CLEARS THROAT)
+
+529
+00:34:14,701 --> 00:34:17,375
+Angel Marie?
+Aye aye.
+
+530
+00:34:17,804 --> 00:34:20,375
+Hm. Hm, hm.
+
+531
+00:34:20,440 --> 00:34:22,113
+Uh, uh...
+
+532
+00:34:22,542 --> 00:34:26,183
+Gentlemen, may I see you
+in my cabin immediately?
+
+533
+00:34:26,246 --> 00:34:27,657
+Mm-hm.
+
+534
+00:34:27,714 --> 00:34:32,925
+Who hired this crew? This is the seediest
+bunch of cutthroats I have ever seen!
+
+535
+00:34:32,986 --> 00:34:35,296
+So, who hired 'em?
+
+536
+00:34:41,495 --> 00:34:45,375
+Your finger hired the crew?
+No, that's silly.
+
+537
+00:34:45,432 --> 00:34:49,005
+The man who lives in my finger
+hired the crew. Mr. Bimbo.
+
+538
+00:34:49,069 --> 00:34:51,106
+What? Ah!
+
+539
+00:34:51,171 --> 00:34:55,210
+He relied on the advice of our cook,
+Long John Silver.
+
+540
+00:34:55,275 --> 00:34:56,686
+(GROANS)
+
+541
+00:34:56,743 --> 00:35:00,316
+A cook and a guy
+who lives in a bear's finger?
+
+542
+00:35:00,380 --> 00:35:02,326
+Exactly.
+
+543
+00:35:02,382 --> 00:35:04,555
+(THEY SIGH)
+
+544
+00:35:04,618 --> 00:35:07,098
+I'm worrying about this voyage.
+
+545
+00:35:07,153 --> 00:35:12,227
+Jim, Bones gave you the map, but I hope
+you'll give it to me for safekeeping.
+
+546
+00:35:12,292 --> 00:35:15,205
+I'LL BE CAREFUL WITH IT.
+(KNOCK AT DOOR)
+
+547
+00:35:22,869 --> 00:35:27,648
+Begging your pardon,
+but I've come with a treat for you.
+
+548
+00:35:27,707 --> 00:35:30,745
+'Tis my very own best brandy,
+
+549
+00:35:30,810 --> 00:35:37,318
+laid down by the brothers of
+Buckfast Abbey, vintage 1737,
+
+550
+00:35:37,384 --> 00:35:40,490
+to toast to a prosperous voyage.
+
+551
+00:35:40,554 --> 00:35:41,692
+Oh, spiffy.
+
+552
+00:35:41,755 --> 00:35:46,033
+I'm sorry,
+but I won't allow drinking on this voyage.
+
+553
+00:35:46,092 --> 00:35:47,867
+Rules are rules.
+
+554
+00:35:47,928 --> 00:35:52,775
+But 'tis a tradition for the officers
+to toast to the success of a voyage.
+
+555
+00:35:52,832 --> 00:35:57,178
+Very true.
+We must set an example for this crew.
+
+556
+00:35:57,237 --> 00:35:59,615
+There will be no alcohol.
+
+557
+00:35:59,673 --> 00:36:03,621
+Sir, but I can vouch
+for this crew myself.
+
+558
+00:36:03,677 --> 00:36:06,419
+You could sail
+to heaven and back with them.
+
+559
+00:36:06,479 --> 00:36:09,585
+I'm afraid I disagree with you.
+Oh.
+
+560
+00:36:09,649 --> 00:36:12,858
+WOMAN: Argh!
+Knock it off with the booze.
+
+561
+00:36:12,919 --> 00:36:17,766
+It's peeling the paint off of
+the shuffleboard court. Come on, girls.
+
+562
+00:36:17,824 --> 00:36:20,361
+This conversation is finished.
+
+563
+00:36:20,427 --> 00:36:22,839
+I understand, sir.
+
+564
+00:36:22,896 --> 00:36:24,967
+I shall tend to my duty
+
+565
+00:36:25,031 --> 00:36:30,447
+and see to it that every drop of alcohol
+is thrown overboard.
+
+566
+00:36:30,503 --> 00:36:33,712
+Come on, Jim.
+Don't bother Captain.
+
+567
+00:36:33,773 --> 00:36:36,310
+You can go if you want to, Jim.
+
+568
+00:36:36,376 --> 00:36:38,356
+Come on.
+Yeah.
+
+569
+00:36:39,613 --> 00:36:42,822
+Well, the human beings
+want to hang out together.
+
+570
+00:36:42,882 --> 00:36:45,419
+Don't want to be with a rat and a...
+
+571
+00:36:45,485 --> 00:36:47,362
+Whatever.
+Yeah. Huh.
+
+572
+00:36:52,025 --> 00:36:54,198
+(BAND PLAYS WALTZ)
+
+573
+00:36:59,165 --> 00:37:01,202
+Say cheese.
+Cheese!
+
+574
+00:37:01,267 --> 00:37:03,543
+Oh, that's great.
+
+575
+00:37:03,603 --> 00:37:05,776
+Cute couple.
+
+576
+00:37:11,011 --> 00:37:13,685
+FEMALE RAT: Stop it!
+(KISSING)
+
+577
+00:37:13,747 --> 00:37:17,194
+MALE RAT: I never felt like this before.
+
+578
+00:37:18,084 --> 00:37:21,293
+Denise, what I'm trying to say...
+Yes?
+
+579
+00:37:21,354 --> 00:37:24,358
+What I mean to say is I...
+Yes?
+
+580
+00:37:31,031 --> 00:37:35,502
+I'm sorry your present didn't work out.
+Oh, Jim.
+
+581
+00:37:35,568 --> 00:37:40,847
+Smollett sails by rules and laws.
+That's what a captain does.
+
+582
+00:37:40,907 --> 00:37:44,150
+Me, I sails by the stars.
+
+583
+00:37:44,210 --> 00:37:46,486
+Stars?
+
+584
+00:37:46,546 --> 00:37:50,551
+North, Jim.
+Find me north out there among them stars.
+
+585
+00:37:50,617 --> 00:37:53,029
+Well, that's easy.
+
+586
+00:37:53,086 --> 00:37:56,295
+But what if you don't have a compass?
+Don't drop it.
+
+587
+00:37:56,356 --> 00:38:00,805
+It was my father's.
+lt's all I have of his. Please.
+
+588
+00:38:00,860 --> 00:38:03,500
+I'm sorry, lad.
+
+589
+00:38:03,563 --> 00:38:05,702
+I were only foolin'.
+
+590
+00:38:09,202 --> 00:38:12,911
+How old were you when he died?
+Seven.
+
+591
+00:38:16,342 --> 00:38:20,154
+I were eight when my father died at sea.
+First mate, he was.
+
+592
+00:38:20,213 --> 00:38:23,194
+My father was a first mate too.
+
+593
+00:38:24,084 --> 00:38:26,086
+Was he, now?
+
+594
+00:38:26,152 --> 00:38:29,463
+By the powers,
+what a coincidence.
+
+595
+00:38:31,891 --> 00:38:35,703
+Now, Jim. That be Polaris.
+
+596
+00:38:35,762 --> 00:38:40,006
+The North Star.
+Even in the China Sea, that's north.
+
+597
+00:38:40,900 --> 00:38:45,178
+North. Polaris.
+So we must be heading southwest.
+
+598
+00:38:45,238 --> 00:38:49,277
+Smart as paint you are, lad.
+Smart as paint.
+
+599
+00:38:50,410 --> 00:38:53,914
+Now, that gets old Long John
+to wonderin'.
+
+600
+00:38:57,517 --> 00:39:01,090
+Why would we be sailing southwest?
+
+601
+00:39:01,821 --> 00:39:05,378
+The scuttlebutt among
+the crew is that we're
+
+602
+00:39:05,393 --> 00:39:08,568
+sailing for buried
+treasure, and, uh...
+
+603
+00:39:08,628 --> 00:39:12,303
+someone on board has a map.
+
+604
+00:39:18,505 --> 00:39:21,486
+'Course, it's none of my concern.
+
+605
+00:39:21,541 --> 00:39:23,782
+I'm just a ship's cook.
+
+606
+00:39:23,843 --> 00:39:28,087
+Such matters are best suited
+to Captain Smollett. He runs this ship.
+
+607
+00:39:28,148 --> 00:39:31,618
+You could captain this ship.
+
+608
+00:39:31,684 --> 00:39:33,994
+That I could, lad.
+
+609
+00:39:34,888 --> 00:39:37,391
+Maybe someday I will.
+
+610
+00:39:42,462 --> 00:39:44,635
+(LONG JOHN LAUGHS)
+
+611
+00:39:48,434 --> 00:39:50,937
+Moonlight swim?
+OK.
+
+612
+00:40:01,548 --> 00:40:07,692
+<i>WOMAN: Smolly, my love for you
+is deeper than the deep blue sea.</i>
+
+613
+00:40:47,293 --> 00:40:48,328
+(LAUGHTER)
+
+614
+00:40:48,394 --> 00:40:50,897
+Get on with you. Go on.
+
+615
+00:40:52,298 --> 00:40:54,471
+GONZO: Hi, Jim.
+Hello.
+
+616
+00:40:54,534 --> 00:40:58,209
+Hi, Long John.
+Fellas, good morning.
+
+617
+00:40:58,271 --> 00:41:01,150
+At least one of us
+is having a good time.
+
+618
+00:41:01,207 --> 00:41:03,016
+It's not so bad.
+
+619
+00:41:03,076 --> 00:41:08,492
+Angel Marie said that he'd throw a line out
+the back and let me drag along the bottom.
+
+620
+00:41:08,548 --> 00:41:12,462
+I don't know about this crew.
+I feel like they're waiting to pounce.
+
+621
+00:41:12,518 --> 00:41:14,759
+That's just your imagination.
+
+622
+00:41:14,821 --> 00:41:17,495
+(CLUELESS CACKLES)
+(RIZZO SCREAMS)
+
+623
+00:41:19,125 --> 00:41:22,538
+This is a figment of my imagination?
+Whoa.
+
+624
+00:41:22,595 --> 00:41:27,408
+Tell us where the map is,
+or we'll tear you limb from limb!
+
+625
+00:41:27,467 --> 00:41:30,073
+My friend and I will never tell.
+
+626
+00:41:30,136 --> 00:41:35,176
+RIZZO: There could be
+extenuating circumstances. I mean...
+
+627
+00:41:35,241 --> 00:41:37,118
+Maybe they'll ask nice.
+
+628
+00:41:37,176 --> 00:41:39,178
+In your dreams.
+Do it, Monty.
+
+629
+00:41:39,245 --> 00:41:41,452
+Yeah! Do it to me.
+
+630
+00:41:43,116 --> 00:41:45,653
+Whoa! Oh!
+
+631
+00:41:45,718 --> 00:41:47,698
+Yes!
+
+632
+00:41:47,754 --> 00:41:50,826
+No. I can't look.
+Look at this!
+
+633
+00:41:50,890 --> 00:41:53,268
+I'm taller! This is so cool.
+
+634
+00:41:53,326 --> 00:41:56,671
+I may even have a future with the NBA!
+
+635
+00:41:56,729 --> 00:41:59,903
+This won't work. He likes it.
+Let's torture the rat.
+
+636
+00:41:59,966 --> 00:42:02,913
+Huh? No!
+No, no, no, no, no, no!
+
+637
+00:42:02,969 --> 00:42:05,074
+Oh, no, no!
+Yes!
+
+638
+00:42:05,138 --> 00:42:08,415
+No! No. Please, no!
+I hate basketball.
+
+639
+00:42:08,474 --> 00:42:12,081
+I got a lovely recipe for blackened rat.
+
+640
+00:42:12,145 --> 00:42:14,352
+(SCREAMS)
+
+641
+00:42:15,715 --> 00:42:18,992
+I say, this does not look safe.
+
+642
+00:42:19,052 --> 00:42:20,531
+(SIZZLING)
+
+643
+00:42:20,586 --> 00:42:22,691
+(SQUEALS)
+
+644
+00:42:22,755 --> 00:42:24,325
+What? What?
+
+645
+00:42:24,390 --> 00:42:27,735
+I burnt my hand.
+Kiss it or something.
+
+646
+00:42:27,794 --> 00:42:29,296
+(GONZO LAUGHS)
+
+647
+00:42:31,631 --> 00:42:34,976
+Oh! Poodly, poodly, poodly, poodly!
+
+648
+00:42:35,034 --> 00:42:38,607
+Mr. Arrow, lock them up
+for the remainder of the voyage.
+
+649
+00:42:38,671 --> 00:42:42,346
+Yes, sir.
+You can't hold us. Stop crying.
+
+650
+00:42:42,408 --> 00:42:45,321
+Move along.
+Move along.
+
+651
+00:42:47,613 --> 00:42:50,856
+Master Hawkins,
+may I see you in my cabin?
+
+652
+00:42:50,917 --> 00:42:52,988
+Yes, sir.
+
+653
+00:42:54,387 --> 00:42:56,867
+Ready, Mr. Gonzo?
+Ready.
+
+654
+00:42:56,923 --> 00:43:02,737
+Tie off the rope, Beaker.
+We call this the window shade cure.
+
+655
+00:43:03,629 --> 00:43:06,041
+Right. Snip, snip, snip.
+
+656
+00:43:06,099 --> 00:43:08,841
+Whoo, whoo, whoo, whoo!
+
+657
+00:43:08,901 --> 00:43:11,507
+Oh, great! Wow!
+
+658
+00:43:11,571 --> 00:43:13,744
+Argh! Whoo!
+
+659
+00:43:15,375 --> 00:43:18,822
+Whoo-hoo! That was so cool!
+
+660
+00:43:18,878 --> 00:43:21,290
+Hm? Oh, sure.
+(MEEPING)
+
+661
+00:43:21,981 --> 00:43:23,722
+(GONZO LAUGHS)
+
+662
+00:43:25,418 --> 00:43:28,490
+Who's the lady pig?
+Never mind. Listen.
+
+663
+00:43:28,554 --> 00:43:32,001
+I'm hoping you'll give me the map now.
+
+664
+00:43:32,058 --> 00:43:35,767
+I'd rather not, sir.
+(SIGHS)
+
+665
+00:43:35,828 --> 00:43:42,837
+I hoped it wouldn't come to this, but,
+as captain, I order you to give me the map.
+
+666
+00:43:47,907 --> 00:43:51,320
+Mr. Arrow.
+Aye aye, Captain.
+
+667
+00:43:51,377 --> 00:43:54,085
+Lock up this treasure map.
+Mm.
+
+668
+00:43:55,581 --> 00:43:57,925
+It will be safe in here.
+
+669
+00:44:34,754 --> 00:44:39,066
+It's been six weeks
+since we left England.
+
+670
+00:44:39,826 --> 00:44:42,670
+Five days since we had a breeze.
+
+671
+00:44:49,569 --> 00:44:52,106
+(GROANS)
+
+672
+00:44:53,172 --> 00:44:55,948
+No. I've got the madness.
+
+673
+00:44:57,510 --> 00:44:59,615
+I got cabin fever!
+
+674
+00:44:59,679 --> 00:45:02,421
+I've got it too!
+
+675
+00:45:02,482 --> 00:45:05,292
+BOTH: Cabin fever!
+
+676
+00:45:05,351 --> 00:45:08,992
+♪ I've got cabin fever, ♪
+♪ it's burning in my brain ♪
+
+677
+00:45:09,055 --> 00:45:12,832
+♪ I've got the cabin fever, ♪
+♪ it's driving me insane ♪
+
+678
+00:45:12,892 --> 00:45:16,601
+♪ We got cabin fever, ♪
+♪ we're flipping our bandanas ♪
+
+679
+00:45:16,662 --> 00:45:20,633
+♪ Been stuck at sea so long ♪
+♪ that we have simply gone bananas ♪
+
+680
+00:45:20,700 --> 00:45:24,113
+♪ Chica chica boom boom, ♪
+♪ chica chica boom boom, chic ♪
+
+681
+00:45:24,604 --> 00:45:27,084
+♪ Chica chica boom boom, ♪
+♪ chica chica boom boom, chic ♪
+
+682
+00:45:27,140 --> 00:45:32,089
+♪ We... we... we got cabin fever, ♪
+♪ we lost what sense we had ♪
+
+683
+00:45:32,145 --> 00:45:35,649
+♪ We got cabin fever, ♪
+♪ we're all going mad ♪
+
+684
+00:45:36,082 --> 00:45:39,757
+♪ Grab your partner by the ears, ♪
+♪ lash him to the wheel ♪
+
+685
+00:45:39,819 --> 00:45:43,494
+♪ Do-si-do, step on his toe, ♪
+♪ listen to him squeal ♪
+
+686
+00:45:43,556 --> 00:45:47,163
+♪ Allemande left, allemande right, ♪
+♪ it's time to sail or sink ♪
+
+687
+00:45:47,226 --> 00:45:51,038
+♪ Swing your partner over the side, ♪
+♪ drop him in the drink ♪
+
+688
+00:45:51,097 --> 00:45:54,374
+♪ We've got cabin fever ♪
+♪ No ifs, ands or buts ♪
+
+689
+00:45:54,433 --> 00:45:56,640
+♪ We're disoriented ♪
+♪ And demented ♪
+
+690
+00:45:56,702 --> 00:45:58,648
+♪ And a little nuts ♪
+
+691
+00:45:58,704 --> 00:46:02,117
+♪ <i>Ach, do liebe</i> Volkswagen car ♪
+
+692
+00:46:02,175 --> 00:46:05,554
+♪ <i>Sauerbraten, Wiener Schnitzel</i> ♪
+♪ <i>und wunderbar</i> ♪
+
+693
+00:46:05,611 --> 00:46:09,787
+♪ We were sailing, sailing, ♪
+♪ the wind was on our side ♪
+
+694
+00:46:11,951 --> 00:46:13,624
+♪ <i>Und</i> then it died ♪
+
+695
+00:46:13,686 --> 00:46:17,156
+♪ I've got cabin fever, ♪
+♪ I think I lost my grip ♪
+
+696
+00:46:17,223 --> 00:46:21,035
+♪ I'd like to get my hands ♪
+♪ on whoever wrote this script ♪
+
+697
+00:46:21,093 --> 00:46:23,164
+♪ I ♪
+
+698
+00:46:23,229 --> 00:46:26,904
+♪ Was floating neath the tropic moon ♪
+
+699
+00:46:26,966 --> 00:46:30,573
+♪ And dreaming of a blue lagoon ♪
+
+700
+00:46:30,636 --> 00:46:34,015
+♪ Now I'm as crazy as a loon ♪
+(LAUGHS)
+
+701
+00:46:34,073 --> 00:46:37,885
+♪ Cabin fever has ravaged all aboard ♪
+
+702
+00:46:37,944 --> 00:46:41,357
+♪ This once proud vessel ♪
+♪ has become a floating psycho ward ♪
+
+703
+00:46:41,414 --> 00:46:45,362
+♪ We were sailing, sailing, ♪
+♪ heading who knows where ♪
+
+704
+00:46:45,418 --> 00:46:48,763
+♪ And now though we're all here ♪
+
+705
+00:46:48,821 --> 00:46:51,233
+♪ We're not all there ♪
+
+706
+00:46:52,124 --> 00:46:54,229
+<i>GONZO: Arriba!</i>
+
+707
+00:47:00,099 --> 00:47:02,579
+♪ Cabin fever ♪
+
+708
+00:47:03,402 --> 00:47:07,942
+MAN: The wind is back!
+TRELAWNEY: What have we done?
+
+709
+00:47:08,007 --> 00:47:11,978
+LIVESEY: I feel like such a fool.
+TRELAWNEY: Me too.
+
+710
+00:47:12,044 --> 00:47:13,387
+Embarrassing.
+
+711
+00:47:13,446 --> 00:47:18,225
+Get us out of here! Help!
+Let us out. We was only joking.
+
+712
+00:47:19,685 --> 00:47:23,064
+Long John, get us out of here.
+Yeah!
+
+713
+00:47:23,122 --> 00:47:24,965
+Hey, Polly.
+What?
+
+714
+00:47:25,024 --> 00:47:28,699
+What was that song that just happened?
+What?
+
+715
+00:47:28,761 --> 00:47:32,004
+You know, "Cabin fever."
+
+716
+00:47:32,064 --> 00:47:35,170
+That.
+You see, John.
+
+717
+00:47:35,234 --> 00:47:40,843
+You gotta get us out of here now.
+Clueless is going crackers.
+
+718
+00:47:40,906 --> 00:47:43,887
+Here, your bread and water for today.
+
+719
+00:47:43,943 --> 00:47:46,423
+But I ordered shrimp scampi.
+
+720
+00:47:46,479 --> 00:47:50,427
+It's more than you deserve,
+you villainous dogs!
+
+721
+00:47:50,483 --> 00:47:52,463
+Oh, Jim.
+
+722
+00:47:52,518 --> 00:47:58,264
+I should be locked up too, for letting
+thieves like them aboard this ship.
+
+723
+00:47:58,324 --> 00:48:03,637
+It chills me to think
+that they almost killed your little friends
+
+724
+00:48:03,696 --> 00:48:06,074
+looking for some daft treasure map.
+
+725
+00:48:06,132 --> 00:48:12,105
+This would not have happened if
+I'd given Captain Smollett the... I mean...
+
+726
+00:48:13,439 --> 00:48:15,441
+What, lad?
+
+727
+00:48:15,508 --> 00:48:18,614
+I should not talk about this with you.
+
+728
+00:48:18,678 --> 00:48:23,718
+You mean
+you've really got a treasure map?
+
+729
+00:48:23,783 --> 00:48:27,731
+Not anymore. Mr. Arrow locked it up
+in the captain's cabin.
+
+730
+00:48:27,787 --> 00:48:33,965
+You must promise to keep it a secret.
+Don't worry. You only told old Long John.
+
+731
+00:48:34,026 --> 00:48:38,304
+You run along and do your chores.
+Go on. Go on.
+
+732
+00:48:40,399 --> 00:48:42,572
+(LAUGHS)
+
+733
+00:49:02,588 --> 00:49:04,693
+Safely, now. Safely.
+
+734
+00:49:04,757 --> 00:49:06,930
+(IMITATES FOGHORN)
+
+735
+00:49:08,494 --> 00:49:10,906
+Steady as she goes.
+
+736
+00:49:13,265 --> 00:49:16,269
+Oh, Mr. Silver. Good evening.
+
+737
+00:49:16,335 --> 00:49:18,815
+Wicked fog tonight.
+Mm.
+
+738
+00:49:18,871 --> 00:49:22,080
+Reminds me of the night
+we ran aground off the pampas.
+
+739
+00:49:22,141 --> 00:49:26,954
+Half the crew drowned in leaky lifeboats.
+It were a terrible shame.
+
+740
+00:49:27,012 --> 00:49:30,255
+Leaky lifeboats?
+Common occurrence.
+
+741
+00:49:30,316 --> 00:49:35,595
+A little-used piece of equipment
+falls into disrepair and becomes...
+
+742
+00:49:35,654 --> 00:49:37,998
+Unsafe?
+Oh.
+
+743
+00:49:38,057 --> 00:49:44,406
+I'm not saying our lifeboats are unsafe.
+I'm not saying we got problems.
+
+744
+00:49:45,464 --> 00:49:47,307
+Still...
+
+745
+00:49:49,268 --> 00:49:50,508
+Hm. Hm.
+
+746
+00:49:50,569 --> 00:49:52,742
+The caulking appears tight.
+
+747
+00:49:52,805 --> 00:49:56,651
+No dampness under the gunwale.
+This one seems seaworthy.
+
+748
+00:49:56,709 --> 00:50:02,182
+Well, they do,
+until you get them out in the open ocean.
+
+749
+00:50:03,082 --> 00:50:05,562
+Cast me off.
+Yes, sir.
+
+750
+00:50:05,618 --> 00:50:06,756
+Sir.
+Hm?
+
+751
+00:50:06,819 --> 00:50:10,858
+Is there anything I can hold for you,
+for safekeeping?
+
+752
+00:50:10,923 --> 00:50:13,836
+Your hat, your coat, um...
+
+753
+00:50:13,893 --> 00:50:16,601
+your keys?
+
+754
+00:50:16,662 --> 00:50:19,040
+My keys. Of course.
+
+755
+00:50:19,098 --> 00:50:23,012
+If they fell overboard,
+it would be disastrous.
+
+756
+00:50:23,068 --> 00:50:26,106
+Oh, that it would, sir.
+
+757
+00:50:28,541 --> 00:50:32,353
+Cast me off, Mr. Silver.
+Aye aye, sir.
+
+758
+00:50:33,179 --> 00:50:35,284
+Thank you, Mr. Silver.
+
+759
+00:50:35,347 --> 00:50:37,657
+Just doing my duty, sir.
+
+760
+00:50:41,954 --> 00:50:43,865
+Oh, yes, John.
+
+761
+00:50:45,791 --> 00:50:48,829
+MAN: Man overboard!
+
+762
+00:50:53,499 --> 00:50:56,571
+Yes?
+Oh. I'm sorry, sir.
+
+763
+00:50:56,635 --> 00:51:01,812
+Mr. Arrow has gone overboard
+and all we found was his hat.
+
+764
+00:51:01,874 --> 00:51:03,945
+(SOBS)
+Oh, no.
+
+765
+00:51:10,649 --> 00:51:15,598
+So the sea has claimed
+another loyal officer and friend.
+
+766
+00:51:15,654 --> 00:51:17,099
+This was a person...
+
+767
+00:51:17,156 --> 00:51:20,399
+I got it. After you, Monty.
+After you.
+
+768
+00:51:20,459 --> 00:51:22,530
+Will you just come on?
+
+769
+00:51:22,595 --> 00:51:28,477
+Mr. Samuel Arrow, who used to get us up
+before dawn for a good flossing.
+
+770
+00:51:30,736 --> 00:51:33,342
+OK.
+Spread out and find the map.
+
+771
+00:51:33,405 --> 00:51:39,720
+May the wind be ever at your back, Samuel
+Arrow. Rest in peace, my friend. Amen.
+
+772
+00:51:39,778 --> 00:51:40,984
+Amen.
+
+773
+00:51:42,481 --> 00:51:44,688
+(LAUGHS)
+Shh.
+
+774
+00:51:45,718 --> 00:51:47,891
+(CACKLES)
+See? See?
+
+775
+00:51:47,953 --> 00:51:51,230
+Open it.
+We gotta take it to Long John.
+
+776
+00:51:51,290 --> 00:51:53,702
+Come on.
+Oh.
+
+777
+00:52:01,333 --> 00:52:03,899
+(GONZO SPITS)
+This apple has a worm in it.
+
+778
+00:52:03,914 --> 00:52:05,406
+RIZZO: That's my tail.
+
+779
+00:52:05,471 --> 00:52:08,748
+(GONZO SIGHS)
+RIZZO: WHAT'S WRONG?
+
+780
+00:52:09,975 --> 00:52:12,012
+It just feels so weird.
+
+781
+00:52:12,077 --> 00:52:15,058
+That Mr. Arrow's dead?
+That.
+
+782
+00:52:15,114 --> 00:52:18,493
+And my pants are filled with starfish.
+
+783
+00:52:18,551 --> 00:52:20,963
+You and your hobbies.
+
+784
+00:52:21,387 --> 00:52:23,333
+Rizzo!
+BOTH: Argh!
+
+785
+00:52:23,389 --> 00:52:26,859
+We've missed you. Climb in.
+I'm doing my chores.
+
+786
+00:52:26,926 --> 00:52:30,271
+Come on. Share an apple.
+Come on.
+
+787
+00:52:33,866 --> 00:52:38,110
+Here's the plan.
+We should kill that captain now.
+
+788
+00:52:38,170 --> 00:52:40,616
+POLLY: Then we'll get that bear.
+
+789
+00:52:40,673 --> 00:52:43,483
+CLUELESS:
+Can we make a rug out of him?
+
+790
+00:52:43,542 --> 00:52:45,283
+Oh, hi, Long John.
+
+791
+00:52:47,479 --> 00:52:52,451
+I'm a easy man.
+A gentleman of fortune, says most.
+
+792
+00:52:52,518 --> 00:52:56,660
+But it makes me sick
+to sail with the likes of you.
+
+793
+00:52:56,722 --> 00:52:59,566
+Now, get this straight.
+
+794
+00:52:59,625 --> 00:53:03,163
+If anyone mutinies before I says so,
+
+795
+00:53:03,228 --> 00:53:07,142
+I'll throw you overboard
+like I did Mr. Arrow.
+
+796
+00:53:07,199 --> 00:53:12,273
+I says let the captain
+steer us closer to the island.
+
+797
+00:53:12,338 --> 00:53:16,718
+I have the treasure map.
+When the time is ripe, well kill 'em all.
+
+798
+00:53:16,775 --> 00:53:20,689
+POLLY: That's what I said.
+MONTY: We'll kill them all!
+
+799
+00:53:20,746 --> 00:53:22,817
+MAN: Land ho!
+
+800
+00:53:22,881 --> 00:53:27,091
+Come on, lads. Let's go!
+POLLY: Land ho!
+
+801
+00:53:30,456 --> 00:53:33,437
+My goodness.
+(RIZZO WHIMPERS)
+
+802
+00:53:36,528 --> 00:53:38,769
+STATLER: Land ho!
+
+803
+00:53:39,832 --> 00:53:43,678
+Beachfront properties!
+Retirement estates!
+
+804
+00:53:43,736 --> 00:53:46,273
+Bikinis!
+
+805
+00:53:46,338 --> 00:53:49,182
+Throw the mainsail!
+Drop anchor!
+
+806
+00:53:49,241 --> 00:53:54,247
+Hard of starboard.
+Prepare to lower the longboats.
+
+807
+00:54:00,152 --> 00:54:03,827
+MAN: Bring those barrels over here.
+
+808
+00:54:03,889 --> 00:54:05,664
+Give a hand with the longboats.
+
+809
+00:54:11,625 --> 00:54:15,299
+MAN: Bring those barrels over here.
+
+810
+00:54:15,361 --> 00:54:17,136
+Give a hand with the longboats.
+
+811
+00:54:17,196 --> 00:54:19,972
+I must speak with you.
+I'm busy.
+
+812
+00:54:20,031 --> 00:54:24,001
+But Long John is planning a mutiny.
+And he's got the map.
+
+813
+00:54:24,069 --> 00:54:25,776
+I see.
+
+814
+00:54:25,837 --> 00:54:28,784
+Mr. Silver.
+Aye aye, Captain.
+
+815
+00:54:28,839 --> 00:54:33,947
+Take the crew ashore. We need water
+and provisions. Take as long as you want.
+
+816
+00:54:34,010 --> 00:54:35,614
+Captain!
+
+817
+00:54:35,678 --> 00:54:39,182
+Sir! 'Tis a task to my liking,
+that it is.
+
+818
+00:54:39,249 --> 00:54:43,822
+Gather the officers
+and meet me in my quarters. Quickly.
+
+819
+00:54:43,886 --> 00:54:46,423
+This is lucky,
+Captain letting us go ashore.
+
+820
+00:54:46,488 --> 00:54:51,027
+Us with the map. lt's like giving
+the treasure to us on a silver platter.
+
+821
+00:54:51,092 --> 00:54:53,698
+Aye, that it is, Polly.
+
+822
+00:54:53,761 --> 00:54:56,537
+Never trust a silver platter.
+
+823
+00:55:01,001 --> 00:55:03,003
+Beaker, come on.
+
+824
+00:55:04,236 --> 00:55:05,874
+Jim, lad.
+
+825
+00:55:05,938 --> 00:55:09,646
+There's room in the boat for one more.
+Come along.
+
+826
+00:55:09,707 --> 00:55:13,018
+The captain wants me.
+What a shame.
+
+827
+00:55:13,444 --> 00:55:16,720
+I'll miss you, lad, that I will. Uh...
+
+828
+00:55:16,780 --> 00:55:23,196
+Jim, I seem to have left my crutch on
+board. Hand it to me like a good lad.
+
+829
+00:55:26,289 --> 00:55:29,498
+There's a good boy.
+
+830
+00:55:29,559 --> 00:55:33,165
+Have to be closer than that.
+I can't reach it.
+
+831
+00:55:33,228 --> 00:55:35,606
+Hold tight.
+JIM: Whoa!
+
+832
+00:55:35,664 --> 00:55:37,700
+Cast away, men. Quick.
+
+833
+00:55:37,765 --> 00:55:39,836
+POLLY: Go, go, go!
+
+834
+00:55:43,237 --> 00:55:47,707
+The plan is simple. Once the pirates
+are ashore, we sail and return in a year.
+
+835
+00:55:47,774 --> 00:55:52,347
+By then the fight should be out of them.
+That's a brilliant plan.
+
+836
+00:55:52,411 --> 00:55:54,687
+Except for one thing.
+What?
+
+837
+00:55:54,746 --> 00:55:57,317
+The pirates have Jim!
+
+838
+00:56:11,194 --> 00:56:14,731
+WOMAN: What?
+MAN: I'm tired.
+
+839
+00:56:14,797 --> 00:56:16,572
+What?
+I'm getting tired.
+
+840
+00:56:16,632 --> 00:56:20,545
+WOMAN: He says go faster.
+I'm getting tired.
+
+841
+00:56:20,835 --> 00:56:23,008
+(BAND PLAYS)
+
+842
+00:56:34,647 --> 00:56:40,188
+I can't figure out what side we're on. Are
+we with the pirates or the frog captain?
+
+843
+00:56:40,253 --> 00:56:44,701
+Just play the gig.
+Never get involved in politics.
+
+844
+00:56:44,756 --> 00:56:47,999
+Politics! Politics!
+
+845
+00:56:49,059 --> 00:56:51,596
+(BAND CONTINUES PLAYING)
+
+846
+00:56:56,432 --> 00:56:59,709
+SILVER: Jim, lad.
+(LAUGHTER)
+
+847
+00:57:06,074 --> 00:57:08,020
+Easy, Jim.
+
+848
+00:57:08,076 --> 00:57:09,816
+'Tis all in good fun.
+
+849
+00:57:09,877 --> 00:57:15,190
+Pleased I am to initiate you
+into our enterprising, um, company.
+
+850
+00:57:17,350 --> 00:57:21,662
+Which entitles you to all the benefits.
+What if I don't want them?
+
+851
+00:57:21,721 --> 00:57:25,429
+This is a one-time special offer.
+
+852
+00:57:25,491 --> 00:57:31,338
+Say no and I will be forced
+to terminate our relationship.
+
+853
+00:57:31,929 --> 00:57:36,105
+You're nothing but murdering pirates.
+Pirates?
+
+854
+00:57:39,202 --> 00:57:40,943
+Pirates.
+
+855
+00:57:41,004 --> 00:57:43,280
+Oh, Jim.
+
+856
+00:57:43,340 --> 00:57:49,290
+If that's what you're thinking,
+you're dead wrong.
+
+857
+00:57:49,345 --> 00:57:54,123
+♪ When I was just a lad ♪
+♪ looking for my true vocation ♪
+
+858
+00:57:54,182 --> 00:57:59,096
+♪ My father said, "Now, son, ♪
+♪ this choice deserves deliberation" ♪
+
+859
+00:57:59,153 --> 00:58:03,761
+♪ "Though you could be a doctor, ♪
+♪ or perhaps a financier" ♪
+
+860
+00:58:03,824 --> 00:58:07,896
+♪ "My boy, why not consider ♪
+♪ a more challenging career?" ♪
+
+861
+00:58:08,328 --> 00:58:12,140
+♪ "Heigh ho ho, ♪
+♪ you'll cruise the foreign shores" ♪
+
+862
+00:58:12,198 --> 00:58:16,339
+♪ "And you'll keep your mind and body ♪
+♪ sound by working out of doors" ♪
+
+863
+00:58:16,401 --> 00:58:20,144
+♪ True friendship and adventure ♪
+♪ are what we can't live without ♪
+
+864
+00:58:20,205 --> 00:58:25,882
+♪ And when you're a professional pirate ♪
+♪ That's what the job's about ♪
+
+865
+00:58:25,943 --> 00:58:27,944
+Upstage, lads!
+
+866
+00:58:28,011 --> 00:58:30,753
+This is my only number.
+
+867
+00:58:30,814 --> 00:58:32,953
+♪ Now, take Sir Francis Drake ♪
+
+868
+00:58:33,016 --> 00:58:35,552
+♪ The Spanish all despise him ♪
+
+869
+00:58:35,617 --> 00:58:38,223
+♪ But to the British he's a hero ♪
+
+870
+00:58:38,287 --> 00:58:40,494
+♪ And they idolize him ♪
+
+871
+00:58:40,556 --> 00:58:45,197
+♪ It's how you look at buccaneers ♪
+♪ that makes them bad or good ♪
+
+872
+00:58:45,259 --> 00:58:49,604
+♪ And I see us as members ♪
+♪ of a noble brotherhood ♪
+
+873
+00:58:49,663 --> 00:58:53,543
+♪ Heigh ho ho, we're honorable men ♪
+♪ Oh, I love it. ♪
+
+874
+00:58:53,600 --> 00:58:57,672
+♪ And before we lose our tempers, ♪
+♪ we will always count to ten ♪
+
+875
+00:58:57,737 --> 00:59:01,708
+♪ On occasion, there may be someone ♪
+♪ you have to execute ♪
+
+876
+00:59:01,774 --> 00:59:05,653
+♪ But when you're a professional pirate ♪
+
+877
+00:59:05,710 --> 00:59:09,021
+♪ You don't have to wear a suit ♪
+
+878
+00:59:09,080 --> 00:59:10,080
+What?
+
+879
+00:59:10,147 --> 00:59:14,118
+♪ I could have been a surgeon, ♪
+♪ I like taking things apart ♪
+
+880
+00:59:14,184 --> 00:59:18,393
+♪ I could have been a lawyer, ♪
+♪ but I just had too much heart ♪
+
+881
+00:59:18,454 --> 00:59:21,401
+♪ I could have been in politics ♪
+
+882
+00:59:21,457 --> 00:59:25,529
+♪ 'Cause I've always been a big spender ♪
+
+883
+00:59:25,594 --> 00:59:30,043
+(AS MARLON BRANDO)
+♪ And me, I could have been a contender ♪
+
+884
+00:59:33,300 --> 00:59:37,942
+♪ Some say that pirates steal ♪
+♪ and should be feared and hated ♪
+
+885
+00:59:38,005 --> 00:59:40,541
+♪ I say we're victims of bad press ♪
+
+886
+00:59:40,607 --> 00:59:42,883
+♪ It's all exaggerated ♪
+
+887
+00:59:42,942 --> 00:59:45,388
+♪ We'd never stab you in the back ♪
+
+888
+00:59:45,445 --> 00:59:47,651
+♪ We'd never lie or cheat ♪
+
+889
+00:59:47,713 --> 00:59:52,287
+♪ We're just about the nicest guys ♪
+♪ you'd ever want to meet ♪
+
+890
+00:59:52,351 --> 00:59:57,993
+Well, look at us, Jim!
+We're a festival of conviviality.
+
+891
+00:59:59,590 --> 01:00:02,126
+Congeniality.
+Conviviality.
+
+892
+01:00:02,192 --> 01:00:04,138
+That's what I said.
+
+893
+01:00:04,561 --> 01:00:06,870
+We're ready, <i>el capitan.</i>
+Good.
+
+894
+01:00:06,929 --> 01:00:10,467
+Guard the ship.
+We'll be back when we get Jim.
+
+895
+01:00:10,533 --> 01:00:14,605
+Aye aye, Captain.
+Cast off, Mr. Beaker.
+
+896
+01:00:15,170 --> 01:00:17,343
+Thanks for coming along.
+
+897
+01:00:17,405 --> 01:00:21,012
+Are you kidding? Jim is family.
+Yeah.
+
+898
+01:00:22,009 --> 01:00:24,148
+Tell the truth, lad.
+
+899
+01:00:24,211 --> 01:00:30,650
+Do you really think the captain and
+the squire will share the treasure with us?
+
+900
+01:00:30,716 --> 01:00:32,753
+Can't hear you.
+
+901
+01:00:32,819 --> 01:00:34,628
+No?
+
+902
+01:00:34,687 --> 01:00:37,166
+And we being the rightful owners.
+
+903
+01:00:37,222 --> 01:00:42,296
+Flint's own crew,
+who shed our blood getting it here.
+
+904
+01:00:44,228 --> 01:00:50,109
+Join us. Donate your compass
+to the treasure hunt and get a full share.
+
+905
+01:00:52,302 --> 01:00:55,943
+♪ Heigh ho ho, ♪
+♪ it's one for all for one ♪
+
+906
+01:00:56,005 --> 01:00:59,975
+♪ And we'll share and share alike with ♪
+♪ you and love you like a son ♪
+
+907
+01:01:00,042 --> 01:01:04,012
+♪ We're gentlemen of fortune ♪
+♪ and that's what we're proud to be ♪
+
+908
+01:01:04,078 --> 01:01:07,685
+♪ And when you're a professional pirate ♪
+
+909
+01:01:07,748 --> 01:01:12,093
+♪ You'll be honest, brave and free ♪
+♪ The soul of decency ♪
+
+910
+01:01:12,152 --> 01:01:16,464
+♪ You'll be loyal and fair ♪
+♪ and on the square and most importantly ♪
+
+911
+01:01:16,523 --> 01:01:20,129
+♪ When you're a professional pirate ♪
+
+912
+01:01:20,192 --> 01:01:28,191
+♪ You're always in the best of company ♪
+
+913
+01:01:32,102 --> 01:01:34,275
+(CANNON)
+
+914
+01:01:34,338 --> 01:01:35,783
+Down!
+There!
+
+915
+01:01:35,839 --> 01:01:40,378
+Captain Smollett coming to rescue me.
+Don't get your hopes up.
+
+916
+01:01:40,443 --> 01:01:44,391
+I've hidden a few of my best men aboard.
+
+917
+01:01:44,447 --> 01:01:49,156
+If a second round follows,
+it means they've taken over the <i>Hispaniola</i>
+
+918
+01:01:49,217 --> 01:01:51,754
+and I'm the new captain.
+
+919
+01:01:53,221 --> 01:01:55,393
+Now, then.
+
+920
+01:01:56,590 --> 01:01:59,571
+(CANNON)
+(CHEERING)
+
+921
+01:02:04,264 --> 01:02:06,767
+(BEAKER MEEPS)
+
+922
+01:02:06,833 --> 01:02:09,904
+How infortuitous
+our firearms weren't loaded.
+
+923
+01:02:09,968 --> 01:02:13,575
+I'll say.
+We might have shot somebody.
+
+924
+01:02:14,406 --> 01:02:16,510
+(JIM GASPS)
+
+925
+01:02:16,574 --> 01:02:20,317
+I'm the only friend you've got now.
+
+926
+01:02:20,378 --> 01:02:25,451
+Let's dig up the treasure together.
+Shipmates? Remember?
+
+927
+01:02:27,217 --> 01:02:29,856
+We'll need your compass, though.
+
+928
+01:02:29,919 --> 01:02:31,990
+No.
+
+929
+01:02:32,054 --> 01:02:34,432
+I'll take it either way.
+
+930
+01:02:47,935 --> 01:02:51,472
+Come on, lad.
+Let's not waste time.
+
+931
+01:02:53,072 --> 01:02:57,179
+It's too dark to do anything.
+We'll camp and wait for first light.
+
+932
+01:02:57,242 --> 01:02:59,017
+(RIZZO WHIMPERS)
+
+933
+01:02:59,077 --> 01:03:02,354
+Hey, Rizzo, relax.
+Don't be so afraid.
+
+934
+01:03:02,414 --> 01:03:04,916
+I've gone way beyond afraid.
+
+935
+01:03:04,982 --> 01:03:10,864
+I'm somewhere between bedwetting
+and a near-death experience.
+
+936
+01:03:10,921 --> 01:03:14,231
+SMOLLETT: Good night.
+Good night. Night, Rizzo.
+
+937
+01:03:14,290 --> 01:03:16,827
+RIZZO: Yeah. Sure.
+
+938
+01:03:17,727 --> 01:03:20,969
+(RIZZO TREMBLES)
+(SNORTING)
+
+939
+01:03:21,029 --> 01:03:25,478
+RIZZO: Gonzo? ls that you, Gonzo?
+(GROWLING)
+
+940
+01:03:25,534 --> 01:03:30,209
+RIZZO: It sounds like
+you're coming down with a cold.
+
+941
+01:03:30,271 --> 01:03:34,412
+I'm gonna light a match,
+if you don't mind.
+
+942
+01:03:34,474 --> 01:03:36,647
+(SCREAMING)
+
+943
+01:03:39,746 --> 01:03:41,918
+Long John, look.
+
+944
+01:03:42,848 --> 01:03:49,958
+Flint hung 'em up there after he gullied
+'em to mark the trail to the treasure.
+
+945
+01:03:50,021 --> 01:03:52,194
+Wicked sense of humor Flinty had.
+
+946
+01:03:52,256 --> 01:03:55,498
+This is a cursed place.
+PIRATE: Yeah.
+
+947
+01:03:55,559 --> 01:03:58,665
+There's an informed opinion.
+
+948
+01:03:59,396 --> 01:04:02,137
+Jim, lad, where to from here?
+
+949
+01:04:02,198 --> 01:04:04,804
+"On a heading of 179 degrees,
+
+950
+01:04:04,867 --> 01:04:09,815
+walk 312 paces
+from where the dead men hang high."
+
+951
+01:04:10,438 --> 01:04:13,351
+That way!
+You're gonna go?
+
+952
+01:04:15,409 --> 01:04:18,982
+Howdy, <i>vous</i> stinky froggy man
+and friends.
+
+953
+01:04:19,046 --> 01:04:21,652
+I am Spa'am,
+
+954
+01:04:21,715 --> 01:04:24,126
+high priest of the boars.
+
+955
+01:04:24,183 --> 01:04:29,189
+You <i>mucho</i> wickedness
+go trespass on island?
+
+956
+01:04:30,255 --> 01:04:35,637
+Now you suffer the wrath of our queen,
+Boom Sha-Kal-a-Kal.
+
+957
+01:04:36,061 --> 01:04:40,531
+Terrific. Captured by wild pigs
+and sacrificed hideously.
+
+958
+01:04:40,598 --> 01:04:44,511
+Are we lucky or what?
+Silence, smelly sailor mans.
+
+959
+01:04:44,567 --> 01:04:46,672
+You have violated sacred island.
+
+960
+01:04:46,736 --> 01:04:49,444
+Excuse me.
+I am Captain Smollett.
+
+961
+01:04:49,506 --> 01:04:54,215
+We mean no harm and embrace
+all creatures of different nationalities.
+
+962
+01:04:54,276 --> 01:04:56,347
+Silence!
+(THEY GASP)
+
+963
+01:04:56,412 --> 01:05:02,054
+Bring forth Boom Sha-Kal-a-Kal.
+That can't be good.
+
+964
+01:05:04,018 --> 01:05:06,861
+Boom Sha-Kal-a-Kal,
+Boom Sha-Kal-a-Kal,
+
+965
+01:05:07,087 --> 01:05:09,658
+Boom Sha-Kal-a-Kal,
+Boom Sha-Kal-a-Kal,
+
+966
+01:05:09,890 --> 01:05:12,563
+Boom Sha-Kal-a-Kal,
+Boom Sha-Kal-a-Kal,
+
+967
+01:05:12,625 --> 01:05:16,698
+Boom Sha-Kal-a-Kal,
+Boom Sha-Kal-a-Kal, Boom Sha-Kal-a-Kal,
+
+968
+01:05:16,762 --> 01:05:19,503
+Boom Sha-Kal-a-Kal,
+Boom Sha-Kal-a-Kal-a-Kal,
+
+969
+01:05:19,564 --> 01:05:21,043
+Boom Sha-Kal-a-Kal-a-Kal,
+
+970
+01:05:21,099 --> 01:05:23,443
+Boom Sha-Kal-a-Kal-a-Kal,
+Boom Sha-Kal-a-Kal-a-Kal,
+
+971
+01:05:23,668 --> 01:05:26,341
+Boom Sha-Kal-a-Kal-a-Kal,
+Boom Sha-Kal-a-Kal-a-Kal,
+
+972
+01:05:26,570 --> 01:05:29,312
+Boom Sha-Kal-a-Kal-a-Kal,
+Boom Sha-Kal-a-Kal-a-Kal...
+
+973
+01:05:29,373 --> 01:05:34,685
+These tropical floor shows are so exotic.
+And the food is to die for.
+
+974
+01:05:34,744 --> 01:05:37,657
+Boom Sha-Kal-a-Kal-a-Kal,
+Boom Sha-Kal-a-Kal-a-Kal,
+
+975
+01:05:37,714 --> 01:05:41,820
+Boom Sha-Kal-a-Kal-a-Kal.
+(ELEPHANT TRUMPETS)
+
+976
+01:05:41,883 --> 01:05:44,056
+(CHANTING CONTINUES)
+
+977
+01:06:20,250 --> 01:06:23,129
+Sha-Kal-a-Kal-a-Kal.
+
+978
+01:06:29,725 --> 01:06:32,466
+<i>Bonsoir, mes amis. (LAUGHS)</i>
+
+979
+01:06:34,295 --> 01:06:36,297
+Come, Flaubert.
+
+980
+01:06:36,364 --> 01:06:37,433
+Argh!
+
+981
+01:06:37,498 --> 01:06:40,377
+(FALLS DOWN STEPS)
+
+982
+01:06:40,434 --> 01:06:42,414
+(SCREAMS)
+
+983
+01:06:42,469 --> 01:06:44,278
+Oh! Oh!
+
+984
+01:06:44,338 --> 01:06:46,408
+Oh! Oh! Oh!
+
+985
+01:06:46,472 --> 01:06:50,887
+Flaubert! Get away, you stupid anteater.
+You spoiled my entrance.
+
+986
+01:06:50,943 --> 01:06:54,947
+BOARS: Boom Sha-Kal-a-Kal...
+Knock it off!
+
+987
+01:06:57,315 --> 01:06:59,624
+Oh, greetings.
+
+988
+01:06:59,683 --> 01:07:02,129
+<i>Moi</i> am Benjamina Gunn,
+
+989
+01:07:02,186 --> 01:07:05,758
+maroonee, temptress
+and queen of this...
+
+990
+01:07:05,822 --> 01:07:06,926
+(GASPS)
+
+991
+01:07:12,228 --> 01:07:15,800
+Smolly, can it be you?
+
+992
+01:07:15,864 --> 01:07:17,434
+Benjamina.
+
+993
+01:07:17,499 --> 01:07:20,445
+Hii-yah!
+(SMOLLETT SCREAMS)
+
+994
+01:07:21,369 --> 01:07:24,111
+(CHEERING AND APPLAUSE)
+
+995
+01:07:29,042 --> 01:07:31,215
+Old girlfriend.
+
+996
+01:07:32,913 --> 01:07:35,655
+Tie 'em back on their stakes.
+
+997
+01:07:35,714 --> 01:07:39,286
+306, 307, 308, 309,
+
+998
+01:07:39,351 --> 01:07:41,490
+310, 311,
+
+999
+01:07:41,553 --> 01:07:43,191
+312.
+
+1000
+01:07:43,254 --> 01:07:45,825
+SILVER: This is it.
+
+1001
+01:07:45,890 --> 01:07:50,668
+What if Clueless is right?
+What if it is cursed?
+
+1002
+01:07:51,562 --> 01:07:54,202
+I'll show you what
+I think of your curse,
+
+1003
+01:07:54,264 --> 01:08:01,579
+you mewling little lily-livered,
+toffee-hearted little wuss of a crustacean.
+
+1004
+01:08:13,214 --> 01:08:16,320
+JIM: "Treasure buried here."
+
+1005
+01:08:19,219 --> 01:08:21,995
+We don't even have to dig it up.
+
+1006
+01:08:22,055 --> 01:08:25,194
+Come on, the treasure's ours.
+
+1007
+01:08:38,235 --> 01:08:41,978
+There's no treasure.
+You brought us here for nothing.
+
+1008
+01:08:42,038 --> 01:08:45,348
+Now we'll be tried for mutiny.
+ALL: Yeah!
+
+1009
+01:08:45,407 --> 01:08:50,186
+I say we should kill him!
+
+1010
+01:08:52,614 --> 01:08:56,790
+Run! Save yourself.
+Why are you doing this for me?
+
+1011
+01:08:56,851 --> 01:09:01,265
+Because I like you. I hope you didn't think
+I was lying about that.
+
+1012
+01:09:01,321 --> 01:09:03,096
+Run!
+
+1013
+01:09:06,293 --> 01:09:10,763
+Take greeny, flippy,
+bulgy-eyed one away.
+
+1014
+01:09:10,830 --> 01:09:14,800
+SMOLLETT: What?
+Others stay. Chop-chop.
+
+1015
+01:09:15,867 --> 01:09:17,505
+Where are you taking him?
+
+1016
+01:09:17,569 --> 01:09:19,947
+(SINGS IN MOCK SWEDISH)
+
+1017
+01:09:25,109 --> 01:09:29,318
+First, take the mousie,
+then skewer the mousie.
+
+1018
+01:09:29,379 --> 01:09:31,916
+(LAUGHS)
+
+1019
+01:09:32,415 --> 01:09:35,418
+How else could we get him
+in this movie?
+
+1020
+01:09:35,484 --> 01:09:37,054
+Yeah.
+Yeah.
+
+1021
+01:09:37,119 --> 01:09:39,224
+(SPEAKS IN MOCK SWEDISH)
+
+1022
+01:09:39,288 --> 01:09:44,896
+I wish we were back eating table scraps.
+We're about to become table scraps.
+
+1023
+01:09:44,959 --> 01:09:48,736
+This is the worst thing
+that's ever happened to me...
+
+1024
+01:09:48,796 --> 01:09:51,275
+Wait, I've been cut loose.
+
+1025
+01:09:51,331 --> 01:09:53,038
+Hiya.
+(BOTH SCREAM)
+
+1026
+01:09:53,099 --> 01:09:56,238
+They've got Captain Smollett.
+We've gotta get help.
+
+1027
+01:09:56,302 --> 01:09:58,248
+Where will we go?
+
+1028
+01:09:58,304 --> 01:10:00,477
+(SOBBING)
+
+1029
+01:10:03,641 --> 01:10:06,212
+Tom, Tom, Tom.
+
+1030
+01:10:06,277 --> 01:10:07,950
+Oh.
+
+1031
+01:10:08,846 --> 01:10:11,018
+Dead Tom's dead.
+
+1032
+01:10:13,317 --> 01:10:16,321
+Long John shot him.
+(SOBS)
+
+1033
+01:10:16,386 --> 01:10:21,858
+But Dead Tom's always been dead.
+That's why he's called Dead Tom.
+
+1034
+01:10:21,924 --> 01:10:22,994
+Oh.
+
+1035
+01:10:23,059 --> 01:10:26,130
+Can we get on with this?
+Get out of here.
+
+1036
+01:10:26,194 --> 01:10:27,798
+Clueless!
+Yes?
+
+1037
+01:10:27,862 --> 01:10:30,342
+Give it to him!
+PIRATE: Yeah!
+
+1038
+01:10:30,398 --> 01:10:33,503
+But it's not even his birthday.
+
+1039
+01:10:33,567 --> 01:10:37,982
+No, no, no, no. The paper.
+Oh. (CHUCKLES)
+
+1040
+01:10:39,372 --> 01:10:41,147
+This is for you.
+
+1041
+01:10:44,811 --> 01:10:46,983
+The black spot.
+Yeah.
+
+1042
+01:10:47,446 --> 01:10:50,984
+You dare to give me the black spot?
+
+1043
+01:10:51,049 --> 01:10:53,892
+He told me to.
+Shut up.
+
+1044
+01:10:53,951 --> 01:10:57,398
+And it's drawn on a page from the Bible.
+
+1045
+01:10:57,455 --> 01:11:03,405
+You tore a page from the Holy Scriptures
+to make a pirate's death sentence.
+
+1046
+01:11:03,460 --> 01:11:05,940
+Here...
+Oh!
+
+1047
+01:11:05,996 --> 01:11:11,377
+The red hot gates of hell
+are creeping open.
+
+1048
+01:11:11,433 --> 01:11:15,903
+Satan is heatin' his pokers for you,
+
+1049
+01:11:15,970 --> 01:11:19,213
+you blasphemous heathens.
+
+1050
+01:11:19,273 --> 01:11:22,515
+Fall down on your knees
+
+1051
+01:11:22,576 --> 01:11:27,218
+and beg for deliverance
+from damnation.
+
+1052
+01:11:28,115 --> 01:11:30,754
+Please forgive us!
+Forgive me.
+
+1053
+01:11:32,351 --> 01:11:34,388
+Very good.
+
+1054
+01:11:34,453 --> 01:11:36,989
+You're forgiven.
+ALL: Thank you.
+
+1055
+01:11:37,055 --> 01:11:39,399
+Now, untie me.
+
+1056
+01:11:40,291 --> 01:11:44,033
+Let's go find the treasure!
+ALL: Yeah!
+
+1057
+01:11:44,094 --> 01:11:49,203
+You are a good man.
+You are a kind man. A handsome man.
+
+1058
+01:11:49,266 --> 01:11:52,041
+Precious.
+You're precious and...
+
+1059
+01:11:52,101 --> 01:11:54,775
+Beautiful.
+And he's beautiful.
+
+1060
+01:11:59,741 --> 01:12:02,051
+GONZO: Here's the boat.
+
+1061
+01:12:02,944 --> 01:12:04,820
+Oh, no.
+
+1062
+01:12:04,879 --> 01:12:08,258
+That won't help.
+We'll have to swim to the ship.
+
+1063
+01:12:08,315 --> 01:12:10,852
+Hello? Earth to Jimbo.
+
+1064
+01:12:10,918 --> 01:12:16,924
+Swimming to a ship full of killer pirates
+to save the captain is not a good plan.
+
+1065
+01:12:16,990 --> 01:12:18,696
+Look.
+
+1066
+01:12:18,757 --> 01:12:22,227
+MAN: The gunwale and keel are safe.
+
+1067
+01:12:23,128 --> 01:12:26,267
+Mr. Arrow! lt's Jim!
+RIZZO: Over here!
+
+1068
+01:12:26,330 --> 01:12:29,470
+Mr. Arrow, over here!
+Oh, boys.
+
+1069
+01:12:29,534 --> 01:12:35,074
+Come join me aboard this
+exceptionally safe little boat.
+
+1070
+01:12:36,139 --> 01:12:40,018
+That Silver fellow
+may not be trustworthy.
+
+1071
+01:12:40,076 --> 01:12:42,454
+Now he tells us.
+Yeah.
+
+1072
+01:12:44,246 --> 01:12:47,522
+Here's a photo opportunity.
+
+1073
+01:12:47,582 --> 01:12:52,497
+The jungle location for
+the movie <i>Muppet Treasure Island.</i>
+
+1074
+01:12:52,554 --> 01:12:55,762
+Keep up.
+My feet are killing me.
+
+1075
+01:12:55,823 --> 01:12:59,074
+Of all the backwater,
+no-class piles of sand
+
+1076
+01:12:59,089 --> 01:13:02,137
+in the ocean, you had
+to wash up on mine.
+
+1077
+01:13:02,195 --> 01:13:04,698
+I want you to know that I'm sorry.
+
+1078
+01:13:04,764 --> 01:13:07,802
+Sorry? No.
+Sorry doesn't cut it.
+
+1079
+01:13:07,866 --> 01:13:11,075
+You left me standing at the altar!
+
+1080
+01:13:11,136 --> 01:13:15,015
+I was on a ship headed for Zanzibar.
+I got cold feet.
+
+1081
+01:13:15,439 --> 01:13:18,716
+You're a frog.
+You're supposed to have cold feet.
+
+1082
+01:13:18,776 --> 01:13:23,884
+My mother came from France.
+I was wearing her white lace dress.
+
+1083
+01:13:23,947 --> 01:13:27,292
+The cake was filled with lemon custard!
+
+1084
+01:13:29,284 --> 01:13:33,027
+Fate has brought us together again.
+(WHIMPERS)
+
+1085
+01:13:33,088 --> 01:13:37,058
+Actually, treasure and pirates...
+Don't start about pirates.
+
+1086
+01:13:37,125 --> 01:13:40,163
+After you jilted me,
+I took up with Bernie Flint.
+
+1087
+01:13:40,228 --> 01:13:43,606
+He was totally codependent.
+You and Captain Flint?
+
+1088
+01:13:43,663 --> 01:13:48,476
+Well, he was a pirate, I was a lady.
+You know the story.
+
+1089
+01:13:48,535 --> 01:13:51,208
+Smolly, he marooned me.
+
+1090
+01:13:51,270 --> 01:13:53,147
+Me-e-e-e-e!
+
+1091
+01:13:53,205 --> 01:13:56,948
+(SOBS)
+Oh, oh, oh.
+
+1092
+01:13:57,009 --> 01:14:00,319
+This is all my fault.
+What have I done to you?
+
+1093
+01:14:00,378 --> 01:14:02,187
+Mushy, mushy.
+
+1094
+01:14:02,247 --> 01:14:04,692
+Lovey-dovey!
+
+1095
+01:14:04,748 --> 01:14:06,921
+(PIRATES SNICKER)
+
+1096
+01:14:10,787 --> 01:14:12,959
+Bravo, Captain.
+
+1097
+01:14:17,894 --> 01:14:21,204
+Touching reunion, Benjamina.
+
+1098
+01:14:21,263 --> 01:14:25,075
+This seems to be your day
+for renewing old...
+
+1099
+01:14:25,966 --> 01:14:27,741
+acquaintances.
+
+1100
+01:14:27,801 --> 01:14:32,011
+Oh, hello, Long John.
+
+1101
+01:14:32,072 --> 01:14:33,982
+Oh, no. Him too?
+
+1102
+01:14:34,040 --> 01:14:36,543
+If you'd married me.
+What?
+
+1103
+01:14:36,609 --> 01:14:40,385
+I'm a pig. I need commitment.
+You knew that about me...
+
+1104
+01:14:40,445 --> 01:14:45,121
+I'm not gonna be patient
+about this, Benjamina.
+
+1105
+01:14:45,184 --> 01:14:47,789
+Where is the treasure?
+
+1106
+01:14:51,222 --> 01:14:54,566
+Um, I just may not tell you. Hm.
+
+1107
+01:14:55,992 --> 01:14:59,235
+Don't play games with me, lass.
+
+1108
+01:15:00,130 --> 01:15:02,700
+I'm not a patient man.
+
+1109
+01:15:03,566 --> 01:15:04,738
+Stop!
+
+1110
+01:15:04,800 --> 01:15:10,909
+Give up now, weak and tiny pirate mans,
+or die like stinking dogs.
+
+1111
+01:15:10,972 --> 01:15:13,680
+(BOARS SHOUT AND GRUNT)
+
+1112
+01:15:15,443 --> 01:15:16,819
+Hm.
+
+1113
+01:15:16,877 --> 01:15:19,881
+We see you have boom-boom sticks.
+
+1114
+01:15:21,915 --> 01:15:24,087
+Bye-bye.
+
+1115
+01:15:27,620 --> 01:15:29,860
+BENJAMINA: Oh, brother.
+
+1116
+01:15:29,921 --> 01:15:32,299
+Now, Benjamina.
+What?
+
+1117
+01:15:32,357 --> 01:15:35,065
+Where's the treasure?
+
+1118
+01:15:35,126 --> 01:15:39,232
+There is no treasure.
+It was all a clever ruse. Ha!
+
+1119
+01:15:39,296 --> 01:15:42,766
+So, where did you get
+that gold necklace?
+
+1120
+01:15:42,833 --> 01:15:45,938
+The one made of Spanish doubloons.
+
+1121
+01:15:47,737 --> 01:15:49,410
+Um...
+
+1122
+01:15:50,306 --> 01:15:52,683
+Shopping channel?
+
+1123
+01:16:01,082 --> 01:16:02,083
+No!
+
+1124
+01:16:09,422 --> 01:16:10,799
+Shh.
+
+1125
+01:16:11,024 --> 01:16:12,866
+Shh.
+
+1126
+01:16:15,728 --> 01:16:17,503
+Oh, fiddle.
+
+1127
+01:16:17,563 --> 01:16:21,237
+Make yourself useful.
+Try and save us. Do something!
+
+1128
+01:16:21,299 --> 01:16:22,710
+Shh!
+
+1129
+01:16:22,767 --> 01:16:25,611
+Master Hawkins,
+you've come to rescue us.
+
+1130
+01:16:25,670 --> 01:16:29,242
+I should've let him live in my finger.
+
+1131
+01:16:36,279 --> 01:16:37,986
+We're ready.
+
+1132
+01:16:38,047 --> 01:16:40,459
+Do you think this will work?
+Yes.
+
+1133
+01:16:40,516 --> 01:16:44,258
+Pirates are very superstitious.
+
+1134
+01:16:47,856 --> 01:16:51,530
+Bogy, bogy, bogy.
+
+1135
+01:16:51,592 --> 01:16:56,040
+I am the ghost of Samuel Arrow.
+
+1136
+01:16:57,096 --> 01:16:58,700
+Bogy!
+
+1137
+01:17:06,204 --> 01:17:09,242
+JIM: We've got to save the captain.
+
+1138
+01:17:09,307 --> 01:17:15,121
+GONZO: That was fantastic, Mr. Arrow.
+What do we do now? Jim?
+
+1139
+01:17:16,213 --> 01:17:18,920
+Weigh anchor?
+Weigh anchor!
+
+1140
+01:17:18,982 --> 01:17:22,429
+Set the sails.
+Set the sails!
+
+1141
+01:17:22,485 --> 01:17:26,261
+And you, Squire Trelawney...
+Now, I...
+
+1142
+01:17:26,322 --> 01:17:29,496
+You take the helm.
+
+1143
+01:17:29,558 --> 01:17:31,036
+Ah!
+
+1144
+01:17:31,092 --> 01:17:34,403
+Step aside, Mr. Bimbo.
+I shall take the helm.
+
+1145
+01:17:34,829 --> 01:17:36,831
+Hurry, Rizzo!
+
+1146
+01:17:37,798 --> 01:17:39,903
+I'm going as fast as I can.
+
+1147
+01:17:40,734 --> 01:17:42,907
+Smolly, my love!
+
+1148
+01:17:42,969 --> 01:17:44,676
+Oh! Oh!
+
+1149
+01:17:46,605 --> 01:17:49,051
+Smolly!
+(SNIFFS)
+
+1150
+01:17:49,475 --> 01:17:51,886
+You can't hurt my frog!
+
+1151
+01:17:51,943 --> 01:17:57,723
+Don't tell him anything. He'll only
+kill you too. Don't listen to him!
+
+1152
+01:17:57,782 --> 01:17:59,419
+Now.
+
+1153
+01:17:59,483 --> 01:18:01,485
+For the last time.
+
+1154
+01:18:01,552 --> 01:18:05,864
+Where's the bloody treasure?
+ALL: Yeah!
+
+1155
+01:18:07,757 --> 01:18:10,761
+Stop!
+Stop, stop, stop, stop!
+
+1156
+01:18:10,827 --> 01:18:14,899
+The treasure's at my place.
+North Trail, split-level hut.
+
+1157
+01:18:14,963 --> 01:18:17,876
+Free him at once,
+you scoundrel.
+
+1158
+01:18:19,634 --> 01:18:22,307
+(SPITS)
+(PIRATES LAUGH)
+
+1159
+01:18:26,240 --> 01:18:29,448
+I'm beginning to see a
+pattern in the men I date.
+
+1160
+01:18:29,509 --> 01:18:32,388
+Well, the past is behind us.
+
+1161
+01:18:32,912 --> 01:18:36,051
+And the future... below us.
+
+1162
+01:18:36,115 --> 01:18:38,186
+(WHIMPERS AND SNIFFS)
+
+1163
+01:18:38,250 --> 01:18:40,924
+lt's OK.
+We're together again.
+
+1164
+01:18:41,353 --> 01:18:46,961
+Yes. Despite it all,
+we have each other.
+
+1165
+01:18:48,593 --> 01:18:52,005
+Don't cry for me, Benjamina.
+Pardon?
+
+1166
+01:18:52,062 --> 01:18:54,064
+♪ Was I dumb ♪
+
+1167
+01:18:54,131 --> 01:18:56,974
+♪ Or was I blind? ♪
+
+1168
+01:18:57,032 --> 01:19:01,174
+♪ Or did my heartjust lose its mind? ♪
+
+1169
+01:19:01,237 --> 01:19:02,874
+♪ Why'd I go ♪
+
+1170
+01:19:02,937 --> 01:19:09,047
+♪ And throw our perfect dream away? ♪
+
+1171
+01:19:10,310 --> 01:19:12,347
+♪ Looking back ♪
+
+1172
+01:19:12,413 --> 01:19:15,394
+♪ I'll never know ♪
+
+1173
+01:19:15,449 --> 01:19:19,191
+♪ How I ever let you go ♪
+
+1174
+01:19:19,252 --> 01:19:23,758
+♪ But destiny could see we deserved ♪
+
+1175
+01:19:23,823 --> 01:19:28,066
+♪ To have another day ♪
+
+1176
+01:19:29,127 --> 01:19:32,437
+♪ Love led us here ♪
+
+1177
+01:19:33,864 --> 01:19:37,573
+♪ Right back to where we belong ♪
+
+1178
+01:19:37,635 --> 01:19:41,776
+♪ We followed a star and here we are ♪
+
+1179
+01:19:41,838 --> 01:19:46,513
+♪ Now heaven seems so near ♪
+
+1180
+01:19:47,409 --> 01:19:52,119
+♪ Love led us here ♪
+
+1181
+01:19:52,548 --> 01:19:58,122
+♪ Now, I know that ♪
+♪ life can take you by surprise ♪
+
+1182
+01:19:58,186 --> 01:20:02,031
+♪ And sweep you off your feet ♪
+
+1183
+01:20:03,089 --> 01:20:06,070
+♪ Did this happen to us ♪
+
+1184
+01:20:06,126 --> 01:20:11,768
+♪ Or are we just dreaming? ♪
+
+1185
+01:20:12,832 --> 01:20:15,641
+♪ Love led us here ♪
+
+1186
+01:20:17,101 --> 01:20:21,048
+♪ Right back to where we belong ♪
+
+1187
+01:20:21,104 --> 01:20:25,280
+♪ We followed a star and here we are ♪
+
+1188
+01:20:25,342 --> 01:20:30,757
+♪ Now heaven seems so near ♪
+
+1189
+01:20:30,813 --> 01:20:34,818
+♪ Love led us here ♪
+
+1190
+01:20:35,817 --> 01:20:38,991
+♪ So take my hand ♪
+
+1191
+01:20:40,422 --> 01:20:44,870
+♪ And have no fear ♪
+
+1192
+01:20:44,925 --> 01:20:49,271
+♪ We'll be all right ♪
+
+1193
+01:20:49,330 --> 01:20:52,867
+♪ Love led us ♪
+
+1194
+01:20:52,932 --> 01:20:57,607
+♪ Here ♪
+
+1195
+01:20:57,669 --> 01:20:59,842
+(SNAP)
+(THEY SCREAM)
+
+1196
+01:21:04,775 --> 01:21:06,686
+Oh, Smolly!
+
+1197
+01:21:06,744 --> 01:21:09,020
+You saved me!
+
+1198
+01:21:15,485 --> 01:21:18,693
+Come on, men!
+lt's back to Blighty now.
+
+1199
+01:21:19,121 --> 01:21:21,533
+POLLY: The treasure is ours!
+
+1200
+01:21:29,030 --> 01:21:33,034
+Long John, Long John.
+Look the ship.
+
+1201
+01:21:33,100 --> 01:21:35,956
+PIRATE: What are they doing?
+
+1202
+01:21:35,971 --> 01:21:39,675
+PIRATE 2: There's
+no one on board.
+
+1203
+01:21:41,707 --> 01:21:46,246
+It's coming for us.
+lt's the ghost of Captain Flinty.
+
+1204
+01:21:46,311 --> 01:21:49,053
+He's coming to kill us.
+
+1205
+01:21:49,114 --> 01:21:51,287
+(ALL SCREAM)
+
+1206
+01:21:54,952 --> 01:21:57,489
+Come back, you cowards!
+
+1207
+01:22:03,326 --> 01:22:05,203
+Hawkins.
+
+1208
+01:22:08,564 --> 01:22:11,704
+Look -
+it's the captain and the pig.
+
+1209
+01:22:11,767 --> 01:22:13,542
+Oh, no!
+
+1210
+01:22:16,904 --> 01:22:20,351
+Head for those cliffs.
+Head for the cliffs!
+
+1211
+01:22:20,408 --> 01:22:22,182
+Aye aye!
+
+1212
+01:22:22,242 --> 01:22:27,419
+Beakie, look! I think we're going
+to need a net. Come along!
+
+1213
+01:22:30,749 --> 01:22:34,856
+Get back,
+you yellow-bellied bilge rats!
+
+1214
+01:22:34,920 --> 01:22:39,129
+I'm not losing that treasure now.
+Get out!
+
+1215
+01:22:39,190 --> 01:22:41,796
+We're lowering the net now.
+
+1216
+01:22:42,594 --> 01:22:45,369
+Let's go. That's it.
+Beautiful.
+
+1217
+01:22:45,429 --> 01:22:51,106
+We're coming, Captain Smollett.
+(BENJAMINA WHIMPERS)
+
+1218
+01:22:51,167 --> 01:22:52,942
+Steady!
+Careful!
+
+1219
+01:22:55,938 --> 01:22:58,941
+<i>Au revoir, mon capitaine.</i>
+
+1220
+01:22:59,774 --> 01:23:03,153
+We've got 'em!
+Whoo-hoo-hoo! Yes!
+
+1221
+01:23:03,211 --> 01:23:05,383
+(SCREAMING)
+
+1222
+01:23:06,280 --> 01:23:08,590
+Oh!
+Oh, no!
+
+1223
+01:23:10,184 --> 01:23:13,756
+Waldorf, you old fool,
+we're heroes!
+
+1224
+01:23:13,820 --> 01:23:16,801
+We saved the pig and the frog!
+
+1225
+01:23:16,856 --> 01:23:19,802
+It was too late to save the movie.
+
+1226
+01:23:19,858 --> 01:23:21,599
+(THEY LAUGH)
+
+1227
+01:23:21,660 --> 01:23:26,836
+Welcome aboard, Captain.
+And welcome to your lady pig friend.
+
+1228
+01:23:26,897 --> 01:23:28,968
+Look out! Argh!
+
+1229
+01:23:43,278 --> 01:23:45,918
+The captain must have his sword.
+
+1230
+01:23:45,981 --> 01:23:47,516
+RIZZO: Whoa!
+
+1231
+01:23:47,582 --> 01:23:49,493
+GONZO: Wow!
+
+1232
+01:23:49,550 --> 01:23:52,394
+(JIM YELLS)
+
+1233
+01:23:52,887 --> 01:23:55,366
+Captain!
+
+1234
+01:23:55,422 --> 01:23:57,698
+Fight, you idiots!
+
+1235
+01:24:03,496 --> 01:24:05,407
+Captain!
+
+1236
+01:24:06,165 --> 01:24:07,735
+Here!
+Ha!
+
+1237
+01:24:07,800 --> 01:24:10,109
+Hii-yah!
+
+1238
+01:24:10,168 --> 01:24:13,411
+All right.
+No more Ms. Nice Guy.
+
+1239
+01:24:14,039 --> 01:24:18,714
+No one maroons me and gets away with it.
+Hii-hii-hii-hii-yah!
+
+1240
+01:24:25,314 --> 01:24:28,784
+It's good to see you alive.
+Thank you.
+
+1241
+01:24:28,851 --> 01:24:31,660
+Geronimo!
+
+1242
+01:24:31,720 --> 01:24:33,631
+What am I gonna do?
+
+1243
+01:24:33,689 --> 01:24:36,794
+Come on!
+Come on, you!
+
+1244
+01:24:36,857 --> 01:24:38,734
+Sorry.
+
+1245
+01:24:38,793 --> 01:24:42,172
+En garde!
+<i>Mi casa es su casa.</i>
+
+1246
+01:24:42,229 --> 01:24:44,538
+I'll make cheese out of you.
+
+1247
+01:24:44,597 --> 01:24:46,702
+(MARTIAL ARTS CRY)
+
+1248
+01:24:48,768 --> 01:24:50,872
+<i>Cucaracha!</i>
+
+1249
+01:24:51,770 --> 01:24:53,181
+Ha!
+
+1250
+01:24:54,606 --> 01:24:57,644
+Come on, Jerry.
+He's just a kid.
+
+1251
+01:25:06,383 --> 01:25:09,660
+OK. OK, OK. OK, I give.
+Uncle. Uh...
+
+1252
+01:25:09,720 --> 01:25:11,961
+I'm dead.
+
+1253
+01:25:13,589 --> 01:25:15,227
+(GROWLING)
+
+1254
+01:25:15,291 --> 01:25:17,601
+Mr. Bimbo, help!
+
+1255
+01:25:18,494 --> 01:25:20,666
+(GRUNTING)
+
+1256
+01:25:23,364 --> 01:25:24,741
+(BEAKER MEEPS)
+
+1257
+01:25:25,266 --> 01:25:27,905
+(CANNON)
+TRELAWNEY: Am I dead?
+
+1258
+01:25:31,371 --> 01:25:33,317
+LIVESEY: Wonderful!
+
+1259
+01:25:34,207 --> 01:25:38,553
+Mr. Bimbo,
+that was some amazing swordplay!
+
+1260
+01:25:42,481 --> 01:25:44,791
+Watch out, Mr. Arrow.
+
+1261
+01:25:49,086 --> 01:25:52,192
+Aren't you supposed to be
+fighting against us?
+
+1262
+01:25:52,256 --> 01:25:54,758
+Are you kiddin'?
+I love you guys.
+
+1263
+01:25:54,824 --> 01:25:57,430
+BOTH: Hm.
+(LAUGHS)
+
+1264
+01:25:58,361 --> 01:26:00,602
+Cowabunga!
+
+1265
+01:26:00,663 --> 01:26:02,266
+Ow!
+
+1266
+01:26:02,331 --> 01:26:04,072
+Come on! Fight!
+
+1267
+01:26:04,133 --> 01:26:06,135
+Where are you?
+
+1268
+01:26:06,201 --> 01:26:07,009
+Hm.
+
+1269
+01:26:12,940 --> 01:26:15,352
+And as for you...
+
+1270
+01:26:15,877 --> 01:26:18,152
+Oh. (WHIMPERS)
+
+1271
+01:26:18,211 --> 01:26:20,418
+Silver!
+
+1272
+01:26:20,480 --> 01:26:22,016
+Mm-hm.
+
+1273
+01:26:22,516 --> 01:26:24,358
+Ha!
+
+1274
+01:26:28,621 --> 01:26:31,829
+Ha! Ha!
+
+1275
+01:26:31,890 --> 01:26:34,894
+Pick on somebody your own size.
+
+1276
+01:26:38,195 --> 01:26:40,698
+Ha!
+
+1277
+01:26:45,768 --> 01:26:47,770
+Ha-ha-ha-ha!
+Yeah!
+
+1278
+01:26:48,704 --> 01:26:51,116
+Yes! Smolly! Yes!
+
+1279
+01:26:55,443 --> 01:26:59,083
+BENJAMINA: Yes!
+Ha-ha, Silver! (HUMS)
+
+1280
+01:27:00,047 --> 01:27:03,028
+Ha-ha! Ho-ho!
+Not bad for an amphibian.
+
+1281
+01:27:03,083 --> 01:27:06,620
+♪ Smolly, Smolly, he's our man! ♪
+♪ If he can't do it, no one can! ♪
+
+1282
+01:27:06,686 --> 01:27:08,859
+(THEY CHEER)
+
+1283
+01:27:11,324 --> 01:27:13,462
+Excuse me.
+Pardon?
+
+1284
+01:27:13,525 --> 01:27:15,971
+Ooh!
+(GASPS)
+
+1285
+01:27:16,395 --> 01:27:18,466
+Oh!
+
+1286
+01:27:19,331 --> 01:27:21,503
+(CLEARS THROAT)
+
+1287
+01:27:24,435 --> 01:27:27,381
+I'm a frog,
+you know, slippery hands?
+
+1288
+01:27:32,609 --> 01:27:35,987
+I never believed
+that violence solved anything.
+
+1289
+01:27:36,045 --> 01:27:40,755
+Really?
+Allow me to disagree, Captain.
+
+1290
+01:27:40,816 --> 01:27:45,662
+Kill him and you'll have to kill me.
+Kill Jim and you'll have to kill me.
+
+1291
+01:27:45,720 --> 01:27:47,825
+Kill Gonzo and you'll have to kill me.
+
+1292
+01:27:47,889 --> 01:27:53,463
+Kill Squire Trelawney and Mr. Bimbo and
+you'll have to... negotiate strenuously.
+
+1293
+01:27:53,527 --> 01:27:58,032
+Going somewhere, John-John?
+(BOARS GRUNT)
+
+1294
+01:28:00,099 --> 01:28:02,079
+Well, Mr. Hawkins.
+
+1295
+01:28:02,134 --> 01:28:07,105
+It seems your little family
+has come together against me.
+
+1296
+01:28:13,911 --> 01:28:16,084
+(RIZZO LAUGHS)
+
+1297
+01:28:16,946 --> 01:28:19,119
+We're doomed.
+Yeah.
+
+1298
+01:28:19,182 --> 01:28:23,255
+Well, I, for one,
+feel better about myself.
+
+1299
+01:28:23,319 --> 01:28:28,063
+Yeah, and I believe that
+I have learned a valuable lesson.
+
+1300
+01:28:28,957 --> 01:28:31,402
+Shut up!
+
+1301
+01:28:54,679 --> 01:28:56,852
+(THUD)
+
+1302
+01:29:07,456 --> 01:29:09,299
+Silver!
+
+1303
+01:29:14,529 --> 01:29:17,373
+I suppose you'll be blowing
+the whistle on me.
+
+1304
+01:29:17,432 --> 01:29:23,404
+Suppose I will. You have to
+return to Bristol to stand trial.
+
+1305
+01:29:24,405 --> 01:29:28,011
+I'm sorry.
+I got a terrible fear of hanging.
+
+1306
+01:29:34,080 --> 01:29:36,525
+We're shipmates, aren't we?
+
+1307
+01:29:37,416 --> 01:29:40,556
+Gentlemen of fortune together.
+
+1308
+01:29:42,987 --> 01:29:45,627
+Give us one more chance?
+
+1309
+01:29:54,798 --> 01:29:57,300
+Oh, hell, Jim.
+
+1310
+01:29:57,366 --> 01:29:59,642
+I could never harm you.
+
+1311
+01:29:59,702 --> 01:30:02,979
+You're honest and brave and true.
+
+1312
+01:30:04,372 --> 01:30:09,685
+You didn't learn that from me.
+I learnt it from my friends.
+
+1313
+01:30:09,744 --> 01:30:15,455
+Take your oars and row away.
+I never want to see you again, ever.
+
+1314
+01:30:21,520 --> 01:30:23,693
+Oh, Jim!
+
+1315
+01:30:29,627 --> 01:30:31,628
+'Tis a shame, really.
+
+1316
+01:30:31,695 --> 01:30:34,835
+We'd have made a great team, Jim.
+
+1317
+01:30:52,614 --> 01:30:56,425
+Well done.
+Your father would be proud.
+
+1318
+01:30:59,320 --> 01:31:02,596
+Captain, I have distressing news.
+
+1319
+01:31:02,655 --> 01:31:09,663
+One of the jolly boats is missing,
+and I know that it was terribly unsafe.
+
+1320
+01:31:30,613 --> 01:31:33,184
+(LAUGHTER)
+Argh!
+
+1321
+01:31:33,249 --> 01:31:34,660
+Argh!
+
+1322
+01:31:35,717 --> 01:31:36,889
+This is not fun.
+
+1323
+01:31:36,951 --> 01:31:39,022
+Flaubert, meet Da-da.
+
+1324
+01:31:39,087 --> 01:31:41,966
+Ready to sail, sir.
+
+1325
+01:31:42,023 --> 01:31:46,698
+Where to, Captain Hawkins?
+To wherever the wind may take us!
+
+1326
+01:31:46,760 --> 01:31:49,865
+Off to Zanzibar,
+to meet the Zanzibarbarians.
+
+1327
+01:31:49,929 --> 01:31:53,069
+Oh, brother.
+Here they go again.
+
+1328
+01:31:53,132 --> 01:31:54,770
+(LAUGHTER)
+
+1329
+01:31:54,834 --> 01:31:59,111
+(STEEL BAND PLAYS
+"SAILING FORADVENTURE")
+
+1330
+01:32:19,721 --> 01:32:24,192
+♪ ( "LOVE POWER" ♪
+♪ BY ZIGGY MARLEY AND THE MELODY MAKERS) ♪
+
+1331
+01:32:25,060 --> 01:32:27,232
+♪ Love power ♪
+
+1332
+01:32:32,133 --> 01:32:34,134
+♪ Love power ♪
+
+1333
+01:32:35,035 --> 01:32:37,072
+♪ Love power ♪
+
+1334
+01:32:37,971 --> 01:32:40,041
+♪ A little love power ♪
+
+1335
+01:32:40,940 --> 01:32:43,750
+♪ Stronger than the hurricane ♪
+
+1336
+01:32:43,809 --> 01:32:46,652
+♪ And softer than the summer rain ♪
+
+1337
+01:32:48,346 --> 01:32:51,259
+♪ Love power ♪
+♪ What kind ofpower? ♪
+
+1338
+01:32:51,316 --> 01:32:54,353
+♪ A little love power ♪
+♪ It can lift you up ♪
+
+1339
+01:32:54,418 --> 01:32:57,092
+♪ Lift you up when you get low ♪
+
+1340
+01:32:57,154 --> 01:33:00,135
+♪ And make yourlife ♪
+♪ bright as the rainbow ♪
+
+1341
+01:33:00,190 --> 01:33:02,465
+♪ Whoa ♪
+
+1342
+01:33:02,525 --> 01:33:05,597
+♪ There ain't no sun in the morning sky ♪
+
+1343
+01:33:05,661 --> 01:33:07,663
+♪ Whoa oh oh oh-oh ♪
+
+1344
+01:33:08,797 --> 01:33:12,301
+♪ Breeze ain't blowing ♪
+♪ and the bird don't fly ♪
+
+1345
+01:33:12,367 --> 01:33:14,369
+♪ Whoa oh oh oh-oh ♪
+
+1346
+01:33:15,703 --> 01:33:18,513
+♪ Then someone kind reaches out a hand ♪
+
+1347
+01:33:18,572 --> 01:33:22,519
+♪ And smiles a warm sweet smile ♪
+
+1348
+01:33:22,575 --> 01:33:25,681
+♪ And then your heart ♪
+♪ come to understand ♪
+
+1349
+01:33:25,745 --> 01:33:28,954
+♪ What make the world spin, ♪
+♪ where the magic begin ♪
+
+1350
+01:33:29,015 --> 01:33:33,326
+♪ Someone to believe in ♪
+♪ Feel so good when everybody feel ♪
+
+1351
+01:33:33,385 --> 01:33:36,263
+♪ Love power ♪
+♪ There's no higher power ♪
+
+1352
+01:33:36,320 --> 01:33:39,233
+♪ A little love power ♪
+♪ Nothing in the world ♪
+
+1353
+01:33:39,290 --> 01:33:42,134
+♪ Stronger than the hurricane ♪
+
+1354
+01:33:42,193 --> 01:33:44,604
+♪ And softer than the summer rain ♪
+
+1355
+01:33:46,696 --> 01:33:49,609
+♪ Love power ♪
+♪ Everybody feel it ♪
+
+1356
+01:33:49,666 --> 01:33:52,578
+♪ A little love power ♪
+
+1357
+01:33:52,635 --> 01:33:55,411
+♪ It lift you up when you get low ♪
+
+1358
+01:33:55,471 --> 01:33:58,314
+♪ And make yourlife ♪
+♪ bright as the rainbow ♪
+
+1359
+01:33:58,373 --> 01:34:00,546
+♪ Whoa ♪
+
+1360
+01:34:00,608 --> 01:34:04,078
+♪ So many people they feel so bad ♪
+
+1361
+01:34:04,145 --> 01:34:06,283
+♪ Whoa oh oh oh-oh ♪
+
+1362
+01:34:06,346 --> 01:34:10,658
+♪ Yeah, they make the money, ♪
+♪ but they still so sad ♪
+
+1363
+01:34:10,717 --> 01:34:12,718
+♪ Whoa oh oh oh-oh ♪
+
+1364
+01:34:13,819 --> 01:34:17,130
+♪ Nobody told them that ♪
+♪ it ain't that stuff ♪
+
+1365
+01:34:17,190 --> 01:34:20,398
+♪ That makes life worthwhile ♪
+
+1366
+01:34:20,458 --> 01:34:23,996
+♪ 'Cause even ifyou've got enough ♪
+
+1367
+01:34:24,062 --> 01:34:27,270
+♪ You got less than nothing ♪
+♪ till you know for certain ♪
+
+1368
+01:34:27,331 --> 01:34:31,643
+♪ Enough to put your faith in ♪
+♪ It feels so good when everyone feel ♪
+
+1369
+01:34:31,702 --> 01:34:34,614
+♪ Love power ♪
+♪ People, can you feel it? ♪
+
+1370
+01:34:34,671 --> 01:34:37,515
+♪ A little love power ♪
+
+1371
+01:34:37,574 --> 01:34:40,417
+♪ It lift you up when you get low ♪
+
+1372
+01:34:40,475 --> 01:34:43,513
+♪ And make yourlife ♪
+♪ bright as the rainbow ♪
+
+1373
+01:34:44,413 --> 01:34:46,415
+♪ Let me tell you now ♪
+
+1374
+01:34:46,481 --> 01:34:47,788
+♪ Whoa ♪
+
+1375
+01:34:47,848 --> 01:34:49,759
+♪ Feel the inspiration ♪
+
+1376
+01:34:49,817 --> 01:34:50,989
+♪ Hey ♪
+
+1377
+01:34:51,052 --> 01:34:52,497
+♪ Don't it feel like heaven? ♪
+
+1378
+01:34:52,553 --> 01:34:55,829
+♪ It make the soul ♪
+♪ and the spirit strong ♪
+
+1379
+01:34:55,889 --> 01:35:01,066
+♪ When everybody come and every ♪
+♪ single one, they hear the song, now ♪
+
+1380
+01:35:01,127 --> 01:35:03,572
+♪ Oh, love power ♪
+
+1381
+01:35:04,630 --> 01:35:07,543
+♪ A little love power ♪
+
+1382
+01:35:07,600 --> 01:35:10,478
+♪ Stronger than the hurricane ♪
+
+1383
+01:35:10,535 --> 01:35:14,073
+♪ And softer than the summer rain ♪
+♪ Can you feel it? ♪
+
+1384
+01:35:14,138 --> 01:35:15,014
+♪ Oh ♪
+
+1385
+01:35:15,073 --> 01:35:17,916
+♪ Love power ♪
+♪ What kind ofpower? ♪
+
+1386
+01:35:17,975 --> 01:35:21,013
+♪ A little love power ♪
+♪ It can lift you up ♪
+
+1387
+01:35:21,078 --> 01:35:23,785
+♪ It lift you up when you get low ♪
+
+1388
+01:35:23,846 --> 01:35:27,555
+♪ And make yourlife ♪
+♪ bright as the rainbow ♪
+
+1389
+01:35:27,617 --> 01:35:30,392
+♪ It lift you up when you get low ♪
+
+1390
+01:35:30,986 --> 01:35:34,195
+So, Johnny.
+May I call you Johnny?
+
+1391
+01:35:34,256 --> 01:35:40,365
+Stop me if you heard this one.
+Why does the ocean roar?
+
+1392
+01:35:40,427 --> 01:35:41,997
+Give up?
+
+1393
+01:35:42,062 --> 01:35:46,066
+You would too
+if you had crabs on your bottom
+
+1394
+01:35:46,132 --> 01:35:48,806
+and oysters in your bed.
+
+1395
+01:35:48,868 --> 01:35:50,006
+(LAUGHS)
+
+1396
+01:35:50,069 --> 01:35:52,139
+Get it? Oysters? Bed?
+
+1397
+01:35:52,204 --> 01:35:54,582
+Ooh, I love that one.
+
+1398
+01:35:54,640 --> 01:35:59,418
+I'm telling you,
+I got a million more just like that.
+
+1399
+01:36:00,478 --> 01:36:04,858
+♪ ( "LOVE LED US HERE" ♪
+♪ BY JOHN BERRY AND HELEN DARLING) ♪
+
+1400
+01:36:14,223 --> 01:36:16,260
+♪ Was I dumb ♪
+
+1401
+01:36:16,325 --> 01:36:19,067
+♪ Or was I blind? ♪
+
+1402
+01:36:19,128 --> 01:36:23,337
+♪ Or did my heartjust lose its mind? ♪
+
+1403
+01:36:23,398 --> 01:36:25,207
+♪ Why'd I go ♪
+
+1404
+01:36:25,266 --> 01:36:31,705
+♪ And throw our perfect dream away? ♪
+
+1405
+01:36:31,772 --> 01:36:34,547
+♪ Oh, looking back ♪
+
+1406
+01:36:34,607 --> 01:36:37,679
+♪ I'll never know ♪
+
+1407
+01:36:37,743 --> 01:36:41,417
+♪ How I ever let you go ♪
+
+1408
+01:36:41,479 --> 01:36:46,053
+♪ But destiny could see we deserved ♪
+
+1409
+01:36:46,117 --> 01:36:50,428
+♪ To have another day ♪
+
+1410
+01:36:51,488 --> 01:36:55,060
+♪ Love led us here ♪
+
+1411
+01:36:56,125 --> 01:36:59,800
+♪ Right back to where we belong ♪
+
+1412
+01:36:59,862 --> 01:37:04,105
+♪ We followed a star and here we are ♪
+
+1413
+01:37:04,166 --> 01:37:08,774
+♪ Now heaven seems so near ♪
+
+1414
+01:37:09,837 --> 01:37:13,410
+♪ Love led us here ♪
+
+1415
+01:37:14,475 --> 01:37:17,478
+♪ Love led us here ♪
+
+1416
+01:37:20,814 --> 01:37:22,725
+♪ I confess ♪
+
+1417
+01:37:22,782 --> 01:37:25,660
+♪ It's sad but true ♪
+♪ Sad but true ♪
+
+1418
+01:37:25,718 --> 01:37:29,928
+♪ I lost myself when I lost you ♪
+
+1419
+01:37:29,988 --> 01:37:33,093
+♪ But I held your memory ♪
+
+1420
+01:37:33,157 --> 01:37:38,469
+♪ Through each lonely night ♪
+
+1421
+01:37:38,528 --> 01:37:41,065
+♪ Oh, let's forget ♪
+
+1422
+01:37:41,131 --> 01:37:44,010
+♪ What's gone before ♪
+♪ What's gone ♪
+
+1423
+01:37:44,067 --> 01:37:47,946
+♪ Now we both know so much more ♪
+♪ So much more ♪
+
+1424
+01:37:48,003 --> 01:37:52,815
+♪ And we've been given another chance ♪
+
+1425
+01:37:52,874 --> 01:37:57,220
+♪ To make it work out right ♪
+♪ Make it work ♪
+
+1426
+01:37:58,113 --> 01:38:01,491
+♪ Love led us here ♪
+
+1427
+01:38:02,716 --> 01:38:06,390
+♪ Right back to where we belong ♪
+
+1428
+01:38:06,452 --> 01:38:10,662
+♪ We followed a star and here we are ♪
+
+1429
+01:38:10,723 --> 01:38:15,330
+♪ Now heaven seems so near ♪
+
+1430
+01:38:16,395 --> 01:38:20,104
+♪ Love led us here ♪
+
+1431
+01:38:20,998 --> 01:38:27,005
+♪ Now, I know that ♪
+♪ life can take you by surprise ♪
+
+1432
+01:38:27,071 --> 01:38:31,041
+♪ And sweep you offyour feet ♪
+
+1433
+01:38:31,941 --> 01:38:35,080
+♪ Did this happen to us ♪
+
+1434
+01:38:35,144 --> 01:38:38,717
+♪ Or are we just dreaming? ♪
+
+1435
+01:38:38,781 --> 01:38:44,787
+♪ Dreaming? ♪
+
+1436
+01:38:50,023 --> 01:38:54,267
+♪ We followed a star and here we are ♪
+
+1437
+01:38:54,327 --> 01:38:58,968
+♪ Now heaven seems so near ♪
+
+1438
+01:39:00,032 --> 01:39:04,036
+♪ Love led us here ♪
+
+1439
+01:39:05,069 --> 01:39:09,040
+♪ So take my hand ♪
+
+1440
+01:39:09,107 --> 01:39:13,521
+♪ And have no fear ♪
+
+1441
+01:39:14,411 --> 01:39:18,552
+♪ We'll be all right ♪
+
+1442
+01:39:18,614 --> 01:39:22,027
+♪ Love led us ♪
+
+1443
+01:39:22,084 --> 01:39:26,088
+♪ Here ♪
+

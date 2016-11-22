@@ -12,9 +12,9 @@ url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=n
 imdb_page_limit = 5
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
-# token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+# token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
+token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
 # token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
-token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
 # token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
 
@@ -117,6 +117,7 @@ class SubtitlesSpider(scrapy.Spider):
             else:
                 # subtitle = found_subtitles[0] # for now get the first subtitle
                 # WE DON'T WANT MOVIES WITHOUT IMPAIRED SUPPORT!
+                i += 1
                 continue
 
             filename = "%s/%s/%s %s.%s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label, subtitle['SubFormat'])
