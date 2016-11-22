@@ -19,11 +19,15 @@ def parse_subtitle(filename):
             start_end = sub[1].decode("UTF-8")
             content = sub[2]
 
+            if len(start_end.split(' --> ')) == 2:
+                start, end = start_end.split(' --> ') # e.g. 02:14:53,085
 
-            start, end = start_end.split(' --> ') # e.g. 02:14:53,085
-            at_minute = int(start[:2]) * 60 + int(start[3:5])
-            at_seconds = int(start[:2]) * 3600 + int(start[3:5]) * 60 + int(start[6:8])
-            subs.append(Subtitle(number, start, end, content, at_minute, at_seconds))
+                if len(start) >= 12 and len(end) >= 12:
+                    start = start[:12] #for truncating unnecessary fields, if any
+                    end = end[:12] #for truncating unnecessary fields, if any
+                    at_minute = int(start[:2]) * 60 + int(start[3:5])
+                    at_seconds = int(start[:2]) * 3600 + int(start[3:5]) * 60 + int(start[6:8])
+                    subs.append(Subtitle(number, start, end, content, at_minute, at_seconds))
 
     return subs
 
