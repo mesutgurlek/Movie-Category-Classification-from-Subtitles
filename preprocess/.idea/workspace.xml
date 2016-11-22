@@ -2,585 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="758a5338-7430-4041-ac61-94a2a1a9ef6d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Avatar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Die Hard (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/District 9 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Iron Man 2 " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Iron Man Three (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Kill Bill: Vol. 1 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Spider-Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Star Wars: Episode I - The Phantom Menace (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Terminator 2: Judgment Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Avengers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Dark Knight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Dark Knight Rises (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Matrix (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/The Terminator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/Thor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Action/V for Vendetta (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Avatar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Gravity (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Interstellar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Iron Man Three (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Jurassic Park (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Hobbit: An Unexpected Journey (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Lion King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Lord of the Rings: The Fellowship of the Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Lord of the Rings: The Return of the King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/The Lord of the Rings: The Two Towers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Toy Story 3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Adventure/WALL*E (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/21 Jump Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Amelie " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Forrest Gump (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Frozen (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/How to Train Your Dragon (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Juno " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Kick-Ass (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Kingsman: The Secret Service (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Life Is Beautiful " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Ratatouille (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Shrek (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Silver Linings Playbook (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Snatch " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Superbad (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Ted (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/The Big Lebowski (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/The Grand Budapest Hotel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/The Intouchables (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/The Truman Show (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/The Wolf of Wall Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Toy Story 3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Comedy/Vo stvorici po opici (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/&quot;Stranger Things&quot; Chapter Five: The Flea and the Acrobat (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/&quot;Supernatural&quot; Shadow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/&quot;The Vampire Diaries&quot; The Murder of One (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/&quot;The Walking Dead&quot; What Lies Ahead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/1408 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/28 Days Later... (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/28 Weeks Later " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Alien (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Alien3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Cloverfield (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Constantine (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/From Dusk Till Dawn (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Hellboy " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Hellboy II: The Golden Army (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/I Am Legend (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Interview with the Vampire: The Vampire Chronicles (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Predator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Psycho (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Saw (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Scream " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Shaun of the Dead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Sleepy Hollow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Sweeney Todd: The Demon Barber of Fleet Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Cabin in the Woods (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Conjuring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Exorcist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Mist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Others (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Shining (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/The Thing (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/World War Z (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Horror/Zombieland (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/(500) Days of Summer (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Amelie " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/American Beauty (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Beauty and the Beast (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Birdman or (The Unexpected Virtue of Ignorance) (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Cast Away (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Crazy, Stupid, Love. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Edward Scissorhands (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Eternal Sunshine of the Spotless Mind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Her (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/King Kong (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Knocked Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Love Actually (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Midnight in Paris (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Mr. &amp; Mrs. Smith " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Shrek 2 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Silver Linings Playbook (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Source Code (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The 40-Year-Old Virgin (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Bourne Legacy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Curious Case of Benjamin Button (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Great Gatsby (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Notebook " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Perks of Being a Wallflower (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Proposal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/The Terminal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Titanic (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/Romance/Twilight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/&quot;Band of Brothers&quot; Replacements " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/&quot;Vikings&quot; Brother's War (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/300: Rise of an Empire (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/American Sniper (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Apocalypse Now (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Atonement (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Black Hawk Down (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Braveheart (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Downfall " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Enemy at the Gates (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Full Metal Jacket (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Fury (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Gone with the Wind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Hotel Rwanda " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Kingdom of Heaven " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Lawrence of Arabia (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Life Is Beautiful " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Lincoln (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Lone Survivor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Pan's Labyrinth (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Platoon (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Deer Hunter (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Hurt Locker (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Imitation Game (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Last Samurai (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Patriot (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/The Pianist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Subtitles/War/Valkyrie (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/Action" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/Adventure" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/Comedy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/Horror" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/Romance" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CategoryData/War" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Kill Bill: Vol. 1 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Spider-Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Star Wars: Episode I - The Phantom Menace (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Terminator 2: Judgment Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/The Avengers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/The Dark Knight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/The Dark Knight Rises (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/The Matrix (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/Thor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Action/V for Vendetta (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Gravity (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Interstellar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Jurassic Park (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Hobbit: An Unexpected Journey (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Lion King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Lord of the Rings: The Fellowship of the Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Lord of the Rings: The Return of the King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/The Lord of the Rings: The Two Towers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Adventure/WALL*E (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/21 Jump Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Forrest Gump (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Frozen (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Kick-Ass (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Kingsman: The Secret Service (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Ratatouille (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Shrek (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Superbad (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Ted (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/The Big Lebowski (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/The Grand Budapest Hotel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/The Intouchables (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/The Truman Show (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/The Wolf of Wall Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Comedy/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/&quot;Stranger Things&quot; Chapter Five: The Flea and the Acrobat (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/&quot;Supernatural&quot; Shadow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/&quot;The Vampire Diaries&quot; The Murder of One (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/&quot;The Walking Dead&quot; What Lies Ahead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/1408 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/28 Days Later... (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Alien (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Alien3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Cloverfield (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Constantine (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/From Dusk Till Dawn (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Hellboy II: The Golden Army (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/I Am Legend (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Interview with the Vampire: The Vampire Chronicles (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Predator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Psycho (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Saw (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Shaun of the Dead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Sleepy Hollow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Sweeney Todd: The Demon Barber of Fleet Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Exorcist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Mist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Others (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Shining (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/The Thing (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Horror/Zombieland (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/(500) Days of Summer (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/American Beauty (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Beauty and the Beast (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Birdman or (The Unexpected Virtue of Ignorance) (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Cast Away (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Crazy, Stupid, Love. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Edward Scissorhands (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Eternal Sunshine of the Spotless Mind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Her (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/King Kong (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Knocked Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Love Actually (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Midnight in Paris (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Shrek 2 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Source Code (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/The 40-Year-Old Virgin (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/The Bourne Legacy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/The Great Gatsby (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/The Proposal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/The Terminal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Titanic (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/Romance/Twilight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/&quot;Vikings&quot; Brother's War (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/300: Rise of an Empire (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/American Sniper (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Apocalypse Now (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Atonement (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Black Hawk Down (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Braveheart (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Full Metal Jacket (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Fury (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Gone with the Wind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Lawrence of Arabia (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Lincoln (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Lone Survivor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Pan's Labyrinth (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Platoon (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Deer Hunter (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Hurt Locker (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Imitation Game (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Last Samurai (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Patriot (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/The Pianist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProcessedSubtitles/War/Valkyrie (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Avatar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Die Hard (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/District 9 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Iron Man 2 " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Iron Man Three (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Kill Bill: Vol. 1 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Spider-Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Star Wars: Episode I - The Phantom Menace (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Terminator 2: Judgment Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Avengers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Dark Knight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Dark Knight Rises (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Matrix (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/The Terminator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/Thor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Action/V for Vendetta (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Avatar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Batman Begins (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Gladiator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Gravity (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Guardians of the Galaxy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Inception (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Interstellar (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Iron Man (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Iron Man Three (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Jurassic Park (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Mad Max: Fury Road (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Man of Steel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Pirates of the Caribbean: The Curse of the Black Pearl (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Raiders of the Lost Ark (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Star Wars: Episode IV - A New Hope (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Star Wars: Episode V - The Empire Strikes Back (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Star Wars: Episode VI - Return of the Jedi (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Star Wars: The Force Awakens (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Hobbit: An Unexpected Journey (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Hunger Games (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Lion King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Lord of the Rings: The Fellowship of the Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Lord of the Rings: The Return of the King (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/The Lord of the Rings: The Two Towers (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Toy Story 3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Adventure/WALL*E (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/21 Jump Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Amelie " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Back to the Future (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Forrest Gump (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Frozen (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Hlada sa Nemo (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/How to Train Your Dragon (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Juno " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Kick-Ass (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Kingsman: The Secret Service (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Life Is Beautiful " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Monsters, Inc. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Ratatouille (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Shrek (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Silver Linings Playbook (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Snatch " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Superbad (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Ted (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/The Big Lebowski (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/The Grand Budapest Hotel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/The Intouchables (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/The Truman Show (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/The Wolf of Wall Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Toy Story (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Toy Story 3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Comedy/Vo stvorici po opici (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/&quot;Stranger Things&quot; Chapter Five: The Flea and the Acrobat (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/&quot;Supernatural&quot; Shadow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/&quot;The Vampire Diaries&quot; The Murder of One (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/&quot;The Walking Dead&quot; What Lies Ahead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/1408 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/28 Days Later... (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/28 Weeks Later " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Alien (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Alien3 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Cloverfield (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Constantine (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/From Dusk Till Dawn (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Hellboy " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Hellboy II: The Golden Army (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/I Am Legend (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Interview with the Vampire: The Vampire Chronicles (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Predator (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Psycho (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Saw (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Scream " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Shaun of the Dead (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Sleepy Hollow (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Sweeney Todd: The Demon Barber of Fleet Street (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Cabin in the Woods (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Conjuring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Exorcist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Mist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Others (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Ring (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Shining (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/The Thing (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/World War Z (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Horror/Zombieland (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/&quot;Friends&quot; The One After Ross Says Rachel (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/&quot;Game of Thrones&quot; Winter Is Coming (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/&quot;How I Met Your Mother&quot; Splitsville (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/&quot;The Big Bang Theory&quot; The Rothman Disintegration (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/(500) Days of Summer (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Amelie " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/American Beauty (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Beauty and the Beast (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Birdman or (The Unexpected Virtue of Ignorance) (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Cast Away (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Crazy, Stupid, Love. (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Deadpool (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Edward Scissorhands (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Eternal Sunshine of the Spotless Mind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Groundhog Day (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Her (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/King Kong (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Knocked Up (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Love Actually (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Midnight in Paris (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Mr. &amp; Mrs. Smith " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Shrek 2 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Silver Linings Playbook (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Source Code (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The 40-Year-Old Virgin (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Bourne Legacy (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Curious Case of Benjamin Button (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Great Gatsby (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Notebook " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Perks of Being a Wallflower (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Proposal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/The Terminal (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Titanic (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/Romance/Twilight (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/&quot;Band of Brothers&quot; Replacements " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/&quot;Vikings&quot; Brother's War (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/300 (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/300: Rise of an Empire (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/American Sniper (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Apocalypse Now (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Atonement (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Black Hawk Down (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Braveheart (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Casablanca (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Downfall " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Enemy at the Gates (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Full Metal Jacket (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Fury (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Gone with the Wind (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Hotel Rwanda " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Inglourious Basterds (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Kingdom of Heaven " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Lawrence of Arabia (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Life Is Beautiful " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Lincoln (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Lone Survivor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Pan's Labyrinth (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Pearl Harbor (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Platoon (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Saving Private Ryan (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Deer Hunter (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Hurt Locker (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Imitation Game (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Last Samurai (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Patriot (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/The Pianist (IMPAIRED)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Subtitles/War/Valkyrie (IMPAIRED)" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocess.py" afterPath="$PROJECT_DIR$/preprocess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tokenization.py" afterPath="$PROJECT_DIR$/tokenization.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scrapy_project/subtitle_scraper/spiders/subtitles_spider.py" afterPath="$PROJECT_DIR$/../scrapy_project/subtitle_scraper/spiders/subtitles_spider.py" />
     </list>
     <ignored path="preprocess.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -599,11 +22,11 @@
     <favorites_list name="preprocess" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="preprocess.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="495">
               <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -615,7 +38,7 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -627,8 +50,8 @@
       <file leaf-file-name="tokenization.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tokenization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+            <state relative-caret-position="234">
+              <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -658,8 +81,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -687,7 +111,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -708,10 +131,10 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FullScreen" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -917,6 +340,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="758a5338-7430-4041-ac61-94a2a1a9ef6d" name="Default" comment="" />
@@ -928,25 +354,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23467231" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39038688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38865837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33886585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39834026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -963,7 +389,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -972,11 +398,76 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="148" column="35" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/nltk/probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="242" column="32" selection-start-line="242" selection-start-column="32" selection-end-line="242" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/nltk/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4755">
+          <caret line="322" column="16" selection-start-line="322" selection-start-column="16" selection-end-line="322" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="1579" column="0" selection-start-line="1579" selection-start-column="0" selection-end-line="1579" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,77 +485,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/nltk/compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355">
-          <caret line="322" column="16" selection-start-line="322" selection-start-column="16" selection-end-line="322" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Hlada sa Nemo (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Frozen (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Up (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Toy Story 3 (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Kick-Ass (IMPAIRED)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Hlada sa Nemo (IMPAIRED)" />
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Frozen (IMPAIRED)" />
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Lock, Stock and Two Smoking Barrels (IMPAIRED)" />
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Up (IMPAIRED)" />
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Toy Story 3 (IMPAIRED)" />
+    <entry file="file://$PROJECT_DIR$/ProcessedSubtitles/Comedy/Kick-Ass (IMPAIRED)" />
     <entry file="file://$USER_HOME$/anaconda/lib/python3.5/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1073,13 +502,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="319" column="0" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -1087,10 +515,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/nltk/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4755">
+          <caret line="322" column="16" selection-start-line="322" selection-start-column="16" selection-end-line="322" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/nltk/probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="242" column="32" selection-start-line="242" selection-start-column="32" selection-end-line="242" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tokenization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+        <state relative-caret-position="234">
+          <caret line="176" column="23" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
