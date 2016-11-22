@@ -12,15 +12,16 @@ url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=n
 imdb_page_limit = 5
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
-token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+# token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
 # token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
-# token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
+token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
 # token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
 
 print(server.ServerInfo())
 
-categories = ['comedy', 'war']# 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
+categories = ['western', 'musical', ]
+# categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
 subtitle_per_category = int(remaining_quota / len(categories))
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
