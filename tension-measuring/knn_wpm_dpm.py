@@ -114,6 +114,6 @@ plt.legend(loc='upper right', numpoints=1)
 plt.title("Accuracies / K Values")
 
 for k, accuracy in zip(k_values, accuracies):
-    plt.text(k-1, accuracy+1, str(format(accuracy, '.1f')), fontsize=10)
+    plt.text(k - 0.6, accuracy+1, str(k) + ", " + str(format(accuracy, '.1f')), fontsize=10)
 
 plt.show()
