@@ -9,20 +9,20 @@ import sys
 # subtitles_path = "/Users/aeakdogan/hooop/Movie-Category-Classification-from-Subtitles/Subtitles"
 subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
-imdb_page_limit = 5
+imdb_page_limit = 10
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
 # token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
-token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
+# token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
 # token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
-# token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
+token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
 
 print(server.ServerInfo())
 
-categories = ['western', 'musical', ]
+categories = ['musical', 'romance', 'horror']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
-subtitle_per_category = int(remaining_quota / len(categories))
+subtitle_per_category = 30 #int(remaining_quota / len(categories))
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
 result = server.DownloadSubtitles(token, ['1953101239']) # an arbitrary subtitle id
@@ -164,9 +164,12 @@ class SubtitlesSpider(scrapy.Spider):
 
                     # I SOLVED THE ISSUE OPENING THE FILE IN BYTE-WRITING MODE AND DIRECTLY WRITING BYTES OBJECT TO FILE
                     # WITHOUT TRYING TO DECODE THE BYTES INTO A STRING
-                    with open(sub['filename'], 'wb') as file:
-                        file.write(gzip.decompress(base64.b64decode(subtitle_object['data']))) #.decode())
-                        print("Subtitle file saved into: %s" % sub['filename'])
+                    try:
+                        with open(sub['filename'], 'wb') as file:
+                            file.write(gzip.decompress(base64.b64decode(subtitle_object['data']))) #.decode())
+                            print("Subtitle file saved into: %s" % sub['filename'])
+                    except FileNotFoundError: #if unsuccessful to open that file, just ignore and skip it
+                        continue
             else:
                 print("Subtitles cannot be downloaded! Status code: %s" % subtitle_files_response['status'])
                 return None
