@@ -19,6 +19,7 @@ def parse_subtitle(filename):
             start_end = sub[1].decode("UTF-8")
             content = sub[2]
 
+
             start, end = start_end.split(' --> ') # e.g. 02:14:53,085
             at_minute = int(start[:2]) * 60 + int(start[3:5])
             at_seconds = int(start[:2]) * 3600 + int(start[3:5]) * 60 + int(start[6:8])
