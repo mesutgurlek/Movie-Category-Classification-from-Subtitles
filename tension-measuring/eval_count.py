@@ -4,13 +4,16 @@ from eval_subtitles import parse_subtitle
 import numpy as np
 import datetime as dt
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import LogisticRegression
+from sklearn import svm
 from datetime import timedelta
 import matplotlib.pyplot as plt
 
 dataset_cache_path = "./sub_count_set_cache.txt"
 
 # BELOW INITS ARE FOR SINGLE SUBTITLE PARSING ONLY, NOT FOR KNN IMPLEMENTATION
-filename = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles/Romance/Twilight (IMPAIRED).srt"
+filename = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles/Romance/Cast Away (IMPAIRED).srt"
 subs = parse_subtitle(filename)
 movie_name = filename.split('/')[-1]
 
@@ -41,8 +44,10 @@ def knn_init_dataset_cvset():
             if len(subs) <= 0:
                 continue
 
-            training_dataset.append(count_percentage(subs))
-            training_labels.append(category_name)
+            counts = count_percentage(subs)
+            if counts is not None:
+                training_dataset.append(counts)
+                training_labels.append(category_name)
 
         for filename in sub_files[-45:]:
             subs = parse_subtitle(os.path.join(dirpath, filename))
@@ -58,6 +63,9 @@ def knn_init_dataset_cvset():
     result = { 'training': (training_dataset, training_labels),
                'cv': (cv_dataset, cv_labels)}
 
+    normalize_count_feature(training_dataset)
+    normalize_count_feature(cv_dataset)
+
     try:
         with open(dataset_cache_path, mode='w') as file:
             file.write(json.dumps(result))
@@ -68,6 +76,16 @@ def knn_init_dataset_cvset():
     return result
 
 
+def normalize_count_feature(dataset):
+    mins_of_counts = [min(data) for data in dataset]
+    maxs_of_counts = [max(data) for data in dataset]
+    final_min, final_max = min(mins_of_counts), max(maxs_of_counts)
+
+    for row in range(len(dataset)):
+        for col in range(len(dataset[row])):
+            dataset[row][col] = (dataset[row][col] - final_min) / (final_max - final_min)
+
+
 # KNN TRAINING AND TESTING STEP
 def knn_train_and_test():
     try: #try loading the cache file
@@ -76,39 +94,19 @@ def knn_train_and_test():
     except Exception:
         dataset = knn_init_dataset_cvset()
 
-    # for k in range(2,13):
-    for k in range(2,3):
+    for k in range(2,13):
         neigh = KNeighborsClassifier(n_neighbors=k)
-        neigh.fit(np.array(dataset['training'][0]), dataset['training'][1])
+        neigh.fit(dataset['training'][0], dataset['training'][1])
         # neigh.predict_proba(dataset['cv'][0])
         score = neigh.score(dataset['cv'][0], dataset['cv'][1])
         print("Score of scikitlearn on this with K=%d ==> %f" % (k, score))
 
-    # def sklearn_accuracy():
-#     # X = [[0], [1], [2], [3]]
-#     dataset = read_csv_to_matrix('')
-#     training = dataset['training']
-#     validation = dataset['validation']
-#     test = dataset['test']
-#
-#     trainingX = training['x']
-#     y = training['y']
-#     trainingY = np.array(y.T)[0]
-#
-#
-#
-#     #cross-validation data
-#     accuracies = []
-#     for k in [1] + list(range(2, 17, 2)):
-#     # for k in range(2, 13):
-#         neigh = KNeighborsClassifier(n_neighbors=k)
-#         neigh.fit(trainingX, trainingY)
-#         neigh.predict_proba(validation['x'])
-#         score = neigh.score(validation['x'], validation['y'])
-#         print("Score of scikitlearn on this with K=%d ==> %f" % (k, score))
-#
-#     pprint.pprint(accuracies)
-#
+    # clf = MultinomialNB(alpha=0.01) #naive bayes
+    # clf = LogisticRegression(C=0.01, max_iter= 1000)
+    # clf = svm.SVC()
+    # clf.fit(dataset['training'][0], dataset['training'][1])
+    # score = clf.score(dataset['cv'][0], dataset['cv'][1])
+    # print("Score ==> %f" % (score))
 
 
 #gives the percentage dialog count array
@@ -196,6 +194,5 @@ def plot_counts_percentage(counts):
 # plot_counts(counts, interval)
 # counts_perc = count_percentage(subs)
 # plot_counts_percentage(counts_perc)
-# plot_counts_perc(counts_perc)
 
 knn_train_and_test()
