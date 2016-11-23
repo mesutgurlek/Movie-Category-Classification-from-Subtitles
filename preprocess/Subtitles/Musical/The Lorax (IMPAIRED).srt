@@ -1,0 +1,5402 @@
+﻿1
+00:00:24,720 --> 00:00:26,006
+(SPEAKING GIBBERISH)
+
+2
+00:00:26,480 --> 00:00:28,323
+(GRUNTING)
+
+3
+00:00:28,880 --> 00:00:30,325
+(LAUGHING)
+
+4
+00:00:38,040 --> 00:00:39,849
+(LAUGHING NERVOUSLY)
+
+5
+00:00:46,840 --> 00:00:49,810
+Hello, everybody.
+Thanks for coming.
+
+6
+00:00:49,880 --> 00:00:50,881
+(CLEARS THROAT)
+
+7
+00:00:51,280 --> 00:00:54,682
+I am the Lorax.
+I speak for the trees.
+
+8
+00:00:54,840 --> 00:00:57,525
+And I'd like to say
+a few words, if you please.
+
+9
+00:00:57,680 --> 00:01:00,126
+Regarding the story
+that you're about to see
+
+10
+00:01:00,280 --> 00:01:03,124
+it actually happened.
+Just take it from me.
+
+11
+00:01:03,280 --> 00:01:06,204
+But there's more to this story
+than what's on the page,
+
+12
+00:01:06,360 --> 00:01:09,364
+so please pay attention
+while I set the stage.
+
+13
+00:01:10,640 --> 00:01:15,567
+<i>We open in Thneedville, a city they
+say that was plastic and fake,</i>
+
+14
+00:01:15,640 --> 00:01:17,529
+<i>and they liked it that way!</i>
+
+15
+00:01:17,680 --> 00:01:21,446
+<i>A town without nature,
+not one living tree.</i>
+
+16
+00:01:21,560 --> 00:01:23,130
+<i>So, what happened to them?</i>
+
+17
+00:01:23,320 --> 00:01:26,449
+<i>Cue the music! Let's see.</i>
+
+18
+00:01:35,920 --> 00:01:37,365
+AUTOMATED VOICE: <i>Buzz. Buzz.</i>
+
+19
+00:01:58,720 --> 00:02:04,284
+(ALL SINGING) <i>In Thneedville,
+it's a brand new dawn</i>
+
+20
+00:02:05,840 --> 00:02:09,447
+<i>With brand new cars
+and houses and lawns</i>
+
+21
+00:02:09,600 --> 00:02:12,410
+<i>Here in
+Got-all-that-we-need-ville</i>
+
+22
+00:02:12,720 --> 00:02:17,931
+<i>In Thneedville,
+we manufacture our trees</i>
+
+23
+00:02:19,760 --> 00:02:24,322
+<i>Each one is made in factories</i>
+
+24
+00:02:24,480 --> 00:02:27,131
+<i>And uses 96 batteries</i>
+
+25
+00:02:27,680 --> 00:02:33,050
+<i>In Thneedville,
+the air's not so clean</i>
+
+26
+00:02:34,560 --> 00:02:36,164
+<i>So we buy it fresh</i>
+
+27
+00:02:36,320 --> 00:02:38,368
+<i>It comes out this machine!</i>
+
+28
+00:02:38,480 --> 00:02:41,131
+<i>In Satisfaction's-
+guaranteed-ville</i>
+
+29
+00:02:41,600 --> 00:02:46,401
+<i>In Thneedville,
+we don't want to know</i>
+
+30
+00:02:48,600 --> 00:02:52,241
+<i>Where the smog and trash
+and chemicals go</i>
+
+31
+00:02:52,400 --> 00:02:56,405
+<i>I just went swimming,
+and now I glow</i>
+
+32
+00:02:56,480 --> 00:02:59,927
+<i>In Thneedville,
+we have fun year round</i>
+
+33
+00:03:00,080 --> 00:03:03,289
+<i>We surf and snowboard
+right in town</i>
+
+34
+00:03:03,440 --> 00:03:06,967
+<i>We thank the Lord
+for all we've got</i>
+
+35
+00:03:07,120 --> 00:03:10,647
+<i>Including this
+brand new parking lot!</i>
+
+36
+00:03:10,800 --> 00:03:12,564
+<i>Parking lot!</i>
+
+37
+00:03:12,640 --> 00:03:16,645
+<i>Parking lot!</i>
+
+38
+00:03:20,000 --> 00:03:23,288
+<i>Oh, look, it's Aloysius O'Hare</i>
+
+39
+00:03:23,440 --> 00:03:26,683
+<i>Aloysius O'Hare</i>
+
+40
+00:03:26,920 --> 00:03:30,970
+<i>The man who found
+a way to sell air</i>
+
+41
+00:03:31,320 --> 00:03:33,368
+<i>And became a zillionaire</i>
+
+42
+00:03:35,320 --> 00:03:37,368
+Hip-hip-hooray!
+
+43
+00:03:37,440 --> 00:03:40,569
+<i>In Thneedville,
+we love living this way</i>
+
+44
+00:03:41,040 --> 00:03:44,328
+<i>It's like living in paradise</i>
+
+45
+00:03:44,400 --> 00:03:47,210
+<i>It's perfect!
+And that's how it will stay</i>
+
+46
+00:03:47,280 --> 00:03:48,327
+<i>Oh, yeah!</i>
+
+47
+00:03:48,400 --> 00:03:50,880
+<i>Here in
+Love-the-life-we-lead-ville</i>
+
+48
+00:03:50,960 --> 00:03:52,644
+<i>Destined-to-succeed-ville</i>
+
+49
+00:03:52,720 --> 00:03:54,722
+<i>We-are-all-agreed-ville</i>
+
+50
+00:03:54,800 --> 00:03:57,770
+<i>We love it here in...</i>
+
+51
+00:03:59,640 --> 00:04:01,244
+<i>Thneedville!</i>
+
+52
+00:04:39,280 --> 00:04:40,520
+Yes!
+
+53
+00:04:42,000 --> 00:04:43,047
+(RINGING BELL)
+
+54
+00:04:54,800 --> 00:04:55,847
+Oh, hi, Ted.
+
+55
+00:04:57,040 --> 00:04:59,168
+Oh, hey, Audrey. Hi.
+
+56
+00:04:59,440 --> 00:05:02,011
+Did your ball land
+in my backyard again?
+
+57
+00:05:02,120 --> 00:05:03,531
+What? No.
+
+58
+00:05:03,760 --> 00:05:05,489
+A model airplane, this time.
+
+59
+00:05:06,480 --> 00:05:08,767
+Hey, do you want to
+see something cool?
+
+60
+00:05:08,920 --> 00:05:10,046
+Come on.
+
+61
+00:05:16,000 --> 00:05:17,684
+Whoa!
+
+62
+00:05:24,160 --> 00:05:25,650
+Did you...
+
+63
+00:05:25,920 --> 00:05:27,729
+Did you paint this?
+
+64
+00:05:27,840 --> 00:05:29,649
+Do you like it?
+What?
+
+65
+00:05:29,960 --> 00:05:33,407
+Are you kidding?
+This is amazing!
+
+66
+00:05:33,640 --> 00:05:34,687
+What are those?
+
+67
+00:05:34,760 --> 00:05:37,764
+Those are trees.
+Real ones.
+
+68
+00:05:38,040 --> 00:05:41,010
+They used to grow
+all around here.
+
+69
+00:05:41,880 --> 00:05:44,645
+And people said that
+the touch of their tufts
+
+70
+00:05:44,720 --> 00:05:47,166
+was softer than
+anything, even silk.
+
+71
+00:05:47,400 --> 00:05:49,880
+And they smelled
+like butterfly milk!
+
+72
+00:05:49,960 --> 00:05:52,088
+Wow! What does
+that even mean?
+
+73
+00:05:52,360 --> 00:05:53,521
+I know, right?
+
+74
+00:05:54,440 --> 00:05:55,566
+(GROANS)
+
+75
+00:05:55,800 --> 00:05:56,847
+Oh, yeah.
+
+76
+00:05:56,920 --> 00:06:00,288
+What I want more than anything
+in the whole world is to see
+
+77
+00:06:00,720 --> 00:06:02,722
+a real living tree
+
+78
+00:06:03,400 --> 00:06:04,526
+growing in my backyard.
+
+79
+00:06:04,880 --> 00:06:07,531
+So if, say... I'm just
+thinking out loud here.
+
+80
+00:06:07,600 --> 00:06:10,251
+If a guy somehow got you one...
+
+81
+00:06:10,440 --> 00:06:12,522
+I'd probably
+marry him on the spot.
+
+82
+00:06:12,960 --> 00:06:15,247
+I bet that sounds crazy.
+Does that sound crazy?
+
+83
+00:06:15,480 --> 00:06:17,244
+No! Not crazy.
+(CLEARS THROAT)
+
+84
+00:06:17,680 --> 00:06:19,569
+Not crazy at all.
+
+85
+00:06:26,440 --> 00:06:29,046
+Ted, honey,
+don't play with your food.
+
+86
+00:06:29,200 --> 00:06:30,440
+You, either, Mom.
+
+87
+00:06:34,320 --> 00:06:39,690
+So, Mom, do you happen to
+know if there's any place
+
+88
+00:06:39,840 --> 00:06:42,161
+where I could get a real tree?
+
+89
+00:06:42,320 --> 00:06:44,971
+Ted, we already have a tree.
+It's the latest model.
+
+90
+00:06:45,200 --> 00:06:47,328
+Yeah, but I mean a real one
+
+91
+00:06:47,400 --> 00:06:50,370
+that grows out of
+the ground or whatever.
+
+92
+00:06:50,440 --> 00:06:51,885
+You know, a real tree.
+
+93
+00:06:52,040 --> 00:06:53,041
+Really?
+
+94
+00:06:53,120 --> 00:06:55,851
+You would rather
+have some dirty, messy
+
+95
+00:06:56,080 --> 00:06:58,321
+lump of wood that just
+sticks out of the ground?
+
+96
+00:06:58,400 --> 00:06:59,731
+And it does what? I don't
+even know what it does.
+
+97
+00:06:59,800 --> 00:07:00,881
+What's its purpose?
+
+98
+00:07:00,960 --> 00:07:02,200
+Look at what we've got.
+
+99
+00:07:02,280 --> 00:07:05,443
+It's the Oak-amatic. The only
+tree with its own remote.
+
+100
+00:07:05,800 --> 00:07:08,451
+Summer, autumn, winter,
+
+101
+00:07:08,520 --> 00:07:09,681
+and disco!
+
+102
+00:07:10,040 --> 00:07:11,280
+(DISCO MUSIC PLAYING)
+
+103
+00:07:11,360 --> 00:07:13,169
+(HUMMING)
+
+104
+00:07:14,320 --> 00:07:15,890
+Mom? Come on, Ted. Get into it.
+
+105
+00:07:15,960 --> 00:07:17,007
+Dance with the tree.
+
+106
+00:07:17,080 --> 00:07:19,048
+Oh, it hurts, Mom. Please stop.
+(MUSIC STOPS)
+
+107
+00:07:19,560 --> 00:07:21,483
+So' anyway...
+
+108
+00:07:21,600 --> 00:07:23,364
+Let's just say I need a tree.
+
+109
+00:07:23,440 --> 00:07:24,965
+Where would I go?
+What do I do?
+
+110
+00:07:25,160 --> 00:07:28,050
+Then you know what? You
+need to find the Once-ler.
+
+111
+00:07:29,040 --> 00:07:30,041
+(STAMMERS) The what?
+
+112
+00:07:30,120 --> 00:07:35,160
+Mom, it's not really the time for
+one of your magical fables, okay?
+
+113
+00:07:35,440 --> 00:07:37,442
+(LAUGHS)
+That's right, I forgot.
+
+114
+00:07:37,640 --> 00:07:40,962
+I'm old and can't even
+remember to put my teeth in.
+
+115
+00:07:41,200 --> 00:07:42,929
+Stand down.
+That's not what I meant.
+
+116
+00:07:43,000 --> 00:07:44,889
+No, really, I forgot my teeth.
+
+117
+00:07:45,160 --> 00:07:47,640
+Would you be a dear
+and go get them for me?
+
+118
+00:07:47,720 --> 00:07:49,563
+(SIGHS) Sure, Mom.
+
+119
+00:07:55,880 --> 00:07:57,041
+Okay, here's the deal.
+
+120
+00:07:57,200 --> 00:08:00,124
+The Once-ler is the man who knows
+what happened to the trees.
+
+121
+00:08:00,200 --> 00:08:02,441
+You want one,
+you need to find him.
+
+122
+00:08:02,520 --> 00:08:05,091
+The Once-ler?
+Mmm-hmm.
+
+123
+00:08:05,160 --> 00:08:07,481
+Okay. Grammy,
+is this a real thing
+
+124
+00:08:07,560 --> 00:08:08,891
+that we're talking about now?
+
+125
+00:08:09,000 --> 00:08:10,604
+Oh, he's real all right.
+
+126
+00:08:10,920 --> 00:08:12,604
+Well, where can I find him?
+
+127
+00:08:12,680 --> 00:08:13,761
+(SCREAMS)
+
+128
+00:08:13,840 --> 00:08:14,887
+(LAUGHS)
+
+129
+00:08:15,200 --> 00:08:19,091
+Far outside of town
+where the grass never grows
+
+130
+00:08:19,360 --> 00:08:22,762
+and the wind smells slow
+and sour when it blows.
+
+131
+00:08:22,840 --> 00:08:24,922
+(MIMICKING WIND BLOWING)
+(NERVOUS LAUGHTER)
+
+132
+00:08:25,000 --> 00:08:29,050
+And no birds ever sing,
+excepting old crows.
+
+133
+00:08:29,480 --> 00:08:30,561
+(CAWING)
+(SCREAMS)
+
+134
+00:08:32,040 --> 00:08:33,166
+Quit doing that.
+
+135
+00:08:33,280 --> 00:08:35,601
+That's the place
+where the Once-ler lives.
+
+136
+00:08:35,680 --> 00:08:37,921
+Wait, outside of town?
+
+137
+00:08:38,800 --> 00:08:42,282
+People used to say
+if you brought him 15 cents,
+
+138
+00:08:42,440 --> 00:08:43,441
+<i>a nail</i>
+
+139
+00:08:43,680 --> 00:08:47,446
+<i>and the shell of a great,
+great, great grandfather snail,</i>
+
+140
+00:08:49,320 --> 00:08:52,051
+<i>he would tell you everything.</i>
+
+141
+00:09:20,840 --> 00:09:21,841
+Hmm.
+
+142
+00:09:27,720 --> 00:09:28,801
+(SCREAMS)
+
+143
+00:09:38,240 --> 00:09:39,480
+(GRUNTS)
+
+144
+00:09:52,400 --> 00:09:54,402
+Mr. O'Hare,
+what we've got for you
+
+145
+00:09:54,480 --> 00:09:56,687
+is something that is
+going to take O'Hare Air
+
+146
+00:09:56,840 --> 00:09:58,444
+to the next level.
+
+147
+00:09:58,640 --> 00:10:00,449
+Now, Mr. O'Hare,
+I know what you're thinking.
+
+148
+00:10:00,520 --> 00:10:02,568
+One, "I've gotten rich
+selling people air that's"
+
+149
+00:10:02,640 --> 00:10:04,642
+"fresher than
+the stinky stuff outside"
+
+150
+00:10:04,720 --> 00:10:06,290
+Two, and here is
+the important one,
+
+151
+00:10:06,360 --> 00:10:08,681
+"How can I possibly make
+even more money?"
+
+152
+00:10:08,880 --> 00:10:10,609
+We can tell you, sir!
+We can tell you.
+
+153
+00:10:10,760 --> 00:10:13,331
+Check out this commercial, huh?
+
+154
+00:10:15,760 --> 00:10:18,081
+Well, here goes
+another lame Saturday.
+
+155
+00:10:18,640 --> 00:10:21,484
+Dude, I don't think so!
+
+156
+00:10:21,800 --> 00:10:22,847
+(LAUGHS)
+
+157
+00:10:22,920 --> 00:10:23,967
+Huh!
+
+158
+00:10:25,000 --> 00:10:26,081
+Hey!
+
+159
+00:10:28,560 --> 00:10:29,561
+Man!
+
+160
+00:10:29,640 --> 00:10:30,687
+Oh, yeah!
+
+161
+00:10:31,600 --> 00:10:32,681
+What!
+
+162
+00:10:36,200 --> 00:10:37,361
+Yeah!
+
+163
+00:10:38,000 --> 00:10:40,685
+COMMENTATOR: <i>O'Hare purified air.
+Freshness to go.</i>
+
+164
+00:10:40,760 --> 00:10:42,046
+<i>Please breathe responsibly.</i>
+
+165
+00:10:42,120 --> 00:10:43,201
+Ah?
+
+166
+00:10:43,280 --> 00:10:44,964
+Oh, my goodness. Yeah!
+Love it.
+
+167
+00:10:45,480 --> 00:10:47,369
+You got to be kidding me.
+
+168
+00:10:47,440 --> 00:10:50,284
+You really think people are
+stupid enough to buy this?
+
+169
+00:10:50,560 --> 00:10:53,882
+Our research shows that if you put
+something in a plastic bottle,
+
+170
+00:10:53,960 --> 00:10:55,086
+people will buy it.
+
+171
+00:10:55,160 --> 00:10:56,241
+Exactly. And...
+
+172
+00:10:56,320 --> 00:10:58,243
+And what's more, when
+we build a new factory
+
+173
+00:10:58,320 --> 00:10:59,845
+to make the plastic bottles,
+
+174
+00:10:59,960 --> 00:11:02,327
+the air quality is
+just going to get worse.
+
+175
+00:11:02,520 --> 00:11:04,443
+Which will make people
+want our air even more,
+
+176
+00:11:04,520 --> 00:11:06,409
+and drive sales where?
+
+177
+00:11:06,520 --> 00:11:07,521
+Through the roof!
+
+178
+00:11:07,800 --> 00:11:12,044
+So, in other words,
+the more smog in the sky
+
+179
+00:11:12,560 --> 00:11:13,641
+(LAUGHS)
+
+180
+00:11:13,840 --> 00:11:15,251
+the more people will buy.
+
+181
+00:11:15,400 --> 00:11:16,970
+(ALL LAUGHING)
+
+182
+00:11:17,360 --> 00:11:20,648
+See, that's why he's the genius!
+It even rhymes!
+
+183
+00:11:21,440 --> 00:11:23,363
+I'm aware it rhymes.
+
+184
+00:11:24,240 --> 00:11:25,321
+Coats. Big.
+
+185
+00:11:25,400 --> 00:11:26,845
+What do you two
+knuckleheads want?
+
+186
+00:11:26,920 --> 00:11:28,331
+I'm in the middle of a meeting!
+
+187
+00:11:31,200 --> 00:11:32,247
+What?
+
+188
+00:11:32,520 --> 00:11:33,931
+Why is he leaving town?
+
+189
+00:11:34,040 --> 00:11:35,883
+No one ever leaves town!
+
+190
+00:11:36,160 --> 00:11:37,924
+See what he's up to.
+
+191
+00:11:48,760 --> 00:11:50,046
+Whoa!
+
+192
+00:12:34,960 --> 00:12:36,325
+(COUGHING)
+
+193
+00:12:39,840 --> 00:12:40,921
+Huh?
+
+194
+00:12:41,080 --> 00:12:42,161
+(SCREAMS)
+
+195
+00:12:42,680 --> 00:12:43,966
+Whoa! Whoa.
+
+196
+00:12:47,120 --> 00:12:48,406
+Oh, man.
+
+197
+00:13:09,200 --> 00:13:10,247
+(SCREAMING)
+
+198
+00:13:16,480 --> 00:13:17,527
+(GROANS)
+
+199
+00:13:34,880 --> 00:13:35,927
+(CAWING)
+
+200
+00:13:46,160 --> 00:13:47,400
+Whoa!
+
+201
+00:13:47,680 --> 00:13:49,125
+All right.
+
+202
+00:14:08,120 --> 00:14:09,485
+(SCREAMS)
+
+203
+00:14:26,200 --> 00:14:27,247
+Okay.
+
+204
+00:14:28,040 --> 00:14:30,122
+What the...
+
+205
+00:14:30,200 --> 00:14:31,645
+Whoa!
+
+206
+00:14:34,960 --> 00:14:36,371
+(PANTING)
+
+207
+00:14:39,040 --> 00:14:40,087
+Who are you?
+
+208
+00:14:40,320 --> 00:14:42,482
+Who are you and what
+are you doing here?
+
+209
+00:14:42,640 --> 00:14:44,961
+I'm Ted. I'm Ted.
+
+210
+00:14:45,200 --> 00:14:47,680
+I can't breathe.
+Are you the Once-ler?
+
+211
+00:14:47,840 --> 00:14:49,968
+Oh, man.
+Didn't you read the signs?
+
+212
+00:14:50,240 --> 00:14:52,288
+No one is
+supposed to come here.
+
+213
+00:14:52,560 --> 00:14:54,483
+Get out of here
+and leave me alone!
+
+214
+00:14:54,560 --> 00:14:56,483
+And don't let the boot
+hit you on the way out.
+
+215
+00:14:56,560 --> 00:14:57,607
+The boot?
+
+216
+00:14:58,360 --> 00:14:59,361
+Hello!
+
+217
+00:14:59,440 --> 00:15:00,487
+Ow!
+
+218
+00:15:00,640 --> 00:15:03,564
+Listen! People say that if
+someone brings you this stuff
+
+219
+00:15:03,840 --> 00:15:05,649
+that you will tell
+them about trees.
+
+220
+00:15:06,000 --> 00:15:07,047
+No, no, no!
+
+221
+00:15:09,520 --> 00:15:10,681
+Trees?
+
+222
+00:15:10,880 --> 00:15:12,166
+Yeah, real ones.
+
+223
+00:15:12,280 --> 00:15:14,886
+You know,
+that grow out of the ground?
+
+224
+00:15:16,320 --> 00:15:17,401
+Hello?
+
+225
+00:15:17,480 --> 00:15:18,891
+Sorry, it's just...
+
+226
+00:15:19,040 --> 00:15:21,407
+Well, I didn't think anyone
+still cared about trees.
+
+227
+00:15:21,480 --> 00:15:24,848
+Well, that's me. The guy
+who still cares. I'm here.
+
+228
+00:15:25,000 --> 00:15:27,128
+Hey! What?
+
+229
+00:15:28,240 --> 00:15:29,571
+Do you want to
+know about trees?
+
+230
+00:15:29,640 --> 00:15:31,881
+About what happened to them?
+
+231
+00:15:32,040 --> 00:15:35,806
+Why they're all gone?
+It's because of me.
+
+232
+00:15:35,880 --> 00:15:36,881
+Wait, what?
+
+233
+00:15:42,480 --> 00:15:44,608
+It's because of me!
+
+234
+00:15:44,680 --> 00:15:45,681
+(COUGHS)
+
+235
+00:15:46,600 --> 00:15:50,082
+And my invention, the Thneed.
+
+236
+00:15:50,440 --> 00:15:54,445
+It was an amazing product that
+could do the job of a thousand.
+
+237
+00:15:54,640 --> 00:15:55,687
+(CHUCKLES)
+
+238
+00:15:55,760 --> 00:15:56,761
+All right.
+
+239
+00:15:57,200 --> 00:15:58,884
+Sounds ridiculous,
+but I mean, that's cool.
+
+240
+00:15:59,120 --> 00:16:01,009
+You're darn right it was cool!
+
+241
+00:16:02,120 --> 00:16:04,885
+It all started a long time ago.
+
+242
+00:16:05,480 --> 00:16:07,050
+Can we start not
+so long ago, maybe?
+
+243
+00:16:07,240 --> 00:16:08,287
+Do you want a tree?
+
+244
+00:16:08,520 --> 00:16:09,760
+Yes, yes.
+
+245
+00:16:10,160 --> 00:16:15,246
+Then it all started
+a long, long time ago.
+
+246
+00:16:16,160 --> 00:16:18,766
+<i>I was a young man leaving home.</i>
+
+247
+00:16:18,840 --> 00:16:22,322
+Well, here I go, Mom. Off to
+change the world with my Thneed.
+
+248
+00:16:24,320 --> 00:16:25,765
+I'm actually doing it!
+
+249
+00:16:25,840 --> 00:16:28,411
+Yes, but just remember, Oncie,
+
+250
+00:16:28,560 --> 00:16:31,211
+if somehow your invention
+ends up a failure
+
+251
+00:16:31,280 --> 00:16:33,362
+instead of a success,
+
+252
+00:16:33,520 --> 00:16:35,807
+oh, it wouldn't
+surprise me at all!
+
+253
+00:16:35,880 --> 00:16:37,450
+(ALL LAUGHING)
+
+254
+00:16:37,640 --> 00:16:38,766
+Nice wheels.
+
+255
+00:16:39,240 --> 00:16:40,287
+Burn!
+
+256
+00:16:40,600 --> 00:16:42,364
+Ow!
+(CHUCKLES)
+
+257
+00:16:42,440 --> 00:16:43,566
+Yeah, "Burn!"
+
+258
+00:16:43,720 --> 00:16:46,803
+But you will see, okay? I'm
+going to prove you all wrong.
+
+259
+00:16:46,920 --> 00:16:48,285
+Come on, Melvin!
+
+260
+00:16:48,680 --> 00:16:51,126
+<i>So, there I was
+at the very bottom.</i>
+
+261
+00:16:51,200 --> 00:16:53,407
+<i>With nothing
+but a wagon, a mule,</i>
+
+262
+00:16:53,680 --> 00:16:57,605
+<i>and a completely irrational
+sense of optimism.</i>
+
+263
+00:16:57,840 --> 00:16:59,569
+(HUMMING)
+
+264
+00:17:02,120 --> 00:17:03,451
+<i>I was searching the globe,</i>
+
+265
+00:17:03,680 --> 00:17:06,889
+<i>obsessed with finding the
+perfect material for my Thneed.</i>
+
+266
+00:17:09,160 --> 00:17:12,130
+<i>But I'd had
+absolutely no success.</i>
+
+267
+00:17:12,360 --> 00:17:16,968
+<i>Until one day, I found paradise.
+(NEIGHS)</i>
+
+268
+00:17:17,120 --> 00:17:18,121
+Oh!
+
+269
+00:17:18,200 --> 00:17:20,487
+We're going to be
+there soon, I'm sure.
+
+270
+00:17:20,680 --> 00:17:21,727
+Whoa!
+
+271
+00:17:30,440 --> 00:17:34,968
+This is the most
+beautiful place,
+
+272
+00:17:35,120 --> 00:17:36,963
+okay, I have ever seen.
+
+273
+00:17:38,600 --> 00:17:39,761
+Oh.
+
+274
+00:17:39,840 --> 00:17:41,330
+Ta-da!
+
+275
+00:17:42,920 --> 00:17:43,967
+Whoa!
+
+276
+00:18:07,280 --> 00:18:08,850
+(HUMMING)
+
+277
+00:18:14,120 --> 00:18:15,963
+(SINGING) <i>Yeah</i>
+
+278
+00:18:16,120 --> 00:18:17,929
+(SINGING) <i>This is it</i>
+
+279
+00:18:18,000 --> 00:18:19,240
+(PLAYING BLUES RIFF)
+
+280
+00:18:20,200 --> 00:18:23,090
+<i>This is the place</i>
+
+281
+00:18:23,560 --> 00:18:27,884
+<i>These Truff ula trees
+are just what I need</i>
+
+282
+00:18:28,040 --> 00:18:32,841
+<i>Gonna chop one down
+and make my Thneed</i>
+
+283
+00:18:34,000 --> 00:18:35,604
+<i>But first...</i>
+
+284
+00:18:36,160 --> 00:18:38,322
+(SINGS TUNE)
+
+285
+00:18:39,880 --> 00:18:40,927
+Now you!
+
+286
+00:18:41,000 --> 00:18:42,490
+(ALL SING TUNE)
+
+287
+00:18:43,480 --> 00:18:44,686
+That's great!
+
+288
+00:18:55,600 --> 00:18:58,080
+<i>So now our friendship can begin</i>
+
+289
+00:18:58,160 --> 00:19:00,367
+<i>Hand in hand, and wing and fin</i>
+
+290
+00:19:00,440 --> 00:19:03,011
+<i>There's nothing
+you and I can't do</i>
+
+291
+00:19:03,080 --> 00:19:05,924
+<i>So let's all make
+my dreams come true</i>
+
+292
+00:19:14,320 --> 00:19:15,651
+(YODELING)
+
+293
+00:19:20,840 --> 00:19:23,127
+(YODELING STOPS)
+
+294
+00:19:24,360 --> 00:19:25,441
+(HUMMING)
+
+295
+00:19:26,600 --> 00:19:27,886
+Hey, guys!
+
+296
+00:19:28,360 --> 00:19:31,011
+Come on, where is
+my back-up chorus?
+
+297
+00:19:33,320 --> 00:19:34,401
+What?
+
+298
+00:19:35,880 --> 00:19:37,689
+Ah-ha! Oh.
+
+299
+00:19:37,760 --> 00:19:38,841
+(GROWLS)
+
+300
+00:19:39,400 --> 00:19:40,765
+(SCREAMS)
+
+301
+00:19:43,240 --> 00:19:44,287
+(GROWLING)
+
+302
+00:19:44,360 --> 00:19:45,691
+Ooh!
+
+303
+00:20:13,080 --> 00:20:16,129
+TED: <i>Hey, hey, wait.
+Wait a minute.</i>
+
+304
+00:20:16,360 --> 00:20:17,361
+Excuse me?
+
+305
+00:20:17,960 --> 00:20:19,928
+Yeah, that's awesome.
+
+306
+00:20:20,080 --> 00:20:22,970
+Feeding junk food to forest animals?
+That's great.
+
+307
+00:20:23,280 --> 00:20:25,169
+But, uh, is there
+a musical number
+
+308
+00:20:25,240 --> 00:20:26,651
+where you show me
+how to get a tree?
+
+309
+00:20:26,840 --> 00:20:28,001
+Because I would
+love to hear that one.
+
+310
+00:20:28,240 --> 00:20:30,925
+Oh, yes. Right after the
+musical number about the kid
+
+311
+00:20:31,080 --> 00:20:32,764
+who kept
+interrupting the story,
+
+312
+00:20:32,840 --> 00:20:34,604
+and was never heard from again.
+
+313
+00:20:35,160 --> 00:20:37,208
+Right, got it. Proceed.
+
+314
+00:20:38,680 --> 00:20:40,444
+All right, here we go.
+
+315
+00:20:40,600 --> 00:20:43,809
+About to make a Thneed,
+about to change the world.
+
+316
+00:20:57,200 --> 00:20:58,247
+(GASPS)
+
+317
+00:21:14,920 --> 00:21:16,160
+Check it out, guys...
+
+318
+00:21:17,560 --> 00:21:18,607
+Where did everybody go?
+
+319
+00:21:24,960 --> 00:21:28,169
+Little did I know that by
+chopping down that tree
+
+320
+00:21:28,240 --> 00:21:32,962
+I had just summoned a mystical
+creature as old as time itself.
+
+321
+00:21:33,680 --> 00:21:37,241
+The legendary,
+slightly annoying
+
+322
+00:21:37,400 --> 00:21:39,448
+guardian of the forest.
+
+323
+00:21:40,200 --> 00:21:41,725
+The Lorax.
+
+324
+00:21:49,960 --> 00:21:50,961
+(ALL GASP)
+
+325
+00:22:08,560 --> 00:22:10,403
+(GURGLING)
+
+326
+00:22:27,280 --> 00:22:29,203
+(SPEAKING GIBBERISH)
+
+327
+00:22:34,480 --> 00:22:35,686
+(SIGHS)
+
+328
+00:23:18,320 --> 00:23:20,243
+(SOBBING)
+
+329
+00:23:22,320 --> 00:23:24,527
+(WHISTLING)
+
+330
+00:23:28,400 --> 00:23:29,845
+(HUMMING)
+
+331
+00:23:34,480 --> 00:23:35,481
+Hey!
+Whoo!
+
+332
+00:23:36,920 --> 00:23:38,206
+Did you chop down this tree?
+
+333
+00:23:38,640 --> 00:23:40,563
+Uh... No.
+
+334
+00:23:41,680 --> 00:23:42,841
+Who did it?
+
+335
+00:23:43,120 --> 00:23:44,724
+(GASPS) What's that?
+
+336
+00:23:46,320 --> 00:23:47,606
+I think he did it.
+
+337
+00:23:49,840 --> 00:23:51,365
+Leave!
+Vacate the premises!
+
+338
+00:23:51,440 --> 00:23:53,488
+Take your ax and get out!
+
+339
+00:23:53,640 --> 00:23:55,802
+And who are you?
+
+340
+00:23:56,520 --> 00:23:59,922
+I'm the Lorax!
+Guardian of the forest.
+
+341
+00:24:00,080 --> 00:24:01,969
+I speak for the trees.
+
+342
+00:24:03,600 --> 00:24:05,887
+So you're telling me,
+you just didn't see me
+
+343
+00:24:05,960 --> 00:24:07,769
+magically appear
+out of that stump?
+
+344
+00:24:07,920 --> 00:24:09,763
+With all the lightning
+and thunder and stuff.
+
+345
+00:24:09,840 --> 00:24:10,921
+You didn't see any of that?
+
+346
+00:24:11,000 --> 00:24:13,765
+No, but that sounds amazing.
+Can I see some of that?
+
+347
+00:24:13,920 --> 00:24:17,720
+Uh, yeah, I could show you.
+But that's not how it works.
+
+348
+00:24:18,120 --> 00:24:19,121
+Okay. Um...
+
+349
+00:24:19,640 --> 00:24:20,721
+Didn't really happen.
+
+350
+00:24:20,880 --> 00:24:23,360
+Oh, I know what you want!
+
+351
+00:24:23,440 --> 00:24:29,561
+I've got one of these for the
+cutest little guy lever saw!
+
+352
+00:24:29,720 --> 00:24:32,246
+Yummy, yummy,
+yummy, yummy, yummy...
+
+353
+00:24:32,520 --> 00:24:35,285
+How dare you!
+Give me that!
+
+354
+00:24:35,600 --> 00:24:37,170
+(SNIFFING) Mmm.
+
+355
+00:24:37,920 --> 00:24:39,285
+I'm going to eat this,
+
+356
+00:24:39,360 --> 00:24:41,488
+but I am highly offended by it.
+
+357
+00:24:46,680 --> 00:24:50,321
+What are you... Hey, Mustache!
+Will you stop that?
+
+358
+00:24:51,760 --> 00:24:53,410
+What's your deal, man?
+
+359
+00:24:53,520 --> 00:24:55,727
+Pull them right out Time
+for you to go, Beanpole!
+
+360
+00:24:55,920 --> 00:24:57,968
+Just going to put them right back in.
+We can do this all day.
+
+361
+00:25:03,920 --> 00:25:05,251
+Stop right there! Stop it!
+
+362
+00:25:06,680 --> 00:25:11,481
+So you would hammer one of
+nature's innocent creatures?
+
+363
+00:25:13,000 --> 00:25:14,126
+What? No!
+
+364
+00:25:14,360 --> 00:25:17,011
+I would never hit this little guy.
+You, on the other hand,
+
+365
+00:25:17,280 --> 00:25:18,441
+I would gladly pound you
+
+366
+00:25:18,520 --> 00:25:20,249
+and your mustache
+into the ground!
+
+367
+00:25:20,400 --> 00:25:25,008
+Behold! The intruder
+and his violent ways.
+
+368
+00:25:25,080 --> 00:25:28,050
+Shame on you.
+For shame!
+
+369
+00:25:29,200 --> 00:25:31,089
+All right, you know what?
+That's it!
+
+370
+00:25:31,160 --> 00:25:33,003
+You listen to me,
+you furry meatloaf.
+
+371
+00:25:33,080 --> 00:25:35,526
+I'm going to chop down as
+many trees as I need. Okay?
+
+372
+00:25:35,600 --> 00:25:37,841
+Newsflash!
+Not going anywhere!
+
+373
+00:25:39,160 --> 00:25:40,844
+End of story.
+
+374
+00:25:41,640 --> 00:25:43,051
+Then you leave me no choice.
+
+375
+00:25:46,040 --> 00:25:50,045
+If you're not gone by the time
+the sun sets on this valley,
+
+376
+00:25:50,120 --> 00:25:54,205
+all the forces of nature
+will be unleashed upon you
+
+377
+00:25:54,480 --> 00:25:58,644
+and curse you until
+the end of your days!
+
+378
+00:25:58,800 --> 00:26:02,486
+You have been warned.
+
+379
+00:26:06,040 --> 00:26:07,883
+(GRUNTING)
+
+380
+00:26:09,000 --> 00:26:10,490
+Thanks.
+Yeah, okay.
+
+381
+00:26:10,560 --> 00:26:12,847
+You have been warned.
+
+382
+00:26:13,760 --> 00:26:16,001
+But I didn't listen
+to his warning.
+
+383
+00:26:16,160 --> 00:26:18,322
+And you won't believe
+what happened that night.
+
+384
+00:26:18,400 --> 00:26:19,401
+What?
+
+385
+00:26:19,480 --> 00:26:21,562
+If you want to hear more,
+come back tomorrow.
+
+386
+00:26:22,120 --> 00:26:24,043
+Hey, wait, wait! Tomorrow?
+
+387
+00:26:24,120 --> 00:26:25,360
+Whoa!
+
+388
+00:26:25,440 --> 00:26:27,090
+Whoa-ho-ho.
+
+389
+00:26:27,160 --> 00:26:28,241
+Are you serious right now?
+
+390
+00:26:28,320 --> 00:26:30,846
+Ah! You live in
+the middle of nowhere!
+
+391
+00:26:31,120 --> 00:26:33,407
+It stinks out here.
+Don't make me come back!
+
+392
+00:26:33,640 --> 00:26:36,007
+I guess you don't really want
+to hear the rest of the story.
+
+393
+00:26:36,080 --> 00:26:37,081
+(SCREAMS)
+
+394
+00:26:41,600 --> 00:26:42,647
+No, no.
+
+395
+00:26:43,000 --> 00:26:45,571
+I do. I really do. I want to
+hear the story. I just...
+
+396
+00:26:45,640 --> 00:26:48,530
+Nah! You don't have
+what it takes. Goodbye.
+
+397
+00:26:48,760 --> 00:26:51,127
+Wait, wait!
+I have what it takes.
+
+398
+00:26:54,680 --> 00:26:56,728
+It's all right. It's
+okay, I'll come back.
+
+399
+00:26:56,800 --> 00:26:57,926
+It's no problem.
+
+400
+00:26:58,080 --> 00:27:01,766
+See, here I am, leaving.
+Walking away now.
+
+401
+00:27:02,040 --> 00:27:03,326
+I'll see you tomorrow.
+
+402
+00:27:04,040 --> 00:27:05,087
+Mmm.
+
+403
+00:27:05,840 --> 00:27:08,923
+Maybe. Just maybe.
+
+404
+00:27:14,520 --> 00:27:15,931
+(CHEERING)
+
+405
+00:27:18,000 --> 00:27:19,411
+What did you wish for, Audrey?
+
+406
+00:27:19,640 --> 00:27:20,801
+Well, I would love to tell you,
+
+407
+00:27:20,880 --> 00:27:24,680
+but, sadly, according to the
+universal wish laws, I cannot.
+
+408
+00:27:24,800 --> 00:27:26,165
+(CHUCKLES)
+
+409
+00:27:26,240 --> 00:27:28,004
+TED: I know
+what she wished for.
+
+410
+00:27:39,680 --> 00:27:41,330
+Was it, perhaps...
+
+411
+00:27:42,840 --> 00:27:44,205
+This?
+
+412
+00:27:44,960 --> 00:27:46,291
+(ALL GASPING)
+
+413
+00:27:47,080 --> 00:27:48,411
+(CHEERING)
+
+414
+00:27:52,520 --> 00:27:54,443
+Ted, you didn't.
+
+415
+00:27:54,520 --> 00:27:57,603
+Oh, no. I totally did.
+
+416
+00:27:57,760 --> 00:28:00,525
+Happy birthday, Audrey.
+
+417
+00:28:01,560 --> 00:28:03,324
+Kiss him! Kiss him!
+
+418
+00:28:03,520 --> 00:28:04,806
+(CHUCKLES)
+
+419
+00:28:15,960 --> 00:28:17,041
+MRS.WIGGINS: Ted.
+
+420
+00:28:17,160 --> 00:28:18,446
+Ted. Tedster.
+Huh!
+
+421
+00:28:18,520 --> 00:28:21,649
+You're kissing the
+cereal again, hon. What?
+
+422
+00:28:21,800 --> 00:28:24,531
+I just...
+I like this cereal.
+
+423
+00:28:24,600 --> 00:28:25,761
+What one is this?
+Yeah!
+
+424
+00:28:25,920 --> 00:28:27,445
+Okay.
+
+425
+00:28:27,600 --> 00:28:30,126
+Well, I'll make sure to buy
+extra next time for you.
+
+426
+00:28:30,360 --> 00:28:32,931
+All right, cool. Hey, I got to run.
+I got to go do athing.
+
+427
+00:28:33,000 --> 00:28:34,604
+So, I'll see you guys.
+
+428
+00:28:34,840 --> 00:28:36,683
+Whoa! Whoa! Whoa!
+
+429
+00:28:36,760 --> 00:28:38,489
+You're not going
+anywhere, young man.
+
+430
+00:28:38,640 --> 00:28:40,847
+(SIGHS) It's Sunday. You
+know what that means?
+
+431
+00:28:41,000 --> 00:28:43,810
+Family time, and we're
+all playing board games!
+
+432
+00:28:43,880 --> 00:28:44,961
+But...
+
+433
+00:28:46,920 --> 00:28:47,967
+Hmm.
+
+434
+00:28:48,040 --> 00:28:49,371
+Mmm?
+
+435
+00:28:49,840 --> 00:28:51,126
+Oh, man.
+
+436
+00:28:51,360 --> 00:28:53,010
+Mom, seriously every turn?
+
+437
+00:28:53,080 --> 00:28:54,684
+Hey, back off!
+
+438
+00:28:56,120 --> 00:28:57,326
+Ooh!
+
+439
+00:28:57,400 --> 00:29:00,483
+No.
+Okay! Family time is over.
+
+440
+00:29:00,600 --> 00:29:03,683
+It is now personal time.
+I'll be in my room.
+
+441
+00:29:05,040 --> 00:29:07,361
+Okay, dear. Have fun.
+
+442
+00:29:08,920 --> 00:29:09,921
+(GASPS)
+
+443
+00:29:10,000 --> 00:29:12,128
+I knew I could break her.
+
+444
+00:29:12,320 --> 00:29:13,367
+Go.
+Huh?
+
+445
+00:29:13,440 --> 00:29:14,566
+Go see him!
+
+446
+00:29:14,640 --> 00:29:15,926
+Oh, yeah!
+
+447
+00:29:17,760 --> 00:29:20,206
+You rule!
+Thank you, Grammy.
+
+448
+00:29:24,840 --> 00:29:25,887
+Whoa!
+
+449
+00:29:26,160 --> 00:29:27,685
+(GROANS)
+
+450
+00:29:39,880 --> 00:29:41,723
+Hey! Ted, right?
+
+451
+00:29:42,880 --> 00:29:45,167
+Um, Mr. O'Hare?
+
+452
+00:29:45,320 --> 00:29:48,403
+So, I hear you have
+become interested in trees.
+
+453
+00:29:48,560 --> 00:29:50,164
+What's that all about?
+
+454
+00:29:50,720 --> 00:29:51,767
+Oh. Um...
+
+455
+00:29:52,720 --> 00:29:54,051
+Where did you hear that?
+
+456
+00:29:54,120 --> 00:29:55,167
+(CHUCKLES) Oh.
+
+457
+00:29:55,240 --> 00:29:56,924
+Teddy, there's not much
+that goes on in Thneedville
+
+458
+00:29:57,000 --> 00:29:58,729
+that I don't know about.
+
+459
+00:29:58,800 --> 00:30:02,486
+Here's the deal, I make a living
+selling fresh air to people.
+
+460
+00:30:02,640 --> 00:30:05,086
+Trees?
+They make it for free.
+
+461
+00:30:05,240 --> 00:30:07,891
+So, when I hear
+people talking about them,
+
+462
+00:30:07,960 --> 00:30:11,328
+I consider it kind of
+a threat to my business.
+
+463
+00:30:12,120 --> 00:30:14,088
+I don't even know
+what you're talking about.
+
+464
+00:30:14,200 --> 00:30:16,123
+You listen to me, boy.
+
+465
+00:30:16,320 --> 00:30:19,642
+Don't go poking around in
+things you don't understand
+
+466
+00:30:19,800 --> 00:30:21,802
+or I'll be your
+worst nightmare.
+
+467
+00:30:21,960 --> 00:30:24,691
+I'm Frankenstein's head
+on a spider's body!
+
+468
+00:30:25,600 --> 00:30:26,840
+Yeah, um...
+
+469
+00:30:27,920 --> 00:30:29,843
+Okay, my mom is expecting me.
+So, I'm just going to...
+
+470
+00:30:30,640 --> 00:30:34,565
+Of course, of course. Now, go
+back to your family game time.
+
+471
+00:30:35,160 --> 00:30:37,322
+Grandma just finished her turn.
+
+472
+00:30:38,200 --> 00:30:39,281
+How did you know?
+
+473
+00:30:40,160 --> 00:30:42,003
+Please. I have
+eyes everywhere.
+
+474
+00:30:46,960 --> 00:30:47,961
+Huh!
+
+475
+00:30:48,040 --> 00:30:50,407
+You got a beautiful
+town here, Ted.
+
+476
+00:30:50,480 --> 00:30:53,848
+Lots of fun stuff to occupy
+your short attention span.
+
+477
+00:30:54,080 --> 00:30:56,003
+Why, I can't
+think of any reason
+
+478
+00:30:56,160 --> 00:31:00,688
+you would ever want to
+go outside of town again.
+
+479
+00:31:00,760 --> 00:31:01,807
+Ever.
+
+480
+00:31:07,240 --> 00:31:11,290
+Okay! Good talk.
+Really good talk.
+
+481
+00:31:31,160 --> 00:31:33,640
+(PANTING)
+
+482
+00:31:35,600 --> 00:31:36,601
+Oh, no.
+
+483
+00:31:37,560 --> 00:31:38,561
+Look out!
+
+484
+00:31:41,720 --> 00:31:45,122
+Hey, man? You know, you need
+to change that door bell.
+
+485
+00:31:45,760 --> 00:31:47,842
+Oh, you missed me.
+What?
+
+486
+00:31:48,160 --> 00:31:52,131
+You're already back. Clearly,
+you missed me a little. Right?
+
+487
+00:31:52,400 --> 00:31:56,007
+No, I didn't. I'm just here
+to hear the end of the story.
+
+488
+00:31:56,080 --> 00:31:57,730
+Why are you so interested
+in trees anyway?
+
+489
+00:31:57,800 --> 00:31:59,211
+Why aren't you like other kids,
+
+490
+00:31:59,280 --> 00:32:01,521
+break dancing and
+wearing bell-bottoms,
+
+491
+00:32:01,600 --> 00:32:03,682
+and playing the Donkey Kongs?
+
+492
+00:32:03,760 --> 00:32:07,367
+(LAUGHS) Yeah, right, right.
+I don't know.
+
+493
+00:32:07,840 --> 00:32:11,925
+Uh, I just thought it would be kind
+of cool to have one, you know?
+
+494
+00:32:12,120 --> 00:32:13,246
+Huh?
+
+495
+00:32:13,320 --> 00:32:14,810
+It's a girl, isn't it?
+
+496
+00:32:15,120 --> 00:32:16,724
+What? No!
+
+497
+00:32:17,040 --> 00:32:19,611
+Really? Because when a guy
+does something stupid once,
+
+498
+00:32:19,680 --> 00:32:21,250
+well, that's because
+he's a guy.
+
+499
+00:32:21,320 --> 00:32:23,766
+But if he does
+the same stupid thing twice,
+
+500
+00:32:23,840 --> 00:32:26,491
+it's usually to
+impress some girl.
+
+501
+00:32:26,760 --> 00:32:28,410
+Hey, she is not some girl!
+
+502
+00:32:28,480 --> 00:32:31,404
+She's a woman, in high school.
+
+503
+00:32:31,560 --> 00:32:34,530
+And she loves trees.
+And I'm going to get her one.
+
+504
+00:32:34,720 --> 00:32:35,881
+Aw!
+
+505
+00:32:35,960 --> 00:32:39,806
+How nice to see someone so
+undeterred by things like reality.
+
+506
+00:32:39,920 --> 00:32:40,967
+Thank you.
+
+507
+00:32:41,040 --> 00:32:42,883
+All right,
+but where did we leave off?
+
+508
+00:32:43,080 --> 00:32:44,491
+(BUZZING)
+
+509
+00:32:49,280 --> 00:32:50,770
+(BUZZING CONTINUES)
+
+510
+00:32:51,760 --> 00:32:53,569
+(SCREAMS)
+
+511
+00:33:03,480 --> 00:33:05,767
+Now that's a Thneed.
+
+512
+00:33:05,920 --> 00:33:08,571
+Nothing unmanly
+about knitting. No, sir.
+
+513
+00:33:29,920 --> 00:33:30,967
+Look at that...
+
+514
+00:33:32,240 --> 00:33:33,241
+Oh!
+
+515
+00:33:33,320 --> 00:33:35,243
+Who taught you guys
+how to steal a bed?
+
+516
+00:33:37,480 --> 00:33:38,481
+(LAUGHS)
+
+517
+00:33:38,560 --> 00:33:39,561
+(BRAYING)
+
+518
+00:33:40,320 --> 00:33:41,526
+Shh!
+
+519
+00:33:47,080 --> 00:33:48,605
+(HUMMING)
+
+520
+00:33:54,440 --> 00:33:55,646
+(SNORING)
+
+521
+00:33:57,160 --> 00:33:59,003
+(PANTING)
+
+522
+00:34:00,480 --> 00:34:02,482
+Okay, nice and easy.
+
+523
+00:34:02,800 --> 00:34:04,086
+(SNORING)
+
+524
+00:34:09,200 --> 00:34:12,249
+Nice work, you guys. Couldn't
+have done it without you.
+
+525
+00:34:12,920 --> 00:34:13,921
+(LAUGHS)
+
+526
+00:34:14,640 --> 00:34:17,849
+You got to be kidding me.
+Can he swim?
+
+527
+00:34:18,600 --> 00:34:19,726
+Of course he can't swim!
+
+528
+00:34:20,000 --> 00:34:22,571
+Hang on, Pipsqueak!
+I'm coming to get you!
+
+529
+00:34:25,200 --> 00:34:26,440
+(MOANS)
+
+530
+00:34:27,480 --> 00:34:29,448
+Hey, you fishies!
+Stop that bed!
+
+531
+00:34:32,840 --> 00:34:33,841
+(SHIVERING)
+
+532
+00:34:33,920 --> 00:34:35,490
+Whoo! Whoo! (LAUGHS)
+
+533
+00:34:37,200 --> 00:34:38,440
+(SNORING)
+
+534
+00:34:40,320 --> 00:34:41,731
+Jump, jump!
+
+535
+00:34:42,280 --> 00:34:44,044
+Come on, get up there.
+Come on.
+
+536
+00:34:44,440 --> 00:34:46,966
+Go, go! A little bit more!
+A little bit more!
+
+537
+00:34:48,600 --> 00:34:49,647
+(EXCLAIMS IN FRUSTRATION)
+
+538
+00:34:49,720 --> 00:34:51,006
+Now what?
+
+539
+00:34:52,640 --> 00:34:53,801
+Mmm-mmm.
+
+540
+00:34:54,880 --> 00:34:56,325
+Get up there.
+
+541
+00:34:58,920 --> 00:35:00,410
+Okay, Pipsqueak,
+give me your hand.
+
+542
+00:35:00,480 --> 00:35:01,481
+Come on,
+reach out for the Lorax.
+
+543
+00:35:05,160 --> 00:35:06,366
+Where did you go?
+
+544
+00:35:09,520 --> 00:35:10,726
+Bar-ba-loots.
+
+545
+00:35:19,040 --> 00:35:20,121
+Oh, that's bad.
+
+546
+00:35:20,360 --> 00:35:22,283
+(HUMMING)
+
+547
+00:35:24,480 --> 00:35:25,925
+Hey, Beanpole, wake up!
+
+548
+00:35:30,680 --> 00:35:31,681
+(COUGHING)
+
+549
+00:35:32,720 --> 00:35:34,085
+(CHUCKLES)
+
+550
+00:35:35,000 --> 00:35:36,889
+What's happening?
+Where am I?
+
+551
+00:35:36,960 --> 00:35:40,248
+Hey! We got trouble,
+and it's coming up fast!
+
+552
+00:35:42,800 --> 00:35:43,801
+Whoo!
+
+553
+00:35:43,880 --> 00:35:45,325
+We're in a river!
+
+554
+00:35:47,880 --> 00:35:49,086
+(SCREAMING)
+
+555
+00:35:57,560 --> 00:35:58,641
+(GASPS)
+
+556
+00:36:03,000 --> 00:36:04,001
+Whew!
+
+557
+00:36:04,080 --> 00:36:05,366
+(LAUGHING)
+
+558
+00:36:08,080 --> 00:36:09,206
+Oh, no.
+
+559
+00:36:12,280 --> 00:36:13,691
+Just do something!
+
+560
+00:36:14,760 --> 00:36:16,285
+Help is on the way!
+
+561
+00:36:19,200 --> 00:36:20,770
+No, no!
+
+562
+00:36:22,320 --> 00:36:23,526
+Just a minute!
+
+563
+00:36:23,600 --> 00:36:25,250
+(GRUNTING)
+
+564
+00:36:31,040 --> 00:36:32,087
+(SCREAMS)
+
+565
+00:36:44,120 --> 00:36:45,167
+Oh, no!
+
+566
+00:36:48,760 --> 00:36:50,000
+Wake up! Wake up!
+
+567
+00:36:51,000 --> 00:36:53,048
+(EXHALING) Yuck!
+
+568
+00:36:57,960 --> 00:36:59,041
+Clear!
+
+569
+00:36:59,120 --> 00:37:00,281
+Ah!
+
+570
+00:37:01,960 --> 00:37:03,121
+(LAUGHS)
+
+571
+00:37:03,200 --> 00:37:04,690
+I was heading into the light,
+
+572
+00:37:04,760 --> 00:37:06,603
+and you pulled me
+right back and here I am!
+
+573
+00:37:06,880 --> 00:37:08,166
+You saved my life!
+
+574
+00:37:08,240 --> 00:37:11,050
+Yeah, I know. Well, no,
+it's not that big a deal.
+
+575
+00:37:11,120 --> 00:37:12,246
+It is a big deal!
+
+576
+00:37:12,440 --> 00:37:16,331
+Look, I almost went over
+that waterfall! Wait...
+
+577
+00:37:17,000 --> 00:37:19,651
+On my bed. How did my
+bed get in the river?
+
+578
+00:37:19,760 --> 00:37:22,331
+Uh... About that...
+
+579
+00:37:23,040 --> 00:37:26,806
+Actually... I put your
+bed in the water.
+
+580
+00:37:27,480 --> 00:37:28,925
+I didn't mean you any harm.
+
+581
+00:37:29,000 --> 00:37:31,401
+I just wanted to
+calmly float you away.
+
+582
+00:37:32,360 --> 00:37:34,727
+Look, everyone here
+needs the trees
+
+583
+00:37:34,800 --> 00:37:36,848
+and you're chopping them down!
+
+584
+00:37:37,520 --> 00:37:40,763
+So, we've got a big problem.
+
+585
+00:37:46,640 --> 00:37:47,687
+All right, look.
+
+586
+00:37:47,840 --> 00:37:52,004
+I hereby swear that I will
+never chop down another tree.
+
+587
+00:37:53,040 --> 00:37:54,530
+I promise.
+
+588
+00:37:55,040 --> 00:37:58,123
+Thank you. But I'm going
+to keep my eye on you.
+
+589
+00:37:58,560 --> 00:38:00,528
+Good. Now, I've got
+a big day tomorrow
+
+590
+00:38:00,600 --> 00:38:02,364
+so I'm going to get some sleep.
+
+591
+00:38:05,240 --> 00:38:07,368
+Right after I find my bed.
+
+592
+00:38:07,680 --> 00:38:08,920
+(ELECTRICITY CRACKLING)
+
+593
+00:38:14,000 --> 00:38:15,764
+(CROWING)
+
+594
+00:38:17,120 --> 00:38:18,929
+(CROWING)
+
+595
+00:38:23,360 --> 00:38:24,805
+(GRUNTS)
+
+596
+00:38:25,080 --> 00:38:27,162
+(BOTH SCREAMING)
+
+597
+00:38:27,360 --> 00:38:28,361
+Ow!
+
+598
+00:38:28,440 --> 00:38:30,522
+Okay, what are you...
+
+599
+00:38:32,160 --> 00:38:34,128
+Question, what are
+they doing here?
+
+600
+00:38:34,720 --> 00:38:38,770
+And follow up, if I may,
+what are you doing here?
+
+601
+00:38:39,600 --> 00:38:41,728
+Well, after
+the incident last night,
+
+602
+00:38:41,920 --> 00:38:44,446
+we found one of your socks
+and came here to return it.
+
+603
+00:38:44,760 --> 00:38:47,081
+But when we got here,
+you were asleep. What?
+
+604
+00:38:47,440 --> 00:38:48,566
+Ew!
+
+605
+00:38:48,640 --> 00:38:51,007
+Exactly. And sleeping
+is the body's way
+
+606
+00:38:51,080 --> 00:38:53,321
+of telling
+other people to go away.
+
+607
+00:38:53,480 --> 00:38:56,290
+I know, but you looked so cozy.
+
+608
+00:38:56,440 --> 00:39:00,126
+And it was cold outside, and we
+just fell asleep. No harm done.
+
+609
+00:39:00,200 --> 00:39:03,443
+"No harm done"?
+"No harm done"? Okay.
+
+610
+00:39:04,520 --> 00:39:08,081
+Okay, I put my lips on those.
+Well, I used to, anyway.
+
+611
+00:39:08,160 --> 00:39:09,650
+(GRUNTING)
+
+612
+00:39:10,400 --> 00:39:11,481
+Ew.
+
+613
+00:39:11,560 --> 00:39:13,801
+Did you just...
+In my bowl!
+
+614
+00:39:17,200 --> 00:39:18,531
+Why do you have one of these?
+
+615
+00:39:18,600 --> 00:39:20,841
+You don't even have a mustache.
+
+616
+00:39:22,480 --> 00:39:23,925
+Okay, that's it!
+
+617
+00:39:24,000 --> 00:39:25,923
+What? I thought
+we made a deal last night.
+
+618
+00:39:26,240 --> 00:39:27,241
+Yes, we did.
+
+619
+00:39:27,320 --> 00:39:29,607
+And I said I wouldn't
+chop down any more trees.
+
+620
+00:39:29,680 --> 00:39:31,648
+And I said I was going
+to keep an eye on you.
+
+621
+00:39:31,800 --> 00:39:33,723
+I'm starving.
+What's for breakfast?
+
+622
+00:39:36,320 --> 00:39:37,685
+Breakfast is overrated.
+
+623
+00:39:38,400 --> 00:39:39,845
+(GRUNTS)
+
+624
+00:39:39,920 --> 00:39:42,651
+You know what?
+I got work to do. Yeah.
+
+625
+00:39:42,720 --> 00:39:46,884
+I got to go into town
+and sell my Thneed.
+
+626
+00:39:46,960 --> 00:39:48,007
+(LAUGHS)
+
+627
+00:39:48,080 --> 00:39:49,650
+You chopped down
+one of my trees
+
+628
+00:39:49,720 --> 00:39:51,404
+to make that piece of garbage?
+
+629
+00:39:51,560 --> 00:39:52,607
+Look at that...
+
+630
+00:39:52,920 --> 00:39:57,130
+"Garbage"? Oh, no.
+Oh, no! You do not get it.
+
+631
+00:39:57,360 --> 00:39:59,647
+This is a revolutionary product
+
+632
+00:39:59,720 --> 00:40:02,007
+that will change
+the world as we know it.
+
+633
+00:40:02,640 --> 00:40:03,971
+It has a million uses!
+
+634
+00:40:04,720 --> 00:40:07,610
+Look at this.
+It's a swimsuit!
+
+635
+00:40:07,800 --> 00:40:10,167
+Mud tracked all over your
+floor by uninvited guests?
+
+636
+00:40:10,320 --> 00:40:13,164
+Well, the Thneed sure
+comes in handy for that!
+
+637
+00:40:14,320 --> 00:40:15,560
+But wait, there's more!
+
+638
+00:40:15,720 --> 00:40:17,245
+Thanks to its
+all-natural microfibers,
+
+639
+00:40:17,320 --> 00:40:19,687
+the Thneed is
+super-absorbent!
+
+640
+00:40:19,840 --> 00:40:21,285
+It also works as a hat.
+
+641
+00:40:22,800 --> 00:40:24,245
+Of course, you probably
+want to wring it out first.
+
+642
+00:40:24,440 --> 00:40:26,442
+Go ahead, knock yourself out.
+
+643
+00:40:27,280 --> 00:40:29,044
+But nobody is going
+to buy that thing.
+
+644
+00:40:29,120 --> 00:40:30,610
+Good to know.
+
+645
+00:40:30,680 --> 00:40:34,969
+Well, fortunately, you are not
+the target market, weirdo.
+
+646
+00:40:35,120 --> 00:40:36,485
+You're bringing a guitar?
+
+647
+00:40:36,600 --> 00:40:38,364
+Oh, yeah.
+I got a little jingle.
+
+648
+00:40:38,440 --> 00:40:40,966
+I'm gonna blow some minds,
+gonna sell some Thneeds!
+
+649
+00:40:41,040 --> 00:40:42,087
+Yeah.
+
+650
+00:40:44,160 --> 00:40:47,562
+(SINGING)<i> Everybody
+needs a Thneed</i>
+
+651
+00:40:47,640 --> 00:40:50,120
+<i>A fine thing that all people...</i>
+
+652
+00:40:51,440 --> 00:40:53,044
+MAN: Sit down, go on.
+
+653
+00:40:53,480 --> 00:40:55,881
+Unfortunately, I didn't
+sell it the first day.
+
+654
+00:40:56,000 --> 00:40:57,843
+<i>The Thneed is good</i>
+
+655
+00:40:58,080 --> 00:40:59,923
+<i>The Thneed is great...</i>
+
+656
+00:41:00,000 --> 00:41:01,081
+Hey!
+
+657
+00:41:01,480 --> 00:41:02,925
+(CHEERING)
+
+658
+00:41:04,480 --> 00:41:05,766
+Or the second day.
+
+659
+00:41:07,080 --> 00:41:08,127
+Hey!
+
+660
+00:41:08,200 --> 00:41:10,771
+<i>Or the third,
+or fourth, or fifth day.</i>
+
+661
+00:41:11,200 --> 00:41:13,885
+Okay, that one
+hit the tender spot.
+
+662
+00:41:15,040 --> 00:41:16,041
+<i>Until finally...</i>
+
+663
+00:41:16,120 --> 00:41:17,610
+That's it!
+You know what?
+
+664
+00:41:17,680 --> 00:41:20,047
+I'm done with this thing.
+
+665
+00:41:20,400 --> 00:41:21,811
+Aw.
+
+666
+00:41:22,280 --> 00:41:24,169
+My family was right.
+I quit!
+
+667
+00:41:26,520 --> 00:41:27,601
+(GRUNTS)
+
+668
+00:41:32,600 --> 00:41:34,204
+Hey. Cool hat.
+
+669
+00:41:34,480 --> 00:41:36,721
+Oh, my gosh!
+I totally want one.
+
+670
+00:41:36,880 --> 00:41:39,121
+That thing makes me
+like you more.
+
+671
+00:41:39,200 --> 00:41:40,247
+(CHUCKLES)
+
+672
+00:41:42,560 --> 00:41:43,686
+(LAUGHS)
+
+673
+00:41:47,840 --> 00:41:50,047
+Hey! Where's your Thneed,
+did you sell it?
+
+674
+00:41:50,240 --> 00:41:53,005
+Hey. No, no.
+Didn't sell it.
+
+675
+00:41:53,320 --> 00:41:55,766
+Turns out, it's ahead
+of its time, I guess.
+
+676
+00:41:55,840 --> 00:41:59,128
+Hey, you gave it your best shot.
+Right? What more can you do?
+
+677
+00:41:59,200 --> 00:42:01,123
+Come on, take a seat,
+we'll deal you in.
+
+678
+00:42:01,760 --> 00:42:02,807
+What are we playing?
+
+679
+00:42:02,880 --> 00:42:06,487
+I'm playing poker. He's playing Go Fish.
+And I think he's hungry.
+
+680
+00:42:07,960 --> 00:42:09,041
+Oh.
+
+681
+00:42:12,600 --> 00:42:14,045
+(SINGING) <i>Pancake, the pancake</i>
+
+682
+00:42:15,840 --> 00:42:16,921
+Up!
+
+683
+00:42:20,720 --> 00:42:22,927
+Who is up for ninths?
+
+684
+00:42:23,520 --> 00:42:25,761
+Ooh! Ooh! Ooh!
+Ooh! Ooh! Ooh!
+
+685
+00:42:26,880 --> 00:42:28,006
+Whoa!
+
+686
+00:42:28,080 --> 00:42:29,570
+All right, pass them over.
+
+687
+00:42:29,800 --> 00:42:31,086
+Yeah, see?
+(RUMBLING)
+
+688
+00:42:31,480 --> 00:42:33,084
+What's going on?
+
+689
+00:42:41,080 --> 00:42:43,560
+Oh, no.
+That's a lot of people.
+
+690
+00:42:50,720 --> 00:42:53,883
+(SINGING) <i>Everybody
+needs a Thneed</i>
+
+691
+00:42:54,160 --> 00:42:57,448
+<i>A fine thing
+that all people need</i>
+
+692
+00:42:57,520 --> 00:43:00,763
+<i>The Thneed is good
+The Thneed is great</i>
+
+693
+00:43:01,040 --> 00:43:05,841
+<i>Let's hope we're not too late</i>
+
+694
+00:43:07,240 --> 00:43:09,641
+<i>It's a super trendy hat</i>
+
+695
+00:43:09,720 --> 00:43:13,566
+<i>It's a tightrope for an acrobat</i>
+
+696
+00:43:13,640 --> 00:43:17,122
+<i>A net for catching butterflies</i>
+
+697
+00:43:17,400 --> 00:43:22,008
+<i>A thing we use for exercise</i>
+
+698
+00:43:23,560 --> 00:43:26,928
+<i>Everybody needs a Thneed</i>
+
+699
+00:43:27,000 --> 00:43:30,368
+<i>A fine thing
+that all people need</i>
+
+700
+00:43:30,440 --> 00:43:32,886
+<i>Everybody needs a Thneed</i>
+
+701
+00:43:32,960 --> 00:43:35,691
+Oh, yeah!
+We're in business, baby!
+
+702
+00:43:35,840 --> 00:43:38,207
+<i>We need a Thneed</i>
+
+703
+00:43:38,440 --> 00:43:42,525
+Mom? Hey, it's me! I told you
+I was going to be a success!
+
+704
+00:43:42,720 --> 00:43:45,326
+You need to bring the whole
+family here right now.
+
+705
+00:43:45,400 --> 00:43:47,448
+We're going to be rich!
+
+706
+00:43:48,120 --> 00:43:52,364
+What? I'm going to need all the
+help I can get. Don't worry.
+
+707
+00:43:53,400 --> 00:43:56,051
+GRAMMY: So, has he told you
+how to get a tree yet?
+
+708
+00:43:56,320 --> 00:43:57,765
+Actually, no.
+
+709
+00:43:57,840 --> 00:44:01,208
+But I think he's going to get
+to that part really soon.
+
+710
+00:44:02,200 --> 00:44:04,123
+Here we are.
+What?
+
+711
+00:44:04,880 --> 00:44:06,041
+I'll just be a minute.
+
+712
+00:44:08,680 --> 00:44:10,762
+Oh, wow. Hey, Audrey!
+
+713
+00:44:11,480 --> 00:44:13,323
+Oh, hi, Ted! What's up?
+
+714
+00:44:13,600 --> 00:44:16,570
+You know me, just cruising.
+Putting out the vibe.
+
+715
+00:44:16,640 --> 00:44:18,483
+Just me and my thoughts.
+
+716
+00:44:19,680 --> 00:44:21,967
+Oh, is this the girl
+you're always talking about?
+
+717
+00:44:22,040 --> 00:44:23,451
+Grandma!
+Stop making things up.
+
+718
+00:44:23,520 --> 00:44:26,091
+She's even prettier than...
+Okay, got to run! Bye.
+
+719
+00:44:28,480 --> 00:44:31,131
+Okay, Grammy,
+let's get you home!
+
+720
+00:44:37,560 --> 00:44:38,686
+(GASPS)
+
+721
+00:44:51,520 --> 00:44:52,681
+(GRUNTS)
+
+722
+00:45:01,240 --> 00:45:02,321
+Yeah!
+
+723
+00:45:04,320 --> 00:45:05,367
+Whoa!
+
+724
+00:45:05,440 --> 00:45:07,363
+I'm so sorry. So sorry.
+
+725
+00:45:08,640 --> 00:45:09,687
+Did not wanna see that.
+
+726
+00:45:09,840 --> 00:45:10,921
+Whoa!
+
+727
+00:45:14,680 --> 00:45:15,886
+Whoa!
+
+728
+00:45:19,560 --> 00:45:20,846
+Whoa-ho-ho!
+
+729
+00:45:24,280 --> 00:45:25,611
+(SCREAMING)
+
+730
+00:45:27,160 --> 00:45:28,286
+Hey!
+
+731
+00:45:33,480 --> 00:45:34,561
+Hey, I'm back.
+
+732
+00:45:34,640 --> 00:45:35,926
+What have you got there?
+
+733
+00:45:36,280 --> 00:45:37,327
+Yes!
+
+734
+00:45:40,680 --> 00:45:41,806
+Whoa!
+
+735
+00:45:44,520 --> 00:45:45,885
+Thank you, Ted.
+
+736
+00:45:48,200 --> 00:45:49,201
+(GULPS)
+
+737
+00:45:49,280 --> 00:45:50,281
+Now, picture this.
+
+738
+00:45:50,920 --> 00:45:55,687
+<i>Sun shining,
+a blue sky, a perfect day.</i>
+
+739
+00:45:59,520 --> 00:46:02,285
+<i>It was all downhill from there.</i>
+
+740
+00:46:02,360 --> 00:46:03,600
+(THUDDING)
+
+741
+00:46:08,800 --> 00:46:10,484
+(MUSICAL HONKING)
+
+742
+00:46:12,440 --> 00:46:13,487
+(SCREAMING)
+
+743
+00:46:19,280 --> 00:46:20,486
+Whoa!
+
+744
+00:46:33,040 --> 00:46:34,690
+What a dump.
+
+745
+00:46:34,840 --> 00:46:36,968
+Hey, Aunt Grizelda!
+
+746
+00:46:38,760 --> 00:46:40,728
+Hey, Chet, check this out!
+
+747
+00:46:40,800 --> 00:46:41,801
+Go long!
+
+748
+00:46:42,480 --> 00:46:44,289
+No, Brett,
+that's actually not a...
+
+749
+00:46:44,360 --> 00:46:45,361
+Okay.
+
+750
+00:46:45,440 --> 00:46:47,044
+Go long! Go long!
+
+751
+00:46:47,120 --> 00:46:48,531
+I got it! I got it!
+
+752
+00:46:49,240 --> 00:46:50,730
+(GROANS)
+
+753
+00:46:51,160 --> 00:46:52,161
+Got it!
+
+754
+00:46:52,320 --> 00:46:53,367
+(LAUGHS)
+
+755
+00:46:53,440 --> 00:46:55,488
+He totally ran into that tree!
+
+756
+00:46:56,200 --> 00:46:57,247
+Ow!
+
+757
+00:46:58,200 --> 00:47:00,123
+Oncie, is that you?
+
+758
+00:47:00,200 --> 00:47:01,440
+Mom!
+
+759
+00:47:01,520 --> 00:47:06,048
+There he is! There's my big,
+suddenly successful son!
+
+760
+00:47:07,920 --> 00:47:10,571
+We always knew you would
+make it, Oncie. Right?
+
+761
+00:47:11,240 --> 00:47:13,561
+Hey! I love this guy!
+
+762
+00:47:13,920 --> 00:47:16,844
+But you always said I wouldn't
+amount to anything, remember?
+
+763
+00:47:17,040 --> 00:47:19,805
+Hush your mouth. I was just
+trying to motivate you!
+
+764
+00:47:20,000 --> 00:47:21,764
+I am really glad
+that you clarified that
+
+765
+00:47:21,840 --> 00:47:24,730
+because it actually hurt my
+feelings for a really long time.
+
+766
+00:47:25,320 --> 00:47:28,961
+Anyway, you're all here, you all
+work for me, and that's cool.
+
+767
+00:47:29,040 --> 00:47:30,405
+So, let's get to work.
+
+768
+00:47:31,040 --> 00:47:32,963
+Brett, Chet, set up the RV!
+
+769
+00:47:33,040 --> 00:47:35,407
+Would you stop
+throwing that bear?
+
+770
+00:47:37,560 --> 00:47:38,641
+(GROANS)
+
+771
+00:48:02,440 --> 00:48:03,680
+(PROTESTING)
+
+772
+00:48:03,760 --> 00:48:07,481
+Time out. Back up. Stop. Don't move an inch.
+Nobody's moving in here.
+
+773
+00:48:07,640 --> 00:48:08,721
+You got to go. Goodbye.
+
+774
+00:48:09,040 --> 00:48:12,203
+So, who invited
+the giant, furry peanut?
+
+775
+00:48:12,320 --> 00:48:13,446
+You calling me a peanut, huh?
+
+776
+00:48:13,520 --> 00:48:14,726
+I'll go right up your nose!
+
+777
+00:48:15,800 --> 00:48:17,245
+Whoa! Whoa! Whoa!
+
+778
+00:48:17,320 --> 00:48:18,367
+You wouldn't hit a woman.
+
+779
+00:48:19,160 --> 00:48:20,605
+That's a woman?
+
+780
+00:48:20,960 --> 00:48:23,281
+Okay.
+Everyone, cool it.
+
+781
+00:48:23,360 --> 00:48:25,442
+Let's not get off
+on the wrong foot here.
+
+782
+00:48:25,520 --> 00:48:28,569
+Um, family, this is my friend...
+Acquaintance.
+
+783
+00:48:28,640 --> 00:48:32,281
+Yeah, acquaintance. Very good
+acquaintance, the Lorax.
+
+784
+00:48:32,440 --> 00:48:34,886
+He speaks for the trees.
+That's right.
+
+785
+00:48:35,040 --> 00:48:37,646
+And on behalf
+of the trees, get out!
+
+786
+00:48:37,720 --> 00:48:38,801
+(EXCLAIMS)
+
+787
+00:48:38,880 --> 00:48:43,329
+Will you just be nice!
+This is my family.
+
+788
+00:48:43,440 --> 00:48:44,441
+And I'm going to
+need their help
+
+789
+00:48:44,520 --> 00:48:46,761
+if my company is
+going to get bigger. Okay?
+
+790
+00:48:47,000 --> 00:48:48,081
+Bigger?
+
+791
+00:48:48,320 --> 00:48:51,449
+Yeah, this isn't some
+rinky-dink operation any more.
+
+792
+00:48:51,600 --> 00:48:53,682
+I got plans. Big plans!
+
+793
+00:48:53,840 --> 00:48:58,289
+A vision of a world filled with Thneeds.
+It's going to be huge!
+
+794
+00:48:59,040 --> 00:49:00,201
+(SIGHS)
+
+795
+00:49:00,280 --> 00:49:01,645
+Which way does a tree fall?
+
+796
+00:49:02,160 --> 00:49:03,571
+Uh, down?
+
+797
+00:49:04,280 --> 00:49:06,487
+A tree falls the way it leans.
+
+798
+00:49:07,120 --> 00:49:09,646
+Be careful which way you lean.
+
+799
+00:49:19,480 --> 00:49:22,211
+I mean, look at this.
+It's amazing.
+
+800
+00:49:23,000 --> 00:49:24,923
+I am so proud of me.
+
+801
+00:49:25,480 --> 00:49:28,643
+Oncie, we've got us
+a little problem.
+
+802
+00:49:29,080 --> 00:49:30,127
+Problem?
+
+803
+00:49:30,200 --> 00:49:31,361
+Mmm-hmm.
+
+804
+00:49:31,440 --> 00:49:34,489
+See, we're not making
+Thneeds fast enough.
+
+805
+00:49:34,680 --> 00:49:37,889
+Harvesting the tufts
+takes too long!
+
+806
+00:49:45,640 --> 00:49:47,404
+Well, what else can we do?
+
+807
+00:49:47,560 --> 00:49:51,565
+Well, and this just came to me,
+
+808
+00:49:51,720 --> 00:49:54,690
+we could always start
+chopping down the trees.
+
+809
+00:49:55,280 --> 00:49:56,406
+What?
+
+810
+00:49:56,640 --> 00:49:59,325
+Now you're thinking.
+That would speed things up!
+
+811
+00:49:59,600 --> 00:50:01,045
+But...
+No "but" s, Oncie.
+
+812
+00:50:01,120 --> 00:50:02,531
+You're running a business now.
+
+813
+00:50:02,720 --> 00:50:04,404
+You have to do what's
+best for the company,
+
+814
+00:50:04,480 --> 00:50:05,970
+and your momma.
+
+815
+00:50:07,560 --> 00:50:11,531
+Well, I guess it couldn't hurt
+to chop down a few trees.
+
+816
+00:50:12,840 --> 00:50:15,889
+You've made me so proud, Oncie.
+Come here!
+
+817
+00:50:16,120 --> 00:50:18,646
+Hey! I love this guy!
+
+818
+00:50:22,480 --> 00:50:23,606
+(THUDDING)
+
+819
+00:50:28,000 --> 00:50:31,243
+No! No, no, no!
+Stop it! Please, stop.
+
+820
+00:50:31,760 --> 00:50:34,411
+Take that, you stupid tree!
+
+821
+00:50:39,440 --> 00:50:41,408
+Where do you
+think you're going?
+
+822
+00:50:42,000 --> 00:50:44,685
+Excuse me, sir. I need
+to talk with your boss.
+
+823
+00:50:46,000 --> 00:50:47,923
+Oh, I'm sorry,
+
+824
+00:50:48,080 --> 00:50:51,243
+but Mr. Once-ler's
+not seeing anyone right now.
+
+825
+00:50:51,320 --> 00:50:52,560
+Yeah, well,
+he'll see me. So...
+
+826
+00:50:52,640 --> 00:50:54,085
+Hey, keep your paws off me!
+
+827
+00:50:54,240 --> 00:50:56,083
+Give me a reason, Shorty.
+
+828
+00:50:56,160 --> 00:50:57,810
+Hey, you broke your promise.
+
+829
+00:50:57,880 --> 00:50:59,211
+You're better than this.
+
+830
+00:50:59,400 --> 00:51:02,006
+You gotta stop!
+This is bad!
+
+831
+00:51:02,360 --> 00:51:04,840
+Have a nice day!
+
+832
+00:51:04,920 --> 00:51:06,331
+(SCREAMS)
+
+833
+00:51:08,280 --> 00:51:09,281
+Bad?
+
+834
+00:51:09,440 --> 00:51:12,649
+I'm not bad, I'm the good guy here.
+He just doesn't get it.
+
+835
+00:51:13,160 --> 00:51:14,605
+Do you think I'm bad?
+(QUACKS)
+
+836
+00:51:14,920 --> 00:51:16,160
+Thank you!
+
+837
+00:51:16,240 --> 00:51:19,050
+I mean, something good
+finally happens to me,
+
+838
+00:51:19,120 --> 00:51:22,203
+and he just has to come along
+and rain on my parade.
+
+839
+00:51:22,440 --> 00:51:23,771
+What's his problem?
+
+840
+00:51:24,360 --> 00:51:25,441
+See?
+
+841
+00:51:28,440 --> 00:51:30,602
+Yeah, bad! Right.
+
+842
+00:51:41,720 --> 00:51:44,291
+(SINGING) <i>How bad can I be?</i>
+
+843
+00:51:44,360 --> 00:51:46,362
+<i>I'm just doin'
+what comes naturally</i>
+
+844
+00:51:46,440 --> 00:51:48,761
+<i>How bad can I be?</i>
+
+845
+00:51:49,080 --> 00:51:51,082
+<i>I'm just following my destiny</i>
+
+846
+00:51:51,160 --> 00:51:53,527
+<i>How bad can I be?</i>
+
+847
+00:51:53,600 --> 00:51:55,807
+<i>I'm just doin'
+what comes naturally</i>
+
+848
+00:51:55,880 --> 00:51:58,121
+<i>How bad can I be?</i>
+
+849
+00:51:58,200 --> 00:52:00,168
+<i>How bad can I possibly be?</i>
+
+850
+00:52:00,400 --> 00:52:01,606
+<i>Well, there's
+a principle in nature</i>
+
+851
+00:52:01,680 --> 00:52:02,886
+<i>Principle in nature</i>
+
+852
+00:52:02,960 --> 00:52:04,928
+<i>That almost
+every creature knows</i>
+
+853
+00:52:05,200 --> 00:52:06,326
+<i>Called survival of the fittest</i>
+
+854
+00:52:06,400 --> 00:52:07,526
+<i>Survival of the fittest</i>
+
+855
+00:52:07,600 --> 00:52:10,080
+<i>And check it,
+this is how it goes</i>
+
+856
+00:52:10,160 --> 00:52:12,288
+<i>The animal that wins
+gotta scratch and fight</i>
+
+857
+00:52:12,360 --> 00:52:14,408
+<i>And claw and bite and punch</i>
+
+858
+00:52:14,640 --> 00:52:16,961
+<i>And the animal that doesn't
+Well, the animal that doesn't</i>
+
+859
+00:52:17,040 --> 00:52:21,602
+<i>Winds up someone else's
+La-la-la-la lunch</i>
+
+860
+00:52:21,960 --> 00:52:23,962
+<i>Munch, munch, munch, munch,
+munch I'm just sayin'</i>
+
+861
+00:52:24,040 --> 00:52:26,520
+<i>How bad can I be?</i>
+
+862
+00:52:26,680 --> 00:52:28,728
+<i>I'm just doin'
+what comes naturally</i>
+
+863
+00:52:28,800 --> 00:52:31,121
+<i>How bad can I be?</i>
+
+864
+00:52:31,360 --> 00:52:33,362
+<i>I'm just following my destiny</i>
+
+865
+00:52:33,440 --> 00:52:36,011
+<i>How bad can I be?</i>
+
+866
+00:52:36,080 --> 00:52:38,128
+<i>I'm just doin'
+what comes naturally</i>
+
+867
+00:52:38,200 --> 00:52:40,441
+<i>How bad can I be?</i>
+
+868
+00:52:40,560 --> 00:52:42,688
+<i>How bad can I possibly be?</i>
+
+869
+00:52:42,760 --> 00:52:44,171
+<i>There's a principle in business</i>
+
+870
+00:52:44,240 --> 00:52:45,241
+<i>Principle in business</i>
+
+871
+00:52:45,320 --> 00:52:47,209
+<i>That everybody knows is sound</i>
+
+872
+00:52:47,440 --> 00:52:49,886
+<i>It says the people with the
+money People with the money</i>
+
+873
+00:52:49,960 --> 00:52:52,088
+<i>Make this
+ever-loving world go round</i>
+
+874
+00:52:52,200 --> 00:52:54,601
+<i>So I'm biggering my company
+I'm biggering my factory</i>
+
+875
+00:52:54,680 --> 00:52:55,841
+<i>I'm biggering my corporate sign</i>
+
+876
+00:52:55,920 --> 00:52:56,967
+<i>Bigger, bigger!</i>
+
+877
+00:52:57,040 --> 00:52:59,441
+<i>Everybody out there
+You take care of yours</i>
+
+878
+00:53:00,240 --> 00:53:04,165
+<i>I'll take care of
+mine-mine-mine-mine-mine</i>
+
+879
+00:53:04,240 --> 00:53:05,480
+<i>Shake that bottom line</i>
+
+880
+00:53:05,600 --> 00:53:07,489
+<i>Let me hear you
+say Smogulous Smoke!</i>
+
+881
+00:53:07,560 --> 00:53:08,686
+<i>Smogulous Smoke!</i>
+
+882
+00:53:08,800 --> 00:53:09,881
+<i>Schloppity-Schlopp!</i>
+
+883
+00:53:09,960 --> 00:53:10,961
+<i>Schloppity-Schlopp!</i>
+
+884
+00:53:11,040 --> 00:53:14,169
+<i>Complain all you want It's never,
+ever, ever, ever gonna stop</i>
+
+885
+00:53:14,280 --> 00:53:15,611
+<i>Stop!</i>
+
+886
+00:53:15,680 --> 00:53:18,081
+<i>Come on,
+how bad can I possibly be?</i>
+
+887
+00:53:18,160 --> 00:53:20,481
+<i>How bad can I be?</i>
+
+888
+00:53:20,760 --> 00:53:22,762
+<i>I'm just building the economy</i>
+
+889
+00:53:22,840 --> 00:53:25,366
+<i>How bad can I be?</i>
+
+890
+00:53:25,440 --> 00:53:27,442
+<i>Just look at me
+petting this puppy</i>
+
+891
+00:53:27,520 --> 00:53:29,807
+<i>How bad can I be?</i>
+
+892
+00:53:29,880 --> 00:53:32,201
+<i>A portion of proceeds
+goes to charity</i>
+
+893
+00:53:32,280 --> 00:53:34,487
+<i>How bad can I be?</i>
+
+894
+00:53:34,560 --> 00:53:37,404
+<i>How bad could I possibly be?
+Let's see!</i>
+
+895
+00:53:39,240 --> 00:53:41,720
+<i>All the customers are buying</i>
+
+896
+00:53:43,960 --> 00:53:46,611
+<i>And the money's multiplying</i>
+
+897
+00:53:48,720 --> 00:53:50,961
+<i>And the PR people are lying</i>
+
+898
+00:53:53,400 --> 00:53:56,051
+<i>And the lawyers are denying</i>
+
+899
+00:53:58,120 --> 00:54:00,441
+<i>Who cares if
+a few trees are dying?</i>
+
+900
+00:54:02,880 --> 00:54:04,962
+<i>This is all so gratifying!</i>
+
+901
+00:54:05,120 --> 00:54:07,327
+<i>How bad?</i>
+
+902
+00:54:07,480 --> 00:54:12,520
+<i>How bad can this possibly be?</i>
+
+903
+00:54:28,360 --> 00:54:29,850
+(COUGHING)
+
+904
+00:54:52,160 --> 00:54:53,366
+So, how are things?
+
+905
+00:54:54,080 --> 00:54:55,889
+What are you doing here?
+
+906
+00:54:56,160 --> 00:54:59,721
+Happy yet? You fill that
+hole deep down inside you?
+
+907
+00:54:59,840 --> 00:55:01,763
+Or do you still need more?
+
+908
+00:55:01,840 --> 00:55:04,446
+Look, if you've got a problem
+with what I'm doing,
+
+909
+00:55:04,800 --> 00:55:09,203
+why haven't you used your
+quote-unquote powers to stop me?
+
+910
+00:55:11,000 --> 00:55:13,571
+I told you,
+that's not how it works.
+
+911
+00:55:13,760 --> 00:55:16,570
+Right, I forgot.
+You're a fraud.
+
+912
+00:55:16,800 --> 00:55:19,371
+I need you
+to get out. Now!
+
+913
+00:55:20,240 --> 00:55:22,288
+Why? Do I make
+you uncomfortable?
+
+914
+00:55:22,360 --> 00:55:24,169
+Remind you of
+the promises you made?
+
+915
+00:55:24,560 --> 00:55:26,130
+The man you used to be?
+
+916
+00:55:26,200 --> 00:55:27,201
+You know what?
+
+917
+00:55:27,280 --> 00:55:30,602
+You can just shut your mustache.
+My conscience is clear.
+
+918
+00:55:30,840 --> 00:55:32,365
+I have done nothing illegal.
+
+919
+00:55:32,440 --> 00:55:34,920
+I have my rights, and I
+intend to keep on biggering
+
+920
+00:55:35,040 --> 00:55:38,044
+and biggering, and turning more
+Truff ula trees into Thneeds.
+
+921
+00:55:39,320 --> 00:55:42,164
+And nothing is
+going to stop me!
+
+922
+00:55:42,240 --> 00:55:43,605
+(ENGINE REVVING)
+
+923
+00:55:57,880 --> 00:55:59,644
+THE LORAX: Well, that's it.
+
+924
+00:55:59,800 --> 00:56:01,768
+The very last one.
+
+925
+00:56:02,760 --> 00:56:05,161
+That may stop you.
+
+926
+00:56:24,520 --> 00:56:27,091
+Somebody sure made
+a bundle on that thing.
+
+927
+00:56:27,160 --> 00:56:30,448
+I wonder what the next million
+dollar invention's going to be.
+
+928
+00:56:30,520 --> 00:56:32,010
+(COUGHS)
+
+929
+00:56:36,080 --> 00:56:39,004
+Yeah, I wonder...
+
+930
+00:56:49,280 --> 00:56:52,807
+Son, you have let me down.
+
+931
+00:56:52,960 --> 00:56:55,725
+Brett, you are now
+my favorite child.
+
+932
+00:57:14,080 --> 00:57:16,082
+Hey, look,
+I don't want any trouble.
+
+933
+00:57:16,320 --> 00:57:20,086
+And you won't get any.
+Not from them.
+
+934
+00:57:21,080 --> 00:57:23,845
+Thanks to you and your hacking,
+and smogging and glupping,
+
+935
+00:57:23,920 --> 00:57:25,843
+they can't live here any more.
+
+936
+00:57:33,800 --> 00:57:35,290
+So, I'm sending them off.
+
+937
+00:57:35,440 --> 00:57:36,851
+Hopefully,
+they'll be able to find
+
+938
+00:57:36,920 --> 00:57:38,763
+a better place
+out there somewhere.
+
+939
+00:57:42,520 --> 00:57:43,567
+Melvin?
+
+940
+00:57:45,280 --> 00:57:46,930
+Melvin...
+
+941
+00:57:47,920 --> 00:57:49,206
+Hey, Pipsqueak...
+
+942
+00:57:53,240 --> 00:57:54,401
+Hey...
+
+943
+00:59:03,480 --> 00:59:05,960
+So, this is
+really all your fault.
+
+944
+00:59:06,040 --> 00:59:07,883
+You destroyed everything.
+
+945
+00:59:08,600 --> 00:59:09,886
+Yes.
+
+946
+00:59:10,080 --> 00:59:12,242
+And each day
+since the Lorax left,
+
+947
+00:59:12,320 --> 00:59:15,369
+I've sat here regretting
+everything I've done,
+
+948
+00:59:15,520 --> 00:59:19,684
+staring at that word, "unless,"
+
+949
+00:59:20,440 --> 00:59:23,284
+and wondering what it meant.
+
+950
+00:59:23,440 --> 00:59:25,124
+But now I'm thinking...
+
+951
+00:59:25,520 --> 00:59:26,567
+Well, maybe you're the reason
+
+952
+00:59:26,640 --> 00:59:28,847
+the Lorax left that word there.
+
+953
+00:59:28,920 --> 00:59:32,049
+Me? Why would he
+leave that for me?
+
+954
+00:59:32,240 --> 00:59:35,562
+Because unless someone like
+you cares a whole awful lot,
+
+955
+00:59:35,840 --> 00:59:37,763
+nothing is going to get better.
+
+956
+00:59:38,440 --> 00:59:40,124
+It's not.
+
+957
+00:59:57,640 --> 00:59:59,768
+The last Truff ula seed.
+
+958
+01:00:01,040 --> 01:00:03,122
+You need to plant it, Ted.
+
+959
+01:00:03,400 --> 01:00:06,483
+Yeah, but, nobody cares
+about trees any more.
+
+960
+01:00:06,680 --> 01:00:07,920
+Then make them care.
+
+961
+01:00:08,200 --> 01:00:11,329
+Plant the seed in the middle of
+town, where everyone can see.
+
+962
+01:00:11,720 --> 01:00:13,848
+Change the way things are.
+
+963
+01:00:14,080 --> 01:00:16,447
+I know it may seem
+small and insignificant,
+
+964
+01:00:16,520 --> 01:00:18,727
+but it's not about what it is,
+
+965
+01:00:19,000 --> 01:00:20,968
+it's about what it can become.
+
+966
+01:00:21,160 --> 01:00:22,446
+That's not just a seed,
+
+967
+01:00:23,080 --> 01:00:25,481
+any more than
+you're just a boy.
+
+968
+01:00:33,400 --> 01:00:34,606
+I won't let you down.
+
+969
+01:00:36,360 --> 01:00:37,805
+I know.
+
+970
+01:00:57,440 --> 01:00:58,487
+(MEOWING)
+
+971
+01:01:18,760 --> 01:01:19,761
+Hey, Audrey!
+
+972
+01:01:20,200 --> 01:01:21,326
+Audrey!
+
+973
+01:01:22,280 --> 01:01:23,281
+Ted?
+
+974
+01:01:23,360 --> 01:01:25,442
+What are you doing?
+Meet me at my house.
+
+975
+01:01:25,520 --> 01:01:26,726
+Wait, but...
+
+976
+01:01:26,800 --> 01:01:28,325
+My house, okay?
+
+977
+01:01:30,120 --> 01:01:31,724
+Got to plant the seed.
+
+978
+01:01:31,800 --> 01:01:34,246
+Okay, we're going
+to need water.
+
+979
+01:01:34,760 --> 01:01:36,285
+And uh, something to dig with.
+
+980
+01:01:36,560 --> 01:01:38,244
+Um, what do I have...
+Ted?
+
+981
+01:01:38,520 --> 01:01:40,443
+Mom, I'm busy, Mom.
+
+982
+01:01:40,760 --> 01:01:42,285
+Theodore Wiggins,
+get down here right now,
+
+983
+01:01:42,360 --> 01:01:44,283
+and I am not kidding with you!
+
+984
+01:01:50,600 --> 01:01:52,648
+Ted, I would like
+you to meet Mr. O'Hare,
+
+985
+01:01:52,720 --> 01:01:55,087
+the most powerful man in town.
+
+986
+01:01:55,200 --> 01:01:56,361
+(LAUGHS)
+
+987
+01:01:56,440 --> 01:01:57,885
+There he is!
+
+988
+01:01:58,120 --> 01:01:59,326
+Hello, Ted.
+
+989
+01:01:59,440 --> 01:02:01,169
+Uh...
+
+990
+01:02:01,240 --> 01:02:03,891
+Hi. Isn't he clever, Mr. O'Hare?
+
+991
+01:02:04,440 --> 01:02:06,602
+He knows his own
+name and everything.
+
+992
+01:02:08,200 --> 01:02:11,329
+You know what I would love
+right now, Mrs. Wiggins?
+
+993
+01:02:11,400 --> 01:02:13,323
+A delicious cookie.
+
+994
+01:02:13,400 --> 01:02:14,561
+(LAUGHS)
+
+995
+01:02:15,080 --> 01:02:16,081
+Wonderful.
+
+996
+01:02:16,160 --> 01:02:18,083
+Teddy and I'll
+stay here and talk.
+
+997
+01:02:18,160 --> 01:02:20,766
+Sure, why don't you go
+ahead and adopt him?
+
+998
+01:02:21,400 --> 01:02:24,722
+I'm just kidding. That was a joke.
+I was just joking.
+
+999
+01:02:25,760 --> 01:02:27,171
+I'll get your cookie.
+
+1000
+01:02:27,600 --> 01:02:28,647
+(LAUGHS)
+
+1001
+01:02:28,840 --> 01:02:30,444
+I know you have it, Ted.
+
+1002
+01:02:30,520 --> 01:02:32,648
+So, let's put an end
+to this nonsense, shall we?
+
+1003
+01:02:34,160 --> 01:02:35,286
+Hand it over.
+
+1004
+01:02:35,400 --> 01:02:36,561
+I'm sorry...
+
+1005
+01:02:36,960 --> 01:02:38,769
+I don't know what
+you're talking about.
+
+1006
+01:02:38,960 --> 01:02:40,564
+Really? Well, then...
+
+1007
+01:02:40,720 --> 01:02:43,087
+I guess you wouldn't mind
+us checking your room.
+
+1008
+01:02:43,200 --> 01:02:44,247
+No, no, no!
+
+1009
+01:02:44,320 --> 01:02:46,004
+Morty! McGurk!
+Find the seed!
+
+1010
+01:02:46,080 --> 01:02:47,320
+No, you can't go up there!
+
+1011
+01:02:47,400 --> 01:02:48,925
+Guys, this is
+ridiculous. Stop!
+
+1012
+01:02:50,760 --> 01:02:51,807
+Hey!
+
+1013
+01:02:52,200 --> 01:02:53,725
+No, you can't come in my room!
+
+1014
+01:02:55,040 --> 01:02:56,087
+Find it!
+
+1015
+01:02:56,160 --> 01:02:57,286
+(SCREAMING)
+
+1016
+01:03:01,840 --> 01:03:03,046
+Find it!
+
+1017
+01:03:03,840 --> 01:03:05,126
+What is going on here?
+
+1018
+01:03:05,280 --> 01:03:08,762
+This doesn't involve you!
+Get back downstairs!
+
+1019
+01:03:08,840 --> 01:03:10,126
+Excuse me, down there!
+
+1020
+01:03:10,200 --> 01:03:12,407
+I don't care who you are,
+you little crazy baby-man!
+
+1021
+01:03:12,560 --> 01:03:15,609
+Get out of my house now.
+This is outrageous.
+
+1022
+01:03:15,840 --> 01:03:18,047
+Fine. Sorry.
+
+1023
+01:03:18,360 --> 01:03:21,204
+Must have been a misunderstanding.
+We'll be leaving now.
+
+1024
+01:03:21,360 --> 01:03:23,966
+And my apologies, Ted.
+
+1025
+01:03:26,520 --> 01:03:27,806
+You be safe.
+
+1026
+01:03:30,360 --> 01:03:31,771
+Mind telling me
+what's going on here?
+
+1027
+01:03:31,840 --> 01:03:33,524
+The seed! Where is it?
+
+1028
+01:03:33,600 --> 01:03:34,681
+Seed?
+
+1029
+01:03:36,000 --> 01:03:37,047
+Where's Grammy?
+
+1030
+01:03:39,960 --> 01:03:40,961
+It's alive!
+
+1031
+01:03:43,680 --> 01:03:46,490
+I remember you.
+
+1032
+01:03:47,320 --> 01:03:49,084
+Ted, what...
+
+1033
+01:03:56,760 --> 01:03:57,841
+Audrey!
+
+1034
+01:04:00,120 --> 01:04:02,202
+Hey, did you want to...
+Well, okay!
+
+1035
+01:04:03,160 --> 01:04:05,083
+Ted, what is this about?
+
+1036
+01:04:05,400 --> 01:04:07,209
+It's about this.
+
+1037
+01:04:07,800 --> 01:04:08,961
+Wait, wait, wait.
+
+1038
+01:04:09,120 --> 01:04:11,726
+Is that... Yes. The
+last Truff ula seed.
+
+1039
+01:04:11,880 --> 01:04:13,803
+And you're going to help me plant
+it right in the middle of town
+
+1040
+01:04:13,880 --> 01:04:15,609
+where everyone can see it.
+
+1041
+01:04:15,920 --> 01:04:17,570
+I could just
+kiss you right now!
+
+1042
+01:04:21,400 --> 01:04:22,447
+We don't have time for that.
+
+1043
+01:04:22,720 --> 01:04:24,529
+I don't know,
+we have a little time.
+
+1044
+01:04:26,000 --> 01:04:28,526
+But, you know what, let's just go.
+Let's go Forget about it.
+
+1045
+01:04:55,320 --> 01:04:56,810
+Maniac!
+Hey!
+
+1046
+01:04:59,040 --> 01:05:00,087
+Ah!
+
+1047
+01:05:02,160 --> 01:05:03,161
+Here it comes!
+
+1048
+01:05:03,640 --> 01:05:04,687
+(SCREAMS)
+
+1049
+01:05:06,800 --> 01:05:07,961
+I'm going for it.
+
+1050
+01:05:13,040 --> 01:05:14,041
+(SCREAMS)
+
+1051
+01:05:25,240 --> 01:05:26,651
+Oh, hello!
+
+1052
+01:05:26,720 --> 01:05:27,926
+(LAUGHING)
+
+1053
+01:05:39,160 --> 01:05:41,288
+Ted, big scary blimp coming.
+
+1054
+01:05:43,080 --> 01:05:44,241
+(EVIL LAUGH)
+
+1055
+01:05:52,480 --> 01:05:53,527
+Whoa!
+
+1056
+01:05:54,040 --> 01:05:56,122
+<i>You won't get away
+with this, boy!</i>
+
+1057
+01:05:56,600 --> 01:05:57,647
+Bam!
+
+1058
+01:06:07,680 --> 01:06:09,409
+<i>Go faster, you idiot!</i>
+
+1059
+01:06:10,400 --> 01:06:11,447
+Yeah!
+
+1060
+01:06:11,800 --> 01:06:13,564
+Step on it, Ted!
+
+1061
+01:06:14,160 --> 01:06:15,286
+Whoa!
+
+1062
+01:06:24,120 --> 01:06:25,884
+You're fired!
+
+1063
+01:06:26,480 --> 01:06:29,006
+Whoa! Ted, look out!
+
+1064
+01:06:32,480 --> 01:06:35,370
+Nobody beats Aloysius O...
+Ted...
+
+1065
+01:06:38,680 --> 01:06:40,364
+(MUZAK PLAYING)
+
+1066
+01:06:46,360 --> 01:06:47,771
+This is not good.
+
+1067
+01:06:47,920 --> 01:06:49,729
+How's it doing?
+
+1068
+01:06:56,440 --> 01:06:57,487
+Whoa-ho-ho!
+
+1069
+01:06:58,960 --> 01:06:59,961
+(LAUGHS)
+
+1070
+01:07:00,040 --> 01:07:01,041
+Loser!
+
+1071
+01:07:01,120 --> 01:07:03,043
+Oh, really?
+
+1072
+01:07:04,600 --> 01:07:06,090
+Oh, no. The seed!
+
+1073
+01:07:09,080 --> 01:07:10,411
+Get that seed!
+
+1074
+01:07:16,760 --> 01:07:18,489
+Hang on! Here we go!
+
+1075
+01:07:18,560 --> 01:07:19,607
+(SCREAMS)
+
+1076
+01:07:21,440 --> 01:07:22,487
+Grammy!
+
+1077
+01:07:30,360 --> 01:07:32,840
+Seriously, how cool
+is your grandma?
+
+1078
+01:07:36,600 --> 01:07:37,647
+(GROANS)
+
+1079
+01:07:39,960 --> 01:07:41,007
+No!
+
+1080
+01:07:44,440 --> 01:07:45,487
+Come on!
+
+1081
+01:07:46,200 --> 01:07:47,281
+Yeah, that's right.
+
+1082
+01:07:47,760 --> 01:07:48,807
+There it is!
+
+1083
+01:07:57,720 --> 01:08:00,849
+Hey! Watch the road,
+you meathead!
+
+1084
+01:08:00,960 --> 01:08:02,041
+Ah!
+
+1085
+01:08:07,840 --> 01:08:08,841
+Hey, ow, ow!
+
+1086
+01:08:09,600 --> 01:08:10,761
+Oh, come on!
+
+1087
+01:08:20,320 --> 01:08:21,401
+What the...
+
+1088
+01:08:22,800 --> 01:08:25,087
+Get it unstuck, get it unstuck!
+
+1089
+01:08:27,160 --> 01:08:28,764
+Bring it on, Teddy!
+
+1090
+01:08:29,840 --> 01:08:31,444
+You don't have the guts!
+
+1091
+01:08:32,120 --> 01:08:33,167
+Ted!
+
+1092
+01:08:40,400 --> 01:08:41,765
+Grammy!
+
+1093
+01:08:47,040 --> 01:08:48,041
+Whoo-hoo!
+Yes!
+
+1094
+01:08:50,720 --> 01:08:51,767
+Hey, hey, hey!
+
+1095
+01:08:51,920 --> 01:08:53,365
+Hey! It's Mr. O...
+
+1096
+01:08:55,640 --> 01:08:57,130
+Take that, shorty!
+
+1097
+01:08:57,200 --> 01:08:58,247
+(LAUGHS)
+
+1098
+01:09:14,000 --> 01:09:16,128
+Okay, we have to get
+this in the ground.
+
+1099
+01:09:16,360 --> 01:09:18,806
+But where?
+There's no dirt anywhere.
+
+1100
+01:09:22,040 --> 01:09:23,769
+No, Grammy...
+
+1101
+01:09:29,280 --> 01:09:30,281
+MAN: Hey, get out of there!
+
+1102
+01:09:32,000 --> 01:09:33,047
+Ah!
+
+1103
+01:09:35,680 --> 01:09:36,727
+Hey!
+
+1104
+01:09:38,000 --> 01:09:39,809
+What?
+
+1105
+01:09:40,960 --> 01:09:43,566
+See, what did
+I tell you? Easy. Huh?
+
+1106
+01:09:44,000 --> 01:09:46,321
+Hey, they broke O'Hare's head!
+
+1107
+01:09:46,480 --> 01:09:48,528
+WOMAN: What do you think
+you're doing, kid?
+
+1108
+01:09:49,760 --> 01:09:52,001
+Um, I'm looking for
+a place to plant a tree.
+
+1109
+01:09:52,160 --> 01:09:53,207
+A real one.
+
+1110
+01:09:53,280 --> 01:09:54,645
+Why would we need a tree?
+
+1111
+01:09:54,720 --> 01:09:56,688
+Exactly.
+
+1112
+01:09:59,440 --> 01:10:00,805
+Oh, man.
+
+1113
+01:10:01,360 --> 01:10:02,407
+Folks...
+
+1114
+01:10:03,040 --> 01:10:06,567
+The last thing you
+want around here is trees.
+
+1115
+01:10:06,720 --> 01:10:08,245
+They're filthy!
+
+1116
+01:10:08,480 --> 01:10:14,169
+Spewing that sticky, nasty
+sap all over the place.
+
+1117
+01:10:15,200 --> 01:10:19,000
+They bring poisonous ants
+and stinging bees.
+
+1118
+01:10:19,160 --> 01:10:20,650
+Hey!
+Ouch.
+
+1119
+01:10:20,720 --> 01:10:22,165
+Think about the kids.
+
+1120
+01:10:22,840 --> 01:10:26,640
+And, I just thought,
+you know, they make leaves!
+
+1121
+01:10:26,800 --> 01:10:27,926
+You know that, right?
+
+1122
+01:10:28,000 --> 01:10:29,843
+Then these leaves,
+they just fall.
+
+1123
+01:10:29,920 --> 01:10:31,684
+They just fall
+wherever they want!
+
+1124
+01:10:31,760 --> 01:10:32,807
+(EXCLAIMING)
+
+1125
+01:10:32,880 --> 01:10:35,008
+Come on! We know why you're
+really against trees.
+
+1126
+01:10:35,200 --> 01:10:37,282
+Because they produce fresh air.
+
+1127
+01:10:37,360 --> 01:10:38,566
+For free!
+
+1128
+01:10:38,640 --> 01:10:40,210
+Oh!
+
+1129
+01:10:40,280 --> 01:10:43,887
+I am wounded!
+You have lied!
+
+1130
+01:10:44,000 --> 01:10:47,482
+It is not a lie!
+It's called photosynthesis.
+
+1131
+01:10:47,640 --> 01:10:49,688
+Come on.
+She's making that up!
+
+1132
+01:10:49,760 --> 01:10:52,491
+That's a
+made-up word, people!
+
+1133
+01:10:52,720 --> 01:10:56,281
+Thneedville is perfect
+just the way it is.
+
+1134
+01:10:56,440 --> 01:10:58,363
+We don't need trees!
+
+1135
+01:10:58,880 --> 01:11:00,803
+That boy has a seed.
+
+1136
+01:11:01,080 --> 01:11:03,686
+We need to stop him!
+Who's with me? Come on!
+
+1137
+01:11:03,800 --> 01:11:05,040
+O'Hare is right!
+
+1138
+01:11:05,280 --> 01:11:07,328
+Seeds will ruin us all!
+Stop it!
+
+1139
+01:11:08,400 --> 01:11:10,926
+Last chance, kid.
+Hand it over!
+
+1140
+01:11:11,400 --> 01:11:12,640
+Where do you think
+you're going?
+
+1141
+01:11:12,800 --> 01:11:14,211
+Come on, let's go!
+
+1142
+01:11:14,360 --> 01:11:16,328
+Get in, get in!
+
+1143
+01:11:18,080 --> 01:11:19,320
+Hey!
+
+1144
+01:11:19,440 --> 01:11:21,204
+Stop that maniac!
+
+1145
+01:11:22,960 --> 01:11:25,645
+Excuse me, excuse me.
+Watch out!
+
+1146
+01:11:29,720 --> 01:11:32,291
+Ted, you're going
+to hit the wall!
+
+1147
+01:11:32,440 --> 01:11:34,249
+Yeah. I know.
+
+1148
+01:11:57,120 --> 01:11:59,361
+Wow. Did you see that?
+
+1149
+01:12:00,040 --> 01:12:02,327
+Who does this kid
+think he is, huh?
+
+1150
+01:12:03,800 --> 01:12:05,564
+I am Ted Wiggins.
+
+1151
+01:12:06,240 --> 01:12:08,402
+And I speak for the trees.
+
+1152
+01:12:09,040 --> 01:12:13,523
+And the fact is, things aren't
+perfect here in Thneedville.
+
+1153
+01:12:13,760 --> 01:12:15,125
+And they're only
+going to get worse,
+
+1154
+01:12:15,200 --> 01:12:17,441
+unless we do
+something about it,
+
+1155
+01:12:18,000 --> 01:12:20,082
+unless we change our ways.
+
+1156
+01:12:20,280 --> 01:12:23,409
+And we can start
+by planting this!
+
+1157
+01:12:23,480 --> 01:12:24,766
+(ALL EXCLAIMING)
+
+1158
+01:12:31,920 --> 01:12:34,844
+Okay. Come on, now.
+Everything is fine.
+
+1159
+01:12:35,640 --> 01:12:36,721
+Right?
+
+1160
+01:12:36,800 --> 01:12:40,441
+I say we tell this kid
+what we think about that seed!
+
+1161
+01:12:43,280 --> 01:12:44,884
+People, come on!
+
+1162
+01:12:48,480 --> 01:12:50,528
+You! Get out there right now
+
+1163
+01:12:50,600 --> 01:12:54,366
+and get these people on my
+side, or else you're fired!
+
+1164
+01:12:55,440 --> 01:12:58,091
+Go on, tell them
+what you think.
+
+1165
+01:13:02,040 --> 01:13:05,442
+(SINGING) <i>You don't know me,
+but my name's Cy</i>
+
+1166
+01:13:06,160 --> 01:13:10,210
+<i>I'm just
+the O'Hare delivery guy</i>
+
+1167
+01:13:10,360 --> 01:13:14,410
+<i>But it seems like
+trees might be worth a try</i>
+
+1168
+01:13:14,640 --> 01:13:17,928
+<i>So I say let it grow</i>
+
+1169
+01:13:20,880 --> 01:13:22,166
+<i>My name is Dan</i>
+
+1170
+01:13:22,240 --> 01:13:23,401
+<i>And my name's Rose</i>
+
+1171
+01:13:23,480 --> 01:13:26,086
+<i>Our son Wesley kind of glows</i>
+
+1172
+01:13:26,320 --> 01:13:29,005
+<i>And that's not good,
+so we suppose</i>
+
+1173
+01:13:29,080 --> 01:13:30,764
+<i>We should let it grow</i>
+
+1174
+01:13:30,840 --> 01:13:33,207
+<i>Let it grow, let it grow</i>
+
+1175
+01:13:33,280 --> 01:13:36,090
+<i>You can't reap
+what you don't sow</i>
+
+1176
+01:13:36,320 --> 01:13:38,402
+<i>Plant a seed inside the Earth</i>
+
+1177
+01:13:38,680 --> 01:13:40,842
+<i>Just one way to know its worth</i>
+
+1178
+01:13:40,920 --> 01:13:43,366
+<i>Let's celebrate
+the world's rebirth</i>
+
+1179
+01:13:43,600 --> 01:13:45,204
+<i>We say let it grow</i>
+
+1180
+01:13:45,280 --> 01:13:47,601
+<i>My name's Marie,
+and I am three!</i>
+
+1181
+01:13:47,920 --> 01:13:50,730
+<i>I would really
+like to see a tree</i>
+
+1182
+01:13:53,280 --> 01:13:54,770
+<i>I say let it grow</i>
+
+1183
+01:13:54,840 --> 01:13:58,083
+<i>I'm Grammy Norma I'm old,
+and I've got gray hair</i>
+
+1184
+01:13:58,480 --> 01:14:01,529
+<i>But I remember when
+trees were everywhere</i>
+
+1185
+01:14:01,600 --> 01:14:04,080
+<i>And no one had to pay for air</i>
+
+1186
+01:14:04,160 --> 01:14:05,844
+<i>So I say let it grow</i>
+
+1187
+01:14:05,920 --> 01:14:08,161
+<i>Let it grow, let it grow</i>
+
+1188
+01:14:08,440 --> 01:14:11,364
+<i>Like it did so long ago</i>
+
+1189
+01:14:11,440 --> 01:14:13,602
+<i>It is just one tiny seed</i>
+
+1190
+01:14:13,720 --> 01:14:16,007
+<i>But it's all we really need</i>
+
+1191
+01:14:16,080 --> 01:14:18,651
+<i>It's time to change
+the life we lead</i>
+
+1192
+01:14:18,720 --> 01:14:20,404
+<i>Time to let it grow</i>
+
+1193
+01:14:20,480 --> 01:14:23,689
+<i>My name's O'Hare,
+I'm one of you</i>
+
+1194
+01:14:23,920 --> 01:14:28,482
+<i>I live here in Thneedville, too</i>
+
+1195
+01:14:28,640 --> 01:14:31,962
+<i>The things you say
+just might be true</i>
+
+1196
+01:14:32,120 --> 01:14:35,283
+<i>It could be time to start anew</i>
+
+1197
+01:14:35,440 --> 01:14:40,241
+<i>And maybe change
+my point of view</i>
+
+1198
+01:14:40,880 --> 01:14:43,645
+Nah! I say let it die!
+
+1199
+01:14:43,800 --> 01:14:45,723
+<i>Let it die, let it die</i>
+
+1200
+01:14:45,960 --> 01:14:47,564
+<i>Let it shrivel up and...</i>
+
+1201
+01:14:47,640 --> 01:14:49,324
+Come on, who's with me?
+
+1202
+01:14:49,920 --> 01:14:51,046
+Nobody.
+
+1203
+01:14:51,880 --> 01:14:53,325
+<i>You greedy dirt-bag!</i>
+
+1204
+01:14:53,440 --> 01:14:55,841
+<i>Let it grow, let it grow</i>
+
+1205
+01:14:55,920 --> 01:14:58,810
+<i>Let the love inside you show</i>
+
+1206
+01:14:58,880 --> 01:15:01,281
+<i>Plant a seed inside the Earth</i>
+
+1207
+01:15:01,360 --> 01:15:03,283
+<i>Just one way to know its worth</i>
+
+1208
+01:15:03,360 --> 01:15:05,931
+<i>Let's celebrate
+the world's rebirth</i>
+
+1209
+01:15:06,080 --> 01:15:10,165
+<i>We say let it grow</i>
+
+1210
+01:15:10,320 --> 01:15:12,687
+<i>Let it grow, let it grow</i>
+
+1211
+01:15:12,760 --> 01:15:16,082
+<i>You can't reap
+what you don't sow</i>
+
+1212
+01:15:16,160 --> 01:15:18,288
+<i>It's just one tiny seed</i>
+
+1213
+01:15:18,400 --> 01:15:20,641
+<i>But it's all we really need</i>
+
+1214
+01:15:20,760 --> 01:15:22,808
+<i>It's time to
+banish all your greed</i>
+
+1215
+01:15:22,880 --> 01:15:25,611
+<i>Imagine Thneedville
+flowered and treed</i>
+
+1216
+01:15:25,720 --> 01:15:30,521
+<i>Let this be our solemn creed</i>
+
+1217
+01:15:31,120 --> 01:15:33,168
+Thank you, Ted.
+
+1218
+01:15:34,240 --> 01:15:37,562
+<i>We say let it grow</i>
+
+1219
+01:15:37,720 --> 01:15:40,041
+<i>In Thneedville</i>
+
+1220
+01:15:40,120 --> 01:15:43,602
+<i>We say let it grow</i>
+
+1221
+01:15:43,680 --> 01:15:46,001
+<i>It's a brand new dawn</i>
+
+1222
+01:15:46,080 --> 01:15:49,448
+<i>We say let it grow</i>
+
+1223
+01:15:49,520 --> 01:15:51,204
+<i>In Thneedville</i>
+
+1224
+01:15:51,440 --> 01:15:54,887
+<i>We say let it grow</i>
+
+1225
+01:15:54,960 --> 01:15:59,761
+<i>It's a brand new dawn</i>
+
+1226
+01:16:09,880 --> 01:16:11,166
+(INHALES)
+
+1227
+01:16:56,680 --> 01:16:57,806
+(LAUGHS)
+
+1228
+01:17:00,200 --> 01:17:01,884
+You done good, Beanpole.
+
+1229
+01:17:03,000 --> 01:17:04,650
+You done good.
+
+1230
+01:17:17,720 --> 01:17:20,291
+By the way, nice mustache.

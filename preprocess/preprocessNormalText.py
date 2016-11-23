@@ -4,6 +4,9 @@ from os import mkdir
 import re
 import codecs
 from itertools import groupby
+import string
+from tokenization import clean_stopword
+from tokenization import stemming
 
 
 def parse_subtitle(filename):
@@ -19,10 +22,6 @@ def parse_subtitle(filename):
             content = sub[2]
             subs.append(content)
 
-    global a
-    if a == 90:
-        print(filename)
-        print(subs)
     return subs
 
 
@@ -34,14 +33,31 @@ def remove_impaired(content):
     return res
 
 
-a = 1
+def remove_punctuation(text):
+    useless_strings = ['♪']
+    translations = []
+    translations.append(str.maketrans({key: None for key in string.punctuation}))
+    translations.append(str.maketrans({key: None for key in useless_strings}))
+    for trns in translations:
+        text = text.translate(trns)
+
+    return text
+
+
 def parse(file_path, output_path):
 
     content = parse_subtitle(file_path)
 
+    # remove impaired parts
     content = " ".join([remove_impaired(mov) for mov in content])
 
-    content = "\n".join(content.split(" "))
+    # remove stop words and stem
+    content = stemming(clean_stopword(content))
+
+
+    # remove punctuation
+    content = remove_punctuation(("\n".join(content)).lower())
+
 
     if content:
         with open(output_path, 'w') as f:
@@ -52,6 +68,8 @@ def preprocess_normal_text(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)
     output_path = path.relpath(output_folder)
     categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+
+    # get lower bound and put equal amount of catagories in the train set.
 
     for category in categories:
         input_folder_path = "%s/%s" % (subtitles_path, category)
@@ -74,7 +92,6 @@ def preprocess_normal_text(input_folder, output_folder):
 
 
 #test the code
-
 
 in_path = path.relpath("Subtitles")
 out_path = path.relpath("ProcessedNormalText")

@@ -1,0 +1,12 @@
+Category:  Action
+[('go', 5115), ('im', 4980), ('know', 4636), ('dont', 4248), ('get', 3979), ('come', 3367), ('right', 3097), ('your', 3087), ('one', 2668), ('oh', 2595), ('got', 2550), ('that', 2360)]
+Category:  Adventure
+[('go', 8662), ('im', 8245), ('dont', 7455), ('know', 7201), ('get', 6412), ('come', 6086), ('oh', 5800), ('right', 4943), ('your', 4911), ('well', 4854), ('one', 4608), ('that', 4089)]
+Category:  Comedy
+[('im', 6492), ('oh', 5653), ('dont', 5417), ('know', 5375), ('go', 5134), ('yeah', 4448), ('get', 4163), ('like', 3716), ('right', 3481), ('your', 3458), ('okay', 3448), ('come', 3401)]
+Category:  Horror
+[('dont', 5392), ('im', 5163), ('go', 5127), ('know', 4735), ('get', 4207), ('come', 4125), ('oh', 3767), ('right', 3111), ('like', 2846), ('your', 2844), ('well', 2785), ('yeah', 2773)]
+Category:  Romance
+[('im', 9031), ('know', 8066), ('dont', 7597), ('oh', 6650), ('go', 6543), ('yeah', 5061), ('like', 4996), ('well', 4978), ('your', 4900), ('get', 4770), ('come', 4573), ('right', 4337)]
+Category:  War
+[('go', 4918), ('dont', 4184), ('know', 4023), ('get', 3845), ('im', 3699), ('come', 3666), ('right', 3011), ('sir', 3005), ('well', 2933), ('one', 2671), ('got', 2588), ('want', 2482)]

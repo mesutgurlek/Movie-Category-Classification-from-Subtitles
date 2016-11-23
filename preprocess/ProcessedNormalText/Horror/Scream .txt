@@ -1,4 +1,4 @@
-DVD
-Zone
+dvd
+zone
 2
-PAL
+pal
