@@ -8,29 +8,41 @@ import sys
 #subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
 # subtitles_path = "/Users/aeakdogan/hooop/Movie-Category-Classification-from-Subtitles/Subtitles"
 subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
-url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple"
-imdb_page_limit = 10
+url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple&page=%d&ref_=adv_nxt"
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
-# token = server.LogIn("omerakgul58", "omeromer", "en", "2016experimentingwithnlp").get("token")
-# token = server.LogIn("randomwalker", "sub1machine", "en", "MachineTitle").get("token")
-# token = server.LogIn("gamilgaze", "asdqwe123", "en", "gamil12345").get("token")
-token = server.LogIn("alierdogan7", "br12br12", "en", "SubMLProject").get("token")
+remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
+                      ("omerakgul58", "omeromer", "en", "2016experimentingwithnlp"),
+                        ("randomwalker", "sub1machine", "en", "MachineTitle"),
+                        ("gamilgaze", "asdqwe123", "en", "gamil12345"),
+                    ]
+
+token = server.LogIn(*remaining_accounts[0]).get("token")
 remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
+del remaining_accounts[0]
 
 print(server.ServerInfo())
 
-categories = ['musical', 'romance', 'horror']
+categories = ['western', ]#'horror', 'comedy', 'action', 'war', 'western']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
-subtitle_per_category = 30 #int(remaining_quota / len(categories))
+subtitle_per_category = 100 #int(remaining_quota / len(categories))
+
+imdb_page_limit = 5
+imdb_page_offset = 10 #which page to start from
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
-result = server.DownloadSubtitles(token, ['1953101239']) # an arbitrary subtitle id
-if result['data'] == False or result['status'].find('407') > -1:
-    print("Download limit reached, not starting the downloading process. Terminating...")
+while len(remaining_accounts) > 0:
+    result = server.DownloadSubtitles(token, ['1953101239']) # an arbitrary subtitle id
+    if result['data'] == False or result['status'].find('407') >= 0:
+        token = server.LogIn(*remaining_accounts[0]).get("token")
+        del remaining_accounts[0]
+    else:
+        print("Download limit test passed, starting to download with: %s" % \
+              server.GetUserInfo(token)['data']['UserNickName'])
+        break
+else: #this will be executed only when 'while' condition return false, not when 'while' is left with a 'break' statement
+    print("Download limit reached for ALL USERS, not starting the downloading process. Terminating...")
     sys.exit()
-else:
-    print("Download limit test passed, starting to download...")
 #####################################################################
 
 
@@ -38,7 +50,7 @@ class SubtitlesSpider(scrapy.Spider):
     name = "subtitles"
     # start_urls = ["http://www.opensubtitles.org/en/search/sublanguageid-all/searchonlymovies-on/genre-action/movielanguage-english/movieimdbratingsign-5/movieimdbrating-7/movieyearsign-5/movieyear-1990/offset-0"]
 
-    start_urls = [ url_template % (genre) for genre in categories]
+    start_urls = [ url_template % (genre, imdb_page_offset) for genre in categories]
 
     def parse(self, response):
         # return self.parse_movies(response)
@@ -85,6 +97,7 @@ class SubtitlesSpider(scrapy.Spider):
         #     yield scrapy.Request(url=response.urljoin(link), callback=self.parse_movie)
         print("Listing scraped IMDB ids for%s: ", category_name)
         print(imdb_ids)
+        global token
 
         from random import shuffle
         shuffle(imdb_ids) #otherwise it repeatedly tries the first N subtitles.
@@ -96,16 +109,17 @@ class SubtitlesSpider(scrapy.Spider):
         # for imdb_id in imdb_ids[:subtitle_per_category]:
         remaining = subtitle_per_category
         i = 0
+        print("Searching for subtitles of %s..." % category_name)
         while remaining > 0 and i < len(imdb_ids):
             imdb_id = imdb_ids[i]
-            print("Searching subtitle for movie with ID: %s" % imdb_id)
+            # print("Searching subtitle for movie with ID: %s" % imdb_id)
             found_subtitles = server.SearchSubtitles(token, [{'imdbid': imdb_id, 'sublanguageid': 'eng'}])['data']
 
             if found_subtitles is None or len(found_subtitles) == 0:
                 i += 1
                 continue
 
-            print("!!!!! Found %d subtitles for movie with ID: %s " % (len(found_subtitles), imdb_id))
+            # print("!!!!! Found %d subtitles for movie with ID: %s " % (len(found_subtitles), imdb_id))
 
             impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
                                                             sub['SubFormat'] == 'srt', found_subtitles))
@@ -152,10 +166,16 @@ class SubtitlesSpider(scrapy.Spider):
                 portion = subtitle_ids
                 subtitle_ids = []
 
-            subtitle_files_response = server.DownloadSubtitles(token, portion)
-
             import base64
             import gzip
+
+            subtitle_files_response = server.DownloadSubtitles(token, portion)
+            while subtitle_files_response['status'].find("407") >= 0 and \
+                    len(remaining_accounts) > 0:
+                token = server.LogIn(*remaining_accounts[0]).get("token")
+                del remaining_accounts[0]
+                print("!!! Switched account because the previous one's quota was finished!")
+                subtitle_files_response = server.DownloadSubtitles(token, portion)
 
             if subtitle_files_response['status'] == '200 OK':
                 print("Subtitles downloaded, writing to files...")
@@ -170,6 +190,11 @@ class SubtitlesSpider(scrapy.Spider):
                             print("Subtitle file saved into: %s" % sub['filename'])
                     except FileNotFoundError: #if unsuccessful to open that file, just ignore and skip it
                         continue
-            else:
+
+            elif len(remaining_accounts) == 0:
+                print("None of the accounts has sufficient download quota anymore.\nProcess terminating...")
+                sys.exit()
+
+            else: # status quota is other than 200 or 407
                 print("Subtitles cannot be downloaded! Status code: %s" % subtitle_files_response['status'])
                 return None

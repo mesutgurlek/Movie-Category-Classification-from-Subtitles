@@ -1,0 +1,3985 @@
+﻿1
+00:00:14,431 --> 00:00:15,974
+(TALKING INDISTINCTLY)
+
+2
+00:00:16,600 --> 00:00:20,562
+MAN: Walk!
+WOMAN: Walk, please. Don't run. Don't run.
+
+3
+00:00:21,271 --> 00:00:23,273
+- Hey, behave yourself!
+-Quiet! Quiet!
+
+4
+00:00:23,440 --> 00:00:25,025
+(CHILDREN SHOUTING)
+
+5
+00:00:25,901 --> 00:00:27,277
+Hey, slow down!
+
+6
+00:00:31,782 --> 00:00:34,451
+WOMAN: Come on, you know the rules.
+
+7
+00:00:42,292 --> 00:00:43,627
+On the right. I can see you.
+
+8
+00:00:50,968 --> 00:00:51,969
+(INAUDIBLE)
+
+9
+00:02:17,596 --> 00:02:19,765
+(CHILDREN LAUGHING)
+
+10
+00:02:42,871 --> 00:02:44,373
+(PLAYING SOFT MUSIC ON PIANO)
+
+11
+00:02:52,089 --> 00:02:55,842
+<i>(SINGING)
+Some folks dream of the wonders they'll do</i>
+
+12
+00:02:56,510 --> 00:03:00,430
+<i>Before their time on this planet is through</i>
+
+13
+00:03:01,223 --> 00:03:04,935
+<i>Some just don't have anything planned</i>
+
+14
+00:03:05,602 --> 00:03:10,273
+<i>They hide their hopes
+and their heads in the sand</i>
+
+15
+00:03:10,315 --> 00:03:14,277
+<i>Now I don't say who is wrong, who is right</i>
+
+16
+00:03:15,153 --> 00:03:19,157
+<i>But if by chance you are here for the night</i>
+
+17
+00:03:19,700 --> 00:03:23,161
+<i>Then all I need is an hour or two</i>
+
+18
+00:03:24,204 --> 00:03:28,625
+<i>To tell the tale of a dreamer like you</i>
+
+19
+00:03:30,210 --> 00:03:34,047
+<i>We all dream a lot</i>
+
+20
+00:03:34,131 --> 00:03:38,802
+<i>Some are lucky, some are not</i>
+
+21
+00:03:38,844 --> 00:03:43,515
+<i>But if you think it, want it, dream it</i>
+
+22
+00:03:43,598 --> 00:03:47,394
+<i>Then it's real</i>
+
+23
+00:03:47,477 --> 00:03:52,315
+<i>You are what you feel</i>
+
+24
+00:03:53,191 --> 00:03:57,028
+<i>But all that I say</i>
+
+25
+00:03:57,112 --> 00:04:01,074
+<i>Can be told another way</i>
+
+26
+00:04:01,950 --> 00:04:05,620
+<i>In the story of a boy</i>
+
+27
+00:04:05,662 --> 00:04:08,999
+<i>Whose dream came true</i>
+
+28
+00:04:10,917 --> 00:04:17,841
+<i>And it could be you</i>
+
+29
+00:04:45,786 --> 00:04:49,664
+<i>(SINGING) I closed my eyes</i>
+
+30
+00:04:49,706 --> 00:04:53,084
+<i>Drew back the curtain</i>
+
+31
+00:04:53,668 --> 00:04:57,214
+<i>To see for certain</i>
+
+32
+00:04:57,672 --> 00:05:00,884
+<i>What I thought I knew</i>
+
+33
+00:05:01,426 --> 00:05:04,638
+<i>Far, far away</i>
+
+34
+00:05:05,347 --> 00:05:09,059
+<i>Someone was weeping</i>
+
+35
+00:05:09,476 --> 00:05:13,271
+<i>But the world was sleeping</i>
+
+36
+00:05:13,355 --> 00:05:16,733
+<i>Any dream will do</i>
+
+37
+00:05:17,317 --> 00:05:19,361
+<i>I wore my coat</i>
+
+38
+00:05:19,402 --> 00:05:21,238
+<i>I wore my coat</i>
+
+39
+00:05:21,279 --> 00:05:24,366
+<i>With golden lining</i>
+
+40
+00:05:25,242 --> 00:05:29,079
+<i>Bright colours shining</i>
+
+41
+00:05:29,162 --> 00:05:33,041
+<i>Wonderful and new</i>
+
+42
+00:05:33,083 --> 00:05:34,709
+<i>And in the east</i>
+
+43
+00:05:35,168 --> 00:05:36,962
+<i>And in the east</i>
+
+44
+00:05:37,045 --> 00:05:40,090
+<i>The dawn was breaking</i>
+
+45
+00:05:41,007 --> 00:05:44,928
+<i>And the world was waking</i>
+
+46
+00:05:44,970 --> 00:05:47,931
+<i>Any dream will do</i>
+
+47
+00:05:49,933 --> 00:05:53,645
+<i>A crash of drums, a flash of light</i>
+
+48
+00:05:54,104 --> 00:05:57,983
+<i>My golden coat flew out of sight</i>
+
+49
+00:05:58,066 --> 00:06:02,112
+<i>The colours faded into darkness</i>
+
+50
+00:06:02,153 --> 00:06:08,660
+<i>I was left alone</i>
+
+51
+00:06:08,743 --> 00:06:10,412
+<i>May I return</i>
+
+52
+00:06:10,620 --> 00:06:12,455
+<i>May I return</i>
+
+53
+00:06:12,539 --> 00:06:15,500
+<i>To the beginning</i>
+
+54
+00:06:16,501 --> 00:06:20,380
+<i>The light is dimming</i>
+
+55
+00:06:20,463 --> 00:06:23,633
+<i>And the dream is, too</i>
+
+56
+00:06:24,384 --> 00:06:26,344
+<i>The world and I</i>
+
+57
+00:06:26,428 --> 00:06:28,263
+<i>The world and I</i>
+
+58
+00:06:28,305 --> 00:06:31,141
+<i>We are still waiting</i>
+
+59
+00:06:32,058 --> 00:06:34,978
+<i>Still hesitating</i>
+
+60
+00:06:36,229 --> 00:06:38,273
+<i>Any dream will do</i>
+
+61
+00:06:38,315 --> 00:06:43,320
+<i>Any dream, any dream, any dream</i>
+
+62
+00:06:44,154 --> 00:06:45,989
+<i>Any dream will do</i>
+
+63
+00:06:46,072 --> 00:06:51,494
+<i>Any dream, any dream, any dream</i>
+
+64
+00:06:53,997 --> 00:07:01,004
+<i>Any dream will do</i>
+
+65
+00:07:04,341 --> 00:07:05,717
+(INTENSE INSTRUMENTAL MUSIC PLAYING)
+
+66
+00:07:31,284 --> 00:07:34,537
+<i>(SINGING) Way, way back many centuries ago</i>
+
+67
+00:07:34,579 --> 00:07:38,083
+<i>Not long after the Bible began</i>
+
+68
+00:07:38,166 --> 00:07:41,378
+<i>Jacob lived in the land of Canaan</i>
+
+69
+00:07:41,419 --> 00:07:44,506
+<i>A fine example of a family man</i>
+
+70
+00:07:45,131 --> 00:07:48,343
+<i>Jacob, Jacob and sons</i>
+
+71
+00:07:48,385 --> 00:07:51,888
+<i>Depended on farming to earn their keep</i>
+
+72
+00:07:51,930 --> 00:07:55,141
+<i>Jacob, Jacob and sons</i>
+
+73
+00:07:55,225 --> 00:07:58,770
+<i>Spent all of their days
+in the fields with sheep</i>
+
+74
+00:07:58,853 --> 00:08:02,273
+<i>Jacob was the founder of a whole new nation</i>
+
+75
+00:08:02,357 --> 00:08:05,360
+<i>Thanks to the number of children he had</i>
+
+76
+00:08:05,402 --> 00:08:09,030
+<i>He was also known as Israel,
+but most of the time</i>
+
+77
+00:08:09,072 --> 00:08:12,659
+<i>His sons and his wives used to call him Dad</i>
+
+78
+00:08:12,742 --> 00:08:16,079
+<i>Jacob, Jacob and sons</i>
+
+79
+00:08:16,121 --> 00:08:19,582
+<i>Men of the soil and the sheaf and crook</i>
+
+80
+00:08:19,624 --> 00:08:22,585
+<i>Jacob, Jacob and sons</i>
+
+81
+00:08:22,627 --> 00:08:25,714
+<i>A remarkable family in anyone's book</i>
+
+82
+00:08:26,548 --> 00:08:29,718
+<i>Reuben was the eldest
+of the children of Israel</i>
+
+83
+00:08:29,759 --> 00:08:33,388
+<i>With Simeon and Levi the next in line</i>
+
+84
+00:08:33,430 --> 00:08:36,683
+<i>Naphtali and Issachar with Asher and Dan</i>
+
+85
+00:08:36,766 --> 00:08:40,311
+<i>Zebulun and Gad took the total to nine</i>
+
+86
+00:08:40,395 --> 00:08:43,648
+<i>Jacob, Jacob and sons</i>
+
+87
+00:08:43,732 --> 00:08:47,193
+<i>Benjamin and Judah, which leaves only one</i>
+
+88
+00:08:47,277 --> 00:08:50,530
+<i>Jacob, Jacob and sons</i>
+
+89
+00:08:50,613 --> 00:08:53,867
+<i>Joseph, Jacob's favourite son</i>
+
+90
+00:08:54,075 --> 00:08:57,662
+<i>Jacob, Jacob and sons</i>
+
+91
+00:08:58,079 --> 00:08:59,122
+Dad!
+
+92
+00:08:59,289 --> 00:09:00,623
+<i>Jacob, Jacob and sons</i>
+
+93
+00:09:00,957 --> 00:09:02,083
+<i>Jacob</i>
+
+94
+00:09:02,125 --> 00:09:03,126
+Hi, Dad.
+
+95
+00:09:03,209 --> 00:09:04,461
+<i>Jacob and sons</i>
+
+96
+00:09:04,502 --> 00:09:07,964
+<i>Jacob,Jacob,Jacob</i>
+
+97
+00:09:08,548 --> 00:09:11,509
+<i>Jacob and</i>
+
+98
+00:09:11,843 --> 00:09:17,682
+<i>Sons</i>
+
+99
+00:09:20,143 --> 00:09:21,561
+(UPBEAT MUSIC PLAYING)
+
+100
+00:09:23,438 --> 00:09:26,900
+<i>(SINGING) Joseph's mother
+She was quite my favourite wife</i>
+
+101
+00:09:26,983 --> 00:09:30,487
+<i>I never really loved another all my life</i>
+
+102
+00:09:30,570 --> 00:09:33,865
+<i>And Joseph was my joy because</i>
+
+103
+00:09:33,948 --> 00:09:37,202
+<i>He reminded me of her</i>
+
+104
+00:09:37,869 --> 00:09:41,331
+<i>Through young Joseph
+Jacob lived his youth again</i>
+
+105
+00:09:41,372 --> 00:09:44,834
+<i>Loved him, praised him
+Gave him all he could, but then</i>
+
+106
+00:09:44,876 --> 00:09:48,338
+<i>It made the rest feel second best</i>
+
+107
+00:09:48,421 --> 00:09:51,299
+<i>And even if they were</i>
+
+108
+00:09:51,341 --> 00:09:54,844
+<i>Being told we're also-rans</i>
+
+109
+00:09:54,928 --> 00:09:58,431
+<i>Does not make us Joseph fans</i>
+
+110
+00:09:58,515 --> 00:10:02,018
+<i>But where they have really missed the boat is</i>
+
+111
+00:10:02,102 --> 00:10:05,355
+<i>We're great guys, but no one seems to notice</i>
+
+112
+00:10:05,522 --> 00:10:09,067
+<i>Joseph's charm and winning smiles</i>
+
+113
+00:10:09,150 --> 00:10:12,529
+<i>Failed to slay them in the aisles</i>
+
+114
+00:10:12,612 --> 00:10:16,157
+<i>And their father couldn't see the danger</i>
+
+115
+00:10:16,199 --> 00:10:19,410
+<i>He could not imagine any danger</i>
+
+116
+00:10:19,702 --> 00:10:24,874
+<i>He just saw in Joseph
+all his dreams come true</i>
+
+117
+00:10:26,793 --> 00:10:30,213
+<i>Jacob wanted to show the world
+he loved his son</i>
+
+118
+00:10:30,255 --> 00:10:33,675
+<i>To make it clear
+that Joseph was the special one</i>
+
+119
+00:10:33,716 --> 00:10:37,220
+<i>So Jacob bought his son a coat</i>
+
+120
+00:10:37,303 --> 00:10:40,765
+<i>A multicoloured coat to wear</i>
+
+121
+00:10:41,057 --> 00:10:44,227
+<i>Joseph's coat was elegant
+The cut was fine</i>
+
+122
+00:10:44,435 --> 00:10:47,897
+<i>The tasteful style
+was the ultimate in good design</i>
+
+123
+00:10:47,981 --> 00:10:51,234
+<i>And this is why it caught the eye</i>
+
+124
+00:10:51,401 --> 00:10:54,237
+<i>A king would stop and stare</i>
+
+125
+00:10:54,279 --> 00:10:57,574
+<i>And when Joseph tried it on</i>
+
+126
+00:10:57,615 --> 00:11:01,202
+<i>He knew his sheepskin days were gone</i>
+
+127
+00:11:01,244 --> 00:11:02,537
+<i>Such a dazzling coat</i>
+
+128
+00:11:02,579 --> 00:11:03,580
+It's great!
+
+129
+00:11:03,663 --> 00:11:04,747
+<i>Of many colours</i>
+
+130
+00:11:04,789 --> 00:11:08,042
+<i>How he loved his coat of many colours</i>
+
+131
+00:11:08,334 --> 00:11:11,546
+<i>In a class above the rest</i>
+
+132
+00:11:11,588 --> 00:11:15,175
+<i>It even went well with his vest</i>
+
+133
+00:11:15,258 --> 00:11:18,761
+<i>Such a stunning coat of many colours</i>
+
+134
+00:11:18,845 --> 00:11:22,307
+<i>How he loved his coat of many colours</i>
+
+135
+00:11:22,390 --> 00:11:27,854
+<i>It was red and yellow and green
+and brown and blue</i>
+
+136
+00:11:29,522 --> 00:11:32,942
+<i>Joseph's brothers weren't too pleased
+with what they saw</i>
+
+137
+00:11:32,984 --> 00:11:36,321
+<i>We had never liked him all that much before</i>
+
+138
+00:11:36,404 --> 00:11:39,699
+<i>And now this coat has got our goat</i>
+
+139
+00:11:39,782 --> 00:11:42,368
+<i>We feel life is unfair</i>
+
+140
+00:11:42,619 --> 00:11:45,955
+<i>And when Joseph graced the scene</i>
+
+141
+00:11:46,039 --> 00:11:49,584
+<i>His brothers turned a shade of green</i>
+
+142
+00:11:49,626 --> 00:11:53,087
+<i>His astounding clothing took the biscuit</i>
+
+143
+00:11:53,129 --> 00:11:56,507
+<i>Quite the smoothest person in the district</i>
+
+144
+00:11:56,591 --> 00:11:59,552
+<i>I look handsome, I look smart</i>
+
+145
+00:11:59,886 --> 00:12:03,264
+<i>I am a walking work of art</i>
+
+146
+00:12:03,306 --> 00:12:06,893
+<i>Such a dazzling coat of many colours</i>
+
+147
+00:12:06,976 --> 00:12:10,146
+<i>How I love my coat of many colours</i>
+
+148
+00:12:10,605 --> 00:12:14,692
+<i>NARRATOR:
+It was red and yellow and green and brown</i>
+
+149
+00:12:14,817 --> 00:12:17,820
+<i>And scarlet and black and ochre and peach</i>
+
+150
+00:12:18,029 --> 00:12:20,990
+<i>And ruby and olive and violet and fawn</i>
+
+151
+00:12:21,032 --> 00:12:24,160
+<i>JOSEPH". I look handsome, I look smart</i>
+
+152
+00:12:24,244 --> 00:12:27,538
+<i>I am a walking work of art</i>
+
+153
+00:12:27,622 --> 00:12:31,209
+<i>Such a dazzling coat of many colours</i>
+
+154
+00:12:31,292 --> 00:12:34,629
+<i>How I love my coat of many colours</i>
+
+155
+00:12:34,671 --> 00:12:38,424
+<i>It was red and yellow and green and brown</i>
+
+156
+00:12:38,508 --> 00:12:41,844
+<i>And scarlet and black and ochre and peach</i>
+
+157
+00:12:41,928 --> 00:12:45,515
+<i>And ruby and olive and violet and fawn</i>
+
+158
+00:12:45,556 --> 00:12:48,893
+<i>And lilac and gold and chocolate and mauve</i>
+
+159
+00:12:48,977 --> 00:12:52,313
+<i>And cream and crimson and silver and rose</i>
+
+160
+00:12:52,355 --> 00:12:55,566
+<i>And azure and lemon and russet and grey</i>
+
+161
+00:12:55,650 --> 00:13:00,196
+<i>And purple and white and pink and orange
+and blue!</i>
+
+162
+00:13:01,781 --> 00:13:04,284
+(CHEERING LOUDLY)
+
+163
+00:13:08,871 --> 00:13:12,208
+<i>(SINGING)
+Joseph's coat annoyed his brothers</i>
+
+164
+00:13:12,292 --> 00:13:15,044
+<i>But what makes us mad</i>
+
+165
+00:13:15,128 --> 00:13:22,010
+<i>Are the things that Joseph tells us
+of the dreams he's often had</i>
+
+166
+00:13:22,051 --> 00:13:27,849
+<i>I dreamed that in the fields one day
+the corn gave me a sign</i>
+
+167
+00:13:28,850 --> 00:13:35,106
+<i>Your eleven sheaves of corn
+all turned and bowed to mine</i>
+
+168
+00:13:35,189 --> 00:13:41,279
+<i>My sheaf was quite a sight to see
+A golden sheaf and tall</i>
+
+169
+00:13:41,946 --> 00:13:47,577
+<i>Yours were green and second-rate
+and really rather small</i>
+
+170
+00:13:48,536 --> 00:13:49,912
+ALL: Small!
+
+171
+00:13:50,455 --> 00:13:56,711
+<i>This is not the kind of thing
+we brothers like to hear</i>
+
+172
+00:13:56,753 --> 00:14:03,092
+<i>It seems to us that Joseph
+and his dreams should disappear</i>
+
+173
+00:14:03,176 --> 00:14:06,471
+<i>I dreamed I saw eleven stars</i>
+
+174
+00:14:06,554 --> 00:14:10,141
+<i>The sun, the moon and sky</i>
+
+175
+00:14:10,266 --> 00:14:16,356
+<i>Bowing down before my star
+It made me wonder why</i>
+
+176
+00:14:16,856 --> 00:14:23,029
+<i>Could it be that I was born
+for higher things than you?</i>
+
+177
+00:14:23,112 --> 00:14:29,619
+<i>A post in someone's government?
+A ministry or two?</i>
+
+178
+00:14:30,119 --> 00:14:31,788
+(JAZZY MUSIC PLAYING)
+
+179
+00:14:31,829 --> 00:14:37,877
+<i>The dreams of our dear brother
+are the decade's biggest yawn</i>
+
+180
+00:14:38,294 --> 00:14:44,717
+<i>His talk of stars and golden sheaves
+is just a load of corn</i>
+
+181
+00:14:44,884 --> 00:14:50,973
+<i>Not only is he tactless,
+but he's also rather dim</i>
+
+182
+00:14:51,474 --> 00:14:56,854
+<i>For there's eleven of us
+and there's only one of him</i>
+
+183
+00:14:57,855 --> 00:15:00,900
+<i>- The dreams of course will not come true
+-(WHISTLING)</i>
+
+184
+00:15:01,109 --> 00:15:04,695
+<i>That is, we think they won't come true</i>
+
+185
+00:15:04,779 --> 00:15:07,323
+<i>That is, we hope they won't come true</i>
+
+186
+00:15:08,032 --> 00:15:10,201
+<i>What if he's right all along?</i>
+
+187
+00:15:21,546 --> 00:15:23,381
+<i>What if he's right all along?</i>
+
+188
+00:15:24,340 --> 00:15:27,427
+<i>The dreams are more than crystal clear</i>
+
+189
+00:15:28,094 --> 00:15:30,680
+<i>The writing on the wall</i>
+
+190
+00:15:31,472 --> 00:15:37,353
+<i>Means that Joseph someday soon
+will rise above us all</i>
+
+191
+00:15:37,728 --> 00:15:40,773
+<i>The accuracy of the dreams</i>
+
+192
+00:15:41,315 --> 00:15:44,068
+<i>We brothers do not know</i>
+
+193
+00:15:44,360 --> 00:15:47,864
+<i>But one thing we are sure about</i>
+
+194
+00:15:47,905 --> 00:15:49,282
+<i>The dreamer</i>
+
+195
+00:15:49,615 --> 00:15:52,869
+<i>The dreamer, the dreamer</i>
+
+196
+00:15:53,119 --> 00:15:54,745
+<i>The dreamer</i>
+
+197
+00:15:54,829 --> 00:15:58,124
+<i>The dreamer, dreamer, dreamer, dreamer</i>
+
+198
+00:15:58,207 --> 00:16:01,127
+<i>The dreamer has to go</i>
+
+199
+00:16:02,545 --> 00:16:05,381
+(UPBEAT MUSIC PLAYING)
+
+200
+00:16:06,966 --> 00:16:11,387
+<i>(SINGING) Next day, far from home,
+the brothers planned the repulsive crime</i>
+
+201
+00:16:11,471 --> 00:16:16,100
+<i>Let us grab him now
+Do him in while we've got the time</i>
+
+202
+00:16:16,184 --> 00:16:18,686
+Hi, guys! Hey!
+
+203
+00:16:18,728 --> 00:16:19,896
+- Hey!
+-Kill him!
+
+204
+00:16:20,313 --> 00:16:23,441
+<i>NARRATOR: This they did
+and made the most of it</i>
+
+205
+00:16:24,609 --> 00:16:27,236
+<i>Tore his coat and flung him in a pit</i>
+
+206
+00:16:29,405 --> 00:16:33,576
+<i>Let us leave him here all alone
+and he's bound to die</i>
+
+207
+00:16:33,659 --> 00:16:38,706
+<i>When some lshmaelites,
+a hairy crew, came riding by</i>
+
+208
+00:16:47,089 --> 00:16:50,092
+<i>In a flash, the brothers changed their plan</i>
+
+209
+00:16:51,677 --> 00:16:54,764
+<i>We need cash, let's sell him if we can</i>
+
+210
+00:16:56,224 --> 00:17:00,478
+<i>Poor, poor Joseph, whatcha gonna do?</i>
+
+211
+00:17:00,561 --> 00:17:05,233
+<i>Things look bad for you
+Hey, whatcha gonna do?</i>
+
+212
+00:17:05,274 --> 00:17:09,612
+<i>Poor, poor Joseph, whatcha gonna do?</i>
+
+213
+00:17:09,695 --> 00:17:12,782
+<i>Things look bad for you
+Hey, whatcha gonna do?</i>
+
+214
+00:17:12,823 --> 00:17:13,950
+(SCREAMS)
+
+215
+00:17:13,991 --> 00:17:18,204
+<i>Could you use</i> a <i>slave,
+you hairy bunch of lshmaelites?</i>
+
+216
+00:17:18,454 --> 00:17:22,708
+<i>Young, strong, well-behaved
+Going cheap, and he reads and writes</i>
+
+217
+00:17:22,792 --> 00:17:25,962
+<i>In a trice, the dirty deal was done</i>
+
+218
+00:17:27,338 --> 00:17:30,800
+<i>Silver coins for Jacob's favourite son</i>
+
+219
+00:17:31,884 --> 00:17:36,138
+<i>Then the lshmaelites
+galloped off with a slave in tow</i>
+
+220
+00:17:36,180 --> 00:17:40,476
+<i>Off to Egypt
+where Joseph was not keen to go</i>
+
+221
+00:17:40,518 --> 00:17:43,312
+<i>It wouldn't be a picnic, he could tell</i>
+
+222
+00:17:45,147 --> 00:17:47,984
+<i>And I don't speak Egyptian very well</i>
+
+223
+00:17:49,777 --> 00:17:53,906
+<i>Joseph's brothers tore
+his precious multicoloured coat</i>
+
+224
+00:17:54,115 --> 00:17:58,494
+<i>Having ripped it up,
+they next attacked a passing goat</i>
+
+225
+00:17:58,578 --> 00:18:01,831
+<i>Soon the wretched creature was no more</i>
+
+226
+00:18:02,873 --> 00:18:07,461
+<i>They dipped his coat in blood
+and guts and gore</i>
+
+227
+00:18:08,337 --> 00:18:12,675
+<i>Oh, now, brothers, how low can you stoop?</i>
+
+228
+00:18:12,758 --> 00:18:17,763
+<i>You make a sordid group
+Hey, how low can you stoop?</i>
+
+229
+00:18:18,347 --> 00:18:22,852
+<i>Poor, poor Joseph, sold to be a slave</i>
+
+230
+00:18:23,477 --> 00:18:25,855
+<i>Situation's grave</i>
+
+231
+00:18:25,896 --> 00:18:32,528
+<i>Hey, sold to be a slave</i>
+
+232
+00:18:33,529 --> 00:18:35,031
+(WOLF HOWLING)
+
+233
+00:18:36,490 --> 00:18:37,867
+(IMITATING HARMONICA)
+
+234
+00:18:49,879 --> 00:18:51,756
+(BLUES MUSIC PLAYING)
+
+235
+00:18:54,216 --> 00:18:57,887
+<i>Father, we've something to tell you</i>
+
+236
+00:18:57,970 --> 00:19:02,391
+<i>A story of our time</i>
+
+237
+00:19:02,433 --> 00:19:07,229
+<i>A tragic but inspiring tale</i>
+
+238
+00:19:07,271 --> 00:19:11,150
+<i>Of manhood in its prime</i>
+
+239
+00:19:11,442 --> 00:19:15,905
+<i>You know you had a dozen sons</i>
+
+240
+00:19:15,946 --> 00:19:20,284
+<i>Well, now that's not quite true</i>
+
+241
+00:19:20,368 --> 00:19:25,122
+<i>But feel no sorrow, do not grieve</i>
+
+242
+00:19:25,206 --> 00:19:28,584
+<i>He would not want you to</i>
+
+243
+00:19:29,126 --> 00:19:32,380
+<i>You see, there's one more angel in heaven</i>
+
+244
+00:19:32,421 --> 00:19:33,464
+(VOCALISING)
+
+245
+00:19:33,547 --> 00:19:38,094
+<i>There's one more star in the sky</i>
+
+246
+00:19:38,761 --> 00:19:42,264
+<i>Joseph, we'll never forget you</i>
+
+247
+00:19:42,640 --> 00:19:43,766
+<i>It's tough!</i>
+
+248
+00:19:43,808 --> 00:19:47,103
+<i>But we're gonna get by</i>
+
+249
+00:19:47,144 --> 00:19:51,691
+<i>There's one less place at our table</i>
+
+250
+00:19:51,774 --> 00:19:55,736
+<i>There's one more tear in my eye</i>
+
+251
+00:19:56,153 --> 00:20:00,866
+<i>But, Joseph, the things that you stood for</i>
+
+252
+00:20:00,950 --> 00:20:04,036
+<i>Like love and peace, never die</i>
+
+253
+00:20:05,496 --> 00:20:09,458
+<i>When I think of his last great battle</i>
+
+254
+00:20:09,542 --> 00:20:13,254
+<i>A lump comes to my throat</i>
+
+255
+00:20:14,004 --> 00:20:18,634
+<i>It takes a man who knows no fear</i>
+
+256
+00:20:18,926 --> 00:20:22,138
+<i>To wrestle with a goat</i>
+
+257
+00:20:22,972 --> 00:20:26,642
+<i>His blood-stained coat is tribute</i>
+
+258
+00:20:26,726 --> 00:20:31,439
+<i>To his final sacrifice</i>
+
+259
+00:20:31,814 --> 00:20:36,152
+<i>His body may be past its peak</i>
+
+260
+00:20:36,277 --> 00:20:40,614
+<i>But his soul's in paradise</i>
+
+261
+00:20:41,323 --> 00:20:42,450
+(VOCALISING)
+
+262
+00:20:42,908 --> 00:20:44,618
+<i>So long, little Joe</i>
+
+263
+00:20:46,871 --> 00:20:50,291
+<i>Adios, buckaroo</i>
+
+264
+00:20:51,584 --> 00:20:54,754
+<i>Ten-four, good buddy</i>
+
+265
+00:20:58,883 --> 00:21:02,845
+<i>There's one less place at our table</i>
+
+266
+00:21:03,345 --> 00:21:05,639
+<i>There's one more tear in my eye</i>
+
+267
+00:21:07,683 --> 00:21:12,021
+<i>But, Joseph, the things that you stood for</i>
+
+268
+00:21:12,438 --> 00:21:15,483
+<i>Like truth and light, never die</i>
+
+269
+00:21:17,067 --> 00:21:22,198
+<i>Carve his name with pride and courage</i>
+
+270
+00:21:22,281 --> 00:21:25,201
+<i>Let no tear be shed</i>
+
+271
+00:21:25,951 --> 00:21:30,873
+<i>- If he had not laid down his life
+-Goldarnit, goldarnit</i>
+
+272
+00:21:30,915 --> 00:21:37,880
+<i>We all would now be dead</i>
+
+273
+00:21:41,175 --> 00:21:43,052
+(LIVELY MUSIC PLAYING)
+
+274
+00:21:43,344 --> 00:21:44,678
+(ALL WHOOPING)
+
+275
+00:21:58,275 --> 00:22:01,654
+<i>(SINGING) There's one more angel in heaven</i>
+
+276
+00:22:01,737 --> 00:22:05,574
+<i>There's one more star in the sky</i>
+
+277
+00:22:05,616 --> 00:22:08,744
+<i>Joseph, the things that you stood for</i>
+
+278
+00:22:09,161 --> 00:22:12,164
+<i>Like truth and light, never die</i>
+
+279
+00:22:13,165 --> 00:22:14,542
+(ALL WHOOPING)
+
+280
+00:23:07,136 --> 00:23:10,139
+<i>There's one more angel in heaven</i>
+
+281
+00:23:10,639 --> 00:23:14,560
+<i>There's one more star in the sky</i>
+
+282
+00:23:14,643 --> 00:23:17,980
+<i>Joseph, the things that you stood for</i>
+
+283
+00:23:18,063 --> 00:23:20,983
+<i>Like truth and light, never die</i>
+
+284
+00:23:21,066 --> 00:23:24,153
+<i>There's one more angel in heaven</i>
+
+285
+00:23:24,486 --> 00:23:27,990
+<i>There's one more star in the sky</i>
+
+286
+00:23:28,407 --> 00:23:33,662
+<i>Joseph, the things that you stood for
+Like truth and light, never...</i>
+
+287
+00:23:33,746 --> 00:23:34,997
+(MUSIC STOPS)
+
+288
+00:23:38,000 --> 00:23:42,296
+<i>There's one more angel in heaven</i>
+
+289
+00:23:42,338 --> 00:23:43,464
+(CRYING)
+
+290
+00:23:44,006 --> 00:23:48,594
+<i>There's one more star in the sky</i>
+
+291
+00:23:49,845 --> 00:23:53,140
+<i>Father, the things that he stood for</i>
+
+292
+00:23:53,349 --> 00:23:54,767
+(WEEPING LOUDLY)
+
+293
+00:23:55,392 --> 00:24:00,022
+<i>Like democracy, never...</i>
+
+294
+00:24:02,942 --> 00:24:04,276
+(MUSIC CONTINUES)
+
+295
+00:24:04,526 --> 00:24:05,861
+(ALL WHOOPING)
+
+296
+00:24:10,950 --> 00:24:12,034
+<i>Die!</i>
+
+297
+00:24:13,410 --> 00:24:15,996
+<i>(SINGING)
+Joseph was taken to Egypt in chains</i>
+
+298
+00:24:16,038 --> 00:24:18,207
+<i>and sold</i>
+
+299
+00:24:18,248 --> 00:24:21,543
+<i>Where he was bought
+by a captain named Potiphar</i>
+
+300
+00:24:21,627 --> 00:24:22,962
+(UPBEAT MUSIC PLAYING)
+
+301
+00:24:43,732 --> 00:24:45,275
+(ZANY INSTRUMENTAL MUSIC)
+
+302
+00:24:51,740 --> 00:24:55,703
+<i>(SINGING) Potiphar had very few cares</i>
+
+303
+00:24:55,744 --> 00:24:59,873
+<i>He was one of Egypt's millionaires</i>
+
+304
+00:24:59,915 --> 00:25:04,044
+<i>Having made a fortune buying shares in...</i>
+
+305
+00:25:04,336 --> 00:25:05,379
+Pyramids.
+
+306
+00:25:08,173 --> 00:25:11,635
+<i>Potiphar had made a huge pile</i>
+
+307
+00:25:12,219 --> 00:25:16,140
+<i>Owned a large percentage of the Nile</i>
+
+308
+00:25:16,223 --> 00:25:19,768
+<i>Meant that I could really live in style</i>
+
+309
+00:25:19,810 --> 00:25:20,811
+<i>And he did</i>
+
+310
+00:25:20,894 --> 00:25:22,813
+Oh, I did.
+
+311
+00:25:24,773 --> 00:25:30,279
+<i>Joseph was an unimportant slave</i>
+
+312
+00:25:30,320 --> 00:25:34,908
+<i>Who found he liked his master
+Consequently worked much harder</i>
+
+313
+00:25:35,200 --> 00:25:37,036
+<i>Even with devotion</i>
+
+314
+00:25:37,119 --> 00:25:40,372
+<i>Potiphar could see that
+Joseph was a cut above the average</i>
+
+315
+00:25:40,456 --> 00:25:43,542
+<i>Made him leader of his household
+Maximum promotion</i>
+
+316
+00:25:45,461 --> 00:25:49,339
+<i>Potiphar was cool and so fine</i>
+
+317
+00:25:49,423 --> 00:25:53,510
+<i>But my wife would never toe the line</i>
+
+318
+00:25:53,594 --> 00:25:58,724
+<i>It's all there in Chapter 39 of Genesis</i>
+
+319
+00:26:01,643 --> 00:26:03,729
+<i>She was beautiful but</i>
+
+320
+00:26:03,812 --> 00:26:05,314
+<i>Evil</i>
+
+321
+00:26:05,647 --> 00:26:09,860
+<i>Saw a lot of men against his will</i>
+
+322
+00:26:09,943 --> 00:26:14,198
+<i>He would have to tell her
+that she still was his</i>
+
+323
+00:26:14,281 --> 00:26:15,282
+You're mine!
+
+324
+00:26:18,327 --> 00:26:23,123
+<i>Joseph's looks and handsome figure</i>
+
+325
+00:26:23,207 --> 00:26:28,504
+<i>Had attracted her attention
+Every morning she would beckon...</i>
+
+326
+00:26:28,545 --> 00:26:30,172
+Come and lie with me, love.
+
+327
+00:26:30,506 --> 00:26:33,634
+<i>Joseph wanted to resist her
+Till one day she proved too eager</i>
+
+328
+00:26:33,675 --> 00:26:34,718
+<i>Joseph cried in vain...</i>
+
+329
+00:26:34,802 --> 00:26:36,678
+Please, stop! I don't believe in free love!
+
+330
+00:26:38,388 --> 00:26:40,015
+Pity.
+
+331
+00:26:48,482 --> 00:26:49,525
+Please.
+
+332
+00:26:53,529 --> 00:26:54,905
+(EXCLAIMS)
+
+333
+00:27:11,713 --> 00:27:13,298
+No,no,no.
+
+334
+00:27:23,851 --> 00:27:25,060
+(WOMAN GASPS)
+
+335
+00:27:25,853 --> 00:27:27,312
+(WOMAN LAUGHING)
+
+336
+00:27:43,871 --> 00:27:48,333
+<i>Potiphar was counting shekels</i>
+
+337
+00:27:48,417 --> 00:27:51,378
+<i>In his den below the bedroom</i>
+
+338
+00:27:51,420 --> 00:27:55,549
+<i>When he heard a mighty rumpus
+clattering above him</i>
+
+339
+00:27:55,716 --> 00:27:59,094
+<i>Suddenly, he knew his riches
+couldn't buy him what he wanted</i>
+
+340
+00:27:59,136 --> 00:28:02,472
+<i>Gold would never make him happy
+if she didn't love him</i>
+
+341
+00:28:03,473 --> 00:28:07,436
+<i>Letting out a mighty roar</i>
+
+342
+00:28:07,519 --> 00:28:09,563
+(POTIPHAR SCREAMING)
+
+343
+00:28:09,646 --> 00:28:15,402
+<i>Potiphar burst through the door</i>
+
+344
+00:28:15,986 --> 00:28:20,908
+<i>Joseph, I'll see you rot in jail</i>
+
+345
+00:28:21,283 --> 00:28:26,496
+<i>The things you have done
+are beyond the pale</i>
+
+346
+00:28:26,580 --> 00:28:32,002
+<i>Poor, poor Joseph, locked up in a cell</i>
+
+347
+00:28:32,085 --> 00:28:37,841
+<i>Things ain't going well
+Hey, locked up in a cell</i>
+
+348
+00:28:37,925 --> 00:28:43,472
+<i>Poor, poor Joseph, locked up in a cell</i>
+
+349
+00:28:43,513 --> 00:28:49,937
+<i>Things ain't going well
+Hey, locked up in a cell</i>
+
+350
+00:28:51,605 --> 00:28:54,691
+<i>Locked up</i>
+
+351
+00:28:54,775 --> 00:29:01,740
+<i>In a cell</i>
+
+352
+00:29:03,533 --> 00:29:05,869
+(SOMBRE MUSIC PLAYING)
+
+353
+00:29:35,816 --> 00:29:41,029
+<i>(SINGING) Close every door to me</i>
+
+354
+00:29:43,365 --> 00:29:49,413
+<i>Hide all the world from me</i>
+
+355
+00:29:51,206 --> 00:29:55,502
+<i>Bar all the windows</i>
+
+356
+00:29:55,544 --> 00:29:58,880
+<i>And shut out the light</i>
+
+357
+00:30:00,090 --> 00:30:04,469
+<i>Do what you want with me</i>
+
+358
+00:30:04,553 --> 00:30:08,724
+<i>Hate me and laugh at me</i>
+
+359
+00:30:08,807 --> 00:30:12,728
+<i>Darken my daytime</i>
+
+360
+00:30:12,811 --> 00:30:17,149
+<i>And torture my night</i>
+
+361
+00:30:17,232 --> 00:30:20,777
+<i>If my life were important</i>
+
+362
+00:30:20,861 --> 00:30:26,033
+<i>I would ask, "Will I live or die?"</i>
+
+363
+00:30:26,074 --> 00:30:29,661
+<i>But I know the answers</i>
+
+364
+00:30:29,745 --> 00:30:34,207
+<i>Lie far from this world</i>
+
+365
+00:30:35,042 --> 00:30:40,255
+<i>Close every door to me</i>
+
+366
+00:30:40,589 --> 00:30:43,633
+<i>Keep those I love from me</i>
+
+367
+00:30:43,717 --> 00:30:47,804
+<i>Children of Israel</i>
+
+368
+00:30:47,888 --> 00:30:51,892
+<i>Are never alone</i>
+
+369
+00:30:51,933 --> 00:30:56,521
+<i>For I know I shall find</i>
+
+370
+00:30:56,605 --> 00:31:00,067
+<i>My own peace of mind</i>
+
+371
+00:31:01,026 --> 00:31:04,863
+<i>For I have been promised</i>
+
+372
+00:31:05,197 --> 00:31:09,951
+<i>A land of my own</i>
+
+373
+00:31:11,244 --> 00:31:14,998
+<i>Close every door to me</i>
+
+374
+00:31:15,082 --> 00:31:19,127
+<i>Hide all the world from me</i>
+
+375
+00:31:19,211 --> 00:31:23,048
+<i>Bar all the windows</i>
+
+376
+00:31:23,131 --> 00:31:27,177
+<i>And shut out the light</i>
+
+377
+00:31:27,761 --> 00:31:29,805
+(ALL VOCALISING)
+
+378
+00:32:01,503 --> 00:32:05,549
+<i>Just give me a number</i>
+
+379
+00:32:06,133 --> 00:32:09,553
+<i>Instead of my name</i>
+
+380
+00:32:10,554 --> 00:32:14,391
+<i>Forget all about me</i>
+
+381
+00:32:14,474 --> 00:32:17,686
+<i>And let me decay</i>
+
+382
+00:32:19,146 --> 00:32:22,899
+<i>I do not matter</i>
+
+383
+00:32:22,983 --> 00:32:26,611
+<i>I'm only one person</i>
+
+384
+00:32:27,362 --> 00:32:31,199
+<i>Destroy me completely</i>
+
+385
+00:32:31,283 --> 00:32:35,370
+<i>Then throw me away</i>
+
+386
+00:32:35,454 --> 00:32:39,082
+<i>If my life were important</i>
+
+387
+00:32:39,166 --> 00:32:44,212
+<i>I would ask, "Will I live or die?"</i>
+
+388
+00:32:44,296 --> 00:32:47,883
+<i>But I know the answers</i>
+
+389
+00:32:47,966 --> 00:32:53,388
+<i>Lie far from this world</i>
+
+390
+00:32:53,847 --> 00:32:57,767
+<i>ALL: Close every door to me</i>
+
+391
+00:32:58,727 --> 00:33:02,731
+<i>Keep those I love from me</i>
+
+392
+00:33:02,772 --> 00:33:06,735
+<i>Children of Israel</i>
+
+393
+00:33:06,818 --> 00:33:10,947
+<i>Are never alone</i>
+
+394
+00:33:11,031 --> 00:33:15,577
+<i>For we know we shall find</i>
+
+395
+00:33:15,660 --> 00:33:20,123
+<i>Our own peace of mind</i>
+
+396
+00:33:20,749 --> 00:33:25,086
+<i>For we have been promised</i>
+
+397
+00:33:25,670 --> 00:33:32,636
+<i>A land of our own</i>
+
+398
+00:33:40,101 --> 00:33:41,269
+(SOFT MUSIC PLAYING)
+
+399
+00:33:46,775 --> 00:33:49,778
+<i>(SINGING) Joseph's luck was really out</i>
+
+400
+00:33:49,819 --> 00:33:53,448
+<i>His spirit and his fortune low</i>
+
+401
+00:33:53,532 --> 00:33:56,660
+<i>Alone he sat, alone he thought</i>
+
+402
+00:33:56,868 --> 00:34:00,288
+<i>Of happy times he used to know</i>
+
+403
+00:34:00,580 --> 00:34:05,961
+<i>Hey, dreamer, don't be so upset</i>
+
+404
+00:34:07,629 --> 00:34:13,134
+<i>Hey, Joseph, you're not beaten yet</i>
+
+405
+00:34:14,553 --> 00:34:18,181
+<i>Go, go, go, Joseph, you know what they say</i>
+
+406
+00:34:18,265 --> 00:34:21,685
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+407
+00:34:21,768 --> 00:34:25,313
+<i>Don't give up, Joseph
+Fight till you drop</i>
+
+408
+00:34:25,397 --> 00:34:26,565
+<i>We've read the book</i>
+
+409
+00:34:26,982 --> 00:34:29,693
+<i>And you come out on top</i>
+
+410
+00:34:32,279 --> 00:34:35,240
+<i>The prison walls were wet and black</i>
+
+411
+00:34:35,323 --> 00:34:38,952
+<i>His chains were heavy, weighed him down</i>
+
+412
+00:34:38,994 --> 00:34:42,122
+<i>A candle was his only light</i>
+
+413
+00:34:42,163 --> 00:34:44,833
+<i>The hungry rats the only sound</i>
+
+414
+00:34:45,834 --> 00:34:51,006
+<i>Hey, dreamer, don't be so upset</i>
+
+415
+00:34:52,424 --> 00:34:59,180
+<i>Hey, Joseph, you're not beaten yet</i>
+
+416
+00:34:59,681 --> 00:35:03,143
+<i>Go, go, go, Joseph, you know what they say</i>
+
+417
+00:35:03,184 --> 00:35:06,730
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+418
+00:35:06,813 --> 00:35:10,358
+<i>Don't give up, Joseph
+Wait and you'll see</i>
+
+419
+00:35:10,400 --> 00:35:11,901
+<i>We've been outside</i>
+
+420
+00:35:11,985 --> 00:35:16,615
+<i>NARRATOR: And you're on the marquee</i>
+
+421
+00:35:17,032 --> 00:35:19,993
+<i>Now into Joseph's prison cell</i>
+
+422
+00:35:20,160 --> 00:35:23,872
+<i>Were flung two very frightened men</i>
+
+423
+00:35:23,955 --> 00:35:29,711
+<i>We don't think that we will ever
+see the light of day again</i>
+
+424
+00:35:30,420 --> 00:35:34,716
+<i>Hey, Joseph, help us if you can</i>
+
+425
+00:35:35,300 --> 00:35:40,055
+<i>We've had dreams that we don't understand</i>
+
+426
+00:35:42,307 --> 00:35:45,977
+<i>Both men were servants of Pharaoh the King</i>
+
+427
+00:35:46,061 --> 00:35:49,189
+<i>Both in the doghouse for doing their thing</i>
+
+428
+00:35:49,230 --> 00:35:53,068
+<i>One was a baker, a cook in his prime</i>
+
+429
+00:35:53,151 --> 00:35:57,572
+<i>One was a butler, the Jeeves of his time</i>
+
+430
+00:35:59,866 --> 00:36:02,911
+<i>Tell me of your dreams, my friends</i>
+
+431
+00:36:02,952 --> 00:36:06,539
+<i>And I will tell you what they show</i>
+
+432
+00:36:06,581 --> 00:36:10,835
+<i>Though I cannot guarantee to get it right</i>
+
+433
+00:36:11,044 --> 00:36:12,337
+<i>I'll have a go</i>
+
+434
+00:36:12,671 --> 00:36:16,716
+<i>First the butler, trembling, took the floor</i>
+
+435
+00:36:17,384 --> 00:36:22,889
+<i>Nervously he spoke of what he saw</i>
+
+436
+00:36:24,057 --> 00:36:27,435
+<i>There I was standing in front of a vine</i>
+
+437
+00:36:27,769 --> 00:36:30,939
+<i>I picked some grapes
+and I crushed them to wine</i>
+
+438
+00:36:31,022 --> 00:36:34,359
+<i>I gave them to Pharaoh,
+who drank from my cup</i>
+
+439
+00:36:34,693 --> 00:36:38,029
+<i>I tried to interpret, but I had to give up</i>
+
+440
+00:36:41,408 --> 00:36:44,536
+<i>You will soon be free, my friend</i>
+
+441
+00:36:44,619 --> 00:36:47,539
+<i>So do not worry any more</i>
+
+442
+00:36:47,622 --> 00:36:50,583
+<i>The King will let you out of here</i>
+
+443
+00:36:50,625 --> 00:36:53,962
+<i>You'll buttle as you did before</i>
+
+444
+00:36:54,254 --> 00:36:58,466
+<i>Next the baker rose to tell his dream</i>
+
+445
+00:36:58,800 --> 00:37:05,223
+<i>Hoping it would have a similar theme</i>
+
+446
+00:37:05,473 --> 00:37:09,185
+<i>There I was standing with baskets of bread</i>
+
+447
+00:37:09,269 --> 00:37:11,521
+<i>High in the sky I saw birds overhead</i>
+
+448
+00:37:12,439 --> 00:37:16,192
+<i>Who flew to my basket and ate every slice</i>
+
+449
+00:37:16,276 --> 00:37:19,237
+<i>Give me the message, like his would be nice</i>
+
+450
+00:37:22,824 --> 00:37:28,371
+<i>Sad to say your dream is
+not the kind of dream I'd like to get</i>
+
+451
+00:37:29,205 --> 00:37:32,208
+<i>Pharaoh has it in for you</i>
+
+452
+00:37:32,292 --> 00:37:35,670
+<i>Your execution date is set</i>
+
+453
+00:37:35,712 --> 00:37:40,550
+<i>Don't rely on all I said I saw</i>
+
+454
+00:37:42,260 --> 00:37:49,100
+<i>It's just that I have not been wrong before</i>
+
+455
+00:37:50,518 --> 00:37:51,895
+(UPBEAT MUSIC PLAYING)
+
+456
+00:37:52,187 --> 00:37:53,772
+<i>Go, go, Joe</i>
+
+457
+00:37:53,855 --> 00:37:56,775
+<i>Go, go, Joe
+Go, go, Joe</i>
+
+458
+00:37:56,858 --> 00:37:58,276
+<i>Go, go, Joe</i>
+
+459
+00:37:58,359 --> 00:38:01,738
+<i>Go, go, go, Joseph, you know what they say</i>
+
+460
+00:38:01,821 --> 00:38:04,866
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+461
+00:38:04,991 --> 00:38:08,328
+<i>Sha la la, Joseph, you're still in your prime</i>
+
+462
+00:38:08,369 --> 00:38:11,748
+<i>You and your dreamcoat ahead of your time</i>
+
+463
+00:38:11,831 --> 00:38:15,376
+<i>Go, go, go, Joseph, you know what they say</i>
+
+464
+00:38:15,460 --> 00:38:18,421
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+465
+00:38:18,505 --> 00:38:21,925
+<i>Sha Ia Ia, Joseph, you're still in your prime</i>
+
+466
+00:38:22,008 --> 00:38:25,386
+<i>You and your dreamcoat ahead of your time</i>
+
+467
+00:38:25,470 --> 00:38:27,055
+<i>Go, go, go, Joe!</i>
+
+468
+00:38:32,435 --> 00:38:33,561
+<i>Go, go, go, Joe!</i>
+
+469
+00:38:39,192 --> 00:38:42,570
+Go, go, go, Joe!
+Go, go, go, Joe!
+
+470
+00:38:42,612 --> 00:38:45,198
+<i>Go, go, go, Joe!</i>
+
+471
+00:38:45,240 --> 00:38:49,202
+<i>Go, go, go, go, go, go, Joseph
+You know what they say</i>
+
+472
+00:38:49,410 --> 00:38:52,580
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+473
+00:38:52,622 --> 00:38:55,959
+<i>Sha Ia Ia, Joseph, you're still in your prime</i>
+
+474
+00:38:56,042 --> 00:38:59,212
+<i>You and your dreamcoat ahead of your time</i>
+
+475
+00:38:59,671 --> 00:39:03,842
+<i>Go, go, go, go, go, go, go, Joseph
+You know what they say</i>
+
+476
+00:39:03,925 --> 00:39:07,011
+<i>Hang on now, Joseph
+You'll make it someday</i>
+
+477
+00:39:07,095 --> 00:39:10,181
+<i>Sha Ia Ia, Joseph, you're still in your prime</i>
+
+478
+00:39:10,473 --> 00:39:13,601
+<i>You and your dreamcoat ahead of your time</i>
+
+479
+00:39:13,643 --> 00:39:15,228
+<i>Ahead of your time</i>
+
+480
+00:39:15,520 --> 00:39:17,063
+<i>Ahead of my time</i>
+
+481
+00:39:17,105 --> 00:39:18,773
+<i>Ahead of your time</i>
+
+482
+00:39:18,857 --> 00:39:20,650
+<i>Ahead of my time</i>
+
+483
+00:39:20,733 --> 00:39:23,862
+<i>- Ahead of your time
+-Ahead of my time</i>
+
+484
+00:39:23,945 --> 00:39:27,156
+<i>- Ahead of your time
+-Ahead of my time</i>
+
+485
+00:39:27,240 --> 00:39:30,618
+<i>- Ahead of your time
+-Ahead of my time</i>
+
+486
+00:39:30,660 --> 00:39:32,704
+<i>Ahead of your time</i>
+
+487
+00:39:33,788 --> 00:39:39,043
+<i>Ahead of your</i>
+
+488
+00:39:46,551 --> 00:39:53,308
+<i>Time</i>
+
+489
+00:39:54,434 --> 00:39:56,311
+(CHEERING LOUDLY)
+
+490
+00:40:05,111 --> 00:40:06,946
+(SLOW MUSIC PLAYING)
+
+491
+00:40:11,117 --> 00:40:14,996
+<i>(SINGING) Pharaoh, he was a powerful man</i>
+
+492
+00:40:15,038 --> 00:40:19,125
+<i>With the ancient world
+in the palm of his hand</i>
+
+493
+00:40:19,167 --> 00:40:22,879
+<i>To all intents and purposes he</i>
+
+494
+00:40:22,962 --> 00:40:27,175
+<i>Was Egypt with a capital "E"</i>
+
+495
+00:40:27,258 --> 00:40:31,179
+<i>Whatever he did
+He was showered with praise</i>
+
+496
+00:40:31,262 --> 00:40:35,308
+<i>If he cracked a joke
+Then you chortled for days</i>
+
+497
+00:40:35,642 --> 00:40:38,853
+<i>No one had rights or a vote but the King</i>
+
+498
+00:40:39,354 --> 00:40:43,149
+<i>In fact, you might say
+he was fairly right-wing</i>
+
+499
+00:40:43,232 --> 00:40:46,611
+<i>When Pharaoh's around</i>
+
+500
+00:40:46,694 --> 00:40:51,115
+<i>Then you get down on the ground</i>
+
+501
+00:40:51,199 --> 00:40:57,664
+<i>If you ever find yourself near Ramses</i>
+
+502
+00:40:58,164 --> 00:41:00,291
+<i>Get down on your knees</i>
+
+503
+00:41:00,375 --> 00:41:02,085
+<i>A pharaoh story</i>
+
+504
+00:41:02,168 --> 00:41:05,755
+<i>A pharaoh story, a pharaoh story</i>
+
+505
+00:41:05,838 --> 00:41:07,757
+<i>A pharaoh story</i>
+
+506
+00:41:07,840 --> 00:41:11,886
+<i>Down at the other end of the scale</i>
+
+507
+00:41:11,970 --> 00:41:15,932
+<i>Joseph is still doing time in jail</i>
+
+508
+00:41:16,015 --> 00:41:19,978
+<i>For even though he is in with the guards</i>
+
+509
+00:41:20,061 --> 00:41:23,606
+<i>A lifetime in prison seems quite on the cards</i>
+
+510
+00:41:23,690 --> 00:41:27,193
+<i>But if my analysis of the position is right</i>
+
+511
+00:41:27,652 --> 00:41:29,278
+<i>At the end of the tunnel</i>
+
+512
+00:41:29,570 --> 00:41:31,489
+<i>- There's a glimmer of light
+-Glimmer of light</i>
+
+513
+00:41:31,990 --> 00:41:35,743
+<i>For all of a sudden indescribable things</i>
+
+514
+00:41:35,827 --> 00:41:39,956
+<i>Have shattered the sleep
+of both peasants and kings</i>
+
+515
+00:41:40,039 --> 00:41:42,750
+<i>Strange as it seems</i>
+
+516
+00:41:42,834 --> 00:41:47,505
+<i>There's been a run of crazy dreams</i>
+
+517
+00:41:47,588 --> 00:41:53,970
+<i>And a man who can interpret could go far</i>
+
+518
+00:41:54,429 --> 00:41:56,556
+<i>Could become a star</i>
+
+519
+00:41:56,597 --> 00:42:00,018
+<i>Could be famous
+Could be a big success</i>
+
+520
+00:42:00,643 --> 00:42:03,896
+<i>Could be famous
+Could be a big success</i>
+
+521
+00:42:03,938 --> 00:42:06,733
+<i>Strange as it seems</i>
+
+522
+00:42:06,774 --> 00:42:11,529
+<i>There's been a run of crazy dreams</i>
+
+523
+00:42:11,612 --> 00:42:18,494
+<i>And a man who can interpret could go far</i>
+
+524
+00:42:18,578 --> 00:42:20,496
+<i>Could become a star</i>
+
+525
+00:42:20,621 --> 00:42:23,541
+<i>Could be famous
+Could be a big success</i>
+
+526
+00:42:23,624 --> 00:42:28,004
+<i>- A star
+-Could be famous, could be a big success</i>
+
+527
+00:42:28,087 --> 00:42:30,423
+<i>Strange as it seems</i>
+
+528
+00:42:30,465 --> 00:42:35,470
+<i>There's been a run of crazy dreams</i>
+
+529
+00:42:35,553 --> 00:42:38,973
+<i>And a man who can interpret</i>
+
+530
+00:42:39,057 --> 00:42:45,897
+<i>Could go far</i>
+
+531
+00:42:46,481 --> 00:42:52,570
+<i>Could become a star</i>
+
+532
+00:42:55,907 --> 00:43:00,495
+<i>Could be</i> a
+
+533
+00:43:01,454 --> 00:43:08,377
+Star
+
+534
+00:43:09,587 --> 00:43:10,880
+(CHEERING)
+
+535
+00:43:11,672 --> 00:43:13,800
+(INTENSE INSTRUMENTAL MUSIC PLAYING)
+
+536
+00:44:11,399 --> 00:44:12,525
+(MUSIC STOPS)
+
+537
+00:44:14,235 --> 00:44:18,614
+<i>Guess what?
+In his bed, Pharaoh had an uneasy night</i>
+
+538
+00:44:18,698 --> 00:44:23,119
+<i>He had had a dream
+that pinned him to his sheets with fright</i>
+
+539
+00:44:23,202 --> 00:44:26,581
+<i>No one knew the meaning of the dream</i>
+
+540
+00:44:27,582 --> 00:44:31,294
+<i>What to do, whatever could it mean?</i>
+
+541
+00:44:31,919 --> 00:44:34,505
+<i>Then his butler said</i>
+
+542
+00:44:34,630 --> 00:44:36,424
+<i>I know of a bloke in jail</i>
+
+543
+00:44:36,591 --> 00:44:41,012
+<i>Who is hot on dreams
+Could explain old Pharaoh's tale</i>
+
+544
+00:44:41,095 --> 00:44:45,266
+<i>- Pharaoh said
+-Fetch this Joseph man</i>
+
+545
+00:44:45,516 --> 00:44:49,061
+<i>I need him to help me if he can</i>
+
+546
+00:44:50,021 --> 00:44:54,442
+<i>Poor, poor Pharaoh, whatcha gonna do?</i>
+
+547
+00:44:54,483 --> 00:45:00,448
+<i>Dreams are haunting you
+Hey, whatcha gonna do?</i>
+
+548
+00:45:00,907 --> 00:45:07,330
+<i>Chained and bound, afraid, alone</i>
+
+549
+00:45:07,830 --> 00:45:13,920
+<i>Joseph stood before the throne</i>
+
+550
+00:45:14,295 --> 00:45:19,800
+<i>My service to Pharaoh has begun</i>
+
+551
+00:45:20,384 --> 00:45:26,140
+<i>Tell me your problems, mighty one</i>
+
+552
+00:45:26,182 --> 00:45:27,266
+(BLUESY ROCK MUSIC PLAYING)
+
+553
+00:45:27,308 --> 00:45:30,686
+<i>Pharaoh is in the building!</i>
+
+554
+00:45:32,480 --> 00:45:35,900
+<i>Well, I was wandering along
+the banks of the river</i>
+
+555
+00:45:35,983 --> 00:45:39,946
+<i>When seven fat cows came out of the Nile</i>
+
+556
+00:45:41,197 --> 00:45:42,907
+<i>Oh, yeah</i>
+
+557
+00:45:42,990 --> 00:45:46,827
+<i>And right behind these fine healthy animals</i>
+
+558
+00:45:46,869 --> 00:45:50,248
+<i>Seven other cows that were skinny and vile</i>
+
+559
+00:45:50,831 --> 00:45:52,375
+(VOCALISING)
+
+560
+00:45:53,459 --> 00:45:57,463
+<i>And then the thin cows ate the fat cows
+Which I thought would do 'em good</i>
+
+561
+00:45:58,673 --> 00:46:00,383
+<i>Oh, yeah</i>
+
+562
+00:46:00,466 --> 00:46:05,471
+<i>But it didn't make 'em fatter
+Like I thought a monster supper should</i>
+
+563
+00:46:05,638 --> 00:46:07,348
+<i>Oh, no</i>
+
+564
+00:46:07,431 --> 00:46:12,812
+<i>Because the thin cows were as thin
+as they had ever, ever, ever been</i>
+
+565
+00:46:14,689 --> 00:46:20,027
+<i>This dream has got me baffled
+Hey, Joseph, what does it mean?</i>
+
+566
+00:46:21,529 --> 00:46:24,573
+<i>Now you know that kings ain't stupid</i>
+
+567
+00:46:25,366 --> 00:46:28,327
+<i>But I don't have a clue</i>
+
+568
+00:46:28,869 --> 00:46:31,831
+<i>Don't you be cruel, Joseph</i>
+
+569
+00:46:32,373 --> 00:46:35,251
+<i>Help me, now, I'm begging you</i>
+
+570
+00:46:35,459 --> 00:46:38,921
+<i>I was standing doing nothing
+in a field out of town</i>
+
+571
+00:46:39,005 --> 00:46:42,967
+<i>When I saw seven beautiful ears of corn</i>
+
+572
+00:46:44,260 --> 00:46:45,594
+<i>Oh, yeah</i>
+
+573
+00:46:45,970 --> 00:46:49,557
+<i>They were ripe, they were golden
+But you've guessed it, right behind them</i>
+
+574
+00:46:49,598 --> 00:46:53,394
+<i>There were seven other ears
+that were tattered and torn</i>
+
+575
+00:46:56,480 --> 00:46:59,900
+<i>Then the bad corn ate the good corn
+Man, they came up from behind</i>
+
+576
+00:46:59,942 --> 00:47:00,985
+<i>Yes, they did</i>
+
+577
+00:47:03,487 --> 00:47:08,492
+<i>But, Joseph, here's the punch line
+It's really gonna blow your mind</i>
+
+578
+00:47:08,743 --> 00:47:10,328
+<i>Flip your lid</i>
+
+579
+00:47:10,411 --> 00:47:15,875
+<i>Because the bad corn was as bad
+as it had ever, ever, ever, ever been</i>
+
+580
+00:47:17,460 --> 00:47:19,712
+<i>Well, this dream has got me all shook up</i>
+
+581
+00:47:19,754 --> 00:47:23,549
+<i>Treat me nice
+Tell me what it means</i>
+
+582
+00:47:25,259 --> 00:47:27,261
+I understand the bit about the corn,
+
+583
+00:47:27,553 --> 00:47:29,430
+but I'm not quite sure about the cows.
+
+584
+00:47:30,097 --> 00:47:34,977
+I was wondering if you could just give it
+to me one more time, Mr Pharaoh man.
+
+585
+00:47:35,061 --> 00:47:36,270
+Please?
+
+586
+00:47:36,312 --> 00:47:39,231
+<i>Let me show you
+how we rock and roll in Egypt.</i>
+
+587
+00:47:41,817 --> 00:47:45,321
+<i>I was standing doing nothing
+in a field out of town</i>
+
+588
+00:47:45,404 --> 00:47:48,866
+<i>When I saw seven beautiful ears of corn</i>
+
+589
+00:47:50,659 --> 00:47:52,161
+<i>Oh, yeah</i>
+
+590
+00:47:52,453 --> 00:47:55,915
+<i>They were ripe, they were golden,
+but you've guessed it, right behind them</i>
+
+591
+00:47:55,956 --> 00:47:59,460
+<i>There were seven other ears
+that were tattered and torn</i>
+
+592
+00:48:02,963 --> 00:48:04,799
+<i>And then the bad corn ate the good corn</i>
+
+593
+00:48:04,840 --> 00:48:08,219
+<i>And they came up from behind
+Yes, they did</i>
+
+594
+00:48:09,887 --> 00:48:14,558
+<i>But, Joseph, here's the punch line
+It's really gonna blow your mind</i>
+
+595
+00:48:14,642 --> 00:48:16,560
+<i>This is gonna flip your lid!</i>
+
+596
+00:48:16,936 --> 00:48:22,691
+<i>Because the bad corn was as bad
+as it had ever, ever, ever, ever been</i>
+
+597
+00:48:23,901 --> 00:48:26,237
+<i>Well, this dream has got me all shook up</i>
+
+598
+00:48:26,320 --> 00:48:30,866
+<i>Treat me nice
+Tell me what it means</i>
+
+599
+00:48:33,619 --> 00:48:34,954
+<i>HEY</i>
+
+600
+00:48:34,995 --> 00:48:36,622
+(SCREAMING)
+
+601
+00:48:39,375 --> 00:48:40,501
+<i>HEY</i>
+
+602
+00:48:40,584 --> 00:48:42,253
+(SCREAMING)
+
+603
+00:48:44,713 --> 00:48:47,466
+<i>Hey, hey, hey, Joseph</i>
+
+604
+00:48:47,508 --> 00:48:50,970
+<i>Won't you tell poor old Pharaoh</i>
+
+605
+00:48:51,053 --> 00:48:53,389
+<i>What does this crazy</i>
+
+606
+00:48:53,472 --> 00:48:58,185
+<i>Crazy, crazy, crazy dream mean?</i>
+
+607
+00:48:58,936 --> 00:49:05,943
+<i>Oh, yeah</i>
+
+608
+00:49:10,364 --> 00:49:15,494
+<i>Seven years of bumper crops
+are on their way</i>
+
+609
+00:49:16,328 --> 00:49:17,705
+(ALL EXCLAIM)
+
+610
+00:49:19,206 --> 00:49:23,544
+<i>Years of plenty,
+endless wheat and tons of hay</i>
+
+611
+00:49:24,587 --> 00:49:27,923
+<i>Your farms will boom, there won't be room</i>
+
+612
+00:49:28,007 --> 00:49:31,010
+<i>To store the surplus food you grow</i>
+
+613
+00:49:31,552 --> 00:49:34,889
+<i>After that the future doesn't look so bright</i>
+
+614
+00:49:34,972 --> 00:49:38,142
+<i>Egypt's luck will change
+completely overnight</i>
+
+615
+00:49:38,225 --> 00:49:41,562
+<i>And famine's hand will stalk the land</i>
+
+616
+00:49:41,604 --> 00:49:44,190
+<i>With food an all-time low</i>
+
+617
+00:49:44,231 --> 00:49:47,568
+<i>Noble King, there is no doubt</i>
+
+618
+00:49:47,651 --> 00:49:51,155
+<i>What your dreams are all about</i>
+
+619
+00:49:51,238 --> 00:49:54,492
+<i>All these things you saw in your pyjamas</i>
+
+620
+00:49:54,575 --> 00:49:57,912
+<i>Are a long-range forecast for your farmers</i>
+
+621
+00:49:57,995 --> 00:50:04,376
+<i>And I'm sure it's crossed your mind
+What it is you have to find</i>
+
+622
+00:50:04,710 --> 00:50:08,130
+<i>Find a man to lead you through the famine</i>
+
+623
+00:50:08,214 --> 00:50:11,592
+<i>With a flair for economic planning</i>
+
+624
+00:50:11,634 --> 00:50:16,263
+<i>But who this man could be I just don't know</i>
+
+625
+00:50:16,305 --> 00:50:19,266
+<i>Who this man could be I just don't know</i>
+
+626
+00:50:19,308 --> 00:50:22,978
+<i>Who this man could be I just don't know</i>
+
+627
+00:50:23,062 --> 00:50:26,106
+<i>Who this man could be I just don't know</i>
+
+628
+00:50:26,148 --> 00:50:30,152
+<i>Who this man could be I just don't know</i>
+
+629
+00:50:31,237 --> 00:50:32,363
+<i>Joe!</i>
+
+630
+00:50:32,446 --> 00:50:33,614
+ALL: Oh!
+
+631
+00:50:40,496 --> 00:50:41,539
+<i>Pharaoh said</i>
+
+632
+00:50:41,622 --> 00:50:44,291
+<i>Well, stone the crows
+This Joseph is a clever kid</i>
+
+633
+00:50:44,333 --> 00:50:47,795
+<i>Who'd have thought that 14 cows
+could mean the things he said they did?</i>
+
+634
+00:50:47,962 --> 00:50:51,674
+<i>Joseph, you must help me further
+I have found a job for you</i>
+
+635
+00:50:51,757 --> 00:50:55,427
+<i>You shall lead us through this crisis
+You shall be my number two</i>
+
+636
+00:50:55,469 --> 00:50:59,139
+<i>Pharaoh told his guards to
+fetch a chisel from the local store</i>
+
+637
+00:50:59,223 --> 00:51:02,851
+<i>Whereupon he ordered them
+to cut the chains that Joseph wore</i>
+
+638
+00:51:02,935 --> 00:51:06,647
+<i>Joseph got a royal pardon
+And a host of splendid things</i>
+
+639
+00:51:06,689 --> 00:51:10,401
+<i>A chariot of gold, a cloak,
+a medal and some signet rings</i>
+
+640
+00:51:10,484 --> 00:51:12,069
+<i>- Joseph
+-Joseph</i>
+
+641
+00:51:12,319 --> 00:51:14,154
+<i>- Pharaoh's number two
+-Pharaoh's number two</i>
+
+642
+00:51:14,196 --> 00:51:15,906
+<i>- Joseph
+-Joseph</i>
+
+643
+00:51:15,990 --> 00:51:17,658
+<i>- Egypt looks to you
+-Egypt looks to you</i>
+
+644
+00:51:17,700 --> 00:51:21,120
+<i>Joseph, Pharaoh's number two</i>
+
+645
+00:51:21,579 --> 00:51:23,330
+<i>- Joseph
+-Joseph</i>
+
+646
+00:51:23,414 --> 00:51:25,332
+<i>- Egypt looks to you
+-Egypt looks to you</i>
+
+647
+00:51:25,374 --> 00:51:32,214
+<i>Joseph</i>
+
+648
+00:51:32,798 --> 00:51:36,552
+<i>Seven summers on the trot
+were perfect, just as Joseph said</i>
+
+649
+00:51:36,635 --> 00:51:40,014
+<i>Joseph saw that food was gathered
+Ready for the years ahead</i>
+
+650
+00:51:40,347 --> 00:51:43,934
+<i>Seven years of famine followed
+Egypt did not mind a bit</i>
+
+651
+00:51:44,018 --> 00:51:47,104
+<i>The first recorded rationing
+in history was a hit</i>
+
+652
+00:51:47,771 --> 00:51:51,358
+<i>Joseph, how can we ever say</i>
+
+653
+00:51:51,442 --> 00:51:55,195
+<i>All that we want to about you?</i>
+
+654
+00:51:55,279 --> 00:51:57,698
+<i>We're so glad that you came our way</i>
+
+655
+00:51:57,781 --> 00:51:58,824
+Okay.
+
+656
+00:51:58,949 --> 00:52:01,869
+<i>We should have perished without you</i>
+
+657
+00:52:02,161 --> 00:52:06,123
+<i>Hey! Joseph, we are the perfect team</i>
+
+658
+00:52:06,749 --> 00:52:09,752
+<i>Old buddies now, that's you and me</i>
+
+659
+00:52:10,127 --> 00:52:13,505
+<i>I was wise to have chosen you</i>
+
+660
+00:52:14,173 --> 00:52:17,092
+<i>You'll be wise to agree</i>
+
+661
+00:52:17,718 --> 00:52:20,721
+<i>Joseph, how can we ever say</i>
+
+662
+00:52:21,430 --> 00:52:24,933
+<i>All that we want to about you?</i>
+
+663
+00:52:25,142 --> 00:52:28,187
+<i>We're so glad that you came our way</i>
+
+664
+00:52:28,854 --> 00:52:31,815
+<i>We should have perished without you</i>
+
+665
+00:52:31,899 --> 00:52:36,278
+<i>Hey! We were in a jam
+that would have baffled Abraham</i>
+
+666
+00:52:36,362 --> 00:52:40,032
+<i>But now we're a partnership
+It's just a piece of cake</i>
+
+667
+00:52:40,074 --> 00:52:43,744
+<i>Greatest man since Noah
+Only goes to show-ah</i>
+
+668
+00:52:43,786 --> 00:52:47,790
+<i>Anyone from anywhere can make it
+if they get a lucky break</i>
+
+669
+00:52:48,582 --> 00:52:52,169
+<i>This could be a happy ending
+Perfect place to stop the show</i>
+
+670
+00:52:52,252 --> 00:52:55,798
+<i>Joseph after all has gone
+about as far as he can go</i>
+
+671
+00:52:56,090 --> 00:53:01,512
+<i>But I'm sure that Jacob
+and his other sons have crossed your mind</i>
+
+672
+00:53:01,595 --> 00:53:04,556
+<i>How had famine hit the family</i>
+
+673
+00:53:04,890 --> 00:53:09,520
+<i>Joseph left behind?</i>
+
+674
+00:53:12,356 --> 00:53:14,441
+(SOFT MUSIC PLAYING)
+
+675
+00:53:33,210 --> 00:53:40,008
+(SINGING IN FRENCH ACCENT)
+<i>Do you</i> remember <i>the</i> good <i>years in</i> Canaan?
+
+676
+00:53:42,469 --> 00:53:46,348
+<i>The summers were endlessly gold</i>
+
+677
+00:53:46,432 --> 00:53:47,433
+(SPEAKS FRENCH)
+
+678
+00:53:48,434 --> 00:53:52,354
+<i>The fields were a patchwork of clover</i>
+
+679
+00:53:52,438 --> 00:53:54,231
+How lovely.
+
+680
+00:53:54,314 --> 00:53:58,986
+<i>The winters were never too cold</i>
+
+681
+00:54:00,571 --> 00:54:06,285
+<i>We strolled down the boulevard together</i>
+
+682
+00:54:06,326 --> 00:54:12,499
+<i>A promenade simply divine</i>
+
+683
+00:54:12,958 --> 00:54:15,586
+<i>Now the fields are dead and bare</i>
+
+684
+00:54:16,003 --> 00:54:18,630
+<i>No joie de vivre anywhere</i>
+
+685
+00:54:19,173 --> 00:54:24,178
+<i>Et maintenant, we drink a bitter wine</i>
+
+686
+00:54:24,803 --> 00:54:28,766
+<i>Those Canaan days we used to know</i>
+
+687
+00:54:28,849 --> 00:54:35,773
+<i>Where have they gone, where did they go?</i>
+
+688
+00:54:36,148 --> 00:54:42,696
+<i>Et bien, raise your berets
+to those Canaan days</i>
+
+689
+00:54:43,739 --> 00:54:49,620
+<i>Do you remember those wonderful parties?</i>
+
+690
+00:54:49,703 --> 00:54:50,871
+Ooh la la!
+
+691
+00:54:51,538 --> 00:54:56,293
+<i>The splendour of Canaan's cuisine</i>
+
+692
+00:54:56,376 --> 00:55:00,798
+<i>Our extravagant, elegant soirees</i>
+
+693
+00:55:00,881 --> 00:55:02,382
+(ALL LAUGHING)
+
+694
+00:55:03,884 --> 00:55:09,556
+<i>The gayest the Bible has seen</i>
+
+695
+00:55:11,266 --> 00:55:14,895
+<i>It's funny, but since we lost Joseph</i>
+
+696
+00:55:16,605 --> 00:55:23,320
+<i>We've gone to the other extreme</i>
+
+697
+00:55:24,071 --> 00:55:26,573
+<i>No one comes to dinner now</i>
+
+698
+00:55:27,699 --> 00:55:30,994
+<i>We'd only eat them anyhow</i>
+
+699
+00:55:31,620 --> 00:55:38,293
+<i>I even find I'm missing Joseph's dreams</i>
+
+700
+00:55:38,794 --> 00:55:42,756
+<i>Those Canaan days we used to know</i>
+
+701
+00:55:42,798 --> 00:55:44,883
+<i>Where have they gone?</i>
+
+702
+00:55:44,925 --> 00:55:50,055
+<i>Where did they go?</i>
+
+703
+00:55:50,472 --> 00:55:56,770
+<i>Et bien, raise your berets
+to those Canaan days</i>
+
+704
+00:55:56,979 --> 00:55:58,188
+(MUSIC STOPS)
+
+705
+00:55:58,939 --> 00:56:00,148
+(UPBEAT MUSIC PLAYING)
+
+706
+00:56:00,232 --> 00:56:01,567
+(CHEERING)
+
+707
+00:57:21,271 --> 00:57:26,526
+Those Canaan days we used to know,
+where have they gone?
+
+708
+00:57:27,486 --> 00:57:31,198
+Where did they go?
+
+709
+00:57:32,574 --> 00:57:38,789
+<i>Et</i> bien, raise your berets
+to those Canaan days.
+
+710
+00:57:40,582 --> 00:57:44,461
+<i>- It's funny but
+-Since we lost</i>
+
+711
+00:57:44,544 --> 00:57:46,755
+<i>Joseph</i>
+
+712
+00:57:46,838 --> 00:57:52,803
+<i>- We've gone to the other
+-Extreme</i>
+
+713
+00:57:54,096 --> 00:57:57,057
+<i>Perhaps we all misjudged the lad</i>
+
+714
+00:57:57,140 --> 00:58:00,519
+<i>- Perhaps he wasn't
+-Quite that bad</i>
+
+715
+00:58:00,560 --> 00:58:05,857
+<i>- And how we miss his
+-Entertaining</i>
+
+716
+00:58:05,899 --> 00:58:07,609
+<i>Dreams</i>
+
+717
+00:58:07,859 --> 00:58:12,072
+<i>Those Canaan days we used to know</i>
+
+718
+00:58:12,114 --> 00:58:14,491
+<i>Where have they gone?</i>
+
+719
+00:58:14,574 --> 00:58:20,205
+<i>Where did</i>
+
+720
+00:58:22,749 --> 00:58:29,589
+<i>Did they 90?</i>
+
+721
+00:58:29,673 --> 00:58:33,260
+<i>Et bien, raise your berets</i>
+
+722
+00:58:34,219 --> 00:58:41,101
+<i>To those Canaan</i>
+
+723
+00:58:49,526 --> 00:58:52,529
+<i>Days</i>
+
+724
+00:59:02,956 --> 00:59:06,418
+<i>Et bien, raise your berets</i>
+
+725
+00:59:07,794 --> 00:59:13,633
+<i>To those Canaan</i>
+
+726
+00:59:15,302 --> 00:59:22,267
+<i>Days</i>
+
+727
+00:59:24,728 --> 00:59:28,899
+<i>(SINGING)
+So, back in Canaan the future looked rough</i>
+
+728
+00:59:29,858 --> 00:59:32,277
+<i>Jacob's family were finding it tough</i>
+
+729
+00:59:33,570 --> 00:59:37,115
+<i>For the famine has caught us unprepared</i>
+
+730
+00:59:37,157 --> 00:59:40,869
+<i>We are thin, we are ill, we are getting scared</i>
+
+731
+00:59:40,952 --> 00:59:44,581
+<i>It's enough to make anyone weep</i>
+
+732
+00:59:44,664 --> 00:59:47,709
+<i>We are down to our very last sheep</i>
+
+733
+00:59:48,335 --> 00:59:51,922
+<i>We will starve if we hang around here</i>
+
+734
+00:59:52,005 --> 00:59:54,758
+<i>But in Egypt there's food going spare</i>
+
+735
+00:59:55,592 --> 00:59:59,012
+<i>They've got corn, they've got meat
+They've got fruit and drinks</i>
+
+736
+00:59:59,096 --> 01:00:02,849
+<i>And if we have the time
+We could see the Sphinx</i>
+
+737
+01:00:02,891 --> 01:00:06,520
+<i>- So they finally decided to go
+-Here we go!</i>
+
+738
+01:00:06,603 --> 01:00:09,272
+<i>Off to Egypt to see Brother Joe</i>
+
+739
+01:00:15,737 --> 01:00:19,157
+<i>So they all lay before Joseph's feet</i>
+
+740
+01:00:19,449 --> 01:00:23,120
+<i>Mighty Prince, give us something to eat</i>
+
+741
+01:00:23,203 --> 01:00:26,790
+<i>Joseph found it a strain not to laugh because</i>
+
+742
+01:00:26,873 --> 01:00:30,460
+<i>Not a brother among them knew who he was</i>
+
+743
+01:00:30,544 --> 01:00:34,214
+<i>I shall now take them all for a ride</i>
+
+744
+01:00:34,297 --> 01:00:38,009
+<i>After all, they have tried fratricide</i>
+
+745
+01:00:38,969 --> 01:00:40,011
+(SLOW MUSIC PLAYING)
+
+746
+01:00:40,053 --> 01:00:46,059
+<i>I dreamed that in the fields one day
+the corn gave me a sign</i>
+
+747
+01:00:47,018 --> 01:00:52,941
+<i>Your eleven sheaves of corn
+all turned and bowed to mine</i>
+
+748
+01:00:53,358 --> 01:00:56,570
+<i>I dreamed I saw eleven stars</i>
+
+749
+01:00:56,611 --> 01:01:00,157
+<i>The sun, the moon and sky</i>
+
+750
+01:01:00,240 --> 01:01:03,243
+<i>Bowing down before my star</i>
+
+751
+01:01:03,326 --> 01:01:05,662
+<i>And now I realise why</i>
+
+752
+01:01:07,289 --> 01:01:08,331
+(JAZZY MUSIC PLAYING)
+
+753
+01:01:08,415 --> 01:01:12,419
+<i>How do I know where you come from?
+You could be spies</i>
+
+754
+01:01:12,502 --> 01:01:17,215
+<i>Telling me that you are hungry
+That could be lies</i>
+
+755
+01:01:17,674 --> 01:01:21,970
+<i>How do I know who you are?</i>
+
+756
+01:01:22,053 --> 01:01:26,057
+<i>Why do you think I should help you?
+Would you help me?</i>
+
+757
+01:01:26,099 --> 01:01:27,100
+Yes!
+
+758
+01:01:27,184 --> 01:01:30,478
+<i>Why on Earth should I believe you?
+I've no guarantee</i>
+
+759
+01:01:30,562 --> 01:01:35,525
+<i>Grovel, grovel, cringe, bow, stoop, fall</i>
+
+760
+01:01:35,609 --> 01:01:40,405
+<i>Worship, worship, beg, kneel, sponge, crawl</i>
+
+761
+01:01:40,614 --> 01:01:45,160
+<i>Grovel, grovel, grovel, grove!</i>
+
+762
+01:01:45,535 --> 01:01:50,248
+<i>Grovel, grovel, grovel, grove!</i>
+
+763
+01:01:51,666 --> 01:01:56,463
+<i>We are just eleven brothers
+Good men and true</i>
+
+764
+01:01:56,504 --> 01:02:01,134
+<i>Though we know we count for nothing
+when up next to you</i>
+
+765
+01:02:01,801 --> 01:02:06,097
+<i>Honesty's our middle name</i>
+
+766
+01:02:06,139 --> 01:02:10,852
+<i>Life is slowly ebbing from us
+Hope's almost gone</i>
+
+767
+01:02:10,936 --> 01:02:15,065
+<i>It's getting very hard to see us
+from sideways on</i>
+
+768
+01:02:15,148 --> 01:02:19,986
+<i>NARRATOR: Grovel, grovel, grovel, grove!</i>
+
+769
+01:02:20,070 --> 01:02:24,491
+<i>Grovel, grovel, grovel, grove!</i>
+
+770
+01:02:25,742 --> 01:02:30,413
+<i>I rather like the way you're talking
+Astute and sincere</i>
+
+771
+01:02:30,664 --> 01:02:35,418
+<i>Suddenly your tragic story gets me right here</i>
+
+772
+01:02:35,961 --> 01:02:39,923
+<i>This is what we hoped he'd say</i>
+
+773
+01:02:40,215 --> 01:02:44,469
+<i>All this tugging at my heartstrings
+seems quite justified</i>
+
+774
+01:02:44,761 --> 01:02:50,016
+<i>I shall give you what you came for
+and lots more besides</i>
+
+775
+01:02:50,058 --> 01:02:53,853
+<i>Grovel, grovel, grove!</i>
+
+776
+01:02:53,895 --> 01:02:58,525
+<i>Grovel, grovel, grovel, grove!</i>
+
+777
+01:02:58,566 --> 01:03:03,571
+<i>Thank you, thank you
+Cringe, bow, stoop, fall</i>
+
+778
+01:03:03,655 --> 01:03:06,199
+<i>Worship, worship</i>
+
+779
+01:03:06,283 --> 01:03:10,453
+<i>Beg, kneel, sponge, crawl</i>
+
+780
+01:03:15,875 --> 01:03:20,797
+<i>Joseph handed them sackloads of food</i>
+
+781
+01:03:21,506 --> 01:03:26,386
+<i>And they grovelled with base gratitude</i>
+
+782
+01:03:28,054 --> 01:03:32,976
+<i>Then, unseen,
+Joseph nipped out around the back</i>
+
+783
+01:03:34,686 --> 01:03:39,524
+<i>And planted a cup in young Benjamin's sack</i>
+
+784
+01:03:41,067 --> 01:03:44,237
+<i>When the brothers were ready to go</i>
+
+785
+01:03:44,279 --> 01:03:47,741
+<i>Joseph turned to them all
+with a terrible stare and said...</i>
+
+786
+01:03:47,824 --> 01:03:48,867
+No!
+
+787
+01:03:49,117 --> 01:03:52,746
+No! No, no, no!
+
+788
+01:03:54,539 --> 01:03:57,083
+<i>- Stop!
+-You robbers, your little number's up</i>
+
+789
+01:03:57,167 --> 01:03:59,669
+<i>One of you has stolen
+my precious golden cup</i>
+
+790
+01:03:59,753 --> 01:04:02,130
+<i>Joseph started searching
+through his brothers' sacks</i>
+
+791
+01:04:02,213 --> 01:04:04,466
+<i>Everyone was nervous, no one could relax</i>
+
+792
+01:04:04,716 --> 01:04:06,885
+<i>Who's the thief? Who's the thief?</i>
+
+793
+01:04:06,926 --> 01:04:07,969
+-ls it Reuben?
+-No!
+
+794
+01:04:08,053 --> 01:04:09,137
+- Is it Simeon?
+-No!
+
+795
+01:04:09,220 --> 01:04:10,680
+- Is it Naphtali?
+-No!
+
+796
+01:04:10,764 --> 01:04:11,931
+- Is it Dan?
+-No!
+
+797
+01:04:12,015 --> 01:04:13,099
+- Is it Asher?
+-No!
+
+798
+01:04:13,183 --> 01:04:14,351
+- Is it Issachar?
+-No!
+
+799
+01:04:14,434 --> 01:04:15,602
+- Is it Levi?
+-No!
+
+800
+01:04:15,685 --> 01:04:16,895
+Who's the man?
+
+801
+01:04:16,936 --> 01:04:18,104
+- Is it Zebulun?
+-No!
+
+802
+01:04:18,188 --> 01:04:19,356
+- Is it Gad?
+-No!
+
+803
+01:04:19,439 --> 01:04:20,440
+- Is it Judah?
+-No!
+
+804
+01:04:20,482 --> 01:04:21,483
+Is it him?
+
+805
+01:04:21,816 --> 01:04:25,570
+<i>Could it be, could it be?
+Could it be, could it be?</i>
+
+806
+01:04:25,653 --> 01:04:27,238
+<i>Could it possibly be Benjamin?</i>
+
+807
+01:04:27,280 --> 01:04:28,573
+Yes! Yes! Yes!
+
+808
+01:04:29,949 --> 01:04:33,036
+<i>Benjamin, you nasty youth</i>
+
+809
+01:04:33,119 --> 01:04:36,956
+<i>Your crime has shocked me to the core</i>
+
+810
+01:04:36,998 --> 01:04:40,251
+<i>Never in my whole career</i>
+
+811
+01:04:40,293 --> 01:04:43,838
+<i>Have I encountered this before</i>
+
+812
+01:04:44,130 --> 01:04:48,968
+<i>Guards, seize him!
+Lock him in a cell</i>
+
+813
+01:04:49,511 --> 01:04:54,474
+<i>Throw the keys into the Nile as well</i>
+
+814
+01:04:58,311 --> 01:05:03,983
+<i>Each of the brothers fell to his knees</i>
+
+815
+01:05:04,567 --> 01:05:09,989
+<i>Show him some mercy
+O mighty one, please</i>
+
+816
+01:05:10,490 --> 01:05:16,329
+<i>He would not do this
+He must have been framed</i>
+
+817
+01:05:17,038 --> 01:05:20,458
+<i>Jail us and beat us</i>
+
+818
+01:05:20,500 --> 01:05:24,337
+<i>We should be blamed</i>
+
+819
+01:05:24,379 --> 01:05:25,964
+(WOMEN HUMMING)
+
+820
+01:06:05,211 --> 01:06:06,379
+(REGGAE MUSIC PLAYING)
+
+821
+01:06:06,463 --> 01:06:08,965
+<i>(SINGING) Oh, no, not he</i>
+
+822
+01:06:09,048 --> 01:06:11,634
+<i>How you can accuse him is a mystery</i>
+
+823
+01:06:11,718 --> 01:06:14,429
+<i>Save him, take me</i>
+
+824
+01:06:15,680 --> 01:06:18,641
+<i>Benjamin is straighter than the tall palm tree</i>
+
+825
+01:06:19,309 --> 01:06:22,479
+<i>I hear the steel drums sing their song</i>
+
+826
+01:06:22,562 --> 01:06:25,982
+<i>They're singing,
+"Man, you know, you got it wrong"</i>
+
+827
+01:06:26,065 --> 01:06:28,902
+<i>I hear the voice of the yellow bird</i>
+
+828
+01:06:28,985 --> 01:06:31,529
+<i>Singing in the tree, "This is quite absurd"</i>
+
+829
+01:06:31,988 --> 01:06:33,406
+<i>- Oh, yes
+-Oh, yes</i>
+
+830
+01:06:33,448 --> 01:06:35,200
+<i>- It's true
+- It's true</i>
+
+831
+01:06:35,742 --> 01:06:38,495
+<i>Benjamin is straighter than the big bamboo</i>
+
+832
+01:06:38,578 --> 01:06:40,079
+- No ifs
+-No ifs
+
+833
+01:06:40,163 --> 01:06:42,415
+<i>- No buts
+-No buts</i>
+
+834
+01:06:42,499 --> 01:06:45,084
+<i>Benjamin is honest as coconuts</i>
+
+835
+01:06:45,877 --> 01:06:48,671
+<i>Sure as the tide wash the golden sand</i>
+
+836
+01:06:48,963 --> 01:06:52,091
+<i>Benjamin is an innocent man</i>
+
+837
+01:06:52,550 --> 01:06:55,512
+<i>Sure as bananas need the sun</i>
+
+838
+01:06:55,595 --> 01:06:58,598
+<i>We are the criminal guilty ones</i>
+
+839
+01:06:58,640 --> 01:07:00,183
+- Oh, no
+-Oh, no
+
+840
+01:07:00,266 --> 01:07:02,101
+<i>- Not he
+-Not he</i>
+
+841
+01:07:02,352 --> 01:07:04,771
+<i>How you can accuse him is a mystery</i>
+
+842
+01:07:04,938 --> 01:07:06,731
+<i>- Save him
+-Save him</i>
+
+843
+01:07:06,773 --> 01:07:08,816
+<i>- Take me
+-Take me</i>
+
+844
+01:07:08,900 --> 01:07:12,070
+<i>Benjamin is straighter than the tall palm tree</i>
+
+845
+01:07:12,195 --> 01:07:13,738
+(ALL VOCALISING)
+
+846
+01:07:25,291 --> 01:07:29,045
+<i>Oh, no, not he</i>
+
+847
+01:07:29,128 --> 01:07:31,756
+<i>How you can accuse him is a mystery</i>
+
+848
+01:07:31,798 --> 01:07:35,635
+<i>Save him, take me</i>
+
+849
+01:07:35,718 --> 01:07:39,180
+<i>Benjamin is straighter than the tall palm tree</i>
+
+850
+01:07:39,347 --> 01:07:42,475
+<i>Sure as the tide wash the golden sand</i>
+
+851
+01:07:42,517 --> 01:07:45,812
+<i>Benjamin is an innocent man</i>
+
+852
+01:07:45,895 --> 01:07:48,565
+<i>Sure as bananas need the sun</i>
+
+853
+01:07:48,773 --> 01:07:51,818
+<i>We are the criminal guilty ones</i>
+
+854
+01:07:51,859 --> 01:07:53,319
+- Oh, no
+-Oh, no
+
+855
+01:07:53,361 --> 01:07:55,238
+<i>- Not he
+-Not he</i>
+
+856
+01:07:55,446 --> 01:07:58,116
+<i>How you can accuse him is a mystery</i>
+
+857
+01:07:58,157 --> 01:07:59,993
+<i>- Save him
+-Save him</i>
+
+858
+01:08:00,076 --> 01:08:02,245
+<i>- Take me
+-Take me</i>
+
+859
+01:08:02,328 --> 01:08:04,998
+<i>Benjamin is straighter than the tall palm tree</i>
+
+860
+01:08:05,665 --> 01:08:07,083
+(VOCALISING)
+
+861
+01:08:18,428 --> 01:08:21,139
+<i>Oh, no, not he</i>
+
+862
+01:08:21,848 --> 01:08:24,851
+<i>Not he</i>
+
+863
+01:08:24,934 --> 01:08:28,771
+<i>Save him, take me</i>
+
+864
+01:08:28,855 --> 01:08:32,483
+<i>Benjamin is straighter than the tall palm tree</i>
+
+865
+01:08:32,650 --> 01:08:39,157
+<i>WOMEN: Each of the brothers fell to his knees</i>
+
+866
+01:08:39,198 --> 01:08:45,038
+<i>Show him some mercy
+O mighty one, please</i>
+
+867
+01:08:45,538 --> 01:08:51,836
+<i>He would not do this
+He must have been framed</i>
+
+868
+01:08:52,295 --> 01:08:55,173
+<i>Jail us and beat us</i>
+
+869
+01:08:55,673 --> 01:08:59,510
+<i>We should be blamed</i>
+
+870
+01:08:59,761 --> 01:09:02,555
+<i>And Joseph knew by this</i>
+
+871
+01:09:02,639 --> 01:09:07,310
+<i>His brothers now were honest men</i>
+
+872
+01:09:07,393 --> 01:09:10,355
+<i>The time had come at last</i>
+
+873
+01:09:10,396 --> 01:09:15,109
+<i>To reunite them all again</i>
+
+874
+01:09:15,193 --> 01:09:18,780
+<i>Can't you recognise my face?</i>
+
+875
+01:09:19,614 --> 01:09:21,783
+<i>ls it hard to see?</i>
+
+876
+01:09:22,492 --> 01:09:25,828
+<i>That Joseph who you thought was dead</i>
+
+877
+01:09:26,829 --> 01:09:28,998
+<i>Your brother, is me</i>
+
+878
+01:09:30,375 --> 01:09:34,045
+<i>Joseph,Joseph</i>
+
+879
+01:09:34,087 --> 01:09:37,715
+<i>Is it really true?</i>
+
+880
+01:09:37,757 --> 01:09:41,260
+<i>Joseph,Joseph</i>
+
+881
+01:09:41,302 --> 01:09:45,014
+<i>Is it really you?</i>
+
+882
+01:09:45,098 --> 01:09:49,102
+<i>Joseph</i>
+
+883
+01:09:49,185 --> 01:09:56,109
+<i>Joseph</i>
+
+884
+01:10:00,738 --> 01:10:02,323
+(CHILDREN CHEERING)
+
+885
+01:10:13,334 --> 01:10:16,170
+(UPBEAT MUSIC PLAYING)
+
+886
+01:10:27,432 --> 01:10:32,270
+<i>(SINGING) So Jacob came to Egypt</i>
+
+887
+01:10:32,311 --> 01:10:37,150
+<i>No longer feeling old</i>
+
+888
+01:10:37,233 --> 01:10:41,446
+<i>And Joseph came to meet him</i>
+
+889
+01:10:41,487 --> 01:10:46,951
+<i>In his chariot of gold</i>
+
+890
+01:10:46,993 --> 01:10:51,497
+<i>Of gold</i>
+
+891
+01:10:51,914 --> 01:10:56,127
+<i>Of gold</i>
+
+892
+01:10:57,170 --> 01:11:04,135
+<i>Of gold</i>
+
+893
+01:11:04,844 --> 01:11:06,053
+(MUSIC STOPS)
+
+894
+01:11:17,273 --> 01:11:18,733
+(SOFT MUSIC PLAYING)
+
+895
+01:11:21,694 --> 01:11:25,615
+<i>(SINGING) I closed my eyes</i>
+
+896
+01:11:27,658 --> 01:11:31,579
+<i>Drew back the curtain</i>
+
+897
+01:11:33,247 --> 01:11:37,210
+<i>To see for certain</i>
+
+898
+01:11:38,628 --> 01:11:42,757
+<i>What I thought I knew</i>
+
+899
+01:11:43,674 --> 01:11:47,553
+<i>Far, far away</i>
+
+900
+01:11:48,554 --> 01:11:53,267
+<i>Someone was weeping</i>
+
+901
+01:11:54,185 --> 01:11:58,189
+<i>But the world was sleeping</i>
+
+902
+01:11:58,731 --> 01:12:02,902
+<i>Any dream will do</i>
+
+903
+01:12:03,653 --> 01:12:07,990
+<i>- I wore my coat
+- CHILDREN: I wore my coat</i>
+
+904
+01:12:08,074 --> 01:12:12,078
+<i>With golden lining</i>
+
+905
+01:12:12,954 --> 01:12:16,749
+<i>Bright colours shining</i>
+
+906
+01:12:17,500 --> 01:12:20,753
+<i>Wonderful and new</i>
+
+907
+01:12:22,088 --> 01:12:26,300
+<i>- And in the east
+- CHILDREN: And in the east</i>
+
+908
+01:12:26,384 --> 01:12:29,971
+<i>The dawn was breaking</i>
+
+909
+01:12:30,763 --> 01:12:33,850
+<i>And the world was waking</i>
+
+910
+01:12:35,309 --> 01:12:38,437
+<i>Any dream will do</i>
+
+911
+01:12:40,898 --> 01:12:42,775
+<i>A crash of drums</i>
+
+912
+01:12:43,109 --> 01:12:44,652
+<i>A flash of light</i>
+
+913
+01:12:45,194 --> 01:12:49,031
+<i>My golden coat flew out of sight</i>
+
+914
+01:12:49,282 --> 01:12:53,619
+<i>The colours faded into darkness</i>
+
+915
+01:12:53,703 --> 01:12:59,375
+<i>I was left alone</i>
+
+916
+01:13:00,376 --> 01:13:03,087
+<i>May I return</i>
+
+917
+01:13:04,297 --> 01:13:07,967
+<i>To the beginning</i>
+
+918
+01:13:08,301 --> 01:13:11,888
+<i>The light is dimming</i>
+
+919
+01:13:12,305 --> 01:13:15,933
+<i>- And the dream is, too
+- CHILDREN: And the dream is, too</i>
+
+920
+01:13:16,350 --> 01:13:20,229
+<i>- The world and I
+-CHILDREN: The world and I</i>
+
+921
+01:13:20,313 --> 01:13:23,399
+<i>We are still waiting</i>
+
+922
+01:13:23,983 --> 01:13:27,486
+<i>Still hesitating</i>
+
+923
+01:13:28,070 --> 01:13:31,198
+<i>Any dream will do</i>
+
+924
+01:13:32,491 --> 01:13:38,748
+<i>Still hesitating</i>
+
+925
+01:13:39,832 --> 01:13:46,797
+<i>Any dream will do</i>
+
+926
+01:13:51,135 --> 01:13:54,764
+<i>May I return</i>
+
+927
+01:13:54,847 --> 01:13:58,684
+<i>To the beginning</i>
+
+928
+01:13:58,768 --> 01:14:02,438
+<i>The light is dimming</i>
+
+929
+01:14:02,521 --> 01:14:06,359
+<i>And the dream is, too</i>
+
+930
+01:14:06,400 --> 01:14:10,029
+<i>The world and I</i>
+
+931
+01:14:10,112 --> 01:14:13,866
+<i>We are still waiting</i>
+
+932
+01:14:13,908 --> 01:14:17,745
+<i>Still hesitating</i>
+
+933
+01:14:17,828 --> 01:14:22,541
+<i>Any dream will do</i>
+
+934
+01:14:23,000 --> 01:14:27,672
+<i>Give me my coloured coat</i>
+
+935
+01:14:28,089 --> 01:14:33,135
+<i>My amazing coloured coat</i>
+
+936
+01:14:33,761 --> 01:14:38,265
+<i>Give me my coloured coat</i>
+
+937
+01:14:38,724 --> 01:14:41,560
+<i>My</i> amazing
+
+938
+01:14:41,769 --> 01:14:45,231
+<i>Coloured</i>
+
+939
+01:14:46,148 --> 01:14:52,947
+<i>Coat</i>
+
+940
+01:14:56,033 --> 01:14:57,660
+(CHEERING LOUDLY)
+
+941
+01:15:01,914 --> 01:15:03,290
+(INTENSE INSTRUMENTAL MUSIC PLAYING)
+
+942
+01:15:27,773 --> 01:15:29,191
+(UPBEAT MUSIC PLAYING)
+
