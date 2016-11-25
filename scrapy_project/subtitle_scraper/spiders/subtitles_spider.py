@@ -15,28 +15,28 @@ remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
                       ("omerakgul58", "omeromer", "en", "2016experimentingwithnlp"),
                         ("randomwalker", "sub1machine", "en", "MachineTitle"),
                         ("gamilgaze", "asdqwe123", "en", "gamil12345"),
+                      ("corpora", "corporus", "en", "corporealapp"),
+                      ("machinelearning111", "ml11ml11", "en", "mlproject123"),
                     ]
 
-token = server.LogIn(*remaining_accounts[0]).get("token")
-remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
-del remaining_accounts[0]
 
-print(server.ServerInfo())
-
-categories = ['western', ]#'horror', 'comedy', 'action', 'war', 'western']
+categories = ['western']
+#categories = ['romance','horror', 'comedy', 'action', 'war', 'musical']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
 subtitle_per_category = 100 #int(remaining_quota / len(categories))
 
-imdb_page_limit = 5
-imdb_page_offset = 10 #which page to start from
+imdb_page_limit = 25
+imdb_page_offset = 15 #which page to start from
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
 while len(remaining_accounts) > 0:
+    token = server.LogIn(*remaining_accounts[0]).get("token")
     result = server.DownloadSubtitles(token, ['1953101239']) # an arbitrary subtitle id
     if result['data'] == False or result['status'].find('407') >= 0:
-        token = server.LogIn(*remaining_accounts[0]).get("token")
         del remaining_accounts[0]
     else:
+        remaining_quota = server.ServerInfo()['download_limits']['client_download_quota']
+        print(server.ServerInfo())
         print("Download limit test passed, starting to download with: %s" % \
               server.GetUserInfo(token)['data']['UserNickName'])
         break
