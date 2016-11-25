@@ -20,13 +20,13 @@ remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
                     ]
 
 
-categories = ['western']
+categories = ['musical', 'war']
 #categories = ['romance','horror', 'comedy', 'action', 'war', 'musical']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
-subtitle_per_category = 100 #int(remaining_quota / len(categories))
+subtitle_per_category = 80 #int(remaining_quota / len(categories))
 
-imdb_page_limit = 25
-imdb_page_offset = 15 #which page to start from
+imdb_page_limit = 20
+imdb_page_offset = 10 #which page to start from
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
 while len(remaining_accounts) > 0:
