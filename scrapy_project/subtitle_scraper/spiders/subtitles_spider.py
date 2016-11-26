@@ -19,14 +19,14 @@ remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
                       ("machinelearning111", "ml11ml11", "en", "mlproject123"),
                     ]
 
-
-categories = ['musical', 'war']
-#categories = ['romance','horror', 'comedy', 'action', 'war', 'musical']
+#categories = ['musical', 'western']
+categories = ['horror', 'comedy'] #, 'action', 'war']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
-subtitle_per_category = 80 #int(remaining_quota / len(categories))
+subtitle_per_category = 60 #int(remaining_quota / len(categories))
 
 imdb_page_limit = 20
-imdb_page_offset = 10 #which page to start from
+imdb_page_offset = 20 #which page to start from
+# imdb_page_offset = 55 #FOR WESTERN AND MUSICAL
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
 while len(remaining_accounts) > 0:
@@ -142,6 +142,7 @@ class SubtitlesSpider(scrapy.Spider):
                                                      'movie_name': subtitle['MovieName'],
                                                     'SubDownloadLink': subtitle['SubDownloadLink']}
                 remaining -= 1
+                print("Fetching subtitle info %d/%d..." % (subtitle_per_category - remaining, subtitle_per_category))
 
             i += 1
             # with open(filename, 'w') as f:

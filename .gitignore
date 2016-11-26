@@ -5,3 +5,4 @@ tension-measuring/.idea/
 ipython/.ipynb_checkpoints/
 !.gitignore
 .idea/
+spider_ln.py
