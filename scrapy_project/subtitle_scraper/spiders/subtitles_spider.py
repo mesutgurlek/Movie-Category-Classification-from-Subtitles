@@ -19,13 +19,13 @@ remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
                       ("machinelearning111", "ml11ml11", "en", "mlproject123"),
                     ]
 
-#categories = ['musical', 'western']
-categories = ['horror', 'comedy'] #, 'action', 'war']
+categories = ['crime']
+#categories = ['horror', 'comedy'] #, 'action', 'war']
 # categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
-subtitle_per_category = 60 #int(remaining_quota / len(categories))
+subtitle_per_category = 200 #int(remaining_quota / len(categories))
 
 imdb_page_limit = 20
-imdb_page_offset = 20 #which page to start from
+imdb_page_offset = 1 #which page to start from
 # imdb_page_offset = 55 #FOR WESTERN AND MUSICAL
 
 # THIS IS FOR CHECKING IF THE DOWNLOAD LIMIT IS REACHED OR NOT, BEFORE STARTING THE WHOLE DOWNLOADING PROCESS
