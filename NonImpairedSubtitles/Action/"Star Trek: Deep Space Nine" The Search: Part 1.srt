@@ -1,0 +1,2633 @@
+1
+00:00:02,007 --> 00:00:05,044
+Last time on "Star Trek -
+Deep Space Nine"...
+
+2
+00:00:05,167 --> 00:00:08,842
+If you could do any science project
+you wanted to, anything at all...
+
+3
+00:00:08,967 --> 00:00:10,764
+Visit the Gamma Quadrant?
+
+4
+00:00:22,047 --> 00:00:24,163
+We've never heard of the Jem'Hadar.
+
+5
+00:00:24,287 --> 00:00:26,403
+Then you've been fortunate.
+
+6
+00:00:26,527 --> 00:00:29,519
+Negotiations with the Dominion
+can be dangerous.
+
+7
+00:00:32,007 --> 00:00:35,283
+The Dominion will no longer
+allow ships from your side
+
+8
+00:00:35,407 --> 00:00:37,398
+to violate our territory.
+
+9
+00:00:37,527 --> 00:00:39,518
+Starfleet's orders are simple.
+
+10
+00:00:39,647 --> 00:00:41,478
+No traffic through the wormhole
+
+11
+00:00:41,607 --> 00:00:44,201
+until we can investigate
+the Jem'Hadar's threat.
+
+12
+00:00:44,327 --> 00:00:47,080
+- What about Benjamin and the others?
+- Don't worry.
+
+13
+00:00:47,207 --> 00:00:49,198
+Commander Sisko's return
+is a top priority.
+
+14
+00:00:49,327 --> 00:00:51,795
+If you're going to rescue them,
+we're coming.
+
+15
+00:01:01,967 --> 00:01:04,162
+Here they come.
+
+16
+00:01:11,407 --> 00:01:13,921
+A Jem'Hadar ship is making
+a direct run at the Odyssey.
+
+17
+00:01:20,887 --> 00:01:23,401
+The Jem'Hadar wanted us to escape?
+
+18
+00:01:23,527 --> 00:01:26,166
+You have no idea what's begun here.
+
+19
+00:01:27,807 --> 00:01:31,243
+She'll be back. The question is
+who she'll bring with her.
+
+20
+00:01:31,367 --> 00:01:34,359
+If the Dominion enters the wormhole,
+
+21
+00:01:34,487 --> 00:01:37,001
+the first battle will be fought here,
+
+22
+00:01:37,127 --> 00:01:40,358
+and l intend to be ready for them.
+
+23
+00:01:40,487 --> 00:01:42,682
+And now the continuation.
+
+24
+00:01:53,447 --> 00:01:55,039
+We're in trouble.
+
+25
+00:01:55,167 --> 00:01:58,204
+We've run seven simulations,
+and they all come up the same:
+
+26
+00:01:58,327 --> 00:02:02,002
+the Jem'Hadar
+board the station within two hours.
+
+27
+00:02:02,127 --> 00:02:05,358
+That doesn't give us time
+to get reinforcements from Bajor.
+
+28
+00:02:05,487 --> 00:02:08,285
+We must have overlooked something.
+
+29
+00:02:08,407 --> 00:02:10,443
+I'm the last to say it's hopeless,
+
+30
+00:02:10,567 --> 00:02:13,684
+but given DS9's structural limitations,
+our power supply,
+
+31
+00:02:13,807 --> 00:02:16,162
+and the difficulty of defending
+a stationary target
+
+32
+00:02:16,287 --> 00:02:19,677
+against a mobile force,
+two hours is optimistic.
+
+33
+00:02:19,807 --> 00:02:22,560
+The casualties would be appalling.
+
+34
+00:02:22,687 --> 00:02:26,919
+If we let them board, that doesn't mean
+we have to surrender.
+
+35
+00:02:27,047 --> 00:02:29,322
+What are you suggesting?
+
+36
+00:02:29,447 --> 00:02:32,803
+We can hide in the conduits,
+
+37
+00:02:32,927 --> 00:02:35,361
+set up booby-traps, prepare ambushes,
+
+38
+00:02:35,487 --> 00:02:38,126
+hold out until we get reinforcements.
+
+39
+00:02:38,247 --> 00:02:42,365
+We can try, but there won't be much
+of a station left when they get here.
+
+40
+00:02:42,487 --> 00:02:44,478
+That leaves us with two options:
+
+41
+00:02:44,607 --> 00:02:47,644
+abandon the station
+and make a stand on Bajor,
+
+42
+00:02:47,767 --> 00:02:52,045
+or collapse the entrance
+to the wormhole.
+
+43
+00:02:52,167 --> 00:02:54,965
+I want a third alternative.
+I cannot believe that we can't...
+
+44
+00:02:55,087 --> 00:02:56,440
+(Electronic bleeping)
+
+45
+00:02:59,247 --> 00:03:03,126
+A large subspace surge
+has just activated our security sensors.
+
+46
+00:03:03,247 --> 00:03:06,444
+- Where is it?
+- Bearing 1 48, mark 21 5.
+
+47
+00:03:06,567 --> 00:03:10,082
+- Distance 300 metres.
+- 300 metres?
+
+48
+00:03:10,207 --> 00:03:12,801
+That's almost
+inside our shield perimeter.
+
+49
+00:03:12,927 --> 00:03:16,124
+From the intensity,
+it could be a cloaked ship,
+
+50
+00:03:16,247 --> 00:03:19,444
+but l've never seen
+an energy dispersal pattern like this.
+
+51
+00:03:19,567 --> 00:03:22,718
+It's too close for comfort, whatever it is.
+Red Alert. Raise shields.
+
+52
+00:03:22,847 --> 00:03:25,361
+Energise phaser banks,
+stand-by to lock...
+
+53
+00:03:25,487 --> 00:03:28,479
+The energy signature's fluctuating.
+It's decloaking.
+
+54
+00:03:34,367 --> 00:03:38,155
+It's a Federation starship,
+but l've never seen that design before.
+
+55
+00:03:38,287 --> 00:03:40,562
+A Federation ship
+with a cloaking device?
+
+56
+00:03:40,687 --> 00:03:43,121
+- It's hailing us.
+- On screen.
+
+57
+00:03:44,007 --> 00:03:46,362
+Hello, Major. Sorry to startle you.
+
+58
+00:03:46,487 --> 00:03:48,876
+I wanted to test
+the Defiant's cloaking device.
+
+59
+00:03:49,007 --> 00:03:52,886
+- The Defiant?
+- I have a surprise for the Dominion.
+
+60
+00:05:53,767 --> 00:05:56,679
+Officially it's classified
+as an escort vessel.
+
+61
+00:05:56,807 --> 00:05:59,719
+Unofficially the Defiant's a warship.
+
+62
+00:05:59,847 --> 00:06:01,917
+Nothing more, nothing less.
+
+63
+00:06:02,047 --> 00:06:04,720
+I thought Starfleet didn't believe
+in warships.
+
+64
+00:06:04,847 --> 00:06:08,317
+Desperate times breed
+desperate measures.
+
+65
+00:06:08,447 --> 00:06:11,280
+Starfleet explored the possibility
+
+66
+00:06:11,407 --> 00:06:13,796
+of building a new class of starship.
+
+67
+00:06:13,927 --> 00:06:16,600
+This ship would have no families,
+no science labs,
+
+68
+00:06:16,727 --> 00:06:18,558
+no luxuries of any kind.
+
+69
+00:06:18,687 --> 00:06:20,803
+It was designed for one purpose only -
+
+70
+00:06:20,927 --> 00:06:23,122
+to fight and defeat the Borg.
+
+71
+00:06:23,247 --> 00:06:25,363
+The Defiant was the first ship
+
+72
+00:06:25,487 --> 00:06:27,796
+in what would've been
+a new Federation battle fleet.
+
+73
+00:06:27,927 --> 00:06:29,155
+What happened?
+
+74
+00:06:29,287 --> 00:06:32,199
+The Borg threat became less urgent.
+
+75
+00:06:32,327 --> 00:06:35,717
+Also, some design flaws cropped up.
+
+76
+00:06:35,847 --> 00:06:37,678
+Starfleet abandoned the project.
+
+77
+00:06:37,807 --> 00:06:39,559
+What sort of design flaws?
+
+78
+00:06:39,687 --> 00:06:42,360
+You'll get the ship evaluation reports,
+
+79
+00:06:42,487 --> 00:06:44,682
+but to put it simply, it's overgunned
+
+80
+00:06:44,807 --> 00:06:46,798
+and overpowered for a ship its size.
+
+81
+00:06:46,927 --> 00:06:48,519
+During battle drills,
+
+82
+00:06:48,647 --> 00:06:51,639
+it nearly tore itself apart at full capacity.
+
+83
+00:06:51,767 --> 00:06:53,758
+This is the ship Starfleet sends us
+
+84
+00:06:53,887 --> 00:06:55,957
+to fight off an attack by the Dominion?
+
+85
+00:06:56,087 --> 00:06:58,647
+We're not going to fight the Dominion.
+
+86
+00:06:58,767 --> 00:07:01,076
+At least, not yet.
+
+87
+00:07:01,887 --> 00:07:04,640
+We must go into the Gamma Quadrant
+
+88
+00:07:04,767 --> 00:07:07,884
+and find the leaders of the Dominion,
+the Founders.
+
+89
+00:07:08,007 --> 00:07:12,125
+We must convince them that
+the Federation represents no threat.
+
+90
+00:07:12,247 --> 00:07:16,035
+- What if they don't believe us?
+- That's why l asked for the Defiant.
+
+91
+00:07:16,167 --> 00:07:19,443
+She may have flaws, but she has teeth.
+
+92
+00:07:19,567 --> 00:07:24,482
+I want the Dominion to know
+that we can and will defend ourselves.
+
+93
+00:07:27,407 --> 00:07:29,079
+I've posted two security officers
+
+94
+00:07:29,207 --> 00:07:30,799
+at the Defiant's docking port.
+
+95
+00:07:30,927 --> 00:07:34,124
+No one will get near the cloaking device
+without us knowing about it.
+
+96
+00:07:34,247 --> 00:07:37,364
+I wasn't informed about
+any special security arrangements.
+
+97
+00:07:37,487 --> 00:07:40,001
+The security arrangements
+were by my request
+
+98
+00:07:40,127 --> 00:07:42,357
+to protect the cloaking device.
+
+99
+00:07:42,487 --> 00:07:44,284
+A few introductions are in order.
+
+100
+00:07:44,407 --> 00:07:46,921
+This is Subcommander T'Rul.
+
+101
+00:07:47,047 --> 00:07:51,677
+She will operate the cloaking device
+which her government loaned us.
+
+102
+00:07:51,807 --> 00:07:54,719
+Romulan interests
+will be served through cooperation.
+
+103
+00:07:54,847 --> 00:07:58,965
+I keep "unauthorized personnel"
+away from the cloaking device.
+
+104
+00:07:59,087 --> 00:08:02,079
+May l present my officers?
+This is Major Kira...
+
+105
+00:08:02,207 --> 00:08:06,962
+I know their names
+and l'm not here to make friends.
+
+106
+00:08:09,207 --> 00:08:10,356
+Charming.
+
+107
+00:08:10,487 --> 00:08:13,684
+Well, l am here to make friends.
+
+108
+00:08:13,807 --> 00:08:18,437
+I'm Lieutenant Commander
+Michael Eddington, Starfleet Security.
+
+109
+00:08:19,567 --> 00:08:21,762
+Major Kira Nerys.
+
+110
+00:08:24,527 --> 00:08:27,963
+Odo. Head of station security.
+
+111
+00:08:28,087 --> 00:08:31,284
+May l ask what your function is here,
+Commander?
+
+112
+00:08:31,407 --> 00:08:34,444
+There will be
+a mission briefing at 1 800 hours,
+
+113
+00:08:34,567 --> 00:08:37,320
+but be prepared
+to depart at 0700 tomorrow.
+
+114
+00:08:37,447 --> 00:08:39,483
+Dismissed.
+
+115
+00:08:45,647 --> 00:08:48,400
+Don't brace yourself
+to give me unpleasant news,
+
+116
+00:08:48,527 --> 00:08:53,123
+I'll save you the trouble.
+I've been relieved as Chief of Security.
+
+117
+00:08:56,727 --> 00:08:58,763
+Wait. You have not been relieved.
+
+118
+00:08:58,887 --> 00:09:01,799
+You're in charge
+of all non-Starfleet security matters.
+
+119
+00:09:01,927 --> 00:09:03,963
+What about matters that are Starfleet?
+
+120
+00:09:04,087 --> 00:09:06,681
+You'll coordinate your efforts
+with Commander Eddington.
+
+121
+00:09:06,807 --> 00:09:10,482
+"Coordinate" is another way of saying,
+"l'll report to him."
+
+122
+00:09:11,847 --> 00:09:14,407
+I'm sorry, Odo. This wasn't my idea.
+
+123
+00:09:14,527 --> 00:09:17,360
+I'm sure it wasn't.
+You were just following orders.
+
+124
+00:09:17,487 --> 00:09:21,719
+An order l strongly disagreed with.
+I did everything l could to fight this.
+
+125
+00:09:21,847 --> 00:09:24,759
+I even took it
+to the Chief of Starfleet Security.
+
+126
+00:09:24,887 --> 00:09:28,323
+- But their decision was final.
+- May l ask why?
+
+127
+00:09:28,447 --> 00:09:31,883
+There were concerns
+about several recent security breaches.
+
+128
+00:09:32,887 --> 00:09:35,117
+If l was given the authority l asked for,
+
+129
+00:09:35,247 --> 00:09:37,761
+instead of being tied
+to Starfleet regulations,
+
+130
+00:09:37,887 --> 00:09:40,720
+there wouldn't have been
+any security breaches.
+
+131
+00:09:40,847 --> 00:09:44,283
+Your resistance to Starfleet regulations
+is part of the problem.
+
+132
+00:09:44,407 --> 00:09:47,604
+There might be a simpler explanation,
+Commander.
+
+133
+00:09:47,727 --> 00:09:51,163
+Starfleet decided
+to bring in someone they could trust,
+
+134
+00:09:51,287 --> 00:09:54,836
+someone besides the shape-shifter.
+
+135
+00:09:54,967 --> 00:09:57,959
+This is not a racial issue, Odo.
+
+136
+00:09:58,087 --> 00:10:00,396
+I understand how you must feel, and l...
+
+137
+00:10:00,527 --> 00:10:04,361
+Commander,
+l don't require your understanding.
+
+138
+00:10:04,487 --> 00:10:08,275
+My resignation
+will be logged within the hour.
+
+139
+00:10:20,487 --> 00:10:23,365
+- Hey, l thought you were unpacking.
+- I am.
+
+140
+00:10:23,487 --> 00:10:26,126
+I was, but l kept looking
+at the replicator and...
+
+141
+00:10:26,247 --> 00:10:28,886
+You had to have
+some l'danian spice pudding.
+
+142
+00:10:29,007 --> 00:10:31,680
+I couldn't get a decent bowl on Earth.
+
+143
+00:10:31,807 --> 00:10:35,277
+That didn't stop you from ordering it
+at every replicator you saw.
+
+144
+00:10:35,407 --> 00:10:37,967
+So, is it good to be home?
+
+145
+00:10:38,087 --> 00:10:40,726
+I can't wait
+to sleep in my own bed again.
+
+146
+00:10:44,127 --> 00:10:47,244
+- I wonder when that happened.
+- What?
+
+147
+00:10:47,367 --> 00:10:53,636
+When did l start thinking of
+this Cardassian monstrosity as home?
+
+148
+00:10:53,767 --> 00:10:59,956
+I think it happened last Thursday,
+around 1 700 hours.
+
+149
+00:11:00,087 --> 00:11:03,238
+When you took this stuff
+out of storage back on Earth.
+
+150
+00:11:03,367 --> 00:11:04,561
+Careful.
+
+151
+00:11:05,567 --> 00:11:07,683
+That's a 2,000-year-old Yoruba mask,
+
+152
+00:11:07,807 --> 00:11:10,446
+and that "stuff" is
+one of the finest collections
+
+153
+00:11:10,567 --> 00:11:12,842
+of ancient African art you'll ever see.
+
+154
+00:11:12,967 --> 00:11:15,435
+I know.
+And l know how much it means to you.
+
+155
+00:11:15,567 --> 00:11:20,721
+But to me this will always be
+the "stuff" in your library at home.
+
+156
+00:11:20,847 --> 00:11:24,317
+When you took it out of storage
+so you could bring it here,
+
+157
+00:11:24,447 --> 00:11:27,837
+it meant that Earth
+wasn't home anymore, this was.
+
+158
+00:11:32,567 --> 00:11:36,196
+So, what do you think?
+
+159
+00:11:37,407 --> 00:11:38,601
+Perfect.
+
+160
+00:11:49,887 --> 00:11:52,162
+Odo, there you are.
+
+161
+00:11:52,287 --> 00:11:54,482
+I've talked
+to the Provisional Government.
+
+162
+00:11:54,607 --> 00:11:57,599
+They want you to go with us
+to the Gamma Quadrant
+
+163
+00:11:57,727 --> 00:11:59,922
+as an official Bajoran representative.
+
+164
+00:12:00,047 --> 00:12:03,483
+- I'm no diplomat.
+- That's why they want you to go.
+
+165
+00:12:03,607 --> 00:12:06,599
+If we locate the Founders,
+we'll need more than diplomacy.
+
+166
+00:12:06,727 --> 00:12:10,800
+We'll need to see what kind of threat
+they pose to Bajor, analyse...
+
+167
+00:12:10,927 --> 00:12:14,397
+You're the military expert,
+Major, not me.
+
+168
+00:12:14,527 --> 00:12:18,645
+And l doubt that the Provisional
+Government contacted you
+
+169
+00:12:18,767 --> 00:12:22,476
+and asked
+for my presence on this mission.
+
+170
+00:12:22,607 --> 00:12:27,158
+If l'm not mistaken, this is a misguided
+attempt to make me feel better.
+
+171
+00:12:28,207 --> 00:12:30,004
+Maybe it is.
+
+172
+00:12:31,127 --> 00:12:33,118
+Maybe l'm your friend.
+
+173
+00:12:34,007 --> 00:12:37,283
+Maybe l want you to see
+that you are still needed here,
+
+174
+00:12:37,407 --> 00:12:42,037
+no matter what some
+idiot Starfleet admiral might think.
+
+175
+00:12:53,727 --> 00:12:56,560
+The Defiant leaves at 700 hours.
+
+176
+00:13:10,487 --> 00:13:14,844
+I'm a little confused, Commander.
+
+177
+00:13:14,967 --> 00:13:18,721
+You want me to go with you
+to the Gamma Quadrant
+
+178
+00:13:18,847 --> 00:13:21,919
+to help you locate the Founders?
+
+179
+00:13:22,047 --> 00:13:24,925
+See? lt's not so confusing after all.
+
+180
+00:13:26,047 --> 00:13:28,117
+You're joking, aren't you?
+
+181
+00:13:28,247 --> 00:13:30,317
+- I'm serious.
+- You can't be.
+
+182
+00:13:30,447 --> 00:13:33,325
+I'm not a diplomat, or an explorer,
+
+183
+00:13:33,447 --> 00:13:36,883
+or a tactical officer,
+or whatever you might need on this trip.
+
+184
+00:13:37,007 --> 00:13:39,157
+Now, if you need a caterer,
+
+185
+00:13:39,287 --> 00:13:42,245
+I'll loan you a new replicator
+that l just got from...
+
+186
+00:13:42,367 --> 00:13:44,756
+Eight months ago,
+you helped the Nagus
+
+187
+00:13:44,887 --> 00:13:48,004
+establish a trade agreement
+with the Karemma -
+
+188
+00:13:48,127 --> 00:13:50,083
+tulaberry wine, l believe.
+
+189
+00:13:50,207 --> 00:13:52,516
+The Karemma are
+part of the Dominion.
+
+190
+00:13:52,647 --> 00:13:54,797
+A minor part, a very minor part.
+
+191
+00:13:54,927 --> 00:13:57,964
+They might still be able to help us
+contact the Founders.
+
+192
+00:13:58,087 --> 00:14:00,362
+You're experienced
+in dealing with the Karemma.
+
+193
+00:14:00,487 --> 00:14:02,603
+You're the logical person...
+
+194
+00:14:02,727 --> 00:14:05,958
+My brother Rom
+would be better suited for this mission.
+
+195
+00:14:06,087 --> 00:14:09,204
+- Not Rom, you.
+- But why?
+
+196
+00:14:09,327 --> 00:14:12,797
+Rom only has a son to think about,
+l have a business.
+
+197
+00:14:13,767 --> 00:14:14,756
+You.
+
+198
+00:14:16,967 --> 00:14:21,438
+I'm sorry, Commander,
+but l must refuse.
+
+199
+00:14:21,567 --> 00:14:25,480
+My last experience
+with the Jem'Hadar was not pleasant,
+
+200
+00:14:25,607 --> 00:14:28,405
+and l have no intention of repeating it.
+
+201
+00:14:28,527 --> 00:14:33,555
+Now, there's no way
+you can legally force me to do this.
+
+202
+00:14:34,047 --> 00:14:35,560
+(Tapping)
+
+203
+00:14:38,607 --> 00:14:40,757
+The sceptre of the Grand Nagus.
+
+204
+00:14:40,887 --> 00:14:44,004
+I discussed this mission with him
+on my way back from Earth.
+
+205
+00:14:44,127 --> 00:14:45,765
+He agreed with me -
+
+206
+00:14:45,887 --> 00:14:48,845
+unless peaceful contact
+can be established with the Founders,
+
+207
+00:14:48,967 --> 00:14:52,084
+business opportunities
+in the Gamma Quadrant might dry up.
+
+208
+00:14:52,207 --> 00:14:56,644
+He also agreed that you
+are the perfect man to help me.
+
+209
+00:14:56,767 --> 00:15:00,282
+- I don't believe it.
+- Which is why he sent this along.
+
+210
+00:15:00,407 --> 00:15:03,001
+He thought
+it might convince you of the high value
+
+211
+00:15:03,127 --> 00:15:05,960
+he holds
+for the success of this mission.
+
+212
+00:15:07,487 --> 00:15:13,517
+Now, are you going to defy the wishes
+of the Grand Nagus himself?
+
+213
+00:15:13,647 --> 00:15:18,163
+No, no, of course not. I'm happy
+to serve the Nagus any way l can.
+
+214
+00:15:18,287 --> 00:15:21,643
+Thanks, Quark.
+I knew l could count on you.
+
+215
+00:15:23,447 --> 00:15:27,156
+Quark, aren't you forgetting something?
+
+216
+00:15:57,967 --> 00:16:01,243
+I thought you'd like to know,
+the Defiant will be ready at 0700 hours.
+
+217
+00:16:01,367 --> 00:16:04,040
+- Did it pass the Chief's inspection?
+- Does anything?
+
+218
+00:16:04,167 --> 00:16:06,283
+He has a long maintenance list,
+
+219
+00:16:06,407 --> 00:16:08,637
+but he said it'll take us
+where we're going.
+
+220
+00:16:08,767 --> 00:16:12,362
+- And back, l hope.
+- He said that was up to you.
+
+221
+00:16:13,687 --> 00:16:18,363
+I'd never have volunteered
+unless l thought we could come back.
+
+222
+00:16:18,487 --> 00:16:21,524
+How often did Curzon tell you,
+"Never volunteer for anything"?
+
+223
+00:16:21,647 --> 00:16:24,923
+Curzon broke that rule
+a few times himself.
+
+224
+00:16:25,047 --> 00:16:28,676
+- And regretted it every time.
+- This is different.
+
+225
+00:16:28,807 --> 00:16:33,119
+I'd be regretting it even more
+if we just waited around for an invasion.
+
+226
+00:16:38,927 --> 00:16:45,719
+Starfleet must have run at least 200
+probability studies on this mission.
+
+227
+00:16:45,847 --> 00:16:48,156
+What are the odds we succeed?
+
+228
+00:16:48,287 --> 00:16:50,039
+Slim.
+
+229
+00:16:53,207 --> 00:16:56,882
+But better odds than fighting off
+a Jem'Hadar assault on this station.
+
+230
+00:16:57,007 --> 00:16:59,601
+If the station falls,
+then Bajor falls,
+
+231
+00:16:59,727 --> 00:17:02,400
+and l will not let that happen.
+
+232
+00:17:03,807 --> 00:17:07,083
+You know, after Jennifer died
+
+233
+00:17:07,207 --> 00:17:11,883
+I never thought l'd see you
+so passionate about something again.
+
+234
+00:17:12,007 --> 00:17:15,204
+Two months ago,
+l would've agreed with you.
+
+235
+00:17:15,327 --> 00:17:17,477
+Then l went back to Earth,
+
+236
+00:17:17,607 --> 00:17:22,203
+and l spent all those weeks
+debriefing at Starfleet Headquarters.
+
+237
+00:17:22,327 --> 00:17:28,721
+And l... I used to get a thrill
+just walking into that building.
+
+238
+00:17:28,847 --> 00:17:33,284
+I'd look at the Admirals and think,
+"One day that's going to be me.
+
+239
+00:17:33,407 --> 00:17:37,639
+"One day l'm the one that's
+going to be making the big decisions."
+
+240
+00:17:39,207 --> 00:17:41,516
+Curzon always thought that was funny.
+
+241
+00:17:41,647 --> 00:17:42,762
+Did he?
+
+242
+00:17:42,887 --> 00:17:47,517
+What l mean is, he could never see
+a set of Admiral's stars on your collar.
+
+243
+00:17:47,647 --> 00:17:52,277
+He thought that just making
+the decisions would never satisfy you.
+
+244
+00:17:52,407 --> 00:17:55,558
+You had to implement them,
+see the results,
+
+245
+00:17:55,687 --> 00:17:57,996
+face the consequences.
+
+246
+00:17:58,127 --> 00:18:01,199
+Curzon always thought
+you were the kind of man
+
+247
+00:18:01,327 --> 00:18:03,602
+who had to be in the thick of things,
+
+248
+00:18:03,727 --> 00:18:06,639
+not behind some desk at Headquarters.
+
+249
+00:18:10,207 --> 00:18:14,086
+He was a smart old man, wasn't he?
+
+250
+00:18:14,207 --> 00:18:16,357
+He liked to think so.
+
+251
+00:18:21,087 --> 00:18:23,362
+You'd better get a good night's sleep.
+
+252
+00:18:23,487 --> 00:18:26,445
+I was just about to say the same to you.
+
+253
+00:18:26,567 --> 00:18:29,240
+I'll see you in the morning, Benjamin.
+
+254
+00:18:40,007 --> 00:18:42,396
+The medical database
+is practically nonexistent.
+
+255
+00:18:42,527 --> 00:18:45,121
+I've downloaded
+many of my files from the station,
+
+256
+00:18:45,247 --> 00:18:48,080
+but this ship wasn't designed
+to handle many casualties.
+
+257
+00:18:48,207 --> 00:18:51,404
+Let's hope your new database
+won't be put to the test.
+
+258
+00:18:51,527 --> 00:18:54,166
+- Yes, sir.
+- Quark is settling into his quarters.
+
+259
+00:18:54,287 --> 00:18:58,280
+He asked me to relay his
+disappointment in the accommodations,
+
+260
+00:18:58,407 --> 00:19:01,160
+and to inform you
+that he'll get you in touch
+
+261
+00:19:01,287 --> 00:19:05,121
+with several reputable
+interior decorators for a modest fee.
+
+262
+00:19:05,247 --> 00:19:07,602
+I'll take his offer under advisement.
+
+263
+00:19:07,727 --> 00:19:11,117
+- Stand by to get underway.
+- Tactical and Communications ready.
+
+264
+00:19:11,247 --> 00:19:14,717
+- Navigation and Operations ready.
+- Weapons ready.
+
+265
+00:19:14,847 --> 00:19:17,566
+Impulse engines on line,
+warp power available.
+
+266
+00:19:17,687 --> 00:19:19,803
+Very well.
+
+267
+00:19:19,927 --> 00:19:22,680
+Seal the airlock,
+release docking clamps...
+
+268
+00:19:22,807 --> 00:19:26,277
+Just a moment, sir.
+There's someone in the airlock.
+
+269
+00:19:26,407 --> 00:19:28,762
+It's Odo.
+
+270
+00:19:30,607 --> 00:19:33,440
+Sisko to Odo.
+Is there a problem, Constable?
+
+271
+00:19:33,567 --> 00:19:37,242
+'No, Commander. I would like
+permission to come aboard.
+
+272
+00:19:37,367 --> 00:19:41,360
+'l'm here at the request
+of the Bajoran government.'
+
+273
+00:19:41,487 --> 00:19:44,320
+- Permission granted.
+- 'Thank you, sir.'
+
+274
+00:19:44,447 --> 00:19:47,007
+Dax, we must arrange
+some quarters for the Constable.
+
+275
+00:19:47,127 --> 00:19:52,121
+I'll do it. I need to go down
+to what is laughingly called the sickbay.
+
+276
+00:19:52,247 --> 00:19:54,522
+Odo's aboard, sir. The airlock's clear.
+
+277
+00:19:54,647 --> 00:19:57,923
+Release docking clamps,
+aft thrusters at one quarter,
+
+278
+00:19:58,047 --> 00:20:01,596
+port and starboard at station keeping.
+
+279
+00:20:16,167 --> 00:20:19,239
+- We've cleared the station.
+- Lay in a course to the wormhole.
+
+280
+00:20:19,367 --> 00:20:23,758
+I want to cloak when we reach
+the Gamma Quadrant.
+
+281
+00:20:23,887 --> 00:20:25,639
+Course laid in, sir.
+
+282
+00:20:25,767 --> 00:20:27,485
+Engage.
+
+283
+00:20:51,087 --> 00:20:55,160
+The cloaking device
+is operating within normal parameters.
+
+284
+00:20:55,287 --> 00:20:58,404
+Set course for the Karemma system,
+warp seven.
+
+285
+00:20:58,527 --> 00:21:01,121
+- Aye, sir.
+- Engage.
+
+286
+00:21:03,807 --> 00:21:04,796
+(Quark) Odo!
+
+287
+00:21:09,527 --> 00:21:12,485
+- Is this the best you can do?
+- I'm afraid so.
+
+288
+00:21:12,607 --> 00:21:15,485
+Most of the crew quarters
+don't have life supports yet.
+
+289
+00:21:15,607 --> 00:21:19,919
+Besides, we'd all feel better with
+someone here to watch over Quark.
+
+290
+00:21:20,047 --> 00:21:24,438
+- I take that as a personal insult, Doctor.
+- You should.
+
+291
+00:21:24,567 --> 00:21:29,083
+Now, l think l'll let you two "bunkmates"
+get more comfortable.
+
+292
+00:21:30,847 --> 00:21:33,077
+Am l glad to see you.
+
+293
+00:21:33,207 --> 00:21:37,439
+I've been stuck in this miserable hole
+ever since l came aboard.
+
+294
+00:21:37,567 --> 00:21:39,922
+Bunk beds, no view,
+
+295
+00:21:40,047 --> 00:21:44,723
+and l can't tell you what came out of the
+replicator when l asked for synthehol.
+
+296
+00:21:45,967 --> 00:21:50,165
+So, what's your role
+on this little adventure?
+
+297
+00:21:50,287 --> 00:21:52,801
+Providing security, no doubt?
+
+298
+00:21:52,927 --> 00:21:57,762
+Well, of course you are.
+I mean, why else would you be here?
+
+299
+00:21:57,887 --> 00:22:02,722
+I feel much safer now, just knowing
+you're along, because l know...
+
+300
+00:22:02,847 --> 00:22:07,238
+I have been holding
+this shape for 1 6 hours.
+
+301
+00:22:07,367 --> 00:22:10,564
+I have to revert
+back to my liquid state,
+
+302
+00:22:10,687 --> 00:22:15,158
+but l don't want you
+to watch and gawk at me.
+
+303
+00:22:15,287 --> 00:22:18,245
+I understand, completely.
+
+304
+00:22:18,367 --> 00:22:22,326
+This is a very private moment,
+and l won't interfere.
+
+305
+00:22:26,767 --> 00:22:29,235
+This won't be so bad, sharing...
+
+306
+00:22:29,367 --> 00:22:30,766
+(Growls)
+
+307
+00:22:30,887 --> 00:22:33,685
+I have no interest in speaking to you,
+
+308
+00:22:33,807 --> 00:22:36,605
+or in listening to your witless prattle.
+
+309
+00:22:36,727 --> 00:22:39,036
+So stay out of my way,
+
+310
+00:22:39,167 --> 00:22:43,365
+or you'll regret the day
+you ever met me.
+
+311
+00:22:57,247 --> 00:22:59,966
+Commander,
+long-range sensors have picked up
+
+312
+00:23:00,087 --> 00:23:02,726
+two Jem'Hadar warships directly ahead.
+
+313
+00:23:02,847 --> 00:23:06,920
+- They're heading this way at warp five.
+- How close will they pass us?
+
+314
+00:23:07,047 --> 00:23:08,366
+1 00,000 kilometres.
+
+315
+00:23:08,487 --> 00:23:11,126
+That's within range of their weapons.
+
+316
+00:23:11,247 --> 00:23:13,966
+- Should l alter course?
+- No.
+
+317
+00:23:14,087 --> 00:23:18,160
+We need to know if they can
+see through the cloaking device.
+
+318
+00:23:18,287 --> 00:23:22,041
+- Maintain course and speed. Red Alert.
+- Aye, sir.
+
+319
+00:23:23,367 --> 00:23:26,279
+Here they come.
+They'll pass us in five seconds.
+
+320
+00:23:26,407 --> 00:23:27,522
+On screen.
+
+321
+00:23:28,847 --> 00:23:30,439
+Track them.
+
+322
+00:23:30,567 --> 00:23:32,797
+They're continuing
+along their original heading.
+
+323
+00:23:32,927 --> 00:23:35,361
+No indication that they saw us.
+
+324
+00:23:35,487 --> 00:23:39,162
+Wait. They're changing course,
+heading this way.
+
+325
+00:23:39,287 --> 00:23:42,245
+- They must've seen us.
+- They're powering their weapons.
+
+326
+00:23:42,367 --> 00:23:44,278
+Prepare to decloak. Lock phasers...
+
+327
+00:23:44,367 --> 00:23:47,245
+- No. We may not have been detected.
+- Explain.
+
+328
+00:23:47,367 --> 00:23:50,996
+A cloaked ship radiates
+a subspace variance at warp speeds.
+
+329
+00:23:51,127 --> 00:23:52,355
+I've never heard of that.
+
+330
+00:23:52,487 --> 00:23:55,240
+It's not something
+we've been eager to reveal.
+
+331
+00:23:55,367 --> 00:23:58,598
+I suggest dropping out of warp.
+That will eliminate the variance.
+
+332
+00:23:58,727 --> 00:24:02,481
+When they reach our position,
+they'll find nothing.
+
+333
+00:24:04,007 --> 00:24:07,124
+- Do it.
+- All stop.
+
+334
+00:24:13,967 --> 00:24:17,323
+They're sweeping the area
+with an anti-proton scan.
+
+335
+00:24:17,447 --> 00:24:19,517
+They're being very thorough about it.
+
+336
+00:24:19,647 --> 00:24:22,207
+Will an anti-proton scan
+penetrate the cloak?
+
+337
+00:24:22,327 --> 00:24:26,764
+- That's a good question.
+- I'm not sure.
+
+338
+00:24:28,167 --> 00:24:30,681
+They're getting closer.
+
+339
+00:24:30,807 --> 00:24:34,959
+The Defiant's power signature
+is unusually high for a ship this size.
+
+340
+00:24:35,087 --> 00:24:38,557
+The cloaking device
+may not be masking everything.
+
+341
+00:24:39,887 --> 00:24:41,923
+Cut main power.
+
+342
+00:24:52,207 --> 00:24:55,199
+The other one has broken off
+its search. It's headed this way.
+
+343
+00:24:55,327 --> 00:24:58,125
+Stand by weapons and shields.
+
+344
+00:25:14,487 --> 00:25:18,241
+They've gone into warp
+and resumed their original course.
+
+345
+00:25:19,927 --> 00:25:23,283
+The first thing to go right
+in the Gamma Quadrant in a long time.
+
+346
+00:25:23,407 --> 00:25:25,716
+Let's hope it's not the last.
+
+347
+00:25:36,287 --> 00:25:39,677
+(Sisko) 'Ship's log, stardate 4821 2.4.
+
+348
+00:25:39,807 --> 00:25:43,561
+'We have arrived and are talking
+to one of Quark's business partners
+
+349
+00:25:43,687 --> 00:25:46,724
+'in an effort to contact
+the Founders of the Dominion.'
+
+350
+00:25:47,727 --> 00:25:51,720
+The Grand Nagus himself has sent me
+as an emissary on his behalf.
+
+351
+00:25:51,847 --> 00:25:54,680
+If you aid us in our mission,
+l am authorised
+
+352
+00:25:54,767 --> 00:25:57,156
+to increase our purchases
+of tulaberry wine
+
+353
+00:25:57,287 --> 00:25:59,482
+from the Karemma by 3% .
+
+354
+00:25:59,607 --> 00:26:03,964
+Looks like a poly-duranium alloy blend.
+
+355
+00:26:04,087 --> 00:26:07,124
+Interesting,
+but the metal has no real value.
+
+356
+00:26:07,247 --> 00:26:09,238
+A 3% increase is negligible.
+
+357
+00:26:09,367 --> 00:26:13,599
+I have considerable leeway
+to bargain in this circumstance.
+
+358
+00:26:13,727 --> 00:26:16,924
+- Name your terms.
+- Nothing, nothing, nothing.
+
+359
+00:26:17,047 --> 00:26:19,163
+The terms are not the issue.
+
+360
+00:26:19,287 --> 00:26:21,323
+I cannot help you locate the Founders
+
+361
+00:26:21,447 --> 00:26:25,326
+because l don't know who they are
+or if they exist. Nothing.
+
+362
+00:26:25,447 --> 00:26:28,007
+Ah, here's something interesting.
+
+363
+00:26:28,127 --> 00:26:31,722
+It appears to be diamide-laced beritium.
+
+364
+00:26:31,847 --> 00:26:34,156
+- I'll give you 52 diraks for it.
+- Done.
+
+365
+00:26:34,287 --> 00:26:37,359
+- Quark.
+- One bargain at a time, Ornithar.
+
+366
+00:26:37,487 --> 00:26:40,877
+- We were talking about the Founders.
+- There is nothing further to say.
+
+367
+00:26:41,007 --> 00:26:43,805
+If the Founders exist,
+they do not wish to be contacted.
+
+368
+00:26:43,927 --> 00:26:45,804
+That is good enough for me.
+
+369
+00:26:45,927 --> 00:26:48,316
+Who's your contact in the Dominion,
+
+370
+00:26:48,447 --> 00:26:51,564
+regarding administration,
+trade, defence?
+
+371
+00:26:51,687 --> 00:26:54,281
+Our only contact
+has been through the Vorta.
+
+372
+00:26:54,407 --> 00:26:56,477
+I have no idea who they report to.
+
+373
+00:26:56,607 --> 00:27:00,122
+All l know is that the Vorta say
+to do something, and you do it.
+
+374
+00:27:00,247 --> 00:27:01,236
+Why?
+
+375
+00:27:01,367 --> 00:27:04,165
+If you do not,
+they will send in the Jem'Hadar.
+
+376
+00:27:04,287 --> 00:27:06,118
+And then you die.
+
+377
+00:27:06,247 --> 00:27:09,000
+Will you put us
+in contact with the Vorta?
+
+378
+00:27:09,127 --> 00:27:11,163
+We do as we're told, nothing more.
+
+379
+00:27:11,287 --> 00:27:14,040
+We have not been told to help you.
+
+380
+00:27:14,167 --> 00:27:16,237
+You haven't been told not to either.
+
+381
+00:27:16,367 --> 00:27:18,403
+No, but l prefer to be cautious.
+
+382
+00:27:18,527 --> 00:27:22,156
+In this case, being cautious
+will cost you a substantial profit.
+
+383
+00:27:22,287 --> 00:27:25,882
+The Ferengi will cease
+purchasing tulaberry wine immediately.
+
+384
+00:27:26,007 --> 00:27:28,840
+If you lost a contract
+with the Alpha Quadrant,
+
+385
+00:27:28,967 --> 00:27:31,197
+it might displease the Vorta.
+
+386
+00:27:31,327 --> 00:27:35,115
+They may even send the Jem'Hadar
+to find out what happened.
+
+387
+00:27:35,247 --> 00:27:39,320
+I will need to access
+one of our computers on the surface.
+
+388
+00:27:44,887 --> 00:27:46,923
+This is the Callinon System.
+
+389
+00:27:47,047 --> 00:27:51,040
+The Dominion maintains an unmanned
+subspace relay on the seventh planet.
+
+390
+00:27:51,167 --> 00:27:54,204
+The Vorta told us
+to direct all communications there.
+
+391
+00:27:54,327 --> 00:27:58,366
+Where the messages
+are sent after that is not our concern.
+
+392
+00:27:58,487 --> 00:28:01,285
+What is that?
+
+393
+00:28:02,207 --> 00:28:04,243
+It is the Omarion Nebula.
+
+394
+00:28:05,687 --> 00:28:09,521
+The Omarion Nebula.
+
+395
+00:28:12,727 --> 00:28:15,560
+If there is nothing else,
+l would like to leave now.
+
+396
+00:28:15,687 --> 00:28:18,281
+- Of course.
+- Commander...
+
+397
+00:28:18,407 --> 00:28:22,161
+I have fulfilled my role on this mission,
+so if you don't mind...
+
+398
+00:28:22,287 --> 00:28:25,597
+- You want to stay behind.
+- That was our agreement.
+
+399
+00:28:25,727 --> 00:28:29,276
+How can you be sure
+he won't turn you over to the Dominion?
+
+400
+00:28:29,407 --> 00:28:31,284
+He may serve the Dominion,
+
+401
+00:28:31,407 --> 00:28:33,841
+but l'm lining his pockets with latinum.
+
+402
+00:28:33,967 --> 00:28:38,279
+I'll book passage on the next ship
+going through the wormhole,
+
+403
+00:28:38,407 --> 00:28:41,638
+and l'll make a profit in the process.
+
+404
+00:28:41,767 --> 00:28:44,076
+All right, Quark. Good luck.
+
+405
+00:28:45,207 --> 00:28:47,482
+Same to you, Commander.
+
+406
+00:28:49,287 --> 00:28:51,562
+Lay in a course for the Callinon System.
+
+407
+00:28:51,687 --> 00:28:53,200
+(Kira) Aye, sir.
+
+408
+00:28:59,567 --> 00:29:01,444
+(Doorbell)
+
+409
+00:29:03,087 --> 00:29:04,406
+Come in.
+
+410
+00:29:07,287 --> 00:29:10,438
+- Did l wake you?
+- Not quite.
+
+411
+00:29:11,527 --> 00:29:14,837
+- What can l do for you, Major?
+- It's about Odo.
+
+412
+00:29:16,207 --> 00:29:19,085
+- You're worried about him.
+- Is it that obvious?
+
+413
+00:29:19,207 --> 00:29:21,721
+No, l'm worried about him too.
+
+414
+00:29:22,487 --> 00:29:25,524
+But at the moment,
+l don't know what to do about it.
+
+415
+00:29:26,527 --> 00:29:29,087
+Can l speak freely?
+
+416
+00:29:29,207 --> 00:29:32,597
+What is wrong with Starfleet?
+How could they do this to him?
+
+417
+00:29:32,727 --> 00:29:34,718
+This has been a long time coming.
+
+418
+00:29:34,847 --> 00:29:39,682
+Starfleet have been pressing me
+to replace him for two years.
+
+419
+00:29:39,807 --> 00:29:41,877
+Because he worked
+for the Cardassians.
+
+420
+00:29:42,007 --> 00:29:45,283
+It goes deeper than that.
+Odo is no team player.
+
+421
+00:29:45,407 --> 00:29:48,524
+Because sometimes he doesn't go
+through the proper channels?
+
+422
+00:29:48,647 --> 00:29:53,402
+That's a start. Odo enjoys
+thumbing his nose at authority.
+
+423
+00:29:53,527 --> 00:29:55,757
+He files reports when he feels like it.
+
+424
+00:29:55,887 --> 00:29:58,162
+His respect
+for the chain of command is minimal.
+
+425
+00:29:58,287 --> 00:30:02,200
+- He gets the job done.
+- Starfleet likes team players.
+
+426
+00:30:02,327 --> 00:30:06,115
+Starfleet likes the chain of command,
+and so do l.
+
+427
+00:30:06,247 --> 00:30:09,045
+- You agree with their decision?
+- No, but l understand it.
+
+428
+00:30:09,167 --> 00:30:11,806
+After this mission,
+you're going to let him go?
+
+429
+00:30:11,927 --> 00:30:15,237
+I want him to stay as much as you do,
+but he has to want to stay.
+
+430
+00:30:15,367 --> 00:30:19,485
+'Bridge to Commander Sisko.
+We've reached the Callinon System.'
+
+431
+00:30:19,607 --> 00:30:20,960
+On my way.
+
+432
+00:30:26,287 --> 00:30:28,357
+(Sisko) 'Ship's log, supplemental.
+
+433
+00:30:28,487 --> 00:30:31,923
+'The Defiant has cloaked
+and assumed standard orbit.
+
+434
+00:30:32,047 --> 00:30:36,518
+'l'll send Dax and O'Brien to survey
+the relay station on the surface.'
+
+435
+00:30:36,647 --> 00:30:39,161
+It looks like Ornithar was telling the truth
+
+436
+00:30:39,287 --> 00:30:42,120
+when he said
+the relay station was unmanned.
+
+437
+00:30:42,247 --> 00:30:44,966
+Also, there are
+few security measures in place.
+
+438
+00:30:45,087 --> 00:30:47,681
+Get in, find what we need, and get out.
+
+439
+00:30:47,807 --> 00:30:50,446
+- Understood.
+- On your way.
+
+440
+00:30:50,567 --> 00:30:53,525
+The transporter will need
+six seconds to beam them down.
+
+441
+00:30:53,647 --> 00:30:56,207
+I want to decloak
+for exactly six seconds.
+
+442
+00:30:56,327 --> 00:30:58,841
+'Dax to Bridge.
+We're ready, Benjamin.'
+
+443
+00:30:58,967 --> 00:31:01,083
+All right. Disengage cloak.
+
+444
+00:31:01,727 --> 00:31:02,716
+Energise.
+
+445
+00:31:05,647 --> 00:31:09,959
+- They're on the surface.
+- Were we scanned during transport?
+
+446
+00:31:10,087 --> 00:31:14,126
+- I don't think so.
+- 'Dax to Defiant.'
+
+447
+00:31:14,247 --> 00:31:17,444
+We're in what seems to be
+the central computer room.
+
+448
+00:31:17,567 --> 00:31:20,923
+The user interface is unusual,
+but l think we can access it.
+
+449
+00:31:21,047 --> 00:31:23,117
+'Keep us posted.'
+
+450
+00:31:24,727 --> 00:31:27,958
+- I'm into the main directory.
+- That was fast.
+
+451
+00:31:28,087 --> 00:31:31,363
+Yes, it was. A bit too fast if you ask me.
+
+452
+00:31:31,487 --> 00:31:34,797
+Any sign that we've tripped
+some kind of security protocol?
+
+453
+00:31:34,927 --> 00:31:37,600
+No, l still have access to everything.
+
+454
+00:31:37,727 --> 00:31:40,605
+Then let's get the information
+and get out of here.
+
+455
+00:31:40,727 --> 00:31:42,843
+That's fine with me.
+
+456
+00:31:47,887 --> 00:31:50,879
+I should've taken Quark up
+on his offer for a new replicator.
+
+457
+00:31:51,007 --> 00:31:53,123
+- Sir?
+- Nothing.
+
+458
+00:31:53,247 --> 00:31:56,762
+Let's make good use of this time.
+Begin a level three diagnostic...
+
+459
+00:31:56,887 --> 00:31:59,003
+'Dax to Defiant.
+We have something.'
+
+460
+00:31:59,127 --> 00:32:03,678
+We've accessed a communications log
+of outgoing transmissions.
+
+461
+00:32:03,807 --> 00:32:08,562
+It looks like 80% of the outgoing traffic
+is sent to one location.
+
+462
+00:32:08,687 --> 00:32:13,044
+It's my guess it's either another
+relay station or a command centre.
+
+463
+00:32:13,167 --> 00:32:16,716
+- Do you have the coordinates?
+- I'm sending them to you now.
+
+464
+00:32:18,967 --> 00:32:22,437
+- We've lost contact with them.
+- Get them out of there.
+
+465
+00:32:22,567 --> 00:32:25,479
+I can't. A shield has appeared
+around the outpost.
+
+466
+00:32:25,607 --> 00:32:27,643
+I can't get through it.
+
+467
+00:32:30,247 --> 00:32:32,397
+Three Jem'Hadar ships
+are heading this way.
+
+468
+00:32:32,527 --> 00:32:35,963
+Can we punch through the
+security shield before they get here?
+
+469
+00:32:36,087 --> 00:32:37,918
+I'm not sure.
+
+470
+00:32:38,047 --> 00:32:40,242
+We will have to decloak.
+
+471
+00:32:40,367 --> 00:32:42,437
+That means we'll be seen
+by the Jem'Hadar.
+
+472
+00:32:42,567 --> 00:32:45,081
+We must do something.
+
+473
+00:32:45,207 --> 00:32:47,243
+That's exactly what we should do -
+
+474
+00:32:47,367 --> 00:32:49,801
+Ieave them.
+We came here to locate the Founders,
+
+475
+00:32:49,927 --> 00:32:53,442
+not to fight the Jem'Hadar
+over two expendable crew members.
+
+476
+00:32:53,567 --> 00:32:56,320
+No one is expendable.
+
+477
+00:32:56,447 --> 00:32:59,439
+The Jem'Hadar
+will be in orbit in 30 seconds.
+
+478
+00:33:08,047 --> 00:33:10,242
+- Prepare to leave orbit.
+- Commander...
+
+479
+00:33:10,367 --> 00:33:12,562
+As you were, Doctor.
+
+480
+00:33:12,687 --> 00:33:16,282
+Lay in a course
+to the coordinates Dax sent us.
+
+481
+00:33:17,847 --> 00:33:22,284
+- Course laid in.
+- Warp seven. Engage.
+
+482
+00:33:38,207 --> 00:33:41,802
+What do you think
+will happen to Dax and O'Brien?
+
+483
+00:33:41,927 --> 00:33:43,918
+They'll be held for interrogation.
+
+484
+00:33:44,047 --> 00:33:48,165
+Dax will use the opportunity
+to try to contact the Founders.
+
+485
+00:33:48,287 --> 00:33:50,243
+I intend to do the same.
+
+486
+00:33:50,367 --> 00:33:52,961
+Sisko to Odo.
+Report to the bridge, Constable.
+
+487
+00:33:53,087 --> 00:33:55,601
+I want to discuss
+the security arrangements for...
+
+488
+00:33:55,727 --> 00:33:59,686
+'l'm presently indisposed.
+Please find someone else for the job.'
+
+489
+00:33:59,807 --> 00:34:02,844
+- That doesn't sound like Odo.
+- No, it doesn't.
+
+490
+00:34:02,967 --> 00:34:06,039
+- I'd better have a talk with him.
+- Let me, sir.
+
+491
+00:34:06,167 --> 00:34:08,283
+I think he'll listen to me.
+
+492
+00:34:09,607 --> 00:34:12,405
+Three Jem'Hadar ships
+have entered sensor range,
+
+493
+00:34:12,527 --> 00:34:14,404
+bearing 037, mark 21 5.
+
+494
+00:34:14,527 --> 00:34:16,836
+- Any sign they've detected us?
+- Negative.
+
+495
+00:34:16,967 --> 00:34:19,765
+Bring us out of warp,
+then cut main power.
+
+496
+00:34:19,887 --> 00:34:22,003
+We'll wait until they pass.
+
+497
+00:34:30,687 --> 00:34:33,918
+Odo, it's time we had a talk.
+
+498
+00:34:34,047 --> 00:34:37,517
+I'm not going to the bridge,
+so you can save your breath.
+
+499
+00:34:37,647 --> 00:34:41,196
+And l would appreciate
+being left alone right now.
+
+500
+00:34:41,327 --> 00:34:44,319
+You've been alone,
+and it hasn't done any good.
+
+501
+00:34:44,447 --> 00:34:48,076
+Maybe it's time
+to stop brooding and start talking.
+
+502
+00:34:49,487 --> 00:34:55,164
+- Are you the ship's counsellor now?
+- No, l'm your friend.
+
+503
+00:34:55,287 --> 00:34:59,519
+You know, the one who comes to you
+when she needs help.
+
+504
+00:35:01,727 --> 00:35:03,718
+I'm trying to return the favour.
+
+505
+00:35:05,007 --> 00:35:09,319
+You can return the favour by giving me
+a shuttlecraft and letting me go.
+
+506
+00:35:09,447 --> 00:35:13,963
+Go? Go where?
+We're in the heart of the Dominion.
+
+507
+00:35:14,087 --> 00:35:17,762
+Where do you think you're going to go?
+
+508
+00:35:17,887 --> 00:35:19,605
+The Omarion Nebula.
+
+509
+00:35:22,567 --> 00:35:26,355
+- Why?
+- I'm not sure why.
+
+510
+00:35:26,487 --> 00:35:29,206
+I just know l have to, that's all.
+
+511
+00:35:29,327 --> 00:35:33,718
+You're going to
+have to do a lot better than that.
+
+512
+00:35:36,887 --> 00:35:40,197
+Odo, talk to me.
+
+513
+00:35:40,327 --> 00:35:42,602
+Tell me what's going on.
+
+514
+00:35:47,047 --> 00:35:50,801
+Ever since we've come
+into the Gamma Quadrant
+
+515
+00:35:50,927 --> 00:35:55,603
+I've had this feeling
+of being drawn somewhere,
+
+516
+00:35:56,407 --> 00:36:01,276
+pulled by some instinct
+to a specific place.
+
+517
+00:36:02,807 --> 00:36:05,560
+The Omarion Nebula.
+
+518
+00:36:06,007 --> 00:36:09,761
+- Why there?
+- I don't know.
+
+519
+00:36:12,167 --> 00:36:13,725
+All right.
+
+520
+00:36:14,767 --> 00:36:18,965
+Once we've contacted the Founders,
+l'm sure Commander Sisko...
+
+521
+00:36:19,087 --> 00:36:22,477
+No, not after
+we've contacted the Founders, now.
+
+522
+00:36:22,607 --> 00:36:26,077
+- I have to leave now.
+- Look, l understand.
+
+523
+00:36:26,207 --> 00:36:29,165
+This is important to you,
+but we have a mission to...
+
+524
+00:36:31,407 --> 00:36:34,205
+Direct hit on the port nacelle.
+
+525
+00:36:34,327 --> 00:36:36,522
+How did they see
+through the cloaking device?
+
+526
+00:36:36,647 --> 00:36:39,605
+They might have analysed
+the information from their scan
+
+527
+00:36:39,727 --> 00:36:41,797
+and found a way to penetrate the cloak.
+
+528
+00:36:41,927 --> 00:36:43,963
+Save the speculation for later.
+
+529
+00:36:44,087 --> 00:36:47,363
+Disengage cloak, raise shields
+and fire on my command.
+
+530
+00:37:01,767 --> 00:37:04,679
+Communications
+and long-range sensors are out.
+
+531
+00:37:04,807 --> 00:37:08,686
+- Status of the warp drive?
+- The power coupling is destroyed.
+
+532
+00:37:08,807 --> 00:37:11,002
+I'm trying to reroute main power.
+
+533
+00:37:16,487 --> 00:37:19,126
+He's gone. I'll take the helm.
+
+534
+00:37:20,367 --> 00:37:24,121
+I'm locking onto the lead ship.
+Ready? Fire.
+
+535
+00:37:29,327 --> 00:37:33,206
+The other two
+are moving out of phaser range.
+
+536
+00:37:33,327 --> 00:37:37,639
+They're coming back for another pass
+but they're moving slower now.
+
+537
+00:37:37,767 --> 00:37:39,758
+They'll be more cautious this time.
+
+538
+00:37:39,887 --> 00:37:42,037
+Doctor, use evasive pattern delta-five.
+
+539
+00:37:42,167 --> 00:37:46,285
+We need to keep them off balance
+until we get warp power back.
+
+540
+00:37:51,327 --> 00:37:53,921
+- Are you all right?
+- Just a few bruises.
+
+541
+00:37:54,047 --> 00:37:55,685
+Kira to Bridge.
+
+542
+00:37:55,807 --> 00:37:57,559
+Kira to Bridge.
+
+543
+00:37:57,687 --> 00:37:59,643
+We have to get up there.
+
+544
+00:38:01,007 --> 00:38:03,157
+T'Rul, where's my warp power?
+
+545
+00:38:03,287 --> 00:38:06,836
+I can't get the phase inducers
+to align with the ODN matrices...
+
+546
+00:38:06,967 --> 00:38:10,562
+Three more Jem'Hadar warships
+approaching!
+
+547
+00:38:10,687 --> 00:38:12,917
+Full impulse, get us out of here.
+
+548
+00:38:14,007 --> 00:38:16,840
+- We've lost main power.
+- We have to get to a shuttle.
+
+549
+00:38:16,967 --> 00:38:19,800
+Our duty is to get to defend the ship.
+
+550
+00:38:19,927 --> 00:38:23,203
+If main power is out,
+then the shields are out, Kira.
+
+551
+00:38:23,327 --> 00:38:25,443
+The ship is defenceless.
+
+552
+00:38:36,927 --> 00:38:40,124
+Main power is off-line.
+The shields have collapsed.
+
+553
+00:38:40,247 --> 00:38:44,525
+I've lost helm control.
+Inertial dampers failing.
+
+554
+00:38:44,647 --> 00:38:47,445
+Ready escape pods,
+stand by to abandon ship.
+
+555
+00:39:44,607 --> 00:39:46,404
+Where am l?
+
+556
+00:39:48,207 --> 00:39:50,243
+You're in a shuttlecraft.
+
+557
+00:39:50,367 --> 00:39:54,201
+You were wounded.
+Try not to move around.
+
+558
+00:40:00,087 --> 00:40:04,239
+Odo, what happened?
+We were under attack?
+
+559
+00:40:05,607 --> 00:40:09,725
+The ship was boarded.
+You were wounded in the attack.
+
+560
+00:40:09,847 --> 00:40:12,645
+I managed to get us
+to this shuttlecraft,
+
+561
+00:40:12,767 --> 00:40:15,122
+but l don't know much more than that.
+
+562
+00:40:16,087 --> 00:40:18,282
+The last time l saw the Defiant
+
+563
+00:40:18,407 --> 00:40:22,878
+she was dead in space
+and surrounded by Jem'Hadar ships.
+
+564
+00:40:23,007 --> 00:40:24,963
+Sisko? Bashir?
+
+565
+00:40:27,047 --> 00:40:28,480
+I don't know.
+
+566
+00:40:39,127 --> 00:40:44,918
+- Where are we?
+- Approaching the Omarion Nebula.
+
+567
+00:40:45,047 --> 00:40:48,756
+You should have taken us
+back to the wormhole.
+
+568
+00:40:48,887 --> 00:40:51,845
+- You didn't object.
+- I was unconscious.
+
+569
+00:40:57,487 --> 00:40:59,796
+Have you found anything?
+
+570
+00:41:05,807 --> 00:41:10,278
+There's a class-M planet,
+no star system. A rogue planet?
+
+571
+00:41:10,407 --> 00:41:11,556
+Yes.
+
+572
+00:42:32,047 --> 00:42:33,719
+Welcome home.
+

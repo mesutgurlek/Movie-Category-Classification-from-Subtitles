@@ -1,0 +1,3510 @@
+﻿1
+00:00:00,758 --> 00:00:02,131
+<i>Previously on Damages...</i>
+
+2
+00:00:02,248 --> 00:00:05,062
+<i>PARSONS: High Star conducted
+an illegal mission at the order</i>
+
+3
+00:00:05,141 --> 00:00:07,357
+<i>of Company CEO Howard Erickson.</i>
+
+4
+00:00:07,446 --> 00:00:10,477
+<i>During the execution of this mission,
+these men lost their lives.</i>
+
+5
+00:00:10,553 --> 00:00:12,356
+<i>The men who died--
+You knew them.</i>
+
+6
+00:00:12,447 --> 00:00:13,536
+<i>These were your men.</i>
+
+7
+00:00:13,646 --> 00:00:15,252
+<i>Are you still willing
+to testify?</i>
+
+8
+00:00:15,354 --> 00:00:16,975
+<i>SANCHEZ: If it will
+help my guys' families.</i>
+
+9
+00:00:17,048 --> 00:00:18,838
+<i>Who's Ellen?
+SANCHEZ: No one.</i>
+
+10
+00:00:18,919 --> 00:00:22,590
+<i>BOORMAN: That lawyer, Ellen
+Parsons-- We need to find a way</i>
+
+11
+00:00:22,681 --> 00:00:25,568
+<i>to keep Sanchez away from her.</i>
+
+12
+00:00:25,647 --> 00:00:26,615
+<i>ERICKSON: What are
+you suggesting?</i>
+
+13
+00:00:26,681 --> 00:00:27,629
+<i>BOORMAN: Redeploy him.</i>
+
+14
+00:00:27,704 --> 00:00:28,660
+<i>CARTER: So what do we do now?</i>
+
+15
+00:00:28,722 --> 00:00:29,911
+<i>Look for some mullah
+that doesn't exist?</i>
+
+16
+00:00:29,978 --> 00:00:31,909
+<i>ERICKSON: Let him chase
+his tail for a while!</i>
+
+17
+00:00:31,989 --> 00:00:35,007
+<i>As long as he's over there,
+we're fine for now.</i>
+
+18
+00:00:35,088 --> 00:00:38,241
+<i>PARSONS: I can't drag Chris through
+the fire without any resources.</i>
+
+19
+00:00:38,318 --> 00:00:40,663
+<i>HEWES: And what would you do
+if you could find the resources?</i>
+
+20
+00:00:40,772 --> 00:00:41,817
+<i>PARSONS: I'd try the case.</i>
+
+21
+00:00:41,920 --> 00:00:44,927
+<i>HEWES: Use my
+firm, my resources.</i>
+
+22
+00:00:45,024 --> 00:00:48,105
+<i>Let me help you.
+I owe it to you.</i>
+
+23
+00:00:48,194 --> 00:00:49,382
+<i>He's my only child.</i>
+
+24
+00:00:49,480 --> 00:00:51,248
+<i>He ran away three years ago and</i>
+
+25
+00:00:51,327 --> 00:00:54,099
+<i>left me with his baby
+daughter to take care of.</i>
+
+26
+00:00:54,227 --> 00:00:56,994
+<i>I recently hired somebody
+to track him down.</i>
+
+27
+00:00:57,300 --> 00:01:00,000
+Sync by n17t01
+www.addic7ed.com
+
+28
+00:01:04,137 --> 00:01:05,415
+<i>♪ Little lamb ♪</i>
+
+29
+00:01:17,910 --> 00:01:20,629
+<i>♪ When I am through with you ♪</i>
+
+30
+00:01:21,049 --> 00:01:24,438
+<i>♪ There won't be anything left ♪</i>
+
+31
+00:01:24,563 --> 00:01:27,737
+<i>♪ When I am through with you ♪</i>
+
+32
+00:01:28,019 --> 00:01:31,304
+<i>♪ There won't be anything left ♪</i>
+
+33
+00:01:31,420 --> 00:01:34,452
+<i>♪ When I am through with you. ♪</i>
+
+34
+00:01:36,740 --> 00:01:39,897
+Damages - 4x03
+"I'd Prefer My Old Office"
+
+35
+00:01:40,374 --> 00:01:43,038
+<i>MAN (over radio): And all you care about is
+that 30 second sound bite in that press</i>
+
+36
+00:01:43,127 --> 00:01:44,739
+<i>conference announcing a victory.</i>
+
+37
+00:01:44,801 --> 00:01:46,333
+<i>MAN 2: I hear that she's the
+only one with the courage to</i>
+
+38
+00:01:46,423 --> 00:01:47,822
+<i>stand up to corporate America in</i>
+
+39
+00:01:47,878 --> 00:01:49,778
+<i>an era where everyone
+else is afraid to do so.</i>
+
+40
+00:01:49,857 --> 00:01:50,736
+<i>Thank God for Patty...</i>
+
+41
+00:01:50,805 --> 00:01:52,585
+<i>(loud thud, tires squealing)</i>
+
+42
+00:01:53,017 --> 00:01:56,411
+<i>(car alarms blaring)</i>
+
+43
+00:01:57,552 --> 00:01:59,099
+<i>(car engines hissing)</i>
+
+44
+00:02:04,434 --> 00:02:05,854
+<i>(car door squeaks open)</i>
+
+45
+00:02:12,805 --> 00:02:13,981
+<i>HEWES: Michael?</i>
+
+46
+00:02:17,534 --> 00:02:18,669
+<i>TANYA: Hey.</i>
+
+47
+00:02:19,162 --> 00:02:20,465
+<i>MICHAEL: Tanya, I need
+to borrow your car.</i>
+
+48
+00:02:21,270 --> 00:02:23,557
+<i>TANYA: Oh, shit. Is it Jill?
+Is the baby coming?</i>
+
+49
+00:02:23,633 --> 00:02:25,349
+<i>MICHAEL: No.
+It's, uh... Not yet.</i>
+
+50
+00:02:26,152 --> 00:02:27,370
+<i>TANYA: What happened to you?</i>
+
+51
+00:02:27,461 --> 00:02:29,089
+<i>MICHAEL: Can I borrow
+your car or not?</i>
+
+52
+00:02:30,454 --> 00:02:31,823
+<i>TANYA: My dad just
+bought it for me.</i>
+
+53
+00:02:31,915 --> 00:02:34,097
+<i>MICHAEL: All the times
+you asked me to help you.</i>
+
+54
+00:02:35,891 --> 00:02:38,342
+<i>It's just for a couple days.</i>
+
+55
+00:02:38,457 --> 00:02:39,460
+<i>TANYA: What's wrong?
+Where are you going?</i>
+
+56
+00:02:39,551 --> 00:02:41,209
+<i>MICHAEL: Can you just
+get the fucking keys?!</i>
+
+57
+00:02:46,708 --> 00:02:48,041
+<i>TANYA: You want to
+know about Michael?</i>
+
+58
+00:02:48,597 --> 00:02:50,424
+<i>Did my father send you?</i>
+
+59
+00:02:50,772 --> 00:02:54,256
+<i>HUNTLEY: No. I'm working with,
+uh, Michael's mom, Patty Hewes.</i>
+
+60
+00:02:55,279 --> 00:02:58,386
+<i>She hasn't heard from him in some
+time, and I was hoping, uh,</i>
+
+61
+00:02:58,533 --> 00:03:00,487
+<i>maybe you could answer
+some questions?</i>
+
+62
+00:03:01,106 --> 00:03:01,977
+<i>TANYA: Okay.</i>
+
+63
+00:03:02,933 --> 00:03:05,705
+<i>HUNTLEY: When was the last time
+you were in-in touch with Michael?</i>
+
+64
+00:03:06,006 --> 00:03:08,078
+<i>TANYA: Well, he borrowed
+my car a few years ago.</i>
+
+65
+00:03:08,154 --> 00:03:09,412
+<i>That's the last time I saw him.</i>
+
+66
+00:03:10,020 --> 00:03:10,992
+<i>HUNTLEY: For how long?</i>
+
+67
+00:03:12,269 --> 00:03:13,425
+<i>TANYA: He never
+brought it back.</i>
+
+68
+00:03:14,561 --> 00:03:16,266
+<i>HUNTLEY: And you
+reported it stolen?</i>
+
+69
+00:03:16,360 --> 00:03:18,890
+<i>TANYA: My dad did, but the
+police never found it, no.</i>
+
+70
+00:03:19,087 --> 00:03:21,459
+<i>HUNTLEY: And that was the last
+time you were in touch with Michael?</i>
+
+71
+00:03:21,605 --> 00:03:24,000
+<i>TANYA: We're not
+exactly friends anymore.</i>
+
+72
+00:03:24,108 --> 00:03:25,363
+<i>The guy stole my car.</i>
+
+73
+00:03:25,536 --> 00:03:28,350
+<i>HUNTLEY: And he didn't
+tell you where he was going?</i>
+
+74
+00:03:28,441 --> 00:03:33,744
+<i>TANYA: Uh, no, and he never
+returned my calls, e-mails, texts.</i>
+
+75
+00:03:33,850 --> 00:03:36,041
+<i>He just took the car
+and disappeared.</i>
+
+76
+00:03:38,430 --> 00:03:39,661
+<i>He's an asshole.</i>
+
+77
+00:03:40,326 --> 00:03:41,936
+<i>HUNTLEY: Well, thank you for
+your time, Ms. Greenblatt.</i>
+
+78
+00:03:42,039 --> 00:03:43,731
+<i>And I may have some
+follow-up questions later.</i>
+
+79
+00:03:44,818 --> 00:03:50,478
+<i>If you, um, hear from him or-or think
+of anything else, please call me.</i>
+
+80
+00:03:52,454 --> 00:03:53,615
+<i>HEWES: Maggie's
+my new assistant.</i>
+
+81
+00:03:53,691 --> 00:03:55,118
+<i>Use her if anything comes up.</i>
+
+82
+00:03:55,196 --> 00:03:55,780
+<i>PARSONS: Thank you.</i>
+
+83
+00:03:55,874 --> 00:03:58,674
+<i>HEWES: And feel free to use
+any and all of our resources.</i>
+
+84
+00:03:58,792 --> 00:04:00,376
+<i>I've alerted the accountants.</i>
+
+85
+00:04:00,498 --> 00:04:02,466
+<i>They're aware that you're
+gonna be drawing funds.</i>
+
+86
+00:04:02,548 --> 00:04:04,060
+<i>PARSONS: Great.
+I appreciate it, Patty.</i>
+
+87
+00:04:04,176 --> 00:04:06,794
+<i>HEWES: I-I thought
+I'd put you in here.</i>
+
+88
+00:04:07,006 --> 00:04:08,445
+<i>PARSONS: Tom's office?</i>
+
+89
+00:04:14,378 --> 00:04:17,164
+<i>HEWES: Just...
+It's been sitting here all this time.</i>
+
+90
+00:04:17,927 --> 00:04:19,311
+<i>So, you might as well take it.</i>
+
+91
+00:04:22,382 --> 00:04:25,740
+<i>PARSONS: If it's okay, I...
+I'd prefer my old office.</i>
+
+92
+00:04:25,840 --> 00:04:26,995
+<i>HEWES: It's tiny.</i>
+
+93
+00:04:27,322 --> 00:04:28,362
+<i>PARSONS: I don't mind.</i>
+
+94
+00:04:28,452 --> 00:04:29,956
+<i>HEWES: I-I use
+it for storage.</i>
+
+95
+00:04:30,077 --> 00:04:31,499
+<i>PARSONS: Well, can
+I clear it out?</i>
+
+96
+00:04:34,532 --> 00:04:35,829
+<i>HEWES: If that's
+what you want.</i>
+
+97
+00:04:36,791 --> 00:04:38,360
+<i>PARSONS: Yeah. Thanks.</i>
+
+98
+00:04:40,464 --> 00:04:42,500
+<i>HEWES: So, when are you going
+to bring in Chris Sanchez?</i>
+
+99
+00:04:42,861 --> 00:04:46,438
+<i>PARSONS: I can't.
+He went back to Afghanistan.</i>
+
+100
+00:04:46,774 --> 00:04:47,830
+<i>(laughing)</i>
+
+101
+00:04:48,066 --> 00:04:51,026
+<i>HEWES: What? I thought you told
+me he was your only witness.</i>
+
+102
+00:04:51,186 --> 00:04:52,089
+<i>PARSONS: He is.</i>
+
+103
+00:04:52,174 --> 00:04:54,946
+<i>I think the company
+pressured him to redeploy.</i>
+
+104
+00:04:56,318 --> 00:04:59,132
+<i>HEWES: Your entire case
+hinges on his testimony.</i>
+
+105
+00:05:00,550 --> 00:05:01,927
+<i>What are you going to do?</i>
+
+106
+00:05:04,090 --> 00:05:05,474
+<i>PARSONS: I figure I have
+one of two choices.</i>
+
+107
+00:05:05,566 --> 00:05:08,837
+<i>I could either sit around and
+wait for Chris to come back, or</i>
+
+108
+00:05:08,924 --> 00:05:11,115
+<i>I could take my chances
+and file my case.</i>
+
+109
+00:05:11,524 --> 00:05:13,511
+<i>And hopefully, something
+will come up in discovery.</i>
+
+110
+00:05:13,593 --> 00:05:16,044
+<i>HEWES: If the judge lets
+you get to discovery.</i>
+
+111
+00:05:16,941 --> 00:05:19,615
+You'll be lucky if he doesn't
+dismiss the case outright.
+
+112
+00:05:19,747 --> 00:05:24,214
+PARSONS: What would you do?
+I'm asking your advice.
+
+113
+00:05:28,027 --> 00:05:31,962
+I know, I know. It's my case.
+I just thought I'd ask.
+
+114
+00:05:32,902 --> 00:05:34,348
+HEWES: You know what I'd do.
+
+115
+00:05:36,169 --> 00:05:37,681
+PARSONS: You'd file the case.
+
+116
+00:05:38,023 --> 00:05:40,194
+HEWES: If in doubt,
+throw the first punch.
+
+117
+00:05:41,344 --> 00:05:43,724
+(Rayburn panting, gunfire)
+
+118
+00:05:50,299 --> 00:05:51,282
+RAYBURN: Sanchez?
+
+119
+00:05:52,136 --> 00:05:53,008
+(Rayburn moaning)
+
+120
+00:05:54,934 --> 00:06:00,965
+Rayburn! Look at me. Franks!
+Lowry! Common motherfucker!
+
+121
+00:06:01,535 --> 00:06:03,460
+(Sanchez panting)
+
+122
+00:06:09,981 --> 00:06:10,992
+CARTER: You okay?
+
+123
+00:06:11,935 --> 00:06:13,068
+(helicopter whirrs in distance)
+
+124
+00:06:13,607 --> 00:06:14,538
+(panting)
+
+125
+00:06:14,790 --> 00:06:16,332
+SANCHEZ: Yeah.
+
+126
+00:06:26,687 --> 00:06:28,134
+That shrink gave them to me.
+
+127
+00:06:30,915 --> 00:06:32,487
+CARTER: Anything you
+want to talk about?
+
+128
+00:06:34,352 --> 00:06:36,513
+SANCHEZ: Before we left
+on the last mission...
+
+129
+00:06:40,012 --> 00:06:41,508
+Lowry came to me.
+
+130
+00:06:44,469 --> 00:06:49,644
+He wanted to beg off.
+Said it didn't feel right.
+
+131
+00:06:49,800 --> 00:06:51,857
+It was too last minute,
+we weren't prepared.
+
+132
+00:06:57,008 --> 00:06:58,939
+I told him everything
+would be all right.
+
+133
+00:07:01,016 --> 00:07:03,640
+CARTER: What happened with
+those guys, Sancho-- It...
+
+134
+00:07:05,380 --> 00:07:07,615
+It wasn't your fault just
+'cause you didn't die with 'em.
+
+135
+00:07:12,021 --> 00:07:16,050
+ERICKSON: There are people in this world
+who see things differently than we do.
+
+136
+00:07:16,194 --> 00:07:20,741
+They mean well. They really do.
+But they have different beliefs.
+
+137
+00:07:21,354 --> 00:07:24,180
+We can't change them.
+We shouldn't try to.
+
+138
+00:07:24,291 --> 00:07:28,432
+But they can't
+change us, either.
+
+139
+00:07:29,180 --> 00:07:32,094
+It's important to take
+pride in our beliefs.
+
+140
+00:07:32,293 --> 00:07:36,088
+They are what sustain
+us and give us purpose.
+
+141
+00:07:37,179 --> 00:07:38,759
+Never forget that.
+
+142
+00:07:39,807 --> 00:07:41,130
+(loud chanting outside)
+
+143
+00:07:42,141 --> 00:07:44,067
+You ready?
+BOYS: Yes, sir.
+
+144
+00:07:44,180 --> 00:07:45,936
+ERICKSON: Oohrah!
+Let's go to church.
+
+145
+00:07:46,283 --> 00:07:48,832
+PROTESTERS: Murder for money!
+Murder for money!
+
+146
+00:07:49,240 --> 00:07:52,014
+Murder for money!
+Murder for money!
+
+147
+00:07:52,286 --> 00:07:55,025
+Murder for money!
+Murder for money!
+
+148
+00:07:55,339 --> 00:07:58,150
+Murder for money!
+Murder for money...
+
+149
+00:07:59,468 --> 00:08:01,331
+(cell phone ringing)
+
+150
+00:08:02,120 --> 00:08:03,489
+Murder for money!
+Murder for money!
+
+151
+00:08:05,292 --> 00:08:06,797
+ERICKSON: Hear that, Jack?
+
+152
+00:08:07,036 --> 00:08:09,082
+PROTESTORS: Murder for money!
+Murder for money!
+
+153
+00:08:09,322 --> 00:08:13,000
+ERICKSON: Think maybe you could find a
+way to get these people off my street?
+
+154
+00:08:13,098 --> 00:08:15,848
+SHAW: Well, I would, but there's a
+little thing called the First Amendment.
+
+155
+00:08:15,945 --> 00:08:18,686
+ERICKSON: What's going on?
+I'm taking the boys to choir practice.
+
+156
+00:08:18,769 --> 00:08:22,337
+SHAW: A wrongful death suit was filed
+against you and High Star in federal court.
+
+157
+00:08:22,461 --> 00:08:23,516
+ERICKSON: What's it say?
+
+158
+00:08:23,631 --> 00:08:27,013
+SHAW: Three High Star
+employees-- Jay Rayburn, Robert Franks
+
+159
+00:08:27,090 --> 00:08:31,670
+and Thomas Lowry-- Were killed during
+an unauthorized operation in Afghanistan.
+
+160
+00:08:33,709 --> 00:08:34,933
+What do you know about it?
+
+161
+00:08:35,085 --> 00:08:36,806
+ERICKSON: Meet me at
+the house in two hours.
+
+162
+00:08:37,073 --> 00:08:40,110
+PROTESTORS: Murder for money!
+Murder for money!
+
+163
+00:08:40,925 --> 00:08:41,593
+(door being kicked in)
+
+164
+00:08:48,395 --> 00:08:49,539
+CARTER: Put some
+plastic on these guys.
+
+165
+00:08:49,620 --> 00:08:50,618
+SANCHEZ: All clear!
+
+166
+00:08:52,797 --> 00:08:56,012
+Wait a minute. It's not him.
+
+167
+00:08:59,853 --> 00:09:01,222
+SANCHEZ: Hey, hey,
+hey, hey, hey!
+
+168
+00:09:03,448 --> 00:09:04,233
+He's not here.
+
+169
+00:09:05,840 --> 00:09:07,196
+Hey! Boss asked you a question!
+
+170
+00:09:11,145 --> 00:09:11,731
+SANCHEZ: What?
+
+171
+00:09:14,109 --> 00:09:15,280
+I'm not catching all that.
+What'd he say?
+
+172
+00:09:15,627 --> 00:09:18,423
+CARTER: He's saying that they're afraid
+of Nur Taraki. They hate the guy.
+
+173
+00:09:21,860 --> 00:09:22,822
+Okay, let's bring them all in.
+
+174
+00:09:22,977 --> 00:09:23,697
+SANCHEZ: A.C., no, no, no.
+
+175
+00:09:23,798 --> 00:09:25,543
+Come on, man, look at these
+guys-- They don't know shit.
+
+176
+00:09:25,660 --> 00:09:28,016
+The intel was wrong. Let 'em go.
+
+177
+00:09:28,115 --> 00:09:29,540
+Take off the fuckin' restraints.
+
+178
+00:09:30,408 --> 00:09:32,330
+SHAW: The plaintiff's
+attorney is Ellen Parsons.
+
+179
+00:09:32,739 --> 00:09:33,846
+ERICKSON: Tell me about her.
+
+180
+00:09:34,022 --> 00:09:36,300
+SHAW: Well, she was a hotshot
+coming out of law school.
+
+181
+00:09:36,392 --> 00:09:38,648
+Her first job was working
+for Patty Hewes.
+
+182
+00:09:38,801 --> 00:09:40,733
+ERICKSON: Patty who?
+SHAW: Hewes.
+
+183
+00:09:41,019 --> 00:09:42,687
+She took down Arthur Frobisher,
+
+184
+00:09:42,805 --> 00:09:44,552
+handled that mess
+with Louis Tobin.
+
+185
+00:09:44,645 --> 00:09:45,754
+ERICKSON: Oh, yeah.
+
+186
+00:09:45,914 --> 00:09:48,555
+SHAW: Ms. Parsons cut her teeth
+on the Frobisher case, and
+
+187
+00:09:48,634 --> 00:09:51,092
+then she left Hewes &
+Associates, went to work in the
+
+188
+00:09:51,180 --> 00:09:53,624
+D.A.'s office, but she
+didn't stay there.
+
+189
+00:09:53,782 --> 00:09:55,248
+Looks like she went
+out on her own.
+
+190
+00:09:55,409 --> 00:09:56,698
+ERICKSON: Should I
+worry about her?
+
+191
+00:09:56,891 --> 00:09:58,641
+SHAW: No. She's just a kid.
+
+192
+00:09:58,860 --> 00:10:01,456
+A bleeding heart trying to
+make a name for herself.
+
+193
+00:10:01,624 --> 00:10:03,176
+But she doesn't have
+much of a case.
+
+194
+00:10:03,342 --> 00:10:07,512
+The brief lists a single
+witness-- Christopher Sanchez.
+
+195
+00:10:08,260 --> 00:10:09,298
+(protestors chanting outside)
+
+196
+00:10:09,400 --> 00:10:10,339
+Do you know him?
+
+197
+00:10:11,557 --> 00:10:12,929
+ERICKSON: Yeah.
+
+198
+00:10:14,453 --> 00:10:16,162
+SHAW: Is he a problem?
+ERICKSON: No.
+
+199
+00:10:17,377 --> 00:10:20,174
+And he's working for me
+right now in Afghanistan.
+
+200
+00:10:20,933 --> 00:10:24,886
+SHAW: Then don't give this thing
+another thought. I'll get it dismissed.
+
+201
+00:10:25,611 --> 00:10:26,963
+ERICKSON: I'm
+counting on you, Jack.
+
+202
+00:10:28,609 --> 00:10:29,885
+HEWES: What have you found?
+
+203
+00:10:30,327 --> 00:10:33,952
+HUNTLEY: I spoke to, um...
+Tanya Greenblatt.
+
+204
+00:10:34,082 --> 00:10:35,246
+HEWES: I have no
+idea who that is.
+
+205
+00:10:35,358 --> 00:10:38,148
+HUNTLEY: She worked with Michael
+at Jill Burnham's art gallery.
+
+206
+00:10:40,454 --> 00:10:42,424
+HEWES: And what did
+Tanya have to say?
+
+207
+00:10:43,193 --> 00:10:46,752
+HUNTLEY: Well, she, uh, lent Michael
+her car just before he disappeared.
+
+208
+00:10:48,097 --> 00:10:52,657
+And I-I think she may be the last person
+who saw him before he left the city.
+
+209
+00:10:53,331 --> 00:10:55,542
+But she hasn't heard
+from him since.
+
+210
+00:10:55,798 --> 00:10:57,379
+HEWES: Did she know
+where he was going?
+
+211
+00:10:58,754 --> 00:11:00,472
+HUNTLEY: No. No.
+
+212
+00:11:01,243 --> 00:11:03,424
+But I'm fairly certain
+he went to Boston.
+
+213
+00:11:03,923 --> 00:11:05,022
+HEWES: Why do you say that?
+
+214
+00:11:05,124 --> 00:11:07,565
+HUNTLEY: Well, I went through
+that list of, uh, Michael's
+
+215
+00:11:07,651 --> 00:11:10,588
+friends you gave me, and most
+of them are away at school and
+
+216
+00:11:10,735 --> 00:11:14,562
+didn't really keep up with him,
+so I tried the social networks.
+
+217
+00:11:14,981 --> 00:11:16,599
+You're not online.
+
+218
+00:11:16,762 --> 00:11:20,253
+I tried to "friend" you, but you don't...
+you don't have a page.
+
+219
+00:11:20,610 --> 00:11:22,000
+HEWES: No, I don't.
+
+220
+00:11:22,423 --> 00:11:24,154
+HUNTLEY: You know, it's just
+extraordinary, the whole
+
+221
+00:11:24,251 --> 00:11:25,560
+paradigm shift in the
+way people relate.
+
+222
+00:11:25,753 --> 00:11:29,661
+I just... I really think you should...
+should try it.
+
+223
+00:11:32,085 --> 00:11:33,917
+HEWES: Did you find anything?
+
+224
+00:11:34,876 --> 00:11:37,533
+HUNTLEY: Um, yeah. The...
+
+225
+00:11:38,043 --> 00:11:40,176
+Have you ever met a Henry Thain?
+
+226
+00:11:40,614 --> 00:11:44,561
+HEWES: Yeah, he and Michael were
+best friends since they were 11.
+
+227
+00:11:44,842 --> 00:11:48,213
+HUNTLEY: Well, a couple years
+back, one of Henry's old
+
+228
+00:11:48,347 --> 00:11:51,362
+Facebook postings read,
+
+229
+00:11:52,950 --> 00:11:57,748
+"M.H. appeared out of nowhere.
+Needed a place to stay."
+
+230
+00:11:59,032 --> 00:12:01,274
+And that was right around
+the time that Michael, uh,
+
+231
+00:12:01,385 --> 00:12:06,481
+disappeared, and...
+Henry was a freshman at B.U. at the time.
+
+232
+00:12:06,878 --> 00:12:10,203
+HEWES: So, do you think there's a
+chance that Michael is still in Boston?
+
+233
+00:12:10,443 --> 00:12:12,928
+HUNTLEY: Well, I-I poked Henry
+to find out, but he never
+
+234
+00:12:13,026 --> 00:12:16,907
+responded, so I'd like to go to
+Boston and talk to him face-to-face.
+
+235
+00:12:17,708 --> 00:12:18,989
+HEWES: I'd like to go with you.
+
+236
+00:12:19,106 --> 00:12:20,658
+HUNTLEY: Well, that's
+not really necessary.
+
+237
+00:12:21,817 --> 00:12:23,700
+HEWES: It's my son
+we're talking about.
+
+238
+00:12:25,134 --> 00:12:26,847
+(Catherine caughing
+over baby monitor)
+
+239
+00:12:29,860 --> 00:12:31,780
+Anyway, Catherine's sick.
+She has a fever.
+
+240
+00:12:32,097 --> 00:12:33,786
+HUNTLEY: They catch everything
+at that age, don't they?
+
+241
+00:12:33,929 --> 00:12:37,866
+HEWES: And besides, I don't
+have a nanny and I... don't have
+
+242
+00:12:37,955 --> 00:12:42,468
+anyone I trust that I can...
+leave her with.
+
+243
+00:12:45,944 --> 00:12:46,915
+HENRY: Dude, you're rich.
+
+244
+00:12:47,009 --> 00:12:48,872
+Use your credit card,
+get a hotel room.
+
+245
+00:12:48,963 --> 00:12:50,700
+MICHAEL: I can't.
+They can trace it.
+
+246
+00:12:50,785 --> 00:12:52,090
+I don't want anybody to find me.
+
+247
+00:12:52,200 --> 00:12:54,135
+HENRY: What, are you
+some kind of fucking spy?
+
+248
+00:12:54,222 --> 00:12:55,519
+What the fuck are
+you running from?
+
+249
+00:12:55,600 --> 00:12:57,558
+MICHAEL: No one.
+Just... forget it!
+
+250
+00:12:57,712 --> 00:13:00,225
+HENRY: Even if my roommates agree,
+the R.A.'s this gay dude
+
+251
+00:13:00,299 --> 00:13:01,810
+who's like the fucking Gestapo.
+
+252
+00:13:01,896 --> 00:13:03,737
+I'm on a shit list for
+partying in my room.
+
+253
+00:13:03,847 --> 00:13:04,713
+MICHAEL: Fuck it.
+
+254
+00:13:06,777 --> 00:13:07,918
+HENRY: What?
+
+255
+00:13:08,019 --> 00:13:09,250
+What are you gonna do?
+
+256
+00:13:09,424 --> 00:13:10,389
+MICHAEL: Do you really care?
+
+257
+00:13:10,555 --> 00:13:11,748
+HENRY: Go back to New York.
+
+258
+00:13:18,139 --> 00:13:19,154
+(horn honks)
+
+259
+00:13:20,670 --> 00:13:22,360
+(traffic passing by)
+
+260
+00:13:24,803 --> 00:13:26,746
+(vehicle approaching)
+
+261
+00:13:34,540 --> 00:13:36,292
+CARTER: You wanted to see
+that intel on Nur Taraki?
+
+262
+00:13:40,100 --> 00:13:41,063
+(Sanchez sighs)
+
+263
+00:13:47,705 --> 00:13:48,758
+SANCHEZ: Who compiled this?
+
+264
+00:13:48,919 --> 00:13:50,027
+CARTER: Boorman sent it.
+
+265
+00:13:53,855 --> 00:13:55,366
+SANCHEZ: There's a hundred
+different sources here.
+
+266
+00:13:55,480 --> 00:13:57,087
+You know how long it would
+take to check all these?
+
+267
+00:13:57,188 --> 00:13:58,373
+CARTER: It's a fluid situation.
+
+268
+00:13:58,471 --> 00:14:00,511
+I doubt the Mullah's in one
+place for more than a day.
+
+269
+00:14:04,367 --> 00:14:06,302
+SANCHEZ: I don't trust Boorman
+with any of this shit.
+
+270
+00:14:07,109 --> 00:14:08,134
+CARTER: Why would he lie?
+
+271
+00:14:08,731 --> 00:14:10,312
+SANCHEZ: I got my own
+contact on the ground.
+
+272
+00:14:10,481 --> 00:14:11,325
+CARTER: Who?
+
+273
+00:14:11,490 --> 00:14:12,414
+SANCHEZ: You don't know him.
+
+274
+00:14:12,497 --> 00:14:13,822
+Someone I used to go
+to for my own intel.
+
+275
+00:14:14,151 --> 00:14:15,220
+CARTER: Good. Let's go.
+
+276
+00:14:16,205 --> 00:14:18,655
+SANCHEZ: This is a
+personal relationship, A.C.
+
+277
+00:14:19,962 --> 00:14:21,555
+I need to go alone.
+
+278
+00:14:22,720 --> 00:14:25,120
+SHAW: Your Honor, Ms.
+Parsons' entire case is based on
+
+279
+00:14:25,263 --> 00:14:28,542
+a single witness, Christopher
+Sanchez, who will
+
+280
+00:14:28,656 --> 00:14:31,464
+supposedly testify
+to an alleged event.
+
+281
+00:14:31,581 --> 00:14:33,789
+There is no other evidence
+supporting the plaintiffs' claim.
+
+282
+00:14:35,139 --> 00:14:37,095
+PARSONS: When Mr.
+Sanchez came forward as a witness,
+
+283
+00:14:37,182 --> 00:14:39,841
+he claimed that High Star was
+involved in illegal activity
+
+284
+00:14:39,932 --> 00:14:42,396
+that directly led to the
+deaths of three men.
+
+285
+00:14:42,589 --> 00:14:44,331
+SHAW: Then why did he go
+back to work for the company?
+
+286
+00:14:44,417 --> 00:14:46,430
+PAWLOWSKI: Thank you, Mr. Shaw.
+I'll ask the questions.
+
+287
+00:14:46,738 --> 00:14:49,743
+SHAW: Your Honor, Mr.
+Sanchez recently redeployed to Afghanistan.
+
+288
+00:14:49,893 --> 00:14:52,169
+PARSONS: It's my belief that he
+was coerced into redeploying.
+
+289
+00:14:52,279 --> 00:14:53,662
+PAWLOWSKI: And that
+belief is based on what?
+
+290
+00:14:53,772 --> 00:14:56,626
+PARSONS: Mr. Sanchez has been suffering
+from post-traumatic stress disorder.
+
+291
+00:14:56,747 --> 00:14:59,540
+He was prescribed medication
+by his doctor who was later
+
+292
+00:14:59,667 --> 00:15:01,324
+killed under suspicious
+circumstances.
+
+293
+00:15:01,420 --> 00:15:02,971
+SHAW: "Suspicious"?
+What are you implying?
+
+294
+00:15:03,077 --> 00:15:05,446
+PARSONS: Mr. Sanchez believes
+that High Star may have been
+
+295
+00:15:05,531 --> 00:15:07,241
+responsible for his
+doctor's death.
+
+296
+00:15:07,346 --> 00:15:09,961
+SHAW: Keep it up, and I'll have a
+slander suit filed against you by lunch.
+
+297
+00:15:10,088 --> 00:15:11,635
+PARSONS: Given the
+circumstances, it simply defies
+
+298
+00:15:11,746 --> 00:15:14,474
+logic that Mr. Sanchez would
+redeploy on his own volition.
+
+299
+00:15:14,562 --> 00:15:16,454
+SHAW: I have his contract right
+here, with his signature.
+
+300
+00:15:16,575 --> 00:15:18,603
+PARSONS: All I'm asking, Your
+Honor, is that you not dismiss
+
+301
+00:15:18,713 --> 00:15:22,122
+this case until my witness has had the
+opportunity to go on the record.
+
+302
+00:15:22,225 --> 00:15:24,892
+PAWLOWSKI: How would you suggest
+that we do that? He's in Afghanistan.
+
+303
+00:15:25,035 --> 00:15:26,376
+PARSONS: He's working
+for High Star.
+
+304
+00:15:26,492 --> 00:15:27,855
+They must have access to him.
+
+305
+00:15:27,965 --> 00:15:30,155
+SHAW: No, we don't. Mr.
+Sanchez is out in the field
+
+306
+00:15:30,249 --> 00:15:32,601
+on a six-month contract.
+His assignment requires
+
+307
+00:15:32,697 --> 00:15:36,327
+clandestine movement all over the country,
+sometimes at a moment's notice.
+
+308
+00:15:38,637 --> 00:15:40,132
+PAWLOWSKI: Ms. Parsons, you're
+going to have to wait.
+
+309
+00:15:40,322 --> 00:15:42,622
+Six months won't kill your case.
+
+310
+00:15:42,750 --> 00:15:44,517
+PARSONS: But it could
+kill my witness.
+
+311
+00:15:44,878 --> 00:15:48,245
+He is in a war zone.
+He could die at any time.
+
+312
+00:15:48,370 --> 00:15:50,417
+For all I know, the company's
+already had him killed.
+
+313
+00:15:50,508 --> 00:15:51,860
+SHAW: Your Honor,
+this is outrageous.
+
+314
+00:15:51,989 --> 00:15:53,385
+PAWLOWSKI: Be careful, Ms.
+Parsons.
+
+315
+00:15:53,501 --> 00:15:54,849
+PARSONS: Can you prove
+that he's alive?
+
+316
+00:15:54,937 --> 00:15:55,849
+SHAW: Of course we can.
+
+317
+00:15:55,977 --> 00:15:57,372
+PARSONS: Well, then you
+must know where he is.
+
+318
+00:15:57,474 --> 00:15:58,746
+Why can't the company
+produce him?
+
+319
+00:16:02,135 --> 00:16:03,446
+PAWLOWSKI: It's a good point, Mr.
+Shaw.
+
+320
+00:16:05,282 --> 00:16:05,913
+SHAW: Your Honor...
+
+321
+00:16:06,034 --> 00:16:07,467
+PAWLOWSKI: Are you able
+to produce him or not?
+
+322
+00:16:09,955 --> 00:16:11,161
+SHAW: If necessary.
+
+323
+00:16:13,155 --> 00:16:15,165
+PAWLOWSKI: I want to hear what Mr.
+Sanchez has to say.
+
+324
+00:16:15,620 --> 00:16:18,366
+I'll give you 48 hours to
+produce him via video-link.
+
+325
+00:16:18,702 --> 00:16:20,547
+SHAW: 48 hours?
+I don't know that that's possible.
+
+326
+00:16:20,705 --> 00:16:22,401
+PAWLOWSKI: I think
+you can find a way.
+
+327
+00:16:24,126 --> 00:16:25,630
+PARSONS: Thank you, Your Honor.
+
+328
+00:16:41,848 --> 00:16:44,649
+ERICKSON: The judge is ordering
+me to produce Sanchez in court.
+
+329
+00:16:44,807 --> 00:16:46,949
+BOORMAN: Sounds like your
+attorney's doing a bang-up
+
+330
+00:16:47,044 --> 00:16:48,717
+job getting this
+thing dismissed.
+
+331
+00:16:48,888 --> 00:16:52,565
+Ellen Parsons is back working
+out of Patty Hewes' firm.
+
+332
+00:16:52,713 --> 00:16:54,371
+ERICKSON: How do you know?
+
+333
+00:16:54,682 --> 00:16:56,575
+BOORMAN: I got her
+cell phone tapped.
+
+334
+00:16:57,574 --> 00:16:59,575
+ERICKSON: Ellen Parsons
+filed the case alone.
+
+335
+00:16:59,808 --> 00:17:02,384
+BOORMAN: Patty Hewes has got to
+be putting her up as a front.
+
+336
+00:17:03,831 --> 00:17:06,048
+ERICKSON: I don't
+like this lawsuit.
+
+337
+00:17:07,976 --> 00:17:10,942
+I think it may be time for
+me to get my check book out.
+
+338
+00:17:11,043 --> 00:17:12,833
+BOORMAN: You're already
+paying Sanchez.
+
+339
+00:17:12,916 --> 00:17:14,526
+ERICKSON: I'm not
+talking Sanchez.
+
+340
+00:17:14,873 --> 00:17:16,866
+I want to offer the
+families a settlement.
+
+341
+00:17:17,219 --> 00:17:19,056
+BOORMAN: Good idea, Howard.
+
+342
+00:17:19,212 --> 00:17:20,968
+ERICKSON: I never liked
+that last mission.
+
+343
+00:17:21,143 --> 00:17:23,518
+The risk factor was
+off the chart.
+
+344
+00:17:24,048 --> 00:17:26,797
+BOORMAN: We had a small window
+of opportunity. We had to go in.
+
+345
+00:17:28,414 --> 00:17:30,384
+ERICKSON: The asset we
+pulled out, was he worth it?
+
+346
+00:17:30,540 --> 00:17:34,650
+BOORMAN: Absolutely.
+We're getting quality intel out of him.
+
+347
+00:17:34,777 --> 00:17:36,027
+ERICKSON: You still
+have the guy?
+
+348
+00:17:37,807 --> 00:17:39,569
+BOORMAN: He's
+under our control.
+
+349
+00:17:40,831 --> 00:17:43,220
+(classical music playing)
+
+350
+00:18:04,432 --> 00:18:05,975
+BOORMAN: I got you
+an egg sandwich.
+
+351
+00:18:06,102 --> 00:18:07,386
+I think, uh...
+
+352
+00:18:08,433 --> 00:18:09,706
+I think you're gonna like it.
+
+353
+00:18:12,509 --> 00:18:15,982
+And you've been very cooperative,
+so I threw in some dessert.
+
+354
+00:18:16,860 --> 00:18:18,093
+(door squeaking)
+
+355
+00:18:18,685 --> 00:18:22,812
+PARSONS: Howard Erickson called.
+He wants to meet with me.
+
+356
+00:18:24,000 --> 00:18:26,632
+HEWES: Interesting.
+PARSONS: Without his attorney.
+
+357
+00:18:27,461 --> 00:18:30,269
+HEWES: That's unethical.
+PARSONS: Highly unethical.
+
+358
+00:18:31,456 --> 00:18:34,658
+HEWES: If the judge finds out,
+you'll get thrown off the case.
+
+359
+00:18:34,898 --> 00:18:36,628
+You and Erickson
+can't meet alone.
+
+360
+00:18:37,536 --> 00:18:40,525
+PARSONS: That's why I
+want you to go for me.
+
+361
+00:18:42,828 --> 00:18:44,790
+HEWES: Me?
+PARSONS: You'd enjoy that, right?
+
+362
+00:18:44,906 --> 00:18:48,880
+Sitting across from Howard Erickson.
+Finding out what he's up to.
+
+363
+00:18:53,735 --> 00:18:57,315
+PARSONS: Come on, Patty.
+It'd be fun for you.
+
+364
+00:18:58,890 --> 00:19:01,044
+And I would love to
+get your take on him.
+
+365
+00:19:02,822 --> 00:19:04,655
+HEWES: I'm sure you would.
+
+366
+00:19:14,252 --> 00:19:16,055
+PARSONS: So, you're not
+gonna do this for me?
+
+367
+00:19:17,538 --> 00:19:22,165
+HEWES: No reason to.
+PARSONS: I can think of one.
+
+368
+00:19:26,615 --> 00:19:28,234
+ZAFAR MARWAT: Eat
+some more, Chris.
+
+369
+00:19:28,935 --> 00:19:32,774
+SANCHEZ: No. Really, I'm stuffed.
+It was delicious.
+
+370
+00:19:34,695 --> 00:19:35,892
+(speaking Pashto)
+
+371
+00:19:37,153 --> 00:19:38,290
+ZAFAR: Good Pashto.
+
+372
+00:19:38,717 --> 00:19:40,409
+(repeats what Sanchez just said)
+
+373
+00:19:42,960 --> 00:19:45,868
+We are very happy to have
+you here, very happy.
+
+374
+00:19:46,807 --> 00:19:48,154
+SANCHEZ: How are
+things in the province?
+
+375
+00:19:50,319 --> 00:19:51,632
+ZAFAR: Not very good.
+
+376
+00:19:52,321 --> 00:19:56,956
+There is no safety,
+little food, less hope.
+
+377
+00:19:58,456 --> 00:20:03,129
+My only wish-- For my
+grandchildren to know peace in
+
+378
+00:20:03,246 --> 00:20:07,603
+their lifetime, but my son-- He
+believes this is not possible.
+
+379
+00:20:07,772 --> 00:20:09,666
+SANCHEZ: Where is Nasim?
+I was hoping to see him.
+
+380
+00:20:10,585 --> 00:20:14,195
+ZAFAR: My son is out
+driving his taxi.
+
+381
+00:20:15,726 --> 00:20:16,899
+SANCHEZ: Oh.
+I'm sorry I missed him.
+
+382
+00:20:17,979 --> 00:20:20,212
+I really need to ask
+him some questions.
+
+383
+00:20:20,845 --> 00:20:22,493
+ZAFAR: Perhaps I can help.
+
+384
+00:20:26,125 --> 00:20:28,161
+ERICKSON: There's nothing
+to be ashamed of, Jake.
+
+385
+00:20:29,024 --> 00:20:30,731
+JAKE: I don't know what
+you're talking about.
+
+386
+00:20:31,000 --> 00:20:32,241
+ERICKSON: The sheets.
+
+387
+00:20:33,451 --> 00:20:36,166
+I want you to know
+it's perfectly normal.
+
+388
+00:20:38,049 --> 00:20:39,855
+You're 13 now.
+
+389
+00:20:40,830 --> 00:20:43,457
+I think it's time you and I
+had a talk about manhood.
+
+390
+00:20:44,300 --> 00:20:45,621
+JAKE: Can I get the waffles?
+
+391
+00:20:46,251 --> 00:20:47,857
+HEWES: Waffles sound delicious.
+
+392
+00:20:50,789 --> 00:20:52,546
+HEWES: You don't know who I am?
+
+393
+00:20:53,323 --> 00:20:56,036
+ERICKSON: Oh, shoot.
+I'm so sorry.
+
+394
+00:20:56,149 --> 00:20:58,644
+I feel like a certified ass.
+Patty Hewes.
+
+395
+00:20:58,797 --> 00:20:59,825
+HEWES: Hello.
+
+396
+00:21:00,210 --> 00:21:02,091
+ERICKSON: Jake, I'd like a
+word alone with Ms. Hewes.
+
+397
+00:21:02,176 --> 00:21:06,828
+Could you give us a minute, son?
+You got your Game Boy?
+
+398
+00:21:07,310 --> 00:21:09,616
+JAKE: Sure.
+HEWES: Thank you, Jake.
+
+399
+00:21:13,456 --> 00:21:16,818
+I have a son.
+ERICKSON: I have four.
+
+400
+00:21:17,535 --> 00:21:18,510
+(both laugh)
+
+401
+00:21:19,490 --> 00:21:22,391
+ERICKSON: I heard a rumor Ms.
+Parsons wasn't trying this case alone.
+
+402
+00:21:22,603 --> 00:21:27,268
+HEWES: Actually, she is.
+She has no idea I'm here.
+
+403
+00:21:27,447 --> 00:21:29,332
+ERICKSON: Then
+why are you here?
+
+404
+00:21:30,174 --> 00:21:31,602
+HEWES: I have my reasons.
+
+405
+00:21:33,838 --> 00:21:37,179
+ERICKSON: Ms.
+Parsons never got back to me.
+
+406
+00:21:38,778 --> 00:21:41,960
+I was hoping I could find
+a way forward with her.
+
+407
+00:21:42,999 --> 00:21:44,317
+HEWES: A way forward?
+
+408
+00:21:44,656 --> 00:21:46,813
+ERICKSON: Maybe you can
+carry a message for me.
+
+409
+00:21:48,671 --> 00:21:51,022
+I'm willing to make an offer.
+
+410
+00:21:59,761 --> 00:22:01,325
+HEWES: That's a lot of money.
+
+411
+00:22:01,552 --> 00:22:03,896
+ERICKSON: I just want to do
+what's right for those families.
+
+412
+00:22:04,249 --> 00:22:05,723
+HEWES: Ms.
+Parsons won't let you.
+
+413
+00:22:07,999 --> 00:22:10,249
+She's not interested
+in a settlement.
+
+414
+00:22:10,754 --> 00:22:13,037
+She's desperate to make
+a name for herself.
+
+415
+00:22:14,760 --> 00:22:17,014
+But she's in over her head.
+
+416
+00:22:17,565 --> 00:22:21,181
+If I were you...
+I'd keep my money.
+
+417
+00:22:21,343 --> 00:22:24,070
+She'll never beat you in court.
+She doesn't have a case.
+
+418
+00:22:24,347 --> 00:22:28,868
+ERICKSON: What is this, some
+kind of negotiating ploy, or are
+
+419
+00:22:28,970 --> 00:22:33,188
+you angling to push Ms. Parsons out so
+you can take over this case yourself?
+
+420
+00:22:34,281 --> 00:22:36,525
+HEWES: I have my own
+cases to worry about.
+
+421
+00:22:36,657 --> 00:22:38,665
+ERICKSON: Look, I'm not
+interested in playing games.
+
+422
+00:22:43,794 --> 00:22:45,468
+This is my final offer.
+
+423
+00:22:45,574 --> 00:22:49,105
+HEWES: This isn't my case.
+I'm in no position to make a deal.
+
+424
+00:22:49,205 --> 00:22:51,251
+ERICKSON: Then do me a
+solid and pass that along.
+
+425
+00:22:53,631 --> 00:23:00,069
+The offer is generous. Tell Ms.
+Parsons there won't be another.
+
+426
+00:23:04,290 --> 00:23:06,949
+PARSONS: How did it go?
+HEWES: It was smart to file the case.
+
+427
+00:23:07,059 --> 00:23:08,392
+He wants to settle.
+
+428
+00:23:08,482 --> 00:23:12,529
+He even was willing to negotiate
+against himself and up the offer.
+
+429
+00:23:12,610 --> 00:23:13,774
+PARSONS: But you
+didn't accept it.
+
+430
+00:23:13,883 --> 00:23:16,445
+HEWES: No, but you need to
+take the offer to your clients.
+
+431
+00:23:17,359 --> 00:23:18,678
+PARSONS: They don't
+need to know.
+
+432
+00:23:18,820 --> 00:23:20,959
+HEWES: That's not
+exactly ethical, Ellen.
+
+433
+00:23:21,052 --> 00:23:22,481
+It's a substantial figure.
+
+434
+00:23:22,620 --> 00:23:23,950
+PARSONS: I'll think about it.
+
+435
+00:23:24,410 --> 00:23:26,335
+HEWES: Well, anyway, you know that
+Erickson's scared now,
+
+436
+00:23:26,411 --> 00:23:27,543
+so just keep pusing.
+
+437
+00:23:27,737 --> 00:23:28,963
+PARSONS: Thanks for
+going to meet with him.
+
+438
+00:23:29,040 --> 00:23:30,180
+I'm glad we could
+help each other out.
+
+439
+00:23:31,235 --> 00:23:32,771
+HEWES: How's my little girl?
+
+440
+00:23:35,296 --> 00:23:36,831
+PARSONS: She's fine.
+Don't worry.
+
+441
+00:23:36,915 --> 00:23:38,366
+HEWES: Well, check her
+temperature every couple of
+
+442
+00:23:38,428 --> 00:23:40,893
+hours, and if anything goes
+wrong, anything at all, her
+
+443
+00:23:40,969 --> 00:23:43,794
+doctor's number's on
+the fridge, okay?
+
+444
+00:23:43,873 --> 00:23:45,673
+And make sure she
+stays hydrated.
+
+445
+00:23:45,793 --> 00:23:47,541
+PARSONS: I'll take good care
+of her while you're away.
+
+446
+00:23:48,769 --> 00:23:50,271
+Listen, I forgot to ask.
+
+447
+00:23:50,353 --> 00:23:52,407
+I'm looking after Chris's
+dog while he's away.
+
+448
+00:23:52,483 --> 00:23:54,004
+Is it okay if I bring her over?
+
+449
+00:23:54,161 --> 00:23:55,479
+HEWES: Yeah, it's no problem.
+
+450
+00:23:55,566 --> 00:23:57,251
+PARSONS: Okay. Thanks, Patty.
+
+451
+00:23:57,412 --> 00:23:58,116
+HEWES: Bye.
+
+452
+00:24:00,903 --> 00:24:02,063
+You drive.
+
+453
+00:24:03,739 --> 00:24:04,970
+You do drive?
+
+454
+00:24:07,125 --> 00:24:08,351
+ZAFAR: I know who he is.
+
+455
+00:24:09,156 --> 00:24:10,866
+Mullah Nur Taraki.
+
+456
+00:24:11,248 --> 00:24:14,853
+Well-known in this province.
+Very powerful.
+
+457
+00:24:15,307 --> 00:24:16,969
+SANCHEZ: I was told my men
+killed his brother, and now
+
+458
+00:24:17,052 --> 00:24:18,201
+he's seeking revenge.
+
+459
+00:24:19,210 --> 00:24:20,828
+ZAFAR: Who told you this?
+
+460
+00:24:21,916 --> 00:24:23,804
+SANCHEZ: It's better
+for you not to know.
+
+461
+00:24:24,551 --> 00:24:28,675
+ZAFAR: Taraki's brother was
+killed, but not by your men.
+
+462
+00:24:30,150 --> 00:24:33,124
+He was beheaded
+by a rival tribe.
+
+463
+00:24:34,153 --> 00:24:35,414
+Taraki knows this.
+
+464
+00:24:39,705 --> 00:24:40,969
+SANCHEZ: Are you sure?
+
+465
+00:24:47,192 --> 00:24:48,582
+ZAFAR: Listen to me, Chris.
+
+466
+00:24:49,157 --> 00:24:50,475
+I am your friend.
+
+467
+00:24:51,235 --> 00:24:55,662
+This story that you have
+been told-- It's fiction.
+
+468
+00:24:56,752 --> 00:24:58,482
+SANCHEZ: I thought it might be.
+
+469
+00:25:04,454 --> 00:25:06,887
+But that's not the only
+reason I came to see you.
+
+470
+00:25:09,345 --> 00:25:10,414
+ZAFAR: No?
+
+471
+00:25:10,740 --> 00:25:12,819
+SANCHEZ: I need to tell you
+about the missions I led.
+
+472
+00:25:13,850 --> 00:25:17,481
+Your son, Nasim, helped me with
+information, what... whatever I
+
+473
+00:25:17,559 --> 00:25:18,740
+needed to do my job.
+
+474
+00:25:18,832 --> 00:25:20,187
+I will always be grateful.
+
+475
+00:25:21,823 --> 00:25:23,204
+But what I did...
+
+476
+00:25:24,733 --> 00:25:26,612
+We interrogated people.
+
+477
+00:25:28,336 --> 00:25:30,926
+I think many of
+them were innocent.
+
+478
+00:25:33,638 --> 00:25:35,160
+Some of them died.
+
+479
+00:25:40,019 --> 00:25:40,973
+I...
+
+480
+00:25:42,919 --> 00:25:45,959
+I didn't think of it as
+torture at the time.
+
+481
+00:25:46,080 --> 00:25:48,364
+We-we were doing it for
+the right reasons.
+
+482
+00:25:48,450 --> 00:25:49,631
+We were.
+
+483
+00:25:52,662 --> 00:25:56,223
+But... I think we did
+more harm than good.
+
+484
+00:25:58,232 --> 00:25:59,578
+I regret it now.
+
+485
+00:26:01,621 --> 00:26:04,686
+You came all the way to
+Afghanistan to tell us this?
+
+486
+00:26:08,017 --> 00:26:09,326
+SANCHEZ: I'm very sorry.
+
+487
+00:26:16,966 --> 00:26:18,215
+(sighs)
+
+488
+00:26:18,938 --> 00:26:20,650
+BOORMAN: I'm coming
+up to get you.
+
+489
+00:26:24,410 --> 00:26:25,713
+Time to pray.
+
+490
+00:26:28,403 --> 00:26:30,118
+HUNTLEY: So you wouldn't
+let Michael stay with you?
+
+491
+00:26:32,152 --> 00:26:34,018
+HENRY: Look, I'm gonna
+be late for class.
+
+492
+00:26:34,849 --> 00:26:37,145
+HUNTLEY: You're not going to turn
+your back on him again, are you?
+
+493
+00:26:37,436 --> 00:26:39,999
+HENRY: What was I supposed to
+do, let him live in my dorm?
+
+494
+00:26:40,142 --> 00:26:41,388
+I had roommates.
+
+495
+00:26:41,567 --> 00:26:43,083
+HEWES: All right, Maggie.
+That's fine.
+
+496
+00:26:43,643 --> 00:26:44,907
+HENRY: Who is that?
+
+497
+00:26:45,285 --> 00:26:48,159
+HEWES: And tell Girotto I need to
+push back the deposition again.
+
+498
+00:26:48,264 --> 00:26:49,222
+I'm out of town.
+
+499
+00:26:49,338 --> 00:26:50,402
+HENRY: Oh, fuck.
+
+500
+00:26:52,294 --> 00:26:53,977
+HEWES: Hello, Henry.
+How are you?
+
+501
+00:26:54,083 --> 00:26:55,230
+HENRY: I'm fine, Ms. Hewes.
+
+502
+00:26:55,322 --> 00:26:58,231
+HEWES: So, you're a junior now.
+
+503
+00:27:00,026 --> 00:27:01,658
+Your parents must be proud.
+
+504
+00:27:01,754 --> 00:27:03,822
+HENRY: I'm so sorry about
+Michael, Ms. Hewes.
+
+505
+00:27:03,935 --> 00:27:06,348
+When he showed up,
+we were in finals.
+
+506
+00:27:06,475 --> 00:27:07,901
+I was totally swamped.
+
+507
+00:27:07,979 --> 00:27:09,432
+I really wanted to
+help him, but...
+
+508
+00:27:09,526 --> 00:27:10,808
+HEWES: Relax, Henry.
+
+509
+00:27:10,875 --> 00:27:12,640
+This isn't about you.
+You are not in trouble.
+
+510
+00:27:12,719 --> 00:27:14,341
+I'm just trying to find Michael.
+
+511
+00:27:14,425 --> 00:27:15,650
+HUNTLEY: Any idea
+where he is now?
+
+512
+00:27:15,789 --> 00:27:17,667
+HENRY: Last time I saw
+him was a while ago.
+
+513
+00:27:17,806 --> 00:27:19,569
+HUNTLEY: And where
+exactly was that?
+
+514
+00:27:20,604 --> 00:27:23,661
+HENRY: He used to hang
+out across the street
+
+515
+00:27:23,749 --> 00:27:25,921
+from this nightclub
+called Razor Fish.
+
+516
+00:27:26,065 --> 00:27:28,519
+HEWES: Hang out? And do what?
+
+517
+00:27:29,689 --> 00:27:32,767
+HENRY: Seemed like he was trying to
+work his way into the scene down there.
+
+518
+00:27:33,823 --> 00:27:35,302
+HEWES: Where did he live?
+
+519
+00:27:36,280 --> 00:27:37,606
+HENRY: In his car.
+
+520
+00:27:40,129 --> 00:27:41,987
+HEWES: So he was homeless?
+
+521
+00:27:44,144 --> 00:27:45,388
+HENRY: I brought him clothes.
+
+522
+00:27:46,022 --> 00:27:47,422
+Even gave him money once.
+
+523
+00:27:49,172 --> 00:27:51,185
+I'm so sorry, Ms. Hewes.
+
+524
+00:27:57,138 --> 00:27:59,588
+BOORMAN: Patty Hewes came
+instead of Ellen Parsons?
+
+525
+00:28:00,568 --> 00:28:03,156
+ERICKSON: I don't know what kind
+of tag-team they got going on.
+
+526
+00:28:04,801 --> 00:28:10,761
+I offered 'em a shit pot full of money,
+but they have no intention of settling.
+
+527
+00:28:13,363 --> 00:28:15,126
+No. I'm not hungry.
+
+528
+00:28:21,280 --> 00:28:23,097
+I'm worried about Chris Sanchez.
+
+529
+00:28:24,641 --> 00:28:26,258
+Who knows what he's
+gonna say in court?
+
+530
+00:28:28,681 --> 00:28:31,103
+BOORMAN: Hmm. He doesn't have to
+say anything if he doesn't appear.
+
+531
+00:28:36,740 --> 00:28:38,376
+Afghanistan's a
+war zone, Howard.
+
+532
+00:28:40,709 --> 00:28:42,600
+Anything can happen.
+
+533
+00:28:46,968 --> 00:28:48,828
+(crickets chirping)
+
+534
+00:28:51,705 --> 00:28:52,990
+CARTER: What did
+your contact say?
+
+535
+00:28:53,083 --> 00:28:54,228
+SANCHEZ: Boorman's
+full of shit.
+
+536
+00:28:54,597 --> 00:28:56,093
+We didn't kill Taraki's brother.
+
+537
+00:28:56,620 --> 00:29:00,583
+The fucking fatwa against
+me-- All bullshit.
+
+538
+00:29:07,776 --> 00:29:09,347
+What are you doing, A.C.?
+
+539
+00:29:10,280 --> 00:29:14,404
+CARTER: Sorry, man.
+Lawsuit's been filed.
+
+540
+00:29:14,927 --> 00:29:16,265
+There's going to be a hearing.
+
+541
+00:29:17,774 --> 00:29:19,442
+The company cannot
+have you talking.
+
+542
+00:29:23,412 --> 00:29:25,719
+JUDGE PAWLOWSKI: Mr. Shaw,
+we have been here for over an hour.
+
+543
+00:29:25,853 --> 00:29:26,713
+SHAW: I'm sorry, Your Honor.
+
+544
+00:29:26,805 --> 00:29:28,983
+They assured me Mr.
+Sanchez would be online by now.
+
+545
+00:29:29,240 --> 00:29:30,823
+It may be a technical problem.
+
+546
+00:29:31,033 --> 00:29:32,341
+Perhaps we could reschedule?
+
+547
+00:29:32,428 --> 00:29:33,747
+PARSONS: They're just
+stalling, Your Honor.
+
+548
+00:29:33,824 --> 00:29:35,475
+Either that, or my witness
+is being threatened.
+
+549
+00:29:35,570 --> 00:29:37,558
+SANCHEZ: Can you hear me? Ellen?
+
+550
+00:29:38,947 --> 00:29:40,337
+PAWLOWSKI: Welcome, Mr.
+Sanchez.
+
+551
+00:29:40,999 --> 00:29:42,001
+(crickets chirping)
+
+552
+00:29:43,044 --> 00:29:45,491
+PARSONS: Mr. Sanchez, on the
+day Rayburn, Franks and Lowry
+
+553
+00:29:45,569 --> 00:29:48,132
+were killed, you were on a
+mission for High Star Security,
+
+554
+00:29:48,207 --> 00:29:49,195
+is that correct?
+
+555
+00:29:49,304 --> 00:29:50,191
+SANCHEZ: Yes.
+
+556
+00:29:50,476 --> 00:29:52,680
+PARSONS: And what was the
+purpose of this operation?
+
+557
+00:29:52,818 --> 00:29:55,070
+SANCHEZ: Our orders were to
+escort kitchen equipment to a
+
+558
+00:29:55,147 --> 00:29:56,978
+NATO base outside Kandahar.
+
+559
+00:29:59,134 --> 00:30:00,368
+PARSONS: Kitchen equipment?
+
+560
+00:30:00,539 --> 00:30:01,653
+SANCHEZ: That's correct.
+
+561
+00:30:03,384 --> 00:30:05,136
+PARSONS: Mr. Sanchez, in
+previous conversations, do you
+
+562
+00:30:05,219 --> 00:30:09,014
+recall stating that you were
+involved in an illegal operation?
+
+563
+00:30:10,770 --> 00:30:11,737
+SANCHEZ: No.
+
+564
+00:30:14,181 --> 00:30:16,074
+I don't ever recall saying that.
+
+565
+00:30:20,232 --> 00:30:22,079
+We were escorting
+kitchen supplies.
+
+566
+00:30:23,706 --> 00:30:25,350
+PARSONS: Then how
+did these men die?
+
+567
+00:30:26,052 --> 00:30:28,411
+SANCHEZ: We were ambushed as we
+drove through the Kydar Pass.
+
+568
+00:30:28,511 --> 00:30:30,214
+The enemy had position
+on the ridge.
+
+569
+00:30:32,034 --> 00:30:34,956
+PARSONS: Mr. Sanchez, is
+your testimony being coerced?
+
+570
+00:30:35,093 --> 00:30:35,730
+SHAW: Your Honor...
+
+571
+00:30:35,821 --> 00:30:36,939
+PAWLOWSKI: He-he...
+he can answer.
+
+572
+00:30:37,032 --> 00:30:39,604
+Mr. Sanchez, are you
+under any duress?
+
+573
+00:30:39,763 --> 00:30:41,707
+SANCHEZ: No, sir, not at all.
+
+574
+00:30:42,890 --> 00:30:45,787
+PARSONS: In previous
+conversations, you told me that
+
+575
+00:30:45,865 --> 00:30:48,026
+you never wanted to
+return to Afghanistan.
+
+576
+00:30:48,783 --> 00:30:50,560
+What has made you
+change your mind?
+
+577
+00:30:51,680 --> 00:30:53,015
+SANCHEZ: My mother's sick.
+
+578
+00:30:53,963 --> 00:30:56,662
+I needed the money, so I
+re-upped with High Star.
+
+579
+00:30:57,048 --> 00:31:01,038
+PARSONS: You may be 7,000 miles away, Mr.
+Sanchez, but you are still under oath.
+
+580
+00:31:01,721 --> 00:31:03,828
+SANCHEZ: I understand.
+
+581
+00:31:05,838 --> 00:31:07,857
+PARSONS: Do you know the
+penalties for perjury?
+
+582
+00:31:09,558 --> 00:31:11,164
+SANCHEZ: I'm telling the truth.
+
+583
+00:31:18,137 --> 00:31:20,138
+PAWLOWSKI: Do you have
+anything further, Ms. Parsons?
+
+584
+00:31:20,942 --> 00:31:22,246
+PARSONS: No, Your Honor.
+
+585
+00:31:22,568 --> 00:31:26,575
+SANCHEZ: Ellen? My dog is sick.
+
+586
+00:31:28,255 --> 00:31:30,188
+PAWLOWSKI: What-what...?
+What did he say?
+
+587
+00:31:31,000 --> 00:31:33,228
+PARSONS: I'm, uh...
+I'm looking after his dog, Your Honor.
+
+588
+00:31:33,333 --> 00:31:36,387
+SANCHEZ: Can you take her to the vet?
+Please, Ellen.
+
+589
+00:31:36,525 --> 00:31:38,856
+It's right around the
+corner from my apartment.
+
+590
+00:31:39,365 --> 00:31:40,689
+SHAW: Your Honor,
+this is absurd.
+
+591
+00:31:40,770 --> 00:31:42,791
+PAWLOWSKI: Mr. Sanchez, we're
+on the taxpayers' dime here.
+
+592
+00:31:42,867 --> 00:31:44,198
+SANCHEZ: Talk to the vet.
+
+593
+00:31:44,677 --> 00:31:46,790
+The dog-- She was abused
+by her previous owner.
+
+594
+00:31:46,875 --> 00:31:49,056
+PAWLOWSKI: Mr. Sanchez, this-this...
+this situation is over.
+
+595
+00:31:49,133 --> 00:31:51,614
+Thank you very much for your
+cooperation. Be safe, sir.
+
+596
+00:31:51,717 --> 00:31:52,732
+(static hissing)
+
+597
+00:31:54,367 --> 00:31:55,336
+Wow.
+
+598
+00:31:56,592 --> 00:31:59,493
+At this point, Ms. Parsons,
+
+599
+00:31:59,594 --> 00:32:02,119
+I don't know exactly
+what you want me to do.
+
+600
+00:32:03,551 --> 00:32:05,214
+I don't see any
+grounds for a case.
+
+601
+00:32:10,581 --> 00:32:12,053
+(crickets chirping)
+
+602
+00:32:21,831 --> 00:32:23,222
+CARTER: You did
+the right thing.
+
+603
+00:32:26,531 --> 00:32:27,976
+SANCHEZ: Let him go now.
+
+604
+00:32:38,572 --> 00:32:39,694
+CARTER: Take him home.
+
+605
+00:32:56,164 --> 00:32:57,475
+CARTER: Sorry.
+
+606
+00:33:04,913 --> 00:33:06,627
+MICHAEL: Can you help me out?
+
+607
+00:33:07,306 --> 00:33:08,297
+SETH: I doubt it.
+
+608
+00:33:08,625 --> 00:33:10,709
+Wait, wait. See this...
+This is interesting.
+
+609
+00:33:10,914 --> 00:33:12,578
+This guy wants a handout.
+
+610
+00:33:12,721 --> 00:33:13,529
+MICHAEL: Fuck off.
+
+611
+00:33:13,827 --> 00:33:14,530
+SETH: What happened?
+
+612
+00:33:14,637 --> 00:33:16,694
+You run away from home 'cause
+daddy doesn't love you?
+
+613
+00:33:16,792 --> 00:33:19,536
+Stop feeling sorry
+for yourself, bitch.
+
+614
+00:33:20,473 --> 00:33:21,576
+WOMAN: Come on, let's go.
+
+615
+00:33:27,168 --> 00:33:28,655
+(crowd chatter)
+
+616
+00:33:29,613 --> 00:33:31,217
+(club music playing)
+
+617
+00:33:48,817 --> 00:33:50,052
+MICHAEL: How much
+shit do you have?
+
+618
+00:33:50,548 --> 00:33:52,531
+Enough. It's 40 a tab.
+
+619
+00:33:52,646 --> 00:33:54,935
+You got the cash?
+MICHAEL: No.
+
+620
+00:33:55,405 --> 00:33:56,810
+Get the fuck out of here, man.
+
+621
+00:33:57,845 --> 00:33:59,056
+MICHAEL: I'll take all you got.
+
+622
+00:33:59,500 --> 00:34:01,675
+What, you gonna rob me now?
+
+623
+00:34:01,759 --> 00:34:04,399
+MICHAEL: No. I'm gonna pay you
+for everything you've got.
+
+624
+00:34:04,965 --> 00:34:06,775
+And I want your suit.
+
+625
+00:34:08,025 --> 00:34:09,161
+You're gonna pay me with what?
+
+626
+00:34:10,786 --> 00:34:12,049
+MICHAEL: My car.
+
+627
+00:34:14,874 --> 00:34:16,374
+What am I supposed
+to do with that?
+
+628
+00:34:16,729 --> 00:34:18,459
+MICHAEL: There's a chop
+shop around the corner.
+
+629
+00:34:18,566 --> 00:34:20,613
+You're a smart guy.
+Figure it out.
+
+630
+00:34:22,821 --> 00:34:25,457
+You want the car or not?
+
+631
+00:34:43,436 --> 00:34:45,334
+PARSONS: Hi. Uh, I signed in.
+
+632
+00:34:45,738 --> 00:34:47,143
+I'm Ellen Parsons.
+
+633
+00:34:48,730 --> 00:34:49,955
+TARA: What's wrong with her?
+
+634
+00:34:51,199 --> 00:34:52,373
+I'm not sure, actually.
+
+635
+00:34:52,478 --> 00:34:55,013
+I was just told to bring her in.
+She's not mine.
+
+636
+00:34:55,120 --> 00:34:57,236
+TARA: Yeah, I know.
+She belongs to Chris.
+
+637
+00:35:00,828 --> 00:35:03,646
+So, uh, you're Ellen.
+
+638
+00:35:06,222 --> 00:35:09,532
+I saw your name on his phone
+when you called last week.
+
+639
+00:35:09,630 --> 00:35:12,341
+PARSONS: Oh, right.
+So you're friends with Chris?
+
+640
+00:35:13,223 --> 00:35:15,070
+TARA: I-I thought so.
+
+641
+00:35:15,895 --> 00:35:18,597
+But then he dropped off the
+face of the Earth and...
+
+642
+00:35:23,370 --> 00:35:24,761
+Is he with you now?
+
+643
+00:35:25,921 --> 00:35:26,904
+PARSONS: No.
+
+644
+00:35:27,393 --> 00:35:29,814
+We just knew each other from
+high school, and he asked me
+
+645
+00:35:29,887 --> 00:35:32,761
+to watch Ghwarri
+while he was away.
+
+646
+00:35:34,017 --> 00:35:35,244
+TARA: Away where?
+
+647
+00:35:38,489 --> 00:35:40,039
+PARSONS: Afghanistan.
+
+648
+00:35:41,269 --> 00:35:42,576
+TARA: He went back?
+
+649
+00:35:44,028 --> 00:35:46,616
+PARSONS: Look, um, I know
+this is gonna sound very
+
+650
+00:35:46,701 --> 00:35:50,515
+strange, but I think that he may
+have sent me here to talk to you.
+
+651
+00:35:53,388 --> 00:35:55,640
+Chris insisted that
+I bring her here.
+
+652
+00:35:56,502 --> 00:35:59,483
+He said that her previous
+owner abused her.
+
+653
+00:35:59,603 --> 00:36:00,804
+Do you know anything about that?
+
+654
+00:36:01,574 --> 00:36:04,483
+TARA: All I know is, Chris
+rescued her from some
+
+655
+00:36:04,579 --> 00:36:06,962
+asshole he was going
+after over there.
+
+656
+00:36:07,421 --> 00:36:09,583
+PARSONS: What do you
+mean he was going after?
+
+657
+00:36:10,532 --> 00:36:14,094
+CONWAY: Um, I don't know.
+He didn't really explain.
+
+658
+00:36:15,688 --> 00:36:18,898
+PARSONS: I'm just asking because he
+wasn't supposed to be going after anyone.
+
+659
+00:36:18,999 --> 00:36:20,638
+He was just there to
+provide security.
+
+660
+00:36:20,751 --> 00:36:22,028
+CONWAY: I'm sorry I can't help.
+
+661
+00:36:22,114 --> 00:36:23,063
+I guess if Chris had wanted you
+
+662
+00:36:23,121 --> 00:36:25,108
+to know something, he would
+have told you himself.
+
+663
+00:36:30,762 --> 00:36:33,184
+(techno-pop playing)
+
+664
+00:36:42,791 --> 00:36:45,643
+MICHAEL: Hey, I heard
+you're looking to buy.
+
+665
+00:36:45,880 --> 00:36:47,016
+SETH: You heard wrong.
+
+666
+00:36:47,223 --> 00:36:49,699
+MICHAEL: You look familiar.
+Do I know you?
+
+667
+00:36:51,357 --> 00:36:54,107
+SETH: I've never seen you
+before, and I'm not interested.
+
+668
+00:36:54,771 --> 00:36:55,978
+MICHAEL: My mistake.
+
+669
+00:37:09,233 --> 00:37:10,743
+WOMAN: Come on, I want some.
+
+670
+00:37:11,094 --> 00:37:12,117
+SETH: How much?
+
+671
+00:37:13,338 --> 00:37:14,429
+MICHAEL: $80 a hit.
+
+672
+00:37:14,544 --> 00:37:15,872
+SETH: I can get it for $40.
+
+673
+00:37:16,439 --> 00:37:17,525
+MICHAEL: Not this shit.
+
+674
+00:37:18,304 --> 00:37:20,070
+WOMAN: Don't be such
+a cheap bastard.
+
+675
+00:37:24,788 --> 00:37:26,775
+SETH: Fuck it. Give me 20 tabs.
+
+676
+00:37:27,514 --> 00:37:28,645
+MICHAEL: You won't be sorry.
+
+677
+00:37:33,476 --> 00:37:34,941
+WOMAN: You should
+party with us.
+
+678
+00:38:03,099 --> 00:38:04,391
+SETH: Where are you going?
+
+679
+00:38:10,402 --> 00:38:13,821
+MICHAEL: This was fun,
+but I got to go.
+
+680
+00:38:37,130 --> 00:38:38,432
+BIG RAY: Hey, guys,
+we're closed.
+
+681
+00:38:38,572 --> 00:38:40,527
+And no, you can't
+use the bathroom.
+
+682
+00:38:43,535 --> 00:38:44,937
+HUNTLEY: Do I look
+like I need to pee?
+
+683
+00:38:49,185 --> 00:38:50,487
+Do you recognize him?
+
+684
+00:38:51,340 --> 00:38:53,426
+BIG RAY: Holy shit. That dude?
+
+685
+00:38:54,650 --> 00:38:56,180
+What the fuck ever
+happened to him?
+
+686
+00:38:56,393 --> 00:38:57,789
+HUNTLEY: That's what
+we're trying to find out.
+
+687
+00:38:58,018 --> 00:38:59,716
+BIG RAY: You a cop?
+HUNTLEY: Sort of.
+
+688
+00:38:59,969 --> 00:39:01,266
+So what can you
+tell me about him?
+
+689
+00:39:02,148 --> 00:39:05,229
+BIG RAY: He used to hang out across
+the street. The kid was an asshole.
+
+690
+00:39:05,926 --> 00:39:07,239
+HEWES: He's my son.
+
+691
+00:39:09,283 --> 00:39:10,966
+BIG RAY: Oh, I'm sorry.
+
+692
+00:39:12,568 --> 00:39:15,014
+I can see that now.
+You look alike.
+
+693
+00:39:15,390 --> 00:39:16,729
+HEWES: Why was he an asshole?
+
+694
+00:39:17,202 --> 00:39:18,882
+BIG RAY: He started
+slinging dope.
+
+695
+00:39:19,205 --> 00:39:22,810
+HEWES: So...
+He was selling drugs?
+
+696
+00:39:23,479 --> 00:39:24,544
+BIG RAY: Yeah.
+
+697
+00:39:25,331 --> 00:39:27,230
+HUNTLEY: Any of the people he
+was running with still around?
+
+698
+00:39:27,480 --> 00:39:29,089
+BIG RAY: The dude
+didn't run with anyone.
+
+699
+00:39:29,202 --> 00:39:32,432
+He was a loner.
+Pissed off a lot of people.
+
+700
+00:39:33,119 --> 00:39:34,735
+The wrong people.
+
+701
+00:39:35,623 --> 00:39:37,138
+Then one day he disappeared.
+
+702
+00:39:52,620 --> 00:39:53,933
+HEWES: Thank you for driving.
+
+703
+00:39:56,450 --> 00:39:58,987
+HUNTLEY: I've seen this kind of
+thing before, and I-- I think
+
+704
+00:39:59,103 --> 00:40:03,360
+you should be prepared
+for, uh, anything.
+
+705
+00:40:08,592 --> 00:40:10,406
+HEWES: You-you think
+Michael's dead?
+
+706
+00:40:10,532 --> 00:40:13,253
+HUNTLEY: No, I'm just saying
+that you should be prepared.
+
+707
+00:40:28,775 --> 00:40:29,889
+PARSONS: Hi.
+
+708
+00:40:30,018 --> 00:40:30,886
+HEWES: Hi.
+
+709
+00:40:33,419 --> 00:40:34,565
+PARSONS: Welcome back.
+
+710
+00:40:35,731 --> 00:40:36,739
+HEWES: Thanks.
+
+711
+00:40:38,908 --> 00:40:40,433
+PARSONS: Catherine's
+doing a lot better.
+
+712
+00:40:40,546 --> 00:40:42,479
+Her fever broke and her
+temperature's down.
+
+713
+00:40:42,830 --> 00:40:43,874
+HEWES: Oh, good.
+
+714
+00:40:44,790 --> 00:40:45,716
+PARSONS: We had a lovely time.
+
+715
+00:40:45,809 --> 00:40:47,335
+Read all her favorite
+books twice.
+
+716
+00:40:49,884 --> 00:40:51,259
+She's very sweet.
+
+717
+00:40:51,842 --> 00:40:53,053
+HEWES: Yes, she is.
+
+718
+00:40:55,943 --> 00:40:56,864
+(sighs)
+
+719
+00:40:59,115 --> 00:41:00,491
+PARSONS: Did you find Michael?
+
+720
+00:41:03,429 --> 00:41:04,643
+HEWES: No.
+
+721
+00:41:08,104 --> 00:41:09,617
+PARSONS: I'm sorry.
+
+722
+00:41:12,399 --> 00:41:13,863
+HEWES: So how's
+your case going?
+
+723
+00:41:14,776 --> 00:41:17,103
+What does your witness
+say at the hearing?
+
+724
+00:41:18,285 --> 00:41:21,912
+PARSONS: Well, um,
+they got him to lie.
+
+725
+00:41:24,267 --> 00:41:26,385
+He was trying to
+tell me something.
+
+726
+00:41:26,514 --> 00:41:29,347
+I think they were going after
+somebody over there, but I
+
+727
+00:41:29,436 --> 00:41:31,347
+haven't figured out
+what he meant yet.
+
+728
+00:41:37,123 --> 00:41:39,176
+I've been lying to myself.
+
+729
+00:41:40,967 --> 00:41:42,591
+I'm stuck.
+
+730
+00:41:44,442 --> 00:41:47,132
+I can't win this case
+without you, Patty.
+
+731
+00:41:50,613 --> 00:41:53,045
+I want more than just
+the firm's resources.
+
+732
+00:41:58,149 --> 00:42:03,246
+HEWES: You want the benefit of
+my experience and advice, so
+
+733
+00:42:03,359 --> 00:42:06,809
+you can make a name for yourself
+and go out on your own.
+
+734
+00:42:07,936 --> 00:42:09,781
+PARSONS: Why
+wouldn't I want that?
+
+735
+00:42:12,086 --> 00:42:14,634
+HEWES: All you
+needed to do was ask.
+
+736
+00:42:17,195 --> 00:42:18,167
+SANCHEZ: What the
+fuck are you doing?
+
+737
+00:42:18,324 --> 00:42:21,253
+I told them what you wanted!
+I told them what you fucking wanted!
+
+738
+00:42:21,350 --> 00:42:22,732
+- What you fucking wanted!
+- We can't let you go back to the U.S. man.
+
+739
+00:42:22,813 --> 00:42:24,577
+This is about national
+security, and you know it.
+
+740
+00:42:26,428 --> 00:42:27,901
+Back the fuck up.
+
+741
+00:42:30,886 --> 00:42:32,692
+SANCHEZ: A.C.
+Don't do this to me!
+
+742
+00:42:32,869 --> 00:42:34,122
+(door locking)
+
+743
+00:42:34,658 --> 00:42:35,370
+(panting)
+
+744
+00:42:36,313 --> 00:42:38,315
+Fuck! Fuck!
+
+745
+00:42:50,671 --> 00:42:52,186
+(crickets chirping)
+
+746
+00:42:52,949 --> 00:42:54,140
+(vehicle approaching)
+
+747
+00:43:06,708 --> 00:43:08,022
+HIGH STAR CONTRACTOR:
+You're free to go.
+
+748
+00:43:34,942 --> 00:43:35,937
+(car door closes)
+
+749
+00:43:45,726 --> 00:43:46,703
+(gunshot)
+
+750
+00:43:50,285 --> 00:43:51,382
+(gunshot)
+
+751
+00:44:04,827 --> 00:44:06,211
+(car door closes)
+
+752
+00:44:13,273 --> 00:44:15,379
+(classical music playing)
+
+753
+00:44:31,719 --> 00:44:32,642
+MAN (over radio):
+Thank God for Patty...
+
+754
+00:44:32,731 --> 00:44:34,137
+(loud thud, tires squealing)
+
+755
+00:44:41,023 --> 00:44:43,525
+MICHAEL: Getting away from you is the best
+thing that could have happened to me.
+
+756
+00:44:49,143 --> 00:44:51,780
+People either leave
+you or they die.
+
+757
+00:45:43,491 --> 00:45:45,315
+(unzipping duffel bag)
+
+758
+00:46:15,327 --> 00:46:18,531
+Sync by n17t01
+www.addic7ed.com
+
+759
+00:46:35,350 --> 00:46:38,031
+<i>♪ When I am through with you ♪</i>
+
+760
+00:46:38,478 --> 00:46:41,927
+<i>♪ There won't be anything left ♪</i>
+
+761
+00:46:42,020 --> 00:46:45,182
+<i>♪ When I am through with you ♪</i>
+
+762
+00:46:45,473 --> 00:46:48,866
+<i>♪ There won't be anything left ♪</i>
+
+763
+00:46:48,976 --> 00:46:52,423
+<i>♪ When I am through with you. ♪</i>
+

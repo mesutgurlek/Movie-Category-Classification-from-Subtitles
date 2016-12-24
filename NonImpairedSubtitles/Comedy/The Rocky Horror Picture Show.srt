@@ -1,0 +1,4849 @@
+1
+00:00:33,657 --> 00:00:35,852
+<i>Michael Rennie was ill</i>
+
+2
+00:00:36,097 --> 00:00:39,055
+<i>The day the earth stood still</i>
+
+3
+00:00:39,297 --> 00:00:44,132
+<i>But he told us where we stand</i>
+
+4
+00:00:44,377 --> 00:00:46,447
+<i>And Flash Gordon was there</i>
+
+5
+00:00:46,697 --> 00:00:49,609
+<i>In silver underwear</i>
+
+6
+00:00:49,857 --> 00:00:53,816
+<i>Claude Rains was the Invisible Man</i>
+
+7
+00:00:54,697 --> 00:00:57,052
+<i>Then something went wrong</i>
+
+8
+00:00:57,297 --> 00:00:59,652
+<i>For Fay Wray and King Kong</i>
+
+9
+00:00:59,897 --> 00:01:04,015
+<i>They got caught in a celluloid jam</i>
+
+10
+00:01:04,697 --> 00:01:07,211
+<i>Then at a deadly pace</i>
+
+11
+00:01:07,417 --> 00:01:10,409
+<i>It came from outer space</i>
+
+12
+00:01:10,617 --> 00:01:14,815
+<i>And this is how the message ran</i>
+
+13
+00:01:16,577 --> 00:01:20,206
+<i>Science fiction</i>
+
+14
+00:01:22,457 --> 00:01:25,415
+<i>Double feature</i>
+
+15
+00:01:27,737 --> 00:01:30,615
+<i>Dr. X</i>
+
+16
+00:01:32,497 --> 00:01:35,614
+<i>Will build a creature</i>
+
+17
+00:01:37,217 --> 00:01:40,812
+<i>See androids fighting</i>
+
+18
+00:01:43,057 --> 00:01:46,208
+<i>Brad and Janet</i>
+
+19
+00:01:47,577 --> 00:01:51,616
+<i>Anne Francis stars in... </i>
+
+20
+00:01:53,097 --> 00:01:55,736
+...<i>F</i>orbidden Planet
+
+21
+00:01:55,977 --> 00:01:58,207
+<i>Oh</i>
+
+22
+00:02:01,657 --> 00:02:04,012
+<i>At the late-night</i>
+
+23
+00:02:04,217 --> 00:02:06,447
+<i>Double feature</i>
+
+24
+00:02:06,697 --> 00:02:08,813
+<i>Picture show</i>
+
+25
+00:02:17,617 --> 00:02:20,290
+<i>I knew Leo G. Carrol</i>
+
+26
+00:02:20,537 --> 00:02:22,528
+<i>Was over a barrel</i>
+
+27
+00:02:22,777 --> 00:02:27,612
+<i>When Tarantula took to the hills</i>
+
+28
+00:02:27,897 --> 00:02:30,206
+<i>And I really got hot</i>
+
+29
+00:02:30,457 --> 00:02:32,652
+<i>When I saw Janette Scott</i>
+
+30
+00:02:32,977 --> 00:02:34,251
+<i>Fight a Triffid that</i>
+
+31
+00:02:34,497 --> 00:02:37,614
+<i>Spits poison and kills</i>
+
+32
+00:02:38,097 --> 00:02:41,055
+<i>Dana Andrews said prunes</i>
+
+33
+00:02:41,297 --> 00:02:43,333
+<i>Gave him the runes</i>
+
+34
+00:02:43,577 --> 00:02:48,014
+<i>And passing them used lots of skills</i>
+
+35
+00:02:48,297 --> 00:02:50,606
+<i>But when worlds collide</i>
+
+36
+00:02:50,817 --> 00:02:52,853
+<i>Said George Pal to his bride</i>
+
+37
+00:02:53,097 --> 00:02:54,450
+<i>I'm gonna give you</i>
+
+38
+00:02:54,697 --> 00:02:57,450
+<i>Some terrible thrills</i>
+
+39
+00:02:57,697 --> 00:02:59,608
+<i>Like a</i>
+
+40
+00:03:00,097 --> 00:03:03,214
+<i>Science fiction</i>
+
+41
+00:03:05,257 --> 00:03:08,010
+<i>Double feature</i>
+
+42
+00:03:10,257 --> 00:03:12,817
+<i>Dr. X</i>
+
+43
+00:03:14,697 --> 00:03:18,212
+<i>Will build a creature</i>
+
+44
+00:03:19,497 --> 00:03:23,012
+<i>See androids fighting</i>
+
+45
+00:03:25,217 --> 00:03:28,015
+<i>Brad and Janet</i>
+
+46
+00:03:29,657 --> 00:03:33,616
+<i>Anne Francis stars in... </i>
+
+47
+00:03:34,857 --> 00:03:37,530
+...<i>F</i>orbidden Planet
+
+48
+00:03:37,777 --> 00:03:40,211
+<i>Oh</i>
+
+49
+00:03:43,417 --> 00:03:45,612
+<i>At the late-night</i>
+
+50
+00:03:45,897 --> 00:03:48,013
+<i>Double feature</i>
+
+51
+00:03:48,337 --> 00:03:50,328
+<i>Picture show</i>
+
+52
+00:03:50,577 --> 00:03:53,216
+<i>I want to go</i>
+
+53
+00:03:53,497 --> 00:03:56,409
+<i>Oh</i>
+
+54
+00:03:58,457 --> 00:04:00,812
+<i>To the late-night</i>
+
+55
+00:04:01,057 --> 00:04:03,207
+<i>Double feature</i>
+
+56
+00:04:03,457 --> 00:04:05,607
+<i>Picture show</i>
+
+57
+00:04:05,817 --> 00:04:08,206
+<i>By RKO</i>
+
+58
+00:04:08,497 --> 00:04:11,614
+<i>Oh</i>
+
+59
+00:04:13,617 --> 00:04:15,847
+<i>To the late-night</i>
+
+60
+00:04:16,097 --> 00:04:18,406
+<i>Double feature</i>
+
+61
+00:04:18,657 --> 00:04:20,613
+<i>Picture show</i>
+
+62
+00:04:20,857 --> 00:04:23,417
+<i>In the back row</i>
+
+63
+00:04:23,697 --> 00:04:26,006
+<i>Oh</i>
+
+64
+00:04:28,977 --> 00:04:31,207
+<i>To the late-night</i>
+
+65
+00:04:31,577 --> 00:04:33,647
+<i>Double feature</i>
+
+66
+00:04:33,897 --> 00:04:35,694
+<i>Picture show</i>
+
+67
+00:04:52,177 --> 00:04:53,610
+Here they come.
+
+68
+00:05:05,777 --> 00:05:07,654
+I'd like the parents
+and the grandparents.
+
+69
+00:05:07,897 --> 00:05:10,013
+Yes, all the close family.
+
+70
+00:05:15,377 --> 00:05:17,937
+Smile! Hold fast. Beautiful!
+
+71
+00:05:34,457 --> 00:05:36,254
+Congratulations.
+
+72
+00:05:36,497 --> 00:05:37,612
+Well... .
+
+73
+00:05:38,057 --> 00:05:40,207
+I guess we really did it, huh?
+
+74
+00:05:41,617 --> 00:05:44,211
+You and Betty have been inseparable...
+
+75
+00:05:44,417 --> 00:05:46,408
+...since you met in
+Dr. Scott's courses.
+
+76
+00:05:46,657 --> 00:05:51,208
+Tell you the truth, Brad, she was the
+only reason I came in the first place.
+
+77
+00:05:52,377 --> 00:05:53,173
+I mean...
+
+78
+00:05:53,377 --> 00:05:55,333
+Okay, guys, this is it!
+You ready?
+
+79
+00:05:55,537 --> 00:05:58,210
+Look, Betty's gonna throw her bouquet.
+
+80
+00:06:02,897 --> 00:06:04,171
+I got it!
+
+81
+00:06:04,377 --> 00:06:06,447
+- I got it!
+- Hey, big fella.
+
+82
+00:06:06,697 --> 00:06:09,131
+Looks like it could be
+your turn next.
+
+83
+00:06:09,377 --> 00:06:10,810
+Who knows.
+
+84
+00:06:11,057 --> 00:06:13,013
+So long.
+See you, Brad.
+
+85
+00:06:16,377 --> 00:06:18,015
+Come on, hop in.
+
+86
+00:06:22,057 --> 00:06:23,888
+See you, Brad.
+
+87
+00:06:36,657 --> 00:06:40,252
+Brad, wasn't it wonderful?
+Didn't Betty look radiantly beautiful?
+
+88
+00:06:40,497 --> 00:06:43,330
+Just an hour ago she was
+plain old Betty Munroe.
+
+89
+00:06:43,577 --> 00:06:47,809
+And now she's Mrs. Ralph Hapschatt.
+
+90
+00:06:50,297 --> 00:06:53,414
+- Yes, Janet. Ralph's a lucky guy.
+- Yes.
+
+91
+00:06:54,097 --> 00:06:57,009
+Oh, I always cry at weddings.
+
+92
+00:06:58,577 --> 00:07:01,455
+Everyone knows Betty's
+a wonderful little cook.
+
+93
+00:07:01,697 --> 00:07:03,016
+Yes.
+
+94
+00:07:08,377 --> 00:07:10,811
+Ralph will be in line
+for promotion in a year.
+
+95
+00:07:11,017 --> 00:07:12,211
+Yes.
+
+96
+00:07:15,297 --> 00:07:17,208
+- Hey, Janet.
+- Yes, Brad?
+
+97
+00:07:19,377 --> 00:07:21,208
+I've got something to say.
+
+98
+00:07:23,697 --> 00:07:25,415
+<i>I really loved</i>
+
+99
+00:07:29,497 --> 00:07:31,215
+<i>The skillful way</i>
+
+100
+00:07:32,457 --> 00:07:34,652
+<i>You beat the other girls</i>
+
+101
+00:07:35,097 --> 00:07:36,530
+<i>To the bride's bou</i>q<i>uet</i>
+
+102
+00:07:36,737 --> 00:07:37,533
+Oh, Brad.
+
+103
+00:07:41,897 --> 00:07:44,809
+<i>-The river was deep but I swam it</i>
+<i>-Janet</i>
+
+104
+00:07:45,017 --> 00:07:47,531
+<i>-The future is ours, so let's plan it</i>
+<i>-Janet</i>
+
+105
+00:07:47,777 --> 00:07:50,530
+<i>-So please don't tell me to can it</i>
+<i>-Janet</i>
+
+106
+00:07:50,777 --> 00:07:54,008
+<i>I've one thing to say and that's</i>
+<i>Damn it, Janet</i>
+
+107
+00:07:54,257 --> 00:07:56,009
+<i>I love you</i>
+
+108
+00:07:57,617 --> 00:08:00,085
+<i>-The road was long but I ran it</i>
+<i>-Janet</i>
+
+109
+00:08:00,297 --> 00:08:03,653
+<i>-A fire's in my heart and you fan it</i>
+<i>-Janet</i>
+
+110
+00:08:03,857 --> 00:08:06,246
+<i>-There's one fool for you and I am it</i>
+<i>-Janet</i>
+
+111
+00:08:06,497 --> 00:08:09,455
+<i>I've one thing to say and that's</i>
+<i>Damn it, Janet</i>
+
+112
+00:08:09,697 --> 00:08:11,130
+<i>I love you</i>
+
+113
+00:08:13,497 --> 00:08:15,408
+<i>Here's a ring to prove</i>
+
+114
+00:08:15,617 --> 00:08:17,414
+<i>That I'm no joker</i>
+
+115
+00:08:19,297 --> 00:08:20,412
+<i>There's three ways</i>
+
+116
+00:08:20,617 --> 00:08:24,007
+<i>That love can grow</i>
+
+117
+00:08:25,257 --> 00:08:27,009
+<i>That's good, bad</i>
+
+118
+00:08:27,217 --> 00:08:30,015
+<i>Or mediocre</i>
+
+119
+00:08:30,777 --> 00:08:32,927
+<i>Oh, J- A-N-E-T</i>
+
+120
+00:08:33,177 --> 00:08:35,407
+<i>I love you so</i>
+
+121
+00:08:36,697 --> 00:08:40,053
+<i>-Oh, it's nicer than Betty Munroe had</i>
+<i>-Oh, Brad</i>
+
+122
+00:08:40,257 --> 00:08:43,454
+<i>-Now we're engaged and I'm so glad</i>
+<i>-Oh, Brad</i>
+
+123
+00:08:43,657 --> 00:08:46,125
+<i>-That you met Mom and you know Dad</i>
+<i>-Oh, Brad</i>
+
+124
+00:08:46,377 --> 00:08:49,210
+<i>I've one thing to say and that's</i>
+<i>Brad, I'm mad</i>
+
+125
+00:08:49,457 --> 00:08:51,413
+<i>For you too</i>
+
+126
+00:08:53,897 --> 00:08:56,013
+<i>Oh, Brad</i>
+
+127
+00:08:56,457 --> 00:08:58,812
+<i>Oh, damn it</i>
+
+128
+00:08:59,097 --> 00:09:01,611
+<i>I'm mad</i>
+
+129
+00:09:02,297 --> 00:09:05,016
+<i>Oh, Janet</i>
+
+130
+00:09:05,217 --> 00:09:07,208
+<i>For you</i>
+
+131
+00:09:07,417 --> 00:09:10,011
+<i>I love you too</i>
+
+132
+00:09:11,057 --> 00:09:15,687
+<i>There's one thing left to do</i>
+<i>Ah-ooh</i>
+
+133
+00:09:16,697 --> 00:09:19,450
+<i>-And that's go see the man who began it</i>
+<i>-Janet</i>
+
+134
+00:09:19,697 --> 00:09:22,609
+<i>-When we met in his science, exam it</i>
+<i>-Janet</i>
+
+135
+00:09:22,857 --> 00:09:25,610
+<i>-Made me give you the eye, then panic</i>
+<i>-Janet</i>
+
+136
+00:09:25,817 --> 00:09:29,014
+<i>Now I've one thing to say and that's</i>
+<i>Damn it, Janet</i>
+
+137
+00:09:29,257 --> 00:09:32,647
+<i>I love you</i>
+
+138
+00:09:32,897 --> 00:09:35,650
+<i>Damn it, Janet</i>
+
+139
+00:09:35,897 --> 00:09:38,650
+<i>Oh, Brad, I'm mad</i>
+
+140
+00:09:38,897 --> 00:09:41,411
+<i>Damn it, Janet</i>
+
+141
+00:09:41,617 --> 00:09:46,407
+<i>I love you</i>
+
+142
+00:10:02,697 --> 00:10:06,326
+I would like, if I may...
+
+143
+00:10:06,577 --> 00:10:11,207
+...to take you on a strange journey.
+
+144
+00:10:23,497 --> 00:10:26,455
+It seemed a fairly ordinary night...
+
+145
+00:10:26,697 --> 00:10:31,168
+...when Brad Majors and
+his fiancée, Janet Weiss...
+
+146
+00:10:31,417 --> 00:10:34,250
+...two young, ordinary,
+healthy kids...
+
+147
+00:10:34,457 --> 00:10:38,006
+...left Denton that
+late November evening...
+
+148
+00:10:38,257 --> 00:10:41,852
+...to visit a Dr. Everett Scott...
+
+149
+00:10:42,097 --> 00:10:45,328
+...ex-tutor and now friend
+to both of them.
+
+150
+00:10:47,857 --> 00:10:52,248
+It's true there were
+dark storm clouds...
+
+151
+00:10:52,497 --> 00:10:55,807
+...heavy, black and pendulous...
+
+152
+00:10:56,057 --> 00:10:58,412
+...toward which they were driving.
+
+153
+00:10:58,777 --> 00:11:01,655
+It's true also that the spare tire
+they carried...
+
+154
+00:11:01,897 --> 00:11:03,853
+...was badly in need of some air.
+
+155
+00:11:04,057 --> 00:11:07,447
+But they, being normal kids and...
+
+156
+00:11:07,697 --> 00:11:09,130
+...on a night out...
+
+157
+00:11:09,377 --> 00:11:13,814
+...they were not going to let a storm
+spoil the events of their evening.
+
+158
+00:11:15,617 --> 00:11:17,812
+On a night out.
+
+159
+00:11:19,617 --> 00:11:21,255
+It was a night out...
+
+160
+00:11:21,497 --> 00:11:23,453
+...they were going to remember...
+
+161
+00:11:23,697 --> 00:11:26,814
+...for a very long time.
+
+162
+00:11:35,217 --> 00:11:38,209
+<i>I have never been a</i> q<i>uitter, </i>
+
+163
+00:11:38,977 --> 00:11:42,936
+<i>To leave office before my term</i>
+<i>is completed is abhorrent... </i>
+
+164
+00:11:43,177 --> 00:11:45,213
+<i>... to every instinct in my body, </i>
+
+165
+00:11:46,457 --> 00:11:48,015
+<i>But as president... </i>
+
+166
+00:11:48,257 --> 00:11:52,216
+<i>... I must put the interests</i>
+<i>of America first, </i>
+
+167
+00:11:53,497 --> 00:11:57,126
+<i>America needs a full-time president... </i>
+
+168
+00:11:57,377 --> 00:11:59,811
+<i>... and a full-time Congress... </i>
+
+169
+00:12:00,177 --> 00:12:01,212
+<i>... particularly at this time..., </i>
+
+170
+00:12:03,497 --> 00:12:06,250
+Gosh, that's the third motorcyclist
+that's passed us.
+
+171
+00:12:06,497 --> 00:12:09,648
+They sure do take their lives
+in their hands.
+
+172
+00:12:09,897 --> 00:12:13,367
+Yes, Janet. Life's pretty cheap
+to that type.
+
+173
+00:12:19,977 --> 00:12:21,808
+What's the matter, Brad, darling?
+
+174
+00:12:23,897 --> 00:12:26,013
+We took the wrong fork
+a few miles back.
+
+175
+00:12:26,217 --> 00:12:27,013
+Oh.
+
+176
+00:12:27,217 --> 00:12:29,367
+Where did that motorcyclist come from?
+
+177
+00:12:31,297 --> 00:12:33,492
+I guess we'll just have to turn back.
+
+178
+00:12:38,697 --> 00:12:39,652
+What was that bang?
+
+179
+00:12:40,097 --> 00:12:41,610
+We must have a blowout.
+
+180
+00:12:42,497 --> 00:12:45,967
+Damn it! I knew I should've gotten
+that spare tire fixed.
+
+181
+00:12:47,217 --> 00:12:49,014
+You stay here and I'll go for help.
+
+182
+00:12:49,257 --> 00:12:51,327
+We're in the middle of nowhere.
+
+183
+00:12:56,017 --> 00:12:58,485
+Didn't we pass a castle
+a few miles back?
+
+184
+00:13:00,457 --> 00:13:02,812
+Maybe they have a telephone
+I could use.
+
+185
+00:13:03,177 --> 00:13:04,053
+I'm going too.
+
+186
+00:13:04,497 --> 00:13:09,013
+- Both of us don't need to get wet.
+- I'm coming with you.
+
+187
+00:13:11,097 --> 00:13:14,407
+Besides, the owner of that phone
+might be a beautiful woman...
+
+188
+00:13:14,657 --> 00:13:16,807
+...and you might never
+come back again.
+
+189
+00:13:58,017 --> 00:14:00,656
+<i>In the velvet darkness</i>
+
+190
+00:14:00,897 --> 00:14:03,047
+<i>Of the blackest night</i>
+
+191
+00:14:03,297 --> 00:14:06,016
+<i>Burning bright</i>
+
+192
+00:14:06,897 --> 00:14:10,207
+<i>There's a guiding star</i>
+
+193
+00:14:12,777 --> 00:14:15,655
+<i>No matter what</i>
+
+194
+00:14:15,897 --> 00:14:17,808
+<i>Or... </i>
+
+195
+00:14:18,817 --> 00:14:21,615
+<i>... who you are</i>
+
+196
+00:14:24,097 --> 00:14:27,009
+<i>There's a light</i>
+
+197
+00:14:28,257 --> 00:14:32,136
+<i>Over at the Frankenstein place</i>
+
+198
+00:14:32,377 --> 00:14:35,175
+<i>There's a light</i>
+
+199
+00:14:38,897 --> 00:14:42,412
+<i>Burning in the fireplace</i>
+
+200
+00:14:43,017 --> 00:14:47,932
+<i>There's a light, light</i>
+
+201
+00:14:48,217 --> 00:14:51,732
+<i>In the darkness</i>
+
+202
+00:14:51,977 --> 00:14:56,607
+<i>Of everybody's life</i>
+
+203
+00:15:05,777 --> 00:15:10,009
+<i>The darkness must go</i>
+
+204
+00:15:10,257 --> 00:15:12,817
+<i>Down the river</i>
+
+205
+00:15:13,017 --> 00:15:16,612
+<i>Of nights dreaming</i>
+
+206
+00:15:17,737 --> 00:15:20,854
+<i>Flow morphia slow</i>
+
+207
+00:15:21,097 --> 00:15:23,247
+<i>Let the sun</i>
+
+208
+00:15:23,497 --> 00:15:26,250
+<i>And light come streaming</i>
+
+209
+00:15:26,497 --> 00:15:29,614
+<i>Into my life</i>
+
+210
+00:15:32,017 --> 00:15:35,612
+<i>Into my life</i>
+
+211
+00:15:39,857 --> 00:15:43,213
+<i>There's a light</i>
+
+212
+00:15:44,337 --> 00:15:47,647
+<i>Over at the Frankenstein place</i>
+
+213
+00:15:47,897 --> 00:15:51,014
+<i>There's a light</i>
+
+214
+00:15:54,457 --> 00:15:58,211
+<i>Burning in the fireplace</i>
+
+215
+00:15:58,617 --> 00:16:01,177
+<i>There's a light</i>
+
+216
+00:16:01,657 --> 00:16:03,807
+<i>Light</i>
+
+217
+00:16:04,417 --> 00:16:08,046
+<i>In the darkness</i>
+
+218
+00:16:08,297 --> 00:16:13,212
+<i>Of everybody's life</i>
+
+219
+00:16:19,777 --> 00:16:21,290
+And so...
+
+220
+00:16:21,897 --> 00:16:26,049
+...it seemed that fortune
+had smiled on Brad and Janet...
+
+221
+00:16:26,297 --> 00:16:30,609
+...and they had found the assistance
+that their plight required.
+
+222
+00:16:31,257 --> 00:16:33,009
+Or had they?
+
+223
+00:16:35,617 --> 00:16:38,211
+Brad, let's go back.
+I'm cold and I'm frightened.
+
+224
+00:16:38,457 --> 00:16:40,812
+Just a moment, Janet.
+They may have a phone.
+
+225
+00:16:59,497 --> 00:17:00,816
+Hello.
+
+226
+00:17:02,497 --> 00:17:05,614
+Hi! My name's Brad Majors.
+
+227
+00:17:06,297 --> 00:17:09,130
+This is my fiancée, Janet Weiss.
+
+228
+00:17:09,657 --> 00:17:13,445
+I wondered if you might help us.
+Our car broke down up the road.
+
+229
+00:17:13,697 --> 00:17:15,449
+Do you have a phone we might use?
+
+230
+00:17:16,777 --> 00:17:18,449
+You're wet.
+
+231
+00:17:20,297 --> 00:17:23,016
+Yes, it's raining.
+
+232
+00:17:24,017 --> 00:17:25,006
+Yes.
+
+233
+00:17:26,017 --> 00:17:27,609
+Oh.
+
+234
+00:17:32,057 --> 00:17:36,209
+I think, perhaps,
+you better both come inside.
+
+235
+00:17:39,897 --> 00:17:41,615
+You're too kind.
+
+236
+00:17:56,417 --> 00:17:58,806
+I'm frightened.
+What kind of place is this?
+
+237
+00:17:59,057 --> 00:18:03,016
+It's probably some kind of
+hunting lodge for rich weirdos.
+
+238
+00:18:08,377 --> 00:18:09,605
+This way.
+
+239
+00:18:14,417 --> 00:18:16,806
+Are you having a party?
+
+240
+00:18:18,577 --> 00:18:21,250
+You've arrived on
+a rather special night.
+
+241
+00:18:21,497 --> 00:18:24,853
+- It's one of the master's affairs.
+- Oh.
+
+242
+00:18:25,097 --> 00:18:26,849
+- Lucky him.
+- You're lucky.
+
+243
+00:18:27,097 --> 00:18:31,807
+He's lucky, I'm lucky,
+we're all lucky!
+
+244
+00:18:45,217 --> 00:18:47,447
+<i>It's astounding</i>
+
+245
+00:18:47,697 --> 00:18:50,211
+<i>Time is fleeting</i>
+
+246
+00:18:51,057 --> 00:18:54,094
+<i>Madness takes its toll</i>
+
+247
+00:18:56,057 --> 00:18:57,809
+<i>But listen closely</i>
+
+248
+00:18:58,017 --> 00:19:01,009
+<i>Not for very much longer</i>
+
+249
+00:19:01,697 --> 00:19:05,815
+<i>I've got to keep control</i>
+
+250
+00:19:06,297 --> 00:19:08,606
+<i>I remember</i>
+
+251
+00:19:08,857 --> 00:19:11,417
+<i>Doing the time warp</i>
+
+252
+00:19:12,097 --> 00:19:13,416
+<i>Drinking</i>
+
+253
+00:19:13,657 --> 00:19:16,046
+<i>Those moments when</i>
+
+254
+00:19:16,297 --> 00:19:18,606
+<i>The blackness would hit me</i>
+
+255
+00:19:18,817 --> 00:19:21,411
+<i>And the void would be calling</i>
+
+256
+00:19:23,497 --> 00:19:26,170
+<i>Let's do the time warp again</i>
+
+257
+00:19:27,737 --> 00:19:30,888
+<i>Let's do the time warp again</i>
+
+258
+00:19:33,816 --> 00:19:36,091
+<i>It's just a jump to the left</i>
+
+259
+00:19:37,936 --> 00:19:41,531
+<i>-And a step to the right</i>
+<i>-With your hands on your hips</i>
+
+260
+00:19:42,976 --> 00:19:45,331
+<i>You bring your knees in tight</i>
+
+261
+00:19:45,576 --> 00:19:47,806
+<i>But it's the pelvic thrust</i>
+
+262
+00:19:48,056 --> 00:19:50,616
+<i>That really drives you insane</i>
+
+263
+00:19:51,696 --> 00:19:55,814
+<i>Let's do the time warp again</i>
+
+264
+00:19:57,056 --> 00:20:00,890
+<i>Let's do the time warp again</i>
+
+265
+00:20:01,496 --> 00:20:03,452
+<i>It's so dreamy</i>
+
+266
+00:20:03,696 --> 00:20:06,608
+<i>Oh, fantasy free me</i>
+
+267
+00:20:06,816 --> 00:20:08,534
+<i>So you can 't see me</i>
+
+268
+00:20:09,296 --> 00:20:11,127
+<i>No, not at all</i>
+
+269
+00:20:11,576 --> 00:20:13,851
+<i>In another dimension</i>
+
+270
+00:20:14,096 --> 00:20:16,610
+<i>With voyeuristic intention</i>
+
+271
+00:20:16,856 --> 00:20:19,416
+<i>Well secluded</i>
+
+272
+00:20:19,816 --> 00:20:21,568
+<i>I see all</i>
+
+273
+00:20:21,816 --> 00:20:24,091
+<i>With a bit of a mind flip</i>
+
+274
+00:20:24,376 --> 00:20:27,015
+<i>You're into the time slip</i>
+
+275
+00:20:27,496 --> 00:20:31,614
+<i>And nothing can ever be the same</i>
+
+276
+00:20:31,856 --> 00:20:34,324
+<i>You're spaced out on sensation</i>
+
+277
+00:20:34,536 --> 00:20:37,414
+<i>Like you're under sedation</i>
+
+278
+00:20:38,176 --> 00:20:42,010
+<i>Let's do the time warp again</i>
+
+279
+00:20:43,096 --> 00:20:47,214
+<i>Let's do the time warp again</i>
+
+280
+00:20:47,976 --> 00:20:50,410
+<i>I was walking down the street</i>
+<i>Just having a think</i>
+
+281
+00:20:50,616 --> 00:20:53,176
+<i>When a snake of a guy</i>
+<i>Gave me an evil wink</i>
+
+282
+00:20:53,376 --> 00:20:55,412
+<i>He shook a me up</i>
+<i>He took me by surprise</i>
+
+283
+00:20:55,656 --> 00:20:58,375
+<i>He had a pickup truck</i>
+<i>And the devil's eyes</i>
+
+284
+00:20:58,576 --> 00:21:00,851
+<i>He stared at me</i>
+<i>And I felt a change</i>
+
+285
+00:21:01,096 --> 00:21:03,166
+<i>Time meant nothing</i>
+<i>Never would again</i>
+
+286
+00:21:03,576 --> 00:21:07,535
+<i>Let's do the time warp again</i>
+
+287
+00:21:08,856 --> 00:21:12,735
+<i>Let's do the time warp again</i>
+
+288
+00:21:12,976 --> 00:21:14,455
+<i>It's just a jump to the left</i>
+
+289
+00:21:16,296 --> 00:21:19,971
+<i>-And then a step to the right</i>
+<i>-With your hands on your hips</i>
+
+290
+00:21:21,496 --> 00:21:23,805
+<i>You bring your knees in tight</i>
+
+291
+00:21:24,056 --> 00:21:26,445
+<i>But it's the pelvic thrust</i>
+
+292
+00:21:26,656 --> 00:21:29,216
+<i>That really drives you insane</i>
+
+293
+00:21:30,256 --> 00:21:33,805
+<i>Let's do the time warp again</i>
+
+294
+00:21:35,496 --> 00:21:39,614
+<i>Let's do the time warp again</i>
+
+295
+00:21:57,216 --> 00:22:01,129
+<i>Let's do the time warp again</i>
+
+296
+00:22:02,376 --> 00:22:06,369
+<i>Let's do the time warp again</i>
+
+297
+00:22:06,616 --> 00:22:07,844
+<i>It's just a jump to the left</i>
+
+298
+00:22:09,936 --> 00:22:13,406
+<i>-And then a step to the right</i>
+<i>-With your hands on your hips</i>
+
+299
+00:22:15,096 --> 00:22:16,814
+<i>Bring your knees in tight</i>
+
+300
+00:22:17,336 --> 00:22:19,372
+<i>But it's the pelvic thrust</i>
+
+301
+00:22:20,016 --> 00:22:22,325
+<i>That really drives you insane</i>
+
+302
+00:22:23,656 --> 00:22:27,615
+<i>Let's do the time warp again</i>
+
+303
+00:22:28,816 --> 00:22:32,889
+<i>Let's do the time warp again</i>
+
+304
+00:22:44,616 --> 00:22:46,015
+Say something.
+
+305
+00:22:47,096 --> 00:22:51,055
+Say! Do any of you guys know
+how to Madison?
+
+306
+00:22:55,256 --> 00:22:59,852
+- Brad, please, let's get out of here.
+- Keep a grip on yourself, Janet.
+
+307
+00:23:00,056 --> 00:23:03,412
+- But it seems so unhealthy here.
+- It's just a party, Janet.
+
+308
+00:23:03,656 --> 00:23:07,205
+- Well, I want to go.
+- We can't till I get to a phone.
+
+309
+00:23:07,456 --> 00:23:09,970
+- Then ask the butler or someone.
+- Just a moment.
+
+310
+00:23:10,176 --> 00:23:12,406
+We don't want to interfere
+with their celebrations.
+
+311
+00:23:12,616 --> 00:23:14,607
+This isn't the Chamber of Commerce.
+
+312
+00:23:14,816 --> 00:23:17,455
+They're probably foreigners
+with different ways.
+
+313
+00:23:17,696 --> 00:23:20,290
+They may do some more folk dancing.
+
+314
+00:23:22,416 --> 00:23:24,725
+I'm cold, I'm wet and
+I'm just plain scared.
+
+315
+00:23:24,936 --> 00:23:27,814
+I'm here, there's nothing
+to worry about.
+
+316
+00:23:32,496 --> 00:23:34,407
+<i>How do you do</i>
+
+317
+00:23:34,656 --> 00:23:36,647
+<i>I see you've met</i>
+
+318
+00:23:36,896 --> 00:23:39,774
+<i>My faithful handyman</i>
+
+319
+00:23:40,096 --> 00:23:42,246
+<i>He's just a little brought down</i>
+
+320
+00:23:42,496 --> 00:23:45,408
+<i>Because when you knocked</i>
+
+321
+00:23:45,656 --> 00:23:48,409
+<i>He thought you were the candyman</i>
+
+322
+00:23:49,976 --> 00:23:51,853
+<i>Don 't get strung out</i>
+
+323
+00:23:52,096 --> 00:23:54,007
+<i>By the way I look</i>
+
+324
+00:23:54,256 --> 00:23:57,532
+<i>Don 't judge a book by its cover</i>
+
+325
+00:23:57,776 --> 00:23:59,926
+<i>I'm not much of a man</i>
+
+326
+00:24:00,176 --> 00:24:01,848
+<i>By the light of day</i>
+
+327
+00:24:02,096 --> 00:24:05,805
+<i>But by night I'm one hell of a lover</i>
+
+328
+00:24:06,056 --> 00:24:09,412
+<i>I'm just a sweet transvestite</i>
+
+329
+00:24:10,896 --> 00:24:13,649
+<i>From Transsexual... </i>
+
+330
+00:24:13,896 --> 00:24:16,774
+<i>... Transylvania</i>
+
+331
+00:24:19,216 --> 00:24:21,047
+<i>Let me show you around</i>
+
+332
+00:24:21,296 --> 00:24:24,015
+<i>Maybe play you a sound</i>
+
+333
+00:24:24,296 --> 00:24:27,606
+<i>You look like you're both</i>
+<i>Pretty groovy</i>
+
+334
+00:24:27,816 --> 00:24:30,455
+<i>Or if you want something visual</i>
+
+335
+00:24:30,696 --> 00:24:32,812
+<i>That's not too abysmal</i>
+
+336
+00:24:33,056 --> 00:24:36,207
+<i>We could take in an old</i>
+<i>Steve Reeves movie</i>
+
+337
+00:24:37,416 --> 00:24:39,805
+<i>I'm glad we caught you at home</i>
+
+338
+00:24:40,616 --> 00:24:42,413
+<i>Could we use your phone? </i>
+
+339
+00:24:42,896 --> 00:24:45,251
+<i>-We're both in a bit of a hurry</i>
+<i>-Right</i>
+
+340
+00:24:45,456 --> 00:24:47,208
+<i>We'll just say where we are</i>
+
+341
+00:24:47,456 --> 00:24:50,653
+<i>-Then go back to the car</i>
+<i>-A pleasure to meet you, Dr, Furter</i>
+
+342
+00:24:50,896 --> 00:24:53,012
+<i>We don 't want to be any worry</i>
+
+343
+00:24:53,696 --> 00:24:57,006
+<i>Well, you got caught with a flat</i>
+
+344
+00:24:57,216 --> 00:24:58,854
+<i>Well, how about that</i>
+
+345
+00:24:59,096 --> 00:25:02,406
+<i>Well, babies, don 't you panic</i>
+
+346
+00:25:02,656 --> 00:25:04,851
+<i>By the light of the night</i>
+
+347
+00:25:05,096 --> 00:25:07,007
+<i>It'll all seem all right</i>
+
+348
+00:25:07,256 --> 00:25:10,931
+<i>I'll get you a satanic mechanic</i>
+
+349
+00:25:11,136 --> 00:25:14,208
+<i>I'm just a sweet transvestite</i>
+
+350
+00:25:15,776 --> 00:25:18,609
+<i>From Transsexual... </i>
+
+351
+00:25:18,856 --> 00:25:22,212
+<i>... Transylvania</i>
+
+352
+00:25:24,176 --> 00:25:26,167
+<i>Why don 't you stay for the night</i>
+
+353
+00:25:26,576 --> 00:25:28,612
+<i>-Night</i>
+<i>-Or maybe a bite</i>
+
+354
+00:25:28,856 --> 00:25:29,652
+<i>Bite</i>
+
+355
+00:25:29,896 --> 00:25:32,968
+<i>I could show you</i>
+<i>My favorite obsession</i>
+
+356
+00:25:33,576 --> 00:25:36,215
+<i>I've been making a man</i>
+
+357
+00:25:36,696 --> 00:25:38,732
+<i>With blond hair and a tan</i>
+
+358
+00:25:38,976 --> 00:25:42,048
+<i>And he's good for relieving</i>
+<i>My tension</i>
+
+359
+00:25:42,296 --> 00:25:45,606
+<i>I'm just a sweet transvestite</i>
+
+360
+00:25:47,496 --> 00:25:50,056
+<i>From Transsexual... </i>
+
+361
+00:25:50,296 --> 00:25:53,413
+<i>... Transylvania</i>
+
+362
+00:25:54,416 --> 00:25:55,212
+Hit it! Hit it!
+
+363
+00:25:55,416 --> 00:26:00,046
+<i>-I'm just a sweet transvestite</i>
+<i>-Sweet transvestite</i>
+
+364
+00:26:00,296 --> 00:26:03,208
+<i>From Transsexual... </i>
+
+365
+00:26:03,416 --> 00:26:05,452
+<i>... Transylvania</i>
+
+366
+00:26:10,016 --> 00:26:12,450
+<i>So come up to the lab</i>
+
+367
+00:26:13,296 --> 00:26:16,129
+<i>And see what's on the slab</i>
+
+368
+00:26:17,296 --> 00:26:18,285
+<i>I see you shiver</i>
+
+369
+00:26:18,496 --> 00:26:20,566
+<i>With antici... </i>
+
+370
+00:26:22,416 --> 00:26:23,405
+<i>-pation</i>
+
+371
+00:26:24,656 --> 00:26:26,487
+<i>But maybe the rain</i>
+
+372
+00:26:27,736 --> 00:26:29,408
+<i>Is really to blame</i>
+
+373
+00:26:30,176 --> 00:26:32,770
+<i>So I'll remove the cause</i>
+
+374
+00:26:36,896 --> 00:26:38,375
+<i>But not the symptom</i>
+
+375
+00:26:51,376 --> 00:26:52,365
+Thank you.
+
+376
+00:26:56,136 --> 00:26:57,410
+Thank you very much.
+
+377
+00:27:00,216 --> 00:27:01,205
+Brad!
+
+378
+00:27:01,456 --> 00:27:05,608
+We'll play along for now and pull out
+the aces when the time is right.
+
+379
+00:27:06,776 --> 00:27:10,485
+Slowly, slowly.
+It's too nice a job to rush.
+
+380
+00:27:10,896 --> 00:27:15,606
+Hi. My name's Brad Majors and
+this is my fiancée, Janet Weiss.
+
+381
+00:27:19,296 --> 00:27:20,331
+You are...?
+
+382
+00:27:20,576 --> 00:27:23,807
+You are very lucky to be invited
+up to <i>F</i>rank's laboratory.
+
+383
+00:27:24,056 --> 00:27:27,526
+Some people would give their
+right arm for the privilege.
+
+384
+00:27:27,776 --> 00:27:29,812
+People like you, maybe?
+
+385
+00:27:30,056 --> 00:27:32,012
+I've seen it.
+
+386
+00:27:36,096 --> 00:27:39,611
+Come along. The master doesn't
+like to be kept waiting.
+
+387
+00:27:39,896 --> 00:27:42,012
+Shift it!
+
+388
+00:27:56,456 --> 00:27:59,812
+Is he...? <i>F</i>rank, I mean,
+is he your husband?
+
+389
+00:28:00,416 --> 00:28:04,204
+The master is not yet married.
+Nor do I think he ever will be.
+
+390
+00:28:04,456 --> 00:28:06,924
+- We are simply his servants.
+- Oh.
+
+391
+00:28:49,776 --> 00:28:51,004
+Magenta.
+
+392
+00:28:52,176 --> 00:28:53,609
+Columbia.
+
+393
+00:28:54,256 --> 00:28:56,406
+Go and assist Riff Raff.
+
+394
+00:28:58,096 --> 00:28:59,814
+I will entertain... .
+
+395
+00:29:04,696 --> 00:29:07,733
+Brad Majors and this is
+my fiancée, Janet Vice.
+
+396
+00:29:07,976 --> 00:29:10,012
+- Weiss.
+- Weiss?
+
+397
+00:29:12,576 --> 00:29:14,407
+<i>Enchanté, </i>
+
+398
+00:29:14,696 --> 00:29:17,210
+Well, how nice.
+
+399
+00:29:17,496 --> 00:29:20,249
+And what charming underclothes
+you both have.
+
+400
+00:29:20,496 --> 00:29:23,852
+But here, put these on.
+
+401
+00:29:24,096 --> 00:29:27,452
+They'll make you feel less vulnerable.
+
+402
+00:29:28,696 --> 00:29:31,051
+It's not often
+we receive visitors here.
+
+403
+00:29:31,296 --> 00:29:33,935
+Let alone offer them hospitality.
+
+404
+00:29:34,176 --> 00:29:38,613
+Hospitality! All we wanted to do
+was use your telephone. Goddamn it!
+
+405
+00:29:38,856 --> 00:29:41,051
+A reasonable request you have ignored!
+
+406
+00:29:41,296 --> 00:29:44,413
+- Don't be ungrateful.
+- Ungrateful?!
+
+407
+00:29:44,896 --> 00:29:47,456
+How forceful you are, Brad.
+
+408
+00:29:47,696 --> 00:29:51,894
+Such a perfect specimen of manhood.
+So dominant.
+
+409
+00:29:55,416 --> 00:29:58,613
+You must be awfully proud
+of him, Janet.
+
+410
+00:29:59,096 --> 00:30:01,405
+Well, yes, I am.
+
+411
+00:30:02,376 --> 00:30:05,413
+- Do you have any tattoos, Brad?
+- Certainly not.
+
+412
+00:30:05,616 --> 00:30:08,608
+Oh, well. How about you?
+
+413
+00:30:08,896 --> 00:30:11,012
+Everything is in readiness, master.
+
+414
+00:30:11,256 --> 00:30:14,214
+We merely await your word.
+
+415
+00:30:22,176 --> 00:30:26,328
+Tonight, my unconventional
+conventionists...
+
+416
+00:30:27,216 --> 00:30:29,605
+...you are to witness
+a new breakthrough...
+
+417
+00:30:29,816 --> 00:30:32,853
+...in biochemical research.
+
+418
+00:30:33,096 --> 00:30:37,089
+And paradise is to be mine!
+
+419
+00:30:41,616 --> 00:30:43,811
+It was strange the way it happened.
+
+420
+00:30:44,696 --> 00:30:46,015
+Suddenly...
+
+421
+00:30:46,816 --> 00:30:48,215
+...you get a break.
+
+422
+00:30:49,576 --> 00:30:52,807
+All the pieces seem to fit into place.
+
+423
+00:30:53,176 --> 00:30:56,805
+What a sucker you've been.
+What a fool.
+
+424
+00:30:57,096 --> 00:30:59,656
+The answer was there all the time.
+
+425
+00:30:59,896 --> 00:31:04,208
+It took a small accident
+to make it happen.
+
+426
+00:31:05,096 --> 00:31:07,656
+- An accident!
+- An accident!
+
+427
+00:31:07,896 --> 00:31:10,330
+That's how I discovered the secret.
+
+428
+00:31:10,936 --> 00:31:13,769
+That elusive ingredient.
+
+429
+00:31:14,016 --> 00:31:16,371
+That spark...
+
+430
+00:31:16,616 --> 00:31:19,528
+...that is the breath of life.
+
+431
+00:31:22,096 --> 00:31:23,324
+Yes.
+
+432
+00:31:24,976 --> 00:31:28,127
+I have that knowledge.
+
+433
+00:31:29,136 --> 00:31:31,366
+I hold the secret...
+
+434
+00:31:31,616 --> 00:31:34,528
+...to life itself!
+
+435
+00:31:49,376 --> 00:31:50,491
+You see...
+
+436
+00:31:51,016 --> 00:31:53,211
+...you are fortunate.
+
+437
+00:31:53,456 --> 00:31:56,368
+<i>F</i>or tonight is the night...
+
+438
+00:31:56,616 --> 00:32:01,531
+...that my beautiful creature
+is destined to be born.
+
+439
+00:32:38,136 --> 00:32:42,129
+Throw open the switches
+on the sonic oscillator.
+
+440
+00:32:47,016 --> 00:32:50,133
+And step up the reactor power input...
+
+441
+00:32:50,336 --> 00:32:52,975
+...three more points!
+
+442
+00:33:14,616 --> 00:33:15,765
+Oh, Brad!
+
+443
+00:33:16,016 --> 00:33:17,734
+It's all right, Janet.
+
+444
+00:35:00,736 --> 00:35:02,852
+Oh, Rocky!
+
+445
+00:35:07,976 --> 00:35:12,731
+<i>The sword of Damocles</i>
+<i>Is hanging over my head</i>
+
+446
+00:35:13,816 --> 00:35:17,331
+<i>I've got the feeling someone's</i>
+<i>Gonna be cutting the thread</i>
+
+447
+00:35:21,176 --> 00:35:22,768
+<i>Oh, woe is me</i>
+
+448
+00:35:23,016 --> 00:35:25,814
+<i>My life is a misery</i>
+
+449
+00:35:26,056 --> 00:35:28,172
+<i>Oh, can 't you see</i>
+
+450
+00:35:28,416 --> 00:35:31,249
+<i>That I'm at the start</i>
+<i>Of a pretty big downer</i>
+
+451
+00:35:34,216 --> 00:35:37,492
+<i>I woke up this morning with a start</i>
+<i>When I fell out of bed</i>
+
+452
+00:35:37,736 --> 00:35:39,772
+<i>That ain 't no crime</i>
+
+453
+00:35:40,016 --> 00:35:43,372
+<i>And left from my dreaming</i>
+<i>Was a feeling of unnameable dread</i>
+
+454
+00:35:43,616 --> 00:35:45,766
+<i>That ain 't no crime</i>
+
+455
+00:35:46,016 --> 00:35:48,530
+<i>My high is low</i>
+
+456
+00:35:49,136 --> 00:35:51,525
+<i>I'm dressed up with no place to go</i>
+
+457
+00:35:51,776 --> 00:35:54,336
+<i>And all I know</i>
+
+458
+00:35:54,576 --> 00:35:58,535
+<i>Is I'm at the start</i>
+<i>Of a pretty big downer</i>
+
+459
+00:36:01,136 --> 00:36:03,491
+<i>-That ain 't no crime, </i>
+<i>-Oh, no, no, no, </i>
+
+460
+00:36:03,736 --> 00:36:06,375
+<i>-That ain 't no crime, </i>
+<i>-Oh, no, no, no, </i>
+
+461
+00:36:06,576 --> 00:36:09,136
+Oh, my baby!
+
+462
+00:36:11,936 --> 00:36:15,133
+<i>The sword of Damocles</i>
+<i>Is hanging over my head</i>
+
+463
+00:36:15,376 --> 00:36:17,526
+<i>That ain 't no crime</i>
+
+464
+00:36:17,736 --> 00:36:20,967
+<i>I've got the feeling someone's</i>
+<i>Gonna be cutting the thread</i>
+
+465
+00:36:21,216 --> 00:36:23,650
+<i>That ain 't no crime</i>
+
+466
+00:36:23,896 --> 00:36:26,569
+<i>Oh, woe is me</i>
+
+467
+00:36:26,816 --> 00:36:29,046
+<i>My life is a mystery</i>
+
+468
+00:36:29,296 --> 00:36:31,935
+<i>And can 't you see</i>
+
+469
+00:36:32,176 --> 00:36:35,373
+<i>That I'm at the start</i>
+<i>Of a pretty big downer</i>
+
+470
+00:36:38,416 --> 00:36:41,135
+<i>-That ain 't no crime, </i>
+<i>-Oh, no, no, no, </i>
+
+471
+00:36:42,256 --> 00:36:44,053
+<i>That ain 't no crime</i>
+
+472
+00:37:02,176 --> 00:37:03,165
+Well, really!
+
+473
+00:37:04,216 --> 00:37:06,935
+That's no way to behave
+on your first day out.
+
+474
+00:37:10,616 --> 00:37:14,928
+But since you're such
+an exceptional beauty...
+
+475
+00:37:15,296 --> 00:37:17,526
+...I'm prepared to forgive you.
+
+476
+00:37:22,776 --> 00:37:24,653
+Oh, I just love success!
+
+477
+00:37:24,896 --> 00:37:27,171
+- He is a credit to your genius.
+- Yes.
+
+478
+00:37:27,416 --> 00:37:29,327
+- A triumph of your will.
+- Yes.
+
+479
+00:37:29,576 --> 00:37:30,895
+He's okay.
+
+480
+00:37:35,016 --> 00:37:36,335
+Okay?
+
+481
+00:37:39,016 --> 00:37:40,085
+Okay?!
+
+482
+00:37:41,816 --> 00:37:44,330
+I think we can do better than that.
+
+483
+00:37:48,496 --> 00:37:50,771
+Now, Brad and Janet...
+
+484
+00:37:51,016 --> 00:37:52,927
+...what do you think of him?
+
+485
+00:37:53,576 --> 00:37:54,929
+Well... .
+
+486
+00:37:55,336 --> 00:37:58,726
+I don't like men
+with too many muscles.
+
+487
+00:38:00,016 --> 00:38:02,530
+I didn't make him for you!
+
+488
+00:38:03,616 --> 00:38:07,006
+He carries the Charles Atlas
+seal of approval.
+
+489
+00:38:17,736 --> 00:38:22,730
+<i>A weakling weighing 98 pounds</i>
+
+490
+00:38:23,216 --> 00:38:25,810
+<i>Will get sand in his face</i>
+
+491
+00:38:26,016 --> 00:38:28,484
+<i>When kicked to the ground</i>
+
+492
+00:38:30,016 --> 00:38:32,849
+<i>And soon in the gym</i>
+
+493
+00:38:33,096 --> 00:38:35,735
+<i>With a determined chin</i>
+
+494
+00:38:36,336 --> 00:38:38,372
+<i>The sweat from his pores</i>
+
+495
+00:38:40,816 --> 00:38:44,331
+<i>As he works for his cause</i>
+
+496
+00:38:45,176 --> 00:38:47,292
+<i>Will make him glisten</i>
+
+497
+00:38:48,576 --> 00:38:50,532
+<i>And gleam</i>
+
+498
+00:38:51,016 --> 00:38:53,371
+<i>And with massage</i>
+
+499
+00:38:53,616 --> 00:38:58,531
+<i>And just a little bit of steam</i>
+
+500
+00:39:02,616 --> 00:39:04,925
+<i>He'll be pink</i>
+
+501
+00:39:05,416 --> 00:39:08,055
+<i>And</i> q<i>uite clean</i>
+
+502
+00:39:08,296 --> 00:39:12,414
+<i>He'll be a strong man</i>
+
+503
+00:39:13,336 --> 00:39:17,727
+<i>Oh, honey</i>
+<i>But the wrong man</i>
+
+504
+00:39:19,336 --> 00:39:22,851
+<i>He'll eat nutritious high protein</i>
+
+505
+00:39:23,096 --> 00:39:25,451
+<i>And swallow raw eggs</i>
+
+506
+00:39:25,696 --> 00:39:27,368
+<i>Try to build up his shoulders</i>
+
+507
+00:39:27,616 --> 00:39:30,574
+<i>His chest, arms and legs</i>
+
+508
+00:39:30,816 --> 00:39:35,367
+<i>Such an effort</i>
+<i>If he only knew of my plan</i>
+
+509
+00:39:35,616 --> 00:39:38,847
+<i>In just seven days</i>
+
+510
+00:39:39,096 --> 00:39:43,533
+<i>I can make you a man</i>
+
+511
+00:39:46,176 --> 00:39:48,736
+<i>He'll do press-ups and chin-ups</i>
+
+512
+00:39:48,936 --> 00:39:51,006
+<i>Do the snatch, clean and jerk</i>
+
+513
+00:39:52,016 --> 00:39:54,530
+<i>He thinks dynamic tension</i>
+
+514
+00:39:54,736 --> 00:39:56,931
+<i>Must be hard work</i>
+
+515
+00:39:57,176 --> 00:39:58,973
+<i>Such strenuous living</i>
+
+516
+00:39:59,216 --> 00:40:01,366
+<i>I just don 't understand</i>
+
+517
+00:40:01,616 --> 00:40:05,928
+<i>When in just seven days</i>
+<i>Oh, baby</i>
+
+518
+00:40:06,136 --> 00:40:10,812
+<i>I can make you a man</i>
+
+519
+00:40:18,216 --> 00:40:19,490
+Eddie!
+
+520
+00:40:39,536 --> 00:40:42,255
+<i>Whatever happened to Saturday night</i>
+
+521
+00:40:42,496 --> 00:40:47,570
+<i>When you dressed sharp, felt all right</i>
+<i>Don 't seem the same since cosmic light</i>
+
+522
+00:40:47,816 --> 00:40:51,206
+<i>Came into my life</i>
+<i>I thought I was divine</i>
+
+523
+00:40:51,456 --> 00:40:56,325
+<i>I'd go for a ride with chicks who 'd go</i>
+<i>And listen to the music on the radio</i>
+
+524
+00:40:56,536 --> 00:40:59,004
+<i>A saxophone was blowing</i>
+<i>On a rock 'n ' roll show</i>
+
+525
+00:40:59,256 --> 00:41:03,693
+<i>We climbed in the back seat</i>
+<i>We really had a good time</i>
+
+526
+00:41:03,936 --> 00:41:06,450
+<i>Hot patootie, bless my soul</i>
+
+527
+00:41:06,976 --> 00:41:09,126
+<i>I really love that rock 'n ' roll</i>
+
+528
+00:41:09,776 --> 00:41:12,370
+<i>Hot patootie, bless my soul</i>
+
+529
+00:41:12,616 --> 00:41:15,289
+<i>I really love that rock 'n ' roll</i>
+
+530
+00:41:33,296 --> 00:41:34,809
+Lovely party!
+
+531
+00:41:40,656 --> 00:41:43,170
+<i>My head used to swim</i>
+<i>From the perfume I smelled</i>
+
+532
+00:41:43,416 --> 00:41:46,135
+<i>My hands kind of fumbled</i>
+<i>With her white plastic belt</i>
+
+533
+00:41:46,336 --> 00:41:49,009
+<i>I'd taste her baby pink lipstick</i>
+<i>And that's when I'd melt</i>
+
+534
+00:41:49,256 --> 00:41:52,054
+<i>She'd whisper in my ear</i>
+<i>Tonight she really was mine</i>
+
+535
+00:41:52,296 --> 00:41:57,051
+<i>Get in front and put some hair oil on</i>
+<i>Buddy Holly was singing his last song</i>
+
+536
+00:41:57,296 --> 00:42:00,174
+<i>With your arms around your girl</i>
+<i>You tried to sing along</i>
+
+537
+00:42:00,416 --> 00:42:04,694
+<i>It felt pretty good</i>
+<i>Really had a good time</i>
+
+538
+00:42:05,136 --> 00:42:07,934
+<i>Hot patootie, bless my soul</i>
+
+539
+00:42:08,176 --> 00:42:09,894
+<i>I really love that rock 'n ' roll</i>
+
+540
+00:42:10,776 --> 00:42:13,131
+<i>Hot patootie, bless my soul</i>
+
+541
+00:42:13,376 --> 00:42:15,970
+<i>I really love that rock 'n ' roll</i>
+
+542
+00:43:53,696 --> 00:43:55,732
+One from the vaults.
+
+543
+00:44:06,016 --> 00:44:07,734
+Oh, baby!
+
+544
+00:44:15,136 --> 00:44:16,933
+Don't be upset.
+
+545
+00:44:18,976 --> 00:44:21,331
+It was a mercy killing.
+
+546
+00:44:21,776 --> 00:44:25,132
+He had a certain naive charm...
+
+547
+00:44:25,336 --> 00:44:27,452
+...but no muscle.
+
+548
+00:44:30,016 --> 00:44:32,576
+<i>But a deltoid</i>
+
+549
+00:44:32,816 --> 00:44:35,774
+<i>And a bicep</i>
+
+550
+00:44:36,016 --> 00:44:40,851
+<i>A hot groin</i>
+<i>And a tricep</i>
+
+551
+00:44:41,096 --> 00:44:43,371
+<i>Makes me... </i>
+
+552
+00:44:44,416 --> 00:44:45,531
+<i>... shake</i>
+
+553
+00:44:45,776 --> 00:44:49,325
+<i>Makes me want to take Charles Atlas</i>
+
+554
+00:44:49,536 --> 00:44:52,289
+<i>By the hand</i>
+
+555
+00:44:52,536 --> 00:44:55,528
+<i>In just seven days</i>
+<i>Oh, baby</i>
+
+556
+00:44:55,776 --> 00:45:00,611
+<i>I can make you a man</i>
+
+557
+00:45:03,536 --> 00:45:07,415
+<i>I don 't want no dissension</i>
+
+558
+00:45:08,896 --> 00:45:13,367
+<i>Just dynamic tension</i>
+
+559
+00:45:14,816 --> 00:45:18,934
+<i>I'm a muscle fan</i>
+
+560
+00:45:19,176 --> 00:45:22,327
+<i>In just seven days</i>
+
+561
+00:45:22,696 --> 00:45:27,406
+<i>I can make you a man</i>
+
+562
+00:45:28,296 --> 00:45:32,335
+<i>Dig it if you can</i>
+
+563
+00:45:32,856 --> 00:45:35,928
+<i>In just seven days</i>
+
+564
+00:45:36,136 --> 00:45:39,845
+<i>I can make you a man</i>
+
+565
+00:45:52,696 --> 00:45:56,928
+Rocky, Rocky, rah, rah, rah!
+Rocky, Rocky, rah, rah, rah!
+
+566
+00:46:11,216 --> 00:46:14,970
+There are those who say
+that life is an illusion...
+
+567
+00:46:15,216 --> 00:46:18,731
+...and that reality is simply
+a figment of the imagination.
+
+568
+00:46:19,416 --> 00:46:22,931
+If this is so, then Brad and Janet
+are quite safe.
+
+569
+00:46:23,896 --> 00:46:27,775
+However, the sudden departure
+of their host...
+
+570
+00:46:28,016 --> 00:46:30,769
+...and his creation...
+
+571
+00:46:31,016 --> 00:46:34,053
+...into the seclusion
+of his somber bridal suite...
+
+572
+00:46:34,296 --> 00:46:38,972
+...had left them feeling
+both apprehensive and uneasy.
+
+573
+00:46:39,216 --> 00:46:42,731
+A feeling which grew
+as the other guests departed...
+
+574
+00:46:42,976 --> 00:46:47,333
+...and they were shown
+to their separate rooms.
+
+575
+00:47:23,670 --> 00:47:26,184
+Who is it? Who's there?
+
+576
+00:47:29,550 --> 00:47:31,381
+It's only me, Janet.
+
+577
+00:47:31,830 --> 00:47:34,185
+Brad, darling, come in.
+
+578
+00:47:36,230 --> 00:47:38,186
+Oh, Brad!
+
+579
+00:47:39,470 --> 00:47:41,188
+Yes, my darling! But what if...?
+
+580
+00:47:41,430 --> 00:47:43,386
+Everything's going to be all right.
+
+581
+00:47:43,630 --> 00:47:46,781
+Oh, I hope so, my darling.
+
+582
+00:47:49,270 --> 00:47:53,582
+- It's you!
+- I'm afraid so. But isn't it nice?
+
+583
+00:47:53,830 --> 00:47:58,108
+You beast, you monster!
+What have you done with Brad?
+
+584
+00:47:58,350 --> 00:48:01,183
+Well, nothing.
+Why, do you think I should?
+
+585
+00:48:01,430 --> 00:48:04,706
+You tricked me! I wouldn't have.
+I've never, never... .
+
+586
+00:48:04,950 --> 00:48:07,100
+Yes. Yes, I know.
+
+587
+00:48:07,350 --> 00:48:09,580
+But it isn't all bad, is it?
+
+588
+00:48:10,390 --> 00:48:13,780
+I think you'll really find it
+quite pleasurable.
+
+589
+00:48:14,470 --> 00:48:16,825
+- So soft, so sensual.
+- Stop! I mean, help!
+
+590
+00:48:17,070 --> 00:48:18,788
+Brad. Oh, Brad!
+
+591
+00:48:19,870 --> 00:48:23,909
+Brad's probably asleep by now.
+Do you want him to see you like this?
+
+592
+00:48:24,150 --> 00:48:27,586
+Like this, like how? It's your fault!
+You're to blame!
+
+593
+00:48:27,790 --> 00:48:29,985
+I was saving myself.
+
+594
+00:48:30,430 --> 00:48:34,389
+Well, I'm sure you're not spent yet.
+
+595
+00:48:35,030 --> 00:48:36,782
+Promise you won't tell Brad?
+
+596
+00:48:36,990 --> 00:48:39,982
+Cross my heart and hope to die.
+
+597
+00:50:26,150 --> 00:50:29,028
+Oh, Brad, darling, it's no good here!
+
+598
+00:50:29,270 --> 00:50:30,783
+It'll destroy us.
+
+599
+00:50:31,030 --> 00:50:34,181
+Don't worry. We'll be away from here
+in the morning.
+
+600
+00:50:34,390 --> 00:50:37,382
+Oh, Brad, you're so strong
+and protective.
+
+601
+00:50:41,390 --> 00:50:42,789
+You!
+
+602
+00:50:42,990 --> 00:50:45,629
+I'm afraid so, Brad.
+But isn't it nice?
+
+603
+00:50:45,870 --> 00:50:48,828
+Why you...
+What have you done with Janet?
+
+604
+00:50:49,070 --> 00:50:51,425
+Nothing. Why, do you think I should?
+
+605
+00:50:51,670 --> 00:50:56,380
+You tricked me. I wouldn't have.
+I've never, never, never!
+
+606
+00:50:56,630 --> 00:50:59,190
+Yes, I know.
+But it isn't all bad, is it?
+
+607
+00:50:59,430 --> 00:51:03,389
+Not even half bad.
+I think you'll really quite enjoy it.
+
+608
+00:51:04,270 --> 00:51:07,103
+- So soft. So sensual.
+- No, stop.
+
+609
+00:51:07,350 --> 00:51:08,783
+Oh, Janet.
+
+610
+00:51:09,550 --> 00:51:10,778
+Janet!
+
+611
+00:51:11,350 --> 00:51:15,229
+Janet's probably asleep by now.
+Do you want her to see you like this?
+
+612
+00:51:15,470 --> 00:51:19,383
+Like this, like how? It's your fault!
+You're to blame.
+
+613
+00:51:19,630 --> 00:51:21,621
+I thought it was the real thing!
+
+614
+00:51:21,870 --> 00:51:23,588
+Oh, come on, Brad, admit it.
+
+615
+00:51:23,830 --> 00:51:25,582
+You liked it, didn't you?
+
+616
+00:51:25,830 --> 00:51:29,027
+There's no crime in giving yourself
+over to pleasure.
+
+617
+00:51:29,270 --> 00:51:32,979
+Oh, Brad, you have wasted
+so much time already.
+
+618
+00:51:33,230 --> 00:51:36,586
+Janet needn't know. I won't tell her.
+
+619
+00:51:37,270 --> 00:51:39,181
+You promise you won't tell?
+
+620
+00:51:40,350 --> 00:51:42,580
+On my mother's grave.
+
+621
+00:51:43,670 --> 00:51:47,299
+<i>Master, Rocky has broken his chains</i>
+<i>and vanished, </i>
+
+622
+00:51:47,550 --> 00:51:51,304
+<i>The new playmate is loose</i>
+<i>and somewhere in the castle grounds, </i>
+
+623
+00:51:51,550 --> 00:51:54,781
+<i>Magenta has just released the dogs, </i>
+
+624
+00:51:57,030 --> 00:51:58,986
+Coming!
+
+625
+00:52:02,990 --> 00:52:06,266
+What's happening here? Where's Brad?
+
+626
+00:52:06,870 --> 00:52:08,986
+Where's anybody?
+
+627
+00:52:17,270 --> 00:52:19,306
+Oh, Brad!
+
+628
+00:52:19,870 --> 00:52:24,785
+Brad, my darling, how could I
+have done this to you?
+
+629
+00:52:35,470 --> 00:52:38,507
+Oh, If only we hadn't
+made this journey.
+
+630
+00:52:39,350 --> 00:52:41,944
+If only the car hadn't broken down.
+
+631
+00:52:43,070 --> 00:52:47,860
+If only we were amongst friends
+or sane persons.
+
+632
+00:52:49,070 --> 00:52:51,186
+Oh, Brad.
+
+633
+00:52:53,550 --> 00:52:55,222
+What have they done with him?
+
+634
+00:53:00,950 --> 00:53:04,386
+Brad, how could you?
+
+635
+00:53:28,070 --> 00:53:29,981
+But you're hurt.
+
+636
+00:53:31,190 --> 00:53:33,579
+Did they do this to you?
+
+637
+00:53:36,390 --> 00:53:38,267
+Here. I'll dress your wounds.
+
+638
+00:53:39,990 --> 00:53:42,185
+Baby, there. Oh.
+
+639
+00:53:52,870 --> 00:53:56,988
+<i>"Emotion: agitation or disturbance</i>
+<i>of mind... </i>
+
+640
+00:53:57,230 --> 00:54:01,189
+...vehement or excited mental state. "
+
+641
+00:54:02,870 --> 00:54:06,783
+It is also a powerful
+and irrational master.
+
+642
+00:54:06,990 --> 00:54:11,620
+And from what Magenta and Columbia
+eagerly viewed on their TV monitor...
+
+643
+00:54:11,870 --> 00:54:15,385
+<i>... there seemed little doubt</i>
+<i>that Janet was indeed... </i>
+
+644
+00:54:15,590 --> 00:54:17,023
+<i>... its slave, </i>
+
+645
+00:54:17,670 --> 00:54:20,582
+Tell us about it, Janet.
+
+646
+00:54:23,270 --> 00:54:26,979
+<i>I was feeling done in</i>
+
+647
+00:54:27,590 --> 00:54:29,387
+<i>Couldn 't win</i>
+
+648
+00:54:30,670 --> 00:54:33,980
+<i>I'd only ever kissed before</i>
+
+649
+00:54:35,990 --> 00:54:37,423
+You mean she...?
+
+650
+00:54:37,670 --> 00:54:41,185
+<i>I thought there's no use getting</i>
+
+651
+00:54:41,390 --> 00:54:44,427
+<i>Into heavy petting</i>
+
+652
+00:54:44,670 --> 00:54:48,788
+<i>It only leads to trouble</i>
+
+653
+00:54:48,990 --> 00:54:51,060
+<i>And seat wetting</i>
+
+654
+00:54:51,510 --> 00:54:54,388
+<i>Now all I want to know</i>
+
+655
+00:54:55,110 --> 00:54:57,385
+<i>Is how to go</i>
+
+656
+00:54:57,590 --> 00:55:00,502
+<i>I've tasted blood and I want more</i>
+
+657
+00:55:00,750 --> 00:55:02,468
+More, more, more.
+
+658
+00:55:03,070 --> 00:55:05,630
+<i>I'll put up no resistance</i>
+
+659
+00:55:05,870 --> 00:55:08,020
+<i>I want to stay the distance</i>
+
+660
+00:55:08,830 --> 00:55:10,821
+<i>I've got an itch to scratch</i>
+
+661
+00:55:11,750 --> 00:55:13,980
+<i>I need assistance</i>
+
+662
+00:55:14,230 --> 00:55:16,619
+<i>Touch-a, touch-a, touch-a, touch me</i>
+
+663
+00:55:16,870 --> 00:55:19,384
+<i>I wanna be dirty</i>
+
+664
+00:55:19,590 --> 00:55:22,024
+<i>Thrill me, chill me, fulfill me</i>
+
+665
+00:55:22,270 --> 00:55:24,579
+<i>Creature of the night</i>
+
+666
+00:55:29,590 --> 00:55:32,184
+<i>Then if anything grows</i>
+
+667
+00:55:32,470 --> 00:55:34,984
+<i>While you pose</i>
+
+668
+00:55:35,190 --> 00:55:38,068
+<i>I'll oil you up and rub you down</i>
+
+669
+00:55:38,310 --> 00:55:40,540
+Down, down, down.
+
+670
+00:55:40,790 --> 00:55:45,580
+<i>And that's just one small fraction</i>
+<i>Of the main attraction</i>
+
+671
+00:55:46,630 --> 00:55:48,780
+<i>You need a friendly hand</i>
+
+672
+00:55:49,030 --> 00:55:51,225
+<i>Oh, and I need action</i>
+
+673
+00:55:51,470 --> 00:55:54,030
+<i>Touch-a, touch-a, touch-a, touch me</i>
+
+674
+00:55:54,270 --> 00:55:56,704
+<i>I wanna be dirty</i>
+
+675
+00:55:56,950 --> 00:55:59,384
+<i>Thrill me, chill me, fulfill me</i>
+
+676
+00:55:59,590 --> 00:56:02,104
+<i>Creature of the night</i>
+
+677
+00:56:02,350 --> 00:56:04,420
+<i>Touch-a, touch-a, touch-a, touch me</i>
+
+678
+00:56:04,670 --> 00:56:07,184
+<i>I wanna be dirty</i>
+
+679
+00:56:07,390 --> 00:56:09,699
+<i>Thrill me, chill me, fulfill me</i>
+
+680
+00:56:09,950 --> 00:56:11,542
+<i>Creature of the night</i>
+
+681
+00:56:12,630 --> 00:56:15,098
+<i>Touch-a, touch-a, touch-a, touch me</i>
+
+682
+00:56:15,350 --> 00:56:17,989
+<i>I wanna be dirty</i>
+
+683
+00:56:18,230 --> 00:56:20,266
+<i>Thrill me, chill me, fulfill me</i>
+
+684
+00:56:20,510 --> 00:56:22,785
+<i>Creature of the night</i>
+
+685
+00:56:23,030 --> 00:56:24,588
+Creature of the night.
+
+686
+00:56:25,550 --> 00:56:27,586
+Creature of the night?
+
+687
+00:56:28,150 --> 00:56:29,981
+Creature of the night.
+
+688
+00:56:30,750 --> 00:56:32,069
+Creature of the night.
+
+689
+00:56:33,350 --> 00:56:35,181
+Creature of the night.
+
+690
+00:56:35,870 --> 00:56:37,428
+<i>Creature of the night</i>
+
+691
+00:56:38,230 --> 00:56:39,743
+Creature of the night.
+
+692
+00:56:41,070 --> 00:56:43,584
+<i>Creature of the night</i>
+
+693
+00:56:49,350 --> 00:56:51,580
+Mercy!
+
+694
+00:56:54,190 --> 00:56:55,828
+How did it happen?
+
+695
+00:56:56,070 --> 00:56:59,585
+I understood you were to be watching.
+
+696
+00:56:59,830 --> 00:57:02,822
+I was only away for a minute, master.
+
+697
+00:57:03,070 --> 00:57:07,780
+Well, see if you can find him
+on the monitor.
+
+698
+00:57:14,470 --> 00:57:15,823
+Master.
+
+699
+00:57:16,070 --> 00:57:19,187
+Master, we have a visitor.
+
+700
+00:57:24,230 --> 00:57:25,379
+Hey, Scotty!
+
+701
+00:57:27,510 --> 00:57:28,579
+Dr. Everett Scott.
+
+702
+00:57:28,790 --> 00:57:32,021
+You know this earthling...
+...this person?
+
+703
+00:57:32,270 --> 00:57:36,229
+I most certainly do. He happens
+to be an old friend of mine.
+
+704
+00:57:36,470 --> 00:57:38,188
+I see.
+
+705
+00:57:38,870 --> 00:57:41,987
+So this wasn't
+simply a chance meeting.
+
+706
+00:57:42,430 --> 00:57:44,705
+You came here with a purpose.
+
+707
+00:57:45,190 --> 00:57:48,739
+I told you, my car broke down.
+I was telling the truth.
+
+708
+00:57:48,990 --> 00:57:51,379
+I know what you told me, Brad.
+
+709
+00:57:51,590 --> 00:57:56,186
+But this Dr. Everett Scott,
+his name is not unknown to me.
+
+710
+00:57:56,790 --> 00:57:58,860
+He was a science teacher
+at Denton High.
+
+711
+00:57:59,150 --> 00:58:01,220
+And now he works for your government.
+
+712
+00:58:02,070 --> 00:58:04,789
+He's attached
+to the Bureau of Investigation...
+
+713
+00:58:04,990 --> 00:58:08,426
+...of that which you call U<i>F</i>Os!
+Isn't that right, Brad?
+
+714
+00:58:08,670 --> 00:58:10,979
+He might be. I don't know.
+
+715
+00:58:11,230 --> 00:58:14,188
+The intruder is entering
+the building, master.
+
+716
+00:58:16,870 --> 00:58:20,624
+He'll probably be in the Zen Room.
+
+717
+00:58:27,390 --> 00:58:30,985
+Shall we inquire of him in person?
+
+718
+00:59:04,230 --> 00:59:05,106
+Great Scott!
+
+719
+00:59:16,790 --> 00:59:18,018
+<i>F</i>rank N. <i>F</i>urter.
+
+720
+00:59:19,150 --> 00:59:20,424
+We meet at last.
+
+721
+00:59:22,270 --> 00:59:23,828
+Dr. Scott!
+
+722
+00:59:24,230 --> 00:59:26,300
+Brad! What are you doing here?
+
+723
+00:59:27,550 --> 00:59:29,780
+Don't play games, Dr. Scott.
+
+724
+00:59:30,590 --> 00:59:33,548
+You know perfectly well
+what Brad Majors is doing here.
+
+725
+00:59:33,870 --> 00:59:35,826
+It was part of your plan, was it not?
+
+726
+00:59:36,070 --> 00:59:39,745
+That he and his female
+should check the layout for you?
+
+727
+00:59:40,350 --> 00:59:44,662
+Well, unfortunately for you all,
+the plans are to be changed.
+
+728
+00:59:46,070 --> 00:59:48,982
+I hope you're adaptable, Dr. Scott.
+
+729
+00:59:49,190 --> 00:59:51,385
+I know Brad is.
+
+730
+00:59:51,590 --> 00:59:55,549
+I assure you, Brad's presence
+comes as a complete surprise to me.
+
+731
+00:59:55,790 --> 00:59:57,587
+I came here to find Eddie.
+
+732
+00:59:58,590 --> 01:00:00,660
+- Eddie? I've seen him. He's...
+- Eddie?
+
+733
+01:00:00,910 --> 01:00:02,662
+What do you know of Eddie?
+
+734
+01:00:03,670 --> 01:00:06,230
+I know a great deal
+about a lot of things.
+
+735
+01:00:06,470 --> 01:00:09,428
+You see, Eddie happens to be
+my nephew.
+
+736
+01:00:14,470 --> 01:00:15,983
+Dr. Scott.
+
+737
+01:00:19,990 --> 01:00:21,582
+- Janet!
+- Dr. Scott!
+
+738
+01:00:21,830 --> 01:00:23,058
+- Janet!
+- Brad!
+
+739
+01:00:23,310 --> 01:00:24,345
+Rocky!
+
+740
+01:00:24,590 --> 01:00:26,182
+- Janet!
+- Dr. Scott!
+
+741
+01:00:26,430 --> 01:00:27,829
+- Janet!
+- Brad!
+
+742
+01:00:28,070 --> 01:00:29,139
+Rocky!
+
+743
+01:00:33,190 --> 01:00:36,785
+Listen! I made you...
+
+744
+01:00:37,030 --> 01:00:40,579
+...and I can break you just as easily.
+
+745
+01:00:43,270 --> 01:00:46,307
+Master, dinner is prepared!
+
+746
+01:00:49,030 --> 01:00:50,349
+Excellent.
+
+747
+01:00:51,470 --> 01:00:55,986
+Under the circumstances,
+formal dress is to be optional.
+
+748
+01:00:58,630 --> 01:01:02,987
+<i>F</i>ood has always played a vital role
+in life's rituals:
+
+749
+01:01:03,230 --> 01:01:07,621
+The breaking of bread,
+the last meal of the condemned man...
+
+750
+01:01:07,870 --> 01:01:11,101
+...and now this meal.
+
+751
+01:01:11,630 --> 01:01:14,428
+<i>However informal it might appear... </i>
+
+752
+01:01:14,670 --> 01:01:18,822
+<i>... you can be sure there was to be</i>
+<i>very little bonhomie, </i>
+
+753
+01:02:32,310 --> 01:02:33,299
+A toast.
+
+754
+01:02:35,110 --> 01:02:37,226
+To absent friends.
+
+755
+01:02:37,710 --> 01:02:39,621
+To absent friends.
+
+756
+01:02:43,070 --> 01:02:45,630
+And Rocky.
+
+757
+01:02:54,310 --> 01:02:55,982
+<i>Happy birthday to you</i>
+
+758
+01:02:56,230 --> 01:02:58,061
+<i>Happy birthday to you</i>
+
+759
+01:02:58,310 --> 01:03:00,221
+<i>Happy birthday, dear Rocky</i>
+
+760
+01:03:00,470 --> 01:03:02,301
+<i>-Happy birthday... </i>
+- Shall we?
+
+761
+01:03:20,270 --> 01:03:23,023
+We came here to discuss Eddie.
+
+762
+01:03:23,270 --> 01:03:24,589
+Eddie!
+
+763
+01:03:28,710 --> 01:03:30,348
+It's a rather tender subject.
+
+764
+01:03:31,030 --> 01:03:33,021
+Another slice, anyone?
+
+765
+01:03:38,910 --> 01:03:40,628
+Excuse me.
+
+766
+01:03:52,030 --> 01:03:55,545
+I knew he was in with a bad crowd,
+but it was worse than I imagined.
+
+767
+01:03:55,790 --> 01:03:57,348
+Aliens!
+
+768
+01:03:57,590 --> 01:03:58,500
+Dr. Scott!
+
+769
+01:03:59,230 --> 01:04:00,822
+Go on, Dr. Scott.
+
+770
+01:04:02,030 --> 01:04:05,181
+Or should I say Dr. Von Scott?
+
+771
+01:04:06,030 --> 01:04:08,419
+Just what exactly are you implying?
+
+772
+01:04:08,670 --> 01:04:09,819
+It's all right!
+
+773
+01:04:10,030 --> 01:04:11,702
+That's all right, Brad.
+
+774
+01:04:15,030 --> 01:04:17,385
+<i>From the day he was born</i>
+
+775
+01:04:20,070 --> 01:04:22,823
+<i>He was trouble</i>
+
+776
+01:04:24,710 --> 01:04:27,429
+<i>He was the thorn</i>
+
+777
+01:04:28,910 --> 01:04:32,220
+<i>In his mother's side</i>
+
+778
+01:04:34,110 --> 01:04:37,227
+<i>She tried in vain</i>
+
+779
+01:04:40,070 --> 01:04:44,222
+<i>But he never caused her</i>
+<i>Nothing but shame</i>
+
+780
+01:04:45,110 --> 01:04:48,341
+<i>He left home... </i>
+
+781
+01:04:48,590 --> 01:04:51,662
+<i>... the day she died</i>
+
+782
+01:04:51,910 --> 01:04:54,026
+<i>From the day she was gone</i>
+
+783
+01:04:55,030 --> 01:04:57,021
+<i>All he wanted</i>
+
+784
+01:04:57,870 --> 01:05:00,020
+<i>Was rock 'n ' roll porn</i>
+
+785
+01:05:00,630 --> 01:05:03,019
+Und <i>a motorbike</i>
+
+786
+01:05:03,630 --> 01:05:06,019
+<i>Shooting up junk</i>
+
+787
+01:05:07,030 --> 01:05:10,067
+<i>He was a low-down, cheap little punk</i>
+
+788
+01:05:10,310 --> 01:05:15,225
+<i>Taking everyone for a ride</i>
+
+789
+01:05:16,110 --> 01:05:18,670
+<i>When Eddie said</i>
+<i>He didn 't like his teddy</i>
+
+790
+01:05:18,910 --> 01:05:21,265
+<i>You knew he was a no-good kid</i>
+
+791
+01:05:21,510 --> 01:05:24,229
+<i>But when he threatened your life</i>
+<i>With a switchblade knife</i>
+
+792
+01:05:24,470 --> 01:05:25,823
+<i>-What a guy</i>
+<i>-Makes you cry</i>
+
+793
+01:05:26,030 --> 01:05:27,429
+Und <i>I did</i>
+
+794
+01:05:27,910 --> 01:05:30,663
+<i>Everybody shoved him</i>
+
+795
+01:05:30,910 --> 01:05:33,822
+<i>I very nearly loved him</i>
+
+796
+01:05:34,070 --> 01:05:36,630
+<i>I said, hey, listen to me</i>
+
+797
+01:05:36,870 --> 01:05:39,668
+<i>Stay sane inside insanity</i>
+
+798
+01:05:39,910 --> 01:05:44,825
+<i>But he locked the door</i>
+<i>And threw away the key</i>
+
+799
+01:05:45,070 --> 01:05:46,867
+<i>But he must've been drawn</i>
+
+800
+01:05:48,510 --> 01:05:50,068
+<i>Into something</i>
+
+801
+01:05:51,310 --> 01:05:53,346
+<i>Making him warn me</i>
+
+802
+01:05:53,590 --> 01:05:55,182
+<i>In a note which reads: </i>
+
+803
+01:05:55,390 --> 01:05:56,823
+<i>What's it say? What's it say? </i>
+
+804
+01:05:57,070 --> 01:05:58,389
+<i>"I'm out of my head</i>
+
+805
+01:06:00,190 --> 01:06:02,829
+<i>Oh, hurry, or I may be dead</i>
+
+806
+01:06:03,390 --> 01:06:08,305
+<i>They mustn 't carry out</i>
+<i>Their evil deeds"</i>
+
+807
+01:06:09,510 --> 01:06:12,229
+<i>When Eddie said</i>
+<i>He didn 't like his teddy</i>
+
+808
+01:06:12,430 --> 01:06:14,148
+<i>You knew he was a no-good kid</i>
+
+809
+01:06:14,790 --> 01:06:17,384
+<i>When he threatened your life</i>
+<i>With a switchblade knife</i>
+
+810
+01:06:17,710 --> 01:06:19,223
+<i>-What a guy</i>
+<i>-Makes you cry</i>
+
+811
+01:06:19,470 --> 01:06:20,823
+Und <i>I did</i>
+
+812
+01:06:21,070 --> 01:06:23,425
+<i>When Eddie said</i>
+<i>He didn 't like his teddy</i>
+
+813
+01:06:23,630 --> 01:06:25,939
+<i>You knew he was a no-good kid</i>
+
+814
+01:06:26,190 --> 01:06:29,307
+<i>But when he threatened your life</i>
+<i>With a switchblade knife</i>
+
+815
+01:06:30,550 --> 01:06:34,748
+<i>-What a guy</i>
+<i>-Woe, woe, woe</i>
+
+816
+01:06:34,990 --> 01:06:39,427
+<i>-Makes you cry</i>
+<i>-Hey, hey, hey</i>
+
+817
+01:06:39,670 --> 01:06:42,980
+Und <i>I did</i>
+
+818
+01:06:43,230 --> 01:06:46,859
+<i>Hey</i>
+
+819
+01:06:48,430 --> 01:06:49,419
+Oh.
+
+820
+01:07:00,510 --> 01:07:01,863
+Oh, Rocky!
+
+821
+01:07:03,950 --> 01:07:06,020
+How could you?!
+
+822
+01:07:13,670 --> 01:07:15,422
+This way! This way!
+
+823
+01:07:18,230 --> 01:07:19,504
+Shut up!
+
+824
+01:07:20,990 --> 01:07:24,027
+<i>I'll tell you once</i>
+<i>I won 't tell you twice</i>
+
+825
+01:07:24,270 --> 01:07:27,660
+<i>You'd better wise up</i>
+<i>Janet Weiss</i>
+
+826
+01:07:27,910 --> 01:07:31,141
+<i>Your apple pie</i>
+<i>Don 't taste too nice</i>
+
+827
+01:07:31,390 --> 01:07:34,587
+<i>You'd better wise up</i>
+<i>Janet Weiss</i>
+
+828
+01:07:41,110 --> 01:07:44,466
+<i>I've laid the seed</i>
+<i>It should be all you need</i>
+
+829
+01:07:44,710 --> 01:07:46,541
+<i>You're as sensual as a pencil</i>
+
+830
+01:07:46,790 --> 01:07:48,348
+<i>Wound up like an E or first string</i>
+
+831
+01:07:48,590 --> 01:07:51,024
+<i>When we made it</i>
+<i>Did ya hear a bell ring? </i>
+
+832
+01:07:51,710 --> 01:07:54,668
+<i>You got a block</i>
+<i>Well, take my advice</i>
+
+833
+01:07:54,910 --> 01:07:58,823
+<i>You'd better wise up</i>
+<i>Janet Weiss</i>
+
+834
+01:07:59,230 --> 01:08:02,586
+<i>The transducer</i>
+<i>Will seduce ya</i>
+
+835
+01:08:04,510 --> 01:08:07,263
+My feet! I can't move my feet!
+
+836
+01:08:07,510 --> 01:08:10,468
+My wheels!
+My God, I can't move my wheels.
+
+837
+01:08:11,910 --> 01:08:14,026
+It's as if we were glued to the spot.
+
+838
+01:08:14,470 --> 01:08:16,028
+You are.
+
+839
+01:08:16,430 --> 01:08:19,661
+So quake with fear, you tiny fools.
+
+840
+01:08:21,110 --> 01:08:22,384
+We're trapped.
+
+841
+01:08:23,030 --> 01:08:26,818
+<i>It's something you'll get used to</i>
+<i>A mental mind fuck can be nice</i>
+
+842
+01:08:27,030 --> 01:08:27,826
+No!
+
+843
+01:08:28,070 --> 01:08:31,142
+You won't find Earth people
+the easy mark you imagine.
+
+844
+01:08:31,390 --> 01:08:33,267
+This sonic transducer...
+
+845
+01:08:33,510 --> 01:08:37,742
+...it is some kind of audio-vibratory,
+physiomolecular transport device?
+
+846
+01:08:37,990 --> 01:08:39,469
+- You mean...?
+- Yes, Brad.
+
+847
+01:08:39,710 --> 01:08:43,020
+It's something we ourselves
+have been working on for a while.
+
+848
+01:08:43,270 --> 01:08:46,945
+But it seems our friend here has found
+a means of perfecting it.
+
+849
+01:08:47,190 --> 01:08:50,341
+A device capable
+of breaking down solid matter...
+
+850
+01:08:50,590 --> 01:08:53,821
+...and then projecting it
+through space, and who knows...
+
+851
+01:08:54,070 --> 01:08:57,460
+...perhaps even time itself!
+
+852
+01:08:57,710 --> 01:09:00,019
+He's gonna send us to another planet?
+
+853
+01:09:00,230 --> 01:09:03,267
+Planet schmanet, Janet.
+
+854
+01:09:03,870 --> 01:09:06,748
+<i>You'd better wise up</i>
+<i>Janet Weiss</i>
+
+855
+01:09:06,990 --> 01:09:10,824
+<i>You'd better wise up</i>
+<i>Build your thighs up</i>
+
+856
+01:09:11,030 --> 01:09:12,463
+<i>You'd better wise up</i>
+
+857
+01:09:12,710 --> 01:09:14,746
+And then she cried out:
+
+858
+01:09:14,990 --> 01:09:16,662
+Stop!
+
+859
+01:09:20,670 --> 01:09:25,585
+<i>Don 't get hot and flustered</i>
+
+860
+01:09:26,310 --> 01:09:30,428
+<i>Use a bit of mustard</i>
+
+861
+01:09:30,630 --> 01:09:33,224
+<i>You're a hot dog</i>
+
+862
+01:09:33,470 --> 01:09:36,064
+<i>But you'd better not... </i>
+
+863
+01:09:36,670 --> 01:09:39,230
+<i>... try to hurt her</i>
+
+864
+01:09:39,710 --> 01:09:40,779
+<i>Frank Furter</i>
+
+865
+01:09:41,830 --> 01:09:44,424
+<i>You're a hot dog</i>
+
+866
+01:09:44,630 --> 01:09:47,349
+<i>But you'd better not... </i>
+
+867
+01:09:47,590 --> 01:09:50,423
+<i>... try to hurt her</i>
+
+868
+01:09:50,790 --> 01:09:52,189
+<i>Frank Furter</i>
+
+869
+01:09:53,310 --> 01:09:55,380
+<i>You're a hot dog</i>
+
+870
+01:09:57,710 --> 01:10:01,464
+My God! I can't stand
+any more of this.
+
+871
+01:10:01,710 --> 01:10:06,420
+<i>F</i>irst, you spurn me for Eddie, then you
+toss him like an old coat for Rocky.
+
+872
+01:10:06,990 --> 01:10:10,221
+You chew people up
+and then you spit them out again.
+
+873
+01:10:10,990 --> 01:10:12,264
+I loved you.
+
+874
+01:10:12,870 --> 01:10:14,622
+Do you hear me? I loved you.
+
+875
+01:10:14,830 --> 01:10:18,220
+And what did it get me?
+I'll tell you, a big nothing.
+
+876
+01:10:18,470 --> 01:10:22,463
+You're like a sponge. You drain
+others of their love and emotion.
+
+877
+01:10:22,710 --> 01:10:24,223
+Well, I've had enough!
+
+878
+01:10:24,430 --> 01:10:28,389
+Choose between me and Rocky, so named
+because of the rocks in his head.
+
+879
+01:10:38,710 --> 01:10:41,429
+It's not easy, having a good time.
+
+880
+01:10:49,390 --> 01:10:52,427
+Even smiling makes my face ache.
+
+881
+01:10:55,710 --> 01:10:58,429
+And my children turn on me.
+
+882
+01:10:58,870 --> 01:11:02,021
+Rocky's behaving just the way
+that Eddie did.
+
+883
+01:11:04,630 --> 01:11:05,858
+Maybe I made a mistake...
+
+884
+01:11:06,110 --> 01:11:08,829
+...splitting his brain
+between the two of them.
+
+885
+01:11:09,070 --> 01:11:11,265
+I grow weary of this world!
+
+886
+01:11:11,510 --> 01:11:14,627
+When shall we return to Transylvania?!
+
+887
+01:11:15,710 --> 01:11:17,223
+Magenta...
+
+888
+01:11:17,830 --> 01:11:21,345
+...I am indeed grateful to both you
+and your brother, Riff Raff.
+
+889
+01:11:21,590 --> 01:11:24,024
+You have both served me well.
+
+890
+01:11:24,230 --> 01:11:28,143
+Loyalty such as yours
+shall not go unrewarded.
+
+891
+01:11:28,390 --> 01:11:32,827
+You'll discover that when the mood
+takes me, I can be quite generous.
+
+892
+01:11:33,030 --> 01:11:36,022
+I ask for nothing, master.
+
+893
+01:11:36,510 --> 01:11:40,423
+And you shall receive it in abundance!
+
+894
+01:11:42,390 --> 01:11:45,621
+Come. We are ready
+for the floorshow.
+
+895
+01:12:12,630 --> 01:12:17,499
+<i>And so, by some extraordinary</i>
+<i>coincidence... </i>
+
+896
+01:12:17,710 --> 01:12:20,508
+...fate, it seemed, had decided
+that Brad and Janet...
+
+897
+01:12:20,750 --> 01:12:24,459
+...should keep that appointment
+with their friend Dr. Everett Scott.
+
+898
+01:12:24,710 --> 01:12:26,541
+But it was to be in a situation...
+
+899
+01:12:26,790 --> 01:12:29,827
+...which none of them could have
+possibly foreseen.
+
+900
+01:12:30,030 --> 01:12:34,308
+And just a few hours
+after announcing their engagement...
+
+901
+01:12:34,550 --> 01:12:38,020
+...Brad and Janet had both tasted...
+
+902
+01:12:38,910 --> 01:12:40,821
+...forbidden fruit.
+
+903
+01:12:42,270 --> 01:12:43,862
+This in itself was proof...
+
+904
+01:12:44,110 --> 01:12:47,341
+...that their host
+was a man of little morals...
+
+905
+01:12:47,590 --> 01:12:50,423
+...and some persuasion.
+
+906
+01:12:51,110 --> 01:12:55,626
+What further indignities
+were they to be subjected to?
+
+907
+01:12:55,910 --> 01:13:00,620
+And what of the floorshow
+that had been spoken of?
+
+908
+01:13:01,230 --> 01:13:03,869
+In an empty house...
+
+909
+01:13:04,110 --> 01:13:06,943
+...in the middle of the night?
+
+910
+01:13:07,190 --> 01:13:09,829
+What diabolical plan...
+
+911
+01:13:10,070 --> 01:13:14,029
+...had seized
+<i>F</i>rank's crazed imagination?
+
+912
+01:13:15,870 --> 01:13:17,826
+What indeed?
+
+913
+01:13:18,430 --> 01:13:21,866
+<i>F</i>rom what had gone before,
+it was clear...
+
+914
+01:13:22,110 --> 01:13:25,466
+...that this was to be no picnic.
+
+915
+01:13:52,830 --> 01:13:56,459
+<i>It was great when it all began</i>
+
+916
+01:13:56,710 --> 01:14:01,226
+<i>I was a regular Frankie fan</i>
+
+917
+01:14:01,430 --> 01:14:04,740
+<i>But it was over when he had the plan</i>
+
+918
+01:14:04,990 --> 01:14:09,029
+<i>To start working on a muscleman</i>
+
+919
+01:14:09,230 --> 01:14:12,825
+<i>Now the only thing that gives me hope</i>
+
+920
+01:14:13,030 --> 01:14:17,421
+<i>Is my love of a certain dope</i>
+
+921
+01:14:17,670 --> 01:14:20,138
+<i>Rose tints my world</i>
+
+922
+01:14:20,390 --> 01:14:24,065
+<i>Keeps me safe</i>
+<i>From my trouble and pain</i>
+
+923
+01:14:25,510 --> 01:14:29,264
+<i>I'm just seven hours old</i>
+
+924
+01:14:29,510 --> 01:14:32,388
+<i>Truly beautiful to behold</i>
+
+925
+01:14:33,830 --> 01:14:37,027
+<i>And somebody should be told</i>
+
+926
+01:14:37,310 --> 01:14:41,064
+<i>My libido hasn 't been controlled</i>
+
+927
+01:14:41,590 --> 01:14:45,219
+<i>Now the only thing I've come to trust</i>
+
+928
+01:14:45,590 --> 01:14:49,629
+<i>Is an orgasmic rush of lust</i>
+
+929
+01:14:49,910 --> 01:14:51,423
+<i>Rose tints my world</i>
+
+930
+01:14:51,670 --> 01:14:55,822
+<i>And keeps me safe</i>
+<i>From my trouble and pain</i>
+
+931
+01:14:58,190 --> 01:15:01,865
+<i>It's beyond me</i>
+
+932
+01:15:02,110 --> 01:15:06,069
+<i>Help me, Mommy</i>
+
+933
+01:15:06,350 --> 01:15:09,865
+<i>I'll be good, you'll see</i>
+
+934
+01:15:10,110 --> 01:15:13,420
+<i>Take this dream away</i>
+
+935
+01:15:14,190 --> 01:15:16,545
+<i>What's this</i>
+
+936
+01:15:16,790 --> 01:15:18,621
+<i>Let's see</i>
+
+937
+01:15:18,870 --> 01:15:22,226
+<i>I feel sexy</i>
+
+938
+01:15:23,590 --> 01:15:26,229
+<i>What's come over me</i>
+
+939
+01:15:26,630 --> 01:15:29,303
+<i>Here it comes again</i>
+
+940
+01:15:32,430 --> 01:15:36,059
+<i>I feel released</i>
+
+941
+01:15:36,310 --> 01:15:39,427
+<i>Bad times deceased</i>
+
+942
+01:15:39,630 --> 01:15:42,747
+<i>My confidence has increased</i>
+
+943
+01:15:44,030 --> 01:15:47,022
+<i>Reality is here</i>
+
+944
+01:15:47,230 --> 01:15:51,269
+<i>The game has been disbanded</i>
+
+945
+01:15:51,510 --> 01:15:54,820
+<i>My mind has been expanded</i>
+
+946
+01:15:55,030 --> 01:15:58,102
+<i>It's a gas that Frankie's landed</i>
+
+947
+01:15:59,230 --> 01:16:03,621
+<i>His lust is so sincere</i>
+
+948
+01:16:37,910 --> 01:16:39,741
+<i>Whatever happened... </i>
+
+949
+01:16:39,990 --> 01:16:42,424
+<i>... to Fay Wray</i>
+
+950
+01:16:42,910 --> 01:16:44,662
+<i>That delicate... </i>
+
+951
+01:16:44,910 --> 01:16:49,267
+<i>... satin-draped frame</i>
+
+952
+01:16:50,390 --> 01:16:54,429
+<i>As it clung to her thigh</i>
+
+953
+01:16:54,710 --> 01:16:59,625
+<i>How I started to cry</i>
+
+954
+01:17:00,990 --> 01:17:03,868
+<i>'Cause I wanted to be dressed</i>
+
+955
+01:17:04,110 --> 01:17:08,228
+<i>Just the same</i>
+
+956
+01:17:09,430 --> 01:17:11,546
+<i>Give yourself over</i>
+
+957
+01:17:11,790 --> 01:17:15,669
+<i>To absolute pleasure</i>
+
+958
+01:17:15,910 --> 01:17:18,868
+<i>Swim the warm waters</i>
+
+959
+01:17:19,110 --> 01:17:22,659
+<i>Of sins of the flesh</i>
+
+960
+01:17:22,910 --> 01:17:25,629
+<i>Erotic nightmares</i>
+
+961
+01:17:25,830 --> 01:17:29,459
+<i>Beyond any measure</i>
+
+962
+01:17:29,710 --> 01:17:32,861
+<i>And sensual daydreams</i>
+
+963
+01:17:33,110 --> 01:17:37,467
+<i>To treasure forever</i>
+
+964
+01:17:37,710 --> 01:17:42,625
+<i>Can 't you just see it</i>
+
+965
+01:17:55,510 --> 01:17:58,422
+<i>Don 't dream it</i>
+
+966
+01:17:59,710 --> 01:18:02,429
+<i>Be it</i>
+
+967
+01:18:02,630 --> 01:18:06,225
+<i>Don 't dream it</i>
+
+968
+01:18:07,110 --> 01:18:09,829
+<i>Be it</i>
+
+969
+01:18:10,070 --> 01:18:13,028
+<i>Don 't dream it</i>
+
+970
+01:18:14,310 --> 01:18:16,107
+<i>Be it</i>
+
+971
+01:18:24,390 --> 01:18:28,702
+<i>Don 't dream it</i>
+
+972
+01:18:28,950 --> 01:18:31,384
+<i>Be it</i>
+
+973
+01:19:01,190 --> 01:19:03,420
+We've got to get...
+
+974
+01:19:03,710 --> 01:19:05,428
+...out of this trap...
+
+975
+01:19:06,630 --> 01:19:10,225
+...before this decadence...
+
+976
+01:19:10,910 --> 01:19:13,185
+...saps our wills.
+
+977
+01:19:14,390 --> 01:19:16,620
+I've got to be strong...
+
+978
+01:19:17,030 --> 01:19:19,419
+...<i>und</i> try to hang on.
+
+979
+01:19:20,990 --> 01:19:22,867
+Or else my mind...
+
+980
+01:19:24,110 --> 01:19:26,419
+...may well snap.
+
+981
+01:19:27,190 --> 01:19:31,229
+<i>Und</i> my life will be lived...
+
+982
+01:19:32,790 --> 01:19:37,466
+<i>... for the thrill</i>
+
+983
+01:19:41,470 --> 01:19:44,940
+<i>It's beyond me</i>
+
+984
+01:19:45,190 --> 01:19:48,227
+<i>Help me, Mommy</i>
+
+985
+01:19:48,590 --> 01:19:50,421
+<i>God bless... </i>
+
+986
+01:19:50,670 --> 01:19:54,663
+<i>... Lily St, Cyr</i>
+
+987
+01:19:56,870 --> 01:19:58,906
+<i>My, my, my, my</i>
+
+988
+01:19:59,150 --> 01:20:01,345
+<i>My, my, my, my</i>
+
+989
+01:20:01,590 --> 01:20:03,467
+<i>I'm a wild and untamed thing</i>
+
+990
+01:20:03,710 --> 01:20:05,666
+<i>I'm a bee with a deadly sting</i>
+
+991
+01:20:05,910 --> 01:20:08,060
+<i>Get a hit and your mind goes "ping"</i>
+
+992
+01:20:08,310 --> 01:20:10,426
+<i>Your heart'll thump</i>
+<i>And your blood will sing</i>
+
+993
+01:20:10,670 --> 01:20:12,820
+<i>Let the party and the sounds rock on</i>
+
+994
+01:20:13,030 --> 01:20:15,498
+<i>We're gonna shake it</i>
+<i>Till the life has gone</i>
+
+995
+01:20:15,750 --> 01:20:19,982
+<i>Rose tints my world</i>
+<i>Keep me safe from my trouble and pain</i>
+
+996
+01:20:22,510 --> 01:20:24,466
+<i>We're a wild and an untamed thing</i>
+
+997
+01:20:24,710 --> 01:20:26,621
+<i>We're a bee with a deadly sting</i>
+
+998
+01:20:26,870 --> 01:20:29,145
+<i>Get a hit and your mind goes "ping"</i>
+
+999
+01:20:29,390 --> 01:20:31,267
+<i>Your heart'll thump</i>
+<i>And your blood will sing</i>
+
+1000
+01:20:31,510 --> 01:20:33,660
+<i>So let the party</i>
+<i>And the sounds rock on</i>
+
+1001
+01:20:33,910 --> 01:20:36,504
+<i>We're gonna shake it</i>
+<i>Till the life has gone</i>
+
+1002
+01:20:36,750 --> 01:20:41,426
+<i>Rose tints my world</i>
+<i>Keep me safe from my trouble and pain</i>
+
+1003
+01:20:51,470 --> 01:20:53,301
+<i>We're a wild and an untamed thing</i>
+
+1004
+01:20:53,550 --> 01:20:55,984
+<i>We're a bee with a deadly sting</i>
+
+1005
+01:20:56,230 --> 01:20:58,221
+<i>Get a hit and your mind goes "ping"</i>
+
+1006
+01:20:58,470 --> 01:20:59,983
+<i>Your heart'll thump</i>
+<i>And your blood will sing</i>
+
+1007
+01:21:00,470 --> 01:21:02,540
+<i>So let the party</i>
+<i>And the sounds rock on</i>
+
+1008
+01:21:02,790 --> 01:21:05,099
+<i>We're gonna shake it</i>
+<i>Till the life has gone</i>
+
+1009
+01:21:05,350 --> 01:21:10,026
+<i>Rose tints my world</i>
+<i>Keep me safe from my trouble and pain</i>
+
+1010
+01:21:13,710 --> 01:21:16,349
+<i>Frank N, Furter</i>
+
+1011
+01:21:16,590 --> 01:21:19,309
+<i>It's all over</i>
+
+1012
+01:21:19,710 --> 01:21:22,668
+<i>Your mission is a failure</i>
+
+1013
+01:21:22,910 --> 01:21:26,220
+<i>Your lifestyle's too extreme</i>
+
+1014
+01:21:26,470 --> 01:21:29,621
+<i>I'm your new commander</i>
+
+1015
+01:21:29,830 --> 01:21:32,185
+<i>You now are my prisoner</i>
+
+1016
+01:21:32,430 --> 01:21:35,627
+<i>We return to Transylvania</i>
+
+1017
+01:21:36,310 --> 01:21:41,225
+<i>Prepare the transit beam</i>
+
+1018
+01:21:43,110 --> 01:21:44,384
+Wait!
+
+1019
+01:21:47,670 --> 01:21:49,388
+I can explain.
+
+1020
+01:22:17,790 --> 01:22:21,749
+<i>On the day I went away</i>
+
+1021
+01:22:21,990 --> 01:22:25,744
+<i>Goodbye</i>
+
+1022
+01:22:25,990 --> 01:22:28,788
+<i>Was all I had to say</i>
+
+1023
+01:22:29,390 --> 01:22:32,188
+<i>Now I</i>
+
+1024
+01:22:33,350 --> 01:22:36,626
+<i>I want to come again and stay</i>
+
+1025
+01:22:36,870 --> 01:22:39,543
+<i>Oh, my, my</i>
+
+1026
+01:22:39,790 --> 01:22:44,705
+<i>Smile and that will mean I may</i>
+
+1027
+01:22:50,190 --> 01:22:51,418
+<i>'Cause I've seen</i>
+
+1028
+01:22:54,710 --> 01:22:59,625
+<i>Blue skies through the tears</i>
+
+1029
+01:23:00,710 --> 01:23:01,699
+<i>In my eyes</i>
+
+1030
+01:23:04,870 --> 01:23:07,100
+<i>And I realize</i>
+
+1031
+01:23:09,750 --> 01:23:12,503
+<i>I'm going home</i>
+
+1032
+01:23:16,510 --> 01:23:19,900
+<i>I'm going home</i>
+
+1033
+01:23:26,790 --> 01:23:30,305
+<i>Everywhere it's been the same</i>
+
+1034
+01:23:31,070 --> 01:23:34,619
+<i>Feeling</i>
+
+1035
+01:23:34,870 --> 01:23:38,146
+<i>Like I'm outside in the rain</i>
+
+1036
+01:23:38,390 --> 01:23:41,302
+<i>Wheeling</i>
+
+1037
+01:23:41,550 --> 01:23:45,145
+<i>Free to try and find a game</i>
+
+1038
+01:23:45,390 --> 01:23:48,029
+<i>Dealing</i>
+
+1039
+01:23:48,270 --> 01:23:50,738
+<i>Cards for sorrow</i>
+
+1040
+01:23:50,990 --> 01:23:55,905
+<i>Cards for pain</i>
+
+1041
+01:23:58,150 --> 01:24:00,106
+<i>'Cause I've seen</i>
+
+1042
+01:24:02,550 --> 01:24:04,780
+<i>Blue skies</i>
+
+1043
+01:24:05,030 --> 01:24:08,102
+<i>Through the tears</i>
+
+1044
+01:24:08,350 --> 01:24:10,500
+<i>In my eyes</i>
+
+1045
+01:24:12,590 --> 01:24:14,899
+<i>And I realize</i>
+
+1046
+01:24:17,390 --> 01:24:19,665
+<i>That I'm going home</i>
+
+1047
+01:24:23,910 --> 01:24:28,506
+<i>I'm going home</i>
+
+1048
+01:24:31,190 --> 01:24:34,500
+<i>I'm going home</i>
+
+1049
+01:24:39,190 --> 01:24:44,105
+<i>I'm going home</i>
+
+1050
+01:25:07,350 --> 01:25:10,308
+How sentimental.
+
+1051
+01:25:21,350 --> 01:25:23,466
+And also presumptuous of you.
+
+1052
+01:25:25,390 --> 01:25:28,302
+You see, when I said "we"...
+
+1053
+01:25:28,550 --> 01:25:31,018
+...were to return to Transylvania...
+
+1054
+01:25:31,270 --> 01:25:33,545
+...I referred only
+to Magenta and myself.
+
+1055
+01:25:34,510 --> 01:25:37,707
+I'm sorry, however, if you found
+my words misleading...
+
+1056
+01:25:37,910 --> 01:25:38,945
+...but you see...
+
+1057
+01:25:39,190 --> 01:25:41,909
+...you are to remain here.
+
+1058
+01:25:42,310 --> 01:25:44,699
+In spirit anyway.
+
+1059
+01:25:46,270 --> 01:25:47,908
+Good heavens, that's a laser.
+
+1060
+01:25:48,110 --> 01:25:49,429
+Yes, Dr. Scott.
+
+1061
+01:25:50,190 --> 01:25:53,899
+A laser capable of emitting
+a beam of pure anti-matter.
+
+1062
+01:25:54,950 --> 01:25:56,622
+You're going to kill him?
+
+1063
+01:25:57,190 --> 01:26:00,102
+- What's his crime?
+- You saw what became of Eddie.
+
+1064
+01:26:00,350 --> 01:26:02,466
+Society must be protected.
+
+1065
+01:26:02,790 --> 01:26:04,906
+Exactly, Dr. Scott.
+
+1066
+01:26:05,110 --> 01:26:07,908
+Now, <i>F</i>rank N. <i>F</i>urter,
+your time has come
+
+1067
+01:26:08,590 --> 01:26:11,900
+Say goodbye to all of this...
+
+1068
+01:26:13,190 --> 01:26:16,978
+...and hello to oblivion.
+
+1069
+01:26:33,590 --> 01:26:34,705
+No.
+
+1070
+01:26:35,190 --> 01:26:36,179
+No.
+
+1071
+01:26:36,390 --> 01:26:37,903
+No!
+
+1072
+01:28:04,310 --> 01:28:05,709
+Good God!
+
+1073
+01:28:06,910 --> 01:28:08,104
+You killed them.
+
+1074
+01:28:08,350 --> 01:28:12,901
+But I thought you liked them.
+They liked you.
+
+1075
+01:28:13,510 --> 01:28:15,899
+They didn't like me!
+
+1076
+01:28:16,790 --> 01:28:19,099
+They never liked me!
+
+1077
+01:28:19,390 --> 01:28:21,108
+You did right.
+
+1078
+01:28:34,710 --> 01:28:37,702
+A decision had to be made.
+
+1079
+01:28:38,190 --> 01:28:40,306
+You're okay by me.
+
+1080
+01:28:41,390 --> 01:28:43,301
+Dr. Scott...
+
+1081
+01:28:44,190 --> 01:28:48,422
+...I'm sorry about your nephew.
+
+1082
+01:28:48,670 --> 01:28:49,898
+Eddie?
+
+1083
+01:28:50,390 --> 01:28:53,507
+Yes, well,
+perhaps it was for the best.
+
+1084
+01:28:55,750 --> 01:28:59,709
+You should leave now, Dr. Scott,
+while it is still possible.
+
+1085
+01:28:59,990 --> 01:29:02,550
+We are about
+to beam the entire house...
+
+1086
+01:29:02,790 --> 01:29:05,429
+...back to the planet of Transsexual...
+
+1087
+01:29:05,670 --> 01:29:08,707
+...in the galaxy of Transylvania.
+
+1088
+01:29:10,190 --> 01:29:11,305
+Go.
+
+1089
+01:29:12,470 --> 01:29:13,698
+Now.
+
+1090
+01:29:25,910 --> 01:29:29,698
+Our noble mission
+is almost completed...
+
+1091
+01:29:31,150 --> 01:29:33,300
+...my most beautiful sister.
+
+1092
+01:29:34,070 --> 01:29:38,302
+And soon we shall return
+to the moon-drenched shores...
+
+1093
+01:29:38,550 --> 01:29:40,700
+...of our beloved planet.
+
+1094
+01:29:42,310 --> 01:29:46,508
+Sweet Transsexual.
+
+1095
+01:29:47,550 --> 01:29:50,303
+Land of night.
+
+1096
+01:29:51,190 --> 01:29:56,105
+To sing and dance once more
+to your dark refrain.
+
+1097
+01:30:01,110 --> 01:30:02,907
+To take that...
+
+1098
+01:30:04,670 --> 01:30:07,707
+...step to the right.
+
+1099
+01:30:09,590 --> 01:30:12,309
+<i>But it's the pelvic thrust</i>
+
+1100
+01:30:12,550 --> 01:30:15,701
+<i>That really drives you insane</i>
+
+1101
+01:30:16,270 --> 01:30:19,103
+And our world...
+
+1102
+01:30:19,350 --> 01:30:24,105
+...will do the time warp again!
+
+1103
+01:30:43,190 --> 01:30:46,421
+<i>I've done a lot</i>
+
+1104
+01:30:46,670 --> 01:30:50,709
+<i>God knows I've tried</i>
+
+1105
+01:30:50,910 --> 01:30:54,346
+<i>To find the truth</i>
+
+1106
+01:30:54,590 --> 01:30:58,708
+<i>I've even lied</i>
+
+1107
+01:30:58,950 --> 01:31:02,306
+<i>But all I know</i>
+
+1108
+01:31:02,550 --> 01:31:05,542
+<i>Is down inside</i>
+
+1109
+01:31:05,790 --> 01:31:10,147
+<i>I'm bleeding</i>
+
+1110
+01:31:13,990 --> 01:31:18,108
+<i>And superheroes</i>
+
+1111
+01:31:18,310 --> 01:31:21,507
+<i>Come to feast</i>
+
+1112
+01:31:21,750 --> 01:31:25,106
+<i>To taste the flesh</i>
+
+1113
+01:31:25,350 --> 01:31:28,820
+<i>Not yet deceased</i>
+
+1114
+01:31:29,070 --> 01:31:32,699
+<i>And all I know</i>
+
+1115
+01:31:32,910 --> 01:31:35,743
+<i>Is still the beast</i>
+
+1116
+01:31:35,990 --> 01:31:39,699
+<i>Is feeding</i>
+
+1117
+01:32:28,950 --> 01:32:30,906
+<i>And crawling</i>
+
+1118
+01:32:32,270 --> 01:32:34,704
+<i>On the planet's face</i>
+
+1119
+01:32:35,510 --> 01:32:38,104
+<i>Some insects</i>
+
+1120
+01:32:38,950 --> 01:32:41,703
+<i>Called the human race</i>
+
+1121
+01:32:43,590 --> 01:32:45,899
+<i>Lost in time</i>
+
+1122
+01:32:48,590 --> 01:32:51,104
+<i>And lost in space</i>
+
+1123
+01:32:51,750 --> 01:32:53,706
+<i>And meaning</i>
+
+1124
+01:32:54,870 --> 01:32:57,338
+<i>Meaning</i>
+
+1125
+01:33:12,870 --> 01:33:16,340
+<i>Science fiction</i>
+
+1126
+01:33:18,790 --> 01:33:22,146
+<i>Double feature</i>
+
+1127
+01:33:24,470 --> 01:33:27,826
+<i>Frank has built... </i>
+
+1128
+01:33:30,070 --> 01:33:33,779
+<i>... and lost his creature</i>
+
+1129
+01:33:34,990 --> 01:33:39,427
+<i>Darkness has con</i>q<i>uered</i>
+
+1130
+01:33:41,190 --> 01:33:45,069
+<i>Brad and Janet</i>
+
+1131
+01:33:46,110 --> 01:33:50,501
+<i>The servants gone</i>
+
+1132
+01:33:51,950 --> 01:33:55,704
+<i>To a distant planet</i>
+
+1133
+01:34:01,270 --> 01:34:03,738
+<i>At the late-night</i>
+
+1134
+01:34:03,990 --> 01:34:06,550
+<i>Double feature</i>
+
+1135
+01:34:06,790 --> 01:34:08,940
+<i>Picture show</i>
+
+1136
+01:34:09,190 --> 01:34:11,909
+<i>I want to go</i>
+
+1137
+01:34:17,750 --> 01:34:20,344
+<i>To the late-night</i>
+
+1138
+01:34:20,590 --> 01:34:22,706
+<i>Double feature</i>
+
+1139
+01:34:22,910 --> 01:34:27,825
+<i>Picture show</i>
+

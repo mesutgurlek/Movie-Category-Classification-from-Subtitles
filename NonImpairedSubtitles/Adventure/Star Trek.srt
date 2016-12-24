@@ -1,0 +1,5658 @@
+1
+00:01:19,546 --> 00:01:22,702
+- USS Kelvin, go for Starfleet base.
+- Starfleet Base.
+
+2
+00:01:22,737 --> 00:01:24,582
+We sent you a transmission.
+Did you receive it?
+
+3
+00:01:24,636 --> 00:01:26,073
+Kelvin, can you double-check those readings?
+
+4
+00:01:26,108 --> 00:01:28,849
+Our gravitational sensors are going crazy
+here. You should see this.
+
+5
+00:01:28,884 --> 00:01:30,329
+It looks like a lightning storm.
+
+6
+00:01:30,364 --> 00:01:32,026
+What you've sent us doesn't seem possible.
+
+7
+00:01:32,062 --> 00:01:34,219
+Yes mam, I understand.
+That's why we sent it.
+
+8
+00:01:34,826 --> 00:01:37,376
+- Report.
+- Still out of visual range. 20 seconds.
+
+9
+00:01:37,469 --> 00:01:41,744
+Alert captain Robau that Starfleet advised to
+proceed with caution ...
+
+10
+00:01:41,779 --> 00:01:43,180
+Polarize the view screen.
+
+11
+00:01:43,197 --> 00:01:45,847
+- Whatever this is... Klingon origin?
+- Captain, we have visual.
+
+12
+00:01:45,848 --> 00:01:49,087
+- Repeat. Could this be Klingon?
+- Negative, lieutenant.
+
+13
+00:01:49,123 --> 00:01:50,994
+You're 75 000 kilometers
+from the Klingon border.
+
+14
+00:01:50,995 --> 00:01:53,379
+Captain, are you seeing this?
+
+15
+00:01:55,379 --> 00:01:57,349
+My God.
+
+16
+00:02:17,599 --> 00:02:19,843
+I have a reading.
+They've locked weapons on us!
+
+17
+00:02:19,872 --> 00:02:20,991
+Red alert!
+
+18
+00:02:20,992 --> 00:02:23,665
+Torpedo locked on us at 320°- 2!
+Arm weapons!
+
+19
+00:02:26,539 --> 00:02:28,039
+Evasive pattern delta 5!
+
+20
+00:02:30,034 --> 00:02:31,473
+We're being cut like grass.
+
+21
+00:02:37,266 --> 00:02:40,186
+Fire all phasers!
+Damage report.
+
+22
+00:02:40,238 --> 00:02:43,114
+Warp drive's been knocked out.
+Never seen anything like this.
+
+23
+00:02:44,319 --> 00:02:46,600
+Weapons offline.
+Main power at 38%.
+
+24
+00:02:46,601 --> 00:02:48,805
+- They're firing another!
+- All power to forward shields!
+
+25
+00:02:57,587 --> 00:02:59,483
+Help me ...
+
+26
+00:03:03,436 --> 00:03:05,808
+... maneuver has been lost.
+
+27
+00:03:05,809 --> 00:03:06,813
+Are shields even on?
+
+28
+00:03:06,814 --> 00:03:08,806
+... decks 17 and 13, we have
+confirmed casualties.
+
+29
+00:03:08,807 --> 00:03:11,502
+11% and dropping. 10%.
+Shields at 9%.
+
+30
+00:03:11,503 --> 00:03:13,577
+All remaining power to forward shields.
+
+31
+00:03:13,657 --> 00:03:15,377
+Prepare shuttles for evacuation.
+
+32
+00:03:17,878 --> 00:03:20,142
+Hello.
+
+33
+00:03:20,143 --> 00:03:22,794
+My commander requests the presence of
+your captain
+
+34
+00:03:22,795 --> 00:03:25,382
+in order to negotiate a ceasefire.
+
+35
+00:03:25,414 --> 00:03:30,964
+You will come aboard our ship via shuttlecraft.
+Your refusal would be unwise.
+
+36
+00:03:43,899 --> 00:03:46,406
+Walk with me.
+
+37
+00:03:51,337 --> 00:03:54,600
+If I don't report in 15 minutes
+evacuate the crew.
+
+38
+00:03:54,669 --> 00:03:57,471
+- Sir, we could ...
+- There is no outpost out here.
+
+39
+00:03:57,563 --> 00:04:01,277
+Use autopilot and get off this ship.
+
+40
+00:04:01,312 --> 00:04:02,766
+Aye captain.
+
+41
+00:04:02,779 --> 00:04:05,155
+You're captain now, Mr. Kirk.
+
+42
+00:05:18,331 --> 00:05:21,025
+His heart rate is elevated.
+
+43
+00:05:42,651 --> 00:05:44,586
+Look at the ship.
+
+44
+00:05:45,865 --> 00:05:49,707
+- Are you familiar with this craft?
+- Who is your commander?
+
+45
+00:05:50,791 --> 00:05:53,851
+- Is that him?
+- I will speak for captain Nero.
+
+46
+00:05:53,886 --> 00:05:59,804
+Then ask captain Nero:
+What gives him the right to attack a Federation vessel.
+
+47
+00:06:12,226 --> 00:06:16,007
+Do you know the location of
+ambassador Spock?
+
+48
+00:06:18,340 --> 00:06:21,249
+I'm unfamiliar with
+ambassador Spock.
+
+49
+00:06:22,686 --> 00:06:25,886
+- What is the current star date?
+- Star date?
+
+50
+00:06:27,674 --> 00:06:30,173
+2233.04.
+
+51
+00:06:32,231 --> 00:06:33,818
+Where are you from?
+
+52
+00:06:39,875 --> 00:06:41,446
+Terminated.
+
+53
+00:06:41,508 --> 00:06:43,371
+- Sir, they have a lock on our signal.
+- They're launching again.
+
+54
+00:06:43,372 --> 00:06:45,122
+Bravo 6 maneuver fire, full spread!
+
+55
+00:06:56,240 --> 00:06:59,234
+I'm initiating general order 13, we're evacuating!
+
+56
+00:06:59,235 --> 00:07:00,238
+Sir.
+
+57
+00:07:04,902 --> 00:07:08,100
+All decks, this is the captain speaking,
+evacuate the ship immediately.
+
+58
+00:07:08,101 --> 00:07:10,389
+Get your ... to the shuttlecraft.
+Begin evacuating ...
+
+59
+00:07:10,390 --> 00:07:14,027
+- That's George's voice. What's happening?
+- We'll deliver it in the shuttle. Go!
+
+60
+00:07:26,917 --> 00:07:28,486
+- George.
+- You're OK, thank God.
+
+61
+00:07:28,487 --> 00:07:31,768
+I have medical shuttle 37 standing by.
+Get to it now. Can you do that?
+
+62
+00:07:31,769 --> 00:07:33,413
+- Yes.
+- Everything's gonna be OK.
+
+63
+00:07:33,414 --> 00:07:38,483
+- Do exactly as I say, shuttle 37.
+- George, it's coming.
+
+64
+00:07:39,114 --> 00:07:41,610
+- Our baby. It's coming now.
+- I'm on my way.
+
+65
+00:07:47,201 --> 00:07:51,748
+Autopilot function has been destroyed.
+Manual operation only.
+
+66
+00:07:52,732 --> 00:07:55,618
+Clear those decks now! Get to the shuttles!
+Move! Move! Move!
+
+67
+00:08:00,013 --> 00:08:02,834
+- That was a big one!
+- Just keep breathing. You'll be fine.
+
+68
+00:08:02,835 --> 00:08:05,915
+- And the baby too, right?
+- And the baby too.
+
+69
+00:08:11,015 --> 00:08:13,372
+Right here.
+
+70
+00:08:17,481 --> 00:08:20,223
+Captain to shuttle 37.
+Is my wife on board?
+
+71
+00:08:20,224 --> 00:08:22,827
+- Yes sir, she is.
+- I need you to go now. Do you hear me?
+
+72
+00:08:22,863 --> 00:08:25,732
+- We're waiting on you sir.
+- No, just go, take off immediately.
+
+73
+00:08:26,092 --> 00:08:27,833
+- That's an order.
+- Yes sir.
+
+74
+00:08:27,834 --> 00:08:30,017
+Wait. We're not going yet.
+
+75
+00:08:32,548 --> 00:08:35,014
+Please stop.
+
+76
+00:08:36,552 --> 00:08:39,955
+George, the shuttle's leaving. Where are you?
+
+77
+00:08:40,224 --> 00:08:43,914
+Sweetheart, listen to me.
+I'm not gonna be there.
+
+78
+00:08:44,442 --> 00:08:46,534
+- No.
+- This is the only way you'll survive.
+
+79
+00:08:46,535 --> 00:08:49,400
+Please don't stay on the ship. Come to me here.
+
+80
+00:08:49,401 --> 00:08:51,659
+The shuttles will never make it if I don't
+fight them off.
+
+81
+00:08:51,660 --> 00:08:54,682
+George, I can't do this without you.
+
+82
+00:08:54,683 --> 00:08:57,108
+OK, I need you to push now!
+
+83
+00:09:36,222 --> 00:09:38,626
+SYSTEMS FAILING
+
+84
+00:09:43,436 --> 00:09:45,305
+COLLISION COURSE
+ENGAGED
+
+85
+00:10:14,790 --> 00:10:16,750
+- What is it?
+- It's a boy.
+
+86
+00:10:16,751 --> 00:10:17,755
+A boy?
+
+87
+00:10:19,309 --> 00:10:23,923
+- Tell me about him.
+- He's beautiful.
+
+88
+00:10:25,580 --> 00:10:28,127
+George, you should be here.
+
+89
+00:10:28,629 --> 00:10:31,055
+Impact alert.
+
+90
+00:10:32,358 --> 00:10:36,074
+- What are we gonna call him?
+- We can name him after your father.
+
+91
+00:10:36,075 --> 00:10:39,457
+Tiberius, you kiddin' me?
+No, that's the worst.
+
+92
+00:10:41,373 --> 00:10:44,136
+Let's name him after your dad.
+Let's call him Jim.
+
+93
+00:10:46,450 --> 00:10:50,057
+Jim. OK. Jim it is.
+
+94
+00:10:54,535 --> 00:10:56,726
+- Sweetheart can you hear me?
+- I can hear...
+
+95
+00:10:56,727 --> 00:10:58,385
+I love you so much.
+
+96
+00:10:59,916 --> 00:11:01,106
+I love you!
+
+97
+00:11:43,365 --> 00:11:54,432
+STAR TREK
+
+98
+00:12:19,310 --> 00:12:21,841
+Hey, are you out of your mind?
+That car is an antique.
+
+99
+00:12:21,842 --> 00:12:24,113
+You think you can get away with this
+just because your mother's off planet.
+
+100
+00:12:24,114 --> 00:12:30,488
+You get your ass back home now! You live in my
+house buddy. You live in my house and that's my car.
+
+101
+00:12:30,489 --> 00:12:33,985
+You get one scratch on that car
+and I'm gonna whip your ass ...
+
+102
+00:12:57,378 --> 00:13:00,110
+Hey Johnny!
+
+103
+00:13:19,271 --> 00:13:21,754
+Citizen, pull over.
+
+104
+00:13:48,211 --> 00:13:49,678
+Noooo...!
+
+105
+00:14:15,480 --> 00:14:17,417
+Is there a problem officer?
+
+106
+00:14:18,092 --> 00:14:20,396
+Citizen, what is your name?
+
+107
+00:14:20,954 --> 00:14:23,914
+My name is James Tiberius Kirk.
+
+108
+00:14:42,023 --> 00:14:46,471
+- What is the formula for the volume of a sphere?
+- 4/3 PI times the radius cubed ...
+
+109
+00:14:47,339 --> 00:14:48,823
+1.26 ...
+
+110
+00:14:58,941 --> 00:15:03,029
+- What is the dimensionality ...
+- Dimensionality equals the logarithm of n divided by ...
+
+111
+00:15:03,050 --> 00:15:05,038
+... non-excludability and non-rivalry ...
+
+112
+00:15:05,039 --> 00:15:07,090
+... 4/3 PI times the radius ...
+
+113
+00:15:07,091 --> 00:15:09,921
+... is morally praiseworthy
+but not morally obligatory.
+
+114
+00:15:13,609 --> 00:15:15,181
+Spock.
+
+115
+00:15:16,777 --> 00:15:20,116
+I presume you've prepared new insults for today?
+
+116
+00:15:20,155 --> 00:15:22,465
+Affirmative.
+
+117
+00:15:29,811 --> 00:15:33,708
+This is your 35th attempt to illicit an emotional
+response from me.
+
+118
+00:15:33,708 --> 00:15:36,450
+You're neither Human nor Vulcan and
+therefore have no place in this universe.
+
+119
+00:15:36,451 --> 00:15:39,629
+Look, his Human eyes.
+They look sad. Don't they.
+
+120
+00:15:39,664 --> 00:15:42,916
+Perhaps an emotional response
+requires physical stimulae.
+
+121
+00:15:44,858 --> 00:15:46,987
+He's a traitor you know? Your father.
+
+122
+00:15:46,988 --> 00:15:49,770
+For marrying her. That Human whore.
+
+123
+00:16:18,649 --> 00:16:21,207
+They called you a traitor.
+
+124
+00:16:25,454 --> 00:16:28,339
+Emotions run deep within our race.
+
+125
+00:16:28,340 --> 00:16:30,913
+In many ways more deeply than in humans.
+
+126
+00:16:30,914 --> 00:16:34,807
+Logic offers a serenity humans
+seldom experience.
+
+127
+00:16:35,546 --> 00:16:40,280
+The control of feelings ...
+so that they do not control you.
+
+128
+00:16:43,327 --> 00:16:47,010
+You suggest that I should be completely Vulcan?
+
+129
+00:16:47,011 --> 00:16:49,234
+And yet you married a Human.
+
+130
+00:16:49,235 --> 00:16:51,403
+As ambassador to Earth it is my duty to
+observe
+
+131
+00:16:51,404 --> 00:16:54,338
+and understand Human behavior.
+
+132
+00:16:54,877 --> 00:16:59,290
+Marrying your mother was ... logical.
+
+133
+00:17:01,492 --> 00:17:03,242
+Spock.
+
+134
+00:17:03,243 --> 00:17:07,252
+You are fully capable of deciding
+your own destiny.
+
+135
+00:17:08,156 --> 00:17:13,758
+The question you face is:
+Which path will you choose?
+
+136
+00:17:14,230 --> 00:17:17,380
+This is something only you can decide.
+
+137
+00:17:22,675 --> 00:17:25,654
+Spock. Come here, let me see you.
+
+138
+00:17:27,517 --> 00:17:30,173
+- No.
+- Spock.
+
+139
+00:17:37,865 --> 00:17:42,183
+There's no need to be anxious.
+You'll do fine.
+
+140
+00:17:42,184 --> 00:17:44,431
+I am hardly anxious, mother.
+
+141
+00:17:44,532 --> 00:17:47,795
+And fine has variable definitions,
+fine is unacceptable.
+- OK.
+
+142
+00:17:58,156 --> 00:18:01,668
+- May I ask a personal query?
+- Anything.
+
+143
+00:18:04,107 --> 00:18:07,261
+Should I choose to complete the Vulcan
+discipline of Kolinahr.
+
+144
+00:18:08,255 --> 00:18:12,136
+and purge all emotion?
+
+145
+00:18:12,137 --> 00:18:16,079
+I trust you will not feel it reflects
+judgment upon you.
+
+146
+00:18:18,467 --> 00:18:21,000
+Oh Spock.
+
+147
+00:18:22,154 --> 00:18:28,883
+As always, whatever you choose to be,
+you will have a proud mother.
+
+148
+00:18:33,731 --> 00:18:37,249
+You have surpassed the expectations of
+your instructors.
+
+149
+00:18:37,617 --> 00:18:41,730
+Your final record is flawless.
+With one exception.
+
+150
+00:18:41,732 --> 00:18:45,129
+I see that you have applied to
+Starfleet as well.
+
+151
+00:18:45,668 --> 00:18:48,373
+It was logical to cultivate more options.
+
+152
+00:18:48,374 --> 00:18:53,270
+Logical, but unnecessary. You are hereby
+accepted to the Vulcan Science Academy.
+
+153
+00:18:53,271 --> 00:18:56,713
+It is truly remarkable Spock that you have
+achieved so much
+
+154
+00:18:56,714 --> 00:18:59,050
+despite your disadvantage.
+
+155
+00:18:59,051 --> 00:19:01,696
+All rise.
+
+156
+00:19:04,114 --> 00:19:09,459
+If you would clarify, minister? To what
+disadvantage are you referring?
+
+157
+00:19:09,754 --> 00:19:11,972
+Your Human mother.
+
+158
+00:19:16,242 --> 00:19:19,271
+Council, ministers, I must decline.
+
+159
+00:19:19,272 --> 00:19:21,961
+No Vulcan has ever declined
+admission to this Academy.
+
+160
+00:19:21,962 --> 00:19:24,828
+But as I am half-human, your
+record remains untarnished.
+
+161
+00:19:24,829 --> 00:19:28,605
+Spock, you have made a commitment
+to honor the Vulcan way.
+
+162
+00:19:28,606 --> 00:19:30,747
+Why did you come before this
+council today?
+
+163
+00:19:30,748 --> 00:19:33,582
+Was it to satisfy your emotional need
+to rebel?
+
+164
+00:19:33,583 --> 00:19:36,415
+The only emotion I wish to convey
+is gratitude.
+
+165
+00:19:37,660 --> 00:19:41,796
+Thank you, ministers,
+for your consideration.
+
+166
+00:19:43,286 --> 00:19:45,513
+Live long and prosper.
+
+167
+00:20:08,645 --> 00:20:09,658
+- Hi.
+- Hey there.
+
+168
+00:20:14,129 --> 00:20:18,887
+Hi. I'd like a Clabmin fire tea ...
+3 Budweiser Classics,
+
+169
+00:20:18,888 --> 00:20:22,239
+2 Cardassian sunrises and ...
+
+170
+00:20:22,309 --> 00:20:24,840
+- Try the Slusho, it's good.
+- A Slusho mix, thank you.
+
+171
+00:20:25,350 --> 00:20:27,771
+That's a lot of drinks for a woman.
+
+172
+00:20:29,439 --> 00:20:32,080
+- And a shot of Jack, straight up.
+- Make that two. Her shot's on me.
+
+173
+00:20:32,081 --> 00:20:34,495
+Her shot's on her.
+Thanks, but no thanks.
+
+174
+00:20:34,496 --> 00:20:37,740
+Don't you at least wanna know my name
+before you completely reject me?
+
+175
+00:20:37,741 --> 00:20:39,110
+I'm fine without it.
+
+176
+00:20:39,250 --> 00:20:42,506
+You are fine without it. It's Jim, Jim Kirk.
+
+177
+00:20:45,008 --> 00:20:48,059
+If you don't tell me your name,
+I'm gonna have to make one up.
+
+178
+00:20:48,930 --> 00:20:51,268
+- It's Uhura.
+- Uhura? No way.
+
+179
+00:20:51,269 --> 00:20:53,502
+That's the name I was gonna make
+up for you.
+
+180
+00:20:53,503 --> 00:20:56,260
+- Uhura what?
+- Just Uhura.
+
+181
+00:20:56,261 --> 00:20:59,336
+- They don't have last names in your world?
+- Uhura is my last name.
+
+182
+00:20:59,337 --> 00:21:02,243
+Well then you have ... your first name's Human?
+
+183
+00:21:05,544 --> 00:21:08,625
+- Excuse me buddy. - So, you're a cadet,
+your studying. What's your focus?
+
+184
+00:21:08,626 --> 00:21:11,101
+Xenolinguistics.
+You have no idea what that means.
+
+185
+00:21:11,102 --> 00:21:15,711
+The study of alien languages.
+Morphology, phonology, syntax.
+
+186
+00:21:16,455 --> 00:21:18,486
+Means you've got a talented tongue.
+
+187
+00:21:19,633 --> 00:21:21,371
+I'm impressed.
+
+188
+00:21:21,372 --> 00:21:23,494
+For a moment there, I thought you were just
+a dumb-hair colonial
+
+189
+00:21:23,495 --> 00:21:25,505
+who has sex with farm animals.
+
+190
+00:21:25,506 --> 00:21:28,429
+Well, not only.
+
+191
+00:21:29,711 --> 00:21:31,513
+This townie isn't bothering you, right?
+
+192
+00:21:31,514 --> 00:21:34,517
+Oh, beyond belief.
+But it's nothing I can't handle.
+
+193
+00:21:34,518 --> 00:21:36,638
+You could've handled me.
+That's an invitation.
+
+194
+00:21:37,511 --> 00:21:41,200
+- Hey. You better mind your manners.
+- Oh relax cupcake, it was a joke.
+
+195
+00:21:41,201 --> 00:21:43,938
+Hey farm boy, maybe you can't count.
+
+196
+00:21:43,939 --> 00:21:45,907
+There are 4 of us and 1 of you.
+
+197
+00:21:45,908 --> 00:21:49,296
+So get some more guys and then it'll
+be an even fight.
+
+198
+00:21:52,792 --> 00:21:54,658
+Guys. Stop it.
+
+199
+00:21:56,760 --> 00:21:58,464
+Stop it!
+
+200
+00:22:19,706 --> 00:22:21,001
+Enough!
+
+201
+00:22:28,617 --> 00:22:30,272
+Guys, he's had enough.
+
+202
+00:22:35,161 --> 00:22:37,727
+Outside. All of you.
+
+203
+00:22:38,194 --> 00:22:40,025
+- Now.
+- Yes, sir.
+
+204
+00:22:40,026 --> 00:22:42,199
+- What ...
+- I just bought a drink.
+
+205
+00:22:45,129 --> 00:22:49,136
+- You all right, son?
+- You can whistle really loud, you know that?
+
+206
+00:22:50,311 --> 00:22:53,196
+You know I couldn't believe it when the
+bartender told me who you are.
+
+207
+00:22:53,197 --> 00:22:56,169
+- Who the hell am I, captain Pike?
+- Your father's son.
+
+208
+00:22:59,492 --> 00:23:01,355
+Can I get another one?
+
+209
+00:23:01,356 --> 00:23:03,902
+For my dissertation I was assigned USS Kelvin.
+
+210
+00:23:03,903 --> 00:23:07,729
+Something I admired about your dad, he didn't
+believe in no-win scenarios.
+
+211
+00:23:08,413 --> 00:23:11,616
+- Sure learned his lesson.
+- Well that depends on how you define winning.
+
+212
+00:23:11,617 --> 00:23:13,484
+You're here, aren't you?
+- Thanks.
+
+213
+00:23:13,985 --> 00:23:17,031
+You know that instinct to leap without looking,
+that was his nature too
+
+214
+00:23:17,031 --> 00:23:19,363
+and in my opinion something Starfleet's lost.
+
+215
+00:23:19,364 --> 00:23:21,394
+Why are you talking to me man?
+
+216
+00:23:21,395 --> 00:23:24,335
+Because I looked up your file while
+you were drooling on the floor.
+
+217
+00:23:25,268 --> 00:23:28,053
+Your aptitude tests are off the charts, so
+what is it?
+
+218
+00:23:29,102 --> 00:23:32,096
+You like being the only genius level
+repeat-offender in the mid-west?
+
+219
+00:23:32,097 --> 00:23:33,613
+Maybe I love it.
+
+220
+00:23:33,614 --> 00:23:36,780
+So your dad dies, you can saddle for
+less than an ordinary life.
+
+221
+00:23:37,359 --> 00:23:42,356
+Or do you feel that you were meant for
+something better? Something special?
+
+222
+00:23:45,103 --> 00:23:47,390
+- Enlist in Starfleet.
+- Enlist?
+
+223
+00:23:49,346 --> 00:23:51,651
+You guys must be way down on your
+recruiting quarter for the month.
+
+224
+00:23:51,652 --> 00:23:53,579
+If you're half the man your father was
+Jim,
+
+225
+00:23:53,580 --> 00:23:55,571
+Starfleet could use you.
+
+226
+00:23:56,262 --> 00:23:59,501
+You can be an officer in 4 years,
+you can have your own ship in 8.
+
+227
+00:24:01,485 --> 00:24:04,645
+You understand what the Federation is,
+don't you? It's important,
+
+228
+00:24:04,646 --> 00:24:06,657
+It's a peacekeeping and humanitarian
+armada.
+
+229
+00:24:06,658 --> 00:24:08,804
+We done?
+
+230
+00:24:08,805 --> 00:24:11,075
+I'm done.
+
+231
+00:24:14,588 --> 00:24:18,441
+Riverside shipyard. Shuttle for new
+recruits leaves tomorrow - 08:00.
+
+232
+00:24:22,558 --> 00:24:25,922
+Your father was captain of a starship
+for 12 minutes.
+
+233
+00:24:26,916 --> 00:24:31,723
+He saved 800 lives, including your
+mother's and yours.
+
+234
+00:24:32,894 --> 00:24:35,482
+I dare you to do better.
+
+235
+00:25:59,998 --> 00:26:01,527
+Nice ride man.
+
+236
+00:26:04,984 --> 00:26:06,899
+It's yours.
+
+237
+00:26:07,154 --> 00:26:10,259
+4 years? I'll do it in 3.
+
+238
+00:26:25,516 --> 00:26:28,274
+At ease gentlemen.
+
+239
+00:26:45,781 --> 00:26:48,328
+Never did get that first name.
+
+240
+00:26:48,716 --> 00:26:50,109
+- You need a doctor.
+- I told you people,
+
+241
+00:26:50,110 --> 00:26:52,099
+I don't need a doctor,
+damn it. I am a doctor.
+
+242
+00:26:52,101 --> 00:26:54,727
+- You need to get back to your seat.
+- I had one, in the bathroom with no windows.
+
+243
+00:26:54,728 --> 00:26:58,104
+I suffer from aviofobia. That means fear
+of dying in something that flies.
+
+244
+00:26:58,105 --> 00:27:00,994
+Sir, for your own safety, sit down or
+else I'll make you sit down!
+
+245
+00:27:03,999 --> 00:27:06,741
+- Fine.
+- Thank you.
+
+246
+00:27:07,107 --> 00:27:09,145
+This is captain Pike, we've been cleared
+for takeoff.
+
+247
+00:27:10,398 --> 00:27:12,688
+I may throw up on you.
+
+248
+00:27:12,723 --> 00:27:16,077
+- I think these things are pretty safe.
+- Don't pander with me kid.
+
+249
+00:27:16,078 --> 00:27:19,578
+One tiny crack in the hull and our blood
+boils in 13 seconds.
+
+250
+00:27:19,579 --> 00:27:22,191
+A solar flare might crop up,
+cook us in our seats.
+
+251
+00:27:22,651 --> 00:27:25,512
+And while you’re sitting pretty with a case
+of Andorian shingles,
+
+252
+00:27:25,513 --> 00:27:28,660
+see if you're still so relaxed when your
+eyeballs are bleeding.
+
+253
+00:27:28,925 --> 00:27:32,869
+Space is disease and danger, wrapped
+in darkness and silence.
+
+254
+00:27:32,870 --> 00:27:36,276
+Well I hate to break this to you, but
+Starfleet operates in space.
+
+255
+00:27:36,935 --> 00:27:41,531
+Yeah, well... I've got nowhere else to go, the ex
+wife took the whole damn planet in the divorce.
+
+256
+00:27:42,144 --> 00:27:44,482
+All I've got left is my bones.
+
+257
+00:27:49,671 --> 00:27:54,072
+- Jim Kirk.
+- McCoy. Leonard McCoy.
+
+258
+00:28:13,244 --> 00:28:16,938
+Three years later.
+
+259
+00:28:40,909 --> 00:28:44,353
+Captain Nero. You've been
+requested on the bridge, sir.
+
+260
+00:28:44,354 --> 00:28:46,965
+Ayel says it's time.
+
+261
+00:28:51,600 --> 00:28:54,784
+Sir, we've arrived at the
+coordinates we calculated.
+
+262
+00:28:55,250 --> 00:28:58,227
+There's nothing here. What
+are your orders?
+
+263
+00:28:58,242 --> 00:28:59,950
+We wait.
+
+264
+00:28:59,951 --> 00:29:03,135
+We wait for the one who allowed
+our home to be destroyed.
+
+265
+00:29:03,988 --> 00:29:06,509
+As we've been doing for 25 years.
+
+266
+00:29:07,455 --> 00:29:10,132
+- And once we've killed him?
+- Kill him?
+
+267
+00:29:10,455 --> 00:29:14,316
+I'm not gonna kill him.
+I gonna make him watch.
+
+268
+00:29:28,516 --> 00:29:30,332
+Capture that ship.
+
+269
+00:29:31,398 --> 00:29:33,701
+Welcome back, Spock.
+
+270
+00:29:37,383 --> 00:29:39,844
+- Why are you so happy?
+- I do not know what you're talking about.
+
+271
+00:29:39,845 --> 00:29:42,384
+- No, I don't suppose you do.
+- Hello ladies.
+
+272
+00:29:43,162 --> 00:29:45,000
+- I'm taking the test again.
+- You've got to be kidding.
+
+273
+00:29:45,023 --> 00:29:46,950
+Yeah, tomorrow morning.
+And I want you there.
+
+274
+00:29:46,951 --> 00:29:50,277
+You know I've got better things to do than
+watch you embarrass yourself for the 3rd time.
+
+275
+00:29:50,278 --> 00:29:51,681
+I am a doctor, Jim. I'm busy.
+
+276
+00:29:51,716 --> 00:29:54,085
+Bones, it doesn't bother you that no one’s
+ever passed the test.
+
+277
+00:29:54,086 --> 00:29:56,997
+Jim, it's Kobayashi Maru.
+Nobody passes the test.
+
+278
+00:29:56,998 --> 00:29:59,435
+And no one goes back for seconds,
+let alone thirds.
+
+279
+00:30:00,106 --> 00:30:01,865
+I've gotta study.
+
+280
+00:30:02,395 --> 00:30:04,103
+Study, my ass.
+
+281
+00:30:07,222 --> 00:30:09,737
+Jim, I think I love you.
+
+282
+00:30:10,748 --> 00:30:13,147
+- That is so weird.
+- Lights.
+
+283
+00:30:14,743 --> 00:30:17,225
+- Did you just say that is so weird.
+- Yeah, I did, but I ...
+
+284
+00:30:17,226 --> 00:30:19,065
+You don't love me too?
+
+285
+00:30:19,066 --> 00:30:21,388
+- Oh, no, my roommate.
+- I thought you said she was gone for the night.
+
+286
+00:30:21,389 --> 00:30:23,402
+Obviously she's not. Quick, you've got ...
+just get under the bed.
+
+287
+00:30:23,403 --> 00:30:26,879
+- Under ... ? - Look, just get under
+the bed. She can't see you.
+
+288
+00:30:26,880 --> 00:30:29,710
+- Why not? - Because I promised her
+I'd stop bringing guys back to the dorm.
+
+289
+00:30:29,711 --> 00:30:31,862
+- Well how... How many guys have you ...?
+- Just d... just down.
+
+290
+00:30:34,444 --> 00:30:36,337
+- Hey.
+- Hey. How are you?
+
+291
+00:30:36,338 --> 00:30:38,732
+- Good. - Strangest thing...
+
+292
+00:30:38,733 --> 00:30:40,502
+I was in the long range sensor lab.
+
+293
+00:30:40,503 --> 00:30:42,361
+Yeah, I thought all night...
+
+294
+00:30:42,362 --> 00:30:46,919
+I was tracking solar systems and I picked
+up an emergency transmission.
+
+295
+00:30:46,920 --> 00:30:48,788
+- Really?
+- Yeah.
+
+296
+00:30:48,789 --> 00:30:50,811
+From a Klingon prison planet.
+
+297
+00:30:50,812 --> 00:30:52,043
+- No.
+- Yeah.
+
+298
+00:30:52,078 --> 00:30:54,850
+A Klingon armada was destroyed,
+47 ships.
+
+299
+00:30:54,851 --> 00:30:57,656
+So, you're not going back to the
+lab tonight?
+
+300
+00:31:01,745 --> 00:31:03,588
+- Gaila, who is he?
+- Who's who?
+
+301
+00:31:03,589 --> 00:31:05,616
+The mouth-breather hiding under
+your bed.
+
+302
+00:31:05,995 --> 00:31:08,279
+- You could hear me breathing?
+- You.
+
+303
+00:31:08,280 --> 00:31:10,461
+- Big day tomorrow.
+- You're gonna fail.
+
+304
+00:31:10,462 --> 00:31:12,129
+- Gail, see you around.
+- Get out.
+
+305
+00:31:12,130 --> 00:31:14,541
+- If I pass will you tell me your first name?
+- No. Good night.
+
+306
+00:31:14,543 --> 00:31:18,454
+I think the fact that you picked up
+a transmission is very impress...
+
+307
+00:31:20,195 --> 00:31:23,209
+We're receiving a distress signal from
+the USS Kobayashi Maru.
+
+308
+00:31:23,210 --> 00:31:25,428
+The ship has lost power and is
+stranded.
+
+309
+00:31:25,429 --> 00:31:27,505
+Starfleet command has ordered
+us to rescue them.
+
+310
+00:31:27,506 --> 00:31:32,622
+Starfleet command has ordered
+us to rescue them ... captain.
+
+311
+00:31:33,879 --> 00:31:37,015
+Two Klingon vessels have entered the neutral
+zone and are locking weapons on us.
+
+312
+00:31:37,578 --> 00:31:39,941
+- That's OK.
+- That's OK?
+
+313
+00:31:39,942 --> 00:31:41,693
+Yeah, don't worry about it.
+
+314
+00:31:41,694 --> 00:31:46,102
+- Did he say don't worry about it?
+- Is he not taking the simulation seriously?
+
+315
+00:31:46,103 --> 00:31:49,049
+Three more Klingon war birds decloaking
+and targeting our ship.
+
+316
+00:31:49,049 --> 00:31:51,852
+- I don't suppose this is a problem either?
+- They're firing, captain.
+
+317
+00:31:52,178 --> 00:31:53,953
+Alert medical bay to prepare to receive
+
+318
+00:31:53,954 --> 00:31:55,849
+all crew members from the damaged ship
+
+319
+00:31:56,136 --> 00:32:00,681
+And how do you expect us to rescue them
+when we're surrounded by Klingons, captain?
+
+320
+00:32:00,716 --> 00:32:03,067
+Alert medical.
+
+321
+00:32:04,554 --> 00:32:08,123
+- Our ship is being hit. Shields at 60%.
+- I understand.
+
+322
+00:32:08,125 --> 00:32:10,640
+Should we, I don't know, fight back?
+
+323
+00:32:11,081 --> 00:32:13,522
+- No.
+- Of course not.
+
+324
+00:32:20,414 --> 00:32:22,274
+What is this? What's going on?
+
+325
+00:32:26,322 --> 00:32:28,445
+Hm. Arm photons. Prepare to fire
+on the Klingon war birds.
+
+326
+00:32:28,446 --> 00:32:30,714
+- Yes, sir.
+- Jim, their shields are still up.
+
+327
+00:32:30,715 --> 00:32:32,073
+Are they?
+
+328
+00:32:33,945 --> 00:32:37,714
+- No, they're not.
+- Fire on all enemy ships.
+
+329
+00:32:37,715 --> 00:32:40,287
+One photon each should do
+let's not waste ammunition.
+
+330
+00:32:40,287 --> 00:32:42,402
+Target locked an acquired on all war birds.
+
+331
+00:32:42,712 --> 00:32:44,186
+Firing.
+
+332
+00:32:48,331 --> 00:32:49,683
+All ships destroyed, captain.
+
+333
+00:32:49,684 --> 00:32:51,029
+Begin rescue of the stranded crew.
+
+334
+00:32:51,030 --> 00:32:54,304
+So, we've managed to eliminate all
+enemy ships,
+
+335
+00:32:54,306 --> 00:32:56,250
+no one on board was injured,
+
+336
+00:32:56,251 --> 00:33:01,924
+and the successful rescue of the
+Kobayashi Maru crew is under way.
+
+337
+00:33:06,087 --> 00:33:08,872
+How the hell did that kid beat your test?
+
+338
+00:33:11,621 --> 00:33:14,083
+I do not know.
+
+339
+00:33:14,431 --> 00:33:17,371
+This session has been called to resolve a
+troubling matter.
+
+340
+00:33:17,879 --> 00:33:20,049
+James T. Kirk, step forward.
+
+341
+00:33:21,916 --> 00:33:24,688
+Cadet Kirk, evidence has been submitted
+to this council,
+
+342
+00:33:24,689 --> 00:33:27,612
+suggesting that you violated the
+ethical code of conduct
+
+343
+00:33:27,614 --> 00:33:31,099
+pursuing to regulation 17.43
+of the Starfleet code.
+
+344
+00:33:32,187 --> 00:33:34,487
+Is there anything you care to say
+before we begin, sir?
+
+345
+00:33:36,275 --> 00:33:40,134
+Yes. I believe I have the right
+to face my accuser directly?
+
+346
+00:33:44,321 --> 00:33:45,624
+Step forward please.
+
+347
+00:33:46,497 --> 00:33:50,401
+This is commander Spock. He is one
+of our most distinguished graduates.
+
+348
+00:33:50,734 --> 00:33:54,318
+He's programmed the Kobayashi Maru
+exam for the last 4 years.
+
+349
+00:33:56,441 --> 00:33:57,612
+Commander.
+
+350
+00:33:58,187 --> 00:34:01,188
+Cadet Kirk, you somehow managed to install
+and activate a subroutine
+
+351
+00:34:01,189 --> 00:34:04,066
+in the programming code, thereby changing the
+conditions of the test.
+
+352
+00:34:05,622 --> 00:34:08,733
+- Your point being?
+- In academic vernacular - you cheated.
+
+353
+00:34:10,821 --> 00:34:14,718
+Let me ask you something I think we all
+know the answer to.
+
+354
+00:34:15,476 --> 00:34:19,550
+The test itself is a cheat, isn't it?
+You programmed it to be unwinnable.
+
+355
+00:34:19,905 --> 00:34:22,509
+Your argument precludes the ability
+of a no-win scenario?
+
+356
+00:34:22,510 --> 00:34:24,805
+I don't believe in no-win scenarios.
+
+357
+00:34:24,806 --> 00:34:28,378
+Then not only did you violate the rules, you
+also failed to understand the principle lesson.
+
+358
+00:34:28,379 --> 00:34:29,769
+Please, enlighten me.
+
+359
+00:34:29,770 --> 00:34:34,201
+You of all people should know, cadet
+Kirk, a captain cannot cheat death.
+
+360
+00:34:37,034 --> 00:34:39,808
+- I of all people?
+- Your father,
+
+361
+00:34:40,108 --> 00:34:43,848
+lt. George Kirk assumed command of his vessel
+before being killed in action, did he not?
+
+362
+00:34:43,849 --> 00:34:48,286
+- I don't think you like the fact that I beat your test.
+- Further more you have failed to define the purpose of the test
+
+363
+00:34:48,287 --> 00:34:51,247
+- Enlighten me again.
+- The purpose to experience fear.
+
+364
+00:34:52,472 --> 00:34:55,911
+Fear in the face of certain death.
+To accept that fear
+
+365
+00:34:55,913 --> 00:34:58,473
+and maintain control of oneself
+and one's crew.
+
+366
+00:34:58,919 --> 00:35:01,871
+This is a quality expected in
+every Starfleet captain.
+
+367
+00:35:05,170 --> 00:35:06,382
+Excuse me, sir.
+
+368
+00:35:12,919 --> 00:35:15,193
+We've received a distress
+call from Vulcan.
+
+369
+00:35:15,562 --> 00:35:18,472
+With our primary fleet engaged
+in the Laurentian system,
+
+370
+00:35:18,472 --> 00:35:22,135
+I hereby order all cadets to report
+to hangar 1 immediately.
+
+371
+00:35:22,136 --> 00:35:23,137
+Dismissed.
+
+372
+00:35:29,667 --> 00:35:32,413
+- Who was that pointy-eared bastard?
+- I do not know.
+
+373
+00:35:32,414 --> 00:35:34,408
+But I like him.
+
+374
+00:35:39,754 --> 00:35:41,261
+Bracer, USS Farragut.
+
+375
+00:35:41,423 --> 00:35:44,773
+McCoy, USS Enterprise.
+McGrath, USS Walcott.
+
+376
+00:35:44,774 --> 00:35:46,239
+Spader, USS Hood.
+
+377
+00:35:46,240 --> 00:35:47,961
+Welcome to Starfleet.
+Godspeed.
+
+378
+00:35:50,388 --> 00:35:52,480
+He didn't call my name.
+
+379
+00:35:53,180 --> 00:35:57,822
+Commander, sir, you didn't call
+my name, Kirk, James T.
+
+380
+00:35:58,015 --> 00:36:00,922
+Kirk, you're on academic suspension,
+that means you're grounded
+
+381
+00:36:01,357 --> 00:36:03,164
+until the academy board rules.
+
+382
+00:36:06,227 --> 00:36:08,732
+Jim, the board will rule in your favor.
+
+383
+00:36:09,067 --> 00:36:10,745
+Most likely.
+
+384
+00:36:12,258 --> 00:36:14,667
+Look Jim, I've gotta go.
+
+385
+00:36:15,259 --> 00:36:17,739
+Yeah. Yeah, go. Be safe.
+
+386
+00:36:25,602 --> 00:36:27,785
+- Excuse me.
+- Yeah. Yeah. Sorry.
+
+387
+00:36:32,543 --> 00:36:34,022
+Damn it.
+
+388
+00:36:36,295 --> 00:36:37,989
+Come with me.
+
+389
+00:36:37,990 --> 00:36:41,561
+Uhura, USS Farragut.
+Petrovsky, USS Antares.
+
+390
+00:36:41,562 --> 00:36:43,617
+Go to your stations and good luck.
+
+391
+00:36:47,125 --> 00:36:50,296
+- Bones, where are we going?
+- You'll see.
+
+392
+00:36:52,023 --> 00:36:53,675
+- Commander, a word?
+- Yes, lieutenant?
+
+393
+00:36:53,676 --> 00:36:55,986
+- Was I not one of your top students?
+- Indeed you were.
+
+394
+00:36:56,021 --> 00:37:00,276
+And did I not on multiple occasions
+demonstrate an exceptional oral sensitivity
+
+395
+00:37:00,277 --> 00:37:03,976
+and I quote "an unparalleled ability
+to identify sonic anomalies
+
+396
+00:37:03,977 --> 00:37:05,754
+in subspace transmission tests"?
+
+397
+00:37:05,755 --> 00:37:07,341
+Consistently, yes.
+
+398
+00:37:07,342 --> 00:37:10,841
+And while you were well aware that I'm qualified
+and desire to serve on the USS Enterprise,
+
+399
+00:37:10,842 --> 00:37:12,829
+I'm assigned to the Farragut?
+
+400
+00:37:12,830 --> 00:37:16,019
+It was an attempt to avoid
+the appearance of favoritism.
+
+401
+00:37:16,020 --> 00:37:18,189
+No. I'm assigned to the Enterprise.
+
+402
+00:37:22,418 --> 00:37:24,453
+- Yes, I believe you are.
+- Thank you.
+
+403
+00:37:25,696 --> 00:37:27,946
+- What are you doing?
+- I'm doing you a favor.
+
+404
+00:37:27,947 --> 00:37:30,877
+I couldn’t just leave you there
+looking all pathetic. Take a seat.
+
+405
+00:37:30,970 --> 00:37:32,854
+Let me give you a vaccine
+against viral infection
+
+406
+00:37:32,855 --> 00:37:34,473
+from the Ovaran mud flies.
+
+407
+00:37:36,151 --> 00:37:38,060
+- What for?
+- To give you the symptoms.
+
+408
+00:37:38,359 --> 00:37:41,322
+- What are you talking about? - You're
+gonna start to lose vision in your left eye.
+
+409
+00:37:41,323 --> 00:37:42,820
+Yeah, I already have.
+
+410
+00:37:42,821 --> 00:37:45,464
+Oh, and you're gonna get a really bad
+headache and flop sweat.
+
+411
+00:37:45,763 --> 00:37:48,411
+- You call this a favor?
+- Yeah, you owe me one.
+
+412
+00:37:50,276 --> 00:37:54,866
+Kirk, James T. He is not cleared
+for duty aboard the Enterprise.
+
+413
+00:37:54,979 --> 00:37:57,901
+Medical code states the treatment and
+transport of a patient is to be determined
+
+414
+00:37:57,902 --> 00:38:00,791
+at the discretion of his attending physician.
+
+415
+00:38:00,792 --> 00:38:03,609
+Which is me. S I'm taking Mr. Kirk aboard.
+
+416
+00:38:03,610 --> 00:38:06,230
+Or you would you like to explain to
+captain Pike
+
+417
+00:38:06,231 --> 00:38:10,388
+why Enterprise warped into a crisis
+without one of its senior medical officers?
+
+418
+00:38:11,371 --> 00:38:13,917
+- As you were.
+- As you were. Come on.
+
+419
+00:38:32,350 --> 00:38:33,564
+I might throw up on you.
+
+420
+00:38:34,319 --> 00:38:36,436
+Jim, you've gotta look at this.
+
+421
+00:38:36,822 --> 00:38:39,043
+- Jim, look.
+- What?
+
+422
+00:39:36,060 --> 00:39:37,943
+We need to get you changed.
+
+423
+00:39:38,163 --> 00:39:40,163
+I don't feel right. I feel like I'm leaking.
+
+424
+00:39:40,164 --> 00:39:42,312
+Damn, it's that pointy-eared bastard.
+
+425
+00:40:00,040 --> 00:40:02,389
+- Mr. Spock.
+- Captain.
+
+426
+00:40:02,813 --> 00:40:05,710
+- Engineering reports ready for launch.
+- Thank you.
+
+427
+00:40:05,711 --> 00:40:08,271
+Ladies and gentlemen, the maiden
+voyage of our newest flagship
+
+428
+00:40:08,272 --> 00:40:11,046
+deserves more pompon circumstance
+that we can afford today.
+
+429
+00:40:11,798 --> 00:40:14,518
+The christening will just have to
+be our reward for a safe return.
+
+430
+00:40:15,124 --> 00:40:16,177
+Carry on.
+
+431
+00:40:16,616 --> 00:40:18,972
+All decks, this is Captain Pike.
+Prepare for immediate departure.
+
+432
+00:40:18,973 --> 00:40:20,355
+Helm, thrusters.
+
+433
+00:40:20,356 --> 00:40:22,803
+??? retracted, captain, dock
+control reports ready.
+
+434
+00:40:22,837 --> 00:40:25,488
+Thrusters fired.
+Separating from space dock.
+
+435
+00:40:34,843 --> 00:40:37,745
+The fleet's cleared space dock, captain.
+All ships ready for warp.
+
+436
+00:40:38,120 --> 00:40:40,283
+- Set course for Vulcan.
+- Aye-aye, captain.
+
+437
+00:40:41,433 --> 00:40:43,020
+Course laid in.
+
+438
+00:40:43,644 --> 00:40:45,844
+Maximum warp. Punch it.
+
+439
+00:41:03,018 --> 00:41:06,048
+- Lieutenant, where's helmsmen McKenna?
+- He has lung worms sir.
+
+440
+00:41:06,049 --> 00:41:07,957
+He couldn't report to his post.
+
+441
+00:41:07,958 --> 00:41:11,163
+- I'm Hikaru Sulu.
+- And you are a pilot, right?
+
+442
+00:41:11,704 --> 00:41:16,174
+Very much so, sir. I'm ...
+I'm not sure what's wrong here.
+
+443
+00:41:16,175 --> 00:41:18,034
+Is the parking brake on?
+
+444
+00:41:18,452 --> 00:41:19,585
+No.
+
+445
+00:41:19,586 --> 00:41:20,568
+I figured it out, I'm just...
+
+446
+00:41:20,569 --> 00:41:22,833
+Have you disengaged the external
+inertial dampener?
+
+447
+00:41:27,913 --> 00:41:30,253
+- Ready for warp, sir.
+- Let's punch it.
+
+448
+00:41:37,575 --> 00:41:39,236
+- Where are we?
+- Medical bay.
+
+449
+00:41:39,237 --> 00:41:41,329
+- This isn't worth it.
+- A little suffering's good for the soul.
+
+450
+00:41:41,329 --> 00:41:42,329
+Hi, how are you?
+
+451
+00:41:43,098 --> 00:41:46,650
+- My mouth is itchy. Is that normal?
+- Well, those symptoms won't last long.
+
+452
+00:41:46,651 --> 00:41:49,804
+- I'm going to give you a mild sedative.
+- Oh, I wish I didn't know you.
+
+453
+00:41:49,805 --> 00:41:50,806
+Don't be such an infant.
+
+454
+00:41:53,093 --> 00:41:54,766
+How long is it supposed to...
+
+455
+00:41:55,217 --> 00:41:56,825
+Unbelievable.
+
+456
+00:41:58,105 --> 00:41:59,359
+Engines at maximum warp captain.
+
+457
+00:41:59,360 --> 00:42:01,631
+Russian whiz kid, what's your name?
+Cheikov? Chirpov?
+
+458
+00:42:01,809 --> 00:42:04,978
+- Ensign Chekov, Pavel Andrejevic, sir.
+- Fine.
+
+459
+00:42:05,012 --> 00:42:07,767
+Chekov, Pavel Andrejevic,
+begin ship wide mission broadcast.
+
+460
+00:42:08,026 --> 00:42:09,774
+Yes, sir. Happy to.
+
+461
+00:42:10,472 --> 00:42:14,367
+Ensign authorization code
+95 Wictor Wictor 2.
+
+462
+00:42:14,367 --> 00:42:16,457
+Authorization not recognized.
+
+463
+00:42:16,458 --> 00:42:22,930
+Ensign authorization code
+95 Victor Victor 2.
+
+464
+00:42:23,367 --> 00:42:25,466
+Access granted.
+
+465
+00:42:25,467 --> 00:42:27,974
+May I have your attention please.
+
+466
+00:42:28,463 --> 00:42:33,993
+At 22:00, telemetry detected an anomaly
+in the neutral zone.
+
+467
+00:42:33,994 --> 00:42:37,755
+What appeared to be a lightning
+storm in space.
+
+468
+00:42:37,756 --> 00:42:42,650
+Soon after, Starfleet received a distress
+signal from the Vulcan high command
+
+469
+00:42:42,651 --> 00:42:46,537
+that their planet was experiencing
+seismic activity.
+
+470
+00:42:46,538 --> 00:42:50,481
+Our mission is to assess the
+condition of Vulcan
+
+471
+00:42:50,482 --> 00:42:54,022
+and assist in evacuations
+if necessary.
+
+472
+00:42:54,402 --> 00:42:59,303
+We should be arriving at Vulcan within
+3 minutes. Thank you for your time.
+
+473
+00:43:00,743 --> 00:43:02,638
+Lightning storm.
+
+474
+00:43:02,639 --> 00:43:05,425
+Aah Jim, you're awake. How do you feel?
+
+475
+00:43:06,745 --> 00:43:09,005
+- Good God, man!
+- What? Aah!
+
+476
+00:43:11,159 --> 00:43:14,223
+- What the hell's this?
+- A reaction to the vaccine. Damn it.
+
+477
+00:43:14,493 --> 00:43:17,049
+Nurse Chapel, I need 50cc
+of cortisone.
+
+478
+00:43:17,050 --> 00:43:18,051
+Yes, sir.
+
+479
+00:43:20,677 --> 00:43:23,924
+May I ... Appeared to be
+a lightning storm in space.
+
+480
+00:43:25,065 --> 00:43:26,456
+We've gotta stop the ship.
+
+481
+00:43:26,457 --> 00:43:28,979
+Jim. I'm not kidding. You need
+to keep your heart rate down.
+
+482
+00:43:30,268 --> 00:43:31,932
+Computer, locate crew member Uhura.
+
+483
+00:43:31,933 --> 00:43:34,211
+I haven't seen a reaction this
+severe since medical school.
+
+484
+00:43:34,212 --> 00:43:37,194
+- We're flying into a trap!
+- Damn it, Jim! Stand still.
+
+485
+00:43:38,780 --> 00:43:40,421
+Stop it!
+
+486
+00:43:48,886 --> 00:43:51,223
+- Uhura.
+- Kirk. What are you doing here?
+
+487
+00:43:51,224 --> 00:43:53,376
+Transmission from the Klingon prison
+planet, what exactly did it say?
+
+488
+00:43:53,377 --> 00:43:57,654
+- Oh my God, what's wrong with your hands?
+- Who is responsible for the Klingon attack?
+
+489
+00:43:57,688 --> 00:43:59,563
+- Was the ship Romu...?
+- Was the ship what?
+
+490
+00:44:00,246 --> 00:44:02,172
+- What's happening to my mouth?
+- You got numb tongue?
+
+491
+00:44:02,173 --> 00:44:04,395
+- Numb tongue?!
+- I can fix that.
+
+492
+00:44:04,396 --> 00:44:07,977
+- Was the ship what?
+- Romulan.
+
+493
+00:44:07,978 --> 00:44:09,425
+- What?
+- Romulan.
+
+494
+00:44:09,426 --> 00:44:10,426
+- Romulan? - Yeah.
+- Yes. - Yeah!
+
+495
+00:44:45,566 --> 00:44:49,090
+Prod Nero seven Federation
+ships are on their way.
+
+496
+00:44:51,223 --> 00:44:52,426
+- Jim!
+- What's going on?
+
+497
+00:44:52,427 --> 00:44:54,205
+- Jim, come back.
+- Captain!
+
+498
+00:44:54,540 --> 00:44:56,130
+Captain Pike, sir, we have to stop the ship.
+
+499
+00:44:56,131 --> 00:44:58,667
+Kirk, how the hell did you get
+on board the Enterprise?
+
+500
+00:44:58,668 --> 00:45:01,979
+- Captain, this man is under the influence of a
+severe reaction to a vaccine. - Bones, plea...
+
+501
+00:45:02,013 --> 00:45:03,162
+... He's completely delusional ...
+
+502
+00:45:03,163 --> 00:45:06,775
+Vulcan is not a experiencing a natural disaster,
+it's being attacked by Romulans.
+
+503
+00:45:06,776 --> 00:45:10,102
+Romulans? Cadet Kirk, I think you've
+had enough attention for one day
+
+504
+00:45:10,103 --> 00:45:12,716
+McCoy, take him back to medical.
+We'll have words later.
+
+505
+00:45:12,717 --> 00:45:14,546
+- Aye captain.
+- Sir, that same anomaly ...
+
+506
+00:45:14,547 --> 00:45:16,608
+Mr. Kirk is not cleared to be
+aboard this vessel, captain...
+
+507
+00:45:16,643 --> 00:45:17,974
+Look, I get it, you're a great ...
+
+508
+00:45:17,975 --> 00:45:19,602
+I'd love to do it again with you soon ...
+
+509
+00:45:19,637 --> 00:45:21,193
+- I can remove the cadet ...
+- Try it!
+
+510
+00:45:21,194 --> 00:45:22,871
+This cadet is trying to save the bridge!
+
+511
+00:45:22,872 --> 00:45:25,822
+By recommending a full stop mid-warp
+doing a rescue mission?
+
+512
+00:45:25,823 --> 00:45:27,588
+It's not a rescue mission.
+Listen to me. It's an attack.
+
+513
+00:45:27,589 --> 00:45:29,772
+Based on what facts?
+
+514
+00:45:31,239 --> 00:45:34,301
+That same anomaly,
+a lightning storm in space
+
+515
+00:45:34,302 --> 00:45:36,320
+that we saw today, also occurred
+on the day of my birth.
+
+516
+00:45:36,321 --> 00:45:39,297
+Before a Romulan ship attacked
+the USS Kelvin.
+
+517
+00:45:39,298 --> 00:45:41,494
+You know that, sir.
+I've read your dissertation.
+
+518
+00:45:41,495 --> 00:45:44,064
+That ship, which had formidable and
+advanced weaponry
+
+519
+00:45:44,065 --> 00:45:45,895
+was never seen or heard from again.
+
+520
+00:45:45,896 --> 00:45:47,967
+The Kelvin attacked a place on
+the edge of Klingon space.
+
+521
+00:45:47,968 --> 00:45:50,676
+And at 23:00 last night
+there was an attack.
+
+522
+00:45:50,677 --> 00:45:54,535
+47 Klingon war birds destroyed
+by Romulans, sir.
+
+523
+00:45:54,570 --> 00:45:57,728
+And it was reported that the Romulans
+were in one ship, one massive ship.
+
+524
+00:45:57,730 --> 00:46:00,274
+And you know of this Klingon attack how?
+
+525
+00:46:02,493 --> 00:46:05,951
+Sir, I intercepted and translated
+the message myself.
+
+526
+00:46:06,550 --> 00:46:09,267
+- Kirk's report is accurate.
+- We're warping into a trap, sir.
+
+527
+00:46:09,268 --> 00:46:11,848
+The Romulans are waiting for us.
+I promise you that.
+
+528
+00:46:13,079 --> 00:46:15,130
+The cadet's logic is sound.
+
+529
+00:46:15,721 --> 00:46:19,698
+And lt. Uhura's is unmatched in xenolinguistics.
+We would be wise to accept her conclusion.
+
+530
+00:46:19,699 --> 00:46:22,753
+Scan Vulcan space. Check for
+any transmissions in Romulan.
+
+531
+00:46:22,754 --> 00:46:25,954
+Sir, I'm not sure I can distinguish the
+Romulan language from Vulcan.
+
+532
+00:46:26,302 --> 00:46:28,286
+What about you?
+Do you speak Romulan, cadet?
+
+533
+00:46:28,287 --> 00:46:29,987
+Uhura. All 3 dialects, sir.
+
+534
+00:46:29,988 --> 00:46:33,214
+- Uhura, relieve the lieutenant.
+- Yes, sir.
+
+535
+00:46:33,237 --> 00:46:34,735
+Hannity, hail the USS Truman.
+
+536
+00:46:34,736 --> 00:46:37,427
+All the other ships are out of warp
+sir and have arrived at Vulcan,
+
+537
+00:46:37,428 --> 00:46:39,634
+but we seem to have lost all contact.
+
+538
+00:46:39,635 --> 00:46:44,248
+Sir, I pick up no Romulan transmission
+or transmission of any kind in the area.
+
+539
+00:46:44,249 --> 00:46:46,670
+It's because they're being attacked.
+
+540
+00:46:50,896 --> 00:46:52,561
+Shields up. Red alert.
+
+541
+00:46:54,890 --> 00:46:57,289
+Arrival at Vulcan
+in 5 seconds.
+
+542
+00:46:57,599 --> 00:47:00,753
+4 ... 3 .... 2 ...
+
+543
+00:47:02,251 --> 00:47:04,326
+- Emergency evasives.
+- Running, sir.
+
+544
+00:47:12,273 --> 00:47:13,914
+- Damage report.
+- Deflector shields are holding.
+
+545
+00:47:13,915 --> 00:47:16,143
+All stations.
+Engineering, Olson, report.
+
+546
+00:47:26,011 --> 00:47:27,866
+Full reverse. Come about starboard, 90°.
+
+547
+00:47:27,866 --> 00:47:29,478
+Drop us down underneath them, Sulu.
+
+548
+00:47:48,612 --> 00:47:51,901
+- Sir, there's another Federation ship.
+- Destroy it too.
+
+549
+00:47:51,902 --> 00:47:52,932
+Fire torpedoes.
+
+550
+00:47:52,933 --> 00:47:54,177
+Captain, they're locking torpedoes.
+
+551
+00:47:54,178 --> 00:47:57,015
+Divert auxiliary power from port
+nossel to forward shields.
+
+552
+00:48:04,466 --> 00:48:07,147
+- Sulu, status report.
+- Shields at 32%.
+
+553
+00:48:07,148 --> 00:48:09,514
+Their weapons are powerful, sir.
+We can't take another hit like that.
+
+554
+00:48:09,515 --> 00:48:11,261
+- Get me Starfleet command.
+- Captain.
+
+555
+00:48:11,262 --> 00:48:14,134
+The Romulan ship has lowered some
+kind of high energy pulse device
+
+556
+00:48:14,135 --> 00:48:15,344
+into the Vulcan atmosphere.
+
+557
+00:48:15,345 --> 00:48:18,243
+It's signal appears to be blocking our
+communications and transporter abilities.
+
+558
+00:48:18,244 --> 00:48:20,453
+All power to forward shields.
+Prepare to fire all weapons.
+
+559
+00:48:25,123 --> 00:48:26,289
+Weapons ready.
+
+560
+00:48:26,748 --> 00:48:27,689
+Wait!
+
+561
+00:48:28,221 --> 00:48:31,092
+- Gohol, magnify!
+- Yes, sir.
+
+562
+00:48:35,726 --> 00:48:37,587
+Captain, we're being hailed.
+
+563
+00:48:38,958 --> 00:48:41,157
+Hello.
+
+564
+00:48:41,992 --> 00:48:44,243
+I am the captain Christopher Pike.
+To whom am I speaking?
+
+565
+00:48:44,919 --> 00:48:46,542
+Hi Christopher. I am Nero.
+
+566
+00:48:47,223 --> 00:48:49,826
+You've declared war against the Federation.
+Withdraw
+
+567
+00:48:49,827 --> 00:48:53,109
+and I'll agree to arrange a conference with
+Romulan leadership at a neutral location.
+
+568
+00:48:53,110 --> 00:48:57,256
+I do not speak for the Empire.
+We stand apart.
+
+569
+00:48:58,680 --> 00:49:02,258
+As does your Vulcan crew member.
+Isn't that right, Spock?
+
+570
+00:49:05,105 --> 00:49:07,847
+Pardon me, I do not believe that
+you and I are acquainted.
+
+571
+00:49:08,130 --> 00:49:09,425
+No, we're not.
+
+572
+00:49:09,701 --> 00:49:11,114
+Not yet.
+
+573
+00:49:11,671 --> 00:49:14,663
+Spock, there's something I
+would like you to see.
+
+574
+00:49:16,325 --> 00:49:20,197
+Captain Pike, your transporter
+has been disabled.
+
+575
+00:49:20,566 --> 00:49:24,085
+As you can see, by the rest of
+the armada, you have no choice.
+
+576
+00:49:24,924 --> 00:49:28,960
+You will man a shuttle. Come aboard
+the Narada for negotiations.
+
+577
+00:49:29,712 --> 00:49:31,543
+That is all.
+
+578
+00:49:40,307 --> 00:49:42,298
+- They’ll kill you, you know that.
+- Your survival is unlikely.
+
+579
+00:49:42,299 --> 00:49:43,909
+Captain, we gain nothing
+by diplomacy.
+
+580
+00:49:43,910 --> 00:49:45,310
+Going over to that ship is a mistake.
+
+581
+00:49:45,319 --> 00:49:48,347
+- I too agree. You should rethink your strategy.
+- I understand that.
+
+582
+00:49:49,502 --> 00:49:52,416
+I need officers who've been trained in
+advanced hand to hand combat.
+
+583
+00:49:52,959 --> 00:49:54,782
+I have training, sir.
+
+584
+00:49:55,448 --> 00:49:57,210
+Come with me.
+
+585
+00:49:57,211 --> 00:49:59,342
+Kirk, you too. You're not supposed
+to be here anyway.
+
+586
+00:49:59,707 --> 00:50:02,300
+- Chekov, you have the con.
+- Aye, Captain.
+
+587
+00:50:23,360 --> 00:50:25,006
+Prepare the red matter.
+
+588
+00:50:26,953 --> 00:50:29,026
+Yes, sir.
+
+589
+00:51:06,599 --> 00:51:08,775
+Without transporters we can't beam off the ship.
+
+590
+00:51:08,776 --> 00:51:10,822
+We can't assist Vulcan.
+We can't do our job.
+
+591
+00:51:11,067 --> 00:51:15,764
+Mr. Kirk, Mr. Sulu and engineer Olson
+will space-jump from the shuttle.
+
+592
+00:51:16,228 --> 00:51:18,988
+You will land on that machine
+they've lowered into the atmosphere
+
+593
+00:51:18,989 --> 00:51:22,181
+that's scrambling our gear. You'll get
+inside, you'll disable it
+
+594
+00:51:22,182 --> 00:51:23,851
+then you'll beam back to the ship.
+
+595
+00:51:23,851 --> 00:51:26,817
+Mr. Spock, I'm leaving you in
+command of the Enterprise.
+
+596
+00:51:27,251 --> 00:51:29,944
+Once we have transport capability
+and communication back up
+
+597
+00:51:29,945 --> 00:51:32,601
+you'll contact Starfleet and report
+what the hell's going on here.
+
+598
+00:51:32,929 --> 00:51:34,941
+And if all else fails, fall back
+
+599
+00:51:34,942 --> 00:51:37,003
+and rendezvous with the fleet
+in the Laurentian system.
+
+600
+00:51:37,004 --> 00:51:38,616
+Kirk, I'm promoting you to first officer.
+
+601
+00:51:38,617 --> 00:51:39,842
+- What?
+- Captain?
+
+602
+00:51:39,843 --> 00:51:43,111
+Please, I apologize. The complexities
+of Human pranks escape me.
+
+603
+00:51:43,112 --> 00:51:45,196
+It's not a prank, Spock.
+
+604
+00:51:45,197 --> 00:51:47,978
+And I am not the captain, you are.
+
+605
+00:51:48,897 --> 00:51:50,357
+Let's go.
+
+606
+00:51:52,865 --> 00:51:55,614
+Sir, after we knock out that drill,
+what happens to you?
+
+607
+00:51:55,615 --> 00:51:56,966
+I guess you have to come and get me.
+
+608
+00:51:57,873 --> 00:52:00,486
+Careful with the ship, Spock.
+She's brand new.
+
+609
+00:52:11,650 --> 00:52:14,207
+- Dr. Puri, report.
+- It's McCoy.
+
+610
+00:52:14,208 --> 00:52:16,903
+Doctor Puri was on deck 6.
+He's dead.
+
+611
+00:52:18,170 --> 00:52:21,075
+Then you have just inherited his
+responsibility as chief medical officer.
+
+612
+00:52:21,075 --> 00:52:23,292
+Yeah, tell me something I don't know.
+
+613
+00:52:27,092 --> 00:52:30,883
+Shuttle 89, USS Enterprise, you are clear ...
+
+614
+00:52:33,158 --> 00:52:34,873
+- You've got the charges, right?
+- Oh yeah.
+
+615
+00:52:35,179 --> 00:52:37,650
+Can't wait to kick some Romulan ass.
+
+616
+00:52:38,169 --> 00:52:40,484
+- Yeah.
+- Oh yeah.
+
+617
+00:52:59,683 --> 00:53:01,539
+So what kind of combat training do you have?
+
+618
+00:53:01,738 --> 00:53:03,799
+Fencing.
+
+619
+00:53:06,294 --> 00:53:07,647
+Pre-jump.
+
+620
+00:53:11,834 --> 00:53:15,329
+Shuttle commander, you are clear
+from USS Enterprise ...
+
+621
+00:53:22,039 --> 00:53:23,914
+Gentlemen, we're approaching the drop zone.
+
+622
+00:53:24,078 --> 00:53:26,915
+You have one shot
+to land on that platform.
+
+623
+00:53:27,072 --> 00:53:29,899
+They may have defenses, so pull your chute
+as late as possible.
+
+624
+00:53:30,431 --> 00:53:33,749
+3 ... 2 ... 1.
+
+625
+00:53:35,082 --> 00:53:38,965
+Remember, the Enterprise won't be able to
+beam you back until you've turned off that drill.
+
+626
+00:53:41,104 --> 00:53:42,386
+Good luck.
+
+627
+00:54:03,702 --> 00:54:06,255
+Away team is entering the atmosphere, sir.
+
+628
+00:54:06,556 --> 00:54:08,170
+20 000 m.
+
+629
+00:54:32,617 --> 00:54:34,966
+Approaching the platform
+at 5 800 m.
+
+630
+00:54:34,967 --> 00:54:38,745
+Kirk to Enterprise.
+Distance to target 5 000 m.
+
+631
+00:54:41,596 --> 00:54:43,598
+4 600 m from the platform.
+
+632
+00:54:43,657 --> 00:54:44,959
+4 100 m to target.
+
+633
+00:54:47,092 --> 00:54:48,431
+4 000 m.
+
+634
+00:54:48,650 --> 00:54:50,954
+3 000 m.
+
+635
+00:54:51,035 --> 00:54:53,370
+2 000 m.
+Pull the chute.
+
+636
+00:54:58,736 --> 00:55:02,390
+- 2 000 m.
+- Pull your chute, Olson.
+
+637
+00:55:02,391 --> 00:55:04,258
+No, not yet. Not yet.
+
+638
+00:55:04,259 --> 00:55:07,140
+- 1 500 m.
+- Open the chute!
+
+639
+00:55:07,742 --> 00:55:10,309
+- Olson, pull your chute!
+- 1 000 m.
+
+640
+00:55:23,172 --> 00:55:24,859
+Olson!
+
+641
+00:55:24,978 --> 00:55:27,258
+Olson is gone, sir.
+
+642
+00:55:47,219 --> 00:55:48,617
+Kirk has landed, sir.
+
+643
+00:57:52,712 --> 00:57:54,087
+Gimme your hand.
+
+644
+00:58:01,495 --> 00:58:03,486
+Olson had the charges.
+
+645
+00:58:04,311 --> 00:58:06,176
+I know.
+
+646
+00:58:07,560 --> 00:58:10,167
+- What do we do?
+- This.
+
+647
+00:58:22,573 --> 00:58:25,933
+The jamming signal's gone. Transport
+abilities are reestablished.
+
+648
+00:58:26,094 --> 00:58:28,065
+Transporter control is reengaged sir.
+
+649
+00:58:28,087 --> 00:58:31,094
+Check all gravitational sensors. I wanna
+know what they were doing to the planet.
+
+650
+00:58:31,095 --> 00:58:33,695
+Aye, Commander. Captain. Sorry, captain.
+
+651
+00:58:38,497 --> 00:58:41,671
+The drill's been sabotaged sir but
+we have reached the planet's core.
+
+652
+00:58:42,013 --> 00:58:44,094
+Launch red matter.
+
+653
+00:58:58,046 --> 00:59:02,892
+Kirk to Enterprise. They just launched something
+at the planet through the hole they just drilled.
+
+654
+00:59:03,209 --> 00:59:05,552
+- Do you copy Enterprise?
+- Yes, sir.
+
+655
+00:59:06,956 --> 00:59:09,865
+Captain, gravitational sensors
+are off the scale.
+
+656
+00:59:09,866 --> 00:59:13,853
+If my calculations are correct,
+they're creating a singularity
+
+657
+00:59:14,734 --> 00:59:17,812
+... that will consume the planet.
+
+658
+00:59:19,684 --> 00:59:22,923
+They're creating a black hole
+at the center of Vulcan?
+
+659
+00:59:23,267 --> 00:59:24,676
+Yes.
+
+660
+00:59:24,677 --> 00:59:26,333
+How long does the planet have?
+
+661
+00:59:27,950 --> 00:59:29,982
+Minutes, sir. Minutes.
+
+662
+00:59:31,198 --> 00:59:33,669
+Alert Vulcan command center to
+signal a planet wide evacuation
+
+663
+00:59:33,670 --> 00:59:35,907
+all channels, all frequencies.
+-Wait. - Maintain standard orbit.
+
+664
+00:59:35,907 --> 00:59:36,908
+Yes, sir.
+
+665
+00:59:36,909 --> 00:59:37,818
+Where are you going?
+
+666
+00:59:37,819 --> 00:59:41,082
+To evacuate the Vulcan High Council.
+Their task is to protect our cultural history,
+
+667
+00:59:41,083 --> 00:59:43,197
+- My parents will be among them.
+- Can't you beam them out?
+
+668
+00:59:43,198 --> 00:59:45,283
+That is impossible. They will
+be in the Katric ark.
+
+669
+00:59:45,767 --> 00:59:47,440
+I must get them myself.
+
+670
+00:59:47,441 --> 00:59:50,284
+- Chekov, you have the con.
+- Aye.
+
+671
+00:59:53,250 --> 00:59:55,922
+Kirk to Enterprise.
+Beam us out of here.
+
+672
+00:59:55,923 --> 00:59:57,452
+Stand by, locking on your signal.
+
+673
+00:59:58,241 --> 01:00:00,534
+- Retract the drill. Let's move out
+- Yes, sir.
+
+674
+01:00:00,708 --> 01:00:02,122
+Fold up.
+
+675
+01:00:04,828 --> 01:00:07,416
+I can't lock on to them. Don't move.
+Don't move!
+
+676
+01:00:07,974 --> 01:00:09,750
+Sulu.
+
+677
+01:00:17,104 --> 01:00:18,706
+Sulu.
+
+678
+01:00:21,308 --> 01:00:23,081
+Hold on.
+
+679
+01:00:25,017 --> 01:00:27,102
+I've gotcha.
+Now pull my chute.
+
+680
+01:00:33,709 --> 01:00:37,752
+Kirk to Enterprise!
+We're falling without a chute!
+
+681
+01:00:37,980 --> 01:00:41,059
+- Beam us up!
+- I'm sorry I can't lock on to your signal.
+
+682
+01:00:41,060 --> 01:00:42,459
+- Beam us up!
+- You're moving too fast.
+
+683
+01:00:42,938 --> 01:00:45,248
+I can do that. I can do that!
+
+684
+01:00:45,923 --> 01:00:47,723
+- Take the con.
+- Aye, sir.
+
+685
+01:00:47,724 --> 01:00:51,485
+The black hole's expanding. We won't reach
+minimum safe distance if we don't leave immediately.
+
+686
+01:00:53,409 --> 01:00:55,748
+Move. Move... I can do that.
+I can do that. Move. Move...
+
+687
+01:00:58,252 --> 01:01:01,159
+Give me manual control, I can lock on.
+Beam us up!
+
+688
+01:01:02,476 --> 01:01:05,365
+- Enterprise, where are you?
+- Hold on. Hold on! Hold on!
+
+689
+01:01:06,385 --> 01:01:10,810
+Now! Now! Now! Do it now!
+Now! Now! Now!
+
+690
+01:01:10,811 --> 01:01:16,293
+Hold on. Hold on. Compensating
+gravitational pull. Aaand...
+
+691
+01:01:20,149 --> 01:01:21,168
+Gotcha.
+
+692
+01:01:30,844 --> 01:01:33,295
+- Thanks.
+- No problem.
+
+693
+01:01:35,833 --> 01:01:38,072
+Clear the pad. I'm beaming to
+the surface.
+
+694
+01:01:39,611 --> 01:01:41,165
+The surface of what?
+
+695
+01:01:41,874 --> 01:01:44,441
+What, you're going down there?
+Are you nuts?
+
+696
+01:01:44,742 --> 01:01:47,099
+- Spock, you can't do that.
+- Energize.
+
+697
+01:02:26,470 --> 01:02:29,442
+- Spock? - The planet has only
+seconds left. We must evacuate.
+
+698
+01:02:30,503 --> 01:02:32,351
+Mother, now.
+
+699
+01:02:54,030 --> 01:02:55,600
+Spock to Enterprise.
+Get us out now.
+
+700
+01:02:55,601 --> 01:02:58,436
+Locking on to you. Don't move.
+Stay right where you are.
+
+701
+01:03:05,049 --> 01:03:09,590
+Transport in 5 ... 4 ... 3 ... 2 ...
+
+702
+01:03:11,942 --> 01:03:15,321
+- Mother!
+- I'm losing her! I'm losing her! ...
+
+703
+01:03:16,426 --> 01:03:18,302
+I've lost her! I've lost her.
+
+704
+01:04:15,053 --> 01:04:18,700
+Acting captain's log, star date 2258.42.
+
+705
+01:04:20,412 --> 01:04:22,791
+We have had no word from captain Pike.
+
+706
+01:04:24,300 --> 01:04:27,946
+I have therefore classified him a hostage
+of the war criminal known as Nero
+
+707
+01:04:28,888 --> 01:04:33,616
+Nero, who has destroyed my home planet
+and most of its 6 billion inhabitants.
+
+708
+01:04:35,250 --> 01:04:39,659
+While the essence of our culture has been saved
+in the elders who now reside upon this ship ...
+
+709
+01:04:42,342 --> 01:04:45,414
+I estimate no more than
+10 000 have survived.
+
+710
+01:04:48,558 --> 01:04:52,253
+I am now a member of
+an endangered species.
+
+711
+01:05:19,378 --> 01:05:21,776
+I'm sorry.
+
+712
+01:05:23,186 --> 01:05:27,865
+I'm so sorry.
+
+713
+01:05:41,835 --> 01:05:45,985
+What do you need.
+Tell me. Tell me.
+
+714
+01:05:54,421 --> 01:05:56,644
+I need everyone ...
+
+715
+01:05:57,594 --> 01:06:12,887
+- ... to continue performing admirably.
+- OK.
+
+716
+01:06:27,579 --> 01:06:29,623
+You must have a lot of questions for me.
+
+717
+01:06:30,526 --> 01:06:32,685
+I only have one for you.
+
+718
+01:06:34,314 --> 01:06:38,467
+I need the subspace frequencies of
+Starfleet's border protection grids.
+
+719
+01:06:38,762 --> 01:06:41,513
+Specifically those surrounding Earth.
+
+720
+01:06:43,157 --> 01:06:46,402
+Christopher, answer my question.
+
+721
+01:06:46,403 --> 01:06:49,719
+No, you answer for the genocide you just
+committed against a peaceful planet.
+
+722
+01:06:49,720 --> 01:06:52,462
+No, I prevented genocide.
+
+723
+01:06:55,364 --> 01:06:59,719
+In my time, where I come from,
+this is a simple mining vessel.
+
+724
+01:07:00,352 --> 01:07:03,674
+I chose a life of honest labor.
+
+725
+01:07:03,675 --> 01:07:07,014
+to provide for myself and the wife
+who was expecting my child.
+
+726
+01:07:07,604 --> 01:07:10,004
+I was off planet doing my job
+
+727
+01:07:10,005 --> 01:07:12,189
+while your Federation did nothing.
+
+728
+01:07:12,464 --> 01:07:15,576
+And allowed my people to burn
+while their planet broke in half.
+
+729
+01:07:16,081 --> 01:07:19,305
+And Spock, he didn't help us.
+He betrayed us.
+
+730
+01:07:19,306 --> 01:07:23,000
+No, no... you're confused. You're misinformed.
+Romulus hasn't been destroyed.
+
+731
+01:07:23,001 --> 01:07:26,575
+It's out there right now. You're blaming the
+Federation for something that hasn't happened...
+
+732
+01:07:26,576 --> 01:07:29,852
+It has happened! I watched it happen!
+I saw it happen!
+
+733
+01:07:29,887 --> 01:07:31,556
+Don't tell me it didn't happen!
+
+734
+01:07:36,132 --> 01:07:40,453
+And when I lost her.
+I promised myself retribution.
+
+735
+01:07:41,097 --> 01:07:44,871
+And for 25 years I planned my
+revenge against the Federation.
+
+736
+01:07:45,328 --> 01:07:48,850
+And forgot what it was like to
+live a normal life.
+
+737
+01:07:48,876 --> 01:07:50,973
+I did not forget the pain.
+
+738
+01:07:52,645 --> 01:07:56,296
+It's a pain that every surviving
+Vulcan now shares.
+
+739
+01:07:57,897 --> 01:07:59,981
+My purpose, Christopher,
+
+740
+01:07:59,982 --> 01:08:03,871
+is to not simply avoid the destruction
+of the home that I love
+
+741
+01:08:05,360 --> 01:08:10,482
+but to create a Romulus that
+exists free of the Federation.
+
+742
+01:08:13,089 --> 01:08:16,352
+You see only then will she be truly saved.
+
+743
+01:08:17,247 --> 01:08:21,431
+That is why I will destroy all the
+remaining Federation planets.
+
+744
+01:08:21,760 --> 01:08:23,587
+Starting with yours.
+
+745
+01:08:24,473 --> 01:08:27,038
+Then we have nothing left to discuss.
+
+746
+01:08:31,158 --> 01:08:34,128
+You will give me the frequencies to
+disable Earth's defenses.
+
+747
+01:08:37,313 --> 01:08:41,616
+Centaurian slugs. They latch
+on to your brain stem...
+
+748
+01:08:43,428 --> 01:08:45,959
+and release a toxin that will
+force you to answer.
+
+749
+01:08:47,524 --> 01:08:49,546
+Frequencies please, sir.
+
+750
+01:08:50,195 --> 01:08:52,438
+Christopher Pike, captain of
+the USS Enterprise ...
+
+751
+01:08:52,439 --> 01:08:53,438
+As you wish.
+
+752
+01:09:01,510 --> 01:09:03,267
+Have you confirmed that Nero
+is heading for Earth?
+
+753
+01:09:03,268 --> 01:09:05,967
+Their trajectory suggests no
+other destination, captain.
+
+754
+01:09:06,578 --> 01:09:07,771
+Thank you, lt.
+
+755
+01:09:08,096 --> 01:09:10,398
+Earth may be his next stop, but
+we have to assume 
+
+756
+01:09:10,399 --> 01:09:12,390
+every Federation planet's a target
+
+757
+01:09:12,391 --> 01:09:13,926
+Out of the chair.
+
+758
+01:09:13,927 --> 01:09:18,093
+Well, if the Federation is the target,
+why didn't they destroy us?
+
+759
+01:09:18,094 --> 01:09:21,051
+Why would they? Why waste a weapon?
+We obviously weren't a threat.
+
+760
+01:09:21,052 --> 01:09:25,828
+That is not it. He said he wanted me to see
+something. The destruction of my home planet.
+
+761
+01:09:25,829 --> 01:09:27,743
+How the hell did they do that, by the way?
+
+762
+01:09:27,744 --> 01:09:30,060
+And where did the Romulans get
+that kind of weaponry?
+
+763
+01:09:30,061 --> 01:09:33,674
+The engineering comprehension necessary
+to artificially create a black hole
+
+764
+01:09:33,675 --> 01:09:35,319
+may suggest an answer.
+
+765
+01:09:35,320 --> 01:09:37,823
+Such technology could theoretically
+be manipulated
+
+766
+01:09:37,824 --> 01:09:39,685
+to create a tunnel through space-time.
+
+767
+01:09:40,088 --> 01:09:41,956
+Damn it man, I am a doctor, not physicist.
+
+768
+01:09:41,957 --> 01:09:44,140
+Are you actually suggesting
+they're from the future?
+
+769
+01:09:44,141 --> 01:09:47,219
+If you eliminate the impossible, what ever
+remains, however improbable
+
+770
+01:09:47,220 --> 01:09:48,445
+must be the truth.
+
+771
+01:09:48,446 --> 01:09:49,447
+How poetic.
+
+772
+01:09:49,448 --> 01:09:53,232
+Then what would an angry future
+Romulan want with captain Pike?
+
+773
+01:09:53,233 --> 01:09:55,888
+As captain he does know details
+of Starfleet's defenses.
+
+774
+01:09:55,889 --> 01:09:57,464
+What we need to do is catch
+up to that ship,
+
+775
+01:09:57,465 --> 01:09:59,600
+disable it, take it over and get Pike back.
+
+776
+01:09:59,601 --> 01:10:04,120
+We are technologically outmatched in every
+way. A rescue attempt would be illogical.
+
+777
+01:10:04,121 --> 01:10:07,055
+Nero's ship would have to drop
+out of warp for us to overtake it.
+
+778
+01:10:07,056 --> 01:10:10,336
+Then what about assigning engineering
+crews to try and boost our warp yield?
+
+779
+01:10:10,337 --> 01:10:12,605
+Remaining power and crew are being
+used to repair radiation leaks
+
+780
+01:10:12,606 --> 01:10:14,263
+on the lower decks. The damage ...
+
+781
+01:10:14,264 --> 01:10:16,801
+- OK. All right. All right. - ...communications.
+Without it... - There's got to be some way.
+
+782
+01:10:16,802 --> 01:10:21,388
+- ...we cannot contact Starfleet. We
+must gather with the rest of Starfleet.
+
+783
+01:10:21,389 --> 01:10:23,138
+To balance the terms of the next engagement,
+- There won't be a next engagement.
+
+784
+01:10:23,138 --> 01:10:25,851
+By the time we gather it'll be too late.
+
+785
+01:10:26,552 --> 01:10:28,705
+Look, you say he's from the future and
+knows what's gonna happen
+
+786
+01:10:28,706 --> 01:10:31,101
+then the logical thing is to be unpredictable.
+
+787
+01:10:31,136 --> 01:10:34,013
+You're assuming that Nero knows
+how event's are predicted to unfold.
+
+788
+01:10:34,480 --> 01:10:37,134
+The contrary. Nero's very presence
+has altered the flow of history
+
+789
+01:10:37,135 --> 01:10:40,276
+beginning with the attack on the USS Kelvin,
+culminating with the events of today,
+
+790
+01:10:40,277 --> 01:10:45,526
+thereby creating an entire new chain of incidents
+that cannot be anticipated by either party.
+
+791
+01:10:45,527 --> 01:10:46,935
+An alternate reality.
+
+792
+01:10:48,002 --> 01:10:49,667
+Precisely.
+
+793
+01:10:49,934 --> 01:10:51,454
+Whatever our lives might have been
+
+794
+01:10:51,455 --> 01:10:53,268
+if the time continuum was disrupted
+
+795
+01:10:54,283 --> 01:10:56,594
+our destinies have changed.
+
+796
+01:10:56,683 --> 01:10:59,256
+Mr. Sulu, plot a course for the
+Laurentian system. Warp factor 3.
+
+797
+01:10:59,257 --> 01:11:00,537
+Spock, don't do that.
+
+798
+01:11:00,538 --> 01:11:05,045
+Running back to the rest of the fleet for
+a con fab is a massive waste of time...
+
+799
+01:11:05,046 --> 01:11:06,787
+These orders were issued by
+captain Pike when he left.
+
+800
+01:11:06,788 --> 01:11:08,554
+He also ordered us to go back and get him.
+
+801
+01:11:08,555 --> 01:11:12,027
+- Spock, you are captain now. You have...
+- I am aware of my responsibilities ...
+
+802
+01:11:12,028 --> 01:11:14,425
+Every second we waste Nero's
+getting closer to his next target.
+
+803
+01:11:14,426 --> 01:11:17,481
+That is correct and why I'm instructing
+you to accept the fact that I'm...
+
+804
+01:11:17,482 --> 01:11:21,518
+I will not allow us to go backwards...
+... instead of hunting Nero down.
+
+805
+01:11:21,519 --> 01:11:23,860
+Security, escort him out.
+
+806
+01:11:32,830 --> 01:11:34,332
+- No.
+- Jim!
+
+807
+01:11:39,538 --> 01:11:41,537
+Get him off this ship.
+
+808
+01:12:01,581 --> 01:12:02,935
+Computer, where am I?
+
+809
+01:12:02,936 --> 01:12:06,438
+Location: Delta Vega.
+Class M planet. Unsafe.
+
+810
+01:12:06,439 --> 01:12:10,261
+There is a Starfleet outpost 14km
+to the northwest.
+
+811
+01:12:10,262 --> 01:12:13,811
+- Remain in your pod ...
+- Oh, you've gotta be kidding me.
+
+812
+01:12:56,435 --> 01:13:00,040
+Star date 2258.42.
+
+813
+01:13:00,694 --> 01:13:04,087
+... for ... for ... Whatever.
+
+814
+01:13:04,546 --> 01:13:08,182
+Acting captain Spock has
+marooned me on Delta Vega.
+
+815
+01:13:08,183 --> 01:13:12,879
+What I believe to be a violation
+of security protocol 49.09
+
+816
+01:13:12,880 --> 01:13:15,401
+governing the treatment of prisoners
+aboard a starship.
+
+817
+01:15:25,828 --> 01:15:28,571
+James T. Kirk.
+
+818
+01:15:29,894 --> 01:15:32,056
+- Excuse me?
+- How did you find me?
+
+819
+01:15:34,368 --> 01:15:36,412
+How do you know my name?
+
+820
+01:15:37,342 --> 01:15:41,433
+I have been and always shall be your friend.
+
+821
+01:15:44,928 --> 01:15:47,614
+Look, I don't know you.
+
+822
+01:15:47,615 --> 01:15:50,362
+I am Spock.
+
+823
+01:15:54,480 --> 01:15:55,859
+Bullshit.
+
+824
+01:15:55,860 --> 01:15:58,476
+It is remarkably pleasing to see
+you again old friend.
+
+825
+01:15:59,278 --> 01:16:01,881
+Especially after the events today.
+
+826
+01:16:03,766 --> 01:16:05,886
+Sir, I appreciate what you did for me today
+
+827
+01:16:05,887 --> 01:16:09,643
+but if you were Spock, you'd know
+we're not friends at all.
+
+828
+01:16:09,644 --> 01:16:12,091
+You hate me. You marooned
+me here for mutiny.
+
+829
+01:16:12,154 --> 01:16:14,189
+- Mutiny?
+- Yes.
+
+830
+01:16:14,190 --> 01:16:16,181
+You are not the captain?
+
+831
+01:16:19,237 --> 01:16:23,281
+No, no... You're the captain.
+
+832
+01:16:23,501 --> 01:16:25,801
+Pike was taken hostage.
+
+833
+01:16:26,186 --> 01:16:28,174
+By Nero?
+
+834
+01:16:33,231 --> 01:16:35,649
+What do you know about him?
+
+835
+01:16:36,105 --> 01:16:39,005
+He is a particularly troubled Romulan.
+
+836
+01:16:40,071 --> 01:16:42,226
+Please. Allow me.
+
+837
+01:16:43,068 --> 01:16:44,412
+It will be easier.
+
+838
+01:16:44,617 --> 01:16:48,267
+- Whoa, whoa. What are you doing?
+- Our minds, one and together.
+
+839
+01:16:50,747 --> 01:16:56,854
+129 years from now, a star will explode
+and threaten to destroy the galaxy.
+
+840
+01:16:58,374 --> 01:17:01,210
+That is where I'm from Jim.
+
+841
+01:17:01,212 --> 01:17:02,612
+The future.
+
+842
+01:17:06,615 --> 01:17:09,157
+A star went supernova.
+
+843
+01:17:10,740 --> 01:17:13,366
+Consuming everything in its path.
+
+844
+01:17:13,367 --> 01:17:16,719
+I promised the Romulans that I
+will save their planet.
+
+845
+01:17:22,164 --> 01:17:24,487
+We outfitted our fastest ship.
+
+846
+01:17:25,488 --> 01:17:28,232
+Using red matter I would create a black hole
+
+847
+01:17:28,233 --> 01:17:30,965
+which would absorb the exploding star.
+
+848
+01:17:32,239 --> 01:17:35,227
+I was on root when the unthinkable happened.
+
+849
+01:17:36,557 --> 01:17:40,325
+The supernova destroyed Romulus.
+
+850
+01:17:45,547 --> 01:17:47,447
+I had little time.
+
+851
+01:17:49,722 --> 01:17:53,703
+I had to extract the red matter
+and shoot it into the supernova.
+
+852
+01:18:10,227 --> 01:18:13,039
+As I began my return trip I was intercepted.
+
+853
+01:18:13,040 --> 01:18:17,177
+- He called himself Nero,
+- ... collapse of Romulan Empire.
+
+854
+01:18:17,178 --> 01:18:21,092
+In my attempt to escape, both of
+us were pulled into the black hole.
+
+855
+01:18:29,681 --> 01:18:33,329
+Nero went through first.
+He was the first to arrive.
+
+856
+01:18:40,618 --> 01:18:43,816
+Nero spent the next 25 years
+awaiting my arrival.
+
+857
+01:18:43,817 --> 01:18:45,910
+But what was years for Nero
+
+858
+01:18:47,447 --> 01:18:49,635
+was only seconds for me.
+
+859
+01:18:50,487 --> 01:18:52,775
+I went through the black hole.
+
+860
+01:18:54,741 --> 01:18:57,958
+Nero was waiting for me.
+
+861
+01:19:02,925 --> 01:19:06,177
+He held me responsible for the
+loss of his world.
+
+862
+01:19:07,970 --> 01:19:10,689
+He captured my vessel and spared my life.
+
+863
+01:19:11,710 --> 01:19:16,757
+For one reason. So that
+I would know his pain.
+
+864
+01:19:18,777 --> 01:19:22,847
+He beamed me here so that
+I can observe his vengeance.
+
+865
+01:19:24,721 --> 01:19:27,762
+As he was helpless to save his planet
+
+866
+01:19:27,796 --> 01:19:31,589
+I would be helpless to save mine.
+
+867
+01:19:33,795 --> 01:19:38,194
+Billions of lives lost because of me, Jim.
+
+868
+01:19:38,195 --> 01:19:41,206
+Because I failed.
+
+869
+01:19:43,348 --> 01:19:47,527
+Forgive me. Emotional transference
+is an effect of the mind meld.
+
+870
+01:19:54,723 --> 01:19:57,940
+- So you do feel.
+- Yes.
+
+871
+01:19:57,941 --> 01:20:00,758
+Going back in time you changed all our lives.
+
+872
+01:20:01,569 --> 01:20:04,582
+Jim! We must go.
+
+873
+01:20:05,082 --> 01:20:07,457
+There is a Starfleet outpost not far from here.
+
+874
+01:20:09,019 --> 01:20:10,645
+Wait.
+
+875
+01:20:11,266 --> 01:20:13,508
+Where you came from ...
+
+876
+01:20:15,601 --> 01:20:17,536
+... did I know my father?
+
+877
+01:20:18,577 --> 01:20:19,964
+Yes.
+
+878
+01:20:20,364 --> 01:20:23,766
+You often spoke of him as being
+your inspiration for joining Starfleet.
+
+879
+01:20:24,744 --> 01:20:28,239
+He proudly lived to see you become
+captain of the Enterprise.
+
+880
+01:20:28,831 --> 01:20:30,070
+Captain?
+
+881
+01:20:30,072 --> 01:20:33,099
+A ship we must return you to
+as soon as possible.
+
+882
+01:20:41,725 --> 01:20:44,305
+- Warp 3, sir.
+- Course 151-3.
+
+883
+01:20:44,306 --> 01:20:46,551
+- Laurentian system, sir.
+- Thank you gentlemen.
+
+884
+01:20:46,985 --> 01:20:50,508
+- You wanted to see me?
+- Yes. Doctor.
+
+885
+01:20:51,732 --> 01:20:53,973
+I am aware that James Kirk is a friend of yours.
+
+886
+01:20:53,974 --> 01:20:56,955
+I recognize that supporting me
+as you did must have been difficult.
+
+887
+01:20:56,956 --> 01:20:58,669
+Is that thank you?
+
+888
+01:20:58,963 --> 01:21:03,573
+- I am simply acknowledging your difficulties.
+- Permission to speak freely, sir.
+
+889
+01:21:04,848 --> 01:21:06,706
+- I welcome it.
+- Do you?
+
+890
+01:21:07,528 --> 01:21:10,575
+Ok then. Are you out of your Vulcan mind?
+
+891
+01:21:11,159 --> 01:21:15,498
+Are you making a logical choice sending
+Kirk away? Probably. But the right one? 
+
+892
+01:21:15,499 --> 01:21:18,671
+Back home we've got a saying. If you're
+gonna ride in the Kentucky derby
+
+893
+01:21:18,672 --> 01:21:20,926
+you don't leave your prize stallion in the stable
+
+894
+01:21:20,927 --> 01:21:24,683
+A curious metaphor, Doctor,
+as a stallion must first be broken
+
+895
+01:21:24,684 --> 01:21:26,569
+before it can reach its potential.
+
+896
+01:21:27,102 --> 01:21:29,421
+My God man. You could at least
+act like it was a hard decision.
+
+897
+01:21:29,422 --> 01:21:32,858
+I intend to insist in the effort to reestablish
+communication with Starfleet.
+
+898
+01:21:33,329 --> 01:21:37,199
+However, if crew moral is better served
+by my roaming the halls weeping
+
+899
+01:21:37,235 --> 01:21:40,391
+I would gladly defer to your medical expertise.
+
+900
+01:21:41,721 --> 01:21:43,189
+Excuse me.
+
+901
+01:21:47,291 --> 01:21:49,389
+Green blooded little goblin.
+
+902
+01:23:09,973 --> 01:23:11,482
+What?
+
+903
+01:23:15,247 --> 01:23:17,343
+You realize how unacceptable this is?
+
+904
+01:23:17,344 --> 01:23:18,665
+- Fascinating.
+- What?
+
+905
+01:23:18,666 --> 01:23:21,947
+I am sure you're just doing your job, but
+could you not come a wee bit sooner?
+
+906
+01:23:21,948 --> 01:23:26,827
+Six months I've been here. Living off Starfleet
+botty nips and a promise of a good meal.
+
+907
+01:23:26,862 --> 01:23:29,372
+And I know exactly what's going on here.
+
+908
+01:23:29,373 --> 01:23:33,545
+Ok? Punishment, isn't it? Ongoing. For
+something that was clearly an accident.
+
+909
+01:23:33,546 --> 01:23:36,573
+- You are Montgomery Scott.
+- You know him?
+
+910
+01:23:36,573 --> 01:23:38,269
+Yeah, it's me. You're in the right place.
+
+911
+01:23:38,464 --> 01:23:41,578
+Unless there’s another hard working
+equally starved Starfleet officer around.
+
+912
+01:23:41,579 --> 01:23:43,786
+- Me.
+- Getup, shut up.
+
+913
+01:23:44,628 --> 01:23:47,822
+You aren't doing anything. You can
+eat, like, a bean and you're done.
+
+914
+01:23:48,142 --> 01:23:50,284
+I'm talking about food, real food.
+
+915
+01:23:50,285 --> 01:23:52,954
+But you're here now. So, thank you.
+Where is it?
+
+916
+01:23:52,955 --> 01:23:57,107
+You are in fact a Mr. Scott who postulated
+the theory of transwarp beaming?
+
+917
+01:23:57,108 --> 01:24:00,235
+That's what I'm talking about.
+How'd ya think I wound up here?
+
+918
+01:24:00,696 --> 01:24:02,448
+I had a little debate with my instructor
+
+919
+01:24:02,449 --> 01:24:06,127
+on the issue of relativistic physics and
+how it pertains to subspace travel.
+
+920
+01:24:06,128 --> 01:24:10,162
+He seemed to think that the range of
+transporting something like a grapefruit
+
+921
+01:24:10,163 --> 01:24:12,130
+was limited to about a 100 miles.
+
+922
+01:24:12,131 --> 01:24:15,925
+I told him that I could not only beam a
+grapefruit from one planet to the adjacent planet
+
+923
+01:24:15,926 --> 01:24:18,629
+in the same system, which is easy by the way
+
+924
+01:24:18,630 --> 01:24:20,491
+I could do it with a life form.
+
+925
+01:24:21,108 --> 01:24:23,553
+So, I tested it on admiral Archer's prize beagle.
+
+926
+01:24:23,554 --> 01:24:25,197
+I know that dog. What happened to it?
+
+927
+01:24:25,719 --> 01:24:29,056
+I'll tell you when it reappears. I don't
+know. I do feel guilty about that.
+
+928
+01:24:29,057 --> 01:24:32,035
+What if I told you that your transwarp theory was correct?
+
+929
+01:24:32,036 --> 01:24:35,322
+That it is indeed possible to beam onto
+a ship that is travelling at warp speed?
+
+930
+01:24:35,323 --> 01:24:37,908
+I think that if that equation had been
+discovered I'd have heard about it.
+
+931
+01:24:37,909 --> 01:24:39,939
+The reason you haven't
+heard of it, Mr. Scott,
+
+932
+01:24:39,940 --> 01:24:42,274
+is because you haven't discovered it yet.
+
+933
+01:24:47,742 --> 01:24:51,608
+- Are you from the future?
+- He is. I'm not.
+
+934
+01:24:51,609 --> 01:24:54,355
+Well that's brilliant. Do they still
+have sandwiches there?
+
+935
+01:24:55,320 --> 01:24:57,437
+Well, she's a wee bit dodgy.
+
+936
+01:24:57,724 --> 01:25:00,197
+Shield emitters are totally bum jacked
+as well as a few other things.
+
+937
+01:25:00,326 --> 01:25:01,776
+In you go.
+
+938
+01:25:02,558 --> 01:25:04,700
+So, the Enterprise has had it's
+maiden voyage, has it?
+
+939
+01:25:04,702 --> 01:25:06,525
+She is one well endowed lady.
+
+940
+01:25:06,526 --> 01:25:10,582
+I'd like to get my hands on her ample nossels,
+if you'd pardon the engineering parlance.
+
+941
+01:25:12,872 --> 01:25:16,835
+Except, the thing is, even if I believed you.
+Where you're from, what I've done...
+
+942
+01:25:16,836 --> 01:25:21,215
+Which I don't, by the way. We're still
+talking about beaming aboard the Enterprise
+
+943
+01:25:21,216 --> 01:25:24,095
+while she's travelling faster than light
+without a proper receiving pad.
+
+944
+01:25:24,096 --> 01:25:26,644
+Get off there. It's not a climbing frame.
+
+945
+01:25:27,187 --> 01:25:28,519
+The notion of transwarp beaming
+
+946
+01:25:28,520 --> 01:25:31,881
+is like trying to hit a bullet with a smaller bullet
+
+947
+01:25:31,882 --> 01:25:34,877
+whilst wearing a blindfold, riding a horse.
+
+948
+01:25:34,878 --> 01:25:35,915
+What's that?
+
+949
+01:25:35,916 --> 01:25:39,181
+Your equation for achieving transwarp beaming.
+
+950
+01:25:41,442 --> 01:25:43,335
+You're out of it...
+
+951
+01:25:46,710 --> 01:25:50,710
+Imagine that. It never occurred to me to
+think of space as the thing that was moving
+
+952
+01:25:51,286 --> 01:25:53,323
+You're coming with us, right?
+
+953
+01:25:55,174 --> 01:25:57,457
+No, Jim. That is not my destiny.
+
+954
+01:25:58,219 --> 01:25:59,774
+Your destiny ...
+
+955
+01:26:00,384 --> 01:26:02,982
+He. The other Spock is not gonna believe me.
+Only you can explain what the hell has happened.
+
+956
+01:26:02,983 --> 01:26:07,240
+Under no circumstances can he be made aware
+of my existence. You must promise me that.
+
+957
+01:26:07,241 --> 01:26:11,660
+So you're telling me I can't tell you that I'm following
+you're own orders. Why not? What happens?
+
+958
+01:26:11,661 --> 01:26:14,046
+Jim, this is one rule you cannot break.
+
+959
+01:26:14,047 --> 01:26:17,798
+To stop Nero, you alone must
+take command of your ship.
+
+960
+01:26:17,799 --> 01:26:19,583
+How? Over your dead body?
+
+961
+01:26:19,584 --> 01:26:20,766
+Preferably, not.
+
+962
+01:26:20,767 --> 01:26:23,738
+However, there is Starfleet regulation 619.
+
+963
+01:26:23,878 --> 01:26:29,886
+619 states that any command officer who is 
+emotionally compromised by the mission at hand
+
+964
+01:26:29,887 --> 01:26:32,480
+must resign command.
+
+965
+01:26:34,759 --> 01:26:38,662
+So, you're saying that I have to
+emotionally compromise you... guys?
+
+966
+01:26:38,663 --> 01:26:41,997
+Jim, I just lost my planet.
+
+967
+01:26:42,945 --> 01:26:46,689
+I can tell you, I am emotionally compromised.
+
+968
+01:26:47,009 --> 01:26:49,770
+What you must do is get me to show it.
+
+969
+01:26:49,771 --> 01:26:52,499
+Aye then lady. Live or die.
+Let's get this over with.
+
+970
+01:26:59,267 --> 01:27:01,479
+You cannot come with me. Go on.
+
+971
+01:27:02,612 --> 01:27:07,103
+Coming back in time, changing history,
+that's cheating.
+
+972
+01:27:09,419 --> 01:27:12,225
+A trick I learned from an old friend.
+
+973
+01:27:20,646 --> 01:27:24,233
+Live long and prosper.
+
+974
+01:27:43,371 --> 01:27:45,546
+Mr. Scott?
+
+975
+01:27:49,949 --> 01:27:52,155
+Mr. Scott, can you hear me?
+
+976
+01:27:59,685 --> 01:28:02,560
+Hold on a second.
+
+977
+01:28:19,703 --> 01:28:20,932
+No. No!
+
+978
+01:28:31,788 --> 01:28:32,914
+RELEASE VALVE.
+
+979
+01:28:40,220 --> 01:28:43,067
+Purifier release valve activated.
+
+980
+01:28:49,445 --> 01:28:52,079
+You all right? You all right?
+
+981
+01:28:54,019 --> 01:28:56,674
+My head's buzzing and I'm soaked,
+but otherwise I'm fine.
+
+982
+01:28:56,675 --> 01:29:02,139
+Captain Spock, detecting unauthorized
+access to water turbine control board
+
+983
+01:29:02,532 --> 01:29:04,298
+Bring up the video.
+
+984
+01:29:07,970 --> 01:29:11,585
+Security, seal the engineering deck.
+We have intruders in turbine section 3.
+
+985
+01:29:12,671 --> 01:29:14,250
+Set phasers to stun.
+
+986
+01:29:25,969 --> 01:29:27,482
+Halt!
+
+987
+01:29:31,201 --> 01:29:32,541
+Come with me
+
+988
+01:29:32,939 --> 01:29:34,949
+cupcake!
+
+989
+01:29:42,359 --> 01:29:43,322
+Who are you?
+
+990
+01:29:43,323 --> 01:29:44,324
+- I am with him.
+- He's with me.
+
+991
+01:29:44,325 --> 01:29:47,578
+We are travelling at warp speed. How
+did you manage to beam aboard this ship?
+
+992
+01:29:47,580 --> 01:29:48,920
+You're the genius, you figure it out.
+
+993
+01:29:48,921 --> 01:29:52,045
+As acting captain of this vessel
+I order you to answer the question.
+
+994
+01:29:52,046 --> 01:29:54,412
+Well I'm not telling, acting captain.
+
+995
+01:29:57,188 --> 01:30:01,485
+What now? That doesn't frustrate you, does it? My
+lack of cooperation, that doesn't make you angry?
+
+996
+01:30:01,486 --> 01:30:04,996
+- Are you a member of Starfleet?
+- Yes. Can I get a towel?
+
+997
+01:30:04,998 --> 01:30:07,481
+Under penalty of court martial I order
+you to explain to me how you were able
+
+998
+01:30:07,482 --> 01:30:09,734
+to beam aboard the ship while moving at warp
+
+999
+01:30:10,184 --> 01:30:11,231
+- Well.
+- Don't answer him.
+
+1000
+01:30:11,233 --> 01:30:13,574
+You will answer me.
+
+1001
+01:30:14,759 --> 01:30:17,610
+- I'd rather not take sides.
+- What is it with you, Spock?
+
+1002
+01:30:20,005 --> 01:30:25,073
+Your planet was just destroyed, your
+mother murdered, and you're not even upset.
+
+1003
+01:30:25,074 --> 01:30:27,589
+If you are presuming that these
+experiences in any way impede 
+
+1004
+01:30:27,649 --> 01:30:29,784
+my ability to command this ship
+you are mistaking.
+
+1005
+01:30:29,785 --> 01:30:33,377
+And yet you were the one who said
+fear was necessary for command.
+
+1006
+01:30:33,378 --> 01:30:36,669
+I mean, did you his ship?
+Did you see what he did?
+
+1007
+01:30:37,543 --> 01:30:39,695
+- Yes, of course I did.
+- So are you afraid or aren't you?
+
+1008
+01:30:39,696 --> 01:30:42,203
+I will not allow you to lecture me
+about the merits of emotion.
+
+1009
+01:30:42,203 --> 01:30:44,049
+- Then why don't you stop me?
+- Step away from me Mr. Kirk.
+
+1010
+01:30:44,050 --> 01:30:48,051
+What is it like not to feel anger?
+Or heartbreak?
+
+1011
+01:30:48,052 --> 01:30:51,495
+Or the need to stop at nothing to avenge the
+death of the woman who gave birth to you.
+
+1012
+01:30:51,496 --> 01:30:53,434
+- Back away from me.
+- You feel nothing!
+
+1013
+01:30:53,435 --> 01:30:55,975
+It must not even compute for you.
+
+1014
+01:30:56,578 --> 01:30:58,310
+You never loved her!
+
+1015
+01:31:22,665 --> 01:31:24,205
+Spock.
+
+1016
+01:32:01,339 --> 01:32:04,057
+Doctor, I am no longer fit for duty.
+
+1017
+01:32:04,058 --> 01:32:08,860
+I relinquish my command based on the fact
+that I have been emotionally compromised.
+
+1018
+01:32:09,935 --> 01:32:12,186
+Please note the time and
+date in the ship's log.
+
+1019
+01:32:39,109 --> 01:32:41,170
+I like this ship.
+
+1020
+01:32:41,437 --> 01:32:43,055
+You know it's exciting.
+
+1021
+01:32:45,474 --> 01:32:49,289
+Well congratulations, Jim. Now we've got
+no captain and no God damn first officer
+
+1022
+01:32:49,290 --> 01:32:50,765
+to replace him.
+
+1023
+01:32:52,154 --> 01:32:53,872
+Yeah we do.
+
+1024
+01:32:53,873 --> 01:32:56,382
+- What?
+- Pike made him first officer.
+
+1025
+01:32:56,734 --> 01:32:59,539
+- You've gotta be kidding me.
+- Thanks for the support.
+
+1026
+01:33:02,683 --> 01:33:06,583
+I sure hope you know what you're
+doing, captain.
+
+1027
+01:33:07,859 --> 01:33:09,823
+So do I.
+
+1028
+01:33:14,088 --> 01:33:16,771
+Attention, crew of the Enterprise,
+this is James Kirk.
+
+1029
+01:33:18,090 --> 01:33:21,814
+Mr. Spock has resigned commission
+and advanced me to acting captain.
+
+1030
+01:33:22,789 --> 01:33:25,631
+I know you're all expecting a regroup with the fleet,
+
+1031
+01:33:26,185 --> 01:33:28,445
+but I'm ordering a pursuit course
+of the enemy ship to Earth.
+
+1032
+01:33:28,446 --> 01:33:31,266
+I want all departments at battle
+stations and ready in 10 minutes.
+
+1033
+01:33:32,310 --> 01:33:36,617
+Either we're going down or they are.
+
+1034
+01:33:37,273 --> 01:33:38,629
+Kirk out.
+
+1035
+01:33:46,318 --> 01:33:48,626
+Speak your mind Spock.
+
+1036
+01:33:51,168 --> 01:33:53,133
+That would be unwise.
+
+1037
+01:33:53,134 --> 01:33:57,086
+What is necessary is never unwise.
+
+1038
+01:33:58,414 --> 01:34:01,563
+I am as conflicted as I once was as a child.
+
+1039
+01:34:03,298 --> 01:34:06,176
+You will always be a child of two worlds.
+
+1040
+01:34:07,979 --> 01:34:10,728
+I am grateful for this.
+
+1041
+01:34:11,776 --> 01:34:13,788
+And for you.
+
+1042
+01:34:15,225 --> 01:34:18,483
+I feel anger for the one who took mother's life.
+
+1043
+01:34:19,737 --> 01:34:22,686
+An anger I cannot control.
+
+1044
+01:34:26,285 --> 01:34:31,791
+I believe, as she would say ...
+
+1045
+01:34:32,607 --> 01:34:35,423
+... do not try to.
+
+1046
+01:34:35,717 --> 01:34:40,407
+You asked me once why I married your mother.
+
+1047
+01:34:44,585 --> 01:34:47,421
+I married her because I loved her.
+
+1048
+01:34:55,171 --> 01:34:57,621
+Whatever the case we need to
+get aboard Nero's ship undetected.
+
+1049
+01:34:57,622 --> 01:35:00,150
+Just can't just go in there guns blazing, Jim.
+
+1050
+01:35:00,151 --> 01:35:01,952
+I'm telling you to ...
+
+1051
+01:35:01,953 --> 01:35:04,832
+- Captain Kirk. Captain Kirk.
+- Yes, Chekov. What is it?
+
+1052
+01:35:04,833 --> 01:35:06,734
+Based on the Nerada’s course
+from Vulcan
+
+1053
+01:35:06,735 --> 01:35:10,124
+I have projected that Nero will
+travel pass Saturn.
+
+1054
+01:35:10,125 --> 01:35:13,636
+Like you said we need to stay
+invisible to Nero or he'll destroy us.
+
+1055
+01:35:13,637 --> 01:35:16,256
+If Mr. Scott can get us to warp factor 4
+
+1056
+01:35:16,257 --> 01:35:20,705
+and if we drop out of warp behind one
+of Saturn's moons, say Titan.
+
+1057
+01:35:20,706 --> 01:35:23,280
+The magnetic distortion from
+the planet's rings
+
+1058
+01:35:23,281 --> 01:35:25,804
+will make us invisible to Nero's sensors.
+
+1059
+01:35:25,805 --> 01:35:28,264
+From there, as long as the drill
+is not activated
+
+1060
+01:35:28,265 --> 01:35:29,923
+we can beam aboard the enemy ship.
+
+1061
+01:35:29,924 --> 01:35:31,706
+Aye, that might work.
+
+1062
+01:35:32,247 --> 01:35:34,715
+- Wait a minute kid, how old are you?
+- 17, sir.
+
+1063
+01:35:35,274 --> 01:35:36,637
+Oh good, he's 17.
+
+1064
+01:35:36,700 --> 01:35:38,378
+Doctor.
+
+1065
+01:35:38,379 --> 01:35:42,021
+Mr. Chekov is correct. I can
+confirm his telemetry.
+
+1066
+01:35:42,164 --> 01:35:44,356
+If Mr. Sulu is able to maneuver us into position
+
+1067
+01:35:44,356 --> 01:35:47,157
+I can beam aboard Nero's ship,
+steal back the black hole device 
+
+1068
+01:35:47,158 --> 01:35:49,594
+and if possible bring back captain Pike.
+
+1069
+01:35:50,004 --> 01:35:51,980
+I won't allow you to do that Mr. Spock.
+
+1070
+01:35:52,674 --> 01:35:55,423
+Romulans and Vulcans
+share a common ancestry.
+
+1071
+01:35:55,811 --> 01:35:59,481
+Our cultural similarities will make it easier
+for me to access the ship's computer
+
+1072
+01:35:59,482 --> 01:36:00,882
+and locate the device.
+
+1073
+01:36:02,348 --> 01:36:06,490
+Also my mother was human. Which
+makes Earth the only home I have left.
+
+1074
+01:36:13,931 --> 01:36:15,845
+I'm coming with you.
+
+1075
+01:36:16,078 --> 01:36:19,282
+I would cite regulation, but
+I know you will simply ignore it.
+
+1076
+01:36:21,847 --> 01:36:25,024
+See? We are getting to know each other.
+
+1077
+01:36:40,340 --> 01:36:42,459
+Prepare the drill.
+
+1078
+01:36:57,933 --> 01:37:03,949
+All stop in 3 ... 2 ... 1.
+
+1079
+01:37:08,889 --> 01:37:11,840
+Gimme 1/4 impulse burst for 5 seconds.
+
+1080
+01:37:11,841 --> 01:37:13,756
+I'll do the rest with thrusters.
+On my mark.
+
+1081
+01:37:13,757 --> 01:37:14,757
+Aye.
+
+1082
+01:37:15,407 --> 01:37:16,456
+Fire.
+
+1083
+01:37:43,182 --> 01:37:45,745
+Transporter room. We are in
+position above Titan.
+
+1084
+01:37:46,119 --> 01:37:48,887
+Really? Fine job Mr. Sulu, well done.
+
+1085
+01:37:49,497 --> 01:37:52,727
+- How are we Scotty?
+- Unbelievably sir. The ship is in position.
+
+1086
+01:37:56,628 --> 01:38:00,588
+Whatever happens Mr. Sulu, if you
+think you have the tactical advantage 
+
+1087
+01:38:00,589 --> 01:38:03,832
+you fire on that ship even if we're still
+on board. That's an order.
+
+1088
+01:38:06,172 --> 01:38:07,183
+Yes, sir.
+
+1089
+01:38:07,184 --> 01:38:10,116
+Otherwise we'll contact the Enterprise
+when we're ready to be beamed back.
+
+1090
+01:38:11,057 --> 01:38:13,265
+Good luck.
+
+1091
+01:38:25,269 --> 01:38:28,174
+- I will be back.
+- You better be.
+
+1092
+01:38:29,590 --> 01:38:33,545
+- I'll be monitoring your frequency.
+- Thank you, Nyota.
+
+1093
+01:38:49,862 --> 01:38:52,636
+- So her first name's Nyota?
+- I have no comment on the matter.
+
+1094
+01:38:52,637 --> 01:38:56,049
+Oky doky then. If there’s any common
+sense in the design of the enemy's ship 
+
+1095
+01:38:56,050 --> 01:38:59,139
+I should be putting you somewhere in the
+cargo bay, shouldn't be a soul in site.
+
+1096
+01:38:59,435 --> 01:39:00,545
+Energize.
+
+1097
+01:39:43,885 --> 01:39:46,564
+Captain, we have Starfleet officers
+aboard the ship.
+
+1098
+01:39:46,565 --> 01:39:49,214
+- One of them is Vulcan.
+- No.
+
+1099
+01:39:53,653 --> 01:39:55,463
+Ayel!
+
+1100
+01:40:09,348 --> 01:40:11,801
+- I'll cover ya.
+- Are you certain?
+
+1101
+01:40:11,802 --> 01:40:13,359
+Yeah, I've gotcha.
+
+1102
+01:40:32,888 --> 01:40:36,379
+Do you know where it is?
+The black hole device?
+
+1103
+01:40:38,148 --> 01:40:40,341
+And captain Pike.
+
+1104
+01:41:02,356 --> 01:41:03,454
+Move.
+
+1105
+01:41:04,287 --> 01:41:06,374
+They have activated the drill.
+
+1106
+01:41:07,371 --> 01:41:08,981
+Communication and transportation are inoperative.
+
+1107
+01:41:08,982 --> 01:41:10,561
+Sulu, please tell me you have them.
+
+1108
+01:41:10,668 --> 01:41:12,269
+Otherwise we won't be
+able to beam them back.
+
+1109
+01:41:12,270 --> 01:41:14,253
+Kirk and Spock are on their own now.
+
+1110
+01:41:33,333 --> 01:41:37,019
+I foresee a complication. The design of this ship
+is far more advanced than I have anticipated.
+
+1111
+01:41:37,329 --> 01:41:40,228
+Voice print and face recognition
+analysis enabled.
+
+1112
+01:41:40,522 --> 01:41:42,620
+Welcome back ambassador Spock.
+
+1113
+01:41:42,621 --> 01:41:44,104
+That's weird.
+
+1114
+01:41:45,375 --> 01:41:48,335
+Computer, what is your manufacturing origin?
+
+1115
+01:41:48,395 --> 01:41:52,974
+Star date 2387. Commissioned by the
+Vulcan Science Academy.
+
+1116
+01:41:56,034 --> 01:41:58,229
+It appears that you have been keeping
+important information from me.
+
+1117
+01:41:58,230 --> 01:42:00,373
+You'll be able to fly this thing, right?
+
+1118
+01:42:00,374 --> 01:42:02,285
+Something tells me I already have.
+
+1119
+01:42:03,471 --> 01:42:05,330
+- Good luck.
+- Jim.
+
+1120
+01:42:06,346 --> 01:42:09,980
+The statistical likelihood that our
+plan will succeed is less than 4,3%.
+
+1121
+01:42:09,981 --> 01:42:10,520
+I will work.
+
+1122
+01:42:10,521 --> 01:42:12,843
+In the event that I don't return
+please tell lt. Uhura ...
+
+1123
+01:42:12,844 --> 01:42:14,773
+Spock, it'll work.
+
+1124
+01:42:25,396 --> 01:42:26,835
+Fascinating.
+
+1125
+01:42:35,401 --> 01:42:38,136
+Startup sequence initiated.
+
+1126
+01:43:21,808 --> 01:43:24,491
+Nero, order your men to disable
+the drill or I will ...
+
+1127
+01:43:34,542 --> 01:43:37,580
+I know your face from Earth's history.
+
+1128
+01:44:22,639 --> 01:44:25,211
+James T. Kirk was considered
+to be a great man.
+
+1129
+01:44:26,065 --> 01:44:30,004
+He went on to captain the USS
+Enterprise. But that was another life.
+
+1130
+01:44:30,809 --> 01:44:33,634
+A life I will deprive you of just like
+I did your father.
+
+1131
+01:45:06,493 --> 01:45:10,400
+Captain Nero. The Vulcan ship's been
+taken. The drill has been destroyed.
+
+1132
+01:45:11,180 --> 01:45:15,570
+Spock! Spock!
+
+1133
+01:45:33,187 --> 01:45:35,005
+- Open a channel.
+- Yes, sir.
+
+1134
+01:45:36,281 --> 01:45:39,573
+Spock, I knew I should have
+killed you when I had the chance.
+
+1135
+01:45:39,574 --> 01:45:41,780
+I hereby confiscate this illegally
+obtained ship
+
+1136
+01:45:41,781 --> 01:45:43,621
+and order you to surrender your
+vessel. No terms.
+
+1137
+01:45:43,622 --> 01:45:45,138
+That ship ... take it out.
+
+1138
+01:45:45,139 --> 01:45:48,344
+- Sir, if you ignite the red matter..
+- I want the Spock dead now!
+
+1139
+01:46:03,986 --> 01:46:05,787
+- He went to warp.
+- Go after him.
+
+1140
+01:46:05,788 --> 01:46:06,786
+Yes, sir.
+
+1141
+01:46:37,190 --> 01:46:39,769
+Your species is even weaker
+than I expected.
+
+1142
+01:46:43,684 --> 01:46:45,634
+You can't even speak.
+
+1143
+01:46:47,753 --> 01:46:48,980
+What?
+
+1144
+01:46:49,460 --> 01:46:51,847
+I got your gun.
+
+1145
+01:47:17,793 --> 01:47:19,101
+What's he doing?
+
+1146
+01:47:19,102 --> 01:47:22,224
+Ambassador Spock, you are
+on a collision course.
+
+1147
+01:47:22,632 --> 01:47:24,333
+Fire everything.
+
+1148
+01:47:31,008 --> 01:47:35,174
+Incoming missiles. If the ship is hit,
+the red matter will be ignited.
+
+1149
+01:47:35,360 --> 01:47:37,127
+Understood.
+
+1150
+01:47:43,000 --> 01:47:44,555
+Captain, I've picked up another ship.
+
+1151
+01:48:06,087 --> 01:48:08,600
+- What are you doing here?
+- Following orders.
+
+1152
+01:48:29,378 --> 01:48:31,278
+Enterprise now!
+
+1153
+01:48:53,907 --> 01:48:55,650
+Nice timing Scotty.
+
+1154
+01:48:56,387 --> 01:48:58,714
+I've never beamed three people
+from two targets
+
+1155
+01:48:58,715 --> 01:49:00,266
+onto one pad before.
+
+1156
+01:49:00,580 --> 01:49:03,123
+- Jim. - Bones.
+-I've got him.
+
+1157
+01:49:06,261 --> 01:49:08,184
+That was pretty good.
+
+1158
+01:49:08,728 --> 01:49:11,955
+Captain, the enemy ship is loosing
+power. They're shields are down.
+
+1159
+01:49:12,070 --> 01:49:13,975
+- Hail them now.
+- Aye.
+
+1160
+01:49:49,385 --> 01:49:52,163
+This is captain James T. Kirk
+of the USS Enterprise.
+
+1161
+01:49:52,681 --> 01:49:55,338
+Your ship is compromised. You're
+too close to the singularity
+
+1162
+01:49:55,339 --> 01:49:58,353
+to survive without assistance
+which we are willing to provide.
+
+1163
+01:50:01,523 --> 01:50:03,439
+Captain, what are you doing?
+
+1164
+01:50:03,440 --> 01:50:06,006
+Showing them compassion may be the only way
+to make peace with Romulus, Spock.
+
+1165
+01:50:06,007 --> 01:50:09,032
+It's logical, Spock.
+Thought you'd like that.
+
+1166
+01:50:09,500 --> 01:50:12,147
+No, not really. Not this time.
+
+1167
+01:50:12,148 --> 01:50:16,393
+I would rather suffer the end of
+Romulus a thousand times,
+
+1168
+01:50:16,459 --> 01:50:20,958
+I would rather die in agony than
+accept assistance from you.
+
+1169
+01:50:20,959 --> 01:50:22,158
+You've got it.
+
+1170
+01:50:22,801 --> 01:50:25,146
+Arm phasers. Fire everything we've got.
+
+1171
+01:50:25,147 --> 01:50:26,147
+Yes, sir.
+
+1172
+01:51:11,023 --> 01:51:13,149
+- Sulu, let's go home.
+- Yes, sir.
+
+1173
+01:51:24,348 --> 01:51:26,723
+- Why aren't we at warp?
+- We are, sir.
+
+1174
+01:51:26,724 --> 01:51:29,056
+Kirk to engineering.
+Get us out of here, Scotty.
+
+1175
+01:51:29,057 --> 01:51:31,080
+You bet your ass captain.
+
+1176
+01:51:34,021 --> 01:51:36,198
+Captain, we're caught in
+the gravity well. It's got us.
+
+1177
+01:51:36,199 --> 01:51:37,868
+Go to maximum warp. Push it!
+
+1178
+01:51:37,869 --> 01:51:39,891
+I'm giving it all she's got captain.
+
+1179
+01:51:49,003 --> 01:51:51,568
+All she's got isn't good enough.
+What else you got?
+
+1180
+01:51:51,569 --> 01:51:53,929
+Ok, if we eject the core and detonate
+
+1181
+01:51:53,930 --> 01:51:56,820
+the blast could be enough to push us away.
+I can't promise anything though.
+
+1182
+01:52:00,086 --> 01:52:02,025
+Do it! Do it! Do it!
+
+1183
+01:52:02,650 --> 01:52:04,554
+- Clear the area. Go!
+- Yes, sir.
+
+1184
+01:53:32,043 --> 01:53:33,516
+Father?
+
+1185
+01:53:42,036 --> 01:53:44,715
+I am not our father.
+
+1186
+01:53:51,608 --> 01:53:56,254
+There are so few Vulcans left we
+cannot afford to ignore each other.
+
+1187
+01:53:59,306 --> 01:54:02,245
+Then why did you send Kirk aboard when
+you alone could have explained the truth?
+
+1188
+01:54:02,246 --> 01:54:04,260
+Because you needed each other.
+
+1189
+01:54:04,261 --> 01:54:08,701
+I could not deprive you of the revelation
+of all that you can accomplish together.
+
+1190
+01:54:08,702 --> 01:54:12,032
+Of a friendship that will define you both.
+
+1191
+01:54:12,033 --> 01:54:14,335
+In ways you cannot yet realize.
+
+1192
+01:54:15,702 --> 01:54:18,207
+How'd you persuade him to
+keep your secret?
+
+1193
+01:54:18,208 --> 01:54:21,497
+He inferred that universe
+ending paradoxes would ensue
+
+1194
+01:54:21,498 --> 01:54:23,168
+should he break his promise.
+
+1195
+01:54:23,169 --> 01:54:24,940
+You lied?
+
+1196
+01:54:25,838 --> 01:54:28,966
+- Oh. I implied.
+- A gamble?
+
+1197
+01:54:28,967 --> 01:54:30,831
+An act of faith.
+
+1198
+01:54:30,832 --> 01:54:34,390
+One I hope you will repeat in
+the future in Starfleet.
+
+1199
+01:54:34,583 --> 01:54:37,893
+In the face of extinction it is only
+logical I resign my Starfleet commission
+
+1200
+01:54:37,894 --> 01:54:39,100
+and help rebuild our race.
+
+1201
+01:54:39,101 --> 01:54:41,716
+And yet you can be in two places at once.
+
+1202
+01:54:42,683 --> 01:54:44,905
+I urge you to remain in Starfleet.
+
+1203
+01:54:45,719 --> 01:54:49,531
+I've already located a suitable planet
+on which to establish a Vulcan colony.
+
+1204
+01:54:50,019 --> 01:54:53,984
+Spock, in this case do yourself a favor
+
+1205
+01:54:55,318 --> 01:54:58,858
+put aside logic, do what feels right.
+
+1206
+01:55:04,753 --> 01:55:08,038
+Since my customary farewell
+would appear awfully self serving
+
+1207
+01:55:08,358 --> 01:55:11,439
+I shall simply say good luck.
+
+1208
+01:55:23,025 --> 01:55:26,484
+This assembly calls captain
+James Tiberius Kirk.
+
+1209
+01:55:27,317 --> 01:55:30,683
+Your inspirational valor and supreme
+dedication to your comrades
+
+1210
+01:55:30,684 --> 01:55:32,962
+is in keeping with the highest
+traditions of service.
+
+1211
+01:55:33,749 --> 01:55:38,377
+And reflect at most credit to yourself,
+your crew and the Federation.
+
+1212
+01:55:39,498 --> 01:55:42,677
+It is my honor to award you
+with this commendation.
+
+1213
+01:55:46,858 --> 01:55:51,638
+By Starfleet order 28455, you are 
+hereby directed to report to admiral Pike
+
+1214
+01:55:51,876 --> 01:55:55,557
+USS Enterprise, for duty as his relief.
+
+1215
+01:56:03,767 --> 01:56:05,341
+I relieve you, sir.
+
+1216
+01:56:06,010 --> 01:56:08,082
+I am relieved.
+
+1217
+01:56:09,746 --> 01:56:12,380
+- Thank you, sir.
+- Congratulations, captain.
+
+1218
+01:56:14,167 --> 01:56:16,337
+Your father would be proud of you.
+
+1219
+01:56:45,701 --> 01:56:47,462
+Thrusters on full.
+
+1220
+01:56:47,836 --> 01:56:50,651
+Firing thrusters and impulse
+engines at your command, sir.
+
+1221
+01:56:50,652 --> 01:56:53,349
+Weapon systems and shields on standby.
+
+1222
+01:56:53,528 --> 01:56:56,301
+Dock control reports ready, captain.
+
+1223
+01:57:00,498 --> 01:57:01,636
+Bones.
+
+1224
+01:57:02,500 --> 01:57:04,230
+Buckle up.
+
+1225
+01:57:07,795 --> 01:57:09,543
+Scotty, how we doin'?
+
+1226
+01:57:09,544 --> 01:57:12,006
+Dilithium chambers at maximum captain.
+
+1227
+01:57:13,210 --> 01:57:15,077
+Get down!
+
+1228
+01:57:16,807 --> 01:57:19,796
+Mr. Sulu, prepare to engage thrusters.
+
+1229
+01:57:22,662 --> 01:57:24,489
+Permission to come aboard, captain.
+
+1230
+01:57:25,361 --> 01:57:27,146
+Permission granted.
+
+1231
+01:57:27,872 --> 01:57:30,040
+As you have yet to select a first officer,
+
+1232
+01:57:30,075 --> 01:57:32,587
+respectfully I would like to submit
+my candidacy.
+
+1233
+01:57:33,565 --> 01:57:36,407
+Should you desire I can provide
+character references.
+
+1234
+01:57:37,619 --> 01:57:39,623
+It would be my honor commander.
+
+1235
+01:57:43,534 --> 01:57:45,719
+Maneuvering thrusters Mr. Sulu.
+
+1236
+01:57:47,938 --> 01:57:50,498
+- Thrusters on standby.
+- Take us out.
+
+1237
+01:57:51,014 --> 01:57:52,408
+Aye aye, captain.
+
+1238
+01:57:57,065 --> 01:58:00,400
+SPACE, THE FINAL FRONTIER
+
+1239
+01:58:01,998 --> 01:58:05,626
+THESE ARE THE VOYAGES OF
+THE STARSHIP ENTERPRISE
+
+1240
+01:58:06,565 --> 01:58:10,531
+HER ONGOING MISSION: TO
+EXPLORE STRANGE NEW WORLDS,
+
+1241
+01:58:11,185 --> 01:58:14,929
+TO SEEK OUT NEW LIFE FORMS
+AND NEW CIVILISATIONS
+
+1242
+01:58:15,523 --> 01:58:20,166
+TO BOLDLY GO WHERE NOONE
+HAS GONE BEFORE.
+

@@ -1,0 +1,4629 @@
+1
+00:01:21,396 --> 00:01:24,229
+<i>We're running out of time.</i>
+
+2
+00:01:24,316 --> 00:01:27,274
+<i>We have polluted</i>
+<i>and peopled this planet</i>
+
+3
+00:01:27,396 --> 00:01:29,387
+<i>to the brink of extinction.</i>
+
+4
+00:01:29,476 --> 00:01:33,833
+<i>We are destroying our world</i>
+<i>at a suicidal pace.</i>
+
+5
+00:01:33,916 --> 00:01:37,113
+We need a pollution revolution.
+
+6
+00:01:37,196 --> 00:01:39,630
+And it's not going to be easy
+
+7
+00:01:39,716 --> 00:01:42,833
+<i>because the world is addicted to petroleum.</i>
+
+8
+00:01:43,396 --> 00:01:45,387
+<i>We have limited resources</i>
+
+9
+00:01:45,476 --> 00:01:47,706
+<i>and we go to war to protect them.</i>
+
+10
+00:01:52,116 --> 00:01:54,152
+<i>We need a new technology</i>
+
+11
+00:01:54,236 --> 00:01:56,192
+<i>and this technology</i>
+
+12
+00:01:56,276 --> 00:01:58,107
+<i>can't be sold.</i>
+
+13
+00:01:58,196 --> 00:02:00,790
+It must be given away
+
+14
+00:02:00,876 --> 00:02:02,355
+to everyone.
+
+15
+00:02:03,636 --> 00:02:07,026
+<i>We are in sight of a dream.</i>
+
+16
+00:02:07,116 --> 00:02:09,550
+<i>There is a solution.</i>
+
+17
+00:02:09,636 --> 00:02:11,513
+<i>The answer</i>
+
+18
+00:02:11,596 --> 00:02:14,872
+is all around us... right here.
+
+19
+00:02:14,956 --> 00:02:18,312
+Water. H2O.
+Two parts hydrogen, one part oxygen.
+
+20
+00:02:19,556 --> 00:02:21,547
+<i>There is enough energy</i>
+
+21
+00:02:21,636 --> 00:02:23,627
+in this glass of water
+
+22
+00:02:23,716 --> 00:02:26,230
+to power the city of Chicago for weeks.
+
+23
+00:02:26,316 --> 00:02:28,511
+It's the hydrogen we're after.
+
+24
+00:02:33,676 --> 00:02:36,349
+<i>This is what happens when we burn it.</i>
+
+25
+00:02:38,516 --> 00:02:40,108
+<i>It's perfectly clean.</i>
+
+26
+00:02:40,196 --> 00:02:43,313
+<i>You can burn it when you want to,</i>
+<i>in a car, in a turbine,</i>
+
+27
+00:02:43,396 --> 00:02:48,993
+<i>or in your own basement power supply</i>
+<i>next to your water heater.</i>
+
+28
+00:02:49,076 --> 00:02:52,671
+<i>But what if we could release</i>
+<i>this energy efficiently?</i>
+
+29
+00:02:52,756 --> 00:02:55,634
+<i>We will transform the world.</i>
+
+30
+00:02:57,076 --> 00:03:00,352
+<i>Maybe we start to put an end to war.</i>
+
+31
+00:03:00,436 --> 00:03:03,394
+Of course, we have to make it work first.
+
+32
+00:03:15,276 --> 00:03:17,267
+Morning!
+
+33
+00:03:20,716 --> 00:03:22,707
+Hey, James, how are you doing?
+
+34
+00:03:22,796 --> 00:03:24,946
+Hey, Eddie, cold enough for you?
+
+35
+00:03:25,036 --> 00:03:27,027
+It's never too cold.
+
+36
+00:03:33,796 --> 00:03:35,787
+Hey, Lu! You want me to set up?
+
+37
+00:03:35,876 --> 00:03:37,025
+Yeah, right away.
+
+38
+00:03:45,236 --> 00:03:46,589
+Hello, Mr Shannon.
+
+39
+00:03:46,676 --> 00:03:49,236
+Mr Shannon, the big man, how are you?
+
+40
+00:03:52,116 --> 00:03:53,265
+Alistair.
+
+41
+00:03:53,356 --> 00:03:55,665
+- Did you have a good trip?
+- Very good.
+
+42
+00:03:55,756 --> 00:03:58,828
+- Hi, can I get you some coffee?
+- I'm fine, thank you.
+
+43
+00:03:58,916 --> 00:04:02,670
+I turn on the laser here.
+We should focus it in the centre of the bubble.
+
+44
+00:04:02,756 --> 00:04:04,906
+- How's it going?
+- You didn't get my fax?
+
+45
+00:04:04,996 --> 00:04:07,146
+I did. I didn't understand the figures.
+
+46
+00:04:07,236 --> 00:04:09,386
+We need to control the bubble.
+
+47
+00:04:09,476 --> 00:04:11,910
+The regulator isn't working.
+
+48
+00:04:11,996 --> 00:04:14,908
+Eddie, did you computer-model
+your work last night?
+
+49
+00:04:14,996 --> 00:04:17,191
+No, I was too busy building it.
+
+50
+00:04:17,276 --> 00:04:20,109
+We sustained fusion for 4.6 milliseconds.
+
+51
+00:04:20,196 --> 00:04:22,187
+Stable?
+
+52
+00:04:22,276 --> 00:04:25,268
+It's stable... for 4.6 milliseconds.
+
+53
+00:04:25,356 --> 00:04:27,153
+Let me show you. Come, come.
+
+54
+00:04:28,556 --> 00:04:32,026
+The power input and output
+is fine at this stage.
+
+55
+00:04:32,116 --> 00:04:36,587
+The output drops to nothing
+at stage three, so what happened?
+
+56
+00:04:36,676 --> 00:04:38,667
+Paul!
+
+57
+00:04:38,916 --> 00:04:40,872
+All right, I gotta go.
+
+58
+00:04:50,396 --> 00:04:52,466
+Cross your fingers, everyone.
+
+59
+00:04:52,556 --> 00:04:54,274
+Good luck.
+
+60
+00:05:04,476 --> 00:05:06,546
+Mr Chen. Initiate laser.
+
+61
+00:05:06,636 --> 00:05:08,945
+Initiate laser.
+
+62
+00:05:20,276 --> 00:05:22,585
+Hydrogen separation in progress.
+
+63
+00:05:25,236 --> 00:05:27,227
+Initiate hydrogen burn.
+
+64
+00:05:38,236 --> 00:05:39,954
+Two million kelvin and rising.
+
+65
+00:05:41,396 --> 00:05:42,795
+Shut it down!
+
+66
+00:05:42,876 --> 00:05:44,753
+It's unstable. Shut it down.
+
+67
+00:05:52,076 --> 00:05:56,467
+We learned something important.
+We found another way that didn't work.
+
+68
+00:05:56,556 --> 00:05:59,195
+We need to keep our minds open
+and try again.
+
+69
+00:07:00,236 --> 00:07:02,227
+Alistair.
+
+70
+00:07:02,316 --> 00:07:04,546
+- It's working.
+<i>- Is it stable?</i>
+
+71
+00:07:04,636 --> 00:07:05,989
+Yeah, it's stable.
+
+72
+00:07:06,076 --> 00:07:08,510
+- Completely stable.
+<i>- My God!</i>
+
+73
+00:07:09,156 --> 00:07:11,829
+- We go tomorrow.
+<i>- Tomorrow, Alistair.</i>
+
+74
+00:07:18,316 --> 00:07:19,749
+Lily, talk to me.
+
+75
+00:07:19,836 --> 00:07:22,748
+Temperature, gas flow,
+acoustic drive steadied.
+
+76
+00:07:22,836 --> 00:07:25,669
+- The regulator has stabilised the reaction.
+- Lucasz.
+
+77
+00:07:25,756 --> 00:07:28,554
+My spectrometer shows
+stable hydrogen production.
+
+78
+00:07:29,876 --> 00:07:32,026
+We're getting more out than we put in.
+
+79
+00:07:36,956 --> 00:07:40,392
+I think you'd better sell your utility stocks.
+
+80
+00:08:08,596 --> 00:08:11,827
+- Whoa, Mr Chidi!
+- Unbelievable!
+
+81
+00:08:11,916 --> 00:08:13,907
+You're going to be famous.
+
+82
+00:08:13,996 --> 00:08:15,987
+Thanks for everything.
+
+83
+00:08:16,916 --> 00:08:18,269
+We want more money!
+
+84
+00:08:18,356 --> 00:08:20,153
+Thanks for your trust.
+
+85
+00:08:33,716 --> 00:08:35,274
+I got it, I got it!
+
+86
+00:08:35,356 --> 00:08:36,709
+Here comes crazy Eddie!
+
+87
+00:08:43,596 --> 00:08:45,905
+Congratulations. I am quite impressed.
+
+88
+00:08:45,996 --> 00:08:48,146
+- Congratulations.
+- Thank you.
+
+89
+00:08:49,036 --> 00:08:52,267
+I never agreed to keep
+anything from anyone.
+
+90
+00:08:52,356 --> 00:08:56,065
+Mandela will get this information,
+China will find out...
+
+91
+00:08:56,156 --> 00:08:58,545
+Go anywhere, but don't move an inch.
+
+92
+00:08:59,956 --> 00:09:02,026
+I can't tell you what could happen...
+
+93
+00:09:02,116 --> 00:09:04,107
+This is no time to be serious.
+
+94
+00:09:04,196 --> 00:09:05,629
+Everybody's waiting.
+
+95
+00:09:05,716 --> 00:09:07,707
+Come on, Alistair!
+
+96
+00:09:09,596 --> 00:09:11,587
+OK, everybody.
+
+97
+00:09:13,356 --> 00:09:15,312
+Holy shit, we did it!
+
+98
+00:09:15,396 --> 00:09:17,956
+Holy shit, we did it!
+
+99
+00:09:19,356 --> 00:09:22,712
+One love
+
+100
+00:09:22,796 --> 00:09:25,185
+One heart
+
+101
+00:09:25,276 --> 00:09:26,834
+Let's get together and...
+
+102
+00:09:36,796 --> 00:09:38,514
+Your battery's dead.
+
+103
+00:09:39,516 --> 00:09:42,474
+There's ice all over the dashboard.
+
+104
+00:09:42,556 --> 00:09:44,672
+- How do I get home?
+- I'll get you home.
+
+105
+00:09:44,756 --> 00:09:46,747
+We'll take my bike.
+
+106
+00:09:47,956 --> 00:09:49,947
+Oh, yes, please!
+
+107
+00:09:50,036 --> 00:09:52,027
+Where do you live?
+
+108
+00:09:52,116 --> 00:09:54,107
+I live in England.
+
+109
+00:09:55,956 --> 00:09:59,915
+No, sorry, I live on Kimbark and 54th.
+
+110
+00:10:00,876 --> 00:10:02,867
+- Kimbark and 54th?
+- Mm-hm.
+
+111
+00:10:03,476 --> 00:10:05,706
+We can't. You'll freeze to death.
+
+112
+00:10:05,796 --> 00:10:07,787
+Erm...
+
+113
+00:10:08,796 --> 00:10:10,787
+Let's take a taxi.
+
+114
+00:10:10,876 --> 00:10:12,867
+- Taxi, huh?
+- Uh-huh.
+
+115
+00:10:14,156 --> 00:10:17,990
+We've got a better chance
+of getting picked up by a UFO.
+
+116
+00:10:21,156 --> 00:10:22,953
+Mr Chen, upload everything.
+
+117
+00:10:23,036 --> 00:10:25,106
+I want it on the Internet tonight.
+
+118
+00:10:25,196 --> 00:10:27,027
+We'll wake up a lot of people.
+
+119
+00:10:27,116 --> 00:10:30,108
+Damn right. Really wake them up.
+
+120
+00:10:37,756 --> 00:10:38,506
+Barkley...
+
+121
+00:10:57,716 --> 00:11:01,948
+We don't have the computer model ready.
+We have the frequency.
+
+122
+00:11:02,036 --> 00:11:04,106
+We'll send it to you in one hour.
+
+123
+00:11:04,196 --> 00:11:07,347
+Yeah, yeah, in one hour.
+
+124
+00:11:12,436 --> 00:11:14,392
+Where are you going?
+
+125
+00:11:16,356 --> 00:11:18,392
+Chen?
+
+126
+00:11:25,676 --> 00:11:28,873
+- Here we are.
+- This is Alistair's house.
+
+127
+00:11:28,956 --> 00:11:32,187
+Isn't he sweet?
+He lets me live on the third floor.
+
+128
+00:11:32,276 --> 00:11:35,029
+Mmm. This... way.
+
+129
+00:11:35,116 --> 00:11:37,471
+Is this... is this what drunk is?
+
+130
+00:11:37,556 --> 00:11:39,706
+You've never been drunk?
+
+131
+00:11:39,796 --> 00:11:41,787
+I've never been this.
+
+132
+00:11:43,716 --> 00:11:45,707
+Lily's too serious.
+
+133
+00:11:45,796 --> 00:11:47,548
+She's no fun.
+
+134
+00:11:47,636 --> 00:11:49,627
+I think you're fun.
+
+135
+00:11:53,076 --> 00:11:55,067
+Good night, Lily.
+
+136
+00:11:58,876 --> 00:12:00,468
+Wow!
+
+137
+00:12:41,116 --> 00:12:42,754
+Alistair!
+
+138
+00:12:45,876 --> 00:12:47,309
+Alistair!
+
+139
+00:12:49,076 --> 00:12:51,067
+Chen!
+
+140
+00:13:16,556 --> 00:13:17,750
+Chen!
+
+141
+00:13:19,036 --> 00:13:20,469
+Chen!
+
+142
+00:14:01,356 --> 00:14:02,584
+Get ready.
+
+143
+00:15:34,316 --> 00:15:35,305
+Shannon.
+
+144
+00:15:35,396 --> 00:15:38,672
+<i>- Paul? Alistair's dead.</i>
+- Eddie?
+
+145
+00:15:38,756 --> 00:15:40,747
+<i>I found him on the lab floor.</i>
+
+146
+00:15:40,836 --> 00:15:42,827
+<i>- He was murdered.</i>
+- What?
+
+147
+00:16:05,076 --> 00:16:08,864
+Just what caused the explosion
+last night is still unclear.
+
+148
+00:16:08,956 --> 00:16:12,949
+University officials say
+this mill site had been converted
+
+149
+00:16:13,036 --> 00:16:16,631
+for the experimental production
+of hydrogen fuel.
+
+150
+00:16:16,716 --> 00:16:19,310
+They say that's not supposed
+to be dangerous.
+
+151
+00:16:19,396 --> 00:16:23,275
+One question law enforcement officials
+are trying to determine
+
+152
+00:16:23,356 --> 00:16:25,472
+is whether foul play was involved.
+
+153
+00:16:25,556 --> 00:16:28,024
+As we indicate, that's unconfirmed.
+
+154
+00:16:28,116 --> 00:16:32,746
+But an FBI agent has said, and it was reported
+by a Bureau spokesperson,
+
+155
+00:16:32,836 --> 00:16:35,145
+that no nuclear device went off.
+
+156
+00:16:35,236 --> 00:16:37,306
+There was no atomic explosion.
+
+157
+00:16:37,396 --> 00:16:40,786
+As far as you know,
+are all your people accounted for?
+
+158
+00:16:40,876 --> 00:16:42,867
+Miss Sinclair? Is this all the group?
+
+159
+00:16:42,956 --> 00:16:45,390
+Alistair didn't come home last night.
+
+160
+00:16:45,476 --> 00:16:47,353
+Lu Chen is nowhere to be found.
+
+161
+00:16:47,436 --> 00:16:49,745
+I phoned him and he's not anywhere.
+
+162
+00:16:49,836 --> 00:16:51,827
+I started CPR.
+
+163
+00:16:51,916 --> 00:16:54,350
+I checked for breath, there was no breath.
+
+164
+00:16:54,436 --> 00:16:56,347
+I checked and there was no pulse.
+
+165
+00:16:56,436 --> 00:16:58,233
+I continued with the CPR.
+
+166
+00:17:07,476 --> 00:17:10,991
+Have the locals move
+the perimeter back about 1,000 ft.
+
+167
+00:17:11,076 --> 00:17:12,395
+You got it.
+
+168
+00:17:12,476 --> 00:17:14,546
+Find me a friendly Federal judge.
+
+169
+00:17:14,636 --> 00:17:18,993
+I want wiretap orders, search warrants
+on everyone that worked here.
+
+170
+00:17:19,076 --> 00:17:23,035
+Inspector Ford, you've taken
+charge of this investigation.
+
+171
+00:17:23,116 --> 00:17:24,754
+Why is the FBI involved?
+
+172
+00:17:24,836 --> 00:17:26,713
+Eight city blocks disappeared.
+
+173
+00:17:26,796 --> 00:17:29,026
+The President talked to my boss at 3am.
+
+174
+00:17:29,116 --> 00:17:30,754
+He wants answers.
+
+175
+00:17:45,836 --> 00:17:47,554
+Tell me about Eddie.
+
+176
+00:17:47,636 --> 00:17:49,194
+Does he drink, do drugs?
+
+177
+00:17:49,276 --> 00:17:51,665
+No. He's just a machinist,
+
+178
+00:17:51,756 --> 00:17:55,590
+an undergraduate working to get his degree.
+
+179
+00:17:55,676 --> 00:18:00,113
+<i>That's the undisclosed cost</i>
+<i>of our cheap fossil fuel.</i>
+
+180
+00:18:00,196 --> 00:18:02,187
+Who'd be interested in this?
+
+181
+00:18:02,276 --> 00:18:05,234
+Cheap, clean,
+
+182
+00:18:05,316 --> 00:18:06,988
+abundant energy?
+
+183
+00:18:07,076 --> 00:18:09,067
+Who wouldn't?
+
+184
+00:18:13,276 --> 00:18:15,392
+When you left the party, who was there?
+
+185
+00:18:15,476 --> 00:18:16,875
+Eddie.
+
+186
+00:18:16,956 --> 00:18:21,746
+So, Eddie, tell us again why you came back?
+
+187
+00:18:25,236 --> 00:18:26,908
+I'd come back for my bike.
+
+188
+00:18:26,996 --> 00:18:30,147
+You say you'd returned
+from taking Miss Sinclair home.
+
+189
+00:18:30,236 --> 00:18:33,546
+Yeah. Her car wouldn't start,
+so I took her home on the bus.
+
+190
+00:18:33,636 --> 00:18:36,389
+What is your relationship with Miss Sinclair?
+
+191
+00:18:37,516 --> 00:18:39,507
+Er... We work together.
+
+192
+00:18:39,596 --> 00:18:41,985
+I'm a machinist, she's a physicist.
+
+193
+00:18:42,476 --> 00:18:44,467
+I was
+
+194
+00:18:45,636 --> 00:18:47,627
+hired by Dr Chen.
+
+195
+00:18:47,716 --> 00:18:48,990
+And who is Dr Chen?
+
+196
+00:18:49,076 --> 00:18:51,067
+He was Dr Barkley's
+
+197
+00:18:51,156 --> 00:18:53,750
+project manager.
+
+198
+00:18:53,836 --> 00:18:55,235
+Why did he hire you?
+
+199
+00:18:55,316 --> 00:18:57,307
+Because I'm a physicist.
+
+200
+00:18:59,236 --> 00:19:02,034
+Gentlemen, what have we got here?
+Sergeant?
+
+201
+00:19:02,116 --> 00:19:04,232
+I think we have Mr Chen in the wind.
+
+202
+00:19:05,516 --> 00:19:07,154
+Nick, what did you find?
+
+203
+00:19:07,236 --> 00:19:10,626
+It looks like he packed with a shovel.
+He was in a hurry.
+
+204
+00:19:10,716 --> 00:19:15,426
+Dr Barkley expressed interest
+in a specialist in sonoluminescence.
+
+205
+00:19:15,516 --> 00:19:16,915
+He knew about Dr Chen.
+
+206
+00:19:16,996 --> 00:19:20,272
+So through some friends
+in the State Department,
+
+207
+00:19:20,356 --> 00:19:22,347
+I got him here and onto the team.
+
+208
+00:19:22,436 --> 00:19:24,745
+You have friends in the State Department?
+
+209
+00:19:26,676 --> 00:19:29,395
+We have influential members of the board.
+
+210
+00:19:29,476 --> 00:19:30,465
+Really?
+
+211
+00:19:30,556 --> 00:19:32,751
+Who's on the board of your foundation?
+
+212
+00:19:32,836 --> 00:19:35,066
+Ford.
+
+213
+00:19:35,156 --> 00:19:36,555
+Various scientists...
+
+214
+00:19:36,636 --> 00:19:37,466
+Yeah.
+
+215
+00:19:37,556 --> 00:19:38,989
+...and industrialists.
+
+216
+00:19:39,076 --> 00:19:41,032
+Your Dr Chen is missing.
+
+217
+00:19:41,116 --> 00:19:43,311
+Any idea where he might be?
+
+218
+00:19:44,876 --> 00:19:46,628
+He may be dead.
+
+219
+00:19:46,716 --> 00:19:48,115
+We have no comment.
+
+220
+00:19:48,196 --> 00:19:51,427
+Eddie Kasalivich!
+You said they killed him.
+
+221
+00:19:51,516 --> 00:19:52,869
+Who killed him, Eddie?
+
+222
+00:19:52,956 --> 00:19:56,232
+You were there before the explosion.
+What happened?
+
+223
+00:19:56,316 --> 00:19:58,546
+What are you looking for?
+
+224
+00:19:58,636 --> 00:20:01,867
+We're just examining
+the articles on his desk.
+
+225
+00:20:01,956 --> 00:20:04,470
+- How are you entitled to do that?
+- Annette!
+
+226
+00:20:04,556 --> 00:20:08,185
+They have a search warrant,
+but no respect for a man's life.
+
+227
+00:20:08,276 --> 00:20:10,073
+I want a full inventory.
+
+228
+00:20:10,156 --> 00:20:13,671
+These are very important,
+sensitive scientific papers.
+
+229
+00:20:13,756 --> 00:20:16,031
+- We'll give you copies.
+- Signed, please!
+
+230
+00:20:17,636 --> 00:20:19,991
+<i>For two decades, Doctor Barkley...</i>
+
+231
+00:20:20,076 --> 00:20:23,466
+I have to speak
+to the university's legal counsel.
+
+232
+00:20:23,556 --> 00:20:25,706
+Please give Lily any help you can.
+
+233
+00:20:25,796 --> 00:20:27,787
+I can't stay here tonight.
+
+234
+00:20:30,276 --> 00:20:34,474
+<i>Among the missing is Dr Lu Chen,</i>
+<i>who the authorities are looking for.</i>
+
+235
+00:20:34,556 --> 00:20:37,024
+<i>He may be considered a suspect...</i>
+
+236
+00:20:37,116 --> 00:20:40,108
+- This is insane.
+- They're going to think he did it.
+
+237
+00:20:49,476 --> 00:20:51,148
+Oh, no.
+
+238
+00:20:51,236 --> 00:20:53,386
+- What is it?
+- It's from
+
+239
+00:20:54,316 --> 00:20:56,307
+Dr Lu Chen.
+
+240
+00:20:57,116 --> 00:21:00,188
+He wants me
+to bring the rest of the information,
+
+241
+00:21:00,276 --> 00:21:03,473
+all the data and meet him
+at the rendezvous in Shanghai.
+
+242
+00:21:10,276 --> 00:21:12,267
+I'm being framed.
+
+243
+00:21:12,836 --> 00:21:14,827
+What are you talking about?
+
+244
+00:21:14,916 --> 00:21:17,555
+- This isn't from Chen.
+- How do you know?
+
+245
+00:21:17,636 --> 00:21:20,434
+- He doesn't write like this.
+- Then who sent it?
+
+246
+00:21:20,516 --> 00:21:22,507
+I don't know who sent it.
+
+247
+00:21:23,076 --> 00:21:24,794
+Where's Chen?
+
+248
+00:21:25,676 --> 00:21:28,144
+You don't think he did it?
+
+249
+00:21:34,996 --> 00:21:36,987
+Let's er...
+
+250
+00:21:37,076 --> 00:21:39,306
+Let's get outta here, OK?
+
+251
+00:21:57,276 --> 00:21:58,868
+Can I help you?
+
+252
+00:21:58,956 --> 00:22:02,232
+I sure hope so.
+We're looking for Mr Paul Shannon.
+
+253
+00:22:02,316 --> 00:22:04,307
+He's on the phone right now.
+
+254
+00:22:05,196 --> 00:22:07,312
+Excuse me, you can't go in there!
+
+255
+00:22:07,396 --> 00:22:08,670
+You can't go in!
+
+256
+00:22:08,756 --> 00:22:11,145
+<i>There's a lot to explain.</i>
+
+257
+00:22:11,236 --> 00:22:13,352
+I'll call you back.
+
+258
+00:22:15,236 --> 00:22:17,227
+What now, Agent Ford?
+
+259
+00:22:17,316 --> 00:22:19,955
+We've received Eddie Kasalivich's file.
+
+260
+00:22:20,036 --> 00:22:24,314
+He left college for disciplinary reasons.
+He blew the hell out of the lab.
+
+261
+00:22:24,396 --> 00:22:27,513
+- This is a coincidence!
+- You knew he was kicked out of school?
+
+262
+00:22:27,596 --> 00:22:29,951
+He resigned.
+
+263
+00:22:30,036 --> 00:22:32,948
+- Under some pressure?
+- There was some pressure, yes.
+
+264
+00:22:33,036 --> 00:22:36,187
+- He blows up a building...
+- Minor structural damage.
+
+265
+00:22:36,276 --> 00:22:39,234
+It was an interesting experiment.
+It might have worked.
+
+266
+00:22:39,316 --> 00:22:42,672
+Didn't you think
+this information was important?
+
+267
+00:22:42,756 --> 00:22:44,951
+I don't see the relevance.
+
+268
+00:22:45,036 --> 00:22:49,268
+- You don't see a small connection?
+- No, Agent Ford, I don't.
+
+269
+00:22:49,356 --> 00:22:52,632
+The CIA tells me
+Chen might be involved in espionage.
+
+270
+00:22:52,716 --> 00:22:54,752
+Kasalivich's past makes me nervous.
+
+271
+00:22:54,836 --> 00:22:59,307
+And Miss Sinclair is receiving faxes
+inviting her to mainland China.
+
+272
+00:23:04,556 --> 00:23:06,547
+Really?
+
+273
+00:23:08,076 --> 00:23:10,271
+Really.
+
+274
+00:23:25,916 --> 00:23:27,349
+What's wrong?
+
+275
+00:23:31,796 --> 00:23:33,787
+That's my place.
+
+276
+00:23:35,396 --> 00:23:37,068
+Let's get outta here.
+
+277
+00:23:46,556 --> 00:23:49,787
+- It's a real shithole.
+- How much does this guy make?
+
+278
+00:23:49,876 --> 00:23:51,867
+Not much, he's a student machinist.
+
+279
+00:23:51,956 --> 00:23:54,595
+- Sheen, why are you outside?
+- Stay warm, buddy!
+
+280
+00:23:54,676 --> 00:23:57,031
+Got a loft for your mother.
+Very artistic.
+
+281
+00:23:57,116 --> 00:24:00,153
+- Who's upstairs?
+- Everybody. Half the city.
+
+282
+00:24:05,076 --> 00:24:07,954
+- Do you want to check that cabinet?
+- I got it.
+
+283
+00:24:08,036 --> 00:24:11,108
+Jesus, you could put together
+almost anything here.
+
+284
+00:24:11,196 --> 00:24:12,390
+I want all this.
+
+285
+00:24:12,476 --> 00:24:15,548
+All right! We need a total lab workup.
+
+286
+00:24:15,676 --> 00:24:18,474
+It's er... a neutron cappuccino machine.
+
+287
+00:24:19,876 --> 00:24:21,946
+Yeah, don't touch it.
+
+288
+00:24:27,636 --> 00:24:30,355
+Hey, Nick! What's this?
+
+289
+00:24:30,436 --> 00:24:32,427
+It's a transmitter.
+
+290
+00:24:32,516 --> 00:24:34,666
+It's a burst transmitter.
+
+291
+00:24:34,756 --> 00:24:36,075
+What does it do?
+
+292
+00:24:36,156 --> 00:24:39,626
+It sends massive amounts
+of information by satellite
+
+293
+00:24:39,716 --> 00:24:41,593
+probably to China.
+
+294
+00:24:49,676 --> 00:24:51,667
+Nick! Doyle!
+
+295
+00:24:52,916 --> 00:24:56,147
+<i>Calls flooded into</i>
+<i>the University Of Chicago</i>
+
+296
+00:24:56,236 --> 00:24:59,626
+<i>from all over the world,</i>
+<i>enquiring about the professor.</i>
+
+297
+00:24:59,716 --> 00:25:02,788
+<i>Concern came from</i>
+<i>the Royal Academy in London,</i>
+
+298
+00:25:02,876 --> 00:25:05,515
+<i>from Paris, Moscow</i>
+<i>and all parts of the compass.</i>
+
+299
+00:25:05,596 --> 00:25:09,145
+<i>But at the same time,</i>
+<i>critics say Barkley was a Utopian dreamer.</i>
+
+300
+00:25:09,236 --> 00:25:13,309
+<i>They point out that the research</i>
+<i>he was involved with</i>
+
+301
+00:25:13,396 --> 00:25:16,513
+<i>was far more dangerous than he realised.</i>
+
+302
+00:25:30,436 --> 00:25:32,427
+Paul.
+
+303
+00:25:33,996 --> 00:25:34,985
+Shannon!
+
+304
+00:25:37,236 --> 00:25:39,227
+What's going on?
+
+305
+00:25:40,036 --> 00:25:42,072
+Tell me about the money, Eddie.
+
+306
+00:25:42,156 --> 00:25:43,191
+What money?
+
+307
+00:25:43,276 --> 00:25:46,154
+The $250,000 the FBI found in your loft.
+
+308
+00:25:47,276 --> 00:25:49,870
+I don't know what you're talking about.
+
+309
+00:25:49,956 --> 00:25:52,834
+What about the burst transmitter?
+Think hard.
+
+310
+00:25:54,796 --> 00:25:56,752
+Jesus...
+
+311
+00:25:56,836 --> 00:25:59,987
+I suppose you're not in communication
+with Dr Chen in China?
+
+312
+00:26:00,076 --> 00:26:01,873
+It wasn't Chen.
+
+313
+00:26:01,956 --> 00:26:04,151
+- Do you have an attorney?
+- No.
+
+314
+00:26:04,236 --> 00:26:06,227
+I've got a good one.
+
+315
+00:26:06,316 --> 00:26:09,865
+He'll negotiate your surrender.
+Come on. We'll call him.
+
+316
+00:26:09,956 --> 00:26:12,470
+- Surrender?
+- They'll want to talk to you.
+
+317
+00:26:12,556 --> 00:26:14,467
+- I'm not going.
+- What do you mean?
+
+318
+00:26:14,556 --> 00:26:17,070
+- We didn't do anything.
+- The FBI will figure that out.
+
+319
+00:26:17,156 --> 00:26:20,705
+We're being set up. I'm not going
+to the cops until I know more.
+
+320
+00:26:20,796 --> 00:26:24,630
+Run, and you'll have
+every gun-carrying idiot in the US after you.
+
+321
+00:26:24,716 --> 00:26:25,865
+Look,
+
+322
+00:26:25,956 --> 00:26:27,708
+talk to this lawyer.
+
+323
+00:26:27,796 --> 00:26:29,787
+We'll go somewhere safe
+
+324
+00:26:29,876 --> 00:26:32,185
+- and wait until you work it out.
+- Where?
+
+325
+00:26:32,276 --> 00:26:34,028
+Maggie's.
+
+326
+00:26:34,116 --> 00:26:35,754
+We'll go to Maggie's.
+
+327
+00:26:35,836 --> 00:26:39,306
+OK. Have you got any money?
+
+328
+00:26:39,396 --> 00:26:41,273
+- $40.
+- All right.
+
+329
+00:26:41,356 --> 00:26:42,345
+Here.
+
+330
+00:26:42,436 --> 00:26:46,668
+When you get there, stay put.
+Don't use the phone. I'll call you.
+
+331
+00:26:51,396 --> 00:26:53,387
+Why is this happening, Paul?
+
+332
+00:26:54,276 --> 00:26:56,267
+It's gonna be all right, Eddie.
+
+333
+00:26:56,356 --> 00:26:58,347
+I promise you.
+
+334
+00:26:58,876 --> 00:27:01,265
+Wait here five minutes, then leave.
+
+335
+00:27:06,716 --> 00:27:09,708
+What do we know about this Shannon?
+
+336
+00:27:09,796 --> 00:27:12,868
+Georgetown Law,
+Kennedy School of Government.
+
+337
+00:27:12,956 --> 00:27:15,675
+Worked for several aerospace giants.
+
+338
+00:27:15,756 --> 00:27:18,111
+Three years in Washington
+under Reagan...
+
+339
+00:27:18,196 --> 00:27:20,187
+- Oh, yeah? Doing what?
+- DARPA.
+
+340
+00:27:20,276 --> 00:27:22,665
+Defence Advanced Research
+Project Administration.
+
+341
+00:27:22,756 --> 00:27:25,475
+Jesus! Who the hell is this guy?
+
+342
+00:27:25,556 --> 00:27:28,787
+He's notjust someone that runs a foundation.
+
+343
+00:27:34,876 --> 00:27:39,233
+There's a train at 8.40
+at the Union Station to Williams Bay.
+
+344
+00:27:39,316 --> 00:27:42,035
+- That's where Maggie lives.
+- You can trust her?
+
+345
+00:27:42,116 --> 00:27:43,674
+We lived and worked together.
+
+346
+00:27:43,756 --> 00:27:46,634
+<i>This is the Channel 32 special report.</i>
+
+347
+00:27:47,276 --> 00:27:50,552
+<i>We go live to the Federal Office Building</i>
+<i>in Chicago.</i>
+
+348
+00:27:50,636 --> 00:27:54,868
+<i>As you know, it's been</i>
+<i>a very long and a very trying day for us all.</i>
+
+349
+00:27:55,796 --> 00:27:59,311
+Material witness warrants
+have been issued in Illinois
+
+350
+00:27:59,396 --> 00:28:01,466
+for Professor Lu Chen,
+
+351
+00:28:02,436 --> 00:28:06,031
+<i>Dr Lily Sinclair, and Edward Kasalivich.</i>
+
+352
+00:28:06,996 --> 00:28:08,987
+Oh, my God!
+
+353
+00:28:09,116 --> 00:28:13,394
+<i>If anyone knows their whereabouts,</i>
+<i>please contact the Chicago FBI office.</i>
+
+354
+00:28:13,476 --> 00:28:16,991
+What are we going to do?
+We can't leave here together.
+
+355
+00:28:18,996 --> 00:28:22,511
+Get a cab outside. Buy two tickets.
+
+356
+00:28:22,596 --> 00:28:25,315
+Williams Bay. I'll meet you on the track.
+
+357
+00:28:28,796 --> 00:28:30,195
+Be safe.
+
+358
+00:28:30,276 --> 00:28:31,948
+You too.
+
+359
+00:28:35,596 --> 00:28:37,075
+<i>His body was found...</i>
+
+360
+00:28:37,156 --> 00:28:40,114
+Hey, Mike, did you see that guy?
+
+361
+00:28:48,276 --> 00:28:50,312
+Union Station, please.
+
+362
+00:28:58,276 --> 00:29:00,585
+Hey! Hey, you! Come here.
+
+363
+00:29:02,116 --> 00:29:03,435
+Hey!
+
+364
+00:29:03,516 --> 00:29:04,744
+Officer!
+
+365
+00:29:06,196 --> 00:29:08,471
+Hey, buddy!
+
+366
+00:29:11,036 --> 00:29:12,264
+Hey, you!
+
+367
+00:29:32,076 --> 00:29:34,715
+I got him! I got him!
+
+368
+00:29:37,916 --> 00:29:40,510
+It makes no sense.
+If Kasalivich is just a pawn,
+
+369
+00:29:40,596 --> 00:29:42,587
+why has he got a burst transmitter?
+
+370
+00:29:42,676 --> 00:29:43,995
+What?
+
+371
+00:29:44,076 --> 00:29:46,146
+He's gotta be transmitting to someone.
+
+372
+00:29:46,236 --> 00:29:48,033
+- Unbelievable.
+- What?
+
+373
+00:29:48,116 --> 00:29:50,755
+CPD's chasing Kasalivich
+down Michigan Avenue.
+
+374
+00:30:07,836 --> 00:30:09,713
+Stay where you are!
+
+375
+00:30:46,356 --> 00:30:49,154
+He's gonna fall! Get me a boat under there!
+
+376
+00:30:52,076 --> 00:30:54,067
+What the hell's he doing?
+
+377
+00:31:01,516 --> 00:31:04,155
+He's going over!
+Hey! We got guys downstairs?
+
+378
+00:31:18,316 --> 00:31:21,831
+- What did I tell you? He just went over.
+- Stairs, over here.
+
+379
+00:31:26,756 --> 00:31:28,906
+Listen. How do we get him down?
+
+380
+00:31:28,996 --> 00:31:32,466
+Officer, if I move that bridge, he's gonna fall.
+
+381
+00:31:39,596 --> 00:31:41,985
+- Can he get out lower down?
+- Leads down to the gear room.
+
+382
+00:31:42,076 --> 00:31:44,465
+- Bring the bridge down.
+- He'll get crushed.
+
+383
+00:31:44,556 --> 00:31:46,626
+Ten-four. Bring it down slow.
+
+384
+00:32:10,196 --> 00:32:13,108
+- Bring the bridge down now!
+- Get over there!
+
+385
+00:32:41,716 --> 00:32:44,594
+Hey! What's happening? Why did it stop?
+
+386
+00:32:52,276 --> 00:32:54,267
+Right, I want this cleared.
+
+387
+00:32:54,356 --> 00:32:56,347
+Let's go! Do a search!
+
+388
+00:33:23,636 --> 00:33:25,866
+Move it, move it!
+
+389
+00:33:25,956 --> 00:33:27,514
+Go! Go! Right now!
+
+390
+00:33:27,596 --> 00:33:30,906
+You! Back this thing outta here. Come on!
+
+391
+00:33:38,196 --> 00:33:40,152
+So where the hell is he?
+
+392
+00:33:40,356 --> 00:33:43,712
+<i>Amtrak northbound, no.343,</i>
+
+393
+00:33:43,796 --> 00:33:46,264
+<i>now leaving on track 19</i>
+
+394
+00:33:46,356 --> 00:33:50,349
+<i>for Fox Lake, Wallburgh, Williams Bay,</i>
+
+395
+00:33:50,596 --> 00:33:52,587
+<i>Jamesfield and Madison.</i>
+
+396
+00:33:53,876 --> 00:33:57,710
+- God! I didn't think I was gonna make it.
+- Watch your step.
+
+397
+00:34:00,476 --> 00:34:03,115
+Don't worry, he'll be here.
+
+398
+00:34:17,276 --> 00:34:19,267
+You were right.
+
+399
+00:34:23,836 --> 00:34:25,792
+What took you so long?
+
+400
+00:34:25,876 --> 00:34:27,355
+The bridge was up.
+
+401
+00:34:27,876 --> 00:34:30,026
+All aboard!
+
+402
+00:34:49,916 --> 00:34:51,907
+- Here you go.
+- Thanks.
+
+403
+00:34:59,156 --> 00:35:01,147
+Thank you.
+
+404
+00:35:04,676 --> 00:35:07,270
+Are you sure
+she's going to be up this late?
+
+405
+00:35:07,356 --> 00:35:09,586
+Yeah, she's usually up all night.
+
+406
+00:35:09,676 --> 00:35:13,305
+- She's kinda wild.
+- Oh.
+
+407
+00:35:13,396 --> 00:35:16,035
+- I worked up here one summer.
+- Oh!
+
+408
+00:35:38,476 --> 00:35:40,512
+Maggie.
+
+409
+00:35:42,876 --> 00:35:43,911
+Maggie!
+
+410
+00:35:44,916 --> 00:35:46,349
+Oh, my.
+
+411
+00:35:47,796 --> 00:35:50,833
+Tell me you didn't do it, Eddie!
+
+412
+00:35:50,916 --> 00:35:52,634
+I didn't do it.
+
+413
+00:35:56,356 --> 00:35:58,347
+Oh, it's good to see you, man.
+
+414
+00:35:59,476 --> 00:36:01,626
+You must be the other terrorist.
+
+415
+00:36:01,716 --> 00:36:04,105
+- I guess I am.
+- Maggie, this is Lily.
+
+416
+00:36:06,116 --> 00:36:08,107
+Hi, Lily.
+
+417
+00:36:16,316 --> 00:36:19,752
+- Have a nice trip, Mr Shannon.
+- Thank you, Bobby.
+
+418
+00:36:30,476 --> 00:36:34,628
+How did you get me into this hearing?
+I don't have this kind of clearance.
+
+419
+00:36:34,716 --> 00:36:36,547
+I know a guy that knows a guy.
+
+420
+00:36:36,636 --> 00:36:38,627
+- Who?
+- It's a guy.
+
+421
+00:36:38,716 --> 00:36:40,195
+Who's the guy?
+
+422
+00:36:40,276 --> 00:36:43,188
+Doyle, it's national security. I can't tell you.
+
+423
+00:36:43,276 --> 00:36:45,631
+Security concerns must be given
+
+424
+00:36:45,716 --> 00:36:48,867
+greater importance in industrial research.
+
+425
+00:36:48,956 --> 00:36:51,789
+We don't know the cause of the explosion.
+
+426
+00:36:51,876 --> 00:36:54,709
+And we don't know
+the source of the espionage,
+
+427
+00:36:54,796 --> 00:36:57,833
+if indeed there was espionage.
+
+428
+00:36:57,916 --> 00:37:02,467
+But we do know that we are at risk.
+
+429
+00:37:02,556 --> 00:37:08,188
+Every idea that offers a competitive
+advantage to Americans is subject to theft.
+
+430
+00:37:08,276 --> 00:37:11,313
+And that, gentlemen, could be catastrophic.
+
+431
+00:37:11,396 --> 00:37:13,114
+Mr Shannon,
+
+432
+00:37:13,196 --> 00:37:17,109
+over the past ten years,
+this committee has approved
+
+433
+00:37:17,196 --> 00:37:22,554
+hundreds of millions of dollars
+for your research projects
+
+434
+00:37:22,636 --> 00:37:27,585
+without having one good,
+goddamn idea about where the hell
+
+435
+00:37:27,676 --> 00:37:29,667
+all the money was going.
+
+436
+00:37:29,756 --> 00:37:33,032
+He's talking about our tax dollars up there.
+
+437
+00:37:33,116 --> 00:37:35,755
+We were under the impression, Senator,
+
+438
+00:37:35,836 --> 00:37:39,909
+that you passed legislation
+to ensure that you wouldn't know.
+
+439
+00:37:39,996 --> 00:37:44,626
+Or perhaps, more accurately,
+that you didn't want to know.
+
+440
+00:37:44,716 --> 00:37:48,504
+I'm aware of the law, Mr Shannon,
+thank you. I wrote it.
+
+441
+00:37:48,596 --> 00:37:52,589
+But I don't remember,
+when I drafted it, that I anticipated
+
+442
+00:37:52,676 --> 00:37:57,352
+a large portion
+of the south side of Chicago blown up.
+
+443
+00:37:57,436 --> 00:38:01,145
+What assurances can you give me
+and this committee
+
+444
+00:38:01,236 --> 00:38:03,955
+that this event will never happen again?
+
+445
+00:38:06,276 --> 00:38:08,267
+None, Senator.
+
+446
+00:38:09,756 --> 00:38:12,828
+The incident in Chicago was tragic,
+to be sure.
+
+447
+00:38:12,916 --> 00:38:15,669
+But sometimes that is the price we must pay
+
+448
+00:38:15,756 --> 00:38:18,395
+to ensure our competitive edge in the future.
+
+449
+00:38:18,476 --> 00:38:22,071
+We didn't intend to pay for
+our space exploration programme
+
+450
+00:38:22,156 --> 00:38:25,387
+with the lives of ten American astronauts.
+But we did.
+
+451
+00:38:25,476 --> 00:38:29,788
+Nevertheless,
+we must not waver in our commitment
+
+452
+00:38:29,876 --> 00:38:32,913
+to scientific research and development.
+
+453
+00:38:32,996 --> 00:38:35,510
+As you gentlemen know,
+
+454
+00:38:35,596 --> 00:38:38,474
+there are many threats to our way of life.
+
+455
+00:38:38,556 --> 00:38:40,911
+And not all of them wear uniforms
+
+456
+00:38:40,996 --> 00:38:42,793
+and carry guns.
+
+457
+00:38:42,876 --> 00:38:48,030
+Mr Shannon, I want to thank you for your
+appearance today before this committee.
+
+458
+00:38:48,116 --> 00:38:50,471
+You have spoken like a true patriot
+
+459
+00:38:50,556 --> 00:38:52,945
+of whom this country can be very proud.
+
+460
+00:38:54,076 --> 00:38:56,510
+Thank you, sir.
+
+461
+00:39:06,476 --> 00:39:09,513
+- I think I'm getting through.
+- What about Lucasz?
+
+462
+00:39:09,596 --> 00:39:12,713
+He never got over
+not getting his credentials.
+
+463
+00:39:12,796 --> 00:39:15,310
+No-one on the team could have done this.
+
+464
+00:39:15,396 --> 00:39:18,672
+Whoever is doing this
+knows an awful lot about us.
+
+465
+00:39:19,556 --> 00:39:21,512
+If I hadn't have shown up,
+
+466
+00:39:21,596 --> 00:39:24,793
+they would have thought it was an accident.
+
+467
+00:39:24,876 --> 00:39:27,913
+And nobody would know
+what's really going on.
+
+468
+00:39:29,116 --> 00:39:32,028
+Oh, my God.
+
+469
+00:40:03,836 --> 00:40:06,828
+- Welcome back, boss. We missed you.
+- What about me?
+
+470
+00:40:06,916 --> 00:40:09,225
+Surveillance is up on Shannon's estate.
+
+471
+00:40:09,316 --> 00:40:11,307
+Cue it up, Jimmy.
+
+472
+00:40:14,676 --> 00:40:17,554
+Where are the files
+on the Moore Foundation?
+
+473
+00:40:43,076 --> 00:40:44,304
+<i>Gentlemen,</i>
+
+474
+00:40:44,396 --> 00:40:45,511
+Shannon's moving.
+
+475
+00:41:33,676 --> 00:41:37,032
+<i>There will be an orientation meeting</i>
+
+476
+00:41:37,116 --> 00:41:39,914
+<i>in the main auditorium, on level one...</i>
+
+477
+00:41:42,916 --> 00:41:44,907
+- Is everyone here?
+- Yes.
+
+478
+00:41:44,996 --> 00:41:47,715
+- Is it running?
+- Not yet.
+
+479
+00:42:01,116 --> 00:42:03,072
+Good afternoon, gentlemen.
+
+480
+00:42:03,156 --> 00:42:06,034
+FBI. I'm Agent Williams, this is Agent Lim.
+
+481
+00:42:06,116 --> 00:42:08,505
+So, what kind of facility is this?
+
+482
+00:42:08,596 --> 00:42:11,349
+I'm sorry, sir,
+we're not allowed to discuss this.
+
+483
+00:42:20,996 --> 00:42:25,911
+Good morning, ladies and gentlemen.
+Bear with me, and we'll soon get started.
+
+484
+00:42:25,996 --> 00:42:27,987
+Thank you.
+
+485
+00:42:28,076 --> 00:42:32,149
+I don't care if he's got
+an appointment with Mother Teresa.
+
+486
+00:42:32,236 --> 00:42:35,387
+We have been waiting for him
+for 35 minutes.
+
+487
+00:42:35,476 --> 00:42:37,432
+You're late.
+
+488
+00:42:38,876 --> 00:42:41,595
+This is another one of your messes, Lyman.
+
+489
+00:42:41,676 --> 00:42:43,473
+It's not the Peace Corps, Paul.
+
+490
+00:42:43,556 --> 00:42:47,231
+- Anyway, you said you had it under control.
+- I did!
+
+491
+00:42:47,316 --> 00:42:48,874
+This thing's still not working.
+
+492
+00:42:50,036 --> 00:42:52,345
+You've got to call off the Bureau.
+
+493
+00:42:52,436 --> 00:42:54,154
+Do you understand?
+
+494
+00:42:54,236 --> 00:42:56,113
+I'm not sure I can do that.
+
+495
+00:42:56,196 --> 00:42:59,154
+There's an awful lot of explaining to do.
+
+496
+00:43:00,196 --> 00:43:02,187
+Where's the young man?
+
+497
+00:43:04,196 --> 00:43:06,187
+Kasalivich?
+
+498
+00:43:08,036 --> 00:43:10,027
+He's someplace safe.
+
+499
+00:43:10,116 --> 00:43:12,107
+I'm bringing him in today.
+
+500
+00:43:15,796 --> 00:43:17,787
+Paul!
+
+501
+00:43:20,476 --> 00:43:22,831
+If someone's going down for this,
+
+502
+00:43:22,916 --> 00:43:25,111
+it is not gonna be I.
+
+503
+00:43:32,036 --> 00:43:33,674
+Paul Shannon, please.
+
+504
+00:43:33,756 --> 00:43:36,554
+Maggie McDermott. We're old friends.
+
+505
+00:43:37,076 --> 00:43:39,067
+Washington.
+
+506
+00:43:39,836 --> 00:43:42,304
+Area code's Wisconsin. Checking the prefix.
+
+507
+00:43:42,396 --> 00:43:43,624
+Punch it up.
+
+508
+00:43:48,556 --> 00:43:52,105
+Maggie McDermott. She was
+put through from the Chicago office.
+
+509
+00:43:54,076 --> 00:43:55,828
+Maggie?
+
+510
+00:43:57,076 --> 00:43:59,032
+Shannon, it's Eddie.
+
+511
+00:44:01,316 --> 00:44:02,908
+It's scrambled.
+
+512
+00:44:02,996 --> 00:44:07,114
+- It's him, on a payphone in Williams Bay.
+- I'll get the locals.
+
+513
+00:44:07,196 --> 00:44:11,189
+- What are you doing?
+- It's OK, it's a payphone. That fax...
+
+514
+00:44:11,276 --> 00:44:12,550
+I know about that.
+
+515
+00:44:12,636 --> 00:44:15,196
+Wait at Maggie's.
+I'll send someone for you.
+
+516
+00:44:15,276 --> 00:44:16,789
+Lily tracked it to Beijing.
+
+517
+00:44:16,876 --> 00:44:19,026
+It routed through a Chinese company,
+
+518
+00:44:19,116 --> 00:44:22,153
+but it came from
+the US Technological Business Council.
+
+519
+00:44:22,236 --> 00:44:23,669
+We've gotta go.
+
+520
+00:44:23,756 --> 00:44:26,065
+- Heard of it?
+- They'll be there in an hour.
+
+521
+00:44:26,156 --> 00:44:27,953
+Now, Eddie!
+
+522
+00:44:29,876 --> 00:44:32,265
+- I gotta go. We'll come to you.
+- No, don't.
+
+523
+00:44:33,076 --> 00:44:34,111
+Eddie. Eddie!
+
+524
+00:44:34,196 --> 00:44:35,709
+- Thanks.
+- Good luck.
+
+525
+00:44:41,956 --> 00:44:45,073
+Officer. Hey, hey! Andy!
+
+526
+00:44:45,156 --> 00:44:47,750
+You know that guy on the news?
+I saw him run up there.
+
+527
+00:44:47,836 --> 00:44:49,508
+Really, Maggie?
+
+528
+00:44:55,356 --> 00:44:58,507
+You should have brought him in
+when you had the chance.
+
+529
+00:45:12,476 --> 00:45:14,512
+Get to the observatory, right away!
+
+530
+00:45:32,116 --> 00:45:33,629
+Lily! Lily!
+
+531
+00:45:33,716 --> 00:45:36,184
+- Eddie, it's unbelievable.
+- We've gotta go.
+
+532
+00:45:36,276 --> 00:45:40,349
+Listen, listen. This council
+lobbies for defence contractors...
+
+533
+00:45:40,436 --> 00:45:43,553
+- We've gotta go now. The cops are here.
+- What!
+
+534
+00:45:43,636 --> 00:45:45,228
+Come on!
+
+535
+00:45:45,316 --> 00:45:47,307
+How did they find us?
+
+536
+00:45:47,796 --> 00:45:50,071
+Hey! Hold it right there.
+
+537
+00:45:50,156 --> 00:45:52,112
+Hey!
+
+538
+00:45:52,196 --> 00:45:53,868
+Hold it! Hey!
+
+539
+00:45:53,956 --> 00:45:55,548
+Stop!
+
+540
+00:46:04,716 --> 00:46:06,707
+Hold it!
+
+541
+00:46:06,796 --> 00:46:09,105
+Stop! Hold it right there.
+
+542
+00:46:09,956 --> 00:46:11,150
+Get your hands up.
+
+543
+00:46:12,356 --> 00:46:13,584
+Get 'em up!
+
+544
+00:46:15,956 --> 00:46:18,231
+Walk back slowly towards me.
+
+545
+00:46:18,316 --> 00:46:20,307
+Come on, do it!
+
+546
+00:46:21,156 --> 00:46:23,112
+Keep coming.
+
+547
+00:46:26,156 --> 00:46:27,635
+Good, hold it right there.
+
+548
+00:46:31,876 --> 00:46:35,505
+This is Nemitz,
+on the roof of the observatory.
+
+549
+00:46:35,596 --> 00:46:36,870
+I've got 'em.
+
+550
+00:46:38,356 --> 00:46:39,550
+Aagh!
+
+551
+00:46:47,716 --> 00:46:49,832
+Go! Go, go, go, go!
+
+552
+00:46:59,756 --> 00:47:01,792
+Come on!
+
+553
+00:47:09,196 --> 00:47:12,745
+On the roof!
+Get a medical team up here right away.
+
+554
+00:47:12,836 --> 00:47:14,827
+Suspect is armed!
+
+555
+00:47:31,716 --> 00:47:33,115
+Get in the boat!
+
+556
+00:47:34,476 --> 00:47:38,515
+- Eddie, what are you doing?
+- Get in!
+
+557
+00:47:54,756 --> 00:47:56,314
+Eddie, what are you doing?
+
+558
+00:47:56,396 --> 00:47:58,705
+The best I can.
+
+559
+00:47:58,796 --> 00:48:00,468
+Get the boat!
+
+560
+00:48:00,556 --> 00:48:03,024
+He's on the ice!
+
+561
+00:48:11,196 --> 00:48:13,585
+- Are you OK?
+- Yes!
+
+562
+00:48:46,836 --> 00:48:49,714
+He's out of our sight. 12 o'clock.
+
+563
+00:49:00,036 --> 00:49:02,470
+Lily, the bag! Give me the bag.
+
+564
+00:49:04,796 --> 00:49:06,787
+Go, go!
+
+565
+00:49:32,036 --> 00:49:33,947
+There's nobody in there!
+
+566
+00:49:38,196 --> 00:49:41,154
+<i>We need a pollution revolution.</i>
+
+567
+00:49:41,236 --> 00:49:44,433
+I don't care.
+Search all of Wisconsin if you have to.
+
+568
+00:49:44,516 --> 00:49:46,313
+They lost him?
+
+569
+00:49:46,396 --> 00:49:49,911
+We've been to C-Systems.
+We can't get any information.
+
+570
+00:49:49,996 --> 00:49:54,786
+It used to be a government-run facility.
+Now county records say it doesn't even exist.
+
+571
+00:49:54,876 --> 00:49:56,912
+Maybe you weren't really there.
+
+572
+00:49:56,996 --> 00:49:58,987
+Maybe we're not really here.
+
+573
+00:50:23,716 --> 00:50:26,355
+Eddie, I can't... feel my legs.
+
+574
+00:50:26,436 --> 00:50:27,425
+Come on.
+
+575
+00:50:34,476 --> 00:50:36,467
+Come on.
+
+576
+00:51:13,316 --> 00:51:15,955
+We've got fire, we've got fire.
+
+577
+00:51:37,036 --> 00:51:40,233
+Why would a policeman
+shoot another policeman?
+
+578
+00:51:42,956 --> 00:51:44,947
+Maybe they weren't police.
+
+579
+00:51:47,596 --> 00:51:51,305
+Why didn't they shoot at us?
+
+580
+00:51:51,396 --> 00:51:53,671
+I don't know.
+
+581
+00:52:03,116 --> 00:52:05,107
+What a dump, huh?
+
+582
+00:52:06,356 --> 00:52:08,551
+- Mr Shannon.
+- What?
+
+583
+00:52:08,636 --> 00:52:10,354
+Two FBI agents want to see you.
+
+584
+00:52:10,436 --> 00:52:13,394
+This is more important
+than his afternoon tea.
+
+585
+00:52:18,076 --> 00:52:21,512
+My apologies for interrupting
+your tea, Mr Shannon.
+
+586
+00:52:21,596 --> 00:52:25,350
+- What's Kasalivich doing in Wisconsin?
+- Running away from you.
+
+587
+00:52:25,436 --> 00:52:26,585
+We understand he phoned you.
+
+588
+00:52:28,658 --> 00:52:30,808
+I counselled Eddie
+to turn himself in to the authorities.
+
+589
+00:52:30,898 --> 00:52:35,016
+He and Miss Sinclair
+shot a Wisconsin state trooper.
+
+590
+00:52:35,098 --> 00:52:38,010
+I doubt that very seriously.
+
+591
+00:52:38,098 --> 00:52:41,010
+Well... the state trooper's very dead.
+
+592
+00:52:42,898 --> 00:52:47,130
+Mr Shannon, these are copies
+of the Moore Foundation IRS files.
+
+593
+00:52:48,098 --> 00:52:50,089
+Do you know what's in them?
+
+594
+00:52:51,898 --> 00:52:53,889
+Meagre tax records, I imagine.
+
+595
+00:52:53,978 --> 00:52:56,287
+We are a non-profit organisation.
+
+596
+00:52:57,138 --> 00:53:02,371
+The funding for your foundation
+comes from a wide variety of sources.
+
+597
+00:53:02,458 --> 00:53:06,371
+Defence contractors,
+telecommunication companies, aerospace.
+
+598
+00:53:06,458 --> 00:53:09,052
+It's gratifying to know
+our work is appreciated.
+
+599
+00:53:09,138 --> 00:53:12,574
+The bulk of funding seems to come
+from one Cayman Islands account.
+
+600
+00:53:12,658 --> 00:53:14,216
+I don't do the fundraising.
+
+601
+00:53:14,298 --> 00:53:17,176
+Oh, yeah. And the account is classified.
+
+602
+00:53:17,258 --> 00:53:19,852
+Who pays your salary, Mr Shannon?
+
+603
+00:53:19,938 --> 00:53:22,247
+The foundation pays my salary.
+
+604
+00:53:22,338 --> 00:53:24,898
+Classified accounts,
+encrypted phone calls...
+
+605
+00:53:24,978 --> 00:53:30,848
+A man could be forgiven for thinking
+that your foundation is a front for the CIA.
+
+606
+00:53:30,938 --> 00:53:35,853
+In that case, there may be national security
+issues here that are larger than us all.
+
+607
+00:53:35,938 --> 00:53:38,850
+Obstructing an FBI investigation
+is a federal crime.
+
+608
+00:53:38,938 --> 00:53:41,611
+- I know the law, Mr...
+- Doyle.
+
+609
+00:53:41,698 --> 00:53:45,008
+National security does not include
+murdering people.
+
+610
+00:53:45,098 --> 00:53:46,656
+Domestically, at least.
+
+611
+00:53:46,738 --> 00:53:49,013
+Tell your friends at Langley
+
+612
+00:53:49,098 --> 00:53:51,407
+that domestic is our back yard.
+
+613
+00:53:51,498 --> 00:53:53,887
+They're not allowed to play here.
+
+614
+00:53:55,218 --> 00:53:57,209
+You can keep the returns.
+
+615
+00:53:59,138 --> 00:54:01,129
+Nice house.
+
+616
+00:54:08,258 --> 00:54:11,853
+And for dinner tonight,
+we have a choice of sardines...
+
+617
+00:54:11,938 --> 00:54:13,735
+...or sardines.
+
+618
+00:54:13,818 --> 00:54:16,890
+Gosh, I think I'll have... sardines.
+
+619
+00:54:16,978 --> 00:54:18,969
+Sardines. Beautiful choice.
+
+620
+00:54:25,178 --> 00:54:27,817
+So, is this how you seduce all the girls?
+
+621
+00:54:29,018 --> 00:54:33,808
+Only physicists with hypothermia
+who are accused of being a terrorist.
+
+622
+00:54:35,138 --> 00:54:37,015
+Thank you.
+
+623
+00:54:39,698 --> 00:54:42,929
+There's a garage.
+I'm going to see what's in there.
+
+624
+00:54:43,018 --> 00:54:45,213
+I won't be long, OK?
+
+625
+00:55:00,418 --> 00:55:03,967
+Your pit bull has killed
+a Wisconsin state trooper.
+
+626
+00:55:04,058 --> 00:55:05,457
+Well, now.
+
+627
+00:55:05,538 --> 00:55:09,133
+Would you rather the Bureau
+got the girl and Kasalivich?
+
+628
+00:55:09,218 --> 00:55:11,209
+First, he was a suspect.
+
+629
+00:55:11,298 --> 00:55:14,449
+Worst case scenario... they arrest him.
+
+630
+00:55:14,538 --> 00:55:16,927
+Now he's a cop-killer.
+
+631
+00:55:17,018 --> 00:55:19,486
+Worst case scenario, they kill <i>him.</i>
+
+632
+00:55:19,578 --> 00:55:23,457
+For God's sake, what possessed you
+to frame him in the first place?
+
+633
+00:55:23,538 --> 00:55:25,096
+Two words.
+
+634
+00:55:25,178 --> 00:55:27,738
+Convenience... and expedience.
+
+635
+00:55:27,818 --> 00:55:30,252
+He saw too much, he was talking.
+
+636
+00:55:30,338 --> 00:55:33,250
+The poor boy was
+in the wrong place at the wrong time.
+
+637
+00:55:33,338 --> 00:55:35,329
+I need this poor boy!
+
+638
+00:55:35,418 --> 00:55:38,728
+This poor boy is the only one
+who knows the frequencies!
+
+639
+00:55:41,338 --> 00:55:43,898
+Do you understand the concept, Lyman?
+
+640
+00:55:44,698 --> 00:55:46,768
+Poor impulse control?
+
+641
+00:55:48,538 --> 00:55:52,816
+Barkley, Chen, the regulator.
+That was supposed to be it!
+
+642
+00:55:52,898 --> 00:55:54,889
+That was all of it!
+
+643
+00:55:55,458 --> 00:55:58,609
+I am sick to death
+of cleaning up your messes.
+
+644
+00:55:58,698 --> 00:56:00,529
+No, Paul, no. Yours.
+
+645
+00:56:00,618 --> 00:56:02,609
+Not mine.
+
+646
+00:56:02,698 --> 00:56:04,689
+You lost it, Paul.
+
+647
+00:56:04,778 --> 00:56:07,531
+Lost control, perspective.
+
+648
+00:56:07,618 --> 00:56:09,893
+You made it personal with these people.
+
+649
+00:56:09,978 --> 00:56:11,331
+Well, we'll find them.
+
+650
+00:56:11,418 --> 00:56:15,570
+We'll find them, and when we do
+and we've got this thing working,
+
+651
+00:56:15,658 --> 00:56:17,569
+then, my friend, then
+
+652
+00:56:17,658 --> 00:56:21,128
+this young man will be a liability.
+
+653
+00:56:23,298 --> 00:56:25,289
+That'll be my problem.
+
+654
+00:56:25,378 --> 00:56:28,415
+- Our problem.
+- No, Lyman.
+
+655
+00:56:28,498 --> 00:56:30,489
+When the time comes,
+
+656
+00:56:31,858 --> 00:56:33,849
+I'll handle it.
+
+657
+00:56:33,938 --> 00:56:36,168
+You'd better.
+
+658
+00:57:19,338 --> 00:57:21,613
+So what does he want us to do?
+
+659
+00:57:21,698 --> 00:57:24,292
+We find him and give him an injection.
+
+660
+00:58:30,138 --> 00:58:31,935
+Lily.
+
+661
+00:58:32,338 --> 00:58:33,976
+Lily!
+
+662
+00:59:04,298 --> 00:59:06,289
+Come on.
+
+663
+00:59:20,018 --> 00:59:21,974
+Leesburg, Virginia.
+
+664
+00:59:22,058 --> 00:59:24,049
+C-Systems.
+
+665
+00:59:25,418 --> 00:59:27,329
+Who are they?
+
+666
+00:59:27,418 --> 00:59:28,737
+Not cops.
+
+667
+00:59:28,818 --> 00:59:30,695
+Cops carry badges,
+
+668
+00:59:30,778 --> 00:59:33,611
+credit cards, pictures of their families.
+
+669
+00:59:50,018 --> 00:59:52,578
+If it's crowded, don't go in.
+
+670
+00:59:52,658 --> 00:59:54,649
+OK.
+
+671
+01:00:10,938 --> 01:00:12,849
+- Hi!
+- Hello.
+
+672
+01:00:12,938 --> 01:00:14,530
+Can I help you?
+
+673
+01:00:14,618 --> 01:00:18,611
+I'd like to send some flowers
+and a note to a friend in Virginia.
+
+674
+01:00:20,378 --> 01:00:24,291
+It's a little strange, Mr Shannon,
+but these just arrived.
+
+675
+01:00:24,378 --> 01:00:27,609
+I'm not quite sure where they're from.
+Here's a note.
+
+676
+01:00:27,698 --> 01:00:29,689
+May I see that?
+
+677
+01:00:29,778 --> 01:00:31,769
+Thank you.
+
+678
+01:00:36,538 --> 01:00:38,130
+Hold it right there, buddy.
+
+679
+01:00:38,218 --> 01:00:40,015
+FBI.
+
+680
+01:00:41,418 --> 01:00:43,409
+Step outside the van, please.
+
+681
+01:00:44,418 --> 01:00:47,854
+Why don't you bring
+your invoice sheet out with you?
+
+682
+01:00:50,898 --> 01:00:53,776
+Do you know if the order
+originated at this shop?
+
+683
+01:00:53,858 --> 01:00:57,009
+I don't think so.
+I think it was a wire from Georgetown.
+
+684
+01:00:57,098 --> 01:00:59,248
+- Mind if I take one of these?
+- No, sure.
+
+685
+01:00:59,338 --> 01:01:00,407
+Have a nice day.
+
+686
+01:01:00,498 --> 01:01:04,730
+So officially this investigation
+is now code-named Steel Bomb.
+
+687
+01:01:04,818 --> 01:01:07,378
+We'll input the data into Rapid Start.
+
+688
+01:01:07,458 --> 01:01:10,450
+Look what I brought back
+from the flower shop.
+
+689
+01:01:10,538 --> 01:01:12,529
+I think this is Kasalivich.
+
+690
+01:01:13,898 --> 01:01:17,447
+Spawn versus Neanderthal man, 4pm today.
+
+691
+01:01:17,538 --> 01:01:19,688
+What is this, a wrestling match?
+
+692
+01:01:19,778 --> 01:01:21,291
+Bad movie, video game?
+
+693
+01:01:21,378 --> 01:01:23,608
+Spawn, it's a comic-book character.
+
+694
+01:01:23,698 --> 01:01:27,657
+- The guy who comes back from the dead?
+- Yeah, like Kasalivich.
+
+695
+01:01:27,738 --> 01:01:30,298
+Maybe Shannon is the Neanderthal man?
+
+696
+01:01:30,378 --> 01:01:32,289
+Very well may be.
+
+697
+01:02:18,138 --> 01:02:20,129
+Hello, Eddie.
+
+698
+01:02:20,218 --> 01:02:22,254
+Glad you got the flowers.
+
+699
+01:02:22,338 --> 01:02:23,612
+Very clever.
+
+700
+01:02:23,698 --> 01:02:25,689
+Are you all right?
+
+701
+01:02:25,778 --> 01:02:27,609
+No, not really.
+
+702
+01:02:27,698 --> 01:02:29,768
+I guess I can understand that.
+
+703
+01:02:29,858 --> 01:02:31,530
+We were at Maggie's.
+
+704
+01:02:31,618 --> 01:02:34,371
+Caught. We were about to be arrested.
+
+705
+01:02:34,458 --> 01:02:36,653
+Somebody shot the cop.
+
+706
+01:02:36,738 --> 01:02:38,933
+Later, two guys tried to kill us.
+
+707
+01:02:39,018 --> 01:02:41,851
+I've got my car outside. Follow me.
+
+708
+01:02:41,938 --> 01:02:43,735
+We'll go someplace we can talk.
+
+709
+01:02:43,818 --> 01:02:46,730
+I found this... in one of the guy's wallets.
+
+710
+01:02:48,258 --> 01:02:50,055
+They weren't cops.
+
+711
+01:02:50,138 --> 01:02:52,447
+What do you know about C-Systems, Paul?
+
+712
+01:02:54,978 --> 01:02:57,617
+This is not the time or the place, Eddie.
+
+713
+01:02:57,698 --> 01:02:59,450
+We're being watched.
+
+714
+01:03:03,098 --> 01:03:04,417
+Eddie,
+
+715
+01:03:04,498 --> 01:03:07,251
+the world isn't as simple
+as we'd like it to be.
+
+716
+01:03:08,738 --> 01:03:10,569
+It just doesn't work that way.
+
+717
+01:03:11,298 --> 01:03:13,289
+Shannon, who are you?
+
+718
+01:03:13,378 --> 01:03:15,369
+I'm your friend, Eddie.
+
+719
+01:03:15,458 --> 01:03:17,653
+I may be your only friend.
+
+720
+01:03:17,738 --> 01:03:19,569
+Is it you, Paul?
+
+721
+01:03:21,258 --> 01:03:23,408
+Are you responsible for all this?
+
+722
+01:03:24,538 --> 01:03:26,529
+Time to go, Eddie.
+
+723
+01:03:26,618 --> 01:03:28,609
+You've got ajob to complete.
+
+724
+01:03:29,458 --> 01:03:31,688
+The experiment needs verifying.
+
+725
+01:03:32,138 --> 01:03:34,732
+Do your work... This will all be over.
+
+726
+01:03:37,578 --> 01:03:39,489
+Eddie, we're beyond that now.
+
+727
+01:03:39,578 --> 01:03:41,136
+Let's just get this done.
+
+728
+01:03:41,218 --> 01:03:42,731
+Come back to work with me.
+
+729
+01:03:42,818 --> 01:03:45,412
+You'll have your life back, I promise you.
+
+730
+01:03:45,498 --> 01:03:47,375
+You don't control our lives.
+
+731
+01:03:47,458 --> 01:03:49,608
+You'll have to trust me, Eddie.
+
+732
+01:03:49,698 --> 01:03:51,654
+Just like Alistair?
+
+733
+01:04:06,018 --> 01:04:07,246
+Eddie!
+
+734
+01:04:07,778 --> 01:04:09,131
+Eddie!
+
+735
+01:04:23,018 --> 01:04:26,488
+<i>A trip that normally takes over five hours.</i>
+
+736
+01:04:26,578 --> 01:04:31,652
+<i>But today, you'll experience the events</i>
+<i>of that flight in just seven minutes.</i>
+
+737
+01:04:35,138 --> 01:04:37,447
+<i>The crew is preparing for takeoff.</i>
+
+738
+01:04:38,498 --> 01:04:41,615
+<i>Your pilot for today's flight</i>
+<i>is Captain Dave Larsen.</i>
+
+739
+01:04:45,058 --> 01:04:47,288
+Stay here.
+
+740
+01:04:47,378 --> 01:04:49,608
+<i>Our co-pilot is First Officer...</i>
+
+741
+01:04:52,418 --> 01:04:54,852
+Get in.
+
+742
+01:04:57,578 --> 01:04:59,569
+She's in the hatch.
+
+743
+01:04:59,658 --> 01:05:01,853
+Look out!
+
+744
+01:05:05,858 --> 01:05:09,567
+<i>The crew are going through</i>
+<i>their final pre-flight checks...</i>
+
+745
+01:05:11,818 --> 01:05:12,694
+Eddie!
+
+746
+01:05:14,458 --> 01:05:17,336
+Eddie!
+Come on, don't do anything foolish.
+
+747
+01:05:38,138 --> 01:05:42,450
+Get Ford. DC police reported
+a disturbance at the Science Museum
+
+748
+01:05:42,538 --> 01:05:44,847
+by the Neanderthal man exhibit.
+
+749
+01:06:24,498 --> 01:06:27,854
+CQ 493... CQ 493.
+
+750
+01:06:41,098 --> 01:06:43,771
+Here you are, darling. Drink this.
+
+751
+01:06:43,858 --> 01:06:46,975
+You're dehydrated.
+Wash it out of your system.
+
+752
+01:06:47,058 --> 01:06:50,892
+Mr Collier and I have a few colleagues
+we'd like you to meet.
+
+753
+01:06:50,978 --> 01:06:54,857
+Dr Holloway, Dr Hamada, and Dr Orbit.
+
+754
+01:06:57,138 --> 01:07:00,733
+They are very interested
+to discuss your work with you.
+
+755
+01:07:00,818 --> 01:07:02,809
+And, of course, Dr Lu Chen.
+
+756
+01:07:02,898 --> 01:07:04,695
+Lu.
+
+757
+01:07:20,698 --> 01:07:22,689
+Lily.
+
+758
+01:07:22,778 --> 01:07:24,575
+We would like you and Dr Chen
+
+759
+01:07:24,658 --> 01:07:27,855
+to continue the work
+you were doing with Dr Barkley.
+
+760
+01:07:31,178 --> 01:07:33,738
+- You can't be serious!
+- Oh, yes.
+
+761
+01:07:33,818 --> 01:07:37,447
+We've been impressed with your work
+for a long time.
+
+762
+01:07:39,258 --> 01:07:42,853
+Do you drug and kidnap everyone
+whose work you admire?
+
+763
+01:07:43,978 --> 01:07:45,297
+No.
+
+764
+01:07:45,378 --> 01:07:47,938
+Dr Barkley, we left behind.
+
+765
+01:07:51,138 --> 01:07:53,732
+Slay the dreamer, eh, Mr Shannon?
+
+766
+01:08:07,018 --> 01:08:09,691
+You end up sleeping on the street.
+
+767
+01:08:09,778 --> 01:08:11,814
+I can't believe you'd do that.
+
+768
+01:08:14,298 --> 01:08:17,973
+Can you spare some change?
+A quarter, what's a quarter?
+
+769
+01:08:18,818 --> 01:08:19,853
+Can't you see me?
+
+770
+01:08:31,458 --> 01:08:33,449
+Can I share your grate?
+
+771
+01:08:37,098 --> 01:08:39,248
+You make me sick!
+
+772
+01:08:47,178 --> 01:08:49,408
+We can't go in! We got kicked out!
+
+773
+01:08:51,058 --> 01:08:53,618
+What are all youse looking at?
+
+774
+01:08:57,138 --> 01:08:58,537
+Let go!
+
+775
+01:09:13,898 --> 01:09:15,616
+CQ 493.
+
+776
+01:09:30,818 --> 01:09:33,969
+<i>This is Eddie. I think. He does.</i>
+
+777
+01:09:34,058 --> 01:09:36,049
+<i>But he really does.</i>
+
+778
+01:09:36,178 --> 01:09:38,692
+What are you watching?
+"Honeymooner" reruns?
+
+779
+01:09:38,778 --> 01:09:41,008
+Kasalivich and Barkley. Look at this.
+
+780
+01:09:41,098 --> 01:09:44,408
+Does he look like he's about to kill this guy
+and blow the place up?
+
+781
+01:09:44,498 --> 01:09:46,489
+The whole thing stinks.
+
+782
+01:09:46,578 --> 01:09:51,333
+We've got the ballistics report back
+on that trooper killed in Wisconsin.
+
+783
+01:09:51,418 --> 01:09:54,455
+Teflon sniper round
+went through the cop's Kevlar vest.
+
+784
+01:09:54,538 --> 01:09:55,607
+I don't buy it.
+
+785
+01:09:55,698 --> 01:09:58,007
+He's smart enough to blow up the lab
+
+786
+01:09:58,098 --> 01:10:01,773
+but stupid enough
+to leave $250,000 where we'd find it?
+
+787
+01:10:01,858 --> 01:10:05,294
+Are you saying some cowboy's
+gone off the reservation?
+
+788
+01:10:07,058 --> 01:10:09,333
+$100. The kid didn't do it.
+
+789
+01:10:09,418 --> 01:10:12,888
+You've got a nationwide manhunt
+for an innocent man.
+
+790
+01:10:13,698 --> 01:10:15,689
+Make sure nobody shoots him.
+
+791
+01:11:33,578 --> 01:11:35,569
+Next shift's going down now, OK?
+
+792
+01:12:02,138 --> 01:12:05,130
+Yeah, right.
+Help me out on this, will you?
+
+793
+01:12:05,218 --> 01:12:08,016
+I've had problems with the conveyor belt.
+
+794
+01:12:09,218 --> 01:12:11,937
+No, I'll have Jim Zinsky work on that.
+
+795
+01:12:12,018 --> 01:12:13,815
+OK? All right.
+
+796
+01:12:13,898 --> 01:12:16,856
+If you've got any problems,
+call me on channel four.
+
+797
+01:12:36,058 --> 01:12:38,936
+How is our young charge?
+Did she say anything?
+
+798
+01:12:39,018 --> 01:12:41,009
+We'll soon find out, won't we?
+
+799
+01:12:41,098 --> 01:12:44,056
+The young lady
+does appear to be cooperating.
+
+800
+01:12:44,138 --> 01:12:45,253
+Good.
+
+801
+01:12:45,338 --> 01:12:48,455
+- Gentlemen, you're just in time.
+- Let's get on with it.
+
+802
+01:12:48,538 --> 01:12:50,529
+Miss Sinclair, Mr Chen,
+
+803
+01:12:50,618 --> 01:12:52,609
+please, have a seat.
+
+804
+01:13:06,738 --> 01:13:09,616
+<i>Attention, all personnel.</i>
+
+805
+01:13:09,698 --> 01:13:13,247
+<i>Critical path experiment</i>
+<i>will commence in ten minutes.</i>
+
+806
+01:13:13,538 --> 01:13:16,530
+<i>Critical path experiment</i>
+<i>will commence in ten minutes.</i>
+
+807
+01:13:16,618 --> 01:13:18,609
+<i>Level five.</i>
+
+808
+01:13:29,098 --> 01:13:31,328
+Activate the H2 compressor.
+
+809
+01:13:31,418 --> 01:13:33,409
+On... on automatic.
+
+810
+01:13:33,498 --> 01:13:35,409
+Here we go.
+
+811
+01:13:38,698 --> 01:13:40,689
+Lucasz, what are you reading?
+
+812
+01:13:40,778 --> 01:13:43,770
+- Two million kelvin.
+- Activate the laser.
+
+813
+01:13:48,458 --> 01:13:50,449
+Four million kelvin.
+
+814
+01:14:01,338 --> 01:14:04,216
+You don't have it. It's unstable.
+
+815
+01:14:04,298 --> 01:14:06,573
+Shut it down! Shut it down!
+
+816
+01:14:09,218 --> 01:14:12,654
+Dammit! What ajoke.
+
+817
+01:14:12,738 --> 01:14:15,810
+It won't work without the right frequencies.
+
+818
+01:14:17,418 --> 01:14:18,612
+What did he say?
+
+819
+01:14:18,698 --> 01:14:22,134
+He said that's what he's been
+trying to tell you for days.
+
+820
+01:14:22,218 --> 01:14:25,051
+Look. Let's try it again in the morning, OK?
+
+821
+01:14:25,138 --> 01:14:29,495
+- See you back here at 8.15 tomorrow?
+- I have a feeling, Dr Sinclair,
+
+822
+01:14:29,578 --> 01:14:31,489
+the solution will present itself.
+
+823
+01:14:31,578 --> 01:14:33,330
+I doubt it.
+
+824
+01:14:33,418 --> 01:14:34,771
+It had better
+
+825
+01:14:34,858 --> 01:14:37,816
+or your usefulness will soon be outlived.
+
+826
+01:14:38,498 --> 01:14:40,295
+Take them back to their room.
+
+827
+01:14:42,018 --> 01:14:46,170
+I wish you wouldn't threaten
+to kill my scientists to their faces.
+
+828
+01:14:46,258 --> 01:14:48,249
+It might make my job easier.
+
+829
+01:14:49,298 --> 01:14:51,289
+Lucasz, Hamada, seal the lab!
+
+830
+01:14:51,378 --> 01:14:55,053
+I want to see those printouts
+first thing in the morning.
+
+831
+01:16:36,538 --> 01:16:38,529
+- It's working?
+- Yes.
+
+832
+01:16:38,618 --> 01:16:41,212
+- How?
+- Lucasz claims he figured it out.
+
+833
+01:16:42,138 --> 01:16:43,856
+Lucasz?
+
+834
+01:16:43,938 --> 01:16:45,929
+That's his story.
+
+835
+01:17:00,858 --> 01:17:05,374
+When I got here, the output
+was going right through the roof!
+
+836
+01:17:05,458 --> 01:17:07,449
+Son of a bitch!
+
+837
+01:17:08,538 --> 01:17:10,927
+It really does work. Ha!
+
+838
+01:17:11,018 --> 01:17:13,691
+Dr Shannon, take a look at that.
+
+839
+01:17:14,498 --> 01:17:16,489
+We've got it.
+
+840
+01:17:21,818 --> 01:17:23,774
+What did you do?
+
+841
+01:17:23,858 --> 01:17:25,769
+Nothing.
+
+842
+01:17:26,338 --> 01:17:28,249
+I couldn't sleep last night, sir.
+
+843
+01:17:28,338 --> 01:17:30,010
+I heard this voice saying,
+
+844
+01:17:30,098 --> 01:17:32,407
+go and check different frequencies
+
+845
+01:17:32,498 --> 01:17:35,331
+because we were trying
+on 15 and 20 megahertz.
+
+846
+01:17:35,418 --> 01:17:38,535
+So I went down to the lab
+and ran the experiment
+
+847
+01:17:38,618 --> 01:17:40,768
+and it all worked out.
+
+848
+01:17:40,858 --> 01:17:43,008
+So... here we are, sir.
+
+849
+01:17:44,938 --> 01:17:47,771
+Did you document
+the regulator frequencies?
+
+850
+01:17:47,858 --> 01:17:49,849
+Not yet.
+
+851
+01:17:49,938 --> 01:17:52,816
+I'd like those on a disk... Now, sir.
+
+852
+01:17:55,378 --> 01:17:57,938
+None too shabby, hey, Mr Shannon?
+
+853
+01:18:00,178 --> 01:18:03,295
+- Doctor.
+- Thank you.
+
+854
+01:18:03,378 --> 01:18:05,096
+Where are you going, Paul?
+
+855
+01:18:05,178 --> 01:18:08,454
+I'm going to check this
+against the Chicago data.
+
+856
+01:18:12,778 --> 01:18:14,848
+I'll try to meet you at the silo.
+
+857
+01:18:14,938 --> 01:18:17,247
+- Wait as long as you can.
+- Yes, sir.
+
+858
+01:18:33,898 --> 01:18:35,854
+Hello, Eddie!
+
+859
+01:18:35,938 --> 01:18:37,929
+I figured it was you.
+
+860
+01:18:38,018 --> 01:18:40,486
+Nice place you have here, Shannon.
+
+861
+01:18:40,578 --> 01:18:42,614
+Ten-megajoule lasers.
+
+862
+01:18:42,698 --> 01:18:44,529
+Particle reactors.
+
+863
+01:18:44,618 --> 01:18:48,008
+Congress de-funded
+most of the stuff here years ago.
+
+864
+01:18:48,098 --> 01:18:50,293
+They made a mistake.
+
+865
+01:18:50,378 --> 01:18:52,767
+Is this part of the Moore Foundation?
+
+866
+01:18:52,858 --> 01:18:54,371
+In a manner of speaking.
+
+867
+01:18:54,458 --> 01:18:56,210
+Power and money.
+
+868
+01:18:56,298 --> 01:18:58,368
+Is that what this was all about?
+
+869
+01:18:59,698 --> 01:19:02,610
+I'm afraid it's more complicated than that.
+
+870
+01:19:02,698 --> 01:19:06,373
+He was a 60-year-old scientist
+who did nothing but good
+
+871
+01:19:06,458 --> 01:19:08,449
+and they put a bag over his head.
+
+872
+01:19:08,538 --> 01:19:10,529
+It was a mistake.
+
+873
+01:19:12,178 --> 01:19:15,329
+I didn't want anything
+to happen to Alistair.
+
+874
+01:19:16,538 --> 01:19:18,449
+But a decision had to be made.
+
+875
+01:19:18,538 --> 01:19:20,529
+So...
+
+876
+01:19:20,618 --> 01:19:22,415
+Who made the decision?
+
+877
+01:19:22,498 --> 01:19:25,774
+- You?
+- That's my job.
+
+878
+01:19:25,858 --> 01:19:27,849
+That's what I'm paid to do.
+
+879
+01:19:27,938 --> 01:19:29,929
+I'm paid to do dirty work.
+
+880
+01:19:31,058 --> 01:19:33,526
+Work people don't want to know about.
+
+881
+01:19:33,618 --> 01:19:35,973
+People want to live in split-level homes.
+
+882
+01:19:36,058 --> 01:19:38,492
+They want microwave dinners
+and colour TV.
+
+883
+01:19:38,578 --> 01:19:40,296
+Is that what you think?
+
+884
+01:19:43,458 --> 01:19:45,449
+Alistair was a dreamer.
+
+885
+01:19:45,538 --> 01:19:48,610
+Clean air, free energy.
+
+886
+01:19:48,698 --> 01:19:50,450
+Noble concepts
+
+887
+01:19:50,538 --> 01:19:54,053
+but we live on a planet
+that is addicted to petroleum.
+
+888
+01:19:54,138 --> 01:19:57,289
+What happens if you dump
+free energy onto the market?
+
+889
+01:19:57,378 --> 01:19:59,846
+World stock markets would plummet.
+
+890
+01:19:59,938 --> 01:20:01,974
+Our own economy would collapse.
+
+891
+01:20:02,058 --> 01:20:03,491
+Recession,
+
+892
+01:20:03,578 --> 01:20:06,695
+unemployment, war.
+
+893
+01:20:06,778 --> 01:20:09,246
+The world is speeding up too fast now, Eddie.
+
+894
+01:20:09,338 --> 01:20:11,329
+We can barely hold on as it is.
+
+895
+01:20:12,538 --> 01:20:14,529
+You're right, it's not working.
+
+896
+01:20:14,618 --> 01:20:16,813
+So we've got to try something else.
+
+897
+01:20:16,898 --> 01:20:19,458
+Not bury the technology, but let it out.
+
+898
+01:20:19,538 --> 01:20:23,531
+You let it out, but you let it out
+at a pace the world can absorb.
+
+899
+01:20:23,618 --> 01:20:25,210
+It can absorb it now.
+
+900
+01:20:27,538 --> 01:20:28,857
+There's our boy.
+
+901
+01:20:28,938 --> 01:20:30,929
+Mr Kasalivich!
+
+902
+01:20:31,018 --> 01:20:33,009
+How kind of you to join us.
+
+903
+01:20:33,098 --> 01:20:35,612
+Give us a moment, Lyman.
+
+904
+01:20:35,698 --> 01:20:38,258
+Eddie and I are having a conversation.
+
+905
+01:20:38,338 --> 01:20:40,090
+Please! Don't let me stop you!
+
+906
+01:20:40,178 --> 01:20:43,329
+Who runs this place, Shannon? You?
+
+907
+01:20:43,418 --> 01:20:45,534
+- Or the guy with the guns?
+- Well,
+
+908
+01:20:45,618 --> 01:20:47,609
+we are a cooperative
+
+909
+01:20:47,698 --> 01:20:49,689
+of sorts.
+
+910
+01:20:49,778 --> 01:20:53,088
+Run at the behest
+of the United States government.
+
+911
+01:20:53,178 --> 01:20:55,089
+But without their knowledge, right?
+
+912
+01:20:55,178 --> 01:20:59,012
+My, my, but your friend is sharp, Paul.
+
+913
+01:20:59,098 --> 01:21:00,531
+All right, Eddie.
+
+914
+01:21:00,618 --> 01:21:02,813
+What do you want?
+
+915
+01:21:06,018 --> 01:21:08,532
+There are the specs for the regulator.
+
+916
+01:21:08,618 --> 01:21:11,530
+You can pull the frequencies
+off the computer.
+
+917
+01:21:11,618 --> 01:21:12,892
+Now let us go.
+
+918
+01:21:12,978 --> 01:21:16,687
+I get it to work. You give us our lives back.
+
+919
+01:21:16,898 --> 01:21:18,968
+That was the deal, wasn't it?
+
+920
+01:21:21,338 --> 01:21:23,329
+Yeah.
+
+921
+01:21:23,418 --> 01:21:25,409
+Yeah, that was the deal.
+
+922
+01:21:25,498 --> 01:21:29,252
+I'm afraid, young man,
+your position is non-negotiable.
+
+923
+01:21:29,338 --> 01:21:31,329
+I see.
+
+924
+01:21:37,498 --> 01:21:40,137
+I want to tell you this story
+how I got inspired.
+
+925
+01:21:40,218 --> 01:21:42,857
+- I had this dream...
+- No!
+
+926
+01:21:42,938 --> 01:21:43,848
+Hold on.
+
+927
+01:21:43,938 --> 01:21:45,929
+I will continue.
+
+928
+01:21:51,938 --> 01:21:53,929
+What's happening?
+
+929
+01:22:02,978 --> 01:22:04,491
+What did you just do?
+
+930
+01:22:04,578 --> 01:22:07,536
+I just told the FBI I was willing to surrender.
+
+931
+01:22:07,618 --> 01:22:12,089
+Oh, and er... I think your experiment
+just got a mind of its own.
+
+932
+01:22:20,138 --> 01:22:22,129
+Check the breakers.
+
+933
+01:22:22,218 --> 01:22:24,288
+Everybody, back to your stations!
+
+934
+01:22:30,058 --> 01:22:32,049
+What the hell's going on, Doyle?
+
+935
+01:22:32,138 --> 01:22:34,971
+It started a few minutes ago...
+hundreds of pages.
+
+936
+01:22:35,058 --> 01:22:38,494
+Technical drawings,
+experiment specs, budgets,
+
+937
+01:22:38,578 --> 01:22:42,366
+personnel records, minutes,
+mostly marked top secret.
+
+938
+01:22:42,458 --> 01:22:44,733
+- Where's it coming from?
+- C-Systems.
+
+939
+01:22:44,818 --> 01:22:48,094
+It's like they dumped their mainframe
+into our computers.
+
+940
+01:22:48,178 --> 01:22:50,692
+Here's a special love note just for you.
+
+941
+01:22:50,778 --> 01:22:52,575
+Jesus Christ, Kasalivich.
+
+942
+01:22:52,658 --> 01:22:55,968
+He's in a bunker in Leesburg
+with his bomb-making buddies
+
+943
+01:22:56,058 --> 01:22:57,650
+and wants us to arrest him.
+
+944
+01:22:57,738 --> 01:23:01,287
+- Lake Geneva Radical Bomb Network?
+- Sound like bullshit?
+
+945
+01:23:01,378 --> 01:23:03,209
+It sounds like you owe me $100.
+
+946
+01:23:03,298 --> 01:23:06,096
+Make sure that fax doesn't run out of paper.
+
+947
+01:23:06,298 --> 01:23:08,175
+- Hamada!
+- Still off-line!
+
+948
+01:23:08,258 --> 01:23:11,455
+- Pressure?
+- 500 psi and rising.
+
+949
+01:23:11,538 --> 01:23:14,006
+What the hell's going on?
+
+950
+01:23:14,578 --> 01:23:18,127
+We've lost control of the system, Lyman.
+We can't shut it down.
+
+951
+01:23:22,178 --> 01:23:23,406
+Turn it off.
+
+952
+01:23:23,498 --> 01:23:26,376
+It's self-sustaining. It can't be shut down.
+
+953
+01:23:26,458 --> 01:23:29,973
+Al! How long before
+we run out of storage capacity?
+
+954
+01:23:30,058 --> 01:23:31,969
+I don't know. It's accelerating.
+
+955
+01:23:32,058 --> 01:23:34,128
+- 20 minutes before it blows?
+- Maybe less.
+
+956
+01:23:34,218 --> 01:23:36,288
+- Is he right?
+- I'm afraid he is.
+
+957
+01:23:42,338 --> 01:23:44,135
+Well done, Eddie.
+
+958
+01:23:44,298 --> 01:23:45,890
+Well done.
+
+959
+01:23:48,138 --> 01:23:52,017
+You wouldn't blow it up
+if you weren't sure you'd get out alive.
+
+960
+01:23:52,098 --> 01:23:54,248
+Sure I would.
+
+961
+01:23:55,578 --> 01:23:59,048
+Lyman, I think it's time
+we got the hell out of here.
+
+962
+01:24:03,778 --> 01:24:05,655
+- No!
+- Chen!
+
+963
+01:24:05,738 --> 01:24:07,694
+- Lily!
+- Chen!
+
+964
+01:24:07,778 --> 01:24:09,370
+For God's sake, Lyman!
+
+965
+01:24:09,458 --> 01:24:11,130
+Chen! Chen!
+
+966
+01:24:12,818 --> 01:24:13,568
+Wait!
+
+967
+01:24:13,658 --> 01:24:15,808
+- Jesus Christ!
+- What is wrong with you?
+
+968
+01:24:15,898 --> 01:24:19,174
+- Turn it off!
+- That was totally unnecessary.
+
+969
+01:24:19,258 --> 01:24:22,489
+If you haven't got the stomach for this,
+stay out of the way.
+
+970
+01:24:22,578 --> 01:24:24,250
+I'm going to turn down the power.
+
+971
+01:24:24,338 --> 01:24:26,772
+- No!
+- Don't touch that!
+
+972
+01:24:26,858 --> 01:24:28,371
+Don't!
+
+973
+01:24:35,218 --> 01:24:37,732
+<i>Hydrogen containment failure.</i>
+
+974
+01:24:37,818 --> 01:24:39,615
+<i>Potential personnel hazard.</i>
+
+975
+01:24:39,698 --> 01:24:42,849
+- The compressor's just shut down.
+- Turn it back on!
+
+976
+01:24:42,938 --> 01:24:45,930
+- You can't.
+- The computers are down.
+
+977
+01:24:47,738 --> 01:24:48,773
+Get out!
+
+978
+01:24:48,858 --> 01:24:50,814
+Get out! Everybody!
+
+979
+01:24:52,338 --> 01:24:54,249
+- Fix it.
+- I can't now.
+
+980
+01:24:54,338 --> 01:24:56,488
+- Fix it!
+- I can't!
+
+981
+01:24:57,458 --> 01:24:59,289
+I wouldn't do that, Lyman.
+
+982
+01:24:59,378 --> 01:25:01,812
+It will ignite the hydrogen.
+
+983
+01:25:01,898 --> 01:25:04,856
+It's over, Lyman. It's over.
+
+984
+01:25:05,778 --> 01:25:07,336
+I guess it's time to go.
+
+985
+01:25:07,418 --> 01:25:09,807
+Go! Go!
+
+986
+01:25:11,018 --> 01:25:12,770
+Give me the disk.
+
+987
+01:25:13,458 --> 01:25:14,891
+You two, stay!
+
+988
+01:25:14,978 --> 01:25:17,617
+No, Lyman! Let them go!
+
+989
+01:25:18,618 --> 01:25:20,813
+What possible difference can it make now?
+
+990
+01:25:20,898 --> 01:25:23,935
+- They stay!
+- When does it end, Lyman?
+
+991
+01:25:24,018 --> 01:25:25,087
+Never.
+
+992
+01:25:25,178 --> 01:25:27,169
+Well, it's not your decision.
+
+993
+01:25:27,258 --> 01:25:30,056
+The decision is mine,
+and I say they're coming.
+
+994
+01:25:31,298 --> 01:25:34,131
+You can stay with them... if you like.
+
+995
+01:25:34,218 --> 01:25:35,446
+We must go now.
+
+996
+01:25:37,218 --> 01:25:38,571
+Well, are you coming?
+
+997
+01:25:41,458 --> 01:25:42,857
+<i>Warning. Warning.</i>
+
+998
+01:25:42,938 --> 01:25:45,406
+<i>Air contaminants at critical level.</i>
+
+999
+01:25:45,498 --> 01:25:48,535
+Come on, Paul! We've got things to do!
+
+1000
+01:25:51,378 --> 01:25:53,050
+I'm sorry, Eddie.
+
+1001
+01:26:13,618 --> 01:26:16,052
+- Shannon!
+- Shannon!
+
+1002
+01:26:16,138 --> 01:26:18,094
+Please!
+
+1003
+01:26:18,178 --> 01:26:21,648
+<i>Warning! Air contaminants at critical level.</i>
+
+1004
+01:26:21,738 --> 01:26:23,808
+<i>Evacuate immediately.</i>
+
+1005
+01:26:24,378 --> 01:26:28,530
+<i>Warning. Air contaminants at critical level.</i>
+<i>Evacuate immediately.</i>
+
+1006
+01:26:28,618 --> 01:26:33,328
+<i>All containment doors are now closed.</i>
+
+1007
+01:26:41,418 --> 01:26:42,817
+The tanks.
+
+1008
+01:26:42,898 --> 01:26:45,651
+OK, here's the elevator.
+
+1009
+01:26:45,738 --> 01:26:47,729
+There's room for everybody.
+
+1010
+01:26:51,138 --> 01:26:53,094
+I'm looking for two men.
+
+1011
+01:26:53,178 --> 01:26:56,011
+Paul Shannon and Lyman Collier.
+Hang onto them.
+
+1012
+01:26:56,098 --> 01:26:59,773
+<i>Follow the blue evacuation route arrows</i>
+<i>to the elevators.</i>
+
+1013
+01:26:59,858 --> 01:27:03,214
+<i>Move in an orderly fashion</i>
+<i>quickly and quietly...</i>
+
+1014
+01:27:03,298 --> 01:27:05,493
+Our friends from the FBI
+will be here presently.
+
+1015
+01:27:05,578 --> 01:27:07,534
+Anita, we're on our way.
+
+1016
+01:27:07,618 --> 01:27:11,406
+You two go to the north elevator.
+I'll take it from here.
+
+1017
+01:27:52,818 --> 01:27:56,015
+Come on! Come on, Lily.
+
+1018
+01:27:56,618 --> 01:27:58,609
+Eddie, which way?
+
+1019
+01:28:05,618 --> 01:28:08,086
+By the way, Paul, do you have that disk?
+
+1020
+01:28:08,178 --> 01:28:10,294
+The one with the magic frequency?
+
+1021
+01:28:10,378 --> 01:28:12,369
+Thank you so much.
+
+1022
+01:28:34,338 --> 01:28:37,455
+You know, Paul,
+maybe it's time to call it a day.
+
+1023
+01:28:38,178 --> 01:28:40,453
+Maybe you're getting too old for this.
+
+1024
+01:28:40,538 --> 01:28:41,937
+What do you think, huh?
+
+1025
+01:28:42,538 --> 01:28:44,529
+But then again
+
+1026
+01:28:44,618 --> 01:28:46,370
+what would we do?
+
+1027
+01:28:46,458 --> 01:28:48,449
+What would we do?
+
+1028
+01:29:27,938 --> 01:29:29,929
+I didn't tell you, Lyman,
+
+1029
+01:29:30,018 --> 01:29:33,135
+but your retirement
+had already been arranged.
+
+1030
+01:29:50,138 --> 01:29:52,333
+<i>Containment systems off.</i>
+
+1031
+01:29:53,898 --> 01:29:57,174
+<i>Access restored to all areas.</i>
+
+1032
+01:29:57,258 --> 01:29:59,249
+<i>Containment systems off.</i>
+
+1033
+01:30:05,818 --> 01:30:08,093
+Hey, hold on, hold on!
+
+1034
+01:30:08,178 --> 01:30:09,452
+Take it up, take it up!
+
+1035
+01:30:27,378 --> 01:30:29,289
+They got a 20 on Kasalivich?
+
+1036
+01:30:29,378 --> 01:30:32,848
+They found the stolen truck
+at the construction site nearby.
+
+1037
+01:30:34,978 --> 01:30:36,969
+Hold on.
+
+1038
+01:30:40,898 --> 01:30:42,297
+Eddie, look.
+
+1039
+01:31:05,738 --> 01:31:08,093
+Get up. Come on, Reed. We've gotta go!
+
+1040
+01:31:23,978 --> 01:31:26,572
+I thought you said the hole was clear!
+
+1041
+01:31:26,658 --> 01:31:28,649
+Get back in the seat, Ernie.
+
+1042
+01:31:34,978 --> 01:31:36,969
+Eddie.
+
+1043
+01:32:06,338 --> 01:32:08,135
+Lily, get in the basket!
+
+1044
+01:32:10,898 --> 01:32:13,366
+Get out of here. Go!
+
+1045
+01:32:14,498 --> 01:32:16,329
+Eddie, come on!
+
+1046
+01:32:18,178 --> 01:32:19,406
+Eddie!
+
+1047
+01:32:32,658 --> 01:32:35,092
+Hold on, hold on, Eddie.
+
+1048
+01:32:48,498 --> 01:32:49,726
+Come on, Eddie.
+
+1049
+01:33:02,898 --> 01:33:04,092
+Aagh!
+
+1050
+01:33:04,178 --> 01:33:06,897
+Come on, Eddie. Come on!
+
+1051
+01:33:23,098 --> 01:33:24,417
+Pull it up, pull it up.
+
+1052
+01:33:27,258 --> 01:33:29,055
+Holy... did you see that?
+
+1053
+01:33:29,138 --> 01:33:30,810
+Whoa!
+
+1054
+01:33:30,898 --> 01:33:32,616
+Come on, get him out of there.
+
+1055
+01:34:42,138 --> 01:34:43,696
+Eddie Kasalivich.
+
+1056
+01:34:43,778 --> 01:34:46,133
+Agent Ford. You got the message.
+
+1057
+01:34:46,218 --> 01:34:48,493
+Yeah, we levelled a forest printing it.
+
+1058
+01:34:48,578 --> 01:34:50,455
+What's it mean, Eddie?
+
+1059
+01:34:50,538 --> 01:34:53,974
+- Plans for clean, cheap energy.
+- Anybody else get this?
+
+1060
+01:34:54,058 --> 01:34:56,526
+Hopefully, a few thousand top scientists.
+
+1061
+01:34:56,618 --> 01:34:59,530
+- I knew I liked this kid.
+- Yeah, right, Leon.
+
+1062
+01:34:59,618 --> 01:35:00,050
+Come on.
+
+1063
+01:35:00,138 --> 01:35:02,174
+You've got some questions to answer
+
+1064
+01:35:02,258 --> 01:35:04,169
+in Washington for about six weeks.
+
+1065
+01:35:04,258 --> 01:35:06,647
+- That's OK.
+- We've got a lot to talk about
+
+1066
+01:35:06,738 --> 01:35:09,172
+as long as everyone stops shooting at us.
+
+1067
+01:35:09,258 --> 01:35:11,852
+Doyle, spilt 'em up.
+I'll meet you at the office.
+
+1068
+01:35:11,938 --> 01:35:13,007
+Ford!
+
+1069
+01:35:14,538 --> 01:35:17,336
+Doctor Sinclair and I ride together.
+
+1070
+01:35:18,498 --> 01:35:20,568
+All right, come on, both of you.
+
+1071
+01:35:38,698 --> 01:35:40,370
+Anita,
+
+1072
+01:35:40,458 --> 01:35:42,210
+take a memo.
+
+1073
+01:35:42,298 --> 01:35:44,289
+To the Director of Central Intelligence.
+
+1074
+01:35:45,378 --> 01:35:47,369
+C-Systems...
+
+1075
+01:35:48,938 --> 01:35:51,008
+no longer a viable entity.
+
+1076
+01:35:52,938 --> 01:35:55,088
+Will be in contact.
+
+1077
+01:35:55,178 --> 01:35:57,169
+That's it.
+
+1078
+01:40:48,538 --> 01:40:51,006
+Subtitles : Filou ;-)
+

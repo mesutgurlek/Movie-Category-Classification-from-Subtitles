@@ -7,7 +7,8 @@ import sys
 
 #subtitles_path = "/Users/mesutgurlek/Documents/Machine Learning/project/Movie-Category-Classification-from-Subtitles/Subtitles"
 # subtitles_path = "/Users/aeakdogan/hooop/Movie-Category-Classification-from-Subtitles/Subtitles"
-subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
+#subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/Subtitles"
+subtitles_path = "/home/burak/Documents/Courses-2016f/CS464/Project/NonImpairedSubtitles"
 url_template = "http://www.imdb.com/search/title?genres=%s&explore=genres&sort=num_votes,desc&view=simple&page=%d&ref_=adv_nxt"
 
 server = xrpc.ServerProxy("http://api.opensubtitles.org/xml-rpc")
@@ -19,12 +20,13 @@ remaining_accounts = [("alierdogan7", "br12br12", "en", "SubMLProject"),
                       ("machinelearning111", "ml11ml11", "en", "mlproject123"),
                     ]
 
-categories = ['crime']
-#categories = ['horror', 'comedy'] #, 'action', 'war']
-# categories = ['western', 'musical', 'comedy', 'horror', 'war', 'romance', 'adventure', 'action']
+#categories = ['action', 'comedy', 'crime', 'musical', 'romance', 'western']
+#categories = ['action', 'comedy', 'crime', 'horror', 'musical', 'romance', 'war', 'western']
+categories = ['western']
 subtitle_per_category = 200 #int(remaining_quota / len(categories))
 
-imdb_page_limit = 20
+impaired_support = False
+imdb_page_limit = 30
 imdb_page_offset = 1 #which page to start from
 # imdb_page_offset = 55 #FOR WESTERN AND MUSICAL
 
@@ -113,28 +115,37 @@ class SubtitlesSpider(scrapy.Spider):
         while remaining > 0 and i < len(imdb_ids):
             imdb_id = imdb_ids[i]
             # print("Searching subtitle for movie with ID: %s" % imdb_id)
-            found_subtitles = server.SearchSubtitles(token, [{'imdbid': imdb_id, 'sublanguageid': 'eng'}])['data']
-
-            if found_subtitles is None or len(found_subtitles) == 0:
+            try:
+                result = server.SearchSubtitles(token, [{'imdbid': imdb_id, 'sublanguageid': 'eng'}])
+                found_subtitles = result['data']
+            except:
+                print("503 or another error caught while searching for a subtitle")
                 i += 1
                 continue
 
             # print("!!!!! Found %d subtitles for movie with ID: %s " % (len(found_subtitles), imdb_id))
 
-            impaired_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
-                                                            sub['SubFormat'] == 'srt', found_subtitles))
-
-            impaired_label = ""
-            if len(impaired_subtitles) > 0:
-                subtitle = impaired_subtitles[0]
-                impaired_label = "(IMPAIRED)"
-            else:
-                # subtitle = found_subtitles[0] # for now get the first subtitle
-                # WE DON'T WANT MOVIES WITHOUT IMPAIRED SUPPORT!
+            if found_subtitles is None or len(found_subtitles) == 0:
                 i += 1
                 continue
+            else:
+                if impaired_support:
+                    filtered_subtitles = list(filter(lambda sub: sub['SubHearingImpaired'] == '1' and \
+                                                            sub['SubFormat'] == 'srt', found_subtitles))
+                    impaired_label = " (IMPAIRED)"
+                else:
+                    filtered_subtitles = list(filter(lambda sub: sub['SubFormat'] == 'srt', found_subtitles))
+                    impaired_label = ""
 
-            filename = "%s/%s/%s %s.%s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label, subtitle['SubFormat'])
+
+                if len(filtered_subtitles) > 0:
+                    subtitle = filtered_subtitles[0]
+                else:
+                    #pass if not found any subtitles
+                    i += 1
+                    continue
+
+            filename = "%s/%s/%s%s.%s" % (subtitles_path, category_name, subtitle['MovieName'], impaired_label, subtitle['SubFormat'])
 
             # if this subtitle has already been downloaded before don't append it to array of subtitles to be downloadec
             if not os.path.isfile(filename):

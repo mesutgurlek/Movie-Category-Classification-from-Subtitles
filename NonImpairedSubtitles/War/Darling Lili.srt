@@ -1,0 +1,7250 @@
+﻿1
+00:00:11,112 --> 00:00:17,451
+(Chorus)
+♪ Darling Lili ♪
+
+2
+00:00:17,485 --> 00:00:21,522
+♪ Put a light in the window ♪
+
+3
+00:00:21,555 --> 00:00:25,059
+♪ And keep wearing ♪
+
+4
+00:00:25,093 --> 00:00:29,397
+♪ That bonnie smile ♪
+
+5
+00:00:29,430 --> 00:00:34,735
+♪ On those cold railway benches ♪
+
+6
+00:00:34,768 --> 00:00:38,706
+♪ Or in the trenches ♪
+
+7
+00:00:38,739 --> 00:00:41,309
+♪ Warm up our hearts ♪
+
+8
+00:00:41,342 --> 00:00:44,312
+♪ Awhile ♪
+
+9
+00:00:44,345 --> 00:00:49,250
+♪ Darling Lili ♪
+
+10
+00:00:49,283 --> 00:00:53,287
+♪ Blow a kiss to us, dearie ♪
+
+11
+00:00:53,321 --> 00:00:56,624
+♪ As we travel ♪
+
+12
+00:00:56,657 --> 00:01:01,162
+♪ Each weary mile ♪
+
+13
+00:01:01,195 --> 00:01:05,166
+♪ Not for mother ♪
+
+14
+00:01:05,199 --> 00:01:08,869
+♪ Or each other ♪
+
+15
+00:01:08,902 --> 00:01:11,772
+♪ Are we off to ♪
+
+16
+00:01:11,805 --> 00:01:16,810
+♪ End this war ♪
+
+17
+00:01:16,844 --> 00:01:19,847
+♪ You're the darling ♪
+
+18
+00:01:19,880 --> 00:01:24,785
+♪ We'll be winning ♪
+
+19
+00:01:24,818 --> 00:01:29,423
+♪ It for ♪
+
+20
+00:02:15,936 --> 00:02:19,273
+♪ Smile away ♪
+
+21
+00:02:19,307 --> 00:02:22,810
+♪ Each rainy day ♪
+
+22
+00:02:22,843 --> 00:02:25,946
+♪ And laugh away ♪
+
+23
+00:02:25,979 --> 00:02:30,284
+♪ Your blues ♪
+
+24
+00:02:30,318 --> 00:02:34,355
+♪ Let love light the sky up ♪
+
+25
+00:02:34,388 --> 00:02:37,558
+♪ Tell those clouds to dry up ♪
+
+26
+00:02:37,591 --> 00:02:42,496
+♪ And smile away each rainy day ♪
+
+27
+00:02:48,602 --> 00:02:52,606
+♪ I'll give you three guesses ♪
+
+28
+00:02:52,640 --> 00:02:56,210
+♪ Who loves you ♪
+
+29
+00:02:56,244 --> 00:02:58,912
+♪ Who loves you ♪
+
+30
+00:02:58,946 --> 00:03:02,983
+♪ Right from the start ♪
+
+31
+00:03:03,016 --> 00:03:06,454
+♪ Not your mother ♪
+
+32
+00:03:06,487 --> 00:03:10,958
+♪ Who likes to baby you so ♪
+
+33
+00:03:10,991 --> 00:03:14,762
+♪ And not the girl next door ♪
+
+34
+00:03:14,795 --> 00:03:18,232
+♪ You used to know ♪
+
+35
+00:04:16,824 --> 00:04:19,627
+♪ Often I think ♪
+
+36
+00:04:19,660 --> 00:04:23,531
+♪ This sad old world ♪
+
+37
+00:04:23,564 --> 00:04:25,733
+♪ Is whistling ♪
+
+38
+00:04:25,766 --> 00:04:30,971
+♪ In the dark ♪
+
+39
+00:04:31,004 --> 00:04:33,774
+♪ Just like a child ♪
+
+40
+00:04:33,807 --> 00:04:37,545
+♪ Who, late from school ♪
+
+41
+00:04:37,578 --> 00:04:40,414
+♪ Walks bravely home ♪
+
+42
+00:04:40,448 --> 00:04:44,752
+♪ Through the park ♪
+
+43
+00:04:44,785 --> 00:04:49,723
+♪ To keep their spirits soaring ♪
+
+44
+00:04:51,692 --> 00:04:56,630
+♪ And keep the night at bay ♪
+
+45
+00:04:58,599 --> 00:05:01,502
+♪ Neither quite knowing ♪
+
+46
+00:05:01,535 --> 00:05:05,473
+♪ Which way they are going ♪
+
+47
+00:05:05,506 --> 00:05:10,444
+♪ They sing the shadows away ♪
+
+48
+00:05:14,882 --> 00:05:17,818
+♪ Often I think ♪
+
+49
+00:05:17,851 --> 00:05:22,356
+♪ My poor old heart ♪
+
+50
+00:05:22,390 --> 00:05:25,659
+♪ Has given up ♪
+
+51
+00:05:25,693 --> 00:05:29,763
+♪ For good ♪
+
+52
+00:05:29,797 --> 00:05:32,733
+♪ And then I see ♪
+
+53
+00:05:32,766 --> 00:05:36,570
+♪ A brand new face ♪
+
+54
+00:05:36,604 --> 00:05:38,005
+♪ I glimpse ♪
+
+55
+00:05:38,038 --> 00:05:43,611
+♪ Some new neighborhood ♪
+
+56
+00:05:43,644 --> 00:05:47,014
+♪ So walk me back home ♪
+
+57
+00:05:47,047 --> 00:05:51,419
+♪ My darling ♪
+
+58
+00:05:51,452 --> 00:05:56,390
+♪ Tell me dreams really come true ♪
+
+59
+00:06:00,428 --> 00:06:02,896
+♪ Whistling ♪
+
+60
+00:06:05,198 --> 00:06:07,735
+♪ Whistling ♪
+
+61
+00:06:10,571 --> 00:06:12,640
+♪ Here ♪
+
+62
+00:06:12,673 --> 00:06:17,611
+♪ In the dark with you ♪
+
+63
+00:06:50,611 --> 00:06:54,848
+♪ So walk me back home ♪
+
+64
+00:06:54,882 --> 00:06:59,086
+♪ My darling ♪
+
+65
+00:06:59,119 --> 00:07:04,057
+♪ Tell me dreams really come true ♪
+
+66
+00:07:08,261 --> 00:07:11,031
+♪ Whistling ♪
+
+67
+00:07:13,266 --> 00:07:16,069
+♪ Whistling ♪
+
+68
+00:07:19,006 --> 00:07:23,911
+♪ Here in the dark ♪
+
+69
+00:07:26,246 --> 00:07:30,484
+♪ With you ♪
+
+70
+00:07:39,793 --> 00:07:41,028
+[audience cheering]
+
+71
+00:07:54,775 --> 00:07:56,677
+[Air raid siren wailing]
+
+72
+00:08:17,865 --> 00:08:19,132
+[Speaking German]
+
+73
+00:08:32,813 --> 00:08:33,813
+[Cannons firing]
+
+74
+00:08:36,316 --> 00:08:37,751
+[Screaming]
+
+75
+00:08:40,353 --> 00:08:41,922
+[All screaming]
+
+76
+00:08:50,831 --> 00:08:52,566
+Play Pack Up Your Troubles.
+
+77
+00:08:54,902 --> 00:08:57,004
+Don't go.
+Don't worry.
+
+78
+00:08:57,037 --> 00:09:00,808
+♪ Pack up your troubles
+in your old kit bag ♪
+
+79
+00:09:00,841 --> 00:09:05,345
+♪ And smile, smile, smile ♪
+
+80
+00:09:05,378 --> 00:09:09,349
+♪ While you've a Lucifer
+
+81
+00:09:09,382 --> 00:09:13,721
+♪ Smile, boys, that's the style ♪
+
+82
+00:09:13,754 --> 00:09:15,222
+(All)
+♪ What's the use of worrying? ♪
+
+83
+00:09:15,255 --> 00:09:17,357
+Get back to your seats.
+
+84
+00:09:17,390 --> 00:09:21,194
+♪ It never was worthwhile ♪
+
+85
+00:09:21,228 --> 00:09:25,999
+♪ So pack up your troubles
+in your old kit bag ♪
+
+86
+00:09:26,033 --> 00:09:27,000
+♪ And smile ♪
+
+87
+00:09:27,034 --> 00:09:28,135
+Come on.
+
+88
+00:09:28,168 --> 00:09:29,202
+(All)
+♪ Smile, smile ♪
+
+89
+00:09:29,236 --> 00:09:31,104
+Again!
+
+90
+00:09:31,138 --> 00:09:34,341
+(All) ♪ Pack up your troubles
+in your old kit bag ♪
+
+91
+00:09:34,374 --> 00:09:38,946
+♪ And smile, smile, smile ♪
+
+92
+00:09:38,979 --> 00:09:43,216
+♪ While you've a Lucifer ♪
+
+93
+00:09:43,250 --> 00:09:47,354
+♪ Smile, boys, that's the style ♪
+
+94
+00:09:47,387 --> 00:09:51,124
+♪ What's the use of worrying? ♪
+
+95
+00:09:51,158 --> 00:09:54,394
+♪ It never was worthwhile ♪
+
+96
+00:09:54,427 --> 00:09:56,063
+♪ So ♪
+
+97
+00:09:56,096 --> 00:09:59,700
+♪ Pack up your troubles
+in your old kit bag ♪
+
+98
+00:09:59,733 --> 00:10:01,969
+♪ And smile, smile, smile ♪
+
+99
+00:10:02,002 --> 00:10:04,371
+Keep the home fires burning.
+
+100
+00:10:04,404 --> 00:10:08,942
+(All)
+♪ Keep the home fires burning ♪
+
+101
+00:10:08,976 --> 00:10:13,380
+♪ While your hearts are yearning ♪
+
+102
+00:10:13,413 --> 00:10:17,384
+♪ Though your lads are far away ♪
+
+103
+00:10:17,417 --> 00:10:22,422
+♪ They dream of home ♪
+
+104
+00:10:22,455 --> 00:10:27,060
+♪ There's a silver lining ♪
+
+105
+00:10:27,094 --> 00:10:31,431
+♪ Through the dark cloud shining ♪
+
+106
+00:10:31,464 --> 00:10:35,435
+♪ Turn the dark cloud inside out ♪
+
+107
+00:10:35,468 --> 00:10:36,837
+♪ Till the boys ♪
+
+108
+00:10:36,870 --> 00:10:38,405
+Tipperary.
+
+109
+00:10:38,438 --> 00:10:40,073
+(All)
+♪ Come home ♪
+
+110
+00:10:40,107 --> 00:10:45,012
+♪ It's a long way to Tipperary ♪
+
+111
+00:10:45,045 --> 00:10:49,750
+♪ It's a long way to go ♪
+
+112
+00:10:49,783 --> 00:10:54,287
+♪ It's a long way to Tipperary ♪
+
+113
+00:10:54,321 --> 00:10:59,426
+♪ To the sweetest girl I know ♪
+
+114
+00:10:59,459 --> 00:11:04,164
+♪ Goodbye, Piccadilly ♪
+
+115
+00:11:04,197 --> 00:11:08,301
+♪ Farewell, Leicester Square ♪
+
+116
+00:11:08,335 --> 00:11:13,173
+♪ It's a long, long way to Tipperary ♪
+
+117
+00:11:13,206 --> 00:11:18,145
+♪ But my heart's right there ♪
+
+118
+00:11:21,414 --> 00:11:23,416
+Bravo!
+
+119
+00:11:23,450 --> 00:11:24,885
+[All cheering]
+
+120
+00:11:32,760 --> 00:11:34,127
+Yeah!
+
+121
+00:11:42,903 --> 00:11:44,772
+[Water rushing]
+
+122
+00:11:46,273 --> 00:11:47,841
+[Water rushing]
+
+123
+00:12:08,862 --> 00:12:10,430
+[All speaking German]
+
+124
+00:12:36,323 --> 00:12:37,958
+[Water splashing]
+
+125
+00:12:50,938 --> 00:12:52,272
+[Horn honking]
+
+126
+00:13:01,014 --> 00:13:02,215
+Good evening, Miss Lili.
+
+127
+00:13:02,249 --> 00:13:03,550
+Hello, Emma.
+
+128
+00:13:06,053 --> 00:13:07,420
+The Colonel's in the study.
+
+129
+00:13:07,454 --> 00:13:08,889
+Thank you.
+
+130
+00:13:11,124 --> 00:13:12,492
+Oh, Emma, I'd love some tea.
+
+131
+00:13:12,525 --> 00:13:13,927
+Yes, miss.
+
+132
+00:13:15,295 --> 00:13:16,897
+Kurt.
+
+133
+00:13:16,930 --> 00:13:17,998
+How nice.
+
+134
+00:13:18,031 --> 00:13:19,232
+[Chuckling]
+
+135
+00:13:19,266 --> 00:13:21,234
+- How are you, my dear?
+- Fine.
+
+136
+00:13:24,504 --> 00:13:25,581
+That's most important, Lili.
+
+137
+00:13:25,605 --> 00:13:27,841
+We must know
+
+138
+00:13:27,875 --> 00:13:32,579
+exactly how the Allies are planning
+to utilize the military aircraft.
+
+139
+00:13:32,612 --> 00:13:34,181
+The war is changing.
+
+140
+00:13:34,214 --> 00:13:37,450
+It is, uh, moving into the air,
+
+141
+00:13:37,484 --> 00:13:39,219
+and, Lili,
+
+142
+00:13:39,252 --> 00:13:41,889
+we cannot afford to minimize
+this new potential.
+
+143
+00:13:41,922 --> 00:13:43,223
+As each new squadron is formed,
+
+144
+00:13:43,256 --> 00:13:44,892
+the air war expands,
+
+145
+00:13:44,925 --> 00:13:47,928
+the ground war is altered,
+forced to, uh, shift
+
+146
+00:13:47,961 --> 00:13:49,562
+and to, uh, to, how would you say,
+
+147
+00:13:49,596 --> 00:13:51,298
+to, uh,
+
+148
+00:13:51,331 --> 00:13:53,100
+accommodate on a day-to-day basis.
+
+149
+00:13:53,133 --> 00:13:55,368
+It's hard to believe.
+
+150
+00:13:55,402 --> 00:13:57,580
+What, that those ridiculous little
+aircraft could make such a difference?
+
+151
+00:13:57,604 --> 00:13:58,906
+Mmm-hmm.
+
+152
+00:13:58,939 --> 00:14:00,307
+Yesterday Baron Von Richthofen
+
+153
+00:14:00,340 --> 00:14:02,275
+led six of those
+ridiculous little aircraft...
+
+154
+00:14:02,309 --> 00:14:05,913
+Thank you... in an attack
+on the ammunition depot in Toulon.
+
+155
+00:14:05,946 --> 00:14:09,116
+The explosion
+shattered windows in Paris.
+
+156
+00:14:09,149 --> 00:14:13,086
+It also stopped a well-planned
+enemy attack in the Argonne sector.
+
+157
+00:14:14,587 --> 00:14:16,423
+Incidentally, I understand,
+
+158
+00:14:16,456 --> 00:14:18,625
+you're to be decorated
+by the French government.
+
+159
+00:14:18,658 --> 00:14:19,993
+Yes.
+
+160
+00:14:22,029 --> 00:14:23,596
+When?
+
+161
+00:14:23,630 --> 00:14:26,533
+Well, no date's been set,
+but soon, I expect.
+
+162
+00:14:26,566 --> 00:14:29,302
+The sooner the better.
+
+163
+00:14:29,336 --> 00:14:31,271
+[Doorbell ringing]
+
+164
+00:14:54,427 --> 00:14:55,996
+(Sergeant)
+Good evening, Mr. Bedford.
+
+165
+00:14:56,029 --> 00:14:57,297
+Good evening, Sergeant.
+
+166
+00:14:57,330 --> 00:14:59,599
+Sorry to disturb you at this late hour,
+
+167
+00:14:59,632 --> 00:15:01,068
+but we've reason to believe
+
+168
+00:15:01,101 --> 00:15:02,970
+there's a German spy in the vicinity.
+
+169
+00:15:03,003 --> 00:15:04,637
+Blimey.
+
+170
+00:15:04,671 --> 00:15:07,407
+You haven't seen or heard
+anything suspicious, have you?
+
+171
+00:15:07,440 --> 00:15:09,009
+Not a thing,
+
+172
+00:15:09,042 --> 00:15:10,944
+but I'll certainly let you know if I do.
+
+173
+00:15:10,978 --> 00:15:13,580
+(Sergeant)
+Uh, is Miss Lili down for the weekend?
+
+174
+00:15:13,613 --> 00:15:15,615
+Yes, her uncle's staying with us.
+
+175
+00:15:15,648 --> 00:15:19,419
+I believe, you met Mr. Von Ruger
+when he was here last summer.
+
+176
+00:15:19,452 --> 00:15:21,621
+Oh, yes,
+the distinguished Swedish gentleman.
+
+177
+00:15:21,654 --> 00:15:23,190
+Swiss.
+
+178
+00:15:23,223 --> 00:15:24,724
+(Sergeant)
+Yes, that's right, Swiss.
+
+179
+00:15:24,757 --> 00:15:27,394
+Well, give Miss Lili
+my regards, and her uncle,
+
+180
+00:15:27,427 --> 00:15:30,097
+and keep your eyes open, Mr. Bedford.
+
+181
+00:15:30,130 --> 00:15:32,141
+(Bedford) - I certainly will.
+- Good night, Sergeant.
+
+182
+00:15:32,165 --> 00:15:33,400
+Good night.
+
+183
+00:15:40,440 --> 00:15:42,309
+Trouble?
+
+184
+00:15:42,342 --> 00:15:44,611
+Nothing we can't handle.
+
+185
+00:15:44,644 --> 00:15:47,314
+We just have to be careful.
+
+186
+00:15:47,347 --> 00:15:51,651
+Your assignment is the famous
+Major William Larrabee.
+
+187
+00:15:51,684 --> 00:15:55,322
+Of the five men having access to
+the day-to-day planning of the air war,
+
+188
+00:15:55,355 --> 00:15:58,391
+he would seem to be the best prospect.
+
+189
+00:15:58,425 --> 00:16:01,661
+He's young, attractive, unmarried.
+
+190
+00:16:01,694 --> 00:16:03,596
+That's a change.
+
+191
+00:16:03,630 --> 00:16:08,001
+I'm getting weary
+of diplomats and old generals.
+
+192
+00:16:08,035 --> 00:16:11,504
+The Major is considered
+to be quite the ladies' man.
+
+193
+00:16:11,538 --> 00:16:13,382
+If you're gonna spend
+any length of time in France,
+
+194
+00:16:13,406 --> 00:16:14,717
+you should arrange some concerts,
+
+195
+00:16:14,741 --> 00:16:16,276
+maybe visit some of the hospitals.
+
+196
+00:16:16,309 --> 00:16:17,510
+Yes.
+
+197
+00:16:18,645 --> 00:16:20,780
+Success.
+
+198
+00:16:20,813 --> 00:16:22,549
+Major Larrabee.
+
+199
+00:16:22,582 --> 00:16:23,683
+[Machine guns firing]
+
+200
+00:16:23,716 --> 00:16:25,385
+[Engines roaring]
+
+201
+00:16:28,188 --> 00:16:29,389
+[Engine failing]
+
+202
+00:18:07,387 --> 00:18:08,821
+[Engines roaring]
+
+203
+00:18:47,494 --> 00:18:49,128
+[Engine humming]
+
+204
+00:21:05,798 --> 00:21:07,033
+Look out!
+
+205
+00:21:07,066 --> 00:21:08,601
+[All shouting]
+
+206
+00:21:09,736 --> 00:21:11,037
+(Man)
+What's he doing?
+
+207
+00:21:19,612 --> 00:21:21,781
+[Plane crashing]
+
+208
+00:22:35,154 --> 00:22:37,624
+Good morning, Colonel.
+
+209
+00:22:37,657 --> 00:22:39,759
+General.
+
+210
+00:22:39,792 --> 00:22:41,360
+You know Kraus?
+
+211
+00:22:42,629 --> 00:22:44,531
+Yes.
+
+212
+00:22:44,564 --> 00:22:47,099
+I understand you've assigned
+Project Sparrow
+
+213
+00:22:47,133 --> 00:22:48,501
+to Lili Smith.
+
+214
+00:22:48,535 --> 00:22:50,102
+Lili Schmidt.
+
+215
+00:22:50,136 --> 00:22:53,172
+But that, my dear Colonel,
+is precisely the distinction
+
+216
+00:22:53,205 --> 00:22:55,642
+that separates our points of view.
+
+217
+00:22:55,675 --> 00:22:59,078
+You say Schmidt, I say Smith.
+
+218
+00:22:59,111 --> 00:23:01,047
+Her father was German.
+
+219
+00:23:01,080 --> 00:23:03,115
+Her mother is English.
+
+220
+00:23:03,149 --> 00:23:06,185
+Lili Smith is an English subject.
+
+221
+00:23:06,218 --> 00:23:08,788
+She left Germany when she was 10.
+
+222
+00:23:08,821 --> 00:23:10,790
+Forgive me, General, but I am not going
+
+223
+00:23:10,823 --> 00:23:12,459
+to debate this issue with you again.
+
+224
+00:23:12,492 --> 00:23:14,594
+Her record speaks for itself.
+
+225
+00:23:14,627 --> 00:23:18,931
+My dear Colonel, I'm almost as
+impressed with her record as you are.
+
+226
+00:23:18,965 --> 00:23:20,733
+Impressed, hmm?
+
+227
+00:23:20,767 --> 00:23:22,735
+Not convinced.
+
+228
+00:23:22,769 --> 00:23:25,037
+That is unfortunate, General
+
+229
+00:23:25,071 --> 00:23:27,106
+because until I am
+relieved of my command,
+
+230
+00:23:27,139 --> 00:23:31,143
+or you obtain the necessary
+authority to countermand my orders,
+
+231
+00:23:31,177 --> 00:23:33,780
+I will continue
+to assign to Lili Schmidt
+
+232
+00:23:33,813 --> 00:23:36,783
+whatever project
+seems to me appropriate.
+
+233
+00:23:44,223 --> 00:23:46,693
+You forget yourself, Colonel.
+
+234
+00:23:46,726 --> 00:23:48,995
+I am still your superior officer,
+
+235
+00:23:49,028 --> 00:23:52,565
+and I will stop you
+if I have to go to the Kaiser to do it.
+
+236
+00:23:52,599 --> 00:23:54,801
+I'll be happy to make
+an appointment for you.
+
+237
+00:23:54,834 --> 00:23:57,904
+I'm having lunch with him
+this afternoon.
+
+238
+00:23:57,937 --> 00:24:01,541
+Von Ruger, that woman
+is a security risk.
+
+239
+00:24:01,574 --> 00:24:03,710
+She's an emotional female
+who, in my opinion,
+
+240
+00:24:03,743 --> 00:24:05,678
+involved herself
+for all the wrong reasons
+
+241
+00:24:05,712 --> 00:24:07,847
+and because of
+your personal relationship,
+
+242
+00:24:07,880 --> 00:24:11,918
+you refuse to admit
+the potential danger!
+
+243
+00:24:11,951 --> 00:24:16,489
+Concerning my personal relationship
+with the lady, General,
+
+244
+00:24:16,523 --> 00:24:18,090
+it is, first, none of your business,
+
+245
+00:24:18,124 --> 00:24:19,859
+and second,
+
+246
+00:24:19,892 --> 00:24:22,729
+it in no way influences
+her capabilities as an agent.
+
+247
+00:24:22,762 --> 00:24:26,032
+Regardless of what you may think,
+she is the perfect spy
+
+248
+00:24:26,065 --> 00:24:28,935
+and the ideal person
+to succeed with Project Sparrow.
+
+249
+00:24:28,968 --> 00:24:32,204
+And now, if you'll forgive me,
+I'll be late for lunch.
+
+250
+00:24:35,007 --> 00:24:36,242
+Kraus.
+
+251
+00:24:38,711 --> 00:24:43,049
+♪ They tell a story
+back in London town ♪
+
+252
+00:24:43,082 --> 00:24:47,854
+♪ That when you hear taps sound ♪
+
+253
+00:24:47,887 --> 00:24:52,291
+♪ Then all you soldiers
+have a sweetheart ♪
+
+254
+00:24:52,324 --> 00:24:55,528
+♪ Who always comes ♪
+
+255
+00:24:55,562 --> 00:24:58,197
+♪ Around ♪
+
+256
+00:25:02,869 --> 00:25:07,640
+♪ When night is falling ♪
+
+257
+00:25:07,674 --> 00:25:09,742
+♪ She comes calling ♪
+
+258
+00:25:09,776 --> 00:25:14,614
+♪ The girl in no man's land ♪
+
+259
+00:25:15,815 --> 00:25:19,552
+♪ She comes to cheer them ♪
+
+260
+00:25:19,586 --> 00:25:21,654
+♪ And be near them ♪
+
+261
+00:25:21,688 --> 00:25:26,525
+♪ The dream they understand ♪
+
+262
+00:25:28,861 --> 00:25:31,063
+♪ Doughboys ♪
+
+263
+00:25:31,097 --> 00:25:34,066
+♪ Weary, cold, and lonely ♪
+
+264
+00:25:34,100 --> 00:25:37,269
+♪ Know her ♪
+
+265
+00:25:37,303 --> 00:25:40,306
+♪ As their one and only ♪
+
+266
+00:25:40,339 --> 00:25:43,342
+♪ The angel who ♪
+
+267
+00:25:43,375 --> 00:25:47,680
+♪ At close of day ♪
+
+268
+00:25:47,714 --> 00:25:50,883
+♪ Comes 'round to kiss ♪
+
+269
+00:25:50,917 --> 00:25:53,219
+♪ Their cares ♪
+
+270
+00:25:53,252 --> 00:25:57,189
+♪ Away ♪
+
+271
+00:25:57,223 --> 00:26:01,828
+♪ When this is over ♪
+
+272
+00:26:01,861 --> 00:26:03,830
+♪ You'll discover ♪
+
+273
+00:26:03,863 --> 00:26:05,364
+♪ The love ♪
+
+274
+00:26:05,397 --> 00:26:10,637
+♪ You've always planned ♪
+
+275
+00:26:10,670 --> 00:26:15,041
+♪ Until that time ♪
+
+276
+00:26:15,074 --> 00:26:20,079
+♪ Pretend that I'm ♪
+
+277
+00:26:20,112 --> 00:26:21,748
+♪ The girl ♪
+
+278
+00:26:21,781 --> 00:26:24,751
+♪ In no man's ♪
+
+279
+00:26:24,784 --> 00:26:27,920
+♪ Land ♪
+
+280
+00:26:31,658 --> 00:26:32,725
+Bonjour.
+
+281
+00:26:32,759 --> 00:26:33,826
+Bonjour.
+
+282
+00:26:33,860 --> 00:26:36,362
+Bonjour.
+
+283
+00:26:36,395 --> 00:26:37,864
+[Speaks French]
+
+284
+00:26:37,897 --> 00:26:39,732
+[Speaks French]
+
+285
+00:26:39,766 --> 00:26:41,701
+[Speaks French]
+
+286
+00:26:41,734 --> 00:26:43,035
+[Speaks French]
+
+287
+00:26:45,237 --> 00:26:47,339
+[Speaks French]
+
+288
+00:26:47,373 --> 00:26:48,941
+[Speaks French]
+
+289
+00:26:48,975 --> 00:26:50,342
+[Speaks French]
+
+290
+00:26:53,179 --> 00:26:54,747
+♪ Doughboys ♪
+
+291
+00:26:54,781 --> 00:26:57,650
+♪ Weary, cold, and lonely ♪
+
+292
+00:26:57,684 --> 00:27:00,186
+♪ Know her ♪
+
+293
+00:27:00,219 --> 00:27:03,222
+♪ As their one and only ♪
+
+294
+00:27:03,255 --> 00:27:06,425
+♪ The angel who ♪
+
+295
+00:27:06,458 --> 00:27:10,262
+♪ At close of day ♪
+
+296
+00:27:10,296 --> 00:27:14,701
+♪ Comes 'round to kiss ♪
+
+297
+00:27:14,734 --> 00:27:17,136
+♪ Their cares ♪
+
+298
+00:27:17,169 --> 00:27:20,973
+♪ Away ♪
+
+299
+00:27:21,007 --> 00:27:26,112
+♪ When this is over ♪
+
+300
+00:27:26,145 --> 00:27:28,314
+♪ You'll discover ♪
+
+301
+00:27:28,347 --> 00:27:29,882
+♪ The love ♪
+
+302
+00:27:29,916 --> 00:27:34,687
+♪ You've always planned ♪
+
+303
+00:27:34,721 --> 00:27:39,325
+♪ Until that time ♪
+
+304
+00:27:39,358 --> 00:27:45,064
+♪ Pretend that I'm ♪
+
+305
+00:27:45,097 --> 00:27:49,235
+♪ The girl ♪
+
+306
+00:27:49,268 --> 00:27:55,307
+♪ In no man's ♪
+
+307
+00:27:55,341 --> 00:27:59,812
+♪ Land ♪
+
+308
+00:28:01,280 --> 00:28:03,449
+[audience cheering]
+
+309
+00:28:04,984 --> 00:28:07,419
+Very good.
+
+310
+00:28:07,453 --> 00:28:09,856
+Very good, my dear.
+
+311
+00:28:09,889 --> 00:28:11,724
+Damn good show, old girl.
+
+312
+00:28:11,758 --> 00:28:13,125
+Damn good show.
+
+313
+00:28:14,961 --> 00:28:16,695
+[Audience laughing]
+
+314
+00:28:18,898 --> 00:28:20,132
+Oh!
+
+315
+00:28:21,233 --> 00:28:22,434
+[Laughing]
+
+316
+00:28:35,247 --> 00:28:36,749
+Just seat me there.
+
+317
+00:28:40,787 --> 00:28:43,022
+Alors, jouons rainy day, d'accord?
+
+318
+00:28:50,262 --> 00:28:52,131
+♪ Smile away ♪
+
+319
+00:28:52,164 --> 00:28:56,769
+♪ Each rainy day ♪
+
+320
+00:28:56,803 --> 00:29:02,408
+♪ And laugh away your blues ♪
+
+321
+00:29:02,441 --> 00:29:06,312
+♪ Be like old Mr. Noah ♪
+
+322
+00:29:06,345 --> 00:29:10,516
+♪ When it starts to pour ♪
+
+323
+00:29:10,549 --> 00:29:14,220
+♪ Make fun of trouble ♪
+
+324
+00:29:14,253 --> 00:29:18,190
+♪ Although you're seein' double ♪
+
+325
+00:29:18,224 --> 00:29:20,226
+♪ Keep in mind ♪
+
+326
+00:29:20,259 --> 00:29:24,463
+♪ They're silver-lined ♪
+
+327
+00:29:24,496 --> 00:29:29,869
+♪ Those gloomy clouds of gray ♪
+
+328
+00:29:31,070 --> 00:29:35,474
+♪ Let love light the sky up ♪
+
+329
+00:29:35,507 --> 00:29:38,310
+♪ Tell the clouds to dry up ♪
+
+330
+00:29:38,344 --> 00:29:43,249
+♪ And smile away each rainy day ♪
+
+331
+00:29:56,896 --> 00:29:58,230
+[Horn honking]
+
+332
+00:29:59,065 --> 00:30:01,200
+Here he comes.
+
+333
+00:30:05,604 --> 00:30:07,239
+[Sighing]
+
+334
+00:30:07,273 --> 00:30:10,276
+I have to dine
+with two generals this evening.
+
+335
+00:30:11,310 --> 00:30:12,945
+The unofficial headquarters
+
+336
+00:30:12,979 --> 00:30:16,448
+of Major Larrabee's squadron
+is the Cafe Cancan.
+
+337
+00:30:16,482 --> 00:30:17,549
+[Music playing]
+
+338
+00:30:17,583 --> 00:30:19,251
+[People cheering]
+
+339
+00:31:53,279 --> 00:31:55,047
+[Cheering continues]
+
+340
+00:33:01,813 --> 00:33:05,017
+[Man whistling]
+
+341
+00:33:05,051 --> 00:33:07,353
+Excuse me, ma'am, General, General.
+
+342
+00:33:08,654 --> 00:33:10,256
+'Cause I'm a little drunk,
+
+343
+00:33:10,289 --> 00:33:12,191
+but there's something I just gotta say.
+
+344
+00:33:12,224 --> 00:33:13,725
+Oh?
+
+345
+00:33:13,759 --> 00:33:15,661
+Ma'am, you are an inspiration.
+
+346
+00:33:15,694 --> 00:33:17,196
+Thank you.
+
+347
+00:33:17,229 --> 00:33:19,098
+I heard you sing in London,
+and you sang
+
+348
+00:33:19,131 --> 00:33:23,535
+♪ It's a long way to Tipperary ♪
+
+349
+00:33:23,569 --> 00:33:26,572
+And, ma'am, it was inspirational!
+
+350
+00:33:26,605 --> 00:33:29,241
+[Both speaking French]
+
+351
+00:33:29,275 --> 00:33:31,510
+What was that, ma'am?
+
+352
+00:33:31,543 --> 00:33:34,289
+I just told the General you heard
+me sing it's a long way to Tipperary.
+
+353
+00:33:34,313 --> 00:33:36,415
+Oh, yeah, you should've
+heard her, General.
+
+354
+00:33:36,448 --> 00:33:37,683
+And you, too, General.
+
+355
+00:33:37,716 --> 00:33:39,818
+It was purely, purely inspirational.
+
+356
+00:33:39,851 --> 00:33:42,154
+- Thank you.
+- Thank you, ma'am.
+
+357
+00:33:42,188 --> 00:33:44,390
+[Speaking French]
+
+358
+00:33:44,423 --> 00:33:46,192
+What was that?
+
+359
+00:33:46,225 --> 00:33:48,727
+He says you're
+one of the famous Eagle Squadron.
+
+360
+00:33:48,760 --> 00:33:51,163
+Oh, yes, ma'am.
+
+361
+00:33:51,197 --> 00:33:53,665
+Lieutenant George "Youngblood" Carson.
+
+362
+00:33:53,699 --> 00:33:55,401
+How do you do?
+
+363
+00:33:55,434 --> 00:33:58,370
+My grandmother
+was a full-blooded Cherokee Indian.
+
+364
+00:33:58,404 --> 00:33:59,638
+How exciting.
+
+365
+00:33:59,671 --> 00:34:01,707
+It was for my granddaddy.
+
+366
+00:34:01,740 --> 00:34:05,177
+Listen, if it wouldn't be
+putting you to too much trouble,
+
+367
+00:34:05,211 --> 00:34:08,280
+I've got some buddies
+over there just dying to meet you.
+
+368
+00:34:08,314 --> 00:34:10,249
+Hey, fellows!
+
+369
+00:34:10,282 --> 00:34:12,351
+(All)
+Yeah, come on!
+
+370
+00:34:12,384 --> 00:34:14,453
+- What's happening?
+- Come here.
+
+371
+00:34:14,486 --> 00:34:16,822
+Don't get up, General,
+it's just my squadron.
+
+372
+00:34:16,855 --> 00:34:18,757
+Meet Miss Lili Smith.
+
+373
+00:34:18,790 --> 00:34:20,526
+(All)
+How do you do, miss? I'm...
+
+374
+00:34:23,195 --> 00:34:25,564
+Can I have your autograph?
+I've got to have it.
+
+375
+00:34:28,667 --> 00:34:32,271
+Come on, long way to Tipperary.
+You know it. Let"s hear it.
+
+376
+00:34:32,304 --> 00:34:34,406
+[Music playing]
+
+377
+00:34:34,440 --> 00:34:40,812
+Yeah! That's it! That is it!
+Hey everyone! Come on!
+
+378
+00:34:40,846 --> 00:34:44,750
+(All)
+♪ It's a long way to Tipperary ♪
+
+379
+00:34:44,783 --> 00:34:49,421
+♪ To the sweetest girl I know ♪
+
+380
+00:34:49,455 --> 00:34:53,525
+♪ Goodbye, Piccadilly ♪
+
+381
+00:34:53,559 --> 00:34:57,463
+♪ Farewell Leicester Square ♪
+
+382
+00:34:57,496 --> 00:35:01,400
+♪ It's a long long way to Tipperary ♪
+
+383
+00:35:01,433 --> 00:35:05,337
+♪ But my heart's right there ♪
+
+384
+00:35:05,371 --> 00:35:09,408
+♪ It's a long way to Tipperary ♪
+
+385
+00:35:09,441 --> 00:35:10,642
+Thank you.
+
+386
+00:35:10,676 --> 00:35:14,446
+♪ It's a long way to go ♪
+
+387
+00:35:14,480 --> 00:35:17,916
+♪ It's a long way to Tipperary ♪
+
+388
+00:35:17,949 --> 00:35:19,518
+Sing it.
+
+389
+00:35:19,551 --> 00:35:23,755
+♪ To the sweetest girl I know ♪
+
+390
+00:35:23,789 --> 00:35:28,260
+♪ Goodbye Piccadilly ♪
+
+391
+00:35:28,294 --> 00:35:32,164
+♪ Farewell Leicester Square ♪
+
+392
+00:35:32,198 --> 00:35:33,865
+There it is.
+
+393
+00:35:33,899 --> 00:35:36,768
+♪ It's a long long way to Tipperary ♪
+
+394
+00:35:36,802 --> 00:35:43,342
+♪ But my heart's right there ♪
+
+395
+00:35:47,313 --> 00:35:49,481
+♪ Parlez-vous
+
+396
+00:35:49,515 --> 00:35:51,450
+(all)
+♪ Mademoiselle from Armentieres ♪
+
+397
+00:35:51,483 --> 00:35:53,285
+♪ Parlez-vous ♪
+
+398
+00:35:53,319 --> 00:35:55,487
+♪ Mademoiselle from Armentieres ♪
+
+399
+00:35:55,521 --> 00:35:56,864
+♪ She hasn't been kissed for 40 years ♪
+
+400
+00:35:56,888 --> 00:36:01,193
+♪ Hinky-dinky, parlez-vous ♪
+
+401
+00:36:01,227 --> 00:36:03,395
+(all)
+♪ Mademoiselle from Armentieres ♪
+
+402
+00:36:03,429 --> 00:36:05,264
+♪ Parlez-vous ♪
+
+403
+00:36:05,297 --> 00:36:08,767
+♪ Mademoiselle from Armentieres,
+parlez-vous ♪
+
+404
+00:36:08,800 --> 00:36:10,636
+♪ She got the Palm
+and the Croix de Guerre ♪
+
+405
+00:36:10,669 --> 00:36:12,604
+♪ For washin' soldiers' underwear ♪
+
+406
+00:36:12,638 --> 00:36:15,674
+♪ Hinky-dinky, parlez-vous ♪
+
+407
+00:36:15,707 --> 00:36:20,612
+♪ One night I had
+beaucoup jack, parlez-vous ♪
+
+408
+00:36:20,646 --> 00:36:21,989
+♪ One night I had beaucoup jack... ♪
+
+409
+00:36:22,013 --> 00:36:23,782
+Gentlemen, gentlemen, you are dears,
+
+410
+00:36:23,815 --> 00:36:25,393
+and I would love
+to kiss you all good night...
+
+411
+00:36:25,417 --> 00:36:26,385
+[All cheering]
+
+412
+00:36:26,418 --> 00:36:27,886
+But, but, but, but,
+
+413
+00:36:27,919 --> 00:36:30,956
+but I'm only a tourist,
+not a permanent resident.
+
+414
+00:36:30,989 --> 00:36:32,800
+[All sighing]
+Hey, wait a minute, wait a minute,
+
+415
+00:36:32,824 --> 00:36:34,326
+wait a minute, she's got a point.
+
+416
+00:36:34,360 --> 00:36:35,994
+(All)
+What point?
+
+417
+00:36:36,027 --> 00:36:39,398
+Oh, you're beautiful,
+but you're just too much.
+
+418
+00:36:39,431 --> 00:36:41,333
+So, in the interest of saving time,
+
+419
+00:36:41,367 --> 00:36:43,502
+and as the senior Cherokee Indian...
+
+420
+00:36:43,535 --> 00:36:44,903
+[All whooping]
+
+421
+00:36:44,936 --> 00:36:47,005
+I will say good night for us all.
+
+422
+00:36:47,038 --> 00:36:49,541
+[All laughing]
+
+423
+00:36:49,575 --> 00:36:50,809
+Miss Lili.
+
+424
+00:36:50,842 --> 00:36:52,278
+Lieutenant?
+
+425
+00:36:53,412 --> 00:36:55,247
+Plant it right here.
+
+426
+00:36:55,281 --> 00:36:57,416
+[All laughing]
+
+427
+00:36:57,449 --> 00:36:59,385
+[All cheering]
+
+428
+00:37:04,423 --> 00:37:05,891
+Whoa.
+
+429
+00:37:05,924 --> 00:37:07,959
+[Chuckling]
+
+430
+00:37:07,993 --> 00:37:11,697
+Inspirational.
+Purely inspirational.
+
+431
+00:37:11,730 --> 00:37:13,732
+- Good night. (All)
+- Good night.
+
+432
+00:37:15,467 --> 00:37:16,802
+[All shouting]
+
+433
+00:37:19,705 --> 00:37:23,542
+♪ Mademoiselle from Armentieres,
+parlez-vous ♪
+
+434
+00:37:23,575 --> 00:37:25,477
+♪ Mademoiselle from Armentieres ♪
+
+435
+00:37:25,511 --> 00:37:27,054
+♪ She hasn't been kissed for 40 years ♪
+
+436
+00:37:27,078 --> 00:37:30,949
+♪ Hinky-dinky, parlez-vous ♪
+
+437
+00:37:30,982 --> 00:37:32,918
+♪ The general got the Croix de Guerre ♪
+
+438
+00:37:32,951 --> 00:37:34,920
+♪ Parlez vous ♪
+
+439
+00:37:34,953 --> 00:37:36,922
+♪ The general got the Croix de Guerre ♪
+
+440
+00:37:36,955 --> 00:37:38,690
+♪ Parlez vous ♪
+
+441
+00:37:38,724 --> 00:37:40,759
+[ringing]
+
+442
+00:37:51,737 --> 00:37:52,904
+Allo?
+
+443
+00:37:52,938 --> 00:37:54,340
+(Lili)
+Hello, Uncle.
+
+444
+00:37:54,373 --> 00:37:55,541
+Hello, my dear.
+
+445
+00:37:55,574 --> 00:37:56,642
+How was the evening?
+
+446
+00:37:56,675 --> 00:37:58,310
+You should know.
+You were there.
+
+447
+00:37:58,344 --> 00:38:00,546
+You don't miss anything.
+
+448
+00:38:00,579 --> 00:38:02,890
+One of Major Larrabee's men said he
+was on some kind of important mission.
+
+449
+00:38:02,914 --> 00:38:04,850
+Oh, that's too bad.
+
+450
+00:38:04,883 --> 00:38:06,728
+I've no doubt you'll meet
+the Major another time.
+
+451
+00:38:06,752 --> 00:38:08,387
+I hope so.
+
+452
+00:38:08,420 --> 00:38:10,021
+In the meantime,
+should we get together?
+
+453
+00:38:10,055 --> 00:38:13,592
+How about, uh,
+a late breakfast, say around noon?
+
+454
+00:38:13,625 --> 00:38:14,926
+I look forward to seeing you.
+
+455
+00:38:14,960 --> 00:38:16,462
+Bye, darling.
+
+456
+00:38:16,495 --> 00:38:17,929
+Bye, uncle.
+
+457
+00:38:19,498 --> 00:38:21,066
+- Any instruction?
+- No.
+
+458
+00:38:22,401 --> 00:38:23,835
+[Violin playing]
+
+459
+00:38:55,166 --> 00:38:56,435
+Thank you.
+
+460
+00:38:56,468 --> 00:38:58,770
+I'm Bill Larrabee.
+
+461
+00:38:58,804 --> 00:39:00,639
+How do you do?
+
+462
+00:39:00,672 --> 00:39:03,409
+I have champagne, caviar,
+marinated truffles,
+
+463
+00:39:03,442 --> 00:39:06,645
+brilliant foie Gras, and half a dozen
+assorted Hungarian Gypsies.
+
+464
+00:39:06,678 --> 00:39:08,013
+Sounds delicious.
+
+465
+00:39:08,046 --> 00:39:09,615
+I thought we'd go on a picnic.
+
+466
+00:39:09,648 --> 00:39:11,417
+At 3:00 in the morning?
+
+467
+00:39:11,450 --> 00:39:13,885
+It's the best time. No ants.
+
+468
+00:39:13,919 --> 00:39:15,687
+[Violin playing]
+
+469
+00:40:31,497 --> 00:40:32,931
+[Birds chirping]
+
+470
+00:40:45,611 --> 00:40:47,445
+[Plane engines roaring]
+
+471
+00:41:04,262 --> 00:41:06,498
+That's my squadron.
+Dawn patrol.
+
+472
+00:41:06,532 --> 00:41:08,767
+- Is it?
+- Mmm-hmm.
+
+473
+00:41:08,800 --> 00:41:10,502
+When do you have to report back?
+
+474
+00:41:10,536 --> 00:41:11,970
+Friday.
+
+475
+00:41:12,003 --> 00:41:14,005
+When do you have to go back to England?
+
+476
+00:41:14,039 --> 00:41:15,574
+Soon.
+
+477
+00:41:15,607 --> 00:41:18,009
+Not too soon, I hope.
+
+478
+00:41:18,043 --> 00:41:19,911
+Well, it depends.
+
+479
+00:41:19,945 --> 00:41:21,279
+On what?
+
+480
+00:41:21,312 --> 00:41:22,781
+I'm beginning to think, Major,
+
+481
+00:41:22,814 --> 00:41:25,183
+it might just possibly depend on you.
+
+482
+00:41:35,193 --> 00:41:37,162
+What's he like?
+
+483
+00:41:37,195 --> 00:41:42,133
+Attractive, charming, conceited.
+
+484
+00:41:44,035 --> 00:41:45,671
+When do you see him again?
+
+485
+00:41:45,704 --> 00:41:49,908
+Tonight.
+He's on leave until Friday.
+
+486
+00:41:49,941 --> 00:41:51,109
+You better get some sleep.
+
+487
+00:41:51,142 --> 00:41:54,145
+I think you're right.
+
+488
+00:41:54,179 --> 00:41:57,716
+No, relax. Stay and finish
+your breakfast.
+
+489
+00:41:57,749 --> 00:41:59,918
+I'll contact you the minute
+I have something important.
+
+490
+00:41:59,951 --> 00:42:02,754
+- Pleasant dreams.
+- Thank you, darling.
+
+491
+00:42:04,089 --> 00:42:06,825
+A picnic at 3:00 in the morning.
+
+492
+00:42:06,858 --> 00:42:10,128
+Best time. No ants.
+
+493
+00:42:10,161 --> 00:42:13,832
+[Singing in French]
+
+494
+00:43:22,701 --> 00:43:29,407
+(Chorus)
+♪ So walk me back home my darling ♪
+
+495
+00:43:29,440 --> 00:43:34,612
+♪ Tell me dreams really come true ♪
+
+496
+00:43:59,805 --> 00:44:01,372
+It's 11:00, Miss Lili.
+
+497
+00:45:21,787 --> 00:45:25,123
+(Chorus)
+♪ Often I think ♪
+
+498
+00:45:25,156 --> 00:45:28,927
+♪ My poor old heart ♪
+
+499
+00:45:28,960 --> 00:45:32,463
+♪ Has given up ♪
+
+500
+00:45:32,497 --> 00:45:34,399
+♪ For good ♪
+
+501
+00:45:36,968 --> 00:45:39,871
+♪ And then I see ♪
+
+502
+00:45:39,905 --> 00:45:43,208
+♪ A brand new face ♪
+
+503
+00:45:43,241 --> 00:45:45,076
+♪ I glimpse ♪
+
+504
+00:45:45,110 --> 00:45:49,114
+♪ Some new neighborhood ♪
+
+505
+00:45:50,315 --> 00:45:54,052
+♪ So walk me back home ♪
+
+506
+00:45:54,085 --> 00:45:58,423
+♪ My darling ♪
+
+507
+00:45:58,456 --> 00:46:03,328
+♪ Tell me dreams really come true ♪
+
+508
+00:47:03,554 --> 00:47:05,223
+Good night.
+
+509
+00:47:05,256 --> 00:47:07,292
+Good night.
+
+510
+00:47:07,325 --> 00:47:09,460
+Good night?
+
+511
+00:47:09,494 --> 00:47:10,896
+I fly at dawn.
+
+512
+00:47:10,929 --> 00:47:12,063
+Oh.
+
+513
+00:47:13,364 --> 00:47:15,100
+Good night, darling.
+
+514
+00:47:26,945 --> 00:47:28,213
+"I fly at dawn"?
+
+515
+00:47:28,246 --> 00:47:30,982
+- Quote, unquote.
+- Amazing.
+
+516
+00:47:31,016 --> 00:47:34,519
+Yes, makes a girl feel a bit insecure.
+
+517
+00:47:34,552 --> 00:47:37,022
+You? Insecure?
+
+518
+00:47:37,055 --> 00:47:41,226
+Well, not really, but,
+you must admit, it is a bit unnatural.
+
+519
+00:47:41,259 --> 00:47:44,095
+Well, yes,
+considering the provocation,
+
+520
+00:47:44,129 --> 00:47:45,339
+but that's really beside the point.
+
+521
+00:47:45,363 --> 00:47:47,265
+It is?
+
+522
+00:47:47,298 --> 00:47:49,567
+The information
+you've extracted from Major Larrabee
+
+523
+00:47:49,600 --> 00:47:52,037
+has greatly exceeded our expectations,
+
+524
+00:47:52,070 --> 00:47:57,442
+and, uh, should the need
+for more persuasive measures arise,
+
+525
+00:47:57,475 --> 00:47:59,510
+I'm sure that you'll be up to it.
+
+526
+00:47:59,544 --> 00:48:01,913
+Yes, but will Major Larrabee?
+
+527
+00:48:18,964 --> 00:48:21,599
+The gentlemen
+are from French army intelligence.
+
+528
+00:48:21,632 --> 00:48:23,001
+Are they?
+
+529
+00:48:29,474 --> 00:48:31,442
+Mademoiselle Smith,
+what a pleasure to meet you.
+
+530
+00:48:31,476 --> 00:48:33,278
+Good morning.
+
+531
+00:48:33,311 --> 00:48:35,556
+- Please forgive us this intrusion.
+- No intrusion at all.
+
+532
+00:48:35,580 --> 00:48:37,515
+This is my colleague,
+Lieutenant Liggett.
+
+533
+00:48:37,548 --> 00:48:38,716
+Very...
+
+534
+00:48:38,749 --> 00:48:41,052
+And I am Captain Duvalle.
+
+535
+00:48:41,086 --> 00:48:43,554
+- We are with army intelligence.
+- Oui.
+
+536
+00:48:43,588 --> 00:48:45,290
+Won't you sit down?
+
+537
+00:48:48,593 --> 00:48:50,228
+Now, how can I help you?
+
+538
+00:48:50,261 --> 00:48:54,565
+You are a friend
+of Major William F. Larrabee.
+
+539
+00:48:54,599 --> 00:48:56,001
+Yes.
+
+540
+00:48:58,103 --> 00:49:00,138
+We have reason to believe
+
+541
+00:49:00,171 --> 00:49:03,708
+that Major Larrabee is passing
+military secrets to the enemy.
+
+542
+00:49:06,044 --> 00:49:08,146
+You can't be serious.
+
+543
+00:49:08,179 --> 00:49:11,682
+There is no question
+that vital data is leaking out
+
+544
+00:49:11,716 --> 00:49:14,352
+concerning Allied air operations.
+
+545
+00:49:14,385 --> 00:49:17,755
+A reminder, very few men having
+access to this information
+
+546
+00:49:17,788 --> 00:49:21,459
+the foremost is Major Larrabee.
+
+547
+00:49:21,492 --> 00:49:25,196
+We strongly suspect that he is
+passing the information
+
+548
+00:49:25,230 --> 00:49:26,764
+to a German secret agent.
+
+549
+00:49:26,797 --> 00:49:29,034
+But this is preposterous,
+
+550
+00:49:29,067 --> 00:49:31,036
+even to suggest
+that Major Larrabee's a traitor.
+
+551
+00:49:31,069 --> 00:49:33,738
+I hope I'm wrong
+and that is why we are here.
+
+552
+00:49:35,240 --> 00:49:37,175
+We need your cooperation.
+
+553
+00:49:38,643 --> 00:49:41,712
+What sort of cooperation?
+
+554
+00:49:41,746 --> 00:49:45,650
+Watch, listen,
+report anything suspicious.
+
+555
+00:49:47,352 --> 00:49:49,154
+You're asking me to be an informer.
+
+556
+00:49:49,187 --> 00:49:51,089
+I'm asking you to help establish
+
+557
+00:49:51,122 --> 00:49:53,624
+Major Larrabee's guilt or innocence.
+
+558
+00:49:55,193 --> 00:49:57,262
+Mademoiselle Smith,
+
+559
+00:49:57,295 --> 00:50:00,665
+we must discover
+who this German agent is
+
+560
+00:50:00,698 --> 00:50:03,568
+and apprehend her.
+
+561
+00:50:03,601 --> 00:50:07,205
+It is a matter of national s-s-securite.
+
+562
+00:50:07,238 --> 00:50:09,440
+It is a matter of self-respect.
+
+563
+00:50:09,474 --> 00:50:11,442
+When you have some proof
+of your allegations,
+
+564
+00:50:11,476 --> 00:50:14,612
+then I might, perhaps, reconsider.
+
+565
+00:50:14,645 --> 00:50:16,281
+"Her"?
+
+566
+00:50:16,314 --> 00:50:17,582
+[Stuttering]
+Pardon?
+
+567
+00:50:17,615 --> 00:50:19,150
+You said "apprehend her."
+
+568
+00:50:19,184 --> 00:50:20,518
+Well, I...
+
+569
+00:50:20,551 --> 00:50:22,620
+It's our opinion that Major Larrabee
+
+570
+00:50:22,653 --> 00:50:24,722
+is giving information to a woman.
+
+571
+00:50:24,755 --> 00:50:27,825
+Of course, it's only an opinion.
+
+572
+00:50:27,858 --> 00:50:31,662
+Well, it seems reasonable to assume
+
+573
+00:50:31,696 --> 00:50:34,199
+that a man like the Major...
+(Boings)
+
+574
+00:50:34,232 --> 00:50:37,268
+I mean, with his record...
+
+575
+00:50:37,302 --> 00:50:39,704
+Military record.
+
+576
+00:50:39,737 --> 00:50:42,740
+If, uh, if... if he is passing
+information to the enemy,
+
+577
+00:50:42,773 --> 00:50:45,343
+he is doing so unwillingly.
+
+578
+00:50:45,376 --> 00:50:48,813
+I mean, unknowingly.
+He's being, uh,
+
+579
+00:50:50,248 --> 00:50:52,717
+coerced.
+
+580
+00:50:52,750 --> 00:50:54,685
+He's being seduced.
+
+581
+00:50:54,719 --> 00:50:56,287
+[Gasping]
+
+582
+00:50:56,321 --> 00:50:58,123
+Yes.
+
+583
+00:50:58,156 --> 00:51:00,391
+Well, as I've said before,
+when you have some proof,
+
+584
+00:51:00,425 --> 00:51:02,460
+then I might consider helping you,
+
+585
+00:51:02,493 --> 00:51:04,638
+but until such time,
+I'm afraid it's out of the question.
+
+586
+00:51:04,662 --> 00:51:05,663
+Now, if you'll excuse me.
+
+587
+00:51:05,696 --> 00:51:07,398
+Naturally, of course,
+
+588
+00:51:07,432 --> 00:51:09,272
+we can count
+on your discretion in this matter.
+
+589
+00:51:09,300 --> 00:51:11,136
+- Naturally.
+- Good day.
+
+590
+00:51:11,169 --> 00:51:12,637
+- Good day.
+- Good day.
+
+591
+00:51:23,381 --> 00:51:24,349
+(Lili)
+You heard?
+
+592
+00:51:24,382 --> 00:51:25,550
+Yes.
+
+593
+00:51:31,256 --> 00:51:34,292
+If I continue with Major Larrabee,
+
+594
+00:51:34,325 --> 00:51:36,161
+it could be just a matter of time
+
+595
+00:51:36,194 --> 00:51:38,796
+before they discover
+that I'm the one they want.
+
+596
+00:51:40,631 --> 00:51:42,867
+On the other hand,
+if I stop seeing the major,
+
+597
+00:51:42,900 --> 00:51:46,137
+and the flow of information
+stops at the same time,
+
+598
+00:51:46,171 --> 00:51:48,105
+they'll know immediately.
+
+599
+00:51:51,376 --> 00:51:53,211
+Interesting situation.
+
+600
+00:51:54,812 --> 00:51:56,681
+[Audience applauding]
+
+601
+00:51:56,714 --> 00:51:58,383
+[Music playing]
+
+602
+00:52:02,353 --> 00:52:04,922
+♪ If you're good at riddle solving ♪
+
+603
+00:52:04,955 --> 00:52:07,558
+♪ If you make the claim ♪
+
+604
+00:52:07,592 --> 00:52:10,761
+♪ That no puzzle ever puzzles you ♪
+
+605
+00:52:12,330 --> 00:52:15,300
+♪ Here is one that needs evolving ♪
+
+606
+00:52:15,333 --> 00:52:18,469
+♪ Here's a guessing game ♪
+
+607
+00:52:18,503 --> 00:52:23,774
+♪ That should be a snap for you to do ♪
+
+608
+00:52:28,546 --> 00:52:30,515
+[Audience applauding]
+
+609
+00:52:33,484 --> 00:52:37,322
+♪ I'll give you three guesses ♪
+
+610
+00:52:37,355 --> 00:52:40,858
+♪ Who loves you ♪
+
+611
+00:52:40,891 --> 00:52:45,830
+♪ Who's loved you right from the start ♪
+
+612
+00:52:47,598 --> 00:52:50,868
+♪ Not your mother ♪
+
+613
+00:52:50,901 --> 00:52:55,506
+♪ Who likes to baby you so ♪
+
+614
+00:52:55,540 --> 00:52:58,876
+♪ And not the girl back home ♪
+
+615
+00:52:58,909 --> 00:53:01,412
+♪ You used to know ♪
+
+616
+00:53:01,446 --> 00:53:02,747
+♪ Oh, no ♪
+
+617
+00:53:02,780 --> 00:53:06,617
+♪ There's somebody special ♪
+
+618
+00:53:06,651 --> 00:53:10,555
+♪ Who needs you ♪
+
+619
+00:53:10,588 --> 00:53:13,591
+♪ Together ♪
+
+620
+00:53:13,624 --> 00:53:17,295
+♪ Or apart ♪
+
+621
+00:53:17,328 --> 00:53:21,366
+♪ Bet you don't need three guesses ♪
+
+622
+00:53:21,399 --> 00:53:24,902
+♪ And not even two ♪
+
+623
+00:53:24,935 --> 00:53:26,804
+♪ To know that ♪
+
+624
+00:53:26,837 --> 00:53:30,975
+♪ I'm the one sweetheart ♪
+
+625
+00:53:32,910 --> 00:53:34,445
+[foot tapping]
+
+626
+00:54:33,738 --> 00:54:37,308
+(Men)
+♪ There's somebody special ♪
+
+627
+00:54:37,342 --> 00:54:39,944
+♪ Who needs you ♪
+
+628
+00:54:41,078 --> 00:54:45,983
+♪ Together or apart ♪
+
+629
+00:54:47,918 --> 00:54:52,457
+♪ Bet you don't need three guesses ♪
+
+630
+00:54:52,490 --> 00:54:56,093
+♪ And not even two ♪
+
+631
+00:54:56,126 --> 00:54:58,696
+(all)
+♪ To know that ♪
+
+632
+00:54:58,729 --> 00:55:02,700
+♪ I'm the one ♪
+
+633
+00:55:02,733 --> 00:55:07,638
+♪ Sweetheart ♪
+
+634
+00:55:14,379 --> 00:55:16,313
+[audience applauding]
+
+635
+00:55:20,050 --> 00:55:21,486
+[Band playing]
+
+636
+00:55:23,521 --> 00:55:26,591
+Miss Smith!
+Miss Smith, your curtain call.
+
+637
+00:55:46,411 --> 00:55:47,912
+[Sighing]
+
+638
+00:55:47,945 --> 00:55:50,047
+Would it be indiscreet
+to say that I missed you?
+
+639
+00:55:50,080 --> 00:55:51,482
+No.
+
+640
+00:55:51,516 --> 00:55:52,793
+To say that
+I missed you terribly?
+
+641
+00:55:52,817 --> 00:55:54,652
+- Not quite.
+- Desperately?
+
+642
+00:55:54,685 --> 00:55:55,786
+Possibly.
+
+643
+00:55:55,820 --> 00:55:58,022
+- Passionately?
+- Definitely.
+
+644
+00:55:58,055 --> 00:55:59,690
+Would you settle for desperately?
+
+645
+00:55:59,724 --> 00:56:01,526
+- I'll settle for passionately.
+- Oh.
+
+646
+00:56:01,559 --> 00:56:02,827
+What about my reputation?
+
+647
+00:56:02,860 --> 00:56:05,129
+I'll risk it.
+
+648
+00:56:05,162 --> 00:56:06,531
+[Sighing]
+
+649
+00:56:06,564 --> 00:56:08,633
+You look tired, darling.
+
+650
+00:56:08,666 --> 00:56:10,735
+- I am, a little bit.
+- Was it that bad?
+
+651
+00:56:10,768 --> 00:56:12,803
+No, not that bad, but bad.
+
+652
+00:56:12,837 --> 00:56:14,605
+The Baron plays pretty rough.
+
+653
+00:56:14,639 --> 00:56:15,673
+The Baron?
+
+654
+00:56:15,706 --> 00:56:16,774
+Von Richthofen.
+
+655
+00:56:16,807 --> 00:56:18,876
+Ah.
+
+656
+00:56:18,909 --> 00:56:21,111
+He fights very well, that gentleman.
+
+657
+00:56:21,145 --> 00:56:22,713
+When do you have to be back?
+
+658
+00:56:22,747 --> 00:56:24,048
+Sunday.
+
+659
+00:56:24,081 --> 00:56:25,683
+Not till Sunday night.
+
+660
+00:56:25,716 --> 00:56:28,052
+- Ah, then you can get plenty of rest.
+- Mmm-hmm.
+
+661
+00:56:28,085 --> 00:56:30,955
+I thought, if you have nothing to do,
+
+662
+00:56:30,988 --> 00:56:33,023
+that we could ride out
+to the country tomorrow.
+
+663
+00:56:33,057 --> 00:56:38,128
+I know a lovely spot.
+Quiet, romantic,
+
+664
+00:56:38,162 --> 00:56:40,898
+guaranteed to restore the body
+and renovate the soul.
+
+665
+00:56:40,931 --> 00:56:41,999
+(Lili)
+Hmm.
+
+666
+00:56:42,032 --> 00:56:43,601
+Or is it the other way around?
+
+667
+00:56:43,634 --> 00:56:45,202
+Either way, it sounds marvelous.
+
+668
+00:56:45,235 --> 00:56:48,773
+Marvelous it is.
+And tonight we eat, we drink,
+
+669
+00:56:48,806 --> 00:56:50,074
+we forget the Baron.
+
+670
+00:56:50,107 --> 00:56:51,876
+It really was bad, wasn't it?
+
+671
+00:56:55,012 --> 00:56:56,447
+It was hell.
+
+672
+00:57:00,518 --> 00:57:02,453
+[Piano playing]
+
+673
+00:57:02,487 --> 00:57:04,021
+[People chattering]
+
+674
+00:57:32,049 --> 00:57:35,152
+Army intelligence.
+
+675
+00:57:35,185 --> 00:57:37,254
+We would like a table for two
+
+676
+00:57:37,287 --> 00:57:39,557
+and as near as p-p-possible,
+if you please,
+
+677
+00:57:39,590 --> 00:57:42,760
+to Major Larrabee's table.
+
+678
+00:57:42,793 --> 00:57:44,929
+I don't understand.
+
+679
+00:57:44,962 --> 00:57:47,798
+I am aware that we have
+no reservations,
+
+680
+00:57:47,832 --> 00:57:51,035
+but this is official
+government business.
+
+681
+00:57:51,068 --> 00:57:53,203
+Allez, allez.
+
+682
+00:57:53,237 --> 00:57:55,673
+I'm sorry, but I am not the head waiter.
+
+683
+00:57:55,706 --> 00:57:58,008
+Go find the head waiter.
+
+684
+00:57:58,042 --> 00:57:59,710
+Oui.
+
+685
+00:57:59,744 --> 00:58:01,846
+My apologies, monsieur.
+
+686
+00:58:05,550 --> 00:58:06,751
+Ah.
+
+687
+00:58:07,952 --> 00:58:09,153
+Thank you.
+
+688
+00:58:10,921 --> 00:58:12,657
+Are they really that good?
+
+689
+00:58:12,690 --> 00:58:14,659
+- Oh, yes, they're delicious.
+- Will you try one?
+
+690
+00:58:14,692 --> 00:58:16,193
+- No.
+- Come on, try one, huh?
+
+691
+00:58:16,226 --> 00:58:17,762
+Mmm-mmm, some other time.
+
+692
+00:58:17,795 --> 00:58:19,530
+Oh, oh, my foot!
+
+693
+00:58:19,564 --> 00:58:21,098
+Your drink, my foot.
+
+694
+00:58:21,131 --> 00:58:22,266
+Now, go on, there we are.
+
+695
+00:58:22,299 --> 00:58:23,768
+Sit down, old sport.
+
+696
+00:58:23,801 --> 00:58:25,536
+There you are,
+you can sit down there.
+
+697
+00:58:25,570 --> 00:58:27,772
+Good girl.
+And I'll sit down...
+
+698
+00:58:27,805 --> 00:58:30,641
+- Uh, excuse me, could we borrow this chair?
+- Yes, of course.
+
+699
+00:58:30,675 --> 00:58:32,042
+I have to put my leg up. You see,
+
+700
+00:58:32,076 --> 00:58:33,210
+I've got a plaster and...
+
+701
+00:58:33,243 --> 00:58:35,913
+Oh, good God.
+
+702
+00:58:35,946 --> 00:58:37,948
+Hey, I thought you were in hospital.
+
+703
+00:58:37,982 --> 00:58:40,117
+My goodness me.
+They let you out, too, did they?
+
+704
+00:58:40,150 --> 00:58:41,552
+Well, how are you?
+Any better?
+
+705
+00:58:41,586 --> 00:58:43,053
+I'm fine, thank you.
+
+706
+00:58:43,087 --> 00:58:45,656
+Yes, well, so am I.
+I mean, with this thing here
+
+707
+00:58:45,690 --> 00:58:47,091
+and I'm over there with, uh...
+
+708
+00:58:47,124 --> 00:58:48,693
+Oh, I don't know what her name is.
+
+709
+00:58:48,726 --> 00:58:49,827
+Anyway, who are you with?
+
+710
+00:58:49,860 --> 00:58:51,295
+Uh, Major Larrabee.
+
+711
+00:58:51,328 --> 00:58:53,230
+Major Larrabee?
+
+712
+00:58:53,263 --> 00:58:54,832
+I know him very well.
+
+713
+00:58:54,865 --> 00:58:56,166
+We fly together everywhere.
+
+714
+00:58:56,200 --> 00:58:57,968
+- Really?
+- Yes, we do.
+
+715
+00:58:58,002 --> 00:58:59,804
+Hey, eh.
+
+716
+00:59:01,171 --> 00:59:02,172
+Hello, old cock.
+
+717
+00:59:02,206 --> 00:59:03,908
+Hello.
+
+718
+00:59:03,941 --> 00:59:06,210
+- We've just been talking about you.
+- Were you?
+
+719
+00:59:06,243 --> 00:59:09,847
+Yes. Well, um,
+nice to see you up and about again,
+
+720
+00:59:09,880 --> 00:59:12,617
+even though you are sitting down.
+
+721
+00:59:12,650 --> 00:59:14,251
+Anyway, bye-bye, now.
+
+722
+00:59:14,284 --> 00:59:16,921
+Umm. Very nice, dear.
+Well, off we go.
+
+723
+00:59:16,954 --> 00:59:18,989
+And I'll see you, uh, oh...
+
+724
+00:59:19,023 --> 00:59:23,694
+Incidentally, old cock,
+how did you fare this weekend
+
+725
+00:59:23,728 --> 00:59:25,963
+with Operation Crepe Suzette?
+
+726
+00:59:27,732 --> 00:59:31,335
+Incidentally, old cock,
+that mission was top-secret.
+
+727
+00:59:31,368 --> 00:59:35,005
+Oh. Yes, yes. What?
+
+728
+00:59:35,039 --> 00:59:36,607
+Umm, just a minute.
+
+729
+00:59:36,641 --> 00:59:38,308
+Get that thing down, you fool.
+
+730
+00:59:38,342 --> 00:59:40,077
+[People shouting]
+
+731
+00:59:40,110 --> 00:59:41,712
+Get back with that.
+
+732
+00:59:55,259 --> 00:59:56,761
+[Glass shattering]
+
+733
+00:59:58,663 --> 01:00:00,364
+Get these men off me!
+
+734
+01:00:05,936 --> 01:00:07,805
+- It happens.
+- He's drunk.
+
+735
+01:00:07,838 --> 01:00:09,640
+- Always is.
+- Even when he flies?
+
+736
+01:00:09,674 --> 01:00:11,241
+- Always is.
+- I don't believe you.
+
+737
+01:00:11,275 --> 01:00:12,409
+- Really?
+- Yeah.
+
+738
+01:00:12,442 --> 01:00:14,378
+But then why does he drink?
+
+739
+01:00:14,411 --> 01:00:15,980
+Because he's afraid to fly.
+
+740
+01:00:16,013 --> 01:00:17,882
+Then why does he fly?
+
+741
+01:00:17,915 --> 01:00:20,217
+Because he likes to drink.
+
+742
+01:00:20,250 --> 01:00:23,020
+Well, sooner or later he's bound
+to get himself killed.
+
+743
+01:00:23,053 --> 01:00:24,989
+Sooner or later, he probably will.
+
+744
+01:00:25,022 --> 01:00:27,391
+Meanwhile, he has seven planes
+to his credit.
+
+745
+01:00:27,424 --> 01:00:30,728
+- What? You're not serious.
+- Ha-ha, I certainly am.
+
+746
+01:00:32,730 --> 01:00:34,999
+You mean he shot down
+seven German planes?
+
+747
+01:00:35,032 --> 01:00:36,901
+No, he shot down seven French planes.
+
+748
+01:00:36,934 --> 01:00:38,235
+What?
+
+749
+01:00:38,268 --> 01:00:40,304
+Well, actually, he only shot down one.
+
+750
+01:00:40,337 --> 01:00:42,106
+The rest he just wrecked.
+
+751
+01:00:42,139 --> 01:00:44,208
+And when you consider
+he's only been at the front
+
+752
+01:00:44,241 --> 01:00:45,910
+for about six months,
+
+753
+01:00:45,943 --> 01:00:47,444
+it's an incredible record.
+[Chuckling]
+
+754
+01:00:47,477 --> 01:00:49,313
+(Lili)
+And you're an incredible liar.
+
+755
+01:00:49,346 --> 01:00:51,448
+My word of honor.
+As of last Friday,
+
+756
+01:00:51,481 --> 01:00:53,050
+Lieutenant Twombly-Crouch was tied
+
+757
+01:00:53,083 --> 01:00:54,919
+with Von Richthofen
+for the championship.
+
+758
+01:00:54,952 --> 01:00:56,053
+I still don't believe you.
+
+759
+01:00:56,086 --> 01:00:57,287
+Neither does anybody else.
+
+760
+01:00:57,321 --> 01:00:58,789
+That's what keeps old T.C. flying,
+
+761
+01:00:58,823 --> 01:01:01,926
+or crashing, as the case may be.
+
+762
+01:01:01,959 --> 01:01:05,730
+Nobody believes it,
+including his squadron commander.
+
+763
+01:01:05,763 --> 01:01:06,964
+- And who's that?
+- Me.
+
+764
+01:01:06,997 --> 01:01:08,799
+Oh.
+
+765
+01:01:17,908 --> 01:01:23,180
+What was all that talk about top-secret
+missions and Crepe Suzette?
+
+766
+01:01:23,213 --> 01:01:24,882
+- Just talk.
+- Mmm-hmm?
+
+767
+01:01:24,915 --> 01:01:27,151
+You know, I think
+you're some kind of a spy.
+
+768
+01:01:27,184 --> 01:01:29,754
+If I told you I was?
+
+769
+01:01:29,787 --> 01:01:31,488
+I know lots of military secrets.
+
+770
+01:01:31,521 --> 01:01:33,724
+Good.
+
+771
+01:01:33,758 --> 01:01:36,260
+Back in a minute to pry them out of you.
+
+772
+01:01:49,139 --> 01:01:50,374
+Crepe Suzette.
+
+773
+01:01:50,407 --> 01:01:51,942
+What?
+
+774
+01:01:51,976 --> 01:01:53,143
+That's exactly what he said.
+
+775
+01:01:53,177 --> 01:01:54,979
+Operation Crepe Suzette.
+
+776
+01:01:55,012 --> 01:01:57,114
+What else?
+
+777
+01:01:57,147 --> 01:01:59,516
+That it's top-secret.
+So far, that's all.
+
+778
+01:01:59,549 --> 01:02:01,451
+But he's planned a weekend
+in the country
+
+779
+01:02:01,485 --> 01:02:03,888
+and I'll contact you
+as soon as I have the information.
+
+780
+01:02:03,921 --> 01:02:05,155
+[Hanging up]
+
+781
+01:02:23,273 --> 01:02:24,875
+Bill?
+
+782
+01:02:27,244 --> 01:02:29,313
+Major Larrabee?
+
+783
+01:04:10,347 --> 01:04:12,983
+[Choir singing in French]
+
+784
+01:04:13,017 --> 01:04:14,184
+Look.
+
+785
+01:04:52,322 --> 01:04:54,058
+Bonjour.
+
+786
+01:05:30,194 --> 01:05:32,562
+(Lili singing in French with choir)
+
+787
+01:06:28,818 --> 01:06:30,420
+[Thunder rumbling]
+
+788
+01:06:42,566 --> 01:06:44,000
+[Clinking]
+
+789
+01:06:48,405 --> 01:06:49,639
+To us.
+
+790
+01:06:51,808 --> 01:06:53,543
+[Thunder rumbling]
+
+791
+01:06:53,577 --> 01:06:55,245
+- Bill.
+- Hmm?
+
+792
+01:06:55,279 --> 01:06:56,413
+Do me a favor.
+
+793
+01:06:56,446 --> 01:06:57,747
+Sure.
+
+794
+01:06:59,549 --> 01:07:02,652
+No lines, no campaign.
+
+795
+01:07:02,686 --> 01:07:06,156
+In the first place, it isn't necessary
+and in the second place,
+
+796
+01:07:06,190 --> 01:07:08,558
+I... I want whatever happens
+this weekend to be honest.
+
+797
+01:07:08,592 --> 01:07:11,695
+Well, since I have
+nothing to gain by lying to you,
+
+798
+01:07:15,365 --> 01:07:17,501
+I think you're the most provocative,
+
+799
+01:07:17,534 --> 01:07:19,269
+exciting,
+
+800
+01:07:19,303 --> 01:07:21,771
+and most desirable woman
+I've ever met.
+
+801
+01:07:23,240 --> 01:07:24,574
+I'll buy that.
+
+802
+01:07:26,176 --> 01:07:27,644
+[Thunder rumbling]
+
+803
+01:07:32,882 --> 01:07:34,518
+[Speaking French]
+
+804
+01:07:50,167 --> 01:07:52,569
+[Rain pattering]
+
+805
+01:07:52,602 --> 01:07:54,070
+[Thunder rumbling]
+
+806
+01:08:01,445 --> 01:08:09,445
+[Liggett screaming]
+
+807
+01:08:11,588 --> 01:08:14,358
+[Speaking in French]
+
+808
+01:08:32,309 --> 01:08:33,677
+[Knock on door]
+
+809
+01:08:39,883 --> 01:08:41,518
+[Coughs]
+
+810
+01:09:08,912 --> 01:09:11,448
+[Thunder crashing]
+
+811
+01:09:13,850 --> 01:09:16,820
+[Knock on door]
+
+812
+01:09:18,855 --> 01:09:20,257
+Excuse me.
+
+813
+01:09:26,530 --> 01:09:28,232
+Bon soir, monsieur.
+
+814
+01:09:28,265 --> 01:09:30,300
+- Bon soir.
+- Champagne, monsieur.
+
+815
+01:09:30,334 --> 01:09:31,768
+I have champagne.
+
+816
+01:09:31,801 --> 01:09:34,571
+Here.
+Compliments of the management.
+
+817
+01:09:34,604 --> 01:09:36,540
+[Thunder rumbling]
+
+818
+01:09:52,689 --> 01:09:54,224
+Will you be ordering dinner?
+
+819
+01:09:54,258 --> 01:09:55,325
+No.
+
+820
+01:09:55,359 --> 01:09:56,393
+Bon soir, Monsieur.
+
+821
+01:09:56,426 --> 01:09:58,295
+Bon soir, Madame.
+
+822
+01:10:04,534 --> 01:10:06,536
+I'm sorry, darling.
+
+823
+01:10:12,008 --> 01:10:13,310
+Bill.
+
+824
+01:10:13,343 --> 01:10:14,578
+- Hmm?
+
+825
+01:10:14,611 --> 01:10:16,780
+Would you excuse me just one minute?
+
+826
+01:10:17,914 --> 01:10:19,449
+Be right back.
+
+827
+01:10:23,052 --> 01:10:24,888
+Shan't be long.
+
+828
+01:10:35,399 --> 01:10:36,733
+Are you out of your mind?
+
+829
+01:10:36,766 --> 01:10:38,268
+He lied to you.
+
+830
+01:10:38,302 --> 01:10:39,369
+What?
+
+831
+01:10:39,403 --> 01:10:41,371
+He didn't fly last weekend.
+
+832
+01:10:41,405 --> 01:10:43,507
+There was no encounter
+with Von Richthofen.
+
+833
+01:10:43,540 --> 01:10:45,975
+Larrabee's squadron
+was in the air, but Larrabee was not.
+
+834
+01:10:46,009 --> 01:10:47,711
+Moreover, we've checked every channel
+
+835
+01:10:47,744 --> 01:10:49,413
+and nothing at all has filtered down
+
+836
+01:10:49,446 --> 01:10:51,381
+about any Operation Crepe Suzette.
+
+837
+01:10:51,415 --> 01:10:55,051
+So, either it is
+even more important than we imagined
+
+838
+01:10:55,084 --> 01:10:57,287
+or it simply doesn't exist.
+
+839
+01:10:59,055 --> 01:11:00,557
+And if it doesn't?
+
+840
+01:11:00,590 --> 01:11:02,892
+Then he's onto you.
+
+841
+01:11:02,926 --> 01:11:04,794
+It's possible, I suppose,
+
+842
+01:11:04,828 --> 01:11:07,931
+but my every instinct says no.
+
+843
+01:11:07,964 --> 01:11:10,500
+Then what's the alternative?
+
+844
+01:11:10,534 --> 01:11:12,001
+Another woman?
+
+845
+01:11:14,404 --> 01:11:16,005
+It's our opinion that Major Larrabee
+
+846
+01:11:16,039 --> 01:11:18,375
+is giving information to a woman.
+
+847
+01:11:18,408 --> 01:11:19,809
+I fly at dawn.
+Goodbye, darling.
+
+848
+01:11:19,843 --> 01:11:23,313
+How did you fare
+with Operation Crepe Suzette?
+
+849
+01:11:23,347 --> 01:11:25,048
+(Duvalle)
+He's being coerced.
+
+850
+01:11:25,081 --> 01:11:26,850
+(Lili)
+He's being seduced.
+
+851
+01:11:26,883 --> 01:11:28,051
+Yes, I'm a lieutenant.
+
+852
+01:11:28,084 --> 01:11:29,619
+(Lili)
+Operation Crepe Suzette.
+
+853
+01:11:29,653 --> 01:11:30,787
+Suzette. Suzette.
+
+854
+01:11:30,820 --> 01:11:32,322
+Lili.
+
+855
+01:11:33,790 --> 01:11:36,693
+Lili.
+
+856
+01:11:36,726 --> 01:11:37,694
+[Thunder rumbling]
+
+857
+01:11:37,727 --> 01:11:38,862
+[Door slamming]
+
+858
+01:11:41,097 --> 01:11:42,732
+[Thunder clapping]
+
+859
+01:11:47,437 --> 01:11:49,406
+Anything wrong?
+
+860
+01:11:49,439 --> 01:11:50,640
+No.
+
+861
+01:11:53,109 --> 01:11:54,844
+Any more champagne?
+
+862
+01:11:54,878 --> 01:11:56,312
+Plenty.
+
+863
+01:12:08,057 --> 01:12:10,927
+[Clinking]
+
+864
+01:12:29,446 --> 01:12:30,547
+- What?
+- Oh.
+
+865
+01:12:30,580 --> 01:12:31,715
+Oh, darling, I'm sorry.
+
+866
+01:12:31,748 --> 01:12:33,082
+No, no, no. It's ok.
+
+867
+01:12:33,116 --> 01:12:34,818
+- It was an accident.
+- No, it's ok.
+
+868
+01:12:34,851 --> 01:12:36,396
+- Oh, I've ruined your shirt.
+- Doesn't matter.
+
+869
+01:12:36,420 --> 01:12:38,455
+Well, shouldn't you change?
+
+870
+01:12:38,488 --> 01:12:40,466
+What's the difference?
+It's coming off in a minute anyway.
+
+871
+01:12:40,490 --> 01:12:43,460
+Subtle.
+
+872
+01:12:43,493 --> 01:12:45,161
+What's wrong?
+
+873
+01:12:45,194 --> 01:12:48,432
+Well, I was just going to ask you.
+
+874
+01:12:48,465 --> 01:12:50,166
+Ask me what?
+
+875
+01:12:50,199 --> 01:12:51,868
+What's wrong?
+
+876
+01:12:51,901 --> 01:12:53,703
+- With me?
+- Yeah.
+
+877
+01:12:53,737 --> 01:12:55,905
+Well, nothing, darling,
+
+878
+01:12:55,939 --> 01:12:58,141
+but I do sense something about you.
+
+879
+01:12:58,174 --> 01:13:00,477
+Me?
+
+880
+01:13:00,510 --> 01:13:01,878
+It's really not important.
+
+881
+01:13:01,911 --> 01:13:04,514
+Well, of course it's important.
+
+882
+01:13:04,548 --> 01:13:05,958
+The girl that went into that bedroom
+
+883
+01:13:05,982 --> 01:13:07,751
+is not the same girl
+who just walked out.
+
+884
+01:13:07,784 --> 01:13:09,786
+- Rubbish.
+- It's not rubbish.
+
+885
+01:13:09,819 --> 01:13:11,855
+We're having our first fight.
+
+886
+01:13:11,888 --> 01:13:13,899
+We are not fighting. I am simply
+trying to point out...
+
+887
+01:13:13,923 --> 01:13:15,158
+Bill.
+
+888
+01:13:16,225 --> 01:13:17,727
+[Thunder rumbling]
+
+889
+01:13:28,137 --> 01:13:29,506
+Carry me.
+
+890
+01:13:29,539 --> 01:13:30,607
+What?
+
+891
+01:13:30,640 --> 01:13:31,775
+Carry me.
+
+892
+01:13:56,933 --> 01:13:58,635
+- To my room.
+- Hmm?
+
+893
+01:13:58,668 --> 01:13:59,903
+My room.
+
+894
+01:14:06,109 --> 01:14:07,977
+[Thunder rumbling]
+
+895
+01:14:46,049 --> 01:14:48,952
+Wait a minute.
+I have a better idea.
+
+896
+01:15:02,165 --> 01:15:04,901
+[Thunder clapping]
+
+897
+01:15:26,923 --> 01:15:28,157
+[Chuckles]
+
+898
+01:15:28,191 --> 01:15:30,293
+I'm sorry, darling, really, I am.
+
+899
+01:15:30,326 --> 01:15:32,829
+I just can't help it.
+
+900
+01:15:35,732 --> 01:15:37,133
+Are you all right?
+
+901
+01:15:37,166 --> 01:15:39,636
+What do you mean, "all right"?
+
+902
+01:15:39,669 --> 01:15:42,071
+Oh, come, now.
+You've got to admit,
+
+903
+01:15:42,105 --> 01:15:45,341
+seduction can really be very
+funny if you stop to think about it.
+
+904
+01:15:45,374 --> 01:15:47,744
+You're not supposed to stop
+and think about it.
+
+905
+01:15:47,777 --> 01:15:50,714
+Oh, Bill, that's a terribly
+naive point of view
+
+906
+01:15:50,747 --> 01:15:54,684
+for a man of your sophistication
+and experience.
+
+907
+01:15:56,019 --> 01:15:58,254
+- Bill?
+- Look,
+
+908
+01:15:58,287 --> 01:16:00,757
+couldn't we talk about this tomorrow?
+
+909
+01:16:00,790 --> 01:16:02,258
+Oh, I know.
+
+910
+01:16:06,796 --> 01:16:09,032
+[Chuckles]
+
+911
+01:16:11,768 --> 01:16:13,236
+Damn it, Lili.
+
+912
+01:16:13,269 --> 01:16:16,205
+Sorry, I really can't help it.
+
+913
+01:16:16,239 --> 01:16:21,077
+Oh, if you really wanted me,
+it shouldn't matter anyway.
+
+914
+01:16:21,110 --> 01:16:22,345
+[Sighs]
+
+915
+01:16:22,378 --> 01:16:24,648
+Come on. My sweet.
+
+916
+01:16:25,882 --> 01:16:27,116
+My love.
+
+917
+01:16:30,820 --> 01:16:32,388
+What is it?
+
+918
+01:16:32,421 --> 01:16:34,090
+- What did you just call me?
+- What?
+
+919
+01:16:34,123 --> 01:16:36,392
+- What did you just call me?
+- When?
+
+920
+01:16:36,425 --> 01:16:39,095
+- Think.
+- Huh, what in the...
+
+921
+01:16:39,128 --> 01:16:41,173
+- Think! What did you just call me?
+- What do you mean?
+
+922
+01:16:41,197 --> 01:16:43,142
+- How do I know what I called you?
+- You called me darling,
+
+923
+01:16:43,166 --> 01:16:47,170
+you called me your love,
+and you called me something else.
+
+924
+01:16:47,203 --> 01:16:48,805
+I said you were wonderful...
+
+925
+01:16:48,838 --> 01:16:50,740
+You called me something else, a name.
+
+926
+01:16:50,774 --> 01:16:51,975
+A name?
+
+927
+01:16:52,008 --> 01:16:53,176
+[Sighing]
+Suzette.
+
+928
+01:16:53,209 --> 01:16:55,211
+- What?
+- You called me Suzette.
+
+929
+01:16:55,244 --> 01:16:57,213
+- The hell I did.
+- The hell you didn't. You did.
+
+930
+01:16:57,246 --> 01:16:59,749
+- The hell I did. Why would I call you Suzette?
+- I don't know.
+
+931
+01:16:59,783 --> 01:17:01,217
+- Do you know a Suzette?
+- No!
+
+932
+01:17:01,250 --> 01:17:02,752
+- You don't?
+- No.
+
+933
+01:17:05,689 --> 01:17:07,223
+Oh.
+
+934
+01:17:07,256 --> 01:17:09,358
+[Thunder rumbling]
+
+935
+01:17:18,735 --> 01:17:19,969
+Bill.
+
+936
+01:17:21,037 --> 01:17:22,171
+Yeah?
+
+937
+01:17:22,205 --> 01:17:23,406
+I'm sorry.
+
+938
+01:17:24,908 --> 01:17:26,109
+I am.
+
+939
+01:17:27,310 --> 01:17:29,045
+- My pet.
+- What?
+
+940
+01:17:29,078 --> 01:17:31,715
+My pet, that's what I called you.
+
+941
+01:17:31,748 --> 01:17:33,817
+- My pet?
+- You're damn right.
+
+942
+01:17:33,850 --> 01:17:35,318
+My pet. Sounds like "Suzette."
+
+943
+01:17:35,351 --> 01:17:37,020
+Suzette, my pet.
+My pet, Suzette.
+
+944
+01:17:37,053 --> 01:17:39,055
+- That's what I thought.
+- Oh.
+
+945
+01:17:40,924 --> 01:17:43,159
+[Chuckles]
+
+946
+01:17:43,192 --> 01:17:44,961
+- Now what's wrong?
+- Nothing.
+
+947
+01:17:44,994 --> 01:17:47,430
+Don't tell me nothing.
+
+948
+01:17:47,463 --> 01:17:50,099
+Did you really call me "my pet"?
+
+949
+01:17:50,133 --> 01:17:53,302
+Yes. I really called you my pet.
+
+950
+01:17:53,336 --> 01:17:55,480
+- What's the matter with that?
+- Nothing. Nothing at all.
+
+951
+01:17:55,504 --> 01:17:57,406
+Okay.
+
+952
+01:17:58,842 --> 01:18:00,409
+[Sighs]
+
+953
+01:18:02,445 --> 01:18:04,347
+[Chuckles]
+
+954
+01:18:04,380 --> 01:18:05,882
+Oh, shoot.
+
+955
+01:18:08,818 --> 01:18:11,420
+Oh, Bill? Oh, darling.
+
+956
+01:18:11,454 --> 01:18:13,422
+Oh, sweet, forgive me.
+
+957
+01:18:13,456 --> 01:18:16,325
+I've been behaving like an idiot
+schoolgirl and I'm sorry.
+
+958
+01:18:16,359 --> 01:18:19,195
+I adore you.
+
+959
+01:18:34,778 --> 01:18:36,746
+[Thunder crashing]
+
+960
+01:18:41,417 --> 01:18:44,287
+There have been others?
+
+961
+01:18:44,320 --> 01:18:46,322
+Oh, my darling.
+
+962
+01:18:46,355 --> 01:18:47,456
+Many?
+
+963
+01:18:47,490 --> 01:18:49,125
+Oh, my sweetheart.
+
+964
+01:18:50,994 --> 01:18:52,128
+- Bill.
+- What?
+
+965
+01:18:52,161 --> 01:18:54,063
+You're not being honest.
+
+966
+01:18:54,097 --> 01:18:56,465
+- What do you mean, not being honest?
+- What about Suzette?
+
+967
+01:18:56,499 --> 01:18:58,167
+Oh, damn it to hell, Lili,
+
+968
+01:18:58,201 --> 01:18:59,502
+I told you, there is no Suzette.
+
+969
+01:18:59,535 --> 01:19:01,037
+Operation Crepe Suzette.
+
+970
+01:19:01,070 --> 01:19:03,006
+- That's not a woman.
+- Then what is it?
+
+971
+01:19:03,039 --> 01:19:05,184
+Oh, for God's sake, Lili,
+you heard T.C. the other night.
+
+972
+01:19:05,208 --> 01:19:08,144
+Operation Crepe Suzette is a
+military secret... that's what you said.
+
+973
+01:19:08,177 --> 01:19:12,115
+And that's what it is.
+It's so important, I can't even tell you.
+
+974
+01:19:12,148 --> 01:19:13,549
+It isn't that I don't trust you.
+
+975
+01:19:13,582 --> 01:19:16,519
+It's just a matter of national security.
+
+976
+01:19:16,552 --> 01:19:19,989
+I wouldn't even tell my own mother.
+
+977
+01:19:20,023 --> 01:19:21,490
+[Thunder rumbling]
+
+978
+01:19:23,492 --> 01:19:25,428
+[Sighing]
+All right.
+
+979
+01:19:25,461 --> 01:19:27,897
+You wanna know
+about Operation Crepe Suzette?
+
+980
+01:19:27,931 --> 01:19:30,575
+- I'll tell you about Operation Crepe Suzette.
+- I'd rather you didn't.
+
+981
+01:19:30,599 --> 01:19:33,178
+- You're gonna hear about it anyway.
+- I don't want you to break...
+
+982
+01:19:33,202 --> 01:19:36,105
+The hell with security!
+I wanna get this straight once and for all.
+
+983
+01:19:36,139 --> 01:19:40,009
+You want honesty, you're going to get
+honesty and I could get shot for it.
+
+984
+01:19:40,043 --> 01:19:41,577
+I'm gonna give you every little detail
+
+985
+01:19:41,610 --> 01:19:43,346
+of the biggest military operation
+
+986
+01:19:43,379 --> 01:19:45,048
+since Battle of the Marne.
+
+987
+01:19:45,081 --> 01:19:47,450
+Now, last weekend, after I left you,
+
+988
+01:19:47,483 --> 01:19:51,020
+I reported to intelligence for
+a top-secret briefing and it was big.
+
+989
+01:19:51,054 --> 01:19:53,522
+I mean, really big.
+Everybody was there.
+
+990
+01:19:53,556 --> 01:19:56,860
+D'Esperey, Hirschauer,
+Joffre, all of them.
+
+991
+01:19:56,893 --> 01:19:58,227
+And the English brass, too.
+
+992
+01:19:58,261 --> 01:20:00,096
+Rawlinson, even Haig.
+
+993
+01:20:00,129 --> 01:20:03,066
+The Germans were building
+a secret weapon so big,
+
+994
+01:20:03,099 --> 01:20:06,970
+so devastating, that it might have
+ended the war tomorrow.
+
+995
+01:20:07,003 --> 01:20:09,873
+Every available squadron
+was ordered into the air
+
+996
+01:20:09,906 --> 01:20:11,507
+and I was to lead the attack.
+
+997
+01:20:11,540 --> 01:20:13,977
+The plan was to mass over Starnberg.
+
+998
+01:20:14,010 --> 01:20:16,846
+He lied to you.
+He didn't fly last weekend.
+
+999
+01:20:16,880 --> 01:20:18,457
+There was no encounter
+with Von Richthofen.
+
+1000
+01:20:18,481 --> 01:20:20,516
+(Bill) It was the most
+concentrated bombing effort
+
+1001
+01:20:20,549 --> 01:20:22,585
+of the war to this day.
+
+1002
+01:20:22,618 --> 01:20:25,354
+And the code name for the
+whole operation was Crepe Suzette.
+
+1003
+01:20:29,325 --> 01:20:31,227
+And you led the attack?
+
+1004
+01:20:31,260 --> 01:20:32,461
+Yes.
+
+1005
+01:20:33,529 --> 01:20:35,498
+Mmm-hmm!
+
+1006
+01:20:35,531 --> 01:20:36,599
+Lili.
+
+1007
+01:20:36,632 --> 01:20:38,034
+Lili!
+
+1008
+01:21:05,461 --> 01:21:07,263
+[Pounding]
+
+1009
+01:21:07,296 --> 01:21:09,999
+(Larrabee)
+What the hell did I do, Lili?
+
+1010
+01:21:10,033 --> 01:21:11,200
+[Knocking on door]
+
+1011
+01:21:11,234 --> 01:21:12,568
+This is ridiculous.
+
+1012
+01:21:12,601 --> 01:21:15,104
+At least tell me what I did wrong.
+
+1013
+01:21:16,572 --> 01:21:17,673
+[Door closing]
+
+1014
+01:21:17,706 --> 01:21:20,009
+Lili!
+
+1015
+01:21:22,511 --> 01:21:23,947
+Lili.
+
+1016
+01:21:25,081 --> 01:21:26,282
+Where are you going?
+
+1017
+01:21:26,315 --> 01:21:27,650
+I fly at dawn.
+
+1018
+01:21:30,053 --> 01:21:31,154
+Lili!
+
+1019
+01:21:35,258 --> 01:21:36,492
+Oh, Merde!
+
+1020
+01:21:37,326 --> 01:21:38,527
+[Screaming]
+
+1021
+01:21:40,396 --> 01:21:42,665
+[Splashing]
+
+1022
+01:21:48,671 --> 01:21:51,007
+[Thunder rumbling]
+
+1023
+01:21:51,040 --> 01:21:52,275
+[Cranking]
+
+1024
+01:21:54,543 --> 01:21:56,145
+Lili!
+
+1025
+01:22:03,186 --> 01:22:04,253
+Lili, now, stop it!
+
+1026
+01:22:04,287 --> 01:22:05,989
+I am going back to Paris.
+
+1027
+01:22:06,022 --> 01:22:07,566
+You were gonna
+take my car and leave me here?
+
+1028
+01:22:07,590 --> 01:22:09,025
+Damn right!
+
+1029
+01:22:32,081 --> 01:22:34,717
+- Choke it.
+- I'd be delighted.
+
+1030
+01:22:42,325 --> 01:22:46,162
+[Car engine sputtering]
+
+1031
+01:23:24,533 --> 01:23:28,237
+♪ Smile away ♪
+
+1032
+01:23:28,271 --> 01:23:32,441
+♪ Each rainy day ♪
+
+1033
+01:23:32,475 --> 01:23:36,112
+♪ And laugh away ♪
+
+1034
+01:23:36,145 --> 01:23:39,348
+♪ Your blues ♪
+
+1035
+01:23:41,384 --> 01:23:46,255
+♪ Let love light the sky up ♪
+
+1036
+01:23:46,289 --> 01:23:49,525
+♪ Tell the clouds to dry up ♪
+
+1037
+01:23:49,558 --> 01:23:54,463
+♪ And smile away each rainy day ♪
+
+1038
+01:24:00,103 --> 01:24:02,638
+Swine! Egomaniac!
+
+1039
+01:24:06,175 --> 01:24:07,310
+(Larrabee)
+Lili!
+
+1040
+01:24:07,343 --> 01:24:08,344
+[Knocking on door]
+
+1041
+01:24:08,377 --> 01:24:09,778
+Open this door!
+
+1042
+01:24:12,248 --> 01:24:14,383
+I'm warning you, Lili,
+if you don't open this door
+
+1043
+01:24:14,417 --> 01:24:16,352
+I'm gonna break it down.
+
+1044
+01:24:22,691 --> 01:24:24,560
+Lili!
+
+1045
+01:24:24,593 --> 01:24:25,761
+Where is she?
+
+1046
+01:24:25,794 --> 01:24:28,231
+I think she's in her room, sir.
+
+1047
+01:24:28,264 --> 01:24:29,632
+[Water running]
+
+1048
+01:24:32,468 --> 01:24:34,103
+(Larrabee)
+Damn it, woman,
+
+1049
+01:24:34,137 --> 01:24:35,347
+we're going to settle
+this once and for all.
+
+1050
+01:24:35,371 --> 01:24:37,273
+[Lili screaming]
+Oh, get out of here!
+
+1051
+01:24:37,306 --> 01:24:39,384
+- Not until we settle this.
+- There's nothing to settle.
+
+1052
+01:24:39,408 --> 01:24:41,510
+- The hell there isn't!
+- Go settle it with Suzette.
+
+1053
+01:24:41,544 --> 01:24:44,747
+- Suzette, my foot.
+- Suzette, my crepe. Get out of my shower!
+
+1054
+01:24:44,780 --> 01:24:46,549
+[Screaming]
+What are you doing?
+
+1055
+01:24:46,582 --> 01:24:48,417
+Now, let's have it.
+
+1056
+01:24:48,451 --> 01:24:50,586
+[Shrieking]
+
+1057
+01:24:50,619 --> 01:24:51,654
+[Coughing]
+
+1058
+01:24:51,687 --> 01:24:53,156
+You bastard!
+
+1059
+01:24:54,557 --> 01:24:55,791
+Oh, ahhh!
+
+1060
+01:24:55,824 --> 01:24:57,593
+You gonna tell me?
+
+1061
+01:24:57,626 --> 01:24:58,761
+Yes.
+
+1062
+01:25:01,330 --> 01:25:03,666
+Uh, Generals Haig and...
+Rawlinson?
+
+1063
+01:25:03,699 --> 01:25:04,909
+What about generals
+Haig and Rawlinson?
+
+1064
+01:25:04,933 --> 01:25:06,702
+They were having dinner with me
+
+1065
+01:25:06,735 --> 01:25:08,871
+the night they were supposed
+to be briefing you.
+
+1066
+01:25:08,904 --> 01:25:11,774
+Well, why didn't you say so
+in the first place? So I'm a liar.
+
+1067
+01:25:11,807 --> 01:25:13,218
+- What would you rather I be, a traitor?
+- What?
+
+1068
+01:25:13,242 --> 01:25:15,378
+You heard me, I said traitor.
+
+1069
+01:25:15,411 --> 01:25:18,614
+The lives of hundreds, thousands of men
+depend upon Operation Crepe Suzette
+
+1070
+01:25:18,647 --> 01:25:20,483
+being kept a secret.
+
+1071
+01:25:20,516 --> 01:25:22,685
+So, what in the name
+of hellish vanity makes you think,
+
+1072
+01:25:22,718 --> 01:25:25,754
+I'd compromise that in the name of your
+adolescent, narcissistic ego?
+
+1073
+01:25:25,788 --> 01:25:26,855
+My ego?
+
+1074
+01:25:26,889 --> 01:25:27,756
+Sure, I lied to you.
+I had to.
+
+1075
+01:25:27,790 --> 01:25:29,725
+And you know what?
+
+1076
+01:25:29,758 --> 01:25:31,703
+- I think you're glad you caught me lying.
+- Oh, rubbish.
+
+1077
+01:25:31,727 --> 01:25:34,430
+It is? I think maybe you have to
+come up with excuses
+
+1078
+01:25:34,463 --> 01:25:36,599
+- just to avoid the moment of truth.
+- What?
+
+1079
+01:25:36,632 --> 01:25:39,902
+In a word, miss Smith, I think it's
+just possible you're a virgin.
+
+1080
+01:25:39,935 --> 01:25:41,270
+Oh!
+
+1081
+01:25:53,216 --> 01:25:54,550
+[Both sighing]
+
+1082
+01:25:57,420 --> 01:25:58,487
+Bill?
+
+1083
+01:25:58,521 --> 01:26:00,356
+Yeah?
+
+1084
+01:26:00,389 --> 01:26:02,258
+Turn on the warm water.
+
+1085
+01:26:05,261 --> 01:26:06,462
+[Moaning]
+
+1086
+01:26:15,838 --> 01:26:17,206
+[Engine revving]
+
+1087
+01:27:18,000 --> 01:27:20,369
+[Guns firing]
+
+1088
+01:27:42,991 --> 01:27:44,660
+[Guns firing]
+
+1089
+01:28:08,016 --> 01:28:09,385
+[Guns firing]
+
+1090
+01:28:13,822 --> 01:28:14,957
+[Explosion]
+
+1091
+01:28:51,527 --> 01:28:52,995
+[Engine roaring]
+
+1092
+01:30:04,533 --> 01:30:06,635
+[Soldiers chattering in German]
+
+1093
+01:30:18,647 --> 01:30:20,516
+Get off! Boches!
+
+1094
+01:30:25,020 --> 01:30:26,522
+[Guns firing]
+
+1095
+01:30:49,277 --> 01:30:51,013
+Gentlemen.
+
+1096
+01:30:51,046 --> 01:30:53,649
+Uh, Mademoiselle Smith.
+
+1097
+01:30:53,682 --> 01:30:55,117
+Eh, do sit down.
+
+1098
+01:31:04,259 --> 01:31:07,496
+We have come to speak to you
+again about Major Larrabee.
+
+1099
+01:31:07,530 --> 01:31:08,731
+Yes?
+
+1100
+01:31:08,764 --> 01:31:10,533
+Since last we met,
+
+1101
+01:31:10,566 --> 01:31:14,136
+certain new evidence has come to light.
+
+1102
+01:31:14,169 --> 01:31:17,272
+And now we believe we know
+the identity of the person
+
+1103
+01:31:17,305 --> 01:31:20,943
+to whom Major Larrabee
+has been passing information.
+
+1104
+01:31:20,976 --> 01:31:22,645
+Oh.
+
+1105
+01:31:22,678 --> 01:31:25,548
+She's a well-known entertainer.
+
+1106
+01:31:27,650 --> 01:31:29,151
+Really?
+
+1107
+01:31:29,184 --> 01:31:31,720
+Her name is Suzette Maldue.
+
+1108
+01:31:34,022 --> 01:31:35,257
+Who?
+
+1109
+01:31:35,290 --> 01:31:36,959
+Perhaps you've heard of her.
+
+1110
+01:31:36,992 --> 01:31:39,962
+She's known as Crepe Suzette.
+
+1111
+01:31:39,995 --> 01:31:41,163
+[♪♪♪]
+
+1112
+01:31:50,739 --> 01:31:54,877
+♪ Your good-will ambassador ♪
+
+1113
+01:31:54,910 --> 01:31:58,914
+♪ Would like to know are you doing ok ♪
+
+1114
+01:32:00,716 --> 01:32:04,920
+♪ Your good-will ambassador ♪
+
+1115
+01:32:04,953 --> 01:32:10,859
+♪ Would like to feel
+you're enjoying your stay ♪
+
+1116
+01:32:10,893 --> 01:32:14,029
+♪ If you're calm and placid ♪
+
+1117
+01:32:14,062 --> 01:32:19,968
+♪ Or if you've
+a red hot desire to roam ♪
+
+1118
+01:32:20,002 --> 01:32:25,007
+♪ I want to get you all to know Paree ♪
+
+1119
+01:32:25,040 --> 01:32:29,845
+♪ For there's a fast Paree
+and there's a slow Paree ♪
+
+1120
+01:32:29,878 --> 01:32:34,983
+♪ We'll do the whole big,
+sexy potpourri ♪
+
+1121
+01:32:35,017 --> 01:32:38,821
+♪ 'Cause baby I'm going
+to make you at home ♪
+
+1122
+01:32:49,765 --> 01:32:50,966
+[Sneezing]
+
+1123
+01:33:20,195 --> 01:33:25,167
+♪ We'll do the whole
+big, sexy potpourri ♪
+
+1124
+01:33:25,200 --> 01:33:28,904
+♪ 'Cause baby I'm going
+to make you at home ♪
+
+1125
+01:33:28,937 --> 01:33:30,773
+♪ Or on the left bank ♪
+
+1126
+01:33:30,806 --> 01:33:33,942
+♪ I'm going to make you at home ♪
+
+1127
+01:33:33,976 --> 01:33:35,778
+♪ Or on the right bank ♪
+
+1128
+01:33:35,811 --> 01:33:40,082
+♪ I'm going to make you ♪
+
+1129
+01:33:40,115 --> 01:33:43,185
+♪ At home ♪
+
+1130
+01:33:52,094 --> 01:33:55,864
+That filthy, scheming, cheating, faking,
+
+1131
+01:33:55,898 --> 01:33:57,199
+lying, egotistic,
+
+1132
+01:33:57,232 --> 01:33:59,935
+self-indulgent, hedonistic, son of a...
+
+1133
+01:33:59,968 --> 01:34:02,037
+[plane engines running]
+
+1134
+01:34:07,109 --> 01:34:08,811
+Think we can do it?
+
+1135
+01:34:08,844 --> 01:34:10,879
+Yes, but you had better fly,
+
+1136
+01:34:10,913 --> 01:34:13,048
+'cause I haven't been drinking.
+
+1137
+01:34:45,147 --> 01:34:46,815
+[Engine starting]
+
+1138
+01:34:50,152 --> 01:34:51,820
+[Engine revving]
+
+1139
+01:34:54,356 --> 01:34:55,991
+Halt! Halt!
+
+1140
+01:34:57,926 --> 01:34:59,862
+Wait for me!
+
+1141
+01:34:59,895 --> 01:35:01,229
+Wait a minute!
+
+1142
+01:35:14,810 --> 01:35:16,711
+[Men shouting in German]
+
+1143
+01:35:21,449 --> 01:35:23,952
+Just a minute.
+Where are you going?
+
+1144
+01:35:33,161 --> 01:35:34,429
+[Guns firing]
+
+1145
+01:35:36,865 --> 01:35:38,000
+[♪♪♪]
+
+1146
+01:35:47,309 --> 01:35:49,244
+[Speaking German]
+
+1147
+01:36:09,297 --> 01:36:11,199
+[Men shouting]
+
+1148
+01:37:03,185 --> 01:37:06,889
+♪ I'll give you three guesses ♪
+
+1149
+01:37:06,922 --> 01:37:10,358
+♪ Who loves you ♪
+
+1150
+01:37:10,392 --> 01:37:13,061
+♪ Who's loved you ♪
+
+1151
+01:37:13,095 --> 01:37:16,031
+♪ Right from the start ♪
+
+1152
+01:37:17,165 --> 01:37:20,435
+♪ Not your mother ♪
+
+1153
+01:37:20,468 --> 01:37:24,940
+♪ Who likes to baby you so ♪
+
+1154
+01:37:24,973 --> 01:37:28,476
+♪ And not the girl back home ♪
+
+1155
+01:37:28,510 --> 01:37:33,315
+♪ You used to know ♪
+
+1156
+01:37:33,348 --> 01:37:36,051
+♪ Oh, no ♪
+
+1157
+01:37:36,084 --> 01:37:40,655
+♪ There's somebody special ♪
+
+1158
+01:37:40,688 --> 01:37:43,325
+♪ Who needs you ♪
+
+1159
+01:37:45,193 --> 01:37:48,230
+♪ Together ♪
+
+1160
+01:37:48,263 --> 01:37:51,599
+♪ Or apart ♪
+
+1161
+01:38:28,703 --> 01:38:33,942
+♪ Bet you don't need three guesses ♪
+
+1162
+01:38:33,976 --> 01:38:38,146
+♪ And not even two ♪
+
+1163
+01:38:38,180 --> 01:38:42,017
+♪ To know that I'm the one ♪
+
+1164
+01:38:43,318 --> 01:38:47,489
+♪ Sweetheart ♪
+
+1165
+01:38:54,296 --> 01:38:56,064
+[audience applauding]
+
+1166
+01:38:58,733 --> 01:39:01,069
+Are you absolutely sure?
+
+1167
+01:39:01,103 --> 01:39:04,106
+You can see her any night
+at that place, all of her.
+
+1168
+01:39:04,139 --> 01:39:06,274
+How fascinating.
+I'll look into it.
+
+1169
+01:39:06,308 --> 01:39:08,243
+Yes, I thought you'd want to do that.
+
+1170
+01:39:08,276 --> 01:39:11,013
+You can take my word for it
+that Operation Crepe Suzette
+
+1171
+01:39:11,046 --> 01:39:13,348
+has never existed, except in bed.
+
+1172
+01:39:13,381 --> 01:39:15,150
+And no doubt he's operating right now.
+
+1173
+01:39:15,183 --> 01:39:18,120
+You sound jealous.
+
+1174
+01:39:18,153 --> 01:39:19,687
+Oh, don't be an ass.
+
+1175
+01:39:22,090 --> 01:39:23,558
+[Piano playing]
+
+1176
+01:39:38,773 --> 01:39:40,142
+[Stops playing abruptly]
+
+1177
+01:39:45,513 --> 01:39:48,783
+And how was everything at the front?
+
+1178
+01:39:48,816 --> 01:39:50,718
+Fine.
+
+1179
+01:39:50,752 --> 01:39:52,087
+Fine.
+
+1180
+01:39:57,725 --> 01:39:59,027
+Hurt yourself?
+
+1181
+01:39:59,061 --> 01:40:00,495
+No, it's nothing.
+
+1182
+01:40:03,398 --> 01:40:05,200
+Just a flesh wound.
+
+1183
+01:40:05,233 --> 01:40:07,769
+It's nothing serious.
+
+1184
+01:40:07,802 --> 01:40:10,472
+Was it the Baron again?
+
+1185
+01:40:10,505 --> 01:40:11,673
+No.
+
+1186
+01:40:11,706 --> 01:40:15,043
+This time, believe it or not,
+
+1187
+01:40:15,077 --> 01:40:17,379
+I happened to be up in a German plane.
+
+1188
+01:40:17,412 --> 01:40:19,314
+[Both laughing]
+
+1189
+01:40:19,347 --> 01:40:21,283
+"Believe it or not."
+
+1190
+01:40:21,316 --> 01:40:24,352
+Well, well, why don't you
+tell me all about it?
+
+1191
+01:40:26,754 --> 01:40:29,257
+- Lili...
+- Mmm-hmm?
+
+1192
+01:40:29,291 --> 01:40:30,392
+What's up?
+
+1193
+01:40:30,425 --> 01:40:31,693
+Up?
+
+1194
+01:40:31,726 --> 01:40:33,361
+[Sighing]
+
+1195
+01:40:33,395 --> 01:40:35,230
+[Chuckling]
+Funny you should mention that.
+
+1196
+01:40:35,263 --> 01:40:36,798
+- What?
+- Well,
+
+1197
+01:40:36,831 --> 01:40:38,733
+you were...
+
+1198
+01:40:38,766 --> 01:40:42,737
+You were up.
+In the air, so to speak.
+
+1199
+01:40:42,770 --> 01:40:44,206
+Sort of a pun.
+
+1200
+01:40:44,239 --> 01:40:46,541
+A pun?
+
+1201
+01:40:46,574 --> 01:40:49,311
+Oh, darling, I'm sorry.
+I'm not myself today.
+
+1202
+01:40:49,344 --> 01:40:51,413
+I've been worried to death about you,
+
+1203
+01:40:51,446 --> 01:40:53,415
+and then you come in
+limping on that thing
+
+1204
+01:40:53,448 --> 01:40:55,617
+and you must admit
+that under the circumstances,
+
+1205
+01:40:55,650 --> 01:40:59,187
+it's a bit difficult
+to be reasonable and calm.
+
+1206
+01:41:00,822 --> 01:41:03,291
+You...
+
+1207
+01:41:03,325 --> 01:41:05,760
+- You really worried about me?
+- Mmm-hmm.
+
+1208
+01:41:05,793 --> 01:41:08,263
+Come on, now.
+Tell me all about it.
+
+1209
+01:41:10,865 --> 01:41:12,500
+Well,
+
+1210
+01:41:12,534 --> 01:41:15,203
+- we did run into the Baron.
+- Mmm-hmm.
+
+1211
+01:41:15,237 --> 01:41:17,272
+T.C. got shot down.
+
+1212
+01:41:17,305 --> 01:41:18,406
+No.
+
+1213
+01:41:18,440 --> 01:41:19,641
+He's all right.
+
+1214
+01:41:19,674 --> 01:41:21,309
+Oh, thank God.
+
+1215
+01:41:22,644 --> 01:41:24,346
+I managed to land nearby,
+
+1216
+01:41:24,379 --> 01:41:27,815
+but before I could find T.C.,
+the Germans found me.
+
+1217
+01:41:27,849 --> 01:41:30,385
+- Oh, you were behind enemy lines.
+- Yeah.
+
+1218
+01:41:30,418 --> 01:41:31,519
+Oh, how frightful.
+
+1219
+01:41:31,553 --> 01:41:32,854
+Yeah.
+
+1220
+01:41:32,887 --> 01:41:34,356
+I had to burn my plane.
+
+1221
+01:41:34,389 --> 01:41:36,424
+Um, that sweet little plane?
+
+1222
+01:41:38,560 --> 01:41:39,861
+Well, I had no choice.
+
+1223
+01:41:39,894 --> 01:41:41,729
+A lucky shot put my plane
+out of action.
+
+1224
+01:41:41,763 --> 01:41:45,433
+- I had to make a run for it.
+- All the way to France?
+
+1225
+01:41:45,467 --> 01:41:47,869
+No, I mean...
+
+1226
+01:41:47,902 --> 01:41:50,338
+We did have to cover
+quite a bit of territory.
+
+1227
+01:41:50,372 --> 01:41:51,773
+We?
+
+1228
+01:41:51,806 --> 01:41:53,641
+T.C. and I.
+
+1229
+01:41:53,675 --> 01:41:54,576
+Oh, you found him again.
+
+1230
+01:41:54,609 --> 01:41:56,478
+- Yeah.
+- Ah.
+
+1231
+01:41:56,511 --> 01:41:58,813
+And yesterday morning
+we stumbled on a German airfield
+
+1232
+01:41:58,846 --> 01:42:01,183
+and we stole Von Richthofen's plane.
+
+1233
+01:42:04,952 --> 01:42:07,822
+You must be exhausted.
+
+1234
+01:42:09,657 --> 01:42:10,825
+A little.
+
+1235
+01:42:12,960 --> 01:42:14,329
+[Sighing]
+
+1236
+01:42:17,732 --> 01:42:18,800
+[Laughing]
+
+1237
+01:42:18,833 --> 01:42:19,833
+What?
+
+1238
+01:42:22,404 --> 01:42:25,373
+Did you really steal
+Von Richthofen's plane?
+
+1239
+01:42:25,407 --> 01:42:27,542
+[Laughing]
+Yes.
+
+1240
+01:42:27,575 --> 01:42:30,245
+In a pig's eye, you did.
+
+1241
+01:42:30,278 --> 01:42:31,479
+[Groaning]
+
+1242
+01:42:31,513 --> 01:42:33,248
+Lili! Lili!
+
+1243
+01:42:33,281 --> 01:42:34,449
+[Phone ringing]
+
+1244
+01:42:34,482 --> 01:42:36,418
+(Larrabee)
+Lili, open this door!
+
+1245
+01:42:36,451 --> 01:42:37,852
+[Larrabee knocking on door]
+
+1246
+01:42:37,885 --> 01:42:39,287
+Lili!
+
+1247
+01:42:39,321 --> 01:42:40,722
+- Yes!
+- Lili?
+
+1248
+01:42:40,755 --> 01:42:42,224
+Yes.
+
+1249
+01:42:42,257 --> 01:42:43,958
+Unfortunately, your friend, the Major,
+
+1250
+01:42:43,991 --> 01:42:45,760
+has borrowed the Baron's plane.
+
+1251
+01:42:45,793 --> 01:42:48,696
+(Larrabee)
+Lili!
+
+1252
+01:42:48,730 --> 01:42:51,899
+You mean, he really did steal
+Von Richthofen's plane?
+
+1253
+01:42:53,568 --> 01:42:54,836
+(Kurt)
+Lili?
+
+1254
+01:42:57,472 --> 01:42:58,940
+Bill! Bill!
+
+1255
+01:42:58,973 --> 01:43:00,475
+No. No.
+
+1256
+01:43:00,508 --> 01:43:01,943
+Darling, it must've been awful.
+
+1257
+01:43:01,976 --> 01:43:03,578
+Damn it to hell, Lili.
+
+1258
+01:43:03,611 --> 01:43:05,456
+- Oh, come on, lean on me.
+- No, wait, wait, wait.
+
+1259
+01:43:05,480 --> 01:43:07,382
+- Please don't scold.
+- I'm not gonna scold.
+
+1260
+01:43:07,415 --> 01:43:09,227
+- I just wanna get things straight.
+- But I believe you.
+
+1261
+01:43:09,251 --> 01:43:11,219
+- No, you don't.
+- I do.
+
+1262
+01:43:11,253 --> 01:43:13,464
+Oh, how do I know?
+You're not dependable about these things.
+
+1263
+01:43:13,488 --> 01:43:15,499
+I promise, I swear,
+I'll never ever doubt you again.
+
+1264
+01:43:15,523 --> 01:43:16,924
+- Oh, yes, you will.
+- I won't.
+
+1265
+01:43:16,958 --> 01:43:19,361
+- I don't trust you.
+- But I believe, honestly.
+
+1266
+01:43:19,394 --> 01:43:21,563
+Come on, let's get you
+off your feet. And I'm sorry.
+
+1267
+01:43:21,596 --> 01:43:23,298
+No. No, Lili.
+
+1268
+01:43:23,331 --> 01:43:24,332
+I can't stay.
+
+1269
+01:43:24,366 --> 01:43:26,234
+You can't?
+
+1270
+01:43:26,268 --> 01:43:29,371
+There's something important
+I've got to take care of.
+
+1271
+01:43:30,572 --> 01:43:32,974
+- Right now?
+- Right now.
+
+1272
+01:43:33,007 --> 01:43:34,676
+- This minute?
+- It can't wait.
+
+1273
+01:43:37,044 --> 01:43:38,580
+Lili...
+
+1274
+01:43:38,613 --> 01:43:40,415
+Hmm?
+
+1275
+01:43:40,448 --> 01:43:42,484
+- Do you believe?
+- Well, of course, I believe it.
+
+1276
+01:43:42,517 --> 01:43:46,288
+- But what in the world could be so important that...
+- Lili.
+
+1277
+01:43:46,321 --> 01:43:47,689
+Do you believe?
+
+1278
+01:43:54,629 --> 01:43:55,697
+I believe.
+
+1279
+01:43:55,730 --> 01:43:56,731
+Ok.
+
+1280
+01:43:56,764 --> 01:43:57,799
+See you soon.
+
+1281
+01:43:57,832 --> 01:43:59,534
+How soon?
+
+1282
+01:43:59,567 --> 01:44:01,669
+Just as soon as I can make it.
+
+1283
+01:44:09,977 --> 01:44:11,379
+I believe.
+
+1284
+01:44:21,823 --> 01:44:23,958
+Bedford, get the car!
+
+1285
+01:44:30,798 --> 01:44:32,467
+[Car horn honking]
+
+1286
+01:44:41,943 --> 01:44:43,711
+Should I follow them?
+
+1287
+01:44:44,779 --> 01:44:45,913
+No.
+
+1288
+01:44:49,016 --> 01:44:51,753
+Take this and put it under her mattress.
+
+1289
+01:44:51,786 --> 01:44:53,955
+That's our codebook.
+
+1290
+01:44:53,988 --> 01:44:56,724
+Well, when they've been arrested
+we'll change the code, now move!
+
+1291
+01:44:56,758 --> 01:44:58,292
+[Beeping]
+
+1292
+01:44:59,794 --> 01:45:01,429
+Capitaine Duvalle.
+
+1293
+01:45:01,463 --> 01:45:03,465
+(Lili)
+Captain Duvalle, this is Lili Smith.
+
+1294
+01:45:03,498 --> 01:45:05,700
+Ah, Mademoiselle Smith.
+
+1295
+01:45:05,733 --> 01:45:10,738
+You know how I've resisted your
+allegations concerning Major Larrabee.
+
+1296
+01:45:10,772 --> 01:45:13,908
+Well, there is something
+I now feel I must tell you.
+
+1297
+01:45:16,110 --> 01:45:17,779
+Major Larrabee has said several things
+
+1298
+01:45:17,812 --> 01:45:19,747
+which make it absolutely clear
+
+1299
+01:45:19,781 --> 01:45:23,551
+that he is indeed
+passing important military information
+
+1300
+01:45:23,585 --> 01:45:27,021
+to this, uh, this, uh, Suzette.
+
+1301
+01:45:55,883 --> 01:45:58,453
+- Major Larrabee?
+- Yes?
+
+1302
+01:45:58,486 --> 01:46:00,822
+- Suzete Maldue?
+- Oui.
+
+1303
+01:46:00,855 --> 01:46:04,659
+I am Captain Duvalle of army intelligence.
+
+1304
+01:46:04,692 --> 01:46:07,028
+I must regret to inform you,
+and you, Miss Maldue,
+
+1305
+01:46:07,061 --> 01:46:09,030
+that you are both under arrest.
+
+1306
+01:46:09,063 --> 01:46:10,164
+- Under arrest?
+- What for?
+
+1307
+01:46:10,197 --> 01:46:12,166
+High treason.
+
+1308
+01:46:12,199 --> 01:46:13,477
+What in the hell are you talking about?
+
+1309
+01:46:13,501 --> 01:46:15,570
+Please, Major.
+
+1310
+01:46:15,603 --> 01:46:18,840
+(Kurt) "According to Captain Duvalle of
+French army intelligence,
+
+1311
+01:46:18,873 --> 01:46:21,509
+"a search of Miss Maldue's lodgings
+
+1312
+01:46:21,543 --> 01:46:24,979
+turned up vital and damaging evidence."
+
+1313
+01:46:30,785 --> 01:46:33,421
+You realize what this means, Lili?
+
+1314
+01:46:33,455 --> 01:46:36,023
+You can change the code.
+
+1315
+01:46:36,057 --> 01:46:37,825
+It's been changed already.
+
+1316
+01:46:37,859 --> 01:46:40,428
+It's not so easy
+to replace Major Larrabee.
+
+1317
+01:46:40,462 --> 01:46:43,631
+- Would it have been easier to replace me?
+- Hmm.
+
+1318
+01:46:43,665 --> 01:46:45,600
+Captain Duvalle
+was suspicious of Suzette,
+
+1319
+01:46:45,633 --> 01:46:47,811
+but, sooner or later,
+he was bound to discover the truth,
+
+1320
+01:46:47,835 --> 01:46:50,104
+unless he had
+positive evidence against her.
+
+1321
+01:46:50,137 --> 01:46:51,639
+I decided to protect myself
+
+1322
+01:46:51,673 --> 01:46:53,708
+by providing him with that evidence.
+
+1323
+01:46:53,741 --> 01:46:55,543
+And eliminate a rival.
+
+1324
+01:46:55,577 --> 01:46:57,211
+Oh, don't be an ass.
+
+1325
+01:46:57,244 --> 01:46:59,113
+That's the second time
+you've called me that.
+
+1326
+01:46:59,146 --> 01:47:00,682
+Oh, really?
+
+1327
+01:47:00,715 --> 01:47:02,517
+The first time was when I suggested that
+
+1328
+01:47:02,550 --> 01:47:05,820
+you might be becoming
+emotionally involved.
+
+1329
+01:47:05,853 --> 01:47:07,822
+Yes, I remember.
+
+1330
+01:47:07,855 --> 01:47:10,725
+And the second time
+was when I suggested
+
+1331
+01:47:10,758 --> 01:47:13,995
+that you might be becoming
+emotionally involved.
+
+1332
+01:47:14,028 --> 01:47:16,598
+Lili, surely you must've known
+that by implicating Suzette,
+
+1333
+01:47:16,631 --> 01:47:18,866
+you could not help
+but implicate the major.
+
+1334
+01:47:21,503 --> 01:47:24,071
+Do you really love him so much?
+
+1335
+01:47:29,176 --> 01:47:34,015
+Uh, here we are.
+Try to look reasonably happy.
+
+1336
+01:47:34,048 --> 01:47:36,718
+After all,
+it isn't every day that a German spy
+
+1337
+01:47:36,751 --> 01:47:38,920
+is awarded
+the French Legion of Honor.
+
+1338
+01:47:43,991 --> 01:47:45,593
+[Band playing]
+
+1339
+01:47:55,637 --> 01:47:58,773
+Of course, I had an affair
+with Major Larrabee.
+
+1340
+01:47:58,806 --> 01:48:02,176
+But, he only took me out
+to tell me it was finished
+
+1341
+01:48:02,209 --> 01:48:04,879
+and that he was in love with Lili Smith.
+
+1342
+01:48:09,684 --> 01:48:12,253
+We would like to believe you, but...
+
+1343
+01:48:12,286 --> 01:48:13,621
+[dinging]
+
+1344
+01:48:17,892 --> 01:48:21,796
+Until such time
+as the court-martial is convened,
+
+1345
+01:48:21,829 --> 01:48:23,731
+you are under military arrest.
+
+1346
+01:48:23,765 --> 01:48:26,100
+And you will be
+confined to your quarters.
+
+1347
+01:48:26,133 --> 01:48:27,902
+Dismissed.
+
+1348
+01:48:27,935 --> 01:48:29,937
+[Speaking in French]
+
+1349
+01:48:50,324 --> 01:48:54,261
+[Singing in French]
+[Speaks in French]
+
+1350
+01:50:03,898 --> 01:50:05,767
+Well, my dear, don't worry.
+
+1351
+01:50:05,800 --> 01:50:08,402
+Have a good journey.
+Enjoy your rest.
+
+1352
+01:50:08,435 --> 01:50:11,205
+I'll probably pay you a visit
+sometime next month
+
+1353
+01:50:11,238 --> 01:50:13,808
+to discuss the future.
+
+1354
+01:50:13,841 --> 01:50:15,176
+Goodbye, Kurt.
+
+1355
+01:50:17,444 --> 01:50:19,080
+Auf Wiedersehen.
+
+1356
+01:50:35,730 --> 01:50:36,964
+[Whistling]
+
+1357
+01:50:42,737 --> 01:50:46,407
+Come in, and close the door, hmm?
+
+1358
+01:50:46,440 --> 01:50:49,410
+I have an important message for you,
+
+1359
+01:50:49,443 --> 01:50:51,746
+from your friend, the Kaiser.
+
+1360
+01:50:53,748 --> 01:50:56,784
+I gather I'm no longer
+in His Majesty's good graces.
+
+1361
+01:50:56,818 --> 01:50:58,986
+How did you guess?
+
+1362
+01:50:59,020 --> 01:51:00,454
+Because you would naturally choose
+
+1363
+01:51:00,487 --> 01:51:02,356
+to deliver such a message yourself
+
+1364
+01:51:02,389 --> 01:51:06,193
+and it's the first time
+I've ever seen you look happy.
+
+1365
+01:51:06,227 --> 01:51:08,329
+I recall once when I was in Africa,
+
+1366
+01:51:08,362 --> 01:51:11,866
+watching a jackal devouring a kill,
+
+1367
+01:51:11,899 --> 01:51:14,802
+it had a similar look on its face.
+
+1368
+01:51:17,504 --> 01:51:20,174
+(General) I'm under orders
+to take you back to Germany
+
+1369
+01:51:20,207 --> 01:51:21,275
+to face a court-martial.
+
+1370
+01:51:21,308 --> 01:51:23,044
+But don't think for a moment
+
+1371
+01:51:23,077 --> 01:51:24,779
+that I wouldn't be just as pleased
+
+1372
+01:51:24,812 --> 01:51:27,949
+to turn in a report
+that you refused to go, hmm?
+
+1373
+01:51:27,982 --> 01:51:30,451
+And were shot trying to escape.
+
+1374
+01:51:30,484 --> 01:51:35,056
+Shot by you, General,
+or by your hatchet man, Kraus?
+
+1375
+01:51:35,089 --> 01:51:37,424
+By the way, where is Kraus?
+
+1376
+01:51:39,360 --> 01:51:42,463
+Taking care of some
+last-minute business.
+
+1377
+01:52:03,284 --> 01:52:04,952
+[Doorbell ringing]
+
+1378
+01:52:09,556 --> 01:52:10,858
+Tea, Miss Lili?
+
+1379
+01:52:10,892 --> 01:52:12,126
+Uh, yes.
+
+1380
+01:52:12,159 --> 01:52:14,295
+And we'd better start packing.
+
+1381
+01:52:16,297 --> 01:52:18,199
+Have you seen the evening paper?
+
+1382
+01:52:18,232 --> 01:52:19,366
+No.
+
+1383
+01:52:24,438 --> 01:52:25,973
+Don't let her see this.
+
+1384
+01:52:26,007 --> 01:52:27,274
+If she asks, make an excuse.
+
+1385
+01:52:27,308 --> 01:52:29,076
+But after all she's been through.
+
+1386
+01:52:29,110 --> 01:52:31,078
+She's been through too much.
+
+1387
+01:52:31,112 --> 01:52:32,890
+If she sees this,
+there's no telling What'll happen.
+
+1388
+01:52:32,914 --> 01:52:34,982
+But she loves him and she's miserable.
+
+1389
+01:52:35,016 --> 01:52:37,318
+And it's too late
+to do anything about it.
+
+1390
+01:52:37,351 --> 01:52:40,021
+We're only one step ahead of
+a firing squad, as it is.
+
+1391
+01:52:40,054 --> 01:52:43,524
+Now don't you start
+getting sentimental and muck things up.
+
+1392
+01:53:18,159 --> 01:53:21,028
+Would it make any difference
+if he loved you?
+
+1393
+01:53:23,597 --> 01:53:25,432
+According to the evening paper,
+
+1394
+01:53:25,466 --> 01:53:29,203
+Suzette Maldue claimed
+she knew nothing about the codebook
+
+1395
+01:53:29,236 --> 01:53:31,906
+and that Major Larrabee
+only took her out that afternoon
+
+1396
+01:53:31,939 --> 01:53:34,808
+to tell her he was in love
+with another woman.
+
+1397
+01:53:39,080 --> 01:53:41,182
+According to the evening paper.
+
+1398
+01:53:44,351 --> 01:53:45,920
+Where is it?
+
+1399
+01:53:45,953 --> 01:53:47,488
+Bedford didn't want you to see it.
+
+1400
+01:53:47,521 --> 01:53:50,424
+He was afraid
+you might do something foolish.
+
+1401
+01:53:56,097 --> 01:53:57,231
+Oh.
+
+1402
+01:54:05,539 --> 01:54:07,308
+[Car engine starting]
+
+1403
+01:54:21,322 --> 01:54:22,489
+[Ringing]
+
+1404
+01:54:25,226 --> 01:54:26,360
+No.
+
+1405
+01:54:30,131 --> 01:54:31,899
+That should be Kraus.
+
+1406
+01:54:35,937 --> 01:54:37,304
+(General)
+Hello?
+
+1407
+01:54:40,942 --> 01:54:42,076
+That wasn't the Colonel.
+
+1408
+01:54:42,109 --> 01:54:43,077
+What should we do?
+
+1409
+01:54:43,110 --> 01:54:44,245
+Pack.
+
+1410
+01:55:19,446 --> 01:55:21,415
+[Phone ringing]
+
+1411
+01:55:26,187 --> 01:55:27,721
+Yes?
+
+1412
+01:55:27,754 --> 01:55:30,657
+I followed her to the French
+intelligence headquarters.
+
+1413
+01:55:30,691 --> 01:55:32,593
+Eliminate her.
+
+1414
+01:55:32,626 --> 01:55:36,630
+The moment she sets foot
+outside of that building,
+
+1415
+01:55:36,663 --> 01:55:37,999
+get her.
+
+1416
+01:55:42,236 --> 01:55:43,537
+[Gun firing]
+
+1417
+01:55:46,207 --> 01:55:47,408
+Schnell.
+
+1418
+01:55:52,446 --> 01:55:53,514
+I have a taxi.
+
+1419
+01:55:53,547 --> 01:55:55,416
+No, we'll take my car.
+
+1420
+01:55:55,449 --> 01:55:56,583
+Hey!
+
+1421
+01:55:58,452 --> 01:56:00,454
+Hey, what are you trying to do?
+
+1422
+01:56:02,423 --> 01:56:04,058
+[Speaking French]
+
+1423
+01:56:15,536 --> 01:56:17,171
+Follow that car.
+
+1424
+01:56:20,441 --> 01:56:22,109
+I am a German spy.
+
+1425
+01:56:27,148 --> 01:56:28,325
+Do you understand what I'm saying?
+
+1426
+01:56:28,349 --> 01:56:29,650
+Yes.
+
+1427
+01:56:29,683 --> 01:56:31,452
+Yes, I understand what you are saying.
+
+1428
+01:56:31,485 --> 01:56:33,720
+I also understand
+
+1429
+01:56:33,754 --> 01:56:36,123
+why you are saying it.
+
+1430
+01:56:36,157 --> 01:56:37,658
+Major Larrabee is innocent.
+
+1431
+01:56:37,691 --> 01:56:39,626
+I was the one who had
+the codebook planted
+
+1432
+01:56:39,660 --> 01:56:41,662
+under w-w-what's-her-name's mattress.
+
+1433
+01:56:41,695 --> 01:56:44,065
+I have come to make a full confession.
+
+1434
+01:56:44,098 --> 01:56:48,335
+Mademoiselle Smith,
+it's a wonderful, romantic gesture.
+
+1435
+01:56:48,369 --> 01:56:50,471
+And as a Frenchman,
+
+1436
+01:56:50,504 --> 01:56:54,075
+I appreciate everything
+that you are trying to do, but...
+
+1437
+01:56:55,309 --> 01:56:56,743
+Yes, what is it?
+
+1438
+01:56:59,213 --> 01:57:02,649
+How does she know that the codebook
+was under the mattress?
+
+1439
+01:57:03,850 --> 01:57:05,519
+How do I know how she knew
+
+1440
+01:57:05,552 --> 01:57:08,055
+that the codebook was
+under the mattress?
+
+1441
+01:57:08,089 --> 01:57:09,656
+You must forgive him.
+
+1442
+01:57:14,228 --> 01:57:17,131
+How did you know that the codebook
+was under the mattress?
+
+1443
+01:57:36,583 --> 01:57:39,086
+Gentlemen. Lili, let's go.
+
+1444
+01:57:39,120 --> 01:57:40,521
+[Gun firing]
+
+1445
+01:57:40,554 --> 01:57:42,089
+- Oh.
+- Let's run.
+
+1446
+01:57:56,670 --> 01:57:58,872
+It's no good, Kurt.
+I told them, I confessed.
+
+1447
+01:57:58,905 --> 01:58:01,551
+I didn't implicate you or any of
+the others, but they know about me.
+
+1448
+01:58:01,575 --> 01:58:02,852
+You're bleeding,
+you should see a doctor.
+
+1449
+01:58:02,876 --> 01:58:05,146
+Bedford, drive to Dr. Rene's house.
+
+1450
+01:58:05,179 --> 01:58:07,790
+- We are not going to Dr. Rene's house.
+But you must get this seen to.
+
+1451
+01:58:07,814 --> 01:58:09,892
+- We are going to the railway station.
+- Railway station?
+
+1452
+01:58:09,916 --> 01:58:12,153
+- And then we're going to Switzerland.
+- Switzerland?
+
+1453
+01:58:12,186 --> 01:58:14,288
+Oh, Kurt, you can
+go to Switzerland, but I can't go.
+
+1454
+01:58:14,321 --> 01:58:15,465
+I told them, they know about me.
+
+1455
+01:58:15,489 --> 01:58:17,158
+I wasn't joking.
+I told them.
+
+1456
+01:58:17,191 --> 01:58:18,768
+- I'm sure you did.
+- What if you're seen with me?
+
+1457
+01:58:18,792 --> 01:58:20,527
+- May I please say something?
+- What?
+
+1458
+01:58:20,561 --> 01:58:22,305
+For someone who's always been
+the personification
+
+1459
+01:58:22,329 --> 01:58:23,673
+of quick-wittedness
+and indefectible judgment,
+
+1460
+01:58:23,697 --> 01:58:25,666
+you're suddenly making decisions
+
+1461
+01:58:25,699 --> 01:58:28,145
+- with all the cunning of a headless chicken.
+- What do you mean?
+
+1462
+01:58:28,169 --> 01:58:30,637
+Look, you confessed
+in order to save Major Larrabee.
+
+1463
+01:58:30,671 --> 01:58:31,738
+Yes.
+
+1464
+01:58:31,772 --> 01:58:32,906
+Because he is innocent.
+
+1465
+01:58:32,939 --> 01:58:34,208
+- Yes.
+- Is he?
+
+1466
+01:58:34,241 --> 01:58:35,809
+Oh, don't be an ass.
+
+1467
+01:58:35,842 --> 01:58:37,911
+- He didn't tell that woman a thing.
+- Which woman?
+
+1468
+01:58:37,944 --> 01:58:39,680
+Suzette. She's not a spy.
+
+1469
+01:58:39,713 --> 01:58:41,582
+- But he told you.
+- Well, of course he did.
+
+1470
+01:58:41,615 --> 01:58:45,386
+- And you are a spy.
+- And Suzette, who is not,
+
+1471
+01:58:45,419 --> 01:58:46,929
+has a very good chance
+of proving that she is not.
+
+1472
+01:58:46,953 --> 01:58:50,157
+Thereby exonerating the Major.
+Because without the real spy,
+
+1473
+01:58:50,191 --> 01:58:52,226
+the government has no case.
+
+1474
+01:58:52,259 --> 01:58:54,261
+But now, my dear, they have.
+
+1475
+01:58:54,295 --> 01:58:55,896
+Oh, oh, my God.
+
+1476
+01:58:57,398 --> 01:58:58,699
+And so you have no alternative.
+
+1477
+01:58:58,732 --> 01:59:00,401
+If you stay and are convicted
+
+1478
+01:59:00,434 --> 01:59:02,503
+the Major will
+undoubtedly face a court-martial,
+
+1479
+01:59:02,536 --> 01:59:05,339
+but if you can escape to Switzerland
+and remain there incommunicado
+
+1480
+01:59:05,372 --> 01:59:09,843
+until the appropriate time,
+you might just save us all.
+
+1481
+01:59:09,876 --> 01:59:11,316
+How could I have been such an idiot?
+
+1482
+01:59:14,448 --> 01:59:16,283
+[Car tires screeching]
+
+1483
+01:59:57,524 --> 01:59:59,293
+[Train horn blowing]
+
+1484
+02:00:01,895 --> 02:00:03,630
+[People chattering]
+
+1485
+02:00:09,035 --> 02:00:11,438
+[Man speaking in French over P.A.]
+
+1486
+02:00:37,498 --> 02:00:40,301
+[Train engine chugging]
+
+1487
+02:00:40,334 --> 02:00:41,968
+[Man making announcement in French]
+
+1488
+02:00:46,407 --> 02:00:48,275
+[Train whistle blowing]
+
+1489
+02:01:05,459 --> 02:01:06,627
+Here.
+
+1490
+02:01:09,796 --> 02:01:11,064
+[Panting]
+
+1491
+02:01:11,097 --> 02:01:13,300
+I'm gonna cover you up with this.
+
+1492
+02:01:13,334 --> 02:01:15,602
+Try to sit quietly,
+and don't move around too much.
+
+1493
+02:01:15,636 --> 02:01:16,803
+Yes, nurse.
+
+1494
+02:01:16,837 --> 02:01:17,938
+Don't be patronizing.
+
+1495
+02:01:17,971 --> 02:01:19,606
+Put your feet up.
+
+1496
+02:01:49,135 --> 02:01:51,581
+The best thing for us will be
+to hide at the farm for a few days
+
+1497
+02:01:51,605 --> 02:01:52,839
+before we try Switzerland.
+
+1498
+02:01:52,873 --> 02:01:54,941
+What about the Colonel and Miss Lili?
+
+1499
+02:01:54,975 --> 02:01:58,912
+If there's no trouble,
+they'll be across the border by morning.
+
+1500
+02:02:09,055 --> 02:02:10,791
+(Kurt)
+Don't be unhappy, darling,
+
+1501
+02:02:10,824 --> 02:02:12,526
+because there's a good possibility
+
+1502
+02:02:12,559 --> 02:02:14,795
+the fighting will be over
+before too very long
+
+1503
+02:02:14,828 --> 02:02:16,797
+and then,
+
+1504
+02:02:16,830 --> 02:02:21,768
+if he really loves you,
+he'll find you, wherever you are.
+
+1505
+02:02:21,802 --> 02:02:24,070
+He'd be better off if he didn't.
+
+1506
+02:02:24,104 --> 02:02:26,473
+I always seem to mess things up.
+
+1507
+02:02:28,642 --> 02:02:31,612
+I tried to put it all right,
+and it all went wrong.
+
+1508
+02:02:31,645 --> 02:02:32,813
+[Sobbing]
+
+1509
+02:02:35,181 --> 02:02:38,619
+I wanted so to justify
+your confidence in me.
+
+1510
+02:02:38,652 --> 02:02:41,988
+I've always admired you and loved you
+
+1511
+02:02:42,022 --> 02:02:44,658
+and respected you, and what happens?
+
+1512
+02:02:44,691 --> 02:02:47,661
+He gets court-martialed,
+and you get shot,
+
+1513
+02:02:47,694 --> 02:02:51,732
+and here I am on this wretched train
+going to Switzerland.
+
+1514
+02:02:51,765 --> 02:02:54,601
+Well, we have one consolation:
+
+1515
+02:02:54,635 --> 02:02:56,737
+Things can't get much worse.
+
+1516
+02:03:01,007 --> 02:03:02,543
+[Larrabee laughing]
+
+1517
+02:03:02,576 --> 02:03:05,011
+You think it's funny?
+
+1518
+02:03:05,045 --> 02:03:08,482
+Lili Smith tells you she's a German spy
+
+1519
+02:03:08,515 --> 02:03:10,684
+and you don't think it's funny?
+
+1520
+02:03:11,918 --> 02:03:13,587
+Well, I admit that at first,
+
+1521
+02:03:13,620 --> 02:03:15,789
+it did seem somewhat implausible.
+
+1522
+02:03:15,822 --> 02:03:17,491
+Implausible?
+
+1523
+02:03:17,524 --> 02:03:19,493
+(Duvalle)
+Well, at first I thought it nothing more
+
+1524
+02:03:19,526 --> 02:03:20,961
+than an attempt to exonerate you.
+
+1525
+02:03:20,994 --> 02:03:22,763
+But she was in possession
+of certain facts.
+
+1526
+02:03:22,796 --> 02:03:23,897
+Gentlemen,
+
+1527
+02:03:23,930 --> 02:03:25,432
+Lili's an actress.
+
+1528
+02:03:25,466 --> 02:03:27,501
+- Yes.
+- Of course, I considered that,
+
+1529
+02:03:27,534 --> 02:03:29,736
+but when she was kidnapped...
+
+1530
+02:03:29,770 --> 02:03:30,837
+Kidnapped?
+
+1531
+02:03:30,871 --> 02:03:31,972
+Yes, it seemed...
+
+1532
+02:03:32,005 --> 02:03:34,107
+Did you say "kidnapped"?
+
+1533
+02:03:34,140 --> 02:03:37,544
+Yes, we were bringing her to see you,
+to confront you with the evidence...
+
+1534
+02:03:37,578 --> 02:03:38,745
+Who kidnapped her?
+
+1535
+02:03:38,779 --> 02:03:40,022
+- We've no idea.
+- I must insist...
+
+1536
+02:03:40,046 --> 02:03:41,615
+- Shut up!
+- A man jumped out of a car.
+
+1537
+02:03:41,648 --> 02:03:43,750
+There were some shots and poof.
+
+1538
+02:03:43,784 --> 02:03:45,652
+- What do you mean, "poof"?
+- She was gone.
+
+1539
+02:03:45,686 --> 02:03:47,120
+With Captain Duvalle's best suit.
+
+1540
+02:03:47,153 --> 02:03:49,990
+- What did you do about it?
+- Well, we came to see you.
+
+1541
+02:03:50,023 --> 02:03:52,693
+We thought you might shed
+some light on the matter.
+
+1542
+02:04:17,918 --> 02:04:20,186
+This is the bathroom.
+
+1543
+02:04:20,220 --> 02:04:22,022
+Yep.
+
+1544
+02:04:25,191 --> 02:04:27,694
+[Both muttering indistinctly]
+
+1545
+02:04:30,163 --> 02:04:31,698
+[Knocking]
+
+1546
+02:04:31,732 --> 02:04:32,866
+Major?
+
+1547
+02:04:39,272 --> 02:04:41,842
+[Both shouting indistinctly]
+
+1548
+02:04:41,875 --> 02:04:45,512
+[Conversing in French]
+
+1549
+02:04:45,546 --> 02:04:49,182
+I'm here to see major Larrobee.
+[Speaks in French]
+
+1550
+02:04:49,215 --> 02:04:51,952
+Parle nothing.
+Major Larrobee.
+
+1551
+02:04:51,985 --> 02:04:54,821
+You... you...
+I am silence!
+
+1552
+02:04:54,855 --> 02:04:59,092
+[Speaking French poorly]
+
+1553
+02:04:59,125 --> 02:05:00,527
+Let's go, T.C.
+
+1554
+02:05:00,561 --> 02:05:01,962
+Just a minute.
+
+1555
+02:05:01,995 --> 02:05:04,565
+- Vous Parle Francais?
+- Now, do you speak English?
+
+1556
+02:05:04,598 --> 02:05:07,233
+[Shouting in French]
+You don't speak English.
+
+1557
+02:05:07,267 --> 02:05:09,636
+What's the matter with you?
+
+1558
+02:05:09,670 --> 02:05:12,673
+[Speaks in French]
+"Soo"? What's "soo"?
+
+1559
+02:05:12,706 --> 02:05:16,743
+[Speaks in French]
+"Drunt"? Ah, don't worry.
+
+1560
+02:05:16,777 --> 02:05:18,712
+Let's go T.C.
+
+1561
+02:05:18,745 --> 02:05:21,181
+Ah, there you are.
+[Shouting in French]
+
+1562
+02:05:21,214 --> 02:05:23,717
+Just a minute, Mon garcon.
+
+1563
+02:05:25,351 --> 02:05:26,887
+Au revoir.
+
+1564
+02:05:49,843 --> 02:05:51,011
+Why don't you shoot?
+
+1565
+02:05:51,044 --> 02:05:52,779
+He can't.
+
+1566
+02:05:52,813 --> 02:05:55,048
+He doesn't have
+the necessary authority.
+
+1567
+02:05:56,917 --> 02:05:59,886
+Well, he was doing pretty well
+earlier this evening.
+
+1568
+02:05:59,920 --> 02:06:02,122
+Herr Kraus is not trying to kill me.
+
+1569
+02:06:02,155 --> 02:06:04,891
+He has orders only to eliminate you,
+
+1570
+02:06:04,925 --> 02:06:06,192
+but he cannot do that now.
+
+1571
+02:06:07,828 --> 02:06:09,796
+Why not?
+
+1572
+02:06:09,830 --> 02:06:11,632
+Because he knows that if he shoots you,
+
+1573
+02:06:11,665 --> 02:06:14,768
+he will most certainly have to kill me.
+
+1574
+02:06:14,801 --> 02:06:16,036
+Oh.
+
+1575
+02:06:16,069 --> 02:06:19,239
+Don't underestimate me, Colonel.
+
+1576
+02:06:19,272 --> 02:06:22,943
+I don't think I do.
+
+1577
+02:06:22,976 --> 02:06:26,913
+Killing me without proper orders
+would lead to a firing squad
+
+1578
+02:06:26,947 --> 02:06:29,115
+or at the very least,
+a general court-martial.
+
+1579
+02:06:29,149 --> 02:06:32,285
+Shortly before we reach Switzerland,
+
+1580
+02:06:32,318 --> 02:06:34,888
+I shall stop this train,
+and we shall get off.
+
+1581
+02:06:34,921 --> 02:06:39,125
+Then it is only a few hundred yards
+from the German border.
+
+1582
+02:06:39,159 --> 02:06:40,994
+Make yourself comfortable, my dear.
+
+1583
+02:06:41,027 --> 02:06:43,664
+Try to relax.
+
+1584
+02:06:43,697 --> 02:06:45,699
+(Kurt)
+We have several hours to go, yet.
+
+1585
+02:06:45,732 --> 02:06:47,233
+Unless I am provoked.
+
+1586
+02:06:47,267 --> 02:06:48,669
+Oh, of course.
+
+1587
+02:06:55,108 --> 02:06:57,110
+But why are we going to her house?
+
+1588
+02:06:57,143 --> 02:06:59,680
+Because if she's a spy,
+there is a very good chance
+
+1589
+02:06:59,713 --> 02:07:02,649
+that the butler and the maid
+are in league with her.
+
+1590
+02:07:02,683 --> 02:07:04,184
+But why are we taking this road?
+
+1591
+02:07:04,217 --> 02:07:05,752
+Don't be an idiot.
+
+1592
+02:07:05,786 --> 02:07:07,420
+We must take them by surprise,
+
+1593
+02:07:07,453 --> 02:07:09,289
+so we must enter by the back way.
+
+1594
+02:07:12,726 --> 02:07:13,860
+[Glass shatters]
+
+1595
+02:07:17,731 --> 02:07:19,065
+Hello?
+
+1596
+02:07:21,835 --> 02:07:23,369
+Anybody here?
+
+1597
+02:07:26,172 --> 02:07:28,108
+[Humming]
+
+1598
+02:07:29,042 --> 02:07:31,344
+- Hello?
+- Hello?
+
+1599
+02:07:35,148 --> 02:07:36,282
+Hey!
+
+1600
+02:07:40,386 --> 02:07:42,188
+[Cries out]
+
+1601
+02:07:47,160 --> 02:07:48,862
+[Coughing]
+
+1602
+02:07:52,933 --> 02:07:56,069
+I can't take you anyplace.
+
+1603
+02:07:56,102 --> 02:07:58,204
+He forced me to order
+Von Richthofen's squadron
+
+1604
+02:07:58,238 --> 02:07:59,706
+to attack the train at dawn
+
+1605
+02:07:59,740 --> 02:08:01,274
+before it reaches the Swiss border.
+
+1606
+02:08:01,307 --> 02:08:03,076
+Then he wrecked the transmitter.
+
+1607
+02:08:16,256 --> 02:08:17,891
+[Speaking German]
+
+1608
+02:09:30,296 --> 02:09:32,165
+[Train whistle blowing]
+
+1609
+02:10:06,967 --> 02:10:08,101
+Look.
+
+1610
+02:10:08,134 --> 02:10:09,836
+[Gun firing]
+
+1611
+02:10:19,512 --> 02:10:21,414
+[Train brakes squealing]
+
+1612
+02:10:43,603 --> 02:10:45,271
+[People screaming]
+
+1613
+02:11:34,220 --> 02:11:36,189
+[Guns firing]
+
+1614
+02:12:51,531 --> 02:12:53,233
+[♪♪♪]
+
+1615
+02:13:42,615 --> 02:13:44,217
+[People cheering]
+
+1616
+02:14:47,880 --> 02:14:50,716
+♪ (Lili)
+Often I think ♪
+
+1617
+02:14:50,750 --> 02:14:54,454
+♪ This sad old world ♪
+
+1618
+02:14:54,487 --> 02:14:59,359
+♪ Is whistling in the dark ♪
+
+1619
+02:15:02,162 --> 02:15:04,764
+♪ Just like a child ♪
+
+1620
+02:15:04,797 --> 02:15:08,534
+♪ Who, late from school ♪
+
+1621
+02:15:08,568 --> 02:15:11,371
+♪ Walks bravely home ♪
+
+1622
+02:15:11,404 --> 02:15:15,708
+♪ Through the park ♪
+
+1623
+02:15:15,741 --> 02:15:20,613
+♪ To keep their spirits soaring ♪
+
+1624
+02:15:22,715 --> 02:15:26,619
+♪ And keep the night at bay ♪
+
+1625
+02:15:29,422 --> 02:15:32,558
+♪ Neither quite knowing ♪
+
+1626
+02:15:32,592 --> 02:15:36,396
+♪ Which way they are going ♪
+
+1627
+02:15:36,429 --> 02:15:41,334
+♪ They sing the shadows away ♪
+
+1628
+02:15:45,838 --> 02:15:49,342
+♪ Often I think ♪
+
+1629
+02:15:49,375 --> 02:15:53,413
+♪ My poor old heart ♪
+
+1630
+02:15:53,446 --> 02:15:56,716
+♪ Has given up ♪
+
+1631
+02:15:56,749 --> 02:16:00,820
+♪ For good ♪
+
+1632
+02:16:00,853 --> 02:16:03,723
+♪ And then I see ♪
+
+1633
+02:16:03,756 --> 02:16:07,627
+♪ A brand new face ♪
+
+1634
+02:16:07,660 --> 02:16:11,931
+♪ I glimpse some new neighborhood ♪
+
+1635
+02:16:14,600 --> 02:16:18,338
+♪ So walk me back home ♪
+
+1636
+02:16:18,371 --> 02:16:22,442
+♪ My darling ♪
+
+1637
+02:16:22,475 --> 02:16:27,413
+♪ Tell me dreams really come true ♪
+
+1638
+02:16:31,484 --> 02:16:33,886
+♪ Whistling ♪
+
+1639
+02:16:36,356 --> 02:16:38,824
+♪ Whistling ♪
+
+1640
+02:16:41,527 --> 02:16:46,866
+♪ Here in the dark ♪
+
+1641
+02:16:46,899 --> 02:16:51,571
+♪ With you ♪
+
+1642
+02:17:21,066 --> 02:17:25,805
+♪ So walk me back home ♪
+
+1643
+02:17:25,838 --> 02:17:30,310
+♪ My darling ♪
+
+1644
+02:17:30,343 --> 02:17:35,247
+♪ Tell me dreams really come true ♪
+
+1645
+02:17:39,585 --> 02:17:43,356
+♪ Whistling ♪
+
+1646
+02:17:44,557 --> 02:17:47,893
+♪ Whistling ♪
+
+1647
+02:17:50,062 --> 02:17:54,967
+♪ Here in the dark ♪
+
+1648
+02:17:57,437 --> 02:18:00,973
+♪ With you ♪
+
+1649
+02:18:09,715 --> 02:18:11,517
+[audience applauding]
+
+1650
+02:18:16,589 --> 02:18:18,591
+[All cheering]
+
+1651
+02:18:28,901 --> 02:18:32,972
+All:
+♪ It's a long way to Tipperary ♪
+
+1652
+02:18:33,005 --> 02:18:37,843
+♪ It's a long way to go ♪
+
+1653
+02:18:37,877 --> 02:18:42,582
+♪ It's a long way to Tipperary ♪
+
+1654
+02:18:42,615 --> 02:18:47,653
+♪ To the sweetest girl I know ♪
+
+1655
+02:18:47,687 --> 02:18:52,358
+♪ Goodbye, Piccadilly ♪
+
+1656
+02:18:52,392 --> 02:18:56,396
+♪ Farewell, Leicester Square ♪
+
+1657
+02:18:56,429 --> 02:19:00,900
+♪ It's a long, long way to Tipperary ♪
+
+1658
+02:19:00,933 --> 02:19:05,471
+♪ But my heart's right there ♪
+
+1659
+02:19:05,505 --> 02:19:10,075
+♪ It's a long way to Tipperary ♪
+
+1660
+02:19:10,109 --> 02:19:14,614
+♪ It's a long way to go ♪
+
+1661
+02:19:14,647 --> 02:19:19,419
+♪ It's a long to Tipperary
+
+1662
+02:19:19,452 --> 02:19:24,490
+♪ To the sweetest girl I know ♪
+
+1663
+02:19:24,524 --> 02:19:28,894
+♪ Goodbye, Piccadilly ♪
+
+1664
+02:19:28,928 --> 02:19:32,965
+♪ Farewell, Leicester Square ♪
+
+1665
+02:19:32,998 --> 02:19:37,737
+♪ It's a long, long way to Tipperary ♪
+
+1666
+02:19:37,770 --> 02:19:42,908
+♪ But my heart's right there ♪
+
+1667
+02:19:42,942 --> 02:19:44,577
+[People cheering]
+
+1668
+02:20:14,239 --> 02:20:17,643
+♪ Darling Lili ♪
+
+1669
+02:20:17,677 --> 02:20:21,714
+♪ Put a light in the window ♪
+
+1670
+02:20:21,747 --> 02:20:25,050
+♪ And keep wearing ♪
+
+1671
+02:20:25,084 --> 02:20:29,589
+♪ That bonnie smile ♪
+
+1672
+02:20:29,622 --> 02:20:34,927
+♪ On those cold railway benches ♪
+
+1673
+02:20:34,960 --> 02:20:37,162
+♪ Or in the trenches ♪
+
+1674
+02:20:37,196 --> 02:20:39,665
+♪ Warm up our hearts ♪
+
+1675
+02:20:39,699 --> 02:20:43,969
+♪ Awhile ♪
+
+1676
+02:20:44,003 --> 02:20:46,839
+♪ Darling Lili ♪
+
+1677
+02:20:46,872 --> 02:20:50,710
+♪ Blow a kiss to us, dearie ♪
+
+1678
+02:20:50,743 --> 02:20:53,646
+♪ As we travel ♪
+
+1679
+02:20:53,679 --> 02:20:58,117
+♪ Each weary mile ♪
+
+1680
+02:20:58,150 --> 02:21:01,654
+♪ Not for mother ♪
+
+1681
+02:21:01,687 --> 02:21:05,257
+♪ Or each other ♪
+
+1682
+02:21:05,290 --> 02:21:08,060
+♪ Are we off to ♪
+
+1683
+02:21:08,093 --> 02:21:12,798
+♪ End this war ♪
+
+1684
+02:21:12,832 --> 02:21:15,735
+♪ You're the darling ♪
+
+1685
+02:21:15,768 --> 02:21:19,905
+♪ We'll be winning ♪
+
+1686
+02:21:19,939 --> 02:21:22,808
+♪ It for ♪
+
+1687
+02:21:35,888 --> 02:21:42,662
+♪ Smile away each rainy day ♪
+
+1688
+02:21:42,695 --> 02:21:49,702
+♪ And laugh away your blues ♪
+
+1689
+02:21:49,735 --> 02:21:53,773
+♪ Be like old Mr. Noah ♪
+
+1690
+02:21:53,806 --> 02:21:56,976
+♪ When it starts to pour ♪
+
+1691
+02:21:57,009 --> 02:22:01,747
+♪ Make fun of trouble ♪
+
+1692
+02:22:01,781 --> 02:22:05,084
+♪ Although you're seein' double ♪
+
+1693
+02:22:05,117 --> 02:22:11,757
+♪ Keep in mind they're silver-lined ♪
+
+1694
+02:22:11,791 --> 02:22:18,964
+♪ Those gloomy clouds of gray ♪
+
+1695
+02:22:18,998 --> 02:22:22,702
+♪ Let love light the sky up ♪
+
+1696
+02:22:22,735 --> 02:22:26,772
+♪ Tell the clouds to dry up ♪
+
+1697
+02:22:26,806 --> 02:22:34,714
+♪ And smile away each rainy day ♪
+

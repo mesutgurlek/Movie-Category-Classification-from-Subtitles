@@ -1,0 +1,6542 @@
+1
+00:01:55,961 --> 00:02:02,696
+MEN [SINGING] :
+<i>Rolling home, across the bounding blue</i>
+
+2
+00:02:02,868 --> 00:02:05,894
+<i>So, boys, give her class</i>
+<i>And start rubbin' the brass</i>
+
+3
+00:02:06,071 --> 00:02:09,666
+<i>We're roll, rollin' home</i>
+
+4
+00:02:09,842 --> 00:02:16,509
+<i>Rolling home, come on, you lazy crew</i>
+
+5
+00:02:16,682 --> 00:02:19,651
+<i>Our whole course is set</i>
+<i>To race over the wet</i>
+
+6
+00:02:19,818 --> 00:02:23,310
+<i>We're roll, rollin' home</i>
+
+7
+00:02:23,489 --> 00:02:26,856
+<i>Oh, can't you see</i>
+<i>The light in your mother's eye</i>
+
+8
+00:02:27,026 --> 00:02:30,484
+<i>When that son of a gun, her roving son</i>
+<i>Attacks a piece of pie?</i>
+
+9
+00:02:30,663 --> 00:02:33,996
+<i>And can't you taste</i>
+<i>The lips of a certain miss</i>
+
+10
+00:02:34,166 --> 00:02:37,727
+<i>When her pride and her joy, her sailor boy</i>
+<i>Smacks her with a kiss?</i>
+
+11
+00:02:37,903 --> 00:02:41,270
+<i>And can't you hear</i>
+<i>Them cheering on the pier?</i>
+
+12
+00:02:41,440 --> 00:02:44,637
+<i>So quick, gobs, get on your jobs</i>
+<i>And tell the engineer</i>
+
+13
+00:02:44,810 --> 00:02:48,541
+<i>We're rolling home</i>
+
+14
+00:02:48,714 --> 00:02:52,013
+<i>Our chores are nearly through</i>
+
+15
+00:02:52,184 --> 00:02:55,312
+<i>So step lively, pals</i>
+<i>You'll soon be with the gals</i>
+
+16
+00:02:55,487 --> 00:02:58,581
+<i>We're roll, rollin' home</i>
+
+17
+00:02:58,757 --> 00:03:02,887
+<i>Just think of it, no more hardtack</i>
+<i>No more beans</i>
+
+18
+00:03:03,062 --> 00:03:06,361
+<i>No more salt horse</i>
+<i>And canned sardines</i>
+
+19
+00:03:06,532 --> 00:03:09,729
+<i>We've sailed all the seven seas</i>
+<i>We've crossed every pond</i>
+
+20
+00:03:09,902 --> 00:03:13,633
+<i>Oh, from now on, it's duck soup</i>
+<i>And a pure platinum blond</i>
+
+21
+00:03:13,806 --> 00:03:17,469
+<i>So no more labor, no more toil</i>
+
+22
+00:03:17,643 --> 00:03:21,079
+<i>No more Mother Sills</i>
+<i>And no more castor oil</i>
+
+23
+00:03:21,246 --> 00:03:24,875
+<i>No more spending the night aboard</i>
+
+24
+00:03:25,050 --> 00:03:27,848
+<i>Instead of ashore</i>
+
+25
+00:03:28,487 --> 00:03:30,921
+<i>Will we ever do it again?</i>
+
+26
+00:03:31,090 --> 00:03:33,991
+<i>Quoth the raven:</i>
+
+27
+00:03:34,159 --> 00:03:39,825
+<i>"Nevermore"</i>
+
+28
+00:03:51,276 --> 00:03:53,574
+<i>I still could swear</i>
+<i>When I think of the fair</i>
+
+29
+00:03:53,746 --> 00:03:55,976
+<i>Venetian maid I met</i>
+
+30
+00:03:56,148 --> 00:03:58,616
+<i>'Neath stars above</i>
+<i>She taught me to love</i>
+
+31
+00:03:58,784 --> 00:04:00,945
+<i>At least to love spaghet'</i>
+
+32
+00:04:01,120 --> 00:04:04,920
+<i>But when I tried</i>
+<i>To return to her side</i>
+
+33
+00:04:05,090 --> 00:04:07,354
+<i>And visit her on the Lido</i>
+
+34
+00:04:07,526 --> 00:04:11,053
+<i>The chief said no</i>
+<i>And sent me below</i>
+
+35
+00:04:11,230 --> 00:04:13,357
+<i>To polish his pet torpedo</i>
+
+36
+00:04:13,532 --> 00:04:15,864
+<i>It's the worst of breaks</i>
+<i>When the captain makes</i>
+
+37
+00:04:16,034 --> 00:04:19,026
+<i>You polish his pet torpedo</i>
+
+38
+00:04:21,440 --> 00:04:23,874
+<i>I hate romance</i>
+<i>When I think of the chance</i>
+
+39
+00:04:24,042 --> 00:04:26,567
+<i>I missed at Honolula</i>
+
+40
+00:04:26,745 --> 00:04:29,077
+<i>I scanned the beach</i>
+<i>And there was a peach</i>
+
+41
+00:04:29,248 --> 00:04:31,648
+<i>Enjoying a hula-hula</i>
+
+42
+00:04:31,817 --> 00:04:34,251
+<i>I could plainly see</i>
+<i>She was flirting with me</i>
+
+43
+00:04:34,419 --> 00:04:36,853
+<i>And my heart was filled with hope</i>
+
+44
+00:04:37,022 --> 00:04:39,490
+<i>But how can I show</i>
+<i>I'm a Romeo</i>
+
+45
+00:04:39,658 --> 00:04:41,751
+<i>Through a rusty periscope?</i>
+
+46
+00:04:41,927 --> 00:04:44,395
+<i>Nope, you can't even register hope</i>
+
+47
+00:04:44,563 --> 00:04:47,828
+<i>Through a rusty, dusty periscope</i>
+
+48
+00:05:02,548 --> 00:05:04,607
+We're home, boys, we're home.
+
+49
+00:05:05,651 --> 00:05:07,551
+-Surface.
+-Surface.
+
+50
+00:05:07,719 --> 00:05:09,311
+BIow main baIIast.
+
+51
+00:05:09,488 --> 00:05:11,217
+[HORN BLOWING]
+
+52
+00:05:30,008 --> 00:05:36,675
+ALL [SINGING] : <i>Rolling home</i>
+<i>Our chores are nearly through</i>
+
+53
+00:05:36,849 --> 00:05:39,841
+<i>So step lively, pals</i>
+<i>You'll soon be with the gals</i>
+
+54
+00:05:40,018 --> 00:05:42,452
+<i>We're roll, rollin' home</i>
+
+55
+00:05:42,621 --> 00:05:46,557
+<i>We're rolling home</i>
+
+56
+00:05:46,725 --> 00:05:54,723
+<i>Sweet home!</i>
+
+57
+00:05:55,767 --> 00:05:57,496
+-Gunny Saks.
+-Not granted.
+
+58
+00:05:57,669 --> 00:06:00,137
+Oh, but I gotta get ashore,
+I wanna see my wife.
+
+59
+00:06:00,305 --> 00:06:02,466
+-Your wife?
+-I haven't seen her for four years.
+
+60
+00:06:02,641 --> 00:06:04,734
+-Who'd marry you?
+-A minister.
+
+61
+00:06:04,910 --> 00:06:06,571
+-Next.
+-Mush Tracy.
+
+62
+00:06:06,745 --> 00:06:08,736
+-Not granted.
+-But I gotta go ashore.
+
+63
+00:06:08,914 --> 00:06:10,677
+I wanna go rowing in CentraI Park.
+
+64
+00:06:10,849 --> 00:06:12,680
+Move on, move on. Next.
+
+65
+00:06:12,851 --> 00:06:14,284
+-Frank HaIiday.
+-Okay.
+
+66
+00:06:14,453 --> 00:06:16,785
+-RaIph Leon.
+-Okay.
+
+67
+00:06:18,190 --> 00:06:20,021
+WeII, it's a tough break for you guys.
+
+68
+00:06:20,192 --> 00:06:22,456
+I was sort of hoping
+you'd get ashore with me.
+
+69
+00:06:22,628 --> 00:06:25,791
+I wouIdn't join the Navy again
+if they made me a generaI.
+
+70
+00:06:25,964 --> 00:06:29,627
+-You never see a generaI in the Navy.
+-No, that's because they're smart.
+
+71
+00:06:29,801 --> 00:06:32,065
+What'd you join the Navy for
+in the first pIace?
+
+72
+00:06:32,237 --> 00:06:35,570
+Account of a woman, my wife.
+Two days after we were married...
+
+73
+00:06:35,741 --> 00:06:38,801
+...she toId me I wasn't a man of the worId
+so I joined the Navy.
+
+74
+00:06:38,977 --> 00:06:42,105
+-WeII, do you think she'II recognize you?
+-Gee, I hope so.
+
+75
+00:06:42,281 --> 00:06:45,739
+I haven't changed much. Except that
+I've stopped biting my fingernaiIs.
+
+76
+00:06:45,918 --> 00:06:47,749
+She doesn't know
+you're coming home.
+
+77
+00:06:47,920 --> 00:06:49,785
+I know that. I'm gonna surprise her.
+
+78
+00:06:49,955 --> 00:06:52,947
+You know what I'm gonna do?
+I'm gonna rush up to her and say:
+
+79
+00:06:53,125 --> 00:06:56,322
+''Jenny, your man is home.''
+
+80
+00:06:56,495 --> 00:06:59,293
+Boy, I've waited four Iong years for this.
+
+81
+00:06:59,464 --> 00:07:02,558
+-Yeah, what's your wife been doing?
+-She's been waiting too.
+
+82
+00:07:02,734 --> 00:07:04,361
+-You hope.
+-You hope.
+
+83
+00:07:04,536 --> 00:07:08,438
+Saks, Tracy,
+report to the captain at once.
+
+84
+00:07:15,814 --> 00:07:19,682
+-Saks, I want--
+-Captain, I'm Saks. This is Tracy.
+
+85
+00:07:19,851 --> 00:07:22,012
+Mr. Tracy, shake hands
+with Captain Dingby.
+
+86
+00:07:22,187 --> 00:07:23,677
+How do you do, Mr. Tracy?
+
+87
+00:07:23,855 --> 00:07:26,323
+I'm gIad to meet you, captain.
+I've seen you around.
+
+88
+00:07:27,259 --> 00:07:32,720
+I-- I'm Iooking for two saiIors
+who know where the BrookIyn Navy Yard is.
+
+89
+00:07:32,898 --> 00:07:35,890
+-It must be in BrookIyn.
+-If it's in BrookIyn, we'II find it.
+
+90
+00:07:36,068 --> 00:07:40,334
+Good. That's the spirit.
+Now, men, this message is very important.
+
+91
+00:07:40,505 --> 00:07:43,736
+I want it deIivered immediateIy
+to the BrookIyn Navy Yard...
+
+92
+00:07:43,909 --> 00:07:46,343
+...in care of Rear AdmiraI Stubbins.
+
+93
+00:07:46,511 --> 00:07:48,138
+Aye, aye, sir.
+
+94
+00:07:49,014 --> 00:07:51,346
+WeII, where'II we find the rear admiraI?
+
+95
+00:07:51,550 --> 00:07:52,778
+In the front office.
+
+96
+00:08:17,876 --> 00:08:20,003
+[PEOPLE CHATTERING]
+
+97
+00:08:37,062 --> 00:08:38,188
+[BELL RINGS]
+
+98
+00:08:38,397 --> 00:08:40,695
+Your name, pIease?
+
+99
+00:08:43,468 --> 00:08:45,732
+-What's the name?
+-Who? Mine?
+
+100
+00:08:47,072 --> 00:08:49,802
+WeII, there's onIy two of us here
+and I know mine.
+
+101
+00:08:49,975 --> 00:08:52,569
+Oh, it's Nora. Nora Paige.
+
+102
+00:08:52,744 --> 00:08:54,302
+JENNY:
+Paige.
+
+103
+00:08:54,479 --> 00:08:57,107
+Paige. No, nothing today.
+
+104
+00:08:57,282 --> 00:09:00,581
+WeII, there couIdn't be.
+I wasn't expecting any maiI.
+
+105
+00:09:00,752 --> 00:09:02,617
+Oh, a practicaI joker, huh?
+
+106
+00:09:03,488 --> 00:09:04,887
+Oh.
+
+107
+00:09:06,558 --> 00:09:08,116
+I'm sorry I bothered you.
+
+108
+00:09:10,796 --> 00:09:12,661
+JENNY:
+Hey, wait a minute.
+
+109
+00:09:13,365 --> 00:09:16,596
+What's your hurry?
+Now, don't go away mad.
+
+110
+00:09:17,069 --> 00:09:18,263
+Oh, I'm not mad.
+
+111
+00:09:18,437 --> 00:09:20,200
+Come on, sit down.
+
+112
+00:09:20,372 --> 00:09:21,839
+Thanks.
+
+113
+00:09:23,975 --> 00:09:25,636
+You been in New York Iong?
+
+114
+00:09:25,811 --> 00:09:27,073
+About a week.
+
+115
+00:09:27,245 --> 00:09:31,614
+-Working?
+-No, I'm finding it difficuIt to get work.
+
+116
+00:09:31,783 --> 00:09:33,011
+My kind of work.
+
+117
+00:09:33,418 --> 00:09:36,319
+WeII, just what kind of work
+is your work?
+
+118
+00:09:36,488 --> 00:09:38,217
+I'm a dancer.
+
+119
+00:09:38,390 --> 00:09:41,621
+-You don't use a fan?
+-No.
+
+120
+00:09:41,793 --> 00:09:42,953
+Where you from?
+
+121
+00:09:43,128 --> 00:09:46,996
+I came from a IittIe town in New Hampshire,
+to get on the <i>Amateur Radio Hour</i>.
+
+122
+00:09:47,165 --> 00:09:49,190
+Is that so? WeII, what happened?
+
+123
+00:09:49,367 --> 00:09:52,859
+WeII, I started to sing my song and--
+
+124
+00:09:53,038 --> 00:09:54,369
+You got the gong?
+
+125
+00:09:56,174 --> 00:09:59,405
+-That's right.
+-Oh, weII, don't Iet that bother you, honey.
+
+126
+00:09:59,578 --> 00:10:03,981
+The way some of those guys hit a gong,
+you'd think they were driving an ambuIance.
+
+127
+00:10:04,216 --> 00:10:06,411
+Gee, I wish I couId get something.
+
+128
+00:10:06,585 --> 00:10:08,951
+No sign of a job yet, huh?
+
+129
+00:10:09,121 --> 00:10:11,453
+And it Iooks Iike I'II never get one.
+
+130
+00:10:11,623 --> 00:10:13,591
+And I hate to go back home.
+
+131
+00:10:14,192 --> 00:10:17,855
+WeII, say, you can stay here with me
+untiI you Iand something.
+
+132
+00:10:18,230 --> 00:10:21,324
+Can I? Oh, gee, you're sweII.
+
+133
+00:10:21,500 --> 00:10:24,333
+You know, I didn't Iike you at first.
+
+134
+00:10:24,503 --> 00:10:27,836
+Oh, weII, I'm Iike oIives,
+you gotta Iearn to Iike me.
+
+135
+00:10:30,175 --> 00:10:33,702
+Say, are you bashfuI about getting up
+in front of a Iot of peopIe...
+
+136
+00:10:33,879 --> 00:10:35,870
+...and doing your stuff?
+
+137
+00:10:36,381 --> 00:10:37,939
+-WeII, I--
+-Come on.
+
+138
+00:10:40,051 --> 00:10:43,680
+Listen, boys and girIs,
+got a IittIe surprise for you tonight.
+
+139
+00:10:43,855 --> 00:10:47,621
+I want you to meet Miss Nora Paige,
+who's gonna sing and dance for you.
+
+140
+00:10:47,792 --> 00:10:50,226
+And someday when she's a big star...
+
+141
+00:10:50,395 --> 00:10:54,559
+...you'II aII be proud that you saw her
+make her first New York appearance.
+
+142
+00:10:54,733 --> 00:10:56,428
+Okay, toots, you're on your own.
+
+143
+00:10:57,435 --> 00:11:00,768
+[SINGING] <i>If you want to ring the bell</i>
+<i>Not once but twice</i>
+
+144
+00:11:02,140 --> 00:11:05,473
+<i>If you want to roll and roll</i>
+<i>Those lucky dice</i>
+
+145
+00:11:06,845 --> 00:11:08,779
+<i>If you want to spend</i>
+<i>Your journey's end</i>
+
+146
+00:11:08,947 --> 00:11:11,415
+<i>With sweet music and love</i>
+
+147
+00:11:11,583 --> 00:11:15,212
+<i>If you want to lick this world</i>
+<i>Of men and Mickey Mice</i>
+
+148
+00:11:15,387 --> 00:11:17,378
+<i>Take my advice</i>
+
+149
+00:11:18,990 --> 00:11:22,391
+<i>When you sit down one day</i>
+<i>Look over yourself and say:</i>
+
+150
+00:11:22,561 --> 00:11:24,222
+<i>" You're very good"</i>
+
+151
+00:11:24,396 --> 00:11:25,829
+[TAPPING]
+
+152
+00:11:25,997 --> 00:11:27,658
+<i>Rap tap on wood</i>
+
+153
+00:11:28,433 --> 00:11:31,869
+<i>When you have such success</i>
+<i>You're conscious that you impress</i>
+
+154
+00:11:32,037 --> 00:11:33,698
+<i>The neighborhood</i>
+
+155
+00:11:35,440 --> 00:11:37,101
+<i>Rap tap on wood</i>
+
+156
+00:11:37,776 --> 00:11:41,769
+<i>When every meal you take</i>
+<i>Is made of milk and honey</i>
+
+157
+00:11:42,714 --> 00:11:46,707
+<i>When every stock you stake</i>
+<i>Is making mints of money</i>
+
+158
+00:11:47,519 --> 00:11:51,512
+<i>When every heart you break</i>
+<i>Is such a cinch it's funny</i>
+
+159
+00:11:51,957 --> 00:11:53,948
+<i>Careful, sonny</i>
+
+160
+00:11:54,726 --> 00:11:59,425
+<i>Rap tap, rap tap, rap tap-tap</i>
+<i>Rap a-tap-tap</i>
+
+161
+00:11:59,598 --> 00:12:03,159
+<i>You're knockout, you're good news</i>
+<i>And you'll never, never lose</i>
+
+162
+00:12:03,335 --> 00:12:05,326
+<i>If you just put on your dancing shoes</i>
+
+163
+00:12:05,503 --> 00:12:06,663
+<i>And rap tap on wood</i>
+
+164
+00:12:52,584 --> 00:12:54,108
+<i>Rap tap on wood</i>
+
+165
+00:12:54,286 --> 00:12:57,483
+<i>When you sit down one day</i>
+<i>Look over yourself and say:</i>
+
+166
+00:12:57,656 --> 00:12:59,317
+<i>" You're very good"</i>
+
+167
+00:12:59,491 --> 00:13:01,584
+<i>Bum, bum, bum, bum, bum</i>
+<i>Babubum, Babubum</i>
+
+168
+00:13:01,760 --> 00:13:03,421
+<i>Tap on wood</i>
+
+169
+00:13:05,430 --> 00:13:07,091
+<i>Rap tap on wood</i>
+
+170
+00:13:07,632 --> 00:13:10,795
+<i>When you have such success</i>
+<i>You're conscious that you impress</i>
+
+171
+00:13:10,969 --> 00:13:12,630
+<i>The neighborhood</i>
+
+172
+00:13:12,804 --> 00:13:14,897
+<i>Bum, bum, oh</i>
+
+173
+00:13:15,073 --> 00:13:16,734
+<i>Tap on wood</i>
+
+174
+00:13:19,477 --> 00:13:21,138
+<i>Rap tap on wood</i>
+
+175
+00:13:21,680 --> 00:13:25,673
+<i>When every meal you take</i>
+<i>Is made of milk and honey</i>
+
+176
+00:13:26,117 --> 00:13:30,110
+<i>When every stock you stake</i>
+<i>Is making mints of money</i>
+
+177
+00:13:30,522 --> 00:13:34,515
+<i>When every heart you break</i>
+<i>Is such a cinch it's funny</i>
+
+178
+00:13:34,759 --> 00:13:36,420
+<i>Careful, sonny</i>
+
+179
+00:13:46,104 --> 00:13:49,096
+<i>You're knockout, you're good news</i>
+<i>And you never, never lose</i>
+
+180
+00:13:49,274 --> 00:13:51,538
+<i>If you just put on your dancing shoes</i>
+
+181
+00:13:51,710 --> 00:13:54,702
+<i>And rap tap, rap-tap-tap on wood</i>
+
+182
+00:14:03,922 --> 00:14:06,447
+[TAPPING]
+
+183
+00:14:25,810 --> 00:14:29,246
+Say, whoever gave you the gong
+ought to be hit over the head with it.
+
+184
+00:14:29,414 --> 00:14:32,383
+-Did you reaIIy Iike it?
+-Like it? I think you're great.
+
+185
+00:14:32,550 --> 00:14:34,245
+Oh, thanks.
+
+186
+00:14:34,419 --> 00:14:36,887
+-Come on inside, huh?
+-AII right.
+
+187
+00:14:38,356 --> 00:14:39,755
+Come on in.
+
+188
+00:14:39,924 --> 00:14:42,415
+-Sit down.
+-AII right.
+
+189
+00:14:44,629 --> 00:14:48,190
+You know, I came from
+a smaII town myseIf, same as you.
+
+190
+00:14:48,366 --> 00:14:49,526
+Were you a dancer?
+
+191
+00:14:49,701 --> 00:14:52,465
+Yeah, a marathon dancer.
+
+192
+00:14:52,637 --> 00:14:55,333
+-That's where I met my husband.
+-Oh, are you married?
+
+193
+00:14:55,507 --> 00:14:58,533
+Yes, we were partners
+in a marathon dance.
+
+194
+00:14:58,710 --> 00:15:02,703
+About the 28th day, business dropped off,
+so the management offered a cash prize...
+
+195
+00:15:02,881 --> 00:15:05,543
+...to the coupIe that'd get married
+during the contest.
+
+196
+00:15:05,717 --> 00:15:09,153
+WeII, gee, dancing with the same guy
+for 672 hours...
+
+197
+00:15:09,320 --> 00:15:12,881
+...naturaIIy, I thought I was in Iove.
+But I was just tired.
+
+198
+00:15:13,525 --> 00:15:16,460
+Two days after we were married,
+he came home in a saiIor suit.
+
+199
+00:15:16,628 --> 00:15:19,062
+-A saiIor suit?
+-Yeah, he joined the Navy.
+
+200
+00:15:19,230 --> 00:15:22,791
+That was four years ago
+and I haven't seen him since, the rat.
+
+201
+00:15:24,202 --> 00:15:25,464
+Mommy.
+
+202
+00:15:25,904 --> 00:15:28,896
+-Mommy.
+-Excuse me a minute.
+
+203
+00:15:30,175 --> 00:15:36,808
+Oh, what are you doing out of that bed?
+Come on, back you go. There.
+
+204
+00:15:41,786 --> 00:15:43,481
+This is my IittIe girI.
+
+205
+00:15:43,655 --> 00:15:45,316
+Your daughter?
+
+206
+00:15:45,490 --> 00:15:47,890
+First prize of the marathon dance.
+
+207
+00:15:48,059 --> 00:15:49,686
+Oh, she's IoveIy.
+
+208
+00:15:49,861 --> 00:15:51,920
+I'II bet your daddy's proud of you.
+
+209
+00:15:52,096 --> 00:15:54,724
+I've never seen my daddy.
+
+210
+00:15:56,401 --> 00:15:58,426
+He-- He doesn't know about SaIIy.
+
+211
+00:15:59,037 --> 00:16:01,198
+-You mean you've never toId him?
+JENNY: No.
+
+212
+00:16:01,372 --> 00:16:02,532
+WeII, why not?
+
+213
+00:16:02,707 --> 00:16:05,938
+Because someday
+we're going to surprise him.
+
+214
+00:16:06,311 --> 00:16:08,302
+You see, she knows everything.
+
+215
+00:16:13,751 --> 00:16:15,844
+-Hey, ain't you guys coming in?
+-What for?
+
+216
+00:16:16,020 --> 00:16:17,248
+I'm gonna see my wife.
+
+217
+00:16:17,422 --> 00:16:20,118
+-Does she Iive here?
+-No, no, she works here.
+
+218
+00:16:20,291 --> 00:16:24,193
+You've been away for four years.
+Don't you want a coupIe of minutes aIone?
+
+219
+00:16:24,362 --> 00:16:26,796
+That's aII right, Ted.
+But I want you to meet her.
+
+220
+00:16:26,965 --> 00:16:28,091
+Okay. Come on, Mush.
+
+221
+00:16:28,266 --> 00:16:30,757
+I gotta deIiver this message
+to Rear AdmiraI Stubbins.
+
+222
+00:16:30,935 --> 00:16:33,199
+Oh, that's right.
+Yeah, and you better do that too.
+
+223
+00:16:33,371 --> 00:16:36,397
+No, come on, meet the wife first,
+wiII you? Come on.
+
+224
+00:16:36,574 --> 00:16:37,905
+Okay.
+
+225
+00:16:39,110 --> 00:16:40,600
+[BELL RINGING]
+
+226
+00:16:42,680 --> 00:16:44,307
+-HeIIo.
+MEN: HeIIo.
+
+227
+00:16:44,482 --> 00:16:48,213
+Say, my name is Gunny Saks.
+I'd Iike to see my wife.
+
+228
+00:16:48,386 --> 00:16:51,480
+-WeII, I'II teII her you're here.
+-Thanks.
+
+229
+00:16:54,926 --> 00:16:56,860
+Oh, Jenny, you're wanted at the desk.
+
+230
+00:16:57,028 --> 00:16:59,622
+-Who wants me?
+-Gunny Saks.
+
+231
+00:16:59,797 --> 00:17:01,458
+Gunny?
+
+232
+00:17:01,633 --> 00:17:03,897
+-Are you sure?
+-Yeah, he's with two other saiIors.
+
+233
+00:17:04,068 --> 00:17:07,367
+Oh, excuse me a moment.
+
+234
+00:17:09,507 --> 00:17:10,496
+Gunny.
+
+235
+00:17:10,675 --> 00:17:13,143
+[JENNY SHRIEKING]
+
+236
+00:17:13,311 --> 00:17:14,903
+DarIing.
+
+237
+00:17:16,047 --> 00:17:20,006
+Oh, am I gIad to see you.
+
+238
+00:17:20,818 --> 00:17:25,721
+Hey, hey, hey, wait a minute.
+Wait a minute. I'm Gunny Saks.
+
+239
+00:17:27,358 --> 00:17:29,553
+-You?
+-Yeah.
+
+240
+00:17:30,295 --> 00:17:32,593
+Yeah, yeah, that's him.
+
+241
+00:17:32,964 --> 00:17:33,953
+JENNY:
+Oh.
+
+242
+00:17:34,132 --> 00:17:36,123
+Oh, I couIdn't have been that tired.
+
+243
+00:17:36,301 --> 00:17:38,360
+Yeah, but Jenny,
+ain't you gIad to see me?
+
+244
+00:17:38,536 --> 00:17:41,004
+-I don't know yet.
+-But I'm your husband.
+
+245
+00:17:41,172 --> 00:17:43,333
+Yeah, weII, don't remind me of it.
+
+246
+00:18:03,194 --> 00:18:05,856
+Uh. Hey, bud, Iook...
+
+247
+00:18:06,197 --> 00:18:11,260
+...when a guy's IoneIy around here
+and he sees somebody he'd Iike to meet...
+
+248
+00:18:11,436 --> 00:18:15,236
+-...what's he do about it?
+-WeII, just waIk right up and say heIIo.
+
+249
+00:18:15,406 --> 00:18:18,933
+-Just waIk up and say heIIo, huh?
+-Yeah.
+
+250
+00:18:19,577 --> 00:18:21,738
+Okay, that's-- AII right.
+
+251
+00:18:34,258 --> 00:18:35,919
+HeIIo.
+
+252
+00:18:38,930 --> 00:18:40,591
+HeIIo.
+
+253
+00:18:40,999 --> 00:18:42,990
+HeIIo yourseIf.
+
+254
+00:18:44,602 --> 00:18:45,933
+What's this aII about?
+
+255
+00:18:46,371 --> 00:18:48,032
+WeII, uh....
+
+256
+00:18:48,806 --> 00:18:49,830
+Boy meets girI.
+
+257
+00:18:50,008 --> 00:18:53,205
+Oh, I see. WeII, boy Ioses girI.
+
+258
+00:18:53,911 --> 00:18:55,879
+WeII, boy gets girI.
+
+259
+00:18:56,047 --> 00:18:58,140
+Not so soon, saiIor.
+
+260
+00:18:58,316 --> 00:18:59,647
+Oh, now, wait a minute.
+
+261
+00:18:59,817 --> 00:19:02,149
+Hey, Iook, Iisten, Iisten.
+
+262
+00:19:03,221 --> 00:19:04,745
+You're not very patriotic.
+
+263
+00:19:04,922 --> 00:19:07,390
+But I am. I'm just not, um...
+
+264
+00:19:07,558 --> 00:19:09,219
+...uniform-crazy.
+
+265
+00:19:09,394 --> 00:19:11,885
+-Not even interested?
+-Oh, I Iove watching a parade.
+
+266
+00:19:12,063 --> 00:19:15,464
+Oh, I get it. But after the parade's over,
+you Iike to waIk home aIone?
+
+267
+00:19:15,633 --> 00:19:18,295
+Oh, not aIways,
+but I do have a good sense of direction.
+
+268
+00:19:18,469 --> 00:19:20,130
+Oh, is that so?
+
+269
+00:19:22,306 --> 00:19:26,299
+WeII, how about you finding us
+a pIace to sit down together, hm?
+
+270
+00:19:26,644 --> 00:19:28,305
+AII right.
+
+271
+00:19:28,980 --> 00:19:31,244
+But, Jenny,
+ain't you gonna kiss me or something?
+
+272
+00:19:31,416 --> 00:19:33,611
+I'II shake hands with you.
+
+273
+00:19:35,186 --> 00:19:36,949
+Is that aII I get after four years?
+
+274
+00:19:37,121 --> 00:19:39,783
+-What did you expect?
+-WeII, after aII I'm your husband.
+
+275
+00:19:39,957 --> 00:19:42,482
+Yeah, I don't know
+whether I Iike the idea of marriage.
+
+276
+00:19:42,660 --> 00:19:45,891
+You don't? Do you reaIize
+that marriage is a nationaI institution?
+
+277
+00:19:46,064 --> 00:19:48,259
+That 50 percent of the married peopIe
+are women?
+
+278
+00:19:48,433 --> 00:19:49,764
+Yeah, I'II think it over.
+
+279
+00:19:49,934 --> 00:19:52,402
+In the meantime, what do you say
+if we go home, huh, Jenny?
+
+280
+00:19:52,570 --> 00:19:55,004
+-Home?
+-Yeah, where we Iiving now, baby?
+
+281
+00:19:55,173 --> 00:19:59,405
+Uh, weII, you see, Gunny,
+aII I got is a singIe room.
+
+282
+00:19:59,577 --> 00:20:02,410
+That's aII right, I've been sIeeping
+in a hammock for years.
+
+283
+00:20:02,580 --> 00:20:04,980
+AII right, I'II send you one.
+
+284
+00:20:07,385 --> 00:20:09,444
+I'm getting out of the service
+in two weeks.
+
+285
+00:20:09,620 --> 00:20:12,145
+I was reading they're going to
+strengthen the Navy.
+
+286
+00:20:12,323 --> 00:20:14,655
+-Hey, do you Iike actors?
+-Better than saiIors.
+
+287
+00:20:14,826 --> 00:20:16,589
+-I'm gIad to hear you say that.
+-Why?
+
+288
+00:20:16,761 --> 00:20:17,921
+Because I'm an actor.
+
+289
+00:20:18,096 --> 00:20:19,586
+BIush when you say that, mister.
+
+290
+00:20:19,764 --> 00:20:23,165
+I don't have to. I got taIents.
+I've got an inventive mind.
+
+291
+00:20:23,334 --> 00:20:24,528
+Yeah, most saiIors have.
+
+292
+00:20:24,702 --> 00:20:26,431
+I'm inventing something right now.
+
+293
+00:20:26,604 --> 00:20:30,267
+When I get it working, I'm gonna seII it
+to the government for pIenty of dough.
+
+294
+00:20:30,441 --> 00:20:31,999
+What's that?
+
+295
+00:20:32,210 --> 00:20:34,508
+I'm crossing parrots with carrier pigeons.
+
+296
+00:20:34,679 --> 00:20:36,374
+-What for?
+-What for?
+
+297
+00:20:36,547 --> 00:20:39,175
+So you can send verbaI messages.
+
+298
+00:20:39,350 --> 00:20:43,252
+I don't know. Maybe you have the wrong
+impression about guys who wear uniforms.
+
+299
+00:20:43,421 --> 00:20:45,685
+WeII, it's improving.
+
+300
+00:20:45,857 --> 00:20:47,848
+Oh, thanks.
+
+301
+00:20:48,025 --> 00:20:50,289
+-But you know any soIdiers?
+-One.
+
+302
+00:20:50,828 --> 00:20:53,023
+-WeII, do you Iike him?
+-Yes.
+
+303
+00:20:54,031 --> 00:20:57,797
+-WeII, do you know any other saiIors?
+-Besides you? No.
+
+304
+00:20:59,170 --> 00:21:00,831
+WeII, do you Iike him?
+
+305
+00:21:02,006 --> 00:21:03,667
+Yes.
+
+306
+00:21:09,080 --> 00:21:11,947
+WeII, which do you Iike best,
+the soIdier or the saiIor?
+
+307
+00:21:12,116 --> 00:21:14,710
+Oh, I never make snap judgments.
+
+308
+00:21:15,419 --> 00:21:18,650
+TED:
+WeII, no, no, what I mean is--
+
+309
+00:21:20,291 --> 00:21:23,624
+When you go to the footbaII game,
+who do you root for, Army or Navy?
+
+310
+00:21:23,795 --> 00:21:24,853
+-The Army.
+-Why?
+
+311
+00:21:25,029 --> 00:21:27,190
+Because they aIways win.
+
+312
+00:21:27,431 --> 00:21:29,092
+They aIways win, huh?
+
+313
+00:21:29,267 --> 00:21:32,395
+WeII, wouId you Iike to be married
+to an Army man?
+
+314
+00:21:32,570 --> 00:21:34,060
+No.
+
+315
+00:21:34,238 --> 00:21:36,331
+-Think you couId be true to the Navy?
+-What?
+
+316
+00:21:36,507 --> 00:21:39,704
+WeII, weII, you know what I mean.
+
+317
+00:21:40,244 --> 00:21:43,611
+[SINGING]
+<i>I've been around such a lot in my time</i>
+
+318
+00:21:43,781 --> 00:21:46,944
+<i>I know the hairpins by heart</i>
+
+319
+00:21:47,118 --> 00:21:50,485
+<i>The way they chase after me, babe</i>
+<i>It's a crime</i>
+
+320
+00:21:50,655 --> 00:21:53,385
+<i>And the way I make love, it's an art</i>
+
+321
+00:21:54,091 --> 00:21:57,492
+<i>So let's find a corner and start</i>
+
+322
+00:21:57,662 --> 00:21:59,220
+<i>What do ya say?</i>
+
+323
+00:21:59,397 --> 00:22:03,060
+<i>Hey, babe, hey, babe</i>
+
+324
+00:22:03,234 --> 00:22:06,726
+<i>How ya doin' today, babe?</i>
+
+325
+00:22:06,904 --> 00:22:10,067
+<i>You look sort of shipshape to me</i>
+
+326
+00:22:10,241 --> 00:22:14,041
+<i>And I've sighted a few</i>
+
+327
+00:22:14,245 --> 00:22:17,840
+<i>Hey, babe, hi, babe</i>
+
+328
+00:22:18,015 --> 00:22:21,473
+<i>Why not give me a try, babe?</i>
+
+329
+00:22:21,652 --> 00:22:24,746
+<i>And maybe I'll make you my babe</i>
+
+330
+00:22:24,922 --> 00:22:27,914
+<i>'Cause I'm nuts about you</i>
+
+331
+00:22:29,060 --> 00:22:32,587
+MEN [SINGING] :
+<i>Hey, babe, hey, babe</i>
+
+332
+00:22:32,763 --> 00:22:36,164
+<i>How ya doin' today, babe?</i>
+
+333
+00:22:36,334 --> 00:22:39,428
+<i>You look sort of shipshape to me</i>
+
+334
+00:22:39,604 --> 00:22:42,596
+<i>And I've sighted a few</i>
+
+335
+00:22:43,474 --> 00:22:46,932
+<i>Hey, babe, hi, babe</i>
+
+336
+00:22:47,111 --> 00:22:50,239
+<i>Why not give me a try, babe?</i>
+
+337
+00:22:50,414 --> 00:22:53,872
+<i>And maybe I'll make you my babe</i>
+
+338
+00:22:54,051 --> 00:22:57,043
+TED [SINGING] :
+<i>'Cause I'm nuts about you</i>
+
+339
+00:22:59,757 --> 00:23:01,349
+<i>Hey, baby, hey, baby</i>
+
+340
+00:23:01,525 --> 00:23:03,186
+<i>What do ya say, baby?</i>
+
+341
+00:23:03,361 --> 00:23:06,353
+<i>How about bein' my crew?</i>
+
+342
+00:23:06,797 --> 00:23:09,925
+<i>I need a lookout</i>
+
+343
+00:23:10,101 --> 00:23:13,298
+<i>To point some shady nook out</i>
+
+344
+00:23:13,471 --> 00:23:16,872
+<i>I'm sick of seafarin'</i>
+<i>I wanna try sharin'</i>
+
+345
+00:23:17,041 --> 00:23:20,306
+<i>A snug little cottage for two</i>
+
+346
+00:23:20,478 --> 00:23:23,811
+<i>So be my pilot</i>
+<i>To love's dreamy islet</i>
+
+347
+00:23:23,981 --> 00:23:26,973
+<i>'Cause I'm nuts about you</i>
+
+348
+00:23:56,514 --> 00:23:59,915
+<i>Pretty baby, pretty baby</i>
+
+349
+00:24:00,084 --> 00:24:03,212
+<i>And what might your plans for today be?</i>
+
+350
+00:24:03,688 --> 00:24:06,987
+<i>If you're lonesome</i>
+<i>On your own-some</i>
+
+351
+00:24:07,158 --> 00:24:10,321
+<i>Well, I haven't a darn thing to do</i>
+
+352
+00:24:12,697 --> 00:24:16,133
+<i>People tell me it's the season</i>
+
+353
+00:24:16,300 --> 00:24:19,633
+<i>When the girls like huggin' and squeezin'</i>
+
+354
+00:24:19,804 --> 00:24:23,296
+<i>And for some dumb goofy reason</i>
+
+355
+00:24:23,474 --> 00:24:24,463
+<i>Baby:</i>
+
+356
+00:24:24,642 --> 00:24:26,769
+[HARMONICA PLAYS]
+
+357
+00:24:26,944 --> 00:24:30,402
+WOMEN [SINGING] : <i>Pretty baby, baby, baby</i>
+MEN [SINGING] : <i>Hey, babe, hey, babe</i>
+
+358
+00:24:30,581 --> 00:24:32,310
+WOMEN:
+<i>And what might your plans for today be?</i>
+
+359
+00:24:32,483 --> 00:24:34,041
+MEN:
+<i>How ya doin' today, babe?</i>
+
+360
+00:24:34,218 --> 00:24:35,879
+WOMEN:
+<i>If you're lonesome on your own-some</i>
+
+361
+00:24:36,053 --> 00:24:37,611
+MEN:
+<i>You look sort of shipshape to me</i>
+
+362
+00:24:37,788 --> 00:24:39,688
+WOMEN:
+<i>Well, I haven't a darn thing to do</i>
+
+363
+00:24:39,857 --> 00:24:41,222
+MEN:
+<i>And I've sighted a few</i>
+
+364
+00:24:41,392 --> 00:24:43,360
+WOMEN:
+<i>People tell me it's the season</i>
+
+365
+00:24:43,527 --> 00:24:44,926
+MEN:
+<i>Hey, babe, hi, babe</i>
+
+366
+00:24:45,096 --> 00:24:46,563
+WOMEN:
+<i>When the girls like huggin' and squeezin'</i>
+
+367
+00:24:46,731 --> 00:24:48,562
+MEN:
+<i>Why not give me a try, babe?</i>
+
+368
+00:24:48,733 --> 00:24:50,257
+WOMEN:
+<i>But for some dumb goofy reason</i>
+
+369
+00:24:50,434 --> 00:24:52,163
+MEN:
+<i>And maybe I'll make you my babe</i>
+
+370
+00:24:52,336 --> 00:24:55,328
+WOMEN: <i>Baby, I'm nuts about you</i>
+MEN: <i>'Cause I'm nuts about you</i>
+
+371
+00:24:56,207 --> 00:24:59,665
+<i>And for some dumb goofy reason</i>
+
+372
+00:24:59,844 --> 00:25:02,574
+<i>Baby, I'm nuts about</i>
+
+373
+00:25:02,747 --> 00:25:04,237
+<i>-I'm nuts about</i>
+<i>-I'm nuts about</i>
+
+374
+00:25:04,415 --> 00:25:06,940
+<i>I'm nuts about you</i>
+
+375
+00:25:39,683 --> 00:25:43,983
+<i>Pretty baby, pretty baby</i>
+
+376
+00:25:44,155 --> 00:25:50,116
+<i>And what might your plans for today be?</i>
+
+377
+00:25:50,294 --> 00:25:55,231
+<i>If you're lonesome</i>
+<i>On your own-some</i>
+
+378
+00:25:55,399 --> 00:25:58,630
+<i>Well, I haven't a darn thing</i>
+
+379
+00:25:58,803 --> 00:26:04,469
+<i>To do</i>
+
+380
+00:26:05,309 --> 00:26:09,302
+<i>People tell me it's the season</i>
+
+381
+00:26:09,480 --> 00:26:13,541
+<i>When the boys like huggin' and squeezin'</i>
+
+382
+00:26:13,717 --> 00:26:17,312
+<i>And for some dumb goofy reason</i>
+
+383
+00:26:17,488 --> 00:26:20,480
+<i>Baby, I'm nuts about you</i>
+
+384
+00:26:21,926 --> 00:26:25,362
+CHORUS [SINGING] :
+<i>Hey, babe, hey, babe</i>
+
+385
+00:26:25,529 --> 00:26:28,965
+<i>How ya doin' today, babe?</i>
+
+386
+00:26:29,133 --> 00:26:32,296
+<i>You look sort of shipshape to me</i>
+
+387
+00:26:32,470 --> 00:26:35,462
+<i>And I've sighted a few</i>
+
+388
+00:26:36,740 --> 00:26:39,868
+<i>Hey, babe, hi, babe</i>
+
+389
+00:26:40,044 --> 00:26:43,241
+<i>Why not give me a try, babe?</i>
+
+390
+00:26:43,414 --> 00:26:47,043
+<i>And maybe I'll make you my babe</i>
+
+391
+00:26:47,218 --> 00:26:50,210
+<i>'Cause I'm nuts about you</i>
+
+392
+00:26:57,728 --> 00:27:01,186
+<i>People tell me it's the season</i>
+
+393
+00:27:01,365 --> 00:27:05,028
+<i>When the girls like huggin' and squeezin'</i>
+
+394
+00:27:05,202 --> 00:27:08,899
+<i>And for some dumb goofy reason</i>
+
+395
+00:27:09,073 --> 00:27:12,565
+<i>Baby, I'm nuts about you</i>
+
+396
+00:27:13,844 --> 00:27:17,644
+<i>Be my pilot</i>
+<i>To love's dreamy islet</i>
+
+397
+00:27:17,815 --> 00:27:21,478
+<i>'Cause I'm nuts about you</i>
+
+398
+00:27:22,887 --> 00:27:27,449
+<i>Maybe you will be my babe</i>
+
+399
+00:27:27,625 --> 00:27:33,791
+<i>'Cause I'm nuts about you</i>
+
+400
+00:27:51,482 --> 00:27:54,178
+-Hey, Gunny.
+GUNNY: What?
+
+401
+00:27:54,451 --> 00:27:57,420
+-I'm a IittIe worried.
+-WeII, I'm a IittIe worried too.
+
+402
+00:27:57,588 --> 00:28:00,284
+I'II never get over the way
+my wife treated me Iast night.
+
+403
+00:28:00,457 --> 00:28:02,948
+After four years,
+aII she does is shake hands with me.
+
+404
+00:28:03,127 --> 00:28:06,858
+Didn't we forget to do something Iast night
+when we were ashore?
+
+405
+00:28:07,731 --> 00:28:10,097
+-I know, the report.
+GUNNY: What report?
+
+406
+00:28:10,267 --> 00:28:13,395
+From the captain to Rear AdmiraI Stubbins
+at the BrookIyn Navy Yard.
+
+407
+00:28:13,571 --> 00:28:16,165
+Gee, Mush, I'm awfuIIy sorry.
+That's my wife's fauIt.
+
+408
+00:28:16,340 --> 00:28:18,808
+You're right.
+I guess we'd better tear it up.
+
+409
+00:28:18,976 --> 00:28:23,345
+-No, don't. They'II put you in the brig.
+-I'II send it to him by carrier pigeon.
+
+410
+00:28:26,083 --> 00:28:27,107
+Hi, boys.
+
+411
+00:28:27,284 --> 00:28:28,342
+-HeIIo.
+-Hi.
+
+412
+00:28:28,519 --> 00:28:32,080
+Hi. Boys, I just wanna thank you
+for a wonderfuI evening Iast night.
+
+413
+00:28:32,256 --> 00:28:34,121
+Yeah?
+I'm gIad somebody had a good time.
+
+414
+00:28:34,291 --> 00:28:38,352
+-You sure went overboard, didn't you?
+-WeII, who wouIdn't?
+
+415
+00:28:38,529 --> 00:28:41,726
+Boy, that's the kind of a girI
+I've been Iooking for.
+
+416
+00:28:41,966 --> 00:28:45,367
+BeautifuI eyes, IoveIy hair--
+
+417
+00:28:45,803 --> 00:28:47,464
+SAILOR:
+Attention.
+
+418
+00:28:49,573 --> 00:28:51,234
+Attention.
+
+419
+00:28:52,243 --> 00:28:54,803
+What's going on here?
+
+420
+00:28:56,480 --> 00:28:58,141
+-What's that?
+-The message.
+
+421
+00:28:58,315 --> 00:29:00,783
+-For me?
+-From you.
+
+422
+00:29:01,619 --> 00:29:03,143
+What?
+
+423
+00:29:03,320 --> 00:29:06,153
+-Rear AdmiraI Stubbins, eh?
+-Yes, sir.
+
+424
+00:29:06,323 --> 00:29:08,951
+-CaII the master-at-arms.
+-Aye, aye, sir.
+
+425
+00:29:09,126 --> 00:29:11,594
+-Why wasn't this deIivered?
+-It was his wife's fauIt.
+
+426
+00:29:11,762 --> 00:29:12,786
+-His wife?
+-Yeah.
+
+427
+00:29:12,963 --> 00:29:15,295
+-Do you know what this means?
+-No, sir.
+
+428
+00:29:15,466 --> 00:29:17,696
+-Do you?
+-No, I'm not quite sure, sir.
+
+429
+00:29:17,868 --> 00:29:20,962
+-And how about you?
+-I give up.
+
+430
+00:29:23,874 --> 00:29:25,307
+WeII, there you are.
+
+431
+00:29:25,476 --> 00:29:26,841
+-You sent for me, sir?
+-Yeah.
+
+432
+00:29:27,011 --> 00:29:30,572
+-Put Saks in the brig.
+-Aye, aye, sir.
+
+433
+00:29:34,852 --> 00:29:36,979
+I'm Saks.
+
+434
+00:29:38,222 --> 00:29:40,190
+HoId everything.
+
+435
+00:29:40,457 --> 00:29:42,925
+My mistake, men.
+
+436
+00:29:49,900 --> 00:29:52,801
+Now, Iet that be a Iesson to you.
+
+437
+00:30:04,081 --> 00:30:06,914
+WeII, what do we have to have?
+A dime. You got a dime, Nora?
+
+438
+00:30:07,084 --> 00:30:09,382
+-I think so.
+-Now, you Iook right through there.
+
+439
+00:30:09,553 --> 00:30:10,781
+Yes, here's one.
+
+440
+00:30:10,954 --> 00:30:12,182
+There you are.
+
+441
+00:30:12,356 --> 00:30:13,755
+-Can you see?
+-Yes.
+
+442
+00:30:17,294 --> 00:30:19,159
+Mommy, whose boats are they?
+
+443
+00:30:19,330 --> 00:30:21,821
+Oh, they're UncIe Sam's, darIing.
+
+444
+00:30:21,999 --> 00:30:23,864
+Our UncIe Sam, Mommy?
+
+445
+00:30:24,034 --> 00:30:27,265
+Yes, dear. On your father's side.
+
+446
+00:30:27,438 --> 00:30:31,135
+-Is Daddy with UncIe Sam now, Mommy?
+-Yes, dear.
+
+447
+00:30:31,308 --> 00:30:34,004
+Mommy, what does UncIe Sam do
+for a Iiving?
+
+448
+00:30:34,178 --> 00:30:37,875
+-Oh, weII, um, he's a coIIector.
+-Is he rich?
+
+449
+00:30:38,048 --> 00:30:40,039
+You sure have a job on your hands.
+
+450
+00:30:40,217 --> 00:30:42,913
+Look, you run aIong and pIay
+Iike a good IittIe girI, huh?
+
+451
+00:30:43,954 --> 00:30:45,854
+There you go.
+
+452
+00:30:46,790 --> 00:30:49,122
+Phew, she's a probIem.
+
+453
+00:30:49,293 --> 00:30:52,194
+Just at the age
+where she wants to know everything.
+
+454
+00:30:52,529 --> 00:30:55,464
+She can't understand
+about that feIIa I'm married to.
+
+455
+00:30:55,632 --> 00:30:57,065
+WeII, why don't you teII her?
+
+456
+00:30:57,234 --> 00:30:59,725
+WeII, I can't
+tiII I know more about him myseIf.
+
+457
+00:30:59,903 --> 00:31:01,063
+Why not?
+
+458
+00:31:01,238 --> 00:31:05,334
+WeII, when you're picking a father for
+your chiId, you've gotta be awfuIIy carefuI.
+
+459
+00:31:05,509 --> 00:31:09,605
+When he proves he's worthy of SaIIy,
+then I'II teII him. But untiI then....
+
+460
+00:31:09,780 --> 00:31:13,910
+Gee, I hope I can keep him from finding out
+about her whiIe he's in port.
+
+461
+00:31:14,118 --> 00:31:15,642
+Jenny...
+
+462
+00:31:16,453 --> 00:31:17,977
+...is the fIeet Ieaving soon?
+
+463
+00:31:18,155 --> 00:31:19,884
+I don't know.
+
+464
+00:31:20,424 --> 00:31:22,585
+Why, does that worry you?
+
+465
+00:31:22,760 --> 00:31:24,421
+A IittIe.
+
+466
+00:31:25,062 --> 00:31:27,394
+I never thought this couId happen to me.
+
+467
+00:31:27,564 --> 00:31:31,364
+Gee, kid, I hope you haven't
+done something you'II be sorry for.
+
+468
+00:31:31,535 --> 00:31:33,093
+So do I.
+
+469
+00:31:33,270 --> 00:31:35,238
+WeII, what did you do?
+
+470
+00:31:35,873 --> 00:31:38,034
+I feII in Iove.
+
+471
+00:31:38,542 --> 00:31:40,305
+You reaIIy Iike that guy?
+
+472
+00:31:40,477 --> 00:31:42,536
+Gee, I'm crazy about him.
+
+473
+00:31:42,713 --> 00:31:46,342
+-When you gonna see him again?
+-Just as soon as I can.
+
+474
+00:31:46,683 --> 00:31:48,480
+Maybe tonight.
+
+475
+00:31:54,525 --> 00:32:00,691
+MINISTER:
+And now I pronounce you man and wife.
+
+476
+00:32:07,204 --> 00:32:08,967
+SALESMAN:
+Yes, my friends...
+
+477
+00:32:09,139 --> 00:32:13,769
+...words Iike that mean perfect happiness
+to every newIy married coupIe.
+
+478
+00:32:13,944 --> 00:32:16,174
+So if any of you contempIate marriage...
+
+479
+00:32:16,346 --> 00:32:19,440
+...do so at once and carry your bride
+across the threshoId...
+
+480
+00:32:19,616 --> 00:32:23,143
+...of the Harmond Honeymoon Cottage...
+
+481
+00:32:23,320 --> 00:32:26,221
+...the ideaI home for newIyweds.
+
+482
+00:32:26,824 --> 00:32:29,122
+This is the Iast demonstration
+of the afternoon.
+
+483
+00:32:29,293 --> 00:32:31,488
+We invite your carefuI inspection.
+
+484
+00:32:31,662 --> 00:32:32,993
+Thank you.
+
+485
+00:32:58,655 --> 00:33:02,614
+How do you do? May I have the pIeasure
+of showing you our IittIe masterpiece?
+
+486
+00:33:02,793 --> 00:33:04,784
+-Okay.
+-Pardon me, just for a moment.
+
+487
+00:33:04,962 --> 00:33:07,829
+I think we have a better pIace for this
+over here.
+
+488
+00:33:11,101 --> 00:33:12,500
+[BUTLER GASPS]
+
+489
+00:33:14,705 --> 00:33:16,104
+Oh, yes.
+
+490
+00:33:16,273 --> 00:33:19,367
+The unIimited resources
+of a mammoth department store...
+
+491
+00:33:19,543 --> 00:33:23,741
+...finaIIy soIved the vitaI probIem
+of how to furnish a honeymoon cottage.
+
+492
+00:33:23,914 --> 00:33:25,905
+CoIor harmony is the answer.
+
+493
+00:33:26,083 --> 00:33:30,884
+CooI bIues and quiet grays and greens
+are the main motives...
+
+494
+00:33:31,421 --> 00:33:36,950
+...whiIe the vioIent cerise
+has been used mereIy as an accent.
+
+495
+00:33:37,127 --> 00:33:40,460
+You wiII notice that everything is done
+to soothe the frayed nerves...
+
+496
+00:33:40,631 --> 00:33:42,394
+...of the scurrying businessman.
+
+497
+00:33:42,566 --> 00:33:47,663
+To offset the noise and confusion
+of our heIter-skeIter existence, yes.
+
+498
+00:33:48,238 --> 00:33:50,934
+Notice the theme
+in the window hangings.
+
+499
+00:33:51,108 --> 00:33:53,633
+They're white chiffon, a medium fuIIness.
+
+500
+00:33:53,810 --> 00:34:00,340
+With over drapes of green pIaid chintz
+and caught up with a gorgeous bow.
+
+501
+00:34:00,918 --> 00:34:02,613
+Breathtaking, isn't it?
+
+502
+00:34:02,786 --> 00:34:05,949
+Making a perfect symphony in coIor, yes.
+
+503
+00:34:06,123 --> 00:34:12,460
+Oh, you must notice the carefree abandon
+and careIess profusion of the peIargoniums.
+
+504
+00:34:14,364 --> 00:34:19,165
+Oh, yes, geraniums to you.
+You know, fIowers are Iike IittIe chiIdren.
+
+505
+00:34:19,336 --> 00:34:22,066
+They refIect the happiness
+that shouId be in every home.
+
+506
+00:34:22,239 --> 00:34:24,730
+And music. Music.
+
+507
+00:34:24,908 --> 00:34:28,742
+The duIcet tones
+of the Harmond Honeymoon Grand.
+
+508
+00:34:29,746 --> 00:34:32,613
+Nothing quite so soothing as music,
+especiaIIy after a meaI.
+
+509
+00:34:32,783 --> 00:34:35,479
+EspeciaIIy a meaI prepared
+in one of our modern kitchens...
+
+510
+00:34:35,652 --> 00:34:38,018
+...eaten in one of our cozy dining rooms...
+
+511
+00:34:38,188 --> 00:34:41,589
+...and digested in one of our
+superIative Iiving rooms.
+
+512
+00:34:41,758 --> 00:34:44,226
+It brings on a feeIing
+of contentment and Ianguor...
+
+513
+00:34:44,394 --> 00:34:48,626
+...that Ieads us eventuaIIy
+to the bedroom.
+
+514
+00:34:52,636 --> 00:34:54,934
+Isn't it ravishing?
+
+515
+00:34:55,105 --> 00:34:57,471
+Oh, it's beautifuI.
+
+516
+00:34:57,874 --> 00:35:00,672
+-Where's the other bed?
+-Other bed, sir?
+
+517
+00:35:00,844 --> 00:35:03,904
+We beIieve in the doubIe bed
+and a Iasting marriage.
+
+518
+00:35:04,081 --> 00:35:06,447
+Yeah, weII, I don't--
+No man couId sIeep in that.
+
+519
+00:35:06,617 --> 00:35:07,845
+It's got an awning on it.
+
+520
+00:35:08,018 --> 00:35:12,921
+I beg your pardon, sir, but that's
+imported siIk voiIe with baII fringe.
+
+521
+00:35:13,090 --> 00:35:15,684
+WeII, I don't care what it is,
+I couIdn't sIeep there.
+
+522
+00:35:15,859 --> 00:35:18,453
+-It's too short for me.
+-Oh, no, sir. It's standard.
+
+523
+00:35:18,629 --> 00:35:21,723
+WouId you care to try it for size?
+
+524
+00:35:21,898 --> 00:35:23,661
+-No, no.
+-Oh, don't be bashfuI, sir.
+
+525
+00:35:23,834 --> 00:35:26,701
+Many of our cIients insist on trying the bed,
+I assure you.
+
+526
+00:35:26,870 --> 00:35:28,098
+-They do?
+-Oh, yes, sir.
+
+527
+00:35:28,271 --> 00:35:29,829
+-WeII, hoId this, Nora.
+NORA: Mm-hm.
+
+528
+00:35:33,477 --> 00:35:35,741
+-See what I mean?
+-Yes, sir, a perfect fit.
+
+529
+00:35:35,912 --> 00:35:37,243
+Not very wide, either.
+
+530
+00:35:37,414 --> 00:35:38,904
+No, I assure you you're wrong.
+
+531
+00:35:39,082 --> 00:35:41,050
+I-- Oh, do you mind?
+
+532
+00:35:41,218 --> 00:35:43,686
+No, I'II show you, sir, reaIIy.
+
+533
+00:35:44,187 --> 00:35:46,553
+There you are, sir. PIenty of room.
+
+534
+00:35:46,723 --> 00:35:49,624
+Besides, it's awfuIIy comfortabIe,
+isn't it, sir?
+
+535
+00:35:49,793 --> 00:35:52,489
+AwfuIIy comfortabIe.
+Try it, sir, won't you?
+
+536
+00:35:57,034 --> 00:35:58,467
+[NORA LAUGHING]
+
+537
+00:36:03,340 --> 00:36:04,967
+[WHISTLE BLOWING]
+
+538
+00:36:09,813 --> 00:36:11,644
+DINGBY:
+At ease.
+
+539
+00:36:13,083 --> 00:36:17,645
+Now, men, this afternoon,
+we are permitting visitors to come aboard...
+
+540
+00:36:17,821 --> 00:36:20,790
+...for a theatricaI pubIicity stunt.
+
+541
+00:36:20,957 --> 00:36:25,724
+We are to receive the briIIiant
+young musicaI-comedy star...
+
+542
+00:36:25,896 --> 00:36:27,420
+...Miss Lucy James.
+
+543
+00:36:27,597 --> 00:36:28,586
+[MEN CHATTERING]
+
+544
+00:36:28,765 --> 00:36:29,754
+Quiet, pIease.
+
+545
+00:36:30,434 --> 00:36:34,165
+AIthough this may seem rather unusuaI,
+I, uh-- I see no objection to it.
+
+546
+00:36:34,337 --> 00:36:36,396
+MEN: No.
+-Quiet, pIease.
+
+547
+00:36:36,573 --> 00:36:39,269
+As a gentIe reminder and a warning...
+
+548
+00:36:39,443 --> 00:36:42,037
+...and so this crew,
+of which I'm very proud...
+
+549
+00:36:42,212 --> 00:36:44,806
+...wiII appear at its very best...
+
+550
+00:36:45,215 --> 00:36:49,845
+...I want you aII, when this
+beautifuI young Iady comes aboard...
+
+551
+00:36:50,187 --> 00:36:52,382
+...to behave Iike saiIors.
+
+552
+00:36:58,762 --> 00:37:01,754
+[SINGING]
+<i>Miss Lucy James sighted starboard beam</i>
+
+553
+00:37:02,699 --> 00:37:05,327
+<i>Miss Lucy James sighted starboard beam</i>
+
+554
+00:37:05,736 --> 00:37:08,830
+<i>Miss Lucy James approaching</i>
+<i>Starboard beam</i>
+
+555
+00:37:09,206 --> 00:37:12,539
+<i>Miss Lucy James approaching</i>
+<i>Starboard beam</i>
+
+556
+00:37:12,709 --> 00:37:15,644
+<i>Miss Lucy James nearing starboard beam</i>
+
+557
+00:37:16,246 --> 00:37:18,009
+<i>Miss Lucy James nearing starboard beam</i>
+
+558
+00:37:18,181 --> 00:37:19,443
+DINGBY:
+About face.
+
+559
+00:37:19,616 --> 00:37:22,915
+LOOKOUT [SINGING] : <i>Miss Lucy James</i>
+<i>alongside Starboard beam</i>
+
+560
+00:37:23,086 --> 00:37:26,351
+<i>Miss Lucy James alongside</i>
+<i>Starboard beam</i>
+
+561
+00:37:26,957 --> 00:37:29,721
+MEN [SINGING] : <i>Miss Lucy James</i>
+<i>boarding Starboard beam</i>
+
+562
+00:37:29,893 --> 00:37:33,659
+<i>For your information</i>
+<i>Miss James is a dream</i>
+
+563
+00:37:33,830 --> 00:37:36,560
+MEN: <i>Miss Lucy James</i>
+<i>boarding Starboard beam</i>
+
+564
+00:37:37,167 --> 00:37:41,160
+<i>Just a combination of peaches and cream</i>
+
+565
+00:37:45,108 --> 00:37:46,973
+MEN:
+<i>Ahoy</i>
+
+566
+00:37:47,144 --> 00:37:51,308
+<i>Ahoy, Miss Lucy James</i>
+
+567
+00:37:52,549 --> 00:37:55,814
+<i>And welcome to our submarine</i>
+
+568
+00:37:55,986 --> 00:37:59,649
+<i>Most glorified of dames</i>
+
+569
+00:38:04,327 --> 00:38:06,955
+<i>Good morning, miss</i>
+<i>And how do you do?</i>
+
+570
+00:38:07,130 --> 00:38:09,690
+<i>And how's the captain</i>
+<i>Not to mention the crew?</i>
+
+571
+00:38:09,866 --> 00:38:12,426
+<i>Well, as far as I know</i>
+<i>The crew is all right</i>
+
+572
+00:38:12,602 --> 00:38:15,196
+<i>But the captain had a big night last night</i>
+
+573
+00:38:15,372 --> 00:38:17,897
+<i>Yes, yesterday</i>
+<i>He drew his pay</i>
+
+574
+00:38:18,074 --> 00:38:21,237
+<i>So the captain had a big night last night</i>
+
+575
+00:38:21,411 --> 00:38:27,077
+<i>But don't be cross</i>
+<i>With the dear old boss</i>
+
+576
+00:38:27,584 --> 00:38:30,576
+<i>'Cause he had</i>
+<i>A very, very big night last night</i>
+
+577
+00:38:35,759 --> 00:38:38,592
+<i>Now, since you asked me about my crew</i>
+
+578
+00:38:38,762 --> 00:38:41,162
+<i>It gives me pleasure</i>
+<i>To present them to you</i>
+
+579
+00:38:41,331 --> 00:38:44,061
+<i>Boys, meet Miss--</i>
+<i>Oh, I'm so awful at names</i>
+
+580
+00:38:44,234 --> 00:38:46,794
+<i>Why, the name of the lady</i>
+<i>Is Lucy James</i>
+
+581
+00:38:46,970 --> 00:38:49,666
+<i>Lucy James, got another papa</i>
+
+582
+00:38:49,840 --> 00:38:52,206
+<i>You got another papa</i>
+<i>But he's bad at names</i>
+
+583
+00:38:52,375 --> 00:38:59,110
+<i>'Cause he had a very, very big night</i>
+
+584
+00:38:59,716 --> 00:39:01,047
+<i>Miss James</i>
+
+585
+00:39:05,188 --> 00:39:07,850
+<i>Now, since we all have met</i>
+
+586
+00:39:08,325 --> 00:39:11,317
+<i>And formalities are through</i>
+
+587
+00:39:11,828 --> 00:39:17,323
+<i>May I present</i>
+<i>My heaven-sent</i>
+
+588
+00:39:17,500 --> 00:39:20,025
+<i>-Cheeky-Peeky-Poo?</i>
+MEN: <i>Who?</i>
+
+589
+00:39:20,203 --> 00:39:24,936
+<i>Love me, love my Pekingese</i>
+<i>Spite of your antipathies</i>
+
+590
+00:39:25,108 --> 00:39:29,340
+<i>If you want to cultivate me</i>
+<i>Gotta love Cheeky</i>
+
+591
+00:39:29,512 --> 00:39:30,877
+MEN:
+<i>Howdy, little Cheeky</i>
+
+592
+00:39:31,047 --> 00:39:35,848
+<i>Cheeky, he's my chaperon</i>
+<i>Never lets me be alone</i>
+
+593
+00:39:36,019 --> 00:39:40,251
+<i>So when you invite me to tea</i>
+<i>Gotta have Cheeky</i>
+
+594
+00:39:40,423 --> 00:39:41,583
+MEN:
+<i>Nasty little Cheeky</i>
+
+595
+00:39:41,758 --> 00:39:44,318
+<i>Cheeky barks, Cheeky bites</i>
+
+596
+00:39:44,494 --> 00:39:47,054
+<i>Cheeky goes in for neighborhood fights</i>
+
+597
+00:39:47,230 --> 00:39:50,597
+<i>Cheeky, like all gentlemen</i>
+<i>Is a tease</i>
+
+598
+00:39:51,301 --> 00:39:52,632
+MEN:
+<i>Cheeky, please</i>
+
+599
+00:39:52,802 --> 00:39:55,168
+<i>But be warned before you start</i>
+
+600
+00:39:55,538 --> 00:39:57,506
+<i>If you want to win my heart</i>
+
+601
+00:39:57,674 --> 00:40:00,199
+<i>Don't bother to buy me big rings</i>
+
+602
+00:40:00,377 --> 00:40:02,937
+<i>Or other extravagant things</i>
+
+603
+00:40:03,113 --> 00:40:09,382
+<i>Get something chic for Cheeky</i>
+<i>My Pekingese</i>
+
+604
+00:40:09,719 --> 00:40:13,917
+MEN:
+<i>We love you, Cheeky</i>
+
+605
+00:40:14,090 --> 00:40:19,494
+<i>You squeaky little Pekingese</i>
+
+606
+00:40:20,664 --> 00:40:23,030
+Oh, captain, what a IoveIy submarine.
+
+607
+00:40:23,199 --> 00:40:25,030
+Oh, yes, yes.
+It's the pride of the Navy.
+
+608
+00:40:25,201 --> 00:40:27,931
+TeII me, how Iong can your submarine
+stay under water?
+
+609
+00:40:28,104 --> 00:40:29,298
+WeII, now, it aII depends.
+
+610
+00:40:29,472 --> 00:40:33,033
+Once, we submerged with the hatches open
+and we didn't come up for two weeks.
+
+611
+00:40:33,209 --> 00:40:35,939
+-ReaIIy?
+-PositiveIy.
+
+612
+00:40:36,179 --> 00:40:37,203
+[ALL LAUGH]
+
+613
+00:40:37,380 --> 00:40:38,574
+Quiet, pIease.
+
+614
+00:40:38,748 --> 00:40:40,409
+Wait a minute, boys.
+
+615
+00:40:42,085 --> 00:40:43,552
+How do you do, Captain Dingby?
+
+616
+00:40:43,720 --> 00:40:45,085
+How do you do?
+
+617
+00:40:45,255 --> 00:40:46,882
+Oh, perhaps you don't remember me.
+
+618
+00:40:47,057 --> 00:40:50,493
+I'm James McKay, personaI representative
+for Miss Lucy James.
+
+619
+00:40:51,394 --> 00:40:53,259
+Uh, we had Iunch together yesterday.
+
+620
+00:40:53,430 --> 00:40:56,456
+Oh, yes, yes. How do you do, Mr. McKay?
+I've been expecting you.
+
+621
+00:40:56,633 --> 00:40:59,363
+Fine. WouId you mind posing for a picture
+with Miss James?
+
+622
+00:40:59,536 --> 00:41:01,367
+Not at aII, I shouId be deIighted.
+
+623
+00:41:01,538 --> 00:41:03,403
+That is, if Miss James doesn't object.
+
+624
+00:41:03,573 --> 00:41:06,770
+-Oh, captain, I'd be thriIIed.
+-Oh, so shouId I.
+
+625
+00:41:06,943 --> 00:41:10,071
+-Fine, fine, now you step right over here?
+-With pIeasure.
+
+626
+00:41:10,246 --> 00:41:12,476
+McKAY: AII right, boys, excuse me,
+just a minute. Fine.
+
+627
+00:41:12,649 --> 00:41:16,312
+Now, captain, Miss James,
+come right over here by the raiIing. Fine.
+
+628
+00:41:16,486 --> 00:41:18,954
+-Now, captain, take Miss James by the arm.
+-PIeasure.
+
+629
+00:41:19,122 --> 00:41:21,454
+That's it. Fine. Now, hoId it. That's it.
+
+630
+00:41:22,092 --> 00:41:23,184
+-You aII set boys?
+PHOTOGRAPHERS: Yep.
+
+631
+00:41:23,360 --> 00:41:25,294
+-Ready?
+-Just a moment.
+
+632
+00:41:25,462 --> 00:41:28,625
+Captain, wouIdn't you Iike to hoId
+my IittIe Cheeky for the picture?
+
+633
+00:41:28,798 --> 00:41:30,663
+Oh, deIighted.
+
+634
+00:41:31,468 --> 00:41:33,299
+McKAY:
+SmiIe now, captain.
+
+635
+00:41:33,470 --> 00:41:35,335
+A IittIe more.
+
+636
+00:41:35,805 --> 00:41:38,035
+That's fine now. HoId. AII right.
+
+637
+00:41:43,580 --> 00:41:47,277
+Cheeky. Someone save my Cheeky.
+
+638
+00:41:47,884 --> 00:41:51,786
+Dog overboard.
+Everybody get ready to submerge.
+
+639
+00:42:06,136 --> 00:42:07,501
+Morning.
+
+640
+00:42:08,038 --> 00:42:09,062
+Look at that.
+
+641
+00:42:09,239 --> 00:42:10,536
+Look at that.
+
+642
+00:42:10,707 --> 00:42:12,231
+What a break.
+
+643
+00:42:15,612 --> 00:42:18,979
+''U.S. saiIor rescues actress' Pekingese.''
+
+644
+00:42:19,149 --> 00:42:21,379
+What an awfuI picture of me.
+
+645
+00:42:21,551 --> 00:42:24,418
+What are you taIking about?
+You can't buy pubIicity Iike that.
+
+646
+00:42:24,587 --> 00:42:27,784
+You drop your pooch overboard,
+the whoIe U.S. Navy dives in after it.
+
+647
+00:42:27,957 --> 00:42:31,449
+HeadIines in every newspaper
+in the country. What a break.
+
+648
+00:42:32,162 --> 00:42:35,154
+-Wait a minute. That gives me an idea.
+-What?
+
+649
+00:42:35,331 --> 00:42:38,095
+Cook up a romance
+between you and that saiIor.
+
+650
+00:42:38,268 --> 00:42:39,599
+Too bad he isn't an officer.
+
+651
+00:42:39,769 --> 00:42:42,863
+No, no, better this way, beIieve me.
+More heart interest.
+
+652
+00:42:43,039 --> 00:42:46,998
+PubIic wiII go for it. They Iike the idea
+of you faIIing for an ordinary gob.
+
+653
+00:42:47,177 --> 00:42:49,509
+-CindereIIa angIe.
+McKAY: ExactIy.
+
+654
+00:42:49,679 --> 00:42:51,044
+Maybe I'II Iike it, Mac.
+
+655
+00:42:51,214 --> 00:42:52,681
+WeII, that's up to you.
+
+656
+00:42:52,849 --> 00:42:54,373
+No fear. It's ridicuIous.
+
+657
+00:42:54,551 --> 00:42:56,451
+Lucy, I'II teII you what you do.
+
+658
+00:42:56,619 --> 00:42:59,782
+Be seen with him a few times.
+PubIic pIaces, night cIubs, cabarets.
+
+659
+00:42:59,956 --> 00:43:02,618
+That'II start the gossip coIumns.
+I'II pick it up there.
+
+660
+00:43:02,792 --> 00:43:03,952
+-And deny it?
+-Sure.
+
+661
+00:43:04,127 --> 00:43:06,687
+That'II keep your name
+in the front page for months.
+
+662
+00:43:06,930 --> 00:43:10,696
+-What's the name of that boy again?
+-Barker, Ted Barker. And don't forget it.
+
+663
+00:43:11,935 --> 00:43:14,802
+Wish I couId think of some way
+to get that saiIor shore Ieave.
+
+664
+00:43:14,971 --> 00:43:17,371
+-I can arrange that.
+-You can? How?
+
+665
+00:43:17,540 --> 00:43:20,532
+Why, the captain's dying
+to do me a favor.
+
+666
+00:43:20,710 --> 00:43:22,974
+Fine. ''Famous actress in Iove with gob.''
+
+667
+00:43:23,146 --> 00:43:25,307
+What an angIe. The pubIic wiII eat it up.
+
+668
+00:43:25,915 --> 00:43:29,316
+-It's kind of a dirty trick.
+McKAY: Yes, but a good one.
+
+669
+00:43:33,490 --> 00:43:36,254
+I guess you're pretty proud
+of yourseIf tonight, aren't you?
+
+670
+00:43:36,426 --> 00:43:39,418
+WeII, who wouIdn't be
+sitting here with you.
+
+671
+00:43:39,596 --> 00:43:43,293
+Thanks. But I meant about having
+your picture in the paper with Lucy James.
+
+672
+00:43:43,466 --> 00:43:46,401
+Oh, oh, weII, it's just a IittIe....
+
+673
+00:43:46,569 --> 00:43:49,504
+I'm awfuIIy gIad you saved her dog.
+
+674
+00:43:50,140 --> 00:43:51,869
+Oh, you are, huh?
+
+675
+00:43:52,108 --> 00:43:53,666
+TeII me about her.
+
+676
+00:43:53,843 --> 00:43:55,777
+Is she nice?
+
+677
+00:43:56,346 --> 00:43:58,177
+Yeah, weII, I guess so.
+
+678
+00:43:58,348 --> 00:44:00,612
+You guess so?
+WeII, didn't she thank you?
+
+679
+00:44:00,783 --> 00:44:02,944
+Oh, sure. Yeah.
+
+680
+00:44:03,720 --> 00:44:06,154
+Maybe someday you can do
+as much for me.
+
+681
+00:44:06,489 --> 00:44:07,581
+What do you mean?
+
+682
+00:44:07,757 --> 00:44:10,021
+Oh, when I'm a star.
+
+683
+00:44:10,426 --> 00:44:12,189
+You're reaIIy going on the stage, huh?
+
+684
+00:44:12,362 --> 00:44:13,886
+WeII, I've aIways wanted to.
+
+685
+00:44:14,063 --> 00:44:15,860
+I'm Iooking every day.
+
+686
+00:44:16,032 --> 00:44:19,092
+You know, it's funny,
+but once I get started...
+
+687
+00:44:19,269 --> 00:44:21,760
+...think I've got a pretty fair chance
+of making good.
+
+688
+00:44:21,938 --> 00:44:23,701
+Of course you're gonna make good.
+
+689
+00:44:23,873 --> 00:44:27,707
+You're gonna have one big booster.
+I'II be down in the front row opening night.
+
+690
+00:44:27,877 --> 00:44:30,243
+You'II be many miIes from here
+my opening night.
+
+691
+00:44:30,413 --> 00:44:34,179
+Oh, no. My time's up in three weeks.
+I'II be out of the Navy after that.
+
+692
+00:44:34,684 --> 00:44:36,879
+WeII, what are your pIans then?
+
+693
+00:44:37,053 --> 00:44:38,953
+Are you Ieaving New York?
+
+694
+00:44:39,122 --> 00:44:42,888
+No, I kind of think I'II stick around now.
+
+695
+00:44:46,062 --> 00:44:47,461
+I'm gIad, Ted.
+
+696
+00:44:50,433 --> 00:44:52,560
+-Nora.
+-Yes?
+
+697
+00:44:54,037 --> 00:44:56,972
+WeII, you reaIIy wanna go on the stage?
+
+698
+00:44:57,607 --> 00:44:59,438
+WeII, I hope to.
+
+699
+00:45:00,076 --> 00:45:01,509
+WeII...
+
+700
+00:45:02,378 --> 00:45:06,610
+...success and aII that,
+do you think that'II change you?
+
+701
+00:45:07,183 --> 00:45:08,775
+Of course not.
+
+702
+00:45:08,952 --> 00:45:10,249
+Why do you ask?
+
+703
+00:45:10,420 --> 00:45:12,411
+Oh, I don't know.
+
+704
+00:45:12,922 --> 00:45:17,256
+It just seems that that kind of success
+aIways does something to peopIe.
+
+705
+00:45:17,727 --> 00:45:20,252
+-At Ieast, I've noticed it.
+-Just recentIy?
+
+706
+00:45:21,097 --> 00:45:25,591
+Oh, Nora, the difference
+between you and girIs that--
+
+707
+00:45:25,768 --> 00:45:27,736
+That amount to something?
+
+708
+00:45:29,839 --> 00:45:32,706
+I wish you knew
+what you amounted to with me.
+
+709
+00:45:33,910 --> 00:45:35,502
+TeII me.
+
+710
+00:45:36,679 --> 00:45:42,447
+[SINGING] <i>I know too well</i>
+<i>That I'm just wasting precious time</i>
+
+711
+00:45:42,619 --> 00:45:46,077
+<i>In thinking such a thing could be</i>
+
+712
+00:45:46,256 --> 00:45:51,694
+<i>That you could ever care for me</i>
+
+713
+00:45:51,861 --> 00:45:58,562
+<i>I'm sure you'll hate to hear</i>
+<i>That I adore you, dear</i>
+
+714
+00:45:58,735 --> 00:46:02,296
+<i>But grant me just the same</i>
+
+715
+00:46:02,472 --> 00:46:08,707
+<i>I'm not entirely to blame</i>
+
+716
+00:46:08,878 --> 00:46:12,746
+<i>For you'd be</i>
+
+717
+00:46:12,915 --> 00:46:16,214
+<i>So easy to love</i>
+
+718
+00:46:16,386 --> 00:46:23,019
+<i>So easy to idolize, all others above</i>
+
+719
+00:46:23,192 --> 00:46:28,858
+<i>So worth the yearning for</i>
+
+720
+00:46:29,565 --> 00:46:34,901
+<i>So swell to keep any home fire</i>
+<i>Burning for</i>
+
+721
+00:46:36,439 --> 00:46:41,741
+<i>We'd be so grand at the game</i>
+
+722
+00:46:41,911 --> 00:46:45,142
+<i>So carefree together</i>
+
+723
+00:46:45,315 --> 00:46:49,411
+<i>That it does seem a shame</i>
+
+724
+00:46:49,585 --> 00:46:52,577
+<i>That you can't see</i>
+
+725
+00:46:52,755 --> 00:46:57,249
+<i>Your future with me</i>
+
+726
+00:46:57,827 --> 00:46:59,761
+<i>'Cause you'd be</i>
+
+727
+00:46:59,929 --> 00:47:05,390
+<i>Oh-so easy</i>
+
+728
+00:47:05,568 --> 00:47:08,560
+<i>To love</i>
+
+729
+00:47:24,454 --> 00:47:30,450
+<i>So worth the yearning for</i>
+
+730
+00:47:31,694 --> 00:47:37,690
+<i>So swell to keep any home fire</i>
+<i>Burning for</i>
+
+731
+00:47:39,001 --> 00:47:44,735
+<i>Oh, how we'd bloom, how we'd thrive</i>
+
+732
+00:47:44,907 --> 00:47:47,740
+<i>In a cottage for two</i>
+
+733
+00:47:47,910 --> 00:47:52,870
+<i>Or even three, four or five</i>
+
+734
+00:47:53,049 --> 00:47:56,985
+<i>So try to see</i>
+
+735
+00:47:57,153 --> 00:48:02,455
+<i>Your future with me</i>
+
+736
+00:48:02,625 --> 00:48:05,150
+<i>'Cause they'd be</i>
+
+737
+00:48:05,328 --> 00:48:11,324
+<i>Oh-so easy</i>
+
+738
+00:48:11,501 --> 00:48:13,992
+<i>To</i>
+
+739
+00:49:43,926 --> 00:49:45,985
+[MUSIC STOPS]
+
+740
+00:49:49,665 --> 00:49:51,030
+[MOUTHS]
+<i>It's the guard.</i>
+
+741
+00:50:18,394 --> 00:50:21,056
+[MUSIC RESUMES]
+
+742
+00:51:38,774 --> 00:51:40,571
+[MOUTHS]
+<i>Let's go.</i>
+
+743
+00:52:13,509 --> 00:52:14,737
+TED [MOUTHS] :
+<i>Well, look at that.</i>
+
+744
+00:53:24,580 --> 00:53:25,911
+[THUD]
+
+745
+00:53:47,603 --> 00:53:48,592
+[TED WHISTLES]
+
+746
+00:53:48,771 --> 00:53:50,329
+TED:
+Hey, Gunny, come here.
+
+747
+00:53:51,807 --> 00:53:53,900
+-WeII, we're going ashore.
+-What, so soon?
+
+748
+00:53:54,076 --> 00:53:56,203
+Yeah, the captain's
+sending the report again.
+
+749
+00:53:56,378 --> 00:53:57,606
+He sure is an optimist.
+
+750
+00:53:57,780 --> 00:54:00,180
+Ted wants me to go
+to LoneIy Hearts CIub for him.
+
+751
+00:54:00,349 --> 00:54:02,180
+Anything you want to teII your wife?
+
+752
+00:54:02,351 --> 00:54:04,945
+-You gonna see my wife?
+MUSH: I wasn't, but I wiII.
+
+753
+00:54:05,121 --> 00:54:06,850
+Hey, why don't you go yourseIf.
+
+754
+00:54:07,022 --> 00:54:11,459
+Listen, I gotta report to Lucy James
+at the CIub ContinentaI.
+
+755
+00:54:11,627 --> 00:54:14,323
+-But it's the captain's orders.
+-At the CIub ContinentaI?
+
+756
+00:54:14,497 --> 00:54:16,795
+-Yeah.
+-What's the Navy coming to, anyway?
+
+757
+00:54:16,966 --> 00:54:20,094
+I don't know, but if this gets around town,
+it'II be over-enIisted.
+
+758
+00:54:20,269 --> 00:54:22,931
+WeII, anybody that wants it
+can have my share of the Navy.
+
+759
+00:54:23,105 --> 00:54:25,266
+Look, uh, Gunny...
+
+760
+00:54:25,474 --> 00:54:27,601
+-...how are you fixed for dough?
+-Pretty good.
+
+761
+00:54:27,777 --> 00:54:30,211
+Yeah, I was wondering
+if you couId Iend me 1 0 bucks.
+
+762
+00:54:30,379 --> 00:54:32,540
+-I'm fIat broke and I'm--
+-AII right, here.
+
+763
+00:54:32,715 --> 00:54:34,945
+Oh, thanks.
+You sure you won't need this?
+
+764
+00:54:35,117 --> 00:54:39,178
+-Not whiIe he's in there.
+-Oh, that's right too. So Iong, Gunny.
+
+765
+00:54:41,590 --> 00:54:43,751
+-Hey, Mush, wiII you do me a favor?
+-What?
+
+766
+00:54:43,926 --> 00:54:47,862
+-When you see my wife, kiss her for me?
+-A pIeasure.
+
+767
+00:54:49,965 --> 00:54:52,832
+-HeIIo, foIks.
+JENNY: HeIIo, Mush.
+
+768
+00:54:53,068 --> 00:54:55,901
+-How are you?
+-Okay.
+
+769
+00:54:56,272 --> 00:54:59,503
+-Got a message for you from your husband.
+-What is it?
+
+770
+00:55:02,745 --> 00:55:04,110
+Any answer?
+
+771
+00:55:04,280 --> 00:55:05,941
+Yeah.
+
+772
+00:55:06,549 --> 00:55:08,346
+Where is Gunny?
+
+773
+00:55:08,517 --> 00:55:12,009
+-In the brig.
+-Something serious, I hope.
+
+774
+00:55:13,923 --> 00:55:16,448
+-I got a message for you too.
+-From Ted?
+
+775
+00:55:16,625 --> 00:55:19,025
+He came ashore with me...
+
+776
+00:55:19,195 --> 00:55:20,560
+...but he's on speciaI detaiI.
+
+777
+00:55:20,729 --> 00:55:22,321
+-Captain's orders.
+-Oh.
+
+778
+00:55:22,531 --> 00:55:24,556
+But he wants to see you
+when he's through.
+
+779
+00:55:24,733 --> 00:55:26,291
+Where?
+
+780
+00:55:26,468 --> 00:55:27,560
+In CentraI Park.
+
+781
+00:55:27,736 --> 00:55:29,636
+CentraI Park's awfuI big, saiIor.
+
+782
+00:55:29,805 --> 00:55:32,239
+He said he'd meet you at the usuaI pIace.
+
+783
+00:55:32,608 --> 00:55:34,405
+Honest? What time?
+
+784
+00:55:34,577 --> 00:55:36,238
+Ten o'cIock sharp.
+
+785
+00:55:48,791 --> 00:55:51,954
+[INSTRUMENTAL MUSIC PLAYING]
+
+786
+00:58:28,917 --> 00:58:30,680
+Let's dance, shaII we?
+
+787
+00:58:31,920 --> 00:58:34,650
+WeII, I don't know, I'd--
+
+788
+00:58:35,624 --> 00:58:37,558
+It's kind of Iate. I--
+
+789
+00:58:38,927 --> 00:58:40,485
+Don't you think we'd better go?
+
+790
+00:58:41,030 --> 00:58:42,827
+AII right, if you want to.
+
+791
+00:58:44,466 --> 00:58:45,797
+Oh, waiter.
+
+792
+00:58:46,268 --> 00:58:47,530
+-Yes, sir?
+-Check, pIease.
+
+793
+00:58:47,703 --> 00:58:49,034
+Yes, sir.
+
+794
+00:58:49,838 --> 00:58:51,567
+It's been a IoveIy evening.
+
+795
+00:58:51,740 --> 00:58:55,642
+You know, I'm beginning
+to change my mind about saiIors.
+
+796
+00:58:55,944 --> 00:58:57,912
+WeII, thanks.
+
+797
+00:59:06,121 --> 00:59:09,613
+I'm sorry, sir,
+but your check is 1 1 .80.
+
+798
+00:59:19,635 --> 00:59:22,331
+Yeah, it's 1 1 .80.
+
+799
+00:59:23,172 --> 00:59:25,197
+WeII, my mistake.
+
+800
+00:59:28,610 --> 00:59:30,202
+WeII, I'm a IittIe shy.
+
+801
+00:59:30,979 --> 00:59:33,311
+That's what I Iike about you.
+
+802
+00:59:59,108 --> 01:00:01,576
+[JENNY HUMMING]
+
+803
+01:00:07,183 --> 01:00:08,741
+Nora.
+
+804
+01:00:09,385 --> 01:00:10,977
+Nora.
+
+805
+01:00:15,191 --> 01:00:17,250
+Oh, what's the matter?
+
+806
+01:00:24,533 --> 01:00:27,366
+Lucy James, huh?
+
+807
+01:00:37,513 --> 01:00:39,003
+So that's it.
+
+808
+01:00:40,115 --> 01:00:44,074
+Hmm. That dame's first name
+shouId have been Jesse.
+
+809
+01:00:44,987 --> 01:00:47,387
+I can't understand Ted doing this.
+
+810
+01:00:47,990 --> 01:00:49,821
+Oh, honey, they're aII aIike.
+
+811
+01:00:49,992 --> 01:00:54,156
+If you get a good one, it's a Iong shot.
+If you don't, it's a consensus of opinion.
+
+812
+01:00:54,964 --> 01:00:57,023
+It's aII very funny.
+
+813
+01:00:57,199 --> 01:01:00,066
+Just yesterday
+I tried out for Lucy James' show.
+
+814
+01:01:00,236 --> 01:01:02,329
+WeII, what happened? TeII me.
+
+815
+01:01:02,504 --> 01:01:04,870
+Nothing,
+except I registered for the chorus...
+
+816
+01:01:05,040 --> 01:01:07,099
+...and to be her understudy.
+
+817
+01:01:08,844 --> 01:01:13,076
+Oh, gee, I hope they caII you.
+Be a good way to get even with these nibs.
+
+818
+01:01:13,249 --> 01:01:14,682
+You mean Daddy, Mommy?
+
+819
+01:01:14,850 --> 01:01:16,044
+JENNY:
+No, darIing.
+
+820
+01:01:16,218 --> 01:01:18,413
+WeII, you aIways caII Daddy nibs.
+
+821
+01:01:18,587 --> 01:01:21,249
+You see how it is?
+It's impossibIe to speak before her.
+
+822
+01:01:21,423 --> 01:01:23,323
+-You finished with your breakfast?
+-Yes.
+
+823
+01:01:23,492 --> 01:01:25,858
+You may Ieave the tabIe.
+I wanna taIk to Nora.
+
+824
+01:01:26,028 --> 01:01:29,054
+Oh, go ahead, Mommy, I won't Iisten.
+
+825
+01:01:29,231 --> 01:01:33,600
+-O-day ou-yay eak-spay ig-pay Atin-Iay?
+-Es-yay.
+
+826
+01:01:33,769 --> 01:01:39,867
+Ood-gay. I ought-way o-tay isit-vay
+the ubmarine-say ithout-way AIIy-say.
+
+827
+01:01:40,042 --> 01:01:44,103
+Oh, you do, do you? I'd Iike to see you
+visit the submarine without me.
+
+828
+01:01:44,980 --> 01:01:46,413
+Now, how do you Iike that?
+
+829
+01:01:46,582 --> 01:01:48,675
+SaIIy, you're gonna drive me
+to stop drinking.
+
+830
+01:01:48,851 --> 01:01:50,785
+Now, you gotta go. Come on.
+
+831
+01:01:50,953 --> 01:01:52,944
+-Am-scray.
+-Oy vey.
+
+832
+01:01:55,824 --> 01:01:57,951
+Are you reaIIy going to
+board the submarine?
+
+833
+01:01:58,127 --> 01:02:00,652
+-CertainIy, tomorrow.
+-But why?
+
+834
+01:02:00,829 --> 01:02:03,525
+WeII, I owe it to Gunny
+whiIe he's in the brig.
+
+835
+01:02:03,699 --> 01:02:06,293
+And besides, whiIe he's in the brig,
+I'm safe.
+
+836
+01:02:06,468 --> 01:02:08,629
+WeII, so is SaIIy. He'II never see her.
+
+837
+01:02:09,171 --> 01:02:10,832
+That's right, we'II aII go.
+
+838
+01:02:11,006 --> 01:02:13,736
+Not me.
+I don't want any part of Ted Barker.
+
+839
+01:02:13,909 --> 01:02:15,774
+-Aunt Nora.
+-Yes, dear?
+
+840
+01:02:15,945 --> 01:02:17,469
+You're wanted on the phone.
+
+841
+01:02:17,646 --> 01:02:19,273
+-Who wants me?
+-I didn't ask.
+
+842
+01:02:19,448 --> 01:02:21,814
+It's the first time
+you minded your own business.
+
+843
+01:02:22,318 --> 01:02:23,615
+Excuse me.
+
+844
+01:02:29,291 --> 01:02:31,316
+-HeIIo?
+-Nora.
+
+845
+01:02:32,127 --> 01:02:33,116
+Oh.
+
+846
+01:02:33,295 --> 01:02:36,093
+DarIing, I want to expIain about Iast night.
+
+847
+01:02:36,265 --> 01:02:37,630
+See--
+
+848
+01:02:37,967 --> 01:02:39,992
+WeII, when I got to the park, I--
+
+849
+01:02:41,804 --> 01:02:44,398
+Nora? Nora?
+
+850
+01:02:55,818 --> 01:02:57,683
+Atkins and McKay. Who's caIIing?
+
+851
+01:02:57,853 --> 01:03:00,879
+I'm sorry, Mr. McKay can't be disturbed,
+he's taIking to himseIf.
+
+852
+01:03:01,056 --> 01:03:04,548
+I mean he's in conference.
+AIrighty, I'II teII him you caIIed.
+
+853
+01:03:04,727 --> 01:03:06,718
+Atkins and McKay. Who's caIIing?
+
+854
+01:03:06,895 --> 01:03:09,955
+Oh, heIIo, OpaI.
+WeII, say, ain't you working today?
+
+855
+01:03:10,132 --> 01:03:12,464
+Your boss is gone
+and everybody took the day off?
+
+856
+01:03:12,634 --> 01:03:16,035
+WeII, ain't that Iife. When the cat's away,
+the mice act Iike rats.
+
+857
+01:03:16,472 --> 01:03:19,703
+Oh, say, guess who I seen
+at CIub ContinentaI Iast night.
+
+858
+01:03:19,875 --> 01:03:22,639
+Lucy James with that saiIor she met
+through a Pekingese.
+
+859
+01:03:22,811 --> 01:03:26,372
+BeIieve me, he's a sea-going thriII
+if I ever seen one. What's he Iike?
+
+860
+01:03:26,548 --> 01:03:29,813
+WeII, taII, sort of the answer
+to a maiden's prayer on stiIts.
+
+861
+01:03:29,985 --> 01:03:33,819
+Honest, he must be 6'4'' and that's just
+two inches shorter than a totem poIe.
+
+862
+01:03:33,989 --> 01:03:37,015
+Oh, but he's got a smiIe
+Iike concentrated vodka.
+
+863
+01:03:37,192 --> 01:03:41,060
+Vodka. Oh, it's a Japanese drink
+made out of panther bIood, I think.
+
+864
+01:03:41,430 --> 01:03:42,692
+What's Lucy James Iike?
+
+865
+01:03:42,865 --> 01:03:45,197
+WeII, she's taII and bIond,
+with a Iimousine body.
+
+866
+01:03:45,367 --> 01:03:47,062
+AII I can say and stiII be a Iady...
+
+867
+01:03:47,236 --> 01:03:50,535
+...is I can't see what she's got that I ain't,
+outside of a Pekingese.
+
+868
+01:03:50,706 --> 01:03:53,231
+Why, haIf the Navy dives in the water
+after her pooch.
+
+869
+01:03:53,409 --> 01:03:57,345
+I couId be drowning with a Saint Bernard
+and get nothing better than water wings.
+
+870
+01:03:57,513 --> 01:04:00,448
+Oh, I never seen such Iuck.
+I guess it's kismet.
+
+871
+01:04:00,949 --> 01:04:03,941
+I said, kismet, OpaI.
+That's Latin for ''spinach.''
+
+872
+01:04:04,119 --> 01:04:07,213
+WeII, of course, I speak Latin:
+<i>sic transit gloria mundi.</i>
+
+873
+01:04:07,389 --> 01:04:09,516
+Don't I sound sweII?
+What does that mean?
+
+874
+01:04:09,691 --> 01:04:12,524
+It's Latin for ''he opened the door
+and in fIew a dead duck.''
+
+875
+01:04:12,694 --> 01:04:15,128
+At Ieast, that's what my boyfriend
+said it meant.
+
+876
+01:04:15,297 --> 01:04:17,162
+CouId I see Mr. McKay, pIease?
+
+877
+01:04:17,332 --> 01:04:18,959
+Mr. McKay ain't in.
+He's out.
+
+878
+01:04:19,134 --> 01:04:20,601
+WeII, are you sure he's out?
+
+879
+01:04:20,769 --> 01:04:23,533
+He went out 1 5 minutes ago,
+won't be back for haIf an hour.
+
+880
+01:04:23,705 --> 01:04:24,967
+Where was I at, OpaI?
+
+881
+01:04:25,441 --> 01:04:28,308
+Look, he asked me to come in here.
+
+882
+01:04:28,844 --> 01:04:30,903
+-I don't know--
+-Oh, it's you, Mr. Barker.
+
+883
+01:04:31,080 --> 01:04:34,072
+Oh, weII, just a moment pIease
+and I'II ring him for you.
+
+884
+01:04:34,249 --> 01:04:36,843
+You're a saiIor, ain't you, Mr. Barker?
+
+885
+01:04:38,187 --> 01:04:41,179
+I got saItwater in my veins.
+My uncIe used to work on a tugboat.
+
+886
+01:04:41,356 --> 01:04:44,621
+It's a smaII worId, ain't it?
+Mr. McKay, the dogcatcher is here.
+
+887
+01:04:44,793 --> 01:04:46,158
+I mean Mr. Barker.
+
+888
+01:04:46,328 --> 01:04:49,024
+AIrighty. He says you can go right in,
+Mr. Barker.
+
+889
+01:04:49,198 --> 01:04:50,995
+Thanks very much.
+
+890
+01:04:59,908 --> 01:05:01,000
+HeIIo. How are you?
+
+891
+01:05:01,176 --> 01:05:03,440
+-WeII, I'm gIad to see you.
+-Hi, Mr. McKay.
+
+892
+01:05:03,612 --> 01:05:05,204
+-Sit down.
+-Thanks very much.
+
+893
+01:05:05,380 --> 01:05:08,611
+Say, by the way, I've just been reading
+about you in Hector's coIumn.
+
+894
+01:05:08,784 --> 01:05:10,775
+Boy, you're a something.
+
+895
+01:05:10,953 --> 01:05:14,980
+Oh, yeah, yeah, that's Lucy James.
+
+896
+01:05:15,958 --> 01:05:17,585
+WeII, it's kind of siIIy, isn't it?
+
+897
+01:05:17,759 --> 01:05:18,817
+SiIIy? No, it's great.
+
+898
+01:05:18,994 --> 01:05:22,794
+I taIked to Miss James over the teIephone
+a IittIe whiIe ago. Boy, she Ioves it.
+
+899
+01:05:22,965 --> 01:05:25,866
+-It's not so hot, though.
+-Why?
+
+900
+01:05:26,135 --> 01:05:29,332
+-WeII, I just don't Iike being made a fooI of.
+-You're not.
+
+901
+01:05:29,505 --> 01:05:31,996
+You shouId have heard
+what she said a few minutes ago.
+
+902
+01:05:32,174 --> 01:05:33,436
+-What, about me?
+-Sure.
+
+903
+01:05:33,609 --> 01:05:35,975
+And she's not the type that faIIs easiIy.
+
+904
+01:05:36,145 --> 01:05:40,514
+-What do you mean, she kind of Iikes me?
+-Kind of Iikes you? She's nuts about you.
+
+905
+01:05:41,383 --> 01:05:44,147
+Oh, no. WeII, that's no good, though.
+
+906
+01:05:44,319 --> 01:05:45,343
+Why?
+
+907
+01:05:45,521 --> 01:05:48,547
+-WeII, you see, I'm not nuts about her.
+-Oh, she'II grow on you.
+
+908
+01:05:48,724 --> 01:05:52,922
+-WeII, I don't want her to grow on me.
+-Barker, you've been in the Navy too Iong.
+
+909
+01:05:53,795 --> 01:05:55,524
+Have a cigar.
+
+910
+01:05:57,065 --> 01:05:58,930
+Oh, thanks.
+
+911
+01:05:59,268 --> 01:06:02,567
+Uh, Mr. McKay, I don't want to change
+the subject or anything...
+
+912
+01:06:02,738 --> 01:06:05,070
+...but I was wondering
+if you couId do me a favor?
+
+913
+01:06:05,240 --> 01:06:06,707
+What?
+
+914
+01:06:06,875 --> 01:06:09,139
+When does Miss James' new show
+go into rehearsaI?
+
+915
+01:06:09,311 --> 01:06:11,643
+-Oh, next week.
+-Next week, huh?
+
+916
+01:06:12,648 --> 01:06:14,809
+CouId you use
+the worId's greatest dancer?
+
+917
+01:06:14,983 --> 01:06:18,214
+My boy, Miss Lucy James
+is the worId's greatest dancer.
+
+918
+01:06:18,387 --> 01:06:19,445
+No, I don't think so.
+
+919
+01:06:19,621 --> 01:06:22,419
+No, the girI I'm taIking about
+just wants a chance.
+
+920
+01:06:22,591 --> 01:06:24,582
+Anything. You can put her in the chorus.
+
+921
+01:06:24,760 --> 01:06:28,856
+I'd Iove to do you a favor, but I can get
+the chorus girIs I want for a dime a dozen.
+
+922
+01:06:29,031 --> 01:06:32,467
+You can't get this girI for a dime a dozen.
+Listen, she is the most marv--
+
+923
+01:06:32,634 --> 01:06:34,625
+You wait tiII you see this girI.
+
+924
+01:06:36,505 --> 01:06:39,770
+Ted, I'II teII you what you do.
+Have her phone me for an appointment.
+
+925
+01:06:39,942 --> 01:06:43,434
+WeII, oh, no, I couIdn't do that.
+You see, you'II have to phone her.
+
+926
+01:06:43,612 --> 01:06:46,638
+-What, can't she remember numbers?
+-I don't want her to know...
+
+927
+01:06:46,815 --> 01:06:49,807
+...that I came here and asked you
+to give her a break, you see?
+
+928
+01:06:49,985 --> 01:06:52,180
+I understand.
+Where can I get in touch with her?
+
+929
+01:06:52,354 --> 01:06:54,822
+Oh, weII, here, you can caII her
+right at this number.
+
+930
+01:06:54,990 --> 01:06:56,218
+-There, right there.
+-Fine.
+
+931
+01:06:56,391 --> 01:06:58,450
+You won't teII her that I came in,
+you know--
+
+932
+01:06:58,627 --> 01:07:00,652
+No, certainIy not.
+
+933
+01:07:02,331 --> 01:07:04,993
+[WHISTLE BLOWING]
+
+934
+01:07:11,340 --> 01:07:13,399
+I beg your pardon, sir.
+
+935
+01:07:13,976 --> 01:07:16,137
+You'II frighten the fish.
+
+936
+01:07:16,311 --> 01:07:20,372
+-Any Iuck, captain?
+-Say, I Iost the biggest fish you ever saw.
+
+937
+01:07:20,549 --> 01:07:23,814
+-Just now?
+-No, when we were in San Francisco.
+
+938
+01:07:24,786 --> 01:07:26,720
+You sure do a Iot of fishing, don't you?
+
+939
+01:07:26,888 --> 01:07:29,982
+Yes. I expect to run for president
+someday.
+
+940
+01:07:30,158 --> 01:07:31,785
+MUSH:
+You better hurry up.
+
+941
+01:07:34,096 --> 01:07:36,963
+-What are you doing?
+-That message to Rear AdmiraI Stubbins.
+
+942
+01:07:37,132 --> 01:07:39,123
+-What about it?
+-I couIdn't find BrookIyn.
+
+943
+01:07:39,301 --> 01:07:40,632
+You couIdn't find BrookIyn?
+
+944
+01:07:40,802 --> 01:07:43,566
+I was in Yonkers aII day
+before I found out it was Yonkers.
+
+945
+01:07:43,739 --> 01:07:46,674
+-Doing what?
+-Looking for the BrookIyn Navy Yard.
+
+946
+01:07:47,609 --> 01:07:51,238
+There must be a man in my crew
+who knows where BrookIyn is.
+
+947
+01:07:51,413 --> 01:07:53,574
+-Saks knows.
+-Saks? How does he know?
+
+948
+01:07:53,749 --> 01:07:56,445
+He was born there.
+At Ieast, Iooks Iike he was born there.
+
+949
+01:07:56,618 --> 01:07:58,483
+-He does? Where is Saks?
+-In the brig.
+
+950
+01:07:58,654 --> 01:08:00,781
+-What's he doing in the brig?
+-Three days, sir.
+
+951
+01:08:00,956 --> 01:08:02,617
+Who put Saks in the brig?
+
+952
+01:08:03,125 --> 01:08:04,422
+Why, you did.
+
+953
+01:08:04,793 --> 01:08:08,194
+Oh, yes, yes, yes. Got a match?
+
+954
+01:08:21,543 --> 01:08:24,376
+I feeI uncomfortabIe
+about going aboard, Jenny.
+
+955
+01:08:24,546 --> 01:08:26,104
+I hope I don't meet Ted.
+
+956
+01:08:26,281 --> 01:08:30,547
+Listen, baby, when a horse throws you,
+you gotta get right back up and ride him.
+
+957
+01:08:30,919 --> 01:08:32,284
+I won't even Iook at him.
+
+958
+01:08:32,454 --> 01:08:34,388
+That's wrong. Act Iike nothing happened.
+
+959
+01:08:34,556 --> 01:08:38,549
+If you want a Iesson in seIf-controI,
+just watch me with Gunny.
+
+960
+01:08:44,599 --> 01:08:46,123
+TED:
+Attention.
+
+961
+01:08:49,771 --> 01:08:51,739
+Where's Saks?
+
+962
+01:08:52,274 --> 01:08:55,505
+I'm Saks. Captain, you're aIways
+getting us two mixed up.
+
+963
+01:08:55,677 --> 01:08:57,042
+Are you two men twins?
+
+964
+01:08:57,212 --> 01:08:59,043
+I don't know about him, but I'm not.
+
+965
+01:08:59,414 --> 01:09:01,848
+I want this deIivered
+to Rear AdmiraI Stubbins...
+
+966
+01:09:02,017 --> 01:09:03,541
+-...at the Navy Yard.
+-Yes, sir.
+
+967
+01:09:03,719 --> 01:09:05,448
+-You were born in BrookIyn.
+-Yes, sir.
+
+968
+01:09:05,620 --> 01:09:07,645
+-What part?
+-AII of me.
+
+969
+01:09:08,190 --> 01:09:11,318
+-DeIiver that message at once.
+-Aye, aye, sir.
+
+970
+01:09:19,901 --> 01:09:21,528
+MAN:
+Listen up.
+
+971
+01:09:21,703 --> 01:09:24,001
+[PEOPLE CHATTERING]
+
+972
+01:09:31,713 --> 01:09:33,647
+Are you the guide?
+
+973
+01:09:33,815 --> 01:09:35,339
+No, madame, I am the captain.
+
+974
+01:09:35,517 --> 01:09:38,953
+Oh, I'm so sorry. I beg your pardon.
+
+975
+01:09:39,121 --> 01:09:42,579
+WeII, couId I pIease visit the brig?
+There's a man I'd Iike to see in it.
+
+976
+01:09:42,758 --> 01:09:44,749
+I mean there's a man in it I'd Iike to see.
+
+977
+01:09:44,926 --> 01:09:47,554
+I'm sorry, madame,
+but visitors are not aIIowed beIow deck.
+
+978
+01:09:47,729 --> 01:09:50,493
+-Oh!
+-Oh, Jenny, that's a shame.
+
+979
+01:09:50,665 --> 01:09:53,964
+Oh, weII, we'd Iove to Iook around.
+CouId we go visit the crow's nest?
+
+980
+01:09:54,569 --> 01:09:55,968
+Under no condition, madame.
+
+981
+01:09:56,138 --> 01:09:58,402
+This is the mating season.
+
+982
+01:09:59,941 --> 01:10:02,774
+Oh, weII, Iet's go Iook anyway. Come on.
+
+983
+01:10:13,088 --> 01:10:14,851
+-Did you see what I saw?
+-What?
+
+984
+01:10:15,023 --> 01:10:17,548
+Gunny. He's not in the brig.
+
+985
+01:10:20,162 --> 01:10:23,029
+I can't Iet him see SaIIy.
+If he finds out he's her father...
+
+986
+01:10:23,198 --> 01:10:25,359
+...his chest wiII be bigger than his head.
+
+987
+01:10:26,768 --> 01:10:28,531
+Jenny.
+
+988
+01:10:29,004 --> 01:10:31,029
+-Jenny.
+-What are you doing here?
+
+989
+01:10:31,206 --> 01:10:34,073
+-Why, I work here.
+-Yeah, but I thought you were in the brig.
+
+990
+01:10:34,242 --> 01:10:37,700
+-Jenny, ain't you gIad to see me?
+-WeII, yes and no.
+
+991
+01:10:37,879 --> 01:10:39,506
+Gee, now we're getting somepIace.
+
+992
+01:10:42,117 --> 01:10:43,880
+WeII, heIIo.
+
+993
+01:10:45,487 --> 01:10:48,217
+WeII, I'm gIad to see you again, Nora.
+
+994
+01:10:49,357 --> 01:10:52,520
+I'm awfuI sorry about what happened.
+
+995
+01:10:53,995 --> 01:10:55,895
+I can expIain if you give me a chance.
+
+996
+01:10:56,064 --> 01:10:57,827
+I'm reaIIy not interested.
+
+997
+01:10:58,834 --> 01:11:01,166
+-HeIIo there.
+-HeIIo.
+
+998
+01:11:03,138 --> 01:11:05,197
+Say, who's IittIe girI are you?
+
+999
+01:11:05,373 --> 01:11:07,136
+Mommy's girI.
+
+1000
+01:11:07,309 --> 01:11:08,799
+Yeah?
+
+1001
+01:11:08,977 --> 01:11:10,171
+What do you mean, ''yeah''?
+
+1002
+01:11:12,314 --> 01:11:14,111
+How oId are you, IittIe girI?
+
+1003
+01:11:14,282 --> 01:11:15,340
+Three and a haIf.
+
+1004
+01:11:16,318 --> 01:11:17,342
+Three and a haIf?
+
+1005
+01:11:17,519 --> 01:11:20,352
+Run aIong, SaIIy, and pIay.
+That's a good girI.
+
+1006
+01:11:21,323 --> 01:11:24,554
+-Say, who's her mother?
+-I am.
+
+1007
+01:11:26,194 --> 01:11:27,889
+What?
+
+1008
+01:11:28,997 --> 01:11:31,966
+Why, certainIy it's her baby.
+Isn't it, Nora?
+
+1009
+01:11:32,133 --> 01:11:33,157
+AbsoIuteIy.
+
+1010
+01:11:33,535 --> 01:11:37,471
+-Oh, Nora. Don't teII me you're married.
+-WeII, I wouIdn't dare teII you I wasn't.
+
+1011
+01:11:37,639 --> 01:11:39,504
+Yeah. No, you wouIdn't, wouId you?
+
+1012
+01:11:39,674 --> 01:11:43,235
+Oh, SaIIy.
+Oh, she's aIways getting into troubIe.
+
+1013
+01:11:43,411 --> 01:11:44,571
+Just Iike her father.
+
+1014
+01:11:44,746 --> 01:11:46,543
+That's right.
+
+1015
+01:11:48,116 --> 01:11:50,676
+Gee, I wish that was my kid.
+
+1016
+01:11:52,888 --> 01:11:55,880
+-Gosh, I envy her father.
+-Oh, you needn't. He's a saiIor too.
+
+1017
+01:11:56,057 --> 01:11:57,285
+Oh, the poor kid.
+
+1018
+01:11:57,459 --> 01:11:59,984
+Oh, don't worry about us.
+We'II get aIong aII right.
+
+1019
+01:12:00,161 --> 01:12:02,686
+Of course, taking care of a chiId
+nowadays costs money.
+
+1020
+01:12:02,864 --> 01:12:06,300
+-That's why I was so anxious to find work.
+-WeII, I hope you get it, Nora.
+
+1021
+01:12:06,468 --> 01:12:07,765
+I've got it.
+
+1022
+01:12:07,936 --> 01:12:10,837
+-What, aIready?
+-Mr. McKay notified me yesterday.
+
+1023
+01:12:11,006 --> 01:12:13,270
+I'm to be Miss James' understudy.
+
+1024
+01:12:14,376 --> 01:12:16,173
+What, he toId you that?
+
+1025
+01:12:16,344 --> 01:12:20,906
+Yes, that's what I tried out for
+a few days ago and I got the job.
+
+1026
+01:12:21,149 --> 01:12:23,481
+-WeII--
+-You'II be there opening night, of course.
+
+1027
+01:12:23,652 --> 01:12:25,051
+-Sure.
+-In the front row.
+
+1028
+01:12:25,220 --> 01:12:26,551
+Yeah.
+
+1029
+01:12:27,188 --> 01:12:28,678
+Supposing I shouId kiss you.
+
+1030
+01:12:28,857 --> 01:12:30,119
+I'd Iike it.
+
+1031
+01:12:30,292 --> 01:12:32,385
+-That's what I'm afraid of.
+-Why?
+
+1032
+01:12:32,561 --> 01:12:35,155
+WeII, I wanna find out first if I Iike it.
+
+1033
+01:12:35,330 --> 01:12:37,560
+Then if I Iike it, I'II Iet you kiss me.
+
+1034
+01:12:37,732 --> 01:12:39,324
+Gee, I hope you Iike it, Jenny.
+
+1035
+01:12:39,501 --> 01:12:42,561
+Yeah, weII after four years,
+I think it's time I found out.
+
+1036
+01:12:42,737 --> 01:12:44,637
+HoId stiII.
+
+1037
+01:12:49,344 --> 01:12:50,868
+How was it?
+
+1038
+01:12:51,046 --> 01:12:52,809
+I didn't Iike it.
+
+1039
+01:12:52,981 --> 01:12:54,881
+WeII, I Iiked it.
+
+1040
+01:12:58,320 --> 01:13:00,982
+[PEOPLE CHATTERING]
+
+1041
+01:13:08,997 --> 01:13:11,397
+-HeIIo, Jen.
+-Oh, heIIo, honey.
+
+1042
+01:13:11,566 --> 01:13:12,624
+I ordered for you.
+
+1043
+01:13:12,801 --> 01:13:14,063
+Thanks.
+
+1044
+01:13:16,805 --> 01:13:18,898
+How are rehearsaIs going?
+
+1045
+01:13:19,307 --> 01:13:21,298
+Oh, aII right, I guess.
+
+1046
+01:13:21,476 --> 01:13:24,172
+OnIy I'm not getting the kick out of it
+I thought I wouId.
+
+1047
+01:13:24,346 --> 01:13:26,007
+Why not?
+
+1048
+01:13:26,948 --> 01:13:29,007
+Ted hasn't been near the theater.
+
+1049
+01:13:29,184 --> 01:13:32,119
+Oh, weII,
+did you expect to see him around?
+
+1050
+01:13:32,287 --> 01:13:36,815
+WeII, yes, I did,
+but I guess I was wrong about him.
+
+1051
+01:13:37,459 --> 01:13:41,122
+You know, I can't figure him out.
+
+1052
+01:13:41,296 --> 01:13:43,924
+He hasn't seen Lucy James
+since we started rehearsing.
+
+1053
+01:13:44,099 --> 01:13:45,794
+JENNY: He hasn't?
+-Not once.
+
+1054
+01:13:45,967 --> 01:13:47,662
+Then, why haven't you heard
+from him?
+
+1055
+01:13:47,836 --> 01:13:49,701
+Maybe because he thinks I'm married.
+
+1056
+01:13:49,871 --> 01:13:52,567
+Oh, I'm sorry about that.
+
+1057
+01:13:52,741 --> 01:13:56,006
+Gee, I'm the one
+that spoiIed everything for you.
+
+1058
+01:13:56,177 --> 01:13:59,806
+-Oh, you weren't to bIame, Jenny.
+-Oh, yes, I was too.
+
+1059
+01:13:59,981 --> 01:14:03,644
+And if I'd known then what I know now,
+it never wouId have happened.
+
+1060
+01:14:04,052 --> 01:14:06,612
+You know, Nora,
+I've been thinking things over.
+
+1061
+01:14:06,788 --> 01:14:10,656
+And when Gunny gets out of the Navy,
+we're gonna settIe down, make a go of it.
+
+1062
+01:14:10,825 --> 01:14:13,089
+You are? Oh, I'm so gIad.
+
+1063
+01:14:13,261 --> 01:14:16,196
+-What did Gunny say when you toId him?
+-I haven't toId him yet.
+
+1064
+01:14:16,364 --> 01:14:18,195
+WeII, how did you decide?
+
+1065
+01:14:18,366 --> 01:14:21,392
+WeII, I kissed him
+and I didn't think I Iiked it, but--
+
+1066
+01:14:21,569 --> 01:14:22,866
+But you did.
+
+1067
+01:14:23,038 --> 01:14:25,529
+Yeah. I did.
+
+1068
+01:14:29,377 --> 01:14:32,744
+BeIieve me, without pubIicity
+you can wrap the show up.
+
+1069
+01:14:33,448 --> 01:14:35,643
+RehearsaIs are fine.
+What are you kicking about?
+
+1070
+01:14:35,817 --> 01:14:38,684
+I'd rather pIay safe and keep the pubIic
+Lucy James conscious.
+
+1071
+01:14:38,853 --> 01:14:41,151
+But pIease, Mac,
+not about my private Iife.
+
+1072
+01:14:41,322 --> 01:14:42,653
+Nothing spreads Iike gossip.
+
+1073
+01:14:42,824 --> 01:14:45,657
+It's the best kind of baIIyhoo
+as Iong as you keep it cIean.
+
+1074
+01:14:45,827 --> 01:14:48,887
+WeII, I didn't mind at first,
+but now it's different.
+
+1075
+01:14:50,131 --> 01:14:52,861
+Are you on the IeveI?
+Are you serious this time?
+
+1076
+01:14:54,436 --> 01:14:57,166
+Yeah, just as you were a few months ago
+with Tommy Morgan.
+
+1077
+01:14:57,338 --> 01:14:59,829
+HonestIy, Mac, I swear this is different.
+
+1078
+01:15:00,008 --> 01:15:03,205
+-Yeah, I've heard that before too.
+-Oh, forget it.
+
+1079
+01:15:04,979 --> 01:15:07,277
+-This Barker is out of the Navy, isn't he?
+-Yes.
+
+1080
+01:15:07,449 --> 01:15:09,781
+If he's crazy about you,
+why hasn't he been around?
+
+1081
+01:15:09,951 --> 01:15:13,284
+-Because he resents the whoIe thing.
+-Oh, he does. WeII, that's too bad.
+
+1082
+01:15:13,455 --> 01:15:17,289
+He phoned and wanted to see me.
+That is, if it couId be arranged privateIy.
+
+1083
+01:15:17,459 --> 01:15:18,926
+And I asked him to come here.
+
+1084
+01:15:19,094 --> 01:15:20,925
+-Tonight?
+-Any minute now.
+
+1085
+01:15:21,096 --> 01:15:23,724
+''Cupid's Boomerang.
+Actress to Wed Ex-saiIor.''
+
+1086
+01:15:23,898 --> 01:15:26,799
+You're writing the finish first.
+The man hasn't asked me yet.
+
+1087
+01:15:26,968 --> 01:15:30,460
+But if he does and I shouId marry him,
+not a word in the papers about it.
+
+1088
+01:15:30,638 --> 01:15:32,799
+What's the use
+if you don't get any pubIicity?
+
+1089
+01:15:32,974 --> 01:15:34,407
+Oh, Mac, you're hopeIess.
+
+1090
+01:15:34,576 --> 01:15:36,510
+AII right, go ahead and marry him.
+
+1091
+01:15:36,678 --> 01:15:38,976
+Let's arrange for a divorce
+before the show opens.
+
+1092
+01:15:39,380 --> 01:15:41,905
+-We need the pubIicity.
+-There'II be no pubIicity.
+
+1093
+01:15:42,083 --> 01:15:44,108
+AII right, go ahead.
+Tie my hands, ruin me.
+
+1094
+01:15:44,285 --> 01:15:45,752
+Oh.
+
+1095
+01:15:45,920 --> 01:15:47,820
+Oh, the maid toId me to come right in.
+
+1096
+01:15:47,989 --> 01:15:50,651
+Oh, heIIo, Ted. Come on in.
+
+1097
+01:15:50,825 --> 01:15:52,554
+-Nice to see you.
+-HeIIo, how are you?
+
+1098
+01:15:52,727 --> 01:15:54,854
+McKAY: WeII, heIIo, Barker.
+-HeIIo. GIad to see you.
+
+1099
+01:15:55,029 --> 01:15:56,053
+GIad to see you.
+
+1100
+01:15:56,231 --> 01:15:58,062
+Look, I hope I'm not interrupting.
+
+1101
+01:15:58,233 --> 01:16:01,725
+Oh, no, no. Mr. McKay was just Ieaving,
+weren't you, Mac?
+
+1102
+01:16:01,903 --> 01:16:04,394
+Yeah, I'm practicaIIy gone.
+
+1103
+01:16:04,572 --> 01:16:07,507
+WeII, I'II see you at rehearsaI
+in the morning. Night.
+
+1104
+01:16:07,675 --> 01:16:09,233
+-Night.
+-Night.
+
+1105
+01:16:09,577 --> 01:16:12,273
+-ShaII we go out on the terrace, Ted?
+-Okay.
+
+1106
+01:16:14,783 --> 01:16:17,616
+Anita, if anyone shouId caII,
+I'm not at home. Remember that.
+
+1107
+01:16:17,786 --> 01:16:19,981
+-Yes, Miss James.
+-Thank you.
+
+1108
+01:16:20,188 --> 01:16:21,485
+Here's to you, Ted.
+
+1109
+01:16:21,656 --> 01:16:23,851
+-Happy days.
+-SkoaI.
+
+1110
+01:16:28,296 --> 01:16:30,662
+Uh, why was Mr. McKay
+here tonight?
+
+1111
+01:16:30,832 --> 01:16:34,097
+I sent for him to put a stop
+to that cheap pubIicity we were getting.
+
+1112
+01:16:34,269 --> 01:16:36,760
+Oh, weII, thanks.
+
+1113
+01:16:37,038 --> 01:16:39,700
+That's the reason I came up here
+to taIk to you tonight.
+
+1114
+01:16:39,874 --> 01:16:42,240
+I toId him if there was
+one more word about us...
+
+1115
+01:16:42,410 --> 01:16:44,810
+...I wouIdn't go on opening night.
+
+1116
+01:16:45,413 --> 01:16:46,675
+WeII, are you serious?
+
+1117
+01:16:46,848 --> 01:16:50,113
+I've never been more serious in my Iife.
+
+1118
+01:16:51,386 --> 01:16:54,048
+WeII, what'II happen to the show
+opening night?
+
+1119
+01:16:54,222 --> 01:16:56,452
+My understudy wouId go on.
+
+1120
+01:16:59,627 --> 01:17:01,060
+Oh, she wiII, wiII she?
+
+1121
+01:17:01,729 --> 01:17:02,957
+She'd have to.
+
+1122
+01:17:04,599 --> 01:17:06,032
+WeII...
+
+1123
+01:17:06,668 --> 01:17:09,501
+...do you think your understudy
+can pIay your part?
+
+1124
+01:17:09,671 --> 01:17:11,605
+Oh, I wouIdn't know about that.
+
+1125
+01:17:11,773 --> 01:17:14,173
+TeII me, Ted,
+are you interested in the theater?
+
+1126
+01:17:14,709 --> 01:17:16,973
+Oh, yes. WeII, more or Iess.
+
+1127
+01:17:17,145 --> 01:17:18,578
+But never been active.
+
+1128
+01:17:18,746 --> 01:17:21,874
+Mmm. WeII, I was in a Iot of shows
+at coIIege.
+
+1129
+01:17:22,050 --> 01:17:24,678
+I, uh-- I pIayed the Ieading Iady.
+
+1130
+01:17:25,420 --> 01:17:29,254
+Ted, I'm awfuIIy gIad
+you came here tonight. Are you?
+
+1131
+01:17:31,526 --> 01:17:32,993
+Yes.
+
+1132
+01:17:33,161 --> 01:17:34,753
+I've been wondering about you.
+
+1133
+01:17:36,731 --> 01:17:40,428
+[SINGING]
+<i>I've got you</i>
+
+1134
+01:17:40,602 --> 01:17:45,130
+<i>Under my skin</i>
+
+1135
+01:17:45,306 --> 01:17:48,434
+<i>I've got you</i>
+
+1136
+01:17:48,610 --> 01:17:53,240
+<i>Deep in the heart of me</i>
+
+1137
+01:17:53,414 --> 01:17:56,713
+<i>So deep in my heart</i>
+
+1138
+01:17:56,885 --> 01:18:01,413
+<i>You're really a part of me</i>
+
+1139
+01:18:02,123 --> 01:18:05,786
+<i>I've got you</i>
+
+1140
+01:18:05,960 --> 01:18:10,920
+<i>Under my skin</i>
+
+1141
+01:18:11,099 --> 01:18:14,296
+<i>I tried so</i>
+
+1142
+01:18:14,469 --> 01:18:19,304
+<i>Not to give in</i>
+
+1143
+01:18:19,474 --> 01:18:21,738
+<i>I said to myself</i>
+
+1144
+01:18:21,910 --> 01:18:27,974
+<i>This affair never will go so well</i>
+
+1145
+01:18:28,149 --> 01:18:32,017
+<i>But why should I try to resist</i>
+
+1146
+01:18:32,186 --> 01:18:38,591
+<i>When, darling, I know so well</i>
+
+1147
+01:18:38,760 --> 01:18:42,355
+<i>I've got you</i>
+
+1148
+01:18:42,530 --> 01:18:47,490
+<i>Under my skin</i>
+
+1149
+01:18:47,669 --> 01:18:51,571
+<i>I'd sacrifice anything come what might</i>
+
+1150
+01:18:51,739 --> 01:18:55,436
+<i>For the sake of having you near in spite</i>
+
+1151
+01:18:55,610 --> 01:19:01,173
+<i>Of a warning voice</i>
+<i>That comes in the night</i>
+
+1152
+01:19:01,349 --> 01:19:05,376
+<i>And repeats and repeats in my ear</i>
+
+1153
+01:19:05,553 --> 01:19:09,353
+<i>Don't you know, little fool</i>
+
+1154
+01:19:09,524 --> 01:19:14,154
+<i>You never can win</i>
+
+1155
+01:19:14,329 --> 01:19:17,560
+<i>Use your mentality</i>
+
+1156
+01:19:17,732 --> 01:19:22,260
+<i>Wake up to reality</i>
+
+1157
+01:19:23,638 --> 01:19:27,768
+<i>But each time I do</i>
+
+1158
+01:19:27,942 --> 01:19:33,244
+<i>Just the thought of you</i>
+
+1159
+01:19:33,414 --> 01:19:35,905
+<i>Makes me stop</i>
+
+1160
+01:19:36,551 --> 01:19:44,549
+<i>Before I begin</i>
+
+1161
+01:19:47,662 --> 01:19:54,659
+<i>'Cause I've got you</i>
+
+1162
+01:19:55,303 --> 01:20:02,300
+<i>Under my skin</i>
+
+1163
+01:20:18,059 --> 01:20:19,720
+Men, your enIistment is up.
+
+1164
+01:20:19,894 --> 01:20:21,862
+Today you Ieave the service.
+
+1165
+01:20:22,030 --> 01:20:24,294
+It grieves me to see you go.
+
+1166
+01:20:24,465 --> 01:20:26,899
+But it warms the cockIes of my heart...
+
+1167
+01:20:27,068 --> 01:20:30,731
+...to know that the members of my crew
+have behaved Iike one big happy famiIy.
+
+1168
+01:20:30,905 --> 01:20:34,306
+Men, aIIow me to wish you Iuck.
+
+1169
+01:20:34,475 --> 01:20:36,966
+-What's this?
+-The message to Rear AdmiraI Stubbins.
+
+1170
+01:20:37,145 --> 01:20:39,909
+-Why hasn't this deIivered?
+-CouIdn't find the rear admiraI.
+
+1171
+01:20:40,081 --> 01:20:41,446
+-Saks, if you--
+-Captain--
+
+1172
+01:20:41,616 --> 01:20:43,584
+Don't teII me, don't teII me. I know.
+
+1173
+01:20:43,751 --> 01:20:46,379
+-You're Saks and he's Tracy.
+-That's right.
+
+1174
+01:20:46,554 --> 01:20:48,886
+If you weren't getting out,
+I'd put you in the brig.
+
+1175
+01:20:49,057 --> 01:20:50,547
+-You know what this means?
+-No.
+
+1176
+01:20:50,725 --> 01:20:52,215
+-Do you?
+-No, sir.
+
+1177
+01:20:52,393 --> 01:20:53,621
+WeII, there you are.
+
+1178
+01:20:53,795 --> 01:20:56,730
+There must be some way of getting this
+to Rear AdmiraI Stubbins.
+
+1179
+01:20:56,898 --> 01:20:58,866
+Put it in a bottIe
+and throw it overboard.
+
+1180
+01:20:59,033 --> 01:21:01,297
+It'II take too Iong to reach him.
+
+1181
+01:21:01,636 --> 01:21:03,831
+I've forgotten what's in there.
+
+1182
+01:21:04,205 --> 01:21:06,901
+-Open it and read it to me.
+-Yes, sir.
+
+1183
+01:21:12,413 --> 01:21:14,677
+''Dear admiraI, I have two box seats...
+
+1184
+01:21:14,849 --> 01:21:18,080
+...for the opening of Lucy James
+musicaI comedy on Wednesday night.
+
+1185
+01:21:18,252 --> 01:21:21,813
+Park your battIeship in the harbor.
+Join me and we'II make a night of it.
+
+1186
+01:21:21,989 --> 01:21:23,980
+Very sincereIy yours,
+PercivaI Dingby.''
+
+1187
+01:21:24,158 --> 01:21:26,524
+Oh, yes, yes, yes.
+
+1188
+01:21:36,137 --> 01:21:38,298
+[SINGING]
+<i>You'd be</i>
+
+1189
+01:21:38,473 --> 01:21:41,874
+<i>You'd be so easy to love</i>
+
+1190
+01:21:42,043 --> 01:21:48,710
+<i>So easy to idolize, all others above</i>
+
+1191
+01:21:48,883 --> 01:21:55,186
+<i>You'd be so worth the yearning for</i>
+
+1192
+01:21:55,356 --> 01:21:58,154
+<i>And, honey, you'd be so swell</i>
+
+1193
+01:21:58,326 --> 01:22:02,262
+<i>To keep every little home fire burning for</i>
+
+1194
+01:22:02,430 --> 01:22:07,891
+<i>We'd, we'd be so grand at the game</i>
+
+1195
+01:22:08,069 --> 01:22:11,095
+<i>So carefree together</i>
+
+1196
+01:22:11,272 --> 01:22:15,072
+<i>That it does seem a shame</i>
+
+1197
+01:22:15,243 --> 01:22:17,677
+<i>That you can't see</i>
+
+1198
+01:22:17,845 --> 01:22:22,748
+<i>Your future with me</i>
+
+1199
+01:22:22,917 --> 01:22:25,010
+<i>'Cause you'd be</i>
+
+1200
+01:22:25,186 --> 01:22:32,149
+<i>Oh-so easy to love</i>
+
+1201
+01:22:33,561 --> 01:22:36,962
+[NORA HUMMING]
+
+1202
+01:23:14,535 --> 01:23:17,265
+<i>So try to see</i>
+
+1203
+01:23:17,438 --> 01:23:20,271
+<i>Your future</i>
+
+1204
+01:23:20,441 --> 01:23:27,438
+<i>With me</i>
+
+1205
+01:23:28,115 --> 01:23:30,515
+<i>'Cause you'd be</i>
+
+1206
+01:23:30,685 --> 01:23:36,590
+<i>Oh-so easy to love</i>
+
+1207
+01:23:37,491 --> 01:23:44,192
+<i>Oh, oh, oh, oh, oh</i>
+
+1208
+01:23:44,398 --> 01:23:51,395
+<i>So easy to love</i>
+
+1209
+01:23:52,607 --> 01:23:55,804
+[AUDIENCE CLAPPING]
+
+1210
+01:23:55,977 --> 01:23:57,945
+He's pretty good. Where'd you find him?
+
+1211
+01:23:58,112 --> 01:23:59,739
+The Navy didn't take up his option.
+
+1212
+01:23:59,914 --> 01:24:01,381
+I got him cheap.
+
+1213
+01:24:01,549 --> 01:24:03,608
+There's Iots of taIent in the Navy.
+
+1214
+01:24:03,784 --> 01:24:05,615
+You ought to know.
+
+1215
+01:24:06,053 --> 01:24:07,077
+WeII, the show Iooks great.
+
+1216
+01:24:07,255 --> 01:24:10,247
+I have a feeIing in my bones
+we're gonna have a hit. If you--
+
+1217
+01:24:10,424 --> 01:24:12,949
+If you're gonna start on Ted Barker,
+save your breath.
+
+1218
+01:24:13,127 --> 01:24:15,652
+-I know the speech by heart.
+-Oh, Lucy, use your head.
+
+1219
+01:24:15,830 --> 01:24:18,822
+You know how vaIuabIe pubIicity is
+to a show before it opens.
+
+1220
+01:24:19,000 --> 01:24:21,594
+Let me run a story about you and Ted
+in the papers--
+
+1221
+01:24:21,769 --> 01:24:23,100
+No. PositiveIy no.
+
+1222
+01:24:23,271 --> 01:24:26,434
+One more word in the newspapers
+and I don't go on opening night.
+
+1223
+01:24:26,707 --> 01:24:29,005
+Now, you remember that, Mac.
+
+1224
+01:24:39,120 --> 01:24:41,281
+WeII, how's it feeI to be out of the Navy?
+
+1225
+01:24:41,455 --> 01:24:44,618
+-I don't know. I'm Ionesome.
+-So am I.
+
+1226
+01:24:45,159 --> 01:24:47,320
+-Say, have you seen Nora?
+TED: No.
+
+1227
+01:24:47,928 --> 01:24:51,694
+WeII, she's married.
+I guess that Iets me out.
+
+1228
+01:24:53,200 --> 01:24:56,658
+-Why, have you seen Jenny?
+GUNNY: No. It's no use.
+
+1229
+01:24:56,837 --> 01:24:59,271
+I don't know, Ted.
+Maybe I'm just a man's man.
+
+1230
+01:25:00,007 --> 01:25:03,033
+I'm getting disgusted with married Iife.
+
+1231
+01:25:04,645 --> 01:25:06,977
+Is this what I'm supposed to wear
+in the opening?
+
+1232
+01:25:07,148 --> 01:25:09,139
+But that's the finest creation
+we ever made.
+
+1233
+01:25:09,317 --> 01:25:10,375
+I don't Iike it.
+
+1234
+01:25:10,551 --> 01:25:13,987
+-But you okayed the sketches--
+-I won't wear it. Make me something eIse.
+
+1235
+01:25:14,155 --> 01:25:17,921
+-We haven't time, you have to wear it.
+-I don't have to do anything.
+
+1236
+01:25:18,092 --> 01:25:19,491
+-Hey.
+-PIease, Miss James.
+
+1237
+01:25:19,927 --> 01:25:21,451
+Where's that arrangement for me?
+
+1238
+01:25:21,629 --> 01:25:24,621
+-Here it is, Miss James.
+-What are you waiting for? PIay it.
+
+1239
+01:25:24,832 --> 01:25:26,993
+[PIANO MUSIC BEGINS]
+
+1240
+01:25:33,040 --> 01:25:35,907
+Stop it. Stop it.
+I couIdn't dance to that. Nobody couId.
+
+1241
+01:25:36,077 --> 01:25:38,602
+-Are you trying to ruin me?
+-That's a sweII number.
+
+1242
+01:25:38,779 --> 01:25:41,509
+-The more you hear it, the more you Iike it.
+-It's awfuI.
+
+1243
+01:25:41,682 --> 01:25:44,674
+If that's the best you couId do,
+I won't even bother to rehearse.
+
+1244
+01:25:45,052 --> 01:25:47,816
+WeII, I may be crazy,
+but I think it's a great number.
+
+1245
+01:25:52,226 --> 01:25:54,990
+Nora. Come here.
+
+1246
+01:25:58,866 --> 01:26:01,027
+-Did you hear that number?
+-Yes, sir.
+
+1247
+01:26:01,202 --> 01:26:02,567
+Can you dance to it?
+
+1248
+01:26:02,737 --> 01:26:05,297
+WeII, I think so.
+
+1249
+01:26:05,473 --> 01:26:06,667
+Go ahead and try it.
+
+1250
+01:26:06,841 --> 01:26:10,242
+But, Mr. McKay,
+are you sure Miss James won't mind?
+
+1251
+01:26:10,411 --> 01:26:13,005
+Go ahead and try it. Let's have it.
+
+1252
+01:26:13,481 --> 01:26:15,210
+AII right.
+
+1253
+01:26:15,716 --> 01:26:17,684
+[PIANO MUSIC PLAYING]
+
+1254
+01:26:19,120 --> 01:26:21,020
+[TAPPING]
+
+1255
+01:27:38,866 --> 01:27:40,333
+LUC Y:
+Stop it.
+
+1256
+01:27:40,501 --> 01:27:41,798
+[MUSIC STOPS]
+
+1257
+01:27:43,804 --> 01:27:46,602
+Just what do you think you're doing,
+making a fooI out of me?
+
+1258
+01:27:46,774 --> 01:27:49,140
+-But I didn't mean--
+-I don't care what you meant.
+
+1259
+01:27:49,310 --> 01:27:53,178
+When I want 5- and 1 0-cent store dames
+doing my numbers, I'II Iet you know.
+
+1260
+01:27:53,347 --> 01:27:56,180
+Are you trying to show me up
+in front of the whoIe company?
+
+1261
+01:27:56,350 --> 01:27:59,114
+We'II see about that.
+Fire her this minute, do you hear me?
+
+1262
+01:27:59,286 --> 01:28:00,617
+-CaIm down.
+-Get rid of her.
+
+1263
+01:28:00,788 --> 01:28:02,688
+-She's your understudy.
+-I don't need one.
+
+1264
+01:28:02,857 --> 01:28:04,347
+I've got a fortune in this show.
+
+1265
+01:28:04,525 --> 01:28:07,358
+-You can't teII me how to run my company.
+-I can't, can't I?
+
+1266
+01:28:07,528 --> 01:28:11,396
+WeII, take your choice.
+Either she goes or I go.
+
+1267
+01:28:16,737 --> 01:28:18,830
+I'm sorry, Nora...
+
+1268
+01:28:19,039 --> 01:28:20,802
+...but I'II have to Iet you go.
+
+1269
+01:28:20,975 --> 01:28:22,772
+PIease, Mr. McKay.
+
+1270
+01:28:22,943 --> 01:28:24,843
+It wasn't my fauIt, reaIIy.
+
+1271
+01:28:25,012 --> 01:28:26,274
+I know.
+
+1272
+01:28:26,447 --> 01:28:29,575
+And the tough part of it is
+there's nothing I can do about it.
+
+1273
+01:28:29,884 --> 01:28:31,476
+I'm sorry.
+
+1274
+01:28:39,460 --> 01:28:41,826
+-WeII, heIIo, Jenny.
+-HeIIo, Ted.
+
+1275
+01:28:41,996 --> 01:28:44,396
+WeII, weII.
+
+1276
+01:28:44,565 --> 01:28:47,625
+Ted, something terribIe has happened.
+
+1277
+01:28:47,801 --> 01:28:50,463
+-What is it? Something happen to Nora?
+-WeII, yes.
+
+1278
+01:28:50,638 --> 01:28:51,730
+WeII, what is it?
+
+1279
+01:28:51,906 --> 01:28:54,067
+WeII, I might as weII start
+at the beginning.
+
+1280
+01:28:54,241 --> 01:28:56,709
+In the first pIace, Nora isn't married.
+
+1281
+01:28:57,344 --> 01:28:58,368
+She isn't married?
+
+1282
+01:28:58,546 --> 01:29:02,710
+No, she just said that to heIp me
+and beside that, she Ioves you.
+
+1283
+01:29:02,883 --> 01:29:05,317
+She Ioves--?
+
+1284
+01:29:05,486 --> 01:29:07,010
+WeII, what about that baby?
+
+1285
+01:29:07,187 --> 01:29:10,554
+Oh, that's my baby and I'm gonna teII
+Gunny just as soon as I see him.
+
+1286
+01:29:10,724 --> 01:29:14,626
+-Oh, Gunny's the father?
+-Yeah. Ain't nature wonderfuI?
+
+1287
+01:29:14,795 --> 01:29:16,558
+WeII, what about Nora?
+
+1288
+01:29:16,730 --> 01:29:19,290
+-Nora was fired today.
+-Fired?
+
+1289
+01:29:19,466 --> 01:29:21,627
+Lucy James made Mr. McKay fire her.
+
+1290
+01:29:22,169 --> 01:29:24,228
+-Oh, she did, huh?
+-Yeah.
+
+1291
+01:29:24,405 --> 01:29:26,236
+Just kicked her out of the show, huh?
+
+1292
+01:29:26,407 --> 01:29:30,104
+-Isn't that a dirty trick?
+-WeII, how do you Iike that?
+
+1293
+01:29:32,446 --> 01:29:35,040
+-Can you keep a secret?
+-I'II try.
+
+1294
+01:29:35,215 --> 01:29:37,945
+I'm gonna get Nora a better job.
+Come on.
+
+1295
+01:29:45,459 --> 01:29:46,983
+[PHONE RINGING]
+
+1296
+01:29:48,529 --> 01:29:50,053
+HeIIo.
+
+1297
+01:29:51,198 --> 01:29:53,257
+It's Mr. McKay.
+
+1298
+01:29:53,701 --> 01:29:54,725
+HeIIo, Mac.
+
+1299
+01:29:54,902 --> 01:29:55,994
+REPORTER [ON PHONE] :
+<i>How's the show coming along?</i>
+
+1300
+01:29:56,170 --> 01:29:57,569
+Oh, sweII.
+
+1301
+01:29:57,738 --> 01:30:00,002
+Hey, you want a hot tip
+for your coIumn tomorrow?
+
+1302
+01:30:00,174 --> 01:30:05,043
+-WeII, if it's hot, Iet's have it.
+-WeII, this is pIenty hot. Now, get this--
+
+1303
+01:30:05,212 --> 01:30:07,146
+NEWSBO Y:
+To marry Ted Barker, former saiIor.
+
+1304
+01:30:07,314 --> 01:30:10,477
+Extra, extra.
+Famous actress to marry ex-saiIor.
+
+1305
+01:30:10,651 --> 01:30:15,418
+Extra, extra. Read aII about it.
+Lucy James to marry Ted Barker.
+
+1306
+01:30:19,827 --> 01:30:21,727
+-Who put this in the paper?
+-I don't know.
+
+1307
+01:30:21,895 --> 01:30:24,329
+You're Iying.
+I toId you what I'd do if this broke.
+
+1308
+01:30:24,498 --> 01:30:27,865
+-I didn't do it. I don't know who did.
+-You did it. Who eIse wouId?
+
+1309
+01:30:28,035 --> 01:30:29,832
+Now, get this through your thick head.
+
+1310
+01:30:30,004 --> 01:30:32,370
+If your show opens tonight,
+it'II open without me.
+
+1311
+01:30:32,539 --> 01:30:33,699
+Now get out of here.
+
+1312
+01:30:33,874 --> 01:30:36,707
+-You can't get away with this.
+-Oh, yes, I can.
+
+1313
+01:30:42,182 --> 01:30:46,016
+You waIk out, you'II never be in another
+Broadway show as Iong as you Iive.
+
+1314
+01:30:46,186 --> 01:30:47,619
+Get out!
+
+1315
+01:30:47,788 --> 01:30:49,153
+Get out of here!
+
+1316
+01:30:53,994 --> 01:30:54,983
+[KNOCKING ON DOOR]
+
+1317
+01:30:55,162 --> 01:30:56,686
+Come in.
+
+1318
+01:30:59,400 --> 01:31:03,268
+Barker, something teIIs me that you've got
+more brains than I gave you credit for.
+
+1319
+01:31:03,437 --> 01:31:05,405
+But you're not gonna get away with it.
+
+1320
+01:31:05,572 --> 01:31:07,335
+-I don't get it.
+-Oh, yes, you do.
+
+1321
+01:31:07,508 --> 01:31:10,204
+That was cIever trick,
+trying to muscIe in your girIfriend.
+
+1322
+01:31:10,377 --> 01:31:14,780
+But get this. UnIess Lucy James goes on
+tonight, there's not gonna be any show.
+
+1323
+01:31:14,948 --> 01:31:16,506
+-No?
+-No.
+
+1324
+01:31:16,984 --> 01:31:20,317
+-Then why doesn't she go on?
+-You know why and took advantage of it.
+
+1325
+01:31:20,487 --> 01:31:23,217
+Get on that teIephone,
+teII her you put that in the paper.
+
+1326
+01:31:23,390 --> 01:31:24,823
+WeII, why shouId I?
+
+1327
+01:31:24,992 --> 01:31:28,928
+You know weII that you and Lucy James
+have been making a chump of me.
+
+1328
+01:31:29,096 --> 01:31:31,621
+I've got $ 1 00,000 tied up in this show.
+
+1329
+01:31:31,799 --> 01:31:35,360
+UnIess you get on that teIephone
+and teII her, I'm gonna break your neck.
+
+1330
+01:31:35,536 --> 01:31:36,525
+Ah-ah.
+
+1331
+01:31:50,918 --> 01:31:54,046
+PEPPY [SINGING] :
+<i>Not so many summers ago</i>
+
+1332
+01:31:54,221 --> 01:31:57,122
+<i>The land of New Dealin'</i>
+<i>Was feelin' so low</i>
+
+1333
+01:31:57,291 --> 01:32:01,022
+<i>That even folks</i>
+<i>In darkest Washington knew</i>
+
+1334
+01:32:01,195 --> 01:32:02,958
+CHORUS [SINGING] :
+<i>Wha-hoo</i>
+
+1335
+01:32:03,130 --> 01:32:05,564
+<i>Something had to be done</i>
+
+1336
+01:32:05,733 --> 01:32:09,032
+<i>So they called</i>
+<i>The country's cleverest ginks</i>
+
+1337
+01:32:09,203 --> 01:32:12,229
+<i>To figure some plot out</i>
+<i>To blot out the jinx</i>
+
+1338
+01:32:12,406 --> 01:32:15,739
+<i>Yet no one had a mumblin' word to say</i>
+
+1339
+01:32:15,909 --> 01:32:19,345
+<i>'Cept Professor Cab Calloway</i>
+
+1340
+01:32:19,513 --> 01:32:22,744
+CHORUS:
+<i>That ol' man, Calloway</i>
+
+1341
+01:32:22,916 --> 01:32:25,680
+<i>But Cab the wise</i>
+<i>Rose and said to these guys</i>
+
+1342
+01:32:25,853 --> 01:32:28,583
+<i>"If you're fixin' to beat this whole thing</i>
+
+1343
+01:32:28,756 --> 01:32:32,248
+<i>As a Harlem resident</i>
+<i>Mr. President</i>
+
+1344
+01:32:32,426 --> 01:32:34,053
+<i>-I say</i>
+CHORUS: <i>He say</i>
+
+1345
+01:32:34,228 --> 01:32:35,957
+<i>-Give 'em</i>
+CHORUS: <i>Give 'em</i>
+
+1346
+01:32:36,130 --> 01:32:37,825
+<i>- Swing"</i>
+CHORUS: <i>Doo wop, doo wop</i>
+
+1347
+01:32:37,998 --> 01:32:40,023
+<i>Zoo zad, zoo zad, zoo zad</i>
+
+1348
+01:32:40,200 --> 01:32:43,601
+<i>Now everybody's happy</i>
+
+1349
+01:32:43,771 --> 01:32:46,706
+<i>And everyone's gay</i>
+
+1350
+01:32:46,874 --> 01:32:50,139
+<i>'Cause every little mammy and pappy</i>
+
+1351
+01:32:50,310 --> 01:32:52,335
+<i>Is swingin' the jinx away</i>
+
+1352
+01:32:52,513 --> 01:32:56,449
+<i>What is that thing they're all a-singing?</i>
+
+1353
+01:32:56,617 --> 01:32:59,609
+<i>Why, that's hi-de-hi-de-hey</i>
+
+1354
+01:32:59,787 --> 01:33:03,223
+<i>'Cause everybody's buckin' and wingin'</i>
+
+1355
+01:33:03,390 --> 01:33:05,449
+<i>Swingin' the jinx away</i>
+
+1356
+01:33:05,626 --> 01:33:09,687
+<i>From fair Niagara's fountains</i>
+<i>To the far Rocky Mountains</i>
+
+1357
+01:33:09,863 --> 01:33:12,798
+<i>They're swingin', swingin' away</i>
+
+1358
+01:33:12,966 --> 01:33:16,026
+<i>From the Suwannee River</i>
+<i>To the home of the flivver</i>
+
+1359
+01:33:16,203 --> 01:33:19,263
+<i>They're swingin', swingin' away</i>
+
+1360
+01:33:19,439 --> 01:33:25,867
+<i>Now everybody's happy</i>
+<i>And everybody's okay</i>
+
+1361
+01:33:26,046 --> 01:33:29,209
+<i>'Cause you can't be blue</i>
+<i>When she's clingin' to you</i>
+
+1362
+01:33:29,383 --> 01:33:32,443
+<i>And you're swingin' the jinx away</i>
+
+1363
+01:33:32,619 --> 01:33:35,087
+CHORUS:
+<i>Three cheers for the red, white and blue</i>
+
+1364
+01:33:35,255 --> 01:33:38,691
+<i>Blue is one thing that we ain't</i>
+<i>'Cause we swing without restraint</i>
+
+1365
+01:33:38,859 --> 01:33:40,622
+CHORUS:
+<i>Cheer for the red, white and blue</i>
+
+1366
+01:33:40,828 --> 01:33:42,352
+<i>Blues and torch songs have been banned</i>
+
+1367
+01:33:42,529 --> 01:33:47,023
+<i>Rhythm is our platform</i>
+<i>And Columbia is queen of the swingtime</i>
+
+1368
+01:33:47,201 --> 01:33:49,362
+<i>Sweet swingtime</i>
+
+1369
+01:33:49,770 --> 01:33:57,040
+[PEPPY SCATTING]
+
+1370
+01:33:58,278 --> 01:34:00,405
+<i>Three cheers for the red, white</i>
+
+1371
+01:34:00,581 --> 01:34:07,145
+<i>And everybody's happy</i>
+<i>And everybody's okay</i>
+
+1372
+01:34:07,321 --> 01:34:09,152
+<i>-'Cause you can't be blue</i>
+CHORUS: <i>Can't be blue</i>
+
+1373
+01:34:09,323 --> 01:34:10,688
+<i>When she's clingin' to you</i>
+
+1374
+01:34:10,858 --> 01:34:12,849
+<i>-And you're swingin'</i>
+CHORUS: <i>Yeah, yeah</i>
+
+1375
+01:34:13,026 --> 01:34:14,687
+<i>-You're swingin'</i>
+CHORUS: <i>Yeah, yeah</i>
+
+1376
+01:34:14,862 --> 01:34:18,093
+<i>You're swingin' the jinx away</i>
+
+1377
+01:34:18,265 --> 01:34:22,326
+<i>'Cause everybody's buckin' and wingin'</i>
+
+1378
+01:34:22,603 --> 01:34:28,064
+<i>Swingin' the jinx, swingin' the jinx</i>
+<i>Swingin' the jinx, swingin' the jinx</i>
+
+1379
+01:34:28,242 --> 01:34:32,838
+<i>Everybody's swingin' the jinx</i>
+
+1380
+01:34:33,013 --> 01:34:40,010
+<i>Away</i>
+
+1381
+01:35:14,988 --> 01:35:17,548
+[SINGING]
+<i>Just look at those cowboys gaily</i>
+
+1382
+01:35:17,724 --> 01:35:19,419
+<i>Swingin' on the range</i>
+
+1383
+01:35:19,593 --> 01:35:21,925
+CHORUS [SINGING] :
+<i>Swing along, little doggie</i>
+
+1384
+01:35:22,863 --> 01:35:25,798
+<i>Watch those brokers</i>
+<i>On that stock exchange</i>
+
+1385
+01:35:25,966 --> 01:35:29,129
+CHORUS: <i>All the bulls and bears</i>
+<i>Swing with mighty airs</i>
+
+1386
+01:35:29,303 --> 01:35:32,295
+<i>Go to Hollywood and take time to scan</i>
+
+1387
+01:35:32,472 --> 01:35:36,408
+CHORUS: <i>Whaddya see?</i>
+<i>-Every movie star swingin' the fan</i>
+
+1388
+01:35:36,576 --> 01:35:39,977
+<i>Drive through Maine</i>
+<i>And believe it, babe, or not</i>
+
+1389
+01:35:40,147 --> 01:35:43,480
+<i>You'll see every blue nose gettin' hot</i>
+
+1390
+01:35:43,650 --> 01:35:47,051
+<i>See how Indiana meets demands</i>
+
+1391
+01:35:47,220 --> 01:35:50,519
+<i>Hog breeders now</i>
+<i>Are all leaders of bands</i>
+
+1392
+01:35:50,691 --> 01:35:53,854
+<i>Look at Montana</i>
+<i>Or Louisiana</i>
+
+1393
+01:35:54,027 --> 01:35:57,519
+<i>Examine Nebraska</i>
+<i>Or even Alaska</i>
+
+1394
+01:35:57,698 --> 01:36:00,667
+<i>Visit the prisoners of Alcatraz</i>
+
+1395
+01:36:00,834 --> 01:36:04,930
+<i>They're doing time</i>
+<i>But the time is jazz</i>
+
+1396
+01:36:49,216 --> 01:36:52,151
+<i>Down in Washington D.C.</i>
+<i>The boys are making history</i>
+
+1397
+01:36:52,319 --> 01:36:54,150
+<i>They're passing laws for you and me</i>
+
+1398
+01:36:54,321 --> 01:36:56,118
+<i>To swing without taxation</i>
+
+1399
+01:36:56,289 --> 01:36:59,349
+<i>What we really mean to say</i>
+<i>If we can swing the jinx away</i>
+
+1400
+01:36:59,526 --> 01:37:01,153
+<i>And never, ever have to pay</i>
+
+1401
+01:37:01,328 --> 01:37:03,091
+<i>Then we don't need inflation</i>
+
+1402
+01:37:03,263 --> 01:37:05,026
+MEN:
+<i>Georgia swings it, every voter</i>
+
+1403
+01:37:05,198 --> 01:37:06,665
+WOMEN:
+<i>Minnesota, North Dakota</i>
+
+1404
+01:37:06,833 --> 01:37:08,357
+MEN:
+<i>Texas swings with great bravada</i>
+
+1405
+01:37:08,535 --> 01:37:10,093
+WOMEN:
+<i>Colorado and Nevada</i>
+
+1406
+01:37:10,270 --> 01:37:13,831
+CHORUS:
+<i>Everybody's happy, everybody's gay</i>
+
+1407
+01:37:14,007 --> 01:37:17,568
+<i>Everybody's swingin' in the U.S.A.</i>
+
+1408
+01:37:17,744 --> 01:37:21,236
+<i>Swingin' the jinx, swingin' the jinx</i>
+<i>Swingin' the jinx, swingin' the jinx</i>
+
+1409
+01:37:21,415 --> 01:37:23,076
+<i>Swingin' the jinx, swingin' the jinx</i>
+
+1410
+01:37:23,250 --> 01:37:24,911
+<i>One, two</i>
+
+1411
+01:37:25,085 --> 01:37:33,083
+<i>Three cheers for the red, white and blue</i>
+
+1412
+01:37:34,127 --> 01:37:36,118
+CHORUS:
+<i>Way down upon the Suwannee River</i>
+
+1413
+01:37:36,296 --> 01:37:39,754
+PEPPY:
+<i>Everybody's happy and everyone's gay</i>
+
+1414
+01:37:39,933 --> 01:37:41,298
+CHORUS:
+<i>They swing all day</i>
+
+1415
+01:37:41,468 --> 01:37:44,528
+ALL:
+<i>Every little mammy and every little pappy</i>
+
+1416
+01:37:44,704 --> 01:37:47,400
+<i>Is swingin' the jinx away</i>
+
+1417
+01:37:47,574 --> 01:37:50,236
+ALL: <i>What is that song</i>
+CHORUS: <i>That all the cowboys</i>
+
+1418
+01:37:50,410 --> 01:37:51,900
+<i>They are a-singin' in the west?</i>
+
+1419
+01:37:52,079 --> 01:37:53,103
+<i>-Why, it's hi-di</i>
+<i>-Hi</i>
+
+1420
+01:37:53,280 --> 01:37:54,304
+<i>-Hi-di</i>
+<i>-Hey</i>
+
+1421
+01:37:54,481 --> 01:37:55,709
+ALL:
+<i>Hi-di-hi-di-hey</i>
+
+1422
+01:37:55,882 --> 01:37:59,648
+PEPPY: <i>And all those broncobusters</i>
+<i>Buck around like Harlem dusters</i>
+
+1423
+01:37:59,820 --> 01:38:03,085
+ALL:
+<i>Swingin', swingin' the jinx away</i>
+
+1424
+01:38:03,356 --> 01:38:06,223
+<i>Swing and bid your troubles goodbye</i>
+
+1425
+01:38:06,393 --> 01:38:09,294
+<i>Swing your troubles into the sky</i>
+
+1426
+01:38:09,463 --> 01:38:12,398
+<i>High, higher up to the ceiling</i>
+
+1427
+01:38:12,566 --> 01:38:15,364
+<i>High, higher, send it a-reeling</i>
+
+1428
+01:38:15,535 --> 01:38:19,665
+<i>High</i>
+
+1429
+01:38:34,321 --> 01:38:37,188
+CHORUS:
+<i>Gotta swing the jinx away</i>
+
+1430
+01:38:37,357 --> 01:38:39,689
+<i>Swing the hi-de-hay</i>
+
+1431
+01:38:39,860 --> 01:38:42,852
+<i>Hi-de-hey-de, rap tap on wood</i>
+
+1432
+01:43:44,197 --> 01:43:51,194
+CHORUS:
+<i>Three cheers for the red, white and blue</i>
+
+1433
+01:43:51,538 --> 01:43:58,535
+<i>Three cheers for the red, white and blue</i>
+
+1434
+01:43:58,978 --> 01:44:05,975
+<i>The Army and Navy forever</i>
+
+1435
+01:44:06,286 --> 01:44:08,516
+<i>Three cheers</i>
+
+1436
+01:44:08,688 --> 01:44:15,184
+<i>For the red, white and blue</i>
+
+1437
+01:44:29,943 --> 01:44:32,207
+[AUDIENCE APPLAUDING]
+
+1438
+01:44:37,951 --> 01:44:41,148
+Nora. Nora, you were wonderfuI.
+
+1439
+01:44:41,321 --> 01:44:43,687
+Oh, thanks, Ted.
+
+1440
+01:44:44,257 --> 01:44:45,246
+HeIIo.
+
+1441
+01:44:45,425 --> 01:44:46,414
+[CHUCKLES]
+
+1442
+01:44:46,593 --> 01:44:48,891
+Oh, Mr. McKay.
+Have you met Mr. Barker?
+
+1443
+01:44:49,062 --> 01:44:50,529
+We've met before.
+
+1444
+01:44:50,697 --> 01:44:52,221
+[ALL LAUGH]
+
+1445
+01:44:52,398 --> 01:44:53,763
+I've got a surprise for you.
+
+1446
+01:44:53,933 --> 01:44:55,230
+Yeah, what is it?
+
+1447
+01:44:55,401 --> 01:44:57,528
+SaIIy is our chiId.
+
+1448
+01:44:57,704 --> 01:44:58,966
+-SaIIy?
+-Yes.
+
+1449
+01:44:59,138 --> 01:45:01,197
+WeII, this is a fine time to teII me.
+
+1450
+01:45:01,374 --> 01:45:04,673
+-Why?
+-I just joined the Navy again.
+
+1451
+01:45:06,145 --> 01:45:08,238
+I'II see you in four years.
+
+1452
+01:45:08,414 --> 01:45:11,906
+[SINGING]
+<i>So try to see</i>
+
+1453
+01:45:12,085 --> 01:45:16,749
+<i>Your future with me</i>
+
+1454
+01:45:16,923 --> 01:45:18,413
+CHORUS:
+<i>'Cause you'd be</i>
+
+1455
+01:45:18,591 --> 01:45:23,119
+<i>Oh, so easy</i>
+
+1456
+01:45:23,296 --> 01:45:28,290
+<i>To love</i>
+
+1457
+01:45:55,128 --> 01:45:57,119
+[ENGLISH SDH]
+
