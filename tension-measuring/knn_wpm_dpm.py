@@ -3,6 +3,7 @@ import os.path
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
+from sklearn.metrics import classification_report
 
 count_movie = 0
 min_wpm = 999
@@ -17,18 +18,20 @@ def makeTest(k):
     neigh = KNeighborsClassifier(n_neighbors=k)
     neigh.fit(np.array(values, dtype='float_'), labels)
 
+    test_labels = []
+    predictions = []
     count_movie = 0
     count_true = 0
-    for dirpath, dirnames, filenames in os.walk("../Subtitles"):
+    for dirpath, dirnames, filenames in os.walk("../NonImpairedSubtitles"):
         dirname = dirpath.split("/")[-1]
 
-        if dirname == "Test":
+        if dirname == "Test" or dirname == "Adventure" or dirname == "Western":
             continue
         cnt = 0
         indices = []
         word_per_minutes = []
         dialog_per_minutes = []
-        for filename in [f for f in filenames if f.endswith(".srt")][-15:]:
+        for filename in [f for f in filenames if f.endswith(".srt")][-200:]:
             subs = parse_subtitle(os.path.join(dirpath, filename))
             if len(subs) <= 0:
                 continue
@@ -50,16 +53,23 @@ def makeTest(k):
             indices.append(count_movie)
             dialog_per_minutes.append(dialog_per_minute)
 
-            predicted = neigh.predict([[dialog_per_minute, word_per_minute]])
+            predicted = neigh.predict([[dialog_per_minute, word_per_minute]])[0]
+
+            test_labels.append(dirname)
+            predictions.append(predicted)
             if dirname == predicted:
                 count_true += 1
+    #print(test_labels)
+    #print(predictions)
+    #print(confusion_matrix(test_labels, predictions))
+    print(classification_report(test_labels, predictions))
     return 100. * count_true / count_movie
 
 
-for dirpath, dirnames, filenames in os.walk("../Subtitles"):
+for dirpath, dirnames, filenames in os.walk("../NonImpairedSubtitles"):
     dirname = dirpath.split("/")[-1]
 
-    if dirname == "Training":
+    if dirname == "Training" or dirname == "Adventure" or dirname == "Western":
         continue
     print(dirname)
     cnt = 0
@@ -67,7 +77,7 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
     indices = []
     word_per_minutes = []
     dialog_per_minutes = []
-    for filename in [f for f in filenames if f.endswith(".srt")][:-15]:
+    for filename in [f for f in filenames if f.endswith(".srt")][:-200]:
         subs = parse_subtitle(os.path.join(dirpath, filename))
         if len(subs) <= 0:
             continue
