@@ -1,4 +1,4 @@
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
 from sklearn.utils import shuffle
@@ -95,7 +95,7 @@ def tag_subtitles(input_folder):
     genres = []
     texts = []
 
-    # get lower bound and put equal amount of catagories in the train set.
+    # get lower bound and put equal amount of categories in the train set.
     lowest = 100000
     for category in global_variables.genres:
         input_folder_path = "%s/%s" % (subtitles_path, category)
@@ -126,15 +126,10 @@ def tag_subtitles(input_folder):
 
 
 def bag_of_words_and_tf(data):
-    # Vectorize
-    count_vect = CountVectorizer()
-    train_counts = count_vect.fit_transform(data)
+    tf_bow_vectorizor = TfidfVectorizer()
+    train_tf = tf_bow_vectorizor.fit_transform(data)
 
-    #Tf transform
-    tf_transformer = TfidfTransformer(use_idf=False).fit(train_counts)
-    train_tf = tf_transformer.transform(train_counts)
-
-    return train_tf
+    return train_tf, tf_bow_vectorizor
 
 
 def randomize(text, genre):
