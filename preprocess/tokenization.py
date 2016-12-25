@@ -9,9 +9,7 @@ from os import path
 from os import mkdir
 from os import listdir
 import codecs
-
-
-categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+import global_variables
 
 
 def clean_stopword(text):
@@ -30,7 +28,7 @@ def categorize_words(input_folder):
     subtitles_path = path.relpath(input_folder)
 
     text_dict = {}
-    for category in categories:
+    for category in global_variables.genres:
 
         text = ""
         full_text = []
@@ -58,7 +56,7 @@ def process_movie_subtitles(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)
     output_path = path.relpath(output_folder)
 
-    for category in categories:
+    for category in global_variables.genres:
 
         input_folder_path = "%s/%s" % (subtitles_path, category)
         output_folder_path = "%s/%s" % (output_path, category)
@@ -99,14 +97,14 @@ def tag_subtitles(input_folder):
 
     # get lower bound and put equal amount of catagories in the train set.
     lowest = 100000
-    for category in categories:
+    for category in global_variables.genres:
         input_folder_path = "%s/%s" % (subtitles_path, category)
         if len(listdir(input_folder_path)) < lowest:
             lowest = len(listdir(input_folder_path))
 
-    print(lowest)
+    print(lowest * len(global_variables.genres))
 
-    for category in categories:
+    for category in global_variables.genres:
         input_folder_path = "%s/%s" % (subtitles_path, category)
         impaired = '(IMPAIRED)'
 
