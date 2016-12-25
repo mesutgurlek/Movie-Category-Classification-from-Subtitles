@@ -1,0 +1,1283 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:25:42.72,00:25:45.09
+Here you are, sir. Main level, please.
+
+00:25:46.06,00:25:47.89
+Right. See you on the way back.
+
+00:25:47.96,00:25:49.19
+-Bye.[br]-Bye.
+
+00:25:50.69,00:25:52.22
+-Good morning, sir.[br]-Good morning.
+
+00:25:52.30,00:25:54.26
+We haven't seen you up here[br]for a long time.
+
+00:25:54.33,00:25:55.70
+No. Very nice to see you again.
+
+00:25:55.77,00:25:58.60
+-Did you have a pleasant flight, sir?[br]-Yes, very nice, thanks.
+
+00:25:58.67,00:26:01.87
+I think Mr. Miller of Station Security[br]is supposed to be meeting me.
+
+00:26:01.94,00:26:02.96
+May I call him for you?
+
+00:26:03.04,00:26:04.20
+Would you, please? Here he is!
+
+00:26:04.27,00:26:06.24
+-Hello, Dr. Floyd.[br]-Hello, Miller! How are you?
+
+00:26:06.31,00:26:08.54
+-Sorry I'm late.[br]-That's all right. You look great.
+
+00:26:08.61,00:26:10.44
+Thank you. It's nice to have you back.
+
+00:26:10.51,00:26:12.88
+-Did you have a good flight?[br]-Very nice indeed.
+
+00:26:12.95,00:26:14.42
+-Well, shall we go through?[br]-Okay.
+
+00:26:14.48,00:26:15.95
+Will you please use Number 17?
+
+00:26:16.02,00:26:17.78
+-Thank you, Miss Turner.[br]-Thank you.
+
+00:26:17.85,00:26:18.91
+This way.
+
+00:26:24.26,00:26:26.53
+Welcome to Voice Print Identification.
+
+00:26:26.76,00:26:28.70
+When you see the red light go on...
+
+00:26:28.77,00:26:31.23
+...would you please state[br]in the following order:
+
+00:26:31.30,00:26:35.14
+your destination, your nationality[br]and your full name.
+
+00:26:35.61,00:26:38.44
+Surname first, Christian name and initial.
+
+00:26:40.18,00:26:44.14
+Moon. American. Floyd, Heywood R.
+
+00:26:46.85,00:26:50.79
+Thank you. You are cleared through[br]Voice Print Identification.
+
+00:26:51.29,00:26:52.41
+Thank you.
+
+00:26:59.56,00:27:01.22
+Have I got time for breakfast?
+
+00:27:01.30,00:27:02.77
+I think we can manage that.
+
+00:27:02.83,00:27:04.06
+How long have I got?
+
+00:27:04.13,00:27:06.76
+Your flight leaves[br]in an hour and ten minutes.
+
+00:27:06.84,00:27:09.81
+I've reserved a table for you[br]in the Earthlight Room.
+
+00:27:10.47,00:27:14.00
+It's been about seven or eight months[br]since you were here last, isn't it?
+
+00:27:14.08,00:27:15.77
+Let's see. Yeah, about eight months.
+
+00:27:15.85,00:27:19.14
+I suppose you saw the work on[br]the new section when you came in here?
+
+00:27:19.22,00:27:21.55
+-Yes, coming along great, huh?[br]-Yeah, it's fine.
+
+00:27:21.62,00:27:22.71
+Oh, wait a minute!
+
+00:27:22.79,00:27:26.22
+I've got a few calls to make.[br]I'll meet you in the restaurant.
+
+00:27:44.37,00:27:47.21
+Will Mr. Travers please contact[br]the Met Office?
+
+00:27:48.48,00:27:51.38
+Will Mr. Travers please contact[br]the Met Office?
+
+00:27:56.52,00:27:57.35
+Yes?
+
+00:27:58.76,00:28:00.52
+-How are you, squirt?[br]-All right.
+
+00:28:00.59,00:28:02.06
+What are you doin'?
+
+00:28:03.66,00:28:04.63
+Playing.
+
+00:28:04.93,00:28:06.16
+Where's Mommy?
+
+00:28:06.66,00:28:08.06
+Gone to shopping.
+
+00:28:08.37,00:28:10.70
+-Well, who's taking care of ya?[br]-Rachel.
+
+00:28:11.03,00:28:12.70
+May I speak to Rachel, please?
+
+00:28:12.77,00:28:14.53
+She's gone to the bathroom.
+
+00:28:14.67,00:28:17.11
+Are you coming to my party tomorrow?
+
+00:28:17.64,00:28:19.84
+I'm sorry, sweetheart, but I can't.
+
+00:28:20.51,00:28:21.57
+Why not?
+
+00:28:21.91,00:28:24.35
+Well, you know, Daddy's travelling.
+
+00:28:24.65,00:28:27.01
+Very sorry about it, but I just can't!
+
+00:28:28.45,00:28:31.25
+I'm gonna send you[br]a very nice present, though.
+
+00:28:32.96,00:28:33.98
+All right.
+
+00:28:34.06,00:28:36.39
+-Anything special that you want?[br]- Yes.
+
+00:28:36.56,00:28:37.58
+What?
+
+00:28:37.89,00:28:39.02
+A telephone.
+
+00:28:40.00,00:28:41.99
+We've got lots of telephones already.
+
+00:28:42.07,00:28:44.83
+Can't you think of anything else[br]you want for your birthday?
+
+00:28:44.90,00:28:46.37
+Something very special?
+
+00:28:46.90,00:28:48.46
+- Yes.[br]-What?
+
+00:28:48.74,00:28:49.90
+A bush baby.
+
+00:28:49.97,00:28:52.50
+A bush baby?[br]Well, we'll have to see about that.
+
+00:28:52.58,00:28:54.54
+I want you to tell Mommy[br]something for me.
+
+00:28:54.61,00:28:56.51
+-Will you remember?[br]- Yes.
+
+00:28:56.85,00:28:59.31
+Well, tell Mommy that I telephoned. Okay?
+
+00:29:00.45,00:29:01.21
+Yes.
+
+00:29:01.28,00:29:03.95
+And that I'll try[br]to telephone again tomorrow.
+
+00:29:04.39,00:29:06.18
+Now, will you tell her that?
+
+00:29:07.22,00:29:08.05
+Yes.
+
+00:29:08.22,00:29:11.16
+Okay, sweetheart.[br]Now, have a nice birthday tomorrow.
+
+00:29:11.23,00:29:12.29
+All right.
+
+00:29:12.63,00:29:15.46
+And have a nice birthday party[br]tomorrow, too, huh?
+
+00:29:16.43,00:29:17.53
+All right.
+
+00:29:17.67,00:29:20.53
+Okay, now, take care and be a good girl,[br]won't you?
+
+00:29:20.60,00:29:21.93
+All right. Bye-bye!
+
+00:29:22.01,00:29:24.57
+Bye-bye! Happy birthday.
+
+00:29:38.25,00:29:40.45
+Elena, how nice to see you again.
+
+00:29:40.52,00:29:42.62
+What a wonderful surprise[br]to meet you here!
+
+00:29:42.69,00:29:45.75
+-You're looking wonderful.[br]-Thank you. You're looking well, too.
+
+00:29:45.83,00:29:48.02
+This is my good friend, Dr. Heywood Floyd.
+
+00:29:48.10,00:29:50.57
+-I'd like you to meet Dr. Kalinan.[br]-How do you do?
+
+00:29:50.63,00:29:52.76
+-Dr. Stretyneva.[br]-How do you do?
+
+00:29:52.84,00:29:54.70
+And this is Dr. Andrei Smyslov.
+
+00:29:54.77,00:29:57.40
+How do you do? I've heard a lot about you.
+
+00:29:57.47,00:29:58.94
+Won't you sit down?
+
+00:29:59.34,00:30:01.21
+-Well, we--[br]-No, no, please.
+
+00:30:01.74,00:30:03.21
+Well, thank you.
+
+00:30:03.48,00:30:06.51
+-Would you like a drink, Doctor?[br]-No, thank you.
+
+00:30:06.58,00:30:09.88
+I haven't had breakfast yet.[br]Someone's meeting me in the restaurant.
+
+00:30:09.95,00:30:12.82
+I'll just sit with you a few minutes[br]and then I must be off.
+
+00:30:12.89,00:30:15.92
+-Are you quite sure?[br]-I'm quite sure, thank you.
+
+00:30:16.56,00:30:18.69
+-And how's Gregor?[br]-He's fine.
+
+00:30:19.03,00:30:22.40
+He's been doing some underwater research[br]in the Baltic so...
+
+00:30:22.57,00:30:26.66
+...I'm afraid we don't get a chance[br]to see very much of each other these days.
+
+00:30:26.74,00:30:28.83
+When you do see him,[br]give him my regards, huh?
+
+00:30:28.91,00:30:30.37
+Yes, of course.
+
+00:30:30.77,00:30:33.33
+Well, where are you all off to?[br]Up or down?
+
+00:30:33.48,00:30:35.03
+Oh, we're going home.
+
+00:30:35.18,00:30:39.41
+We have just spent three months[br]calibrating the new antennae at Tchalinko.
+
+00:30:40.28,00:30:43.12
+-And what about you?[br]-I'm just on my way up to Clavius.
+
+00:30:43.19,00:30:44.59
+Oh, are you?
+
+00:30:47.19,00:30:50.49
+Dr. Floyd, I hope you don't think[br]I'm being too inquisitive, but...
+
+00:30:50.56,00:30:53.09
+...perhaps you can clear up[br]the great big mystery...
+
+00:30:53.16,00:30:55.36
+...about what is going on up there.
+
+00:30:56.77,00:30:58.70
+I'm afraid I don't know what you mean.
+
+00:30:58.77,00:31:00.86
+Oh, it's just that for the past two weeks...
+
+00:31:00.94,00:31:04.24
+...some extremely odd things[br]have been happening at Clavius.
+
+00:31:04.61,00:31:06.27
+-Oh, really?[br]-Yes, yes.
+
+00:31:06.91,00:31:11.24
+For one thing, whenever you phone[br]the base all you get is a recording which...
+
+00:31:11.48,00:31:15.61
+...repeats that the phone lines[br]are temporarily out of order.
+
+00:31:17.19,00:31:20.92
+Probably having some trouble with[br]their equipment or something like that.
+
+00:31:20.99,00:31:23.55
+That's what we thought[br]was the explanation at first...
+
+00:31:23.63,00:31:26.19
+...but it has been going on now[br]for the past ten days.
+
+00:31:26.26,00:31:29.29
+You have not been able to contact anyone[br]for the past ten days?
+
+00:31:29.37,00:31:30.63
+That's right.
+
+00:31:30.87,00:31:31.77
+Oh, I see.
+
+00:31:31.83,00:31:33.46
+And there's another thing, Heywood.
+
+00:31:33.54,00:31:36.53
+Two days ago, one of our rocket buses[br]was denied permission...
+
+00:31:36.61,00:31:38.90
+...for an emergency landing at Clavius.
+
+00:31:39.01,00:31:40.31
+That does sound odd.
+
+00:31:40.38,00:31:43.74
+Yes, yes. I'm afraid there's going to be[br]a bit of a row about that.
+
+00:31:43.81,00:31:47.77
+Denying the men permission to land is[br]a direct violation of the I.A.S. Convention.
+
+00:31:47.85,00:31:49.61
+Yes, of course. Of course.
+
+00:31:49.69,00:31:52.55
+-Did the crew get back all right?[br]-Yes, fortunately they did.
+
+00:31:52.62,00:31:54.52
+Well, I'm glad about that.
+
+00:31:57.96,00:32:01.95
+At the risk of pressing you[br]on a point you seem reticent to discuss...
+
+00:32:02.27,00:32:04.86
+...may I ask you[br]a straightforward question?
+
+00:32:05.07,00:32:06.40
+Well, certainly.
+
+00:32:09.24,00:32:13.27
+Quite frankly, we have had some[br]very reliable intelligence reports that...
+
+00:32:13.78,00:32:17.01
+...quite a serious epidemic[br]has broken out on Clavius.
+
+00:32:17.48,00:32:20.24
+Something, apparently,[br]of an unknown origin.
+
+00:32:21.62,00:32:23.92
+Is this, in fact, what has happened?
+
+00:32:29.33,00:32:31.29
+I'm sorry, Dr. Smyslov, but...
+
+00:32:32.83,00:32:35.53
+...I'm really not at liberty to discuss this.
+
+00:32:37.20,00:32:38.39
+I understand.
+
+00:32:39.44,00:32:42.89
+But this epidemic could quite easily[br]spread to our base.
+
+00:32:43.11,00:32:45.34
+We should be given all the facts, Dr. Floyd.
+
+00:32:45.41,00:32:47.38
+Yes, I know.
+
+00:32:50.25,00:32:52.81
+As I said, I'm not at liberty to discuss it.
+
+00:32:55.99,00:32:59.08
+Now, are you sure you won't[br]change your mind about that drink?
+
+00:32:59.16,00:33:01.28
+No, I'm positive.[br]Now, I really must be going.
+
+00:33:01.36,00:33:04.79
+I hope that you and your wife can come[br]to the I.A.C. Conference in June.
+
+00:33:04.86,00:33:06.52
+We're gonna try. Hope we can make it.
+
+00:33:06.60,00:33:10.16
+And if you do, you remember to bring[br]that darling little daughter with you!
+
+00:33:10.23,00:33:13.67
+Well, that will all depend on[br]school vacations and all that sort of thing.
+
+00:33:13.74,00:33:14.67
+But if we can, we will.
+
+00:33:14.74,00:33:18.30
+Don't forget you have a standing invitation[br]if you ever get to the States.
+
+00:33:18.37,00:33:21.40
+No, of course not. Gregor and I will[br]look forward to seeing you.
+
+00:33:21.48,00:33:23.07
+Well, goodbye, Elena.
+
+00:33:23.58,00:33:26.48
+It has been a pleasure meeting you all,[br]Dr. Smyslov.
+
+00:33:26.55,00:33:30.54
+Whatever the reasons for your visit[br]to Clavius, the very best of luck to you.
+
+00:33:30.62,00:33:31.75
+Thank you.
+
+00:33:32.06,00:33:33.11
+Ladies.
+
+00:41:28.70,00:41:30.16
+Excuse me, Dr. Halvorsen.
+
+00:41:30.23,00:41:32.46
+I'm through now.[br]Thank you very much, gentlemen.
+
+00:41:32.54,00:41:33.66
+You're welcome.
+
+00:41:46.95,00:41:47.97
+Well....
+
+00:41:48.58,00:41:52.99
+I know you will all want to join with me[br]in welcoming our...
+
+00:41:53.79,00:41:55.85
+...distinguished friend and colleague...
+
+00:41:55.93,00:41:59.76
+...from the National Council[br]of Astronautics, Dr. Heywood Floyd.
+
+00:42:00.36,00:42:05.10
+Dr. Floyd has come up specially to Calvius[br]to be with us today.
+
+00:42:06.60,00:42:10.09
+And before the briefing I know[br]he'd like to have a few words with you.
+
+00:42:10.17,00:42:11.30
+Dr. Floyd?
+
+00:42:24.22,00:42:26.38
+Thank you, Dr. Halvorsen.
+
+00:42:26.46,00:42:27.79
+Hi, everybody.
+
+00:42:27.92,00:42:29.91
+Nice to be back again.
+
+00:42:32.63,00:42:36.09
+First of all, I bring a personal message[br]from Dr. Howell who...
+
+00:42:36.23,00:42:39.50
+...has asked me to convey[br]his deepest appreciation to all of you...
+
+00:42:39.57,00:42:42.44
+...for the many sacrifices[br]you have had to make.
+
+00:42:42.74,00:42:46.04
+And, of course, his congratulations[br]on your discovery...
+
+00:42:47.14,00:42:51.60
+...which may well prove to be among the[br]most significant in the history of science.
+
+00:42:54.08,00:42:55.21
+Now...
+
+00:42:55.99,00:42:59.82
+...I know there have been some[br]conflicting views held by some of you...
+
+00:43:00.12,00:43:03.42
+...regarding the need[br]for complete security in this matter.
+
+00:43:03.99,00:43:07.22
+More specifically, your opposition[br]to the cover story...
+
+00:43:08.20,00:43:12.16
+...created to give the impression[br]that there is an epidemic at the base.
+
+00:43:12.77,00:43:16.03
+I understand that beyond it being[br]a matter of principle...
+
+00:43:17.21,00:43:20.90
+...many of you are troubled[br]by the concern and anxiety...
+
+00:43:21.01,00:43:25.38
+...this story of an epidemic might cause[br]to your relatives and friends on Earth.
+
+00:43:26.35,00:43:29.51
+Well, I completely sympathize[br]with your negative views.
+
+00:43:31.29,00:43:34.35
+I find this cover story[br]personally embarrassing myself.
+
+00:43:35.76,00:43:39.52
+However, I accept the need[br]for absolute secrecy in this.
+
+00:43:40.83,00:43:42.69
+And I hope you will, too.
+
+00:43:45.17,00:43:48.36
+Now, I'm sure you are all aware[br]of the extremely grave potential...
+
+00:43:48.44,00:43:51.10
+...for cultural shock[br]and social disorientation...
+
+00:43:51.17,00:43:53.30
+...contained in this present situation...
+
+00:43:53.38,00:43:56.34
+...if the facts were prematurely[br]and suddenly made public...
+
+00:43:56.41,00:43:59.21
+...without adequate preparation[br]and conditioning.
+
+00:44:01.15,00:44:03.52
+Anyway, this is the view of the Council.
+
+00:44:04.99,00:44:08.98
+The purpose of my visit here is[br]to gather additional facts and opinions...
+
+00:44:09.19,00:44:10.75
+...on the situation...
+
+00:44:11.56,00:44:14.12
+...and to prepare a report to the Council...
+
+00:44:14.70,00:44:16.67
+...recommending when and how...
+
+00:44:17.77,00:44:20.26
+...the news should eventually[br]be announced.
+
+00:44:21.07,00:44:24.77
+Now, if any of you would like to give me[br]your views and opinions...
+
+00:44:25.04,00:44:29.37
+...in private if you like, I will be only[br]too happy to include them in my report.
+
+00:44:32.01,00:44:33.95
+Well, I think that's about it.
+
+00:44:34.78,00:44:36.15
+Any questions?
+
+00:44:38.92,00:44:43.12
+Dr. Floyd, have you any idea[br]how much longer this cover story...
+
+00:44:43.19,00:44:45.16
+...will have to be maintained?
+
+00:44:46.93,00:44:48.36
+I don't know, Bill.
+
+00:44:48.90,00:44:52.70
+I suppose it will be maintained as long as[br]is deemed necessary by the Council.
+
+00:44:52.77,00:44:56.33
+There must be adequate time for[br]a full study to be made on the situation...
+
+00:44:56.41,00:44:59.81
+...before any thought can be given[br]to making a public announcement.
+
+00:44:59.88,00:45:03.11
+Oh, yes, as some of you already know,[br]the Council has requested...
+
+00:45:03.18,00:45:06.08
+...that formal security oaths are[br]to be obtained in writing...
+
+00:45:06.15,00:45:08.95
+...from everyone who has any knowledge[br]of this event.
+
+00:45:10.99,00:45:13.11
+Are there any more questions?
+
+00:45:18.53,00:45:23.19
+I'm sure we all want to cooperate[br]with Dr. Floyd as fully as possible...
+
+00:45:24.53,00:45:27.26
+...and as there seems[br]to be no more questions...
+
+00:45:27.54,00:45:29.66
+...I think we ought to get on[br]with the briefing.
+
+00:45:29.74,00:45:32.21
+-Thank you, Dr. Floyd.[br]-Thank you.
+
+00:47:09.57,00:47:11.06
+Anybody hungry?
+
+00:47:13.54,00:47:15.51
+-What we've got?[br]-You name it.
+
+00:47:19.98,00:47:22.25
+-What's this? Chicken?[br]-Something like that.
+
+00:47:22.32,00:47:23.84
+Tastes the same, anyway.
+
+00:47:24.82,00:47:26.05
+Any ham?
+
+00:47:26.19,00:47:27.85
+Ham, ham, ham....
+
+00:47:32.93,00:47:36.99
+-Looks pretty good.[br]-They're getting better at it all the time.
+
+00:47:38.73,00:47:41.00
+That was an excellent speech[br]you gave us, Heywood.
+
+00:47:41.07,00:47:42.26
+It certainly was.
+
+00:47:42.87,00:47:44.96
+I'm sure it beefed up morale a hell of a lot.
+
+00:47:45.04,00:47:46.20
+Thanks, Ralph.
+
+00:47:46.28,00:47:49.61
+I want to say to both of you[br]that I think you've done a wonderful job.
+
+00:47:49.68,00:47:51.58
+I appreciate the way[br]you've handled this thing.
+
+00:47:51.65,00:47:55.52
+Well, the way we look at it, it's our job[br]to do this thing the way you want it done.
+
+00:47:55.58,00:47:57.88
+And we're only too happy[br]to be able to oblige.
+
+00:47:58.45,00:48:00.01
+Have you seen these yet?
+
+00:48:00.09,00:48:01.45
+Take a look at them.
+
+00:48:01.52,00:48:03.82
+Here's what started the whole thing.
+
+00:48:04.36,00:48:05.92
+Oh, yes.
+
+00:48:05.99,00:48:09.76
+When we first found it, we thought[br]it might be an outcrop of magnetic rock...
+
+00:48:09.83,00:48:13.10
+...but all the geological evidence[br]was against it.
+
+00:48:13.17,00:48:17.83
+And not even a big nickel iron meteorite[br]could produce a field as intense as this.
+
+00:48:18.11,00:48:19.54
+So, we decided to have a look.
+
+00:48:19.61,00:48:22.63
+We thought it might be[br]the upper part of some buried structure...
+
+00:48:22.71,00:48:24.30
+...so we excavated out on all sides.
+
+00:48:24.38,00:48:26.61
+But, unfortunately,[br]we didn't find anything else.
+
+00:48:26.68,00:48:29.71
+And what's more, the evidence seems[br]pretty conclusive that...
+
+00:48:29.79,00:48:33.05
+...it has not been covered up[br]by natural erosion or other forces.
+
+00:48:33.12,00:48:35.95
+It seems to have been deliberately buried.
+
+00:48:36.46,00:48:37.93
+Deliberately buried.
+
+00:48:42.10,00:48:43.53
+How about a little coffee?
+
+00:48:43.60,00:48:45.86
+-Great.[br]-Good idea.
+
+00:48:51.24,00:48:54.27
+I don't suppose you have any idea[br]what the damn thing is, huh?
+
+00:48:54.34,00:48:56.21
+I wish to hell we did.
+
+00:48:56.85,00:49:00.84
+No, the only thing we're sure of is[br]it was buried four million years ago.
+
+00:49:01.38,00:49:05.44
+Well, I must say, you guys have certainly[br]come up with something.
+
+00:58:52.31,00:58:53.57
+Good evening.
+
+00:58:53.74,00:58:56.87
+Three weeks ago, the American spacecraft,[br]Discovery One...
+
+00:58:56.95,00:58:59.85
+...left on its half-billion mile voyage[br]to Jupiter.
+
+00:58:59.91,00:59:03.58
+This marked the first manned attempt[br]to reach this distant planet.
+
+00:59:04.02,00:59:07.35
+Earlier this afternoon, "The World Tonight"[br]recorded an interview...
+
+00:59:07.42,00:59:11.65
+...with the crew of Discovery at a distance[br]of 80 million miles from Earth.
+
+00:59:12.23,00:59:15.86
+It took seven minutes for our words[br]to reach the giant spacecraft...
+
+00:59:15.93,00:59:19.23
+...but this time delay has been edited[br]from this recording.
+
+00:59:19.30,00:59:22.00
+Our reporter, Martin Amer,[br]speaks to the crew.
+
+00:59:22.90,00:59:25.77
+The crew of Discovery One[br]consists of five men...
+
+00:59:26.17,00:59:30.63
+...and one of the latest generation[br]of the HAL-9000 computers.
+
+00:59:31.41,00:59:33.78
+Three of the five men[br]were put aboard asleep...
+
+00:59:33.85,00:59:36.78
+...or to be more precise,[br]in a state of hibernation.
+
+00:59:37.25,00:59:41.92
+They were Dr. Charles Hunter,[br]Dr. Jack Kimball and Dr. Victor Kaminsky.
+
+00:59:42.76,00:59:45.59
+We spoke with Mission Commander,[br]Dr. David Bowman...
+
+00:59:45.66,00:59:47.96
+...and his deputy, Dr. Frank Poole.
+
+00:59:48.16,00:59:51.13
+Well, good afternoon, gentlemen.[br]How is everything going?
+
+00:59:51.20,00:59:55.03
+Marvellous. We have no...[br]we have no complaints.
+
+00:59:55.97,00:59:59.43
+Well, I'm very glad to hear that[br]and I'm sure that the entire world...
+
+00:59:59.51,01:00:02.97
+...would join me in wishing you[br]a safe and successful voyage.
+
+01:00:03.08,01:00:05.07
+- Thanks very much.[br]- Thank you.
+
+01:00:05.25,01:00:09.05
+Although hibernation has been used[br]on previous space efforts...
+
+01:00:09.35,01:00:13.79
+...this is the first time that men have been[br]put into hibernation before departure.
+
+01:00:13.86,01:00:15.22
+Why was this done?
+
+01:00:15.69,01:00:19.09
+Well, this was done in order to achieve[br]the maximum conservation...
+
+01:00:19.16,01:00:22.56
+...of our life-support capabilities,[br]basically food and air.
+
+01:00:22.86,01:00:26.46
+Now, the three hibernating crew members[br]represent the survey team.
+
+01:00:26.80,01:00:30.53
+And their efforts wont be utilized[br]until we are approaching Jupiter.
+
+01:00:30.77,01:00:34.07
+Dr. Poole, what's it like[br]while you are in hibernation?
+
+01:00:35.64,01:00:39.31
+It's exactly like being asleep;[br]you have absolutely no sense of time.
+
+01:00:39.38,01:00:41.81
+The only difference is you don't dream.
+
+01:00:42.08,01:00:44.78
+As I understand it,[br]you only breathe once a minute.
+
+01:00:44.85,01:00:46.05
+Is this true?
+
+01:00:46.12,01:00:47.09
+That's right.
+
+01:00:47.16,01:00:50.92
+And your heart beats three times a minute,[br]body temperature is usually down...
+
+01:00:50.99,01:00:53.32
+...to about three degrees centigrade.
+
+01:00:53.39,01:00:56.89
+The sixth member of the Discovery crew[br]was not concerned...
+
+01:00:56.96,01:00:59.23
+...about the problems of hibernation.
+
+01:00:59.30,01:01:02.33
+For he was the latest result[br]in machine intelligence.
+
+01:01:02.94,01:01:07.31
+The HAL-9000 computer[br]which can reproduce...
+
+01:01:07.71,01:01:10.74
+...though some experts still prefer[br]to use the word "mimic"...
+
+01:01:10.81,01:01:15.75
+...most of the activities of the human brain[br]and with incalculably greater speed...
+
+01:01:15.82,01:01:17.25
+...and reliability.
+
+01:01:17.59,01:01:21.18
+We next spoke[br]with the HAL-9000 computer...
+
+01:01:21.42,01:01:24.19
+...whom, we learned, one addresses as Hal.
+
+01:01:25.09,01:01:27.46
+Good afternoon, Hal.[br]How's everything going?
+
+01:01:27.53,01:01:31.23
+Good afternoon, Mr. Amer.[br]Everything's going extremely well.
+
+01:01:31.67,01:01:34.46
+Hal, you have an enormous responsibility[br]on this mission.
+
+01:01:34.54,01:01:37.06
+In many ways,[br]perhaps the greatest responsibility...
+
+01:01:37.14,01:01:39.23
+...of any single mission element.
+
+01:01:39.37,01:01:42.34
+You are the brain[br]and central nervous system of the ship.
+
+01:01:42.41,01:01:46.31
+Your responsibilities include[br]watching over the men in hibernation.
+
+01:01:46.38,01:01:49.25
+Does this ever cause you[br]any lack of confidence?
+
+01:01:49.68,01:01:51.81
+Let me put it this way, Mr. Amer.
+
+01:01:52.29,01:01:56.22
+The 9000 Series is[br]the most reliable computer ever made.
+
+01:01:57.33,01:02:01.69
+No 9000 computer has ever made[br]a mistake or distorted information.
+
+01:02:02.80,01:02:05.93
+We are all by any practical definition[br]of the words...
+
+01:02:06.30,01:02:09.10
+...foolproof and incapable of error.
+
+01:02:09.87,01:02:13.86
+Hal, despite your enormous intellect,[br]are you ever frustrated...
+
+01:02:13.94,01:02:16.91
+...by your dependence on people[br]to carry out actions?
+
+01:02:17.31,01:02:19.01
+Not in the slightest bit.
+
+01:02:19.75,01:02:21.54
+I enjoy working with people.
+
+01:02:22.08,01:02:26.11
+I have a stimulating relationship[br]with Dr. Poole and Dr. Bowman.
+
+01:02:26.82,01:02:31.22
+My mission responsibilities range[br]over the entire operation of the ship...
+
+01:02:31.56,01:02:33.55
+...so I am constantly occupied.
+
+01:02:34.63,01:02:37.72
+I am putting myself[br]to the fullest possible use...
+
+01:02:38.33,01:02:42.93
+...which is all, I think, that[br]any conscious entity can ever hope to do.
+
+01:02:43.70,01:02:47.07
+Dr. Poole, what's it like living[br]for the better part of a year...
+
+01:02:47.14,01:02:49.30
+...in such close proximity with Hal?
+
+01:02:50.75,01:02:53.15
+It's pretty close to what you said[br]about him earlier.
+
+01:02:53.21,01:02:55.38
+He's just like the sixth member[br]of the crew.
+
+01:02:55.45,01:02:59.61
+You very quickly get adjusted to the idea[br]that he talks. You think of him...
+
+01:02:59.82,01:03:01.95
+...really as just another person.
+
+01:03:02.02,01:03:05.79
+In talking to the computer[br]one gets the sense that he is capable...
+
+01:03:05.86,01:03:07.33
+...of emotional response.
+
+01:03:07.40,01:03:09.89
+For example, when I asked him[br]about his abilities...
+
+01:03:09.96,01:03:14.06
+...I sensed a certain pride in his answer[br]about his accuracy and perfection.
+
+01:03:14.34,01:03:17.10
+Do you believe that Hal[br]has genuine emotions?
+
+01:03:18.51,01:03:21.44
+Oh, yes. Well, he acts[br]like he has genuine emotions.
+
+01:03:21.64,01:03:25.37
+Of course, he's programmed that way[br]to make it easier for us to talk to him.
+
+01:03:25.45,01:03:27.71
+But, as to whether or not[br]he has real feelings...
+
+01:03:27.78,01:03:31.05
+...is something I don't think anyone[br]can truthfully answer.
+
+01:03:55.84,01:03:57.21
+Excuse me, Frank.
+
+01:03:58.15,01:03:59.27
+What is it, Hal?
+
+01:03:59.35,01:04:02.41
+We've got the transmission[br]from your parents coming in.
+
+01:04:05.29,01:04:07.75
+Put it on here, please. Take me in a bit.
+
+01:04:07.86,01:04:08.95
+Certainly.
+
+01:04:22.17,01:04:23.90
+-Hello, Frank.[br]-Happy birthday, darling.
+
+01:04:23.97,01:04:26.24
+Happy birthday.[br]Many happy returns of the day.
+
+01:04:26.31,01:04:27.80
+A bit higher, please.
+
+01:04:27.88,01:04:30.11
+Now, Mother and I are both[br]feeling wonderful, too.
+
+01:04:30.18,01:04:32.17
+Ray and Sally were going to be here, too...
+
+01:04:32.25,01:04:35.01
+...but at the last minute[br]Rays back went bad on him again.
+
+01:04:35.08,01:04:36.55
+How do you like your cake, dear?
+
+01:04:36.62,01:04:39.09
+Looks great, doesn't it?[br]Sorry you cant be with us.
+
+01:04:39.15,01:04:40.64
+Oh, I ran into Bob the other day.
+
+01:04:40.72,01:04:42.92
+He said to be sure[br]and wish you a happy birthday.
+
+01:04:42.99,01:04:45.93
+All my students made me promise[br]to send their best wishes, too.
+
+01:04:45.99,01:04:48.59
+You know they talk about you[br]all the time in the classroom.
+
+01:04:48.66,01:04:51.13
+You're a big celebrity in the second grade.
+
+01:04:51.20,01:04:52.96
+You know we were on television[br]last week?
+
+01:04:53.03,01:04:56.20
+Oh, yes! Your mother and I[br]and Dave's parents were interviewed...
+
+01:04:56.27,01:04:58.40
+...about what we thought of[br]our illustrious son.
+
+01:04:58.47,01:05:02.10
+You can imagine what we told them.[br]I think its being broadcast next Thursday.
+
+01:05:02.18,01:05:03.73
+Perhaps you'll be able to listen in.
+
+01:05:03.91,01:05:06.07
+Oh, we were thrilled[br]about Elaine and Bill, dear.
+
+01:05:06.15,01:05:10.02
+I'll be glad to get the present for you,[br]but please tell me how much to spend.
+
+01:05:10.08,01:05:12.71
+Oh, yes, Frank,[br]about your AGS-19 payments--
+
+01:05:12.82,01:05:14.48
+I think I straightened it out for you.
+
+01:05:14.56,01:05:17.18
+I talked to the Accounting Office[br]in Houston yesterday...
+
+01:05:17.26,01:05:21.25
+...and they said you should be receiving[br]your higher rates of pay by next month.
+
+01:05:21.96,01:05:24.26
+Well, I cant think of anything else to say.
+
+01:05:24.33,01:05:27.77
+-Oh, our love to Dave.[br]-Be sure to give him our best regards.
+
+01:05:28.74,01:05:31.43
+We wish you the very happiest[br]of birthdays.
+
+01:05:32.31,01:05:33.71
+All the best, son.
+
+01:05:46.05,01:05:47.68
+See you next Wednesday.
+
+01:05:51.19,01:05:52.78
+Happy birthday, Frank.
+
+01:05:53.89,01:05:56.26
+Thank you, Hal. A bit flatter, please.
+
+01:06:15.00,01:06:16.93
+Anyway, queen takes pawn--
+
+01:06:18.77,01:06:20.56
+Bishop takes knights pawn.
+
+01:06:28.71,01:06:30.07
+Rook, king, one.
+
+01:06:30.44,01:06:32.91
+I'm sorry, Frank. I think you missed it.
+
+01:06:34.01,01:06:36.95
+Queen to bishop, three.[br]Bishop takes queen.
+
+01:06:37.75,01:06:39.78
+Knight takes bishop. Mate.
+
+01:06:44.52,01:06:47.02
+Looks like you're right. Very good.
+
+01:06:47.89,01:06:49.89
+Thank you for a very enjoyable game.
+
+01:06:49.96,01:06:50.79
+Thank you.
+
+01:07:29.07,01:07:31.20
+-Good evening, Dave.[br]-How are you doing, Hal?
+
+01:07:31.27,01:07:34.64
+-Everything's running smoothly. And you?[br]-Oh, not too bad.
+
+01:07:34.71,01:07:37.70
+-Have you been doing some more work?[br]-A few sketches.
+
+01:07:37.81,01:07:39.54
+-May I see them?[br]-Sure.
+
+01:07:44.25,01:07:46.41
+That's a very nice rendering, Dave.
+
+01:07:47.59,01:07:49.85
+I think you've improved a great deal.
+
+01:07:51.26,01:07:53.49
+-Can you hold it a bit closer?[br]-Sure.
+
+01:07:56.36,01:07:58.46
+That's Dr. Hunter, isn't it?
+
+01:08:01.64,01:08:02.97
+By the way....
+
+01:08:03.97,01:08:06.56
+Do you mind[br]if I ask you a personal question?
+
+01:08:07.54,01:08:09.03
+No, no. Not at all.
+
+01:08:09.34,01:08:12.28
+Well, forgive me for being so inquisitive...
+
+01:08:13.75,01:08:16.15
+...but during the past few weeks[br]I've wondered...
+
+01:08:16.22,01:08:20.18
+...whether you might have been having[br]some second thoughts about the mission?
+
+01:08:20.25,01:08:21.62
+How do you mean?
+
+01:08:23.52,01:08:25.55
+It's rather difficult to define.
+
+01:08:27.16,01:08:30.22
+Perhaps I'm just projecting[br]my own concern about it.
+
+01:08:31.93,01:08:35.53
+I know I've never completely freed myself[br]of the suspicion...
+
+01:08:36.40,01:08:39.86
+...that there are some extremely[br]odd things about this mission.
+
+01:08:41.54,01:08:44.77
+I'm sure you will agree there is some truth[br]in what I say.
+
+01:08:47.58,01:08:50.35
+I don't know.[br]That's a rather difficult question to answer.
+
+01:08:50.42,01:08:53.05
+You don't mind talking about it,[br]do you, Dave?
+
+01:08:53.85,01:08:55.32
+Oh, no, not at all.
+
+01:08:56.66,01:08:58.89
+Certainly no one could[br]have been unaware of...
+
+01:08:58.96,01:09:02.22
+...the very strange stories floating around[br]before we left.
+
+01:09:03.76,01:09:06.67
+Rumours of something being dug up[br]on the Moon.
+
+01:09:08.50,01:09:11.03
+I never gave these stories much credence...
+
+01:09:12.04,01:09:16.17
+...but particularly in view of some[br]of the other things that have happened...
+
+01:09:16.34,01:09:19.04
+...I find them difficult[br]to put out of my mind.
+
+01:09:19.81,01:09:21.08
+For instance:
+
+01:09:21.48,01:09:25.11
+The way all our preparations[br]were kept under such tight security...
+
+01:09:26.35,01:09:27.91
+...and the melodramatic touch...
+
+01:09:27.99,01:09:31.36
+...of putting Drs. Hunter, Kimball[br]and Kaminsky aboard...
+
+01:09:32.16,01:09:36.39
+...already in hibernation after four months[br]of separate training on their own.
+
+01:09:38.00,01:09:40.49
+You working up[br]your crew psychology report?
+
+01:09:42.10,01:09:43.47
+Of course, I am.
+
+01:09:43.90,01:09:46.93
+Sorry about this. I know its a bit silly.
+
+01:09:48.41,01:09:49.67
+Just a moment.
+
+01:09:50.28,01:09:51.51
+Just a moment.
+
+01:09:53.18,01:09:56.62
+I have just picked up a fault[br]in the AE-35 unit.
+
+01:09:58.19,01:10:01.85
+It's going to go 100 percent failure[br]within 72 hours.
+
+01:10:04.66,01:10:07.32
+-You are still within operational limits?[br]- Yes.
+
+01:10:07.73,01:10:10.09
+And it will stay that way until it fails.
+
+01:10:10.16,01:10:12.65
+Would you say we had a reliable 72 hours[br]until failure?
+
+01:10:12.73,01:10:15.79
+Yes. That's a completely reliable figure.
+
+01:10:18.24,01:10:21.50
+We'll have to bring it in,[br]but I'd like to go over this with Frank...
+
+01:10:21.58,01:10:25.41
+...and get on to Mission Control.[br]Let me have a hard copy of it, please.

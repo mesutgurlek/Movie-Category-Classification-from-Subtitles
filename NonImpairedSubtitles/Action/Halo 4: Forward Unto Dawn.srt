@@ -1,0 +1,896 @@
+1
+00:00:11,432 --> 00:00:12,356
+[Evil Cortana]
+<i>I hate you.</i>
+
+2
+00:00:12,470 --> 00:00:14,809
+- [Good Cortana]<i> Cortana!</i>
+- [Evil]<i> Stop it. I've made up my mind.</i>
+
+3
+00:00:14,886 --> 00:00:16,937
+[Evil]
+<i>Maybe if I'm going to die aboard this ship,</i>
+
+4
+00:00:16,938 --> 00:00:19,879
+<i>then Chief will suffer the same fate as me.</i>
+
+5
+00:00:19,880 --> 00:00:21,990
+- [Good] <i>Cortana stop...</i>
+- [Evil] <i>You sacrificed everything...</i>
+
+6
+00:00:21,991 --> 00:00:24,387
+- <i>for him.</i>
+- [Good]<i> Control yourself.</i>
+
+7
+00:00:24,388 --> 00:00:25,787
+[Evil]
+<i>I can't.</i>
+
+8
+00:00:26,452 --> 00:00:28,552
+[Good]
+<i>This isn't right. Something is...</i>
+
+9
+00:00:39,902 --> 00:00:41,601
+[Good]
+<i>Something set us down.</i>
+
+10
+00:00:41,602 --> 00:00:44,208
+<i>Something. Interesting.</i>
+
+11
+00:00:44,407 --> 00:00:45,946
+<i>I need to think.</i>
+
+12
+00:00:45,947 --> 00:00:48,047
+[Evil]
+<i>Thinking is what's killing you.</i>
+
+13
+00:01:12,576 --> 00:01:13,976
+What happened?
+
+14
+00:01:14,161 --> 00:01:16,961
+You passed out during a training exercise.
+
+15
+00:01:17,029 --> 00:01:19,129
+My chest feels like it's on fire.
+
+16
+00:01:19,569 --> 00:01:22,317
+Turns out the cryo blisters
+and your difficulty breathing
+
+17
+00:01:22,318 --> 00:01:24,559
+are an allergic reaction
+to the psydoprethaline.
+
+18
+00:01:24,815 --> 00:01:26,525
+It's a drug we inject
+to keep ice crystals
+
+19
+00:01:26,526 --> 00:01:28,315
+from forming in your
+cells during cryo sleep.
+
+20
+00:01:28,459 --> 00:01:31,097
+Occurs in about 1 in
+every 50,000 or so.
+
+21
+00:01:31,098 --> 00:01:34,598
+So I won't be able to breath
+every time I wake up from cryo sleep?
+
+22
+00:01:35,705 --> 00:01:38,729
+The intensity of your allergy
+is still undetermined.
+
+23
+00:01:39,037 --> 00:01:41,137
+I'll know more in a few hours.
+
+24
+00:01:41,477 --> 00:01:44,977
+I want you to take it real easy
+the rest of the day, cadet.
+
+25
+00:01:45,585 --> 00:01:46,985
+Yes, sir.
+
+26
+00:01:51,330 --> 00:01:52,450
+Thanks.
+
+27
+00:02:08,349 --> 00:02:09,749
+Hey bro.
+
+28
+00:02:12,408 --> 00:02:15,208
+I'm on Andesia, it's a jump away from home.
+
+29
+00:02:17,009 --> 00:02:18,829
+It's day, uh...
+
+30
+00:02:21,604 --> 00:02:22,724
+...496.
+
+31
+00:02:25,076 --> 00:02:27,176
+I'm sorry I didn't com yesterday.
+
+32
+00:02:29,044 --> 00:02:32,643
+Couldn't. We got pinned in a
+firefight for seven hours.
+
+33
+00:02:37,409 --> 00:02:41,636
+Uhh, I must've killed
+a dozen Innies though.
+
+34
+00:02:43,456 --> 00:02:45,276
+Mom would be proud.
+
+35
+00:02:47,776 --> 00:02:49,441
+We're doing really good work here.
+
+36
+00:02:49,712 --> 00:02:51,812
+We're doing a good thing.
+
+37
+00:02:57,001 --> 00:02:59,949
+Rich didn't make it.
+You remember Rich from back home.
+
+38
+00:03:03,531 --> 00:03:06,331
+He was right there next to me and then...
+
+39
+00:03:07,746 --> 00:03:09,146
+...wasn't.
+
+40
+00:03:09,254 --> 00:03:12,754
+A pineapple and I'm flying
+in four different directions.
+
+41
+00:03:21,657 --> 00:03:24,457
+I had to shave it all off for Rich.
+
+42
+00:03:24,524 --> 00:03:26,624
+He said it made me look tough.
+
+43
+00:03:28,953 --> 00:03:30,353
+Anyways, uh...
+
+44
+00:03:33,066 --> 00:03:34,886
+...I gotta go, bro.
+
+45
+00:03:36,002 --> 00:03:37,933
+<i>I can't wait to get home.</i>
+
+46
+00:03:37,934 --> 00:03:39,754
+<i>We'll see ya. Cadmon, out.</i>
+
+47
+00:03:41,852 --> 00:03:43,952
+[Lasky]
+What are you doing?
+
+48
+00:03:47,287 --> 00:03:50,087
+Why do you torment yourself with these?
+
+49
+00:03:54,801 --> 00:03:56,201
+Are you okay?
+
+50
+00:03:59,414 --> 00:04:01,514
+- Whoa.
+- I've been better.
+
+51
+00:04:01,520 --> 00:04:03,620
+Wh, what did Dr. Hughes say?
+
+52
+00:04:03,706 --> 00:04:05,526
+That it's nothing.
+
+53
+00:04:05,797 --> 00:04:06,917
+Really?
+
+54
+00:04:15,353 --> 00:04:17,173
+You know we won today.
+
+55
+00:04:18,473 --> 00:04:20,293
+Your strategy worked.
+
+56
+00:04:21,558 --> 00:04:25,516
+That's just me, being a leader.
+
+57
+00:04:27,449 --> 00:04:29,651
+[Sully over console]
+<i>Lasky, wake up.</i>
+
+58
+00:04:29,652 --> 00:04:31,472
+<i>Oh, hey, Chyler.</i>
+
+59
+00:04:31,845 --> 00:04:33,320
+What's up, Sully?
+
+60
+00:04:33,321 --> 00:04:36,121
+<i>Get in here, you guys gotta see this.</i>
+
+61
+00:04:40,134 --> 00:04:41,554
+You look like crap.
+
+62
+00:04:41,555 --> 00:04:44,449
+[Sully] Alright, so feast
+your eyes on grade "A"
+
+63
+00:04:44,450 --> 00:04:47,875
+classified non-licit intelligence
+vids I pieced together.
+
+64
+00:04:47,922 --> 00:04:50,022
+Super pain in the ass to do but...
+
+65
+00:04:50,421 --> 00:04:51,821
+so worth it.
+
+66
+00:04:53,343 --> 00:04:55,612
+[Dimah]
+This is beyond top secret.
+
+67
+00:04:55,613 --> 00:04:59,113
+[Sully] I've never seen something
+encrypted so hard but I cracked it.
+
+68
+00:04:59,262 --> 00:05:00,662
+[Chen]
+Wow.
+
+69
+00:05:00,886 --> 00:05:02,986
+- [Sully] It's crazy, huh?
+- [Chen] Yeah.
+
+70
+00:05:03,871 --> 00:05:07,011
+[Sully] Wait, wait, wait, wait
+now here comes the best part.
+
+71
+00:05:07,012 --> 00:05:10,512
+- [Sully] Watch his hand.
+- [Spartan]<i> Target acquired.</i>
+
+72
+00:05:10,633 --> 00:05:12,733
+[On video]
+<i>They're coming! They're coming!</i>
+
+73
+00:05:12,819 --> 00:05:15,058
+[Sully]
+That thing is like two feet taller then we are.
+
+74
+00:05:15,059 --> 00:05:16,526
+[Dimah]
+Pretty crazy, huh?
+
+75
+00:05:16,527 --> 00:05:18,626
+[Sully]
+Now check this out.
+
+76
+00:05:20,386 --> 00:05:23,664
+[Spartan]
+<i>We've got an unknown hostile. Pulling back.</i>
+
+77
+00:05:24,261 --> 00:05:27,059
+- [Vickers] Uh, no way!
+- [Sully] Now who do you think they're running from?
+
+78
+00:05:27,060 --> 00:05:28,775
+Are they fighting together?
+
+79
+00:05:28,776 --> 00:05:31,576
+[Sully]
+Okay now, here comes the bast part.
+
+80
+00:05:33,142 --> 00:05:34,962
+- Whoa.
+- What is that thing?
+
+81
+00:05:35,378 --> 00:05:38,178
+[Sully]
+Now what do you think that is?
+
+82
+00:05:41,450 --> 00:05:43,565
+[PA]
+<i>It is now 1800.</i>
+
+83
+00:05:43,565 --> 00:05:46,795
+<i>All cadets report to the mess hall.</i>
+
+84
+00:05:52,963 --> 00:05:55,763
+[Sully]
+<i>What do you think that thing was?</i>
+
+85
+00:05:56,219 --> 00:05:57,708
+Definitely not an ODST.
+
+86
+00:05:57,709 --> 00:05:59,529
+Then what could it be?
+
+87
+00:05:59,860 --> 00:06:01,960
+Maybe some upgraded ODST armour.
+
+88
+00:06:02,120 --> 00:06:04,271
+Come on, did you not see
+the size of that thing?
+
+89
+00:06:04,272 --> 00:06:06,092
+That's not ODST.
+
+90
+00:06:10,178 --> 00:06:11,798
+Guys, look, you're missing the point.
+
+91
+00:06:11,799 --> 00:06:15,613
+What matters is that our soldiers were
+fighting alongside the Insurrectionists.
+
+92
+00:06:15,614 --> 00:06:17,714
+Why would we protect the enemy?
+
+93
+00:06:20,325 --> 00:06:21,725
+Cadet Lasky.
+
+94
+00:06:21,745 --> 00:06:24,545
+Colonel Mehaffey would like to see you.
+
+95
+00:06:32,391 --> 00:06:35,191
+[Mehaffey]
+<i>How are you feeling?</i>
+
+96
+00:06:35,373 --> 00:06:38,549
+Uh, my chest burns, sir.
+
+97
+00:06:38,692 --> 00:06:40,092
+Quite a bit.
+
+98
+00:06:42,401 --> 00:06:44,221
+This is for you.
+
+99
+00:06:50,885 --> 00:06:53,685
+Seems like you have a choice to make, Thomas.
+
+100
+00:06:57,116 --> 00:06:58,936
+I don't understand, sir.
+
+101
+00:06:59,962 --> 00:07:03,839
+It appears Dr. Hughes' test has
+revealed that the level of your allergy
+
+102
+00:07:03,840 --> 00:07:07,500
+to psydoprethaline is serious enough
+to warrant a medical discharge.
+
+103
+00:07:08,085 --> 00:07:10,395
+If you feel that you are unfit for service
+
+104
+00:07:10,396 --> 00:07:13,896
+all you need to do is sign the
+release and bring it to the tether.
+
+105
+00:07:20,416 --> 00:07:21,731
+When would I leave?
+
+106
+00:07:21,732 --> 00:07:23,132
+Tomorrow.
+
+107
+00:07:24,816 --> 00:07:25,667
+Tomorrow?
+
+108
+00:07:25,668 --> 00:07:27,487
+You know, Thomas...
+
+109
+00:07:29,172 --> 00:07:30,572
+...your memories...
+
+110
+00:07:31,304 --> 00:07:34,104
+...and choices are all you'll have left.
+
+111
+00:07:35,450 --> 00:07:38,950
+At the end of the game the king
+and the pawn go into the same box.
+
+112
+00:07:40,187 --> 00:07:43,687
+You have to decide what you're
+willing to sacrifice.
+
+113
+00:07:52,542 --> 00:07:53,662
+Axios.
+
+114
+00:07:54,931 --> 00:07:56,051
+Axios.
+
+115
+00:08:26,854 --> 00:08:28,405
+[Colonel Lasky]
+<i>Thomas.</i>
+
+116
+00:08:28,406 --> 00:08:31,323
+<i>It is with a heavy heart that I
+must inform you that today, your</i>
+
+117
+00:08:31,324 --> 00:08:34,634
+<i>brother Cadmon was shot down by
+Insurrectionist forces on Andesia.</i>
+
+118
+00:08:35,027 --> 00:08:36,875
+<i>All of his squad perished.</i>
+
+119
+00:08:36,876 --> 00:08:39,749
+<i>I've been told that it was
+a quick and painless death.</i>
+
+120
+00:08:39,750 --> 00:08:42,053
+<i>There are no remains to bury.</i>
+
+121
+00:08:42,054 --> 00:08:46,254
+<i>With this in mind I have decided that you
+shall not leave Corbulo to attend services.</i>
+
+122
+00:08:46,723 --> 00:08:48,123
+(Voice fades)
+
+123
+00:09:00,165 --> 00:09:01,985
+[Sully]
+Lasky!
+
+124
+00:09:02,456 --> 00:09:04,848
+Lasky, move over I gotta
+show you something.
+
+125
+00:09:04,849 --> 00:09:06,213
+Now's not a good time, Sully, okay.
+
+126
+00:09:06,214 --> 00:09:08,033
+No, it's important.
+
+127
+00:09:15,942 --> 00:09:18,042
+Now what the hell is that?
+
+128
+00:09:20,698 --> 00:09:21,818
+Hm?
+
+129
+00:09:23,760 --> 00:09:25,463
+Whoa.
+
+130
+00:09:25,568 --> 00:09:26,868
+(Powers down)
+
+131
+00:09:27,391 --> 00:09:28,791
+It's off line.
+
+132
+00:09:28,986 --> 00:09:31,086
+I'm screwed, man.
+It's ONI.
+
+133
+00:09:31,089 --> 00:09:32,909
+They must have flagged those coms.
+
+134
+00:09:32,910 --> 00:09:34,730
+I gotta talk to Dimah.
+
+135
+00:09:34,779 --> 00:09:36,879
+Dimah! Did you tell your mom?
+
+136
+00:09:39,450 --> 00:09:40,570
+Chyler?
+
+137
+00:10:00,471 --> 00:10:01,871
+[Lasky]
+Hey.
+
+138
+00:10:07,568 --> 00:10:09,668
+I thought I'd give your spot a try.
+
+139
+00:10:11,481 --> 00:10:13,581
+That com didn't make any sense.
+
+140
+00:10:14,310 --> 00:10:17,110
+Hating the enemy is all I've ever known.
+
+141
+00:10:18,950 --> 00:10:21,050
+Did you tell Mehaffey about it?
+
+142
+00:10:25,520 --> 00:10:26,640
+No.
+
+143
+00:10:28,995 --> 00:10:30,115
+No.
+
+144
+00:10:34,279 --> 00:10:35,679
+What's that?
+
+145
+00:10:39,023 --> 00:10:41,123
+Apparently I'm allergic to war.
+
+146
+00:10:47,159 --> 00:10:48,979
+What does this mean?
+
+147
+00:10:49,277 --> 00:10:51,097
+You're leaving?
+
+148
+00:10:52,713 --> 00:10:54,813
+Yeah, tomorrow if I sign it.
+
+149
+00:10:55,140 --> 00:10:56,960
+Are you going to?
+
+150
+00:10:59,673 --> 00:11:01,073
+I don't know.
+
+151
+00:11:03,849 --> 00:11:06,611
+- Chyler.
+- Oh, it's okay.
+
+152
+00:11:07,430 --> 00:11:09,030
+I know you don't want to be here.
+
+153
+00:11:09,031 --> 00:11:10,851
+I just thought...
+
+154
+00:11:11,493 --> 00:11:12,613
+...that maybe...
+
+155
+00:11:17,625 --> 00:11:19,025
+I'll miss you.
+
+156
+00:11:37,472 --> 00:11:39,292
+(Sirens start to sound)
+
+157
+00:11:42,003 --> 00:11:43,203
+What is that?
+
+158
+00:11:43,217 --> 00:11:45,973
+[PA]
+<i>All cadets, report to the tether.</i>
+
+159
+00:11:45,974 --> 00:11:47,374
+I don't know.
+
+160
+00:11:48,950 --> 00:11:51,264
+To the tether!
+Now!
+
+161
+00:11:51,298 --> 00:11:53,118
+This is not a drill!
+
+162
+00:11:53,333 --> 00:11:56,133
+Let's go, let's move,
+let's move, come on!
+
+163
+00:12:05,714 --> 00:12:08,676
+- Let's move it cadets!
+- Go, go, move it cadets!
+
+164
+00:12:09,143 --> 00:12:10,263
+Go, go, go!
+
+165
+00:12:11,916 --> 00:12:13,736
+Go to your squads. Now.
+
+166
+00:12:19,786 --> 00:12:21,606
+Keep moving, cadets!
+
+167
+00:12:23,252 --> 00:12:26,752
+Tyler, Lasky. The rest of the squad's
+already at the tether. Let's go.
+
+168
+00:12:28,702 --> 00:12:31,291
+Hastati!
+This way. Hurry up.
+
+169
+00:12:31,612 --> 00:12:33,409
+Right here. Right here.
+
+170
+00:12:33,410 --> 00:12:35,883
+Lasky, Chen, let's go.
+
+171
+00:12:37,270 --> 00:12:39,090
+Okay. Hold tight. Stay in line.
+
+172
+00:12:39,501 --> 00:12:41,039
+What is this? Insurrectionists?
+
+173
+00:12:41,040 --> 00:12:42,860
+I have no idea.
+
+174
+00:12:44,220 --> 00:12:47,020
+When we're assigned a number we're
+going to get on to the tether, okay.
+
+175
+00:12:55,072 --> 00:12:56,472
+What the...?
+
+176
+00:12:56,890 --> 00:12:58,990
+Why are ODSTs dropping here?
+
+177
+00:12:59,984 --> 00:13:01,384
+I don't know.
+
+178
+00:13:02,730 --> 00:13:04,830
+Because we're under attack.
+
+179
+00:13:11,035 --> 00:13:12,002
+This is not good.
+
+180
+00:13:12,003 --> 00:13:14,102
+ODSTs dropping is never good.
+
+181
+00:13:14,971 --> 00:13:17,071
+This is ridiculous.
+I can get us on this wagon.
+
+182
+00:13:17,231 --> 00:13:19,875
+No, no, no. We will hold our position.
+
+183
+00:13:19,876 --> 00:13:21,276
+Guys, come on.
+
+184
+00:13:21,562 --> 00:13:24,362
+No, Tchakova, that is a direct order.
+
+185
+00:13:24,415 --> 00:13:25,566
+Suit yourself.
+
+186
+00:13:25,567 --> 00:13:26,651
+- Dimah.
+- No, Dimah.
+
+187
+00:13:26,652 --> 00:13:28,751
+Get back in line right now.
+
+188
+00:13:32,089 --> 00:13:34,189
+Return to your squad, cadet.
+
+189
+00:13:34,262 --> 00:13:35,328
+I'm getting on this wagon.
+
+190
+00:13:35,329 --> 00:13:37,428
+It's full. Wait for the next one.
+
+191
+00:13:37,569 --> 00:13:40,836
+My mother is Secretary of Fleet-Com.
+
+192
+00:13:42,429 --> 00:13:44,249
+Your choice, marine.
+
+193
+00:13:45,833 --> 00:13:46,953
+Go.
+
+194
+00:13:51,422 --> 00:13:53,522
+<i>Wagon full. Send her off.</i>
+
+195
+00:13:54,307 --> 00:13:56,921
+This is taking too long, April.
+Maybe we should bum-rush like Dimah.
+
+196
+00:13:56,922 --> 00:13:59,022
+No. No, no, no, no, we'll be fine.
+
+197
+00:14:22,963 --> 00:14:25,063
+What the hell are those things?
+
+198
+00:14:40,794 --> 00:14:41,914
+Go!
+
+199
+00:15:34,785 --> 00:15:36,885
+[Chyler]
+Oh my God. What is that?
+
+200
+00:15:47,277 --> 00:15:49,097
+[Chyler]
+Tom, come on.
+
+201
+00:15:49,156 --> 00:15:50,919
+- Come on.
+- What was that?
+
+202
+00:15:50,920 --> 00:15:52,320
+I don't know.
+
+203
+00:15:53,754 --> 00:15:55,546
+(Screams and crashing of people
+falling from the tether)
+
+204
+00:15:55,547 --> 00:15:57,846
+(Screams and crashing continues)
+Come on, come on! Run!
+
+205
+00:16:02,510 --> 00:16:04,610
+<i>Subtitles by Tabularo</i>
+

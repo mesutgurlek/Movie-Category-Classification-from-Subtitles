@@ -1,0 +1,7505 @@
+﻿1
+00:00:13,520 --> 00:00:16,490
+<i>(♪ "Suite" by Elmer Bernstein)</i>
+
+2
+00:03:43,680 --> 00:03:47,571
+<i>♪ Hallelujah, hallelu, hallelujah</i>
+
+3
+00:03:47,880 --> 00:03:52,522
+<i>♪ Hallelujah, hallelu, hallelujah</i>
+
+4
+00:03:53,080 --> 00:03:55,731
+<i>♪ Don't know where we're goin'
+or where we been</i>
+
+5
+00:03:55,840 --> 00:03:57,285
+<i>♪ Hallelujah Trail</i>
+
+6
+00:03:57,400 --> 00:04:00,051
+<i>♪ It's written in the dust
+and blown by the wind</i>
+
+7
+00:04:00,160 --> 00:04:02,162
+<i>♪ Hallelujah Trail</i>
+
+8
+00:04:02,280 --> 00:04:06,001
+<i>♪ Hallelujah, hallelujah</i>
+
+9
+00:04:06,320 --> 00:04:09,688
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+10
+00:04:09,880 --> 00:04:12,360
+<i>♪ You can't tell a horse
+from a stubborn mule</i>
+
+11
+00:04:12,480 --> 00:04:13,891
+<i>♪ Hallelujah Trail</i>
+
+12
+00:04:14,000 --> 00:04:16,480
+<i>♪ You can't tell a hero
+from a doggone fool</i>
+
+13
+00:04:16,600 --> 00:04:18,568
+<i>♪ Hallelujah Trail</i>
+
+14
+00:04:18,680 --> 00:04:22,446
+<i>♪ Hallelujah, hallelujah</i>
+
+15
+00:04:22,680 --> 00:04:26,082
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+16
+00:04:26,520 --> 00:04:28,682
+<i>♪ Love a woman and she'll love you</i>
+
+17
+00:04:28,800 --> 00:04:30,290
+<i>♪ Hallelujah Trail</i>
+
+18
+00:04:30,400 --> 00:04:32,880
+<i>♪ Just do unto her like she wants you to</i>
+
+19
+00:04:33,000 --> 00:04:34,490
+<i>♪ Hallelujah Trail</i>
+
+20
+00:04:34,600 --> 00:04:37,080
+<i>♪ There ain't no such thing
+as a perfect man</i>
+
+21
+00:04:37,200 --> 00:04:38,804
+<i>♪ Hallelujah Trail</i>
+
+22
+00:04:38,920 --> 00:04:41,400
+<i>♪ You girls gotta do the best you can</i>
+
+23
+00:04:41,520 --> 00:04:43,522
+<i>♪ Hallelujah Trail</i>
+
+24
+00:04:43,640 --> 00:04:47,361
+<i>♪ Hallelujah, hallelujah</i>
+
+25
+00:04:47,680 --> 00:04:51,162
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+26
+00:04:51,680 --> 00:04:55,446
+<i>♪ Hallelujah, hallelujah</i>
+
+27
+00:04:55,760 --> 00:04:59,207
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+28
+00:04:59,320 --> 00:05:01,846
+<i>♪ The girls are sweet as sugar candy</i>
+
+29
+00:05:01,960 --> 00:05:03,485
+<i>♪ Hallelujah Trail</i>
+
+30
+00:05:03,600 --> 00:05:06,171
+<i>♪ But look out, boys, their lips are sandy</i>
+
+31
+00:05:06,280 --> 00:05:08,328
+<i>♪ Hallelujah Trail</i>
+
+32
+00:05:08,440 --> 00:05:12,411
+<i>♪ Hallelujah, hallelujah</i>
+
+33
+00:05:12,640 --> 00:05:14,210
+<i>♪ Hallelujah</i>
+
+34
+00:05:16,600 --> 00:05:18,841
+<i>♪ Early in the morning, almost day</i>
+
+35
+00:05:18,960 --> 00:05:20,724
+<i>♪ Hallelujah Trail</i>
+
+36
+00:05:20,840 --> 00:05:23,161
+<i>♪ Rise and shine, we're on our way</i>
+
+37
+00:05:23,280 --> 00:05:25,362
+<i>♪ Hallelujah Trail</i>
+
+38
+00:05:25,480 --> 00:05:29,246
+<i>♪ Hallelujah, hallelujah</i>
+
+39
+00:05:29,600 --> 00:05:33,161
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+40
+00:05:33,640 --> 00:05:37,361
+<i>♪ Hallelujah, hallelujah</i>
+
+41
+00:05:37,720 --> 00:05:39,529
+<i>♪ Hallelujah</i>
+
+42
+00:05:39,840 --> 00:05:43,447
+<i>♪ Hallelujah, hallelujah</i>
+
+43
+00:05:43,800 --> 00:05:46,087
+<i>♪ Hallelujah</i>
+
+44
+00:05:46,280 --> 00:05:55,450
+<i>♪ Hallelu, Hallelujah Trail!</i>
+
+45
+00:06:00,480 --> 00:06:02,528
+<i>The land at first.</i>
+
+46
+00:06:02,640 --> 00:06:06,565
+<i>Mountains thrust forth
+from the molten darkness of the earth.</i>
+
+47
+00:06:06,920 --> 00:06:09,287
+<i>Mountain and valley.</i>
+
+48
+00:06:09,400 --> 00:06:11,607
+<i>The virgin West.</i>
+
+49
+00:06:11,720 --> 00:06:15,167
+<i>High plateau and red rock of sandstone.</i>
+
+50
+00:06:16,000 --> 00:06:17,968
+<i>Wilderness West.</i>
+
+51
+00:06:18,400 --> 00:06:23,611
+<i>Prairie land, rolling on and on
+to the end of sight.</i>
+
+52
+00:06:23,960 --> 00:06:27,009
+<i>Oh, pioneer West.</i>
+
+53
+00:06:28,800 --> 00:06:32,725
+<i>What fervent dreams lay half-buried
+in this land of promise?</i>
+
+54
+00:06:32,840 --> 00:06:35,844
+<i>Dreams crushed by a cruel nature</i>
+
+55
+00:06:35,960 --> 00:06:38,645
+<i>or the lance of an Indian warrior.</i>
+
+56
+00:06:39,200 --> 00:06:41,931
+<i>Every page in history
+must have its beginning,</i>
+
+57
+00:06:42,040 --> 00:06:45,203
+<i>and ours takes us to the year 1867.</i>
+
+58
+00:06:46,320 --> 00:06:49,164
+<i>An army that had fought
+in the war between the states,</i>
+
+59
+00:06:49,280 --> 00:06:53,365
+<i>that had bravely battled
+in many an Indian campaign,</i>
+
+60
+00:06:53,480 --> 00:06:56,529
+<i>now patrolled the West in a time of peace,</i>
+
+61
+00:06:56,640 --> 00:06:59,211
+<i>with ever-present thoughts of home.</i>
+
+62
+00:06:59,960 --> 00:07:01,928
+<i>The Indian was back on the reservation,</i>
+
+63
+00:07:02,040 --> 00:07:06,841
+<i>where the Peace Commission of 1867
+had met with various warlike tribes</i>
+
+64
+00:07:06,960 --> 00:07:09,691
+<i>and secured certain promises from them.</i>
+
+65
+00:07:09,800 --> 00:07:12,690
+<i>In return, papers were given to Indians,</i>
+
+66
+00:07:12,800 --> 00:07:18,045
+<i>certifying them to be good citizens
+who would obey the laws of the land.</i>
+
+67
+00:07:18,160 --> 00:07:20,447
+<i>Many gifts were distributed.</i>
+
+68
+00:07:21,480 --> 00:07:23,847
+<i>Beads,</i>
+
+69
+00:07:29,680 --> 00:07:32,047
+<i>pieces of cloth,</i>
+
+70
+00:07:33,800 --> 00:07:35,962
+<i>ammunition,</i>
+
+71
+00:07:36,720 --> 00:07:39,087
+<i>and war-surplus rifles.</i>
+
+72
+00:07:46,160 --> 00:07:50,643
+<i>Naturally, these rifles</i> were
+<i>quite unfamiliar to the Indians.</i>
+
+73
+00:07:53,880 --> 00:07:57,089
+<i>Of course, it was understood
+these weapons were to be used</i>
+
+74
+00:07:57,200 --> 00:07:59,771
+<i>solely for the purpose of hunting game.</i>
+
+75
+00:08:02,360 --> 00:08:04,966
+<i>The leaves fumed early in that year.</i>
+
+76
+00:08:05,960 --> 00:08:08,122
+<i>It could be a long, hard winter.</i>
+
+77
+00:08:08,920 --> 00:08:11,127
+<i>The signs were everywhere.</i>
+
+78
+00:08:11,240 --> 00:08:16,406
+<i>In the high country, the morning frost
+would sometimes last until afternoon.</i>
+
+79
+00:08:16,520 --> 00:08:18,648
+<i>Buffalo were feeding ravenously.</i>
+
+80
+00:08:18,760 --> 00:08:22,685
+<i>Beaver were damming
+and storing with strange vigour.</i>
+
+81
+00:08:22,800 --> 00:08:27,124
+<i>Horses and dogs were becoming
+shaggy-haired as never before.</i>
+
+82
+00:08:27,520 --> 00:08:32,048
+<i>And it could be sensed in the booming,
+bustling mining town of Denver.</i>
+
+83
+00:08:32,840 --> 00:08:37,607
+<i>Most historians agree that the events
+leading to the Battle of Whiskey Hills</i>
+
+84
+00:08:37,720 --> 00:08:40,326
+<i>and the subsequent disaster
+at Quicksand Bottoms</i>
+
+85
+00:08:40,440 --> 00:08:43,683
+<i>began here in Denver,
+at a miners' meeting.</i>
+
+86
+00:08:44,880 --> 00:08:49,841
+<i>Such meetings were frequent and held
+as part of the political fabric of the town.</i>
+
+87
+00:08:50,800 --> 00:08:54,964
+<i>But the meeting of November 4th
+had a marked air of grim foreboding.</i>
+
+88
+00:08:55,440 --> 00:08:59,240
+Quiet! I got an announcement
+I gotta make.
+
+89
+00:08:59,920 --> 00:09:02,924
+In 10 days from now
+the city of Denver will be bone dry.
+
+90
+00:09:03,040 --> 00:09:04,485
+<i>(all) No!</i>
+
+91
+00:09:04,600 --> 00:09:07,285
+Not one drop of whiskey anywhere.
+
+92
+00:09:08,880 --> 00:09:14,205
+- Speak up! We can't hear ya!
+- I said Denver will be bone dry in 10 days.
+
+93
+00:09:17,760 --> 00:09:21,606
+You heard what I said.
+I said plumb out and I mean out!
+
+94
+00:09:24,840 --> 00:09:29,528
+Wait a minute. I thought Bert Keeler
+was gettin' in a big order, but he was sick.
+
+95
+00:09:29,640 --> 00:09:33,804
+Sam Buford was gettin' in So barrels, but
+Sam got his foot caught in that bear trap.
+
+96
+00:09:33,920 --> 00:09:36,366
+He didn't tell Shelby
+to get his 50 barrels, so...
+
+97
+00:09:36,480 --> 00:09:39,768
+So with four big orders outta reach,
+there ain't nobody else put in.
+
+98
+00:09:39,880 --> 00:09:43,680
+- Now, take this here saloon alone.
+- That's all there is.
+
+99
+00:09:43,800 --> 00:09:47,725
+Look at it. And there's already been
+snow flurries along Gunner's Pass.
+
+100
+00:09:47,840 --> 00:09:49,808
+If we get ourselves a hard, cold winter,
+
+101
+00:09:49,920 --> 00:09:53,003
+there won't be a wagonload of whiskey
+in Denver till spring.
+
+102
+00:09:53,120 --> 00:09:55,122
+And it could be a late spring.
+
+103
+00:09:55,800 --> 00:09:59,168
+Hold it! So what we need,
+we need us a plan.
+
+104
+00:10:03,480 --> 00:10:05,960
+Hey! What does Oracle say?
+
+105
+00:10:37,760 --> 00:10:39,728
+Afternoon, gents.
+
+106
+00:10:39,840 --> 00:10:42,491
+Oracle, what about this here winter?
+
+107
+00:10:44,440 --> 00:10:47,091
+The buffalo are feedin' ravenous.
+
+108
+00:10:47,200 --> 00:10:49,885
+The beaver are workin' somethin' fierce.
+
+109
+00:10:50,000 --> 00:10:54,642
+The horses and dogs are growin'
+shaggy-haired like never before.
+
+110
+00:10:57,320 --> 00:11:00,608
+What else? Have you seen anything else?
+
+111
+00:11:00,720 --> 00:11:05,886
+Yep, I had me a vision on, uh...
+Oh, it come on me two days ago.
+
+112
+00:11:06,000 --> 00:11:08,367
+- Well?
+- What'd you see?
+
+113
+00:11:09,320 --> 00:11:11,288
+Uh...
+
+114
+00:11:11,400 --> 00:11:13,368
+Why, thank you.
+
+115
+00:11:15,520 --> 00:11:19,286
+At the feed store, it was.
+Come on more sudden than most.
+
+116
+00:11:19,400 --> 00:11:22,609
+I was lookin' up, and there it was.
+
+117
+00:11:22,720 --> 00:11:25,087
+- What was it?
+- Snow.
+
+118
+00:11:25,200 --> 00:11:27,407
+Heavy, white snow.
+
+119
+00:11:27,520 --> 00:11:29,568
+Yep, it's gonna be a long, hard winter.
+
+120
+00:11:29,680 --> 00:11:33,526
+And when a long, hard winter hits us,
+by damn, she hits.
+
+121
+00:11:33,640 --> 00:11:37,008
+- No wagons gettin' through, no supplies?
+- And no whiskey.
+
+122
+00:11:37,120 --> 00:11:38,690
+- You know.
+- Yep.
+
+123
+00:11:38,800 --> 00:11:41,883
+It come on me two days ago.
+We gotta have a plan.
+
+124
+00:11:42,000 --> 00:11:44,685
+- What kinda plan, Oracle?
+- Uh, let me just...
+
+125
+00:11:44,800 --> 00:11:49,203
+<i>♪ Hallelujah!</i>
+
+126
+00:11:49,320 --> 00:11:51,288
+There! Now I see it!
+
+127
+00:11:56,160 --> 00:11:58,447
+I see all of us a-comin' together. I, um...
+
+128
+00:11:58,560 --> 00:12:04,329
+I see us puttin' all the whiskey orders into
+one big shipment for the whole winter.
+
+129
+00:12:06,560 --> 00:12:09,643
+I see us gettin'
+an ironclad guarantee from, uh...
+
+130
+00:12:11,880 --> 00:12:15,168
+from some good company like, uh, uh...
+
+131
+00:12:16,680 --> 00:12:18,967
+Thank you. Like Frank Wallingham...
+
+132
+00:12:21,640 --> 00:12:25,884
+to get them drinkables to our saloons
+right now afore the snows hit.
+
+133
+00:12:26,000 --> 00:12:26,967
+I, uh...
+
+134
+00:12:27,080 --> 00:12:31,608
+I see a wagon train, a whole
+wagon train loaded up with whiskey
+
+135
+00:12:31,720 --> 00:12:33,927
+a-comin' down on us from Julesburg.
+
+136
+00:12:35,440 --> 00:12:37,408
+I see 20...
+
+137
+00:12:39,720 --> 00:12:41,688
+30...
+
+138
+00:12:43,640 --> 00:12:45,210
+40 wagons.
+
+139
+00:12:47,320 --> 00:12:50,210
+- Are you Hobbs?
+- I am, sir.
+
+140
+00:12:51,520 --> 00:12:54,524
+- Did you print that?
+- I did, sir.
+
+141
+00:12:54,640 --> 00:12:57,803
+- And who, may I ask, are you?
+- Frank Wallingham.
+
+142
+00:12:57,920 --> 00:13:01,242
+I see. How do you do?
+Won't you sit down, Mr Wallingham?
+
+143
+00:13:01,360 --> 00:13:04,170
+No. I wanna know why.
+Why did you do it?
+
+144
+00:13:04,280 --> 00:13:06,647
+I've done nothing but print the truth.
+
+145
+00:13:06,760 --> 00:13:10,481
+600 barrels of Philadelphia-brewed
+whiskey moving from here to Denver.
+
+146
+00:13:10,600 --> 00:13:15,527
+Yes. Then what happens when the Indians
+get wind of 40 wagons full of firewater?
+
+147
+00:13:15,640 --> 00:13:19,122
+- They'll scalp us from head to foot.
+- Indians don't read newspapers.
+
+148
+00:13:19,240 --> 00:13:22,562
+- Who says they don't?
+- The Indian problem's all settled.
+
+149
+00:13:22,680 --> 00:13:25,126
+Haven't you read
+the Peace Commissioners' report?
+
+150
+00:13:25,240 --> 00:13:28,210
+All right, then. Worse than Indians!
+Revenue agents!
+
+151
+00:13:28,320 --> 00:13:30,926
+Oh... Haven't paid
+your federal taxes, huh?
+
+152
+00:13:31,040 --> 00:13:35,409
+Of course I pay my taxes! I'm an honest
+businessman. <i>And</i> a good Republican.
+
+153
+00:13:35,520 --> 00:13:38,729
+But give those snoopers a taste of honey
+and they'll swarm down
+
+154
+00:13:38,840 --> 00:13:40,888
+from every direction but up.
+
+155
+00:13:41,000 --> 00:13:43,651
+- You have my sympathy.
+- Sympathy?
+
+156
+00:13:43,760 --> 00:13:46,127
+It's because I didn't advertise in your rag,
+
+157
+00:13:46,240 --> 00:13:50,325
+- because I didn't give you free whiskey.
+- You'd better get outta here.
+
+158
+00:13:50,440 --> 00:13:53,967
+You listen to me. I've got every cent
+that I own tied up in this cargo.
+
+159
+00:13:54,080 --> 00:13:57,562
+By damn, I'm gonna see it gets to Denver.
+You can print that, sir.
+
+160
+00:13:57,680 --> 00:13:58,806
+I shall.
+
+161
+00:13:58,920 --> 00:14:01,685
+I'm sending a telegram to
+Colonel Gearhart at Fort Russell.
+
+162
+00:14:01,800 --> 00:14:05,930
+I am demanding an entire troop of
+US cavalry as escort. Print that, sir!
+
+163
+00:14:06,040 --> 00:14:07,804
+- I shall.
+- Good.
+
+164
+00:14:07,920 --> 00:14:10,890
+You should also put in your paper
+that I say
+
+165
+00:14:11,000 --> 00:14:14,971
+that any tax snooper, white road agent
+or Red Indian that comes near my wagons
+
+166
+00:14:15,080 --> 00:14:17,401
+had better be wearin'
+cast-iron underwear.
+
+167
+00:14:17,520 --> 00:14:20,126
+And if you try to blackmail me
+one more time,
+
+168
+00:14:20,240 --> 00:14:23,403
+I'll come back here and cram
+this down your lyin' throat.
+
+169
+00:14:23,520 --> 00:14:25,488
+Good day, sir.
+
+170
+00:14:41,200 --> 00:14:42,850
+- Smythe.
+- Yes, sir.
+
+171
+00:14:42,960 --> 00:14:45,804
+What's the name of that
+temperance woman? Martindale?
+
+172
+00:14:45,920 --> 00:14:48,924
+Massingale, sir.
+Cora Templeton Massingale.
+
+173
+00:14:49,040 --> 00:14:52,044
+Oh, yes, Massingale.
+Do you know where she is?
+
+174
+00:14:52,160 --> 00:14:57,803
+On a tour of New England last month, sir.
+Then Boston, to Philadelphia, to Trenton.
+
+175
+00:14:57,920 --> 00:15:00,890
+She may be a female hellcat
+about whiskey, sir,
+
+176
+00:15:01,000 --> 00:15:04,402
+but a fine figure of a woman, with eyes...
+
+177
+00:15:04,520 --> 00:15:06,329
+- Smythe.
+- Sir?
+
+178
+00:15:06,440 --> 00:15:08,408
+I asked you where she is.
+
+179
+00:15:08,520 --> 00:15:11,888
+Oh. At Fort Russell, sir.
+She got there yesterday.
+
+180
+00:15:12,000 --> 00:15:14,446
+Fort Russell?
+
+181
+00:15:14,560 --> 00:15:17,245
+Send a telegram to her. Mark it urgent.
+
+182
+00:15:18,040 --> 00:15:21,010
+<i>The editor of the Julesburg Gazette
+was quite right.</i>
+
+183
+00:15:21,120 --> 00:15:23,487
+<i>Indians did not read newspapers.</i>
+
+184
+00:15:24,240 --> 00:15:29,201
+<i>It's a matter of speculation therefore just
+how they did hear of the whiskey cargo.</i>
+
+185
+00:15:29,320 --> 00:15:31,368
+There were couriers, of course,
+
+186
+00:15:31,480 --> 00:15:36,327
+<i>and there was the smoke signal, first
+used by the ancient Greeks and Hebrews.</i>
+
+187
+00:15:36,440 --> 00:15:41,606
+<i>How the Indians acquired it from them
+is of no importance here. But they did.</i>
+
+188
+00:15:42,480 --> 00:15:45,211
+<i>Nor was smoke used exclusively.</i>
+
+189
+00:15:45,320 --> 00:15:48,642
+<i>A crude mirror, painted stone,</i>
+
+190
+00:15:48,760 --> 00:15:51,809
+<i>carved bark of trees were quite popular.</i>
+
+191
+00:15:53,200 --> 00:15:55,680
+<i>And a peculiarly knotted string.</i>
+
+192
+00:15:56,560 --> 00:15:59,643
+<i>The message was always
+transmitted in code.</i>
+
+193
+00:15:59,760 --> 00:16:03,048
+<i>A code which no white man
+was ever able to break.</i>
+
+194
+00:16:04,040 --> 00:16:07,203
+<i>Regardless of what method
+was used by the Indians,</i>
+
+195
+00:16:07,320 --> 00:16:10,244
+<i>it's a matter of record
+that news of the whiskey train</i>
+
+196
+00:16:10,360 --> 00:16:13,807
+<i>became common knowledge within 48 hours</i>
+
+197
+00:16:13,920 --> 00:16:19,404
+<i>to every tribe of every
+North American Plains Indian.</i>
+
+198
+00:16:20,440 --> 00:16:27,085
+<i>We are still unaware why only one tribe
+rode out to investigate the firewater train.</i>
+
+199
+00:16:27,200 --> 00:16:31,888
+<i>But it's supposed there was competition
+among the various tribes for the honour.</i>
+
+200
+00:16:33,400 --> 00:16:38,691
+<i>It is for us to make reconnaissance
+of wagon-train position.</i>
+
+201
+00:16:40,080 --> 00:16:43,482
+<i>It is for me to make such reconnaissance.</i>
+
+202
+00:16:44,280 --> 00:16:46,806
+<i>He is chief of Sioux.</i>
+
+203
+00:16:48,760 --> 00:16:51,331
+<i>And I am chief of Crow.</i>
+
+204
+00:16:53,240 --> 00:16:55,208
+<i>We will do it.</i>
+
+205
+00:16:56,680 --> 00:16:59,570
+<i>You will not do it. I will do it.</i>
+
+206
+00:17:01,560 --> 00:17:03,722
+<i>You and I are blocked.</i>
+
+207
+00:17:05,440 --> 00:17:07,408
+Yes, we are.
+
+208
+00:17:17,040 --> 00:17:20,806
+<i>Authorities agree that personal disputes
+among the Plains tribes</i>
+
+209
+00:17:20,920 --> 00:17:22,888
+<i>were settled very quickly.</i>
+
+210
+00:17:35,920 --> 00:17:39,606
+<i>Just south of Cheyenne
+stood Fort Russell,</i>
+
+211
+00:17:39,720 --> 00:17:43,441
+<i>famous throughout the West
+as a bastion of military strength</i>
+
+212
+00:17:43,560 --> 00:17:47,565
+<i>and the home of the rugged,
+disciplined, frontier soldier.</i>
+
+213
+00:17:47,680 --> 00:17:50,923
+♪ Stand up, stand up and sing it
+
+214
+00:17:51,360 --> 00:17:54,011
+♪ Beat it on the drum
+
+215
+00:17:54,440 --> 00:17:57,603
+♪ Stand, stand up and sing it
+
+216
+00:17:58,000 --> 00:18:00,651
+♪ Down with demon rum
+
+217
+00:18:00,960 --> 00:18:04,203
+♪ Stand up, stand up and sing it
+
+218
+00:18:04,480 --> 00:18:07,324
+♪ Raise our banners high
+
+219
+00:18:08,040 --> 00:18:10,850
+♪ Victory is coming
+
+220
+00:18:11,120 --> 00:18:14,283
+♪ Victory is nigh, believers
+
+221
+00:18:14,480 --> 00:18:17,245
+♪ Victory is nigh
+
+222
+00:18:21,120 --> 00:18:27,969
+And now, ladies, I give you once again
+Mrs Cora Templeton Massingale.
+
+223
+00:18:33,200 --> 00:18:37,922
+Oh, thank you, thank you!
+Your reception has warmed my heart.
+
+224
+00:18:38,040 --> 00:18:42,807
+Ladies, you have heard it said
+that man is all mouth and muscle,
+
+225
+00:18:42,920 --> 00:18:46,970
+that he is dirty boots on one end
+and a dirty mind on the other.
+
+226
+00:18:47,080 --> 00:18:48,650
+Don't you believe it.
+
+227
+00:18:48,760 --> 00:18:52,526
+If we are to enjoy equal rights with man,
+we must respect him,
+
+228
+00:18:52,640 --> 00:18:56,850
+and, if we are to respect him,
+then we must save him from himself
+
+229
+00:18:56,960 --> 00:19:00,123
+and from the poison of alcoholic spirits!
+
+230
+00:19:00,240 --> 00:19:02,846
+- Do you agree?
+- Yes!
+
+231
+00:19:02,960 --> 00:19:04,928
+Then let the world know it.
+
+232
+00:19:05,040 --> 00:19:09,728
+Let us spread the word of emancipation
+to every comer of this great nation.
+
+233
+00:19:10,840 --> 00:19:13,525
+Emancipation! Let me hear it!
+
+234
+00:19:13,640 --> 00:19:15,961
+Emancipation!
+
+235
+00:19:16,080 --> 00:19:19,801
+- Freedom for women!
+- Freedom for women!
+
+236
+00:19:19,920 --> 00:19:24,164
+Shout it out, ladies!
+Women can remake the world!
+
+237
+00:19:24,280 --> 00:19:27,204
+Women can remake the world!
+
+238
+00:19:29,560 --> 00:19:33,007
+♪ Mine eyes have seen the glory
+of the coming of the Lord
+
+239
+00:19:33,120 --> 00:19:36,727
+♪ He is trampling out the vintage
+where the grapes of wrath are stored
+
+240
+00:19:36,840 --> 00:19:40,526
+♪ He hath loosed the fateful lightning
+of his terrible swift sword
+
+241
+00:19:40,640 --> 00:19:44,531
+♪ His truth is marching on
+
+242
+00:19:45,040 --> 00:19:48,442
+♪ Glory, glory, hallelujah
+
+243
+00:19:48,840 --> 00:19:52,242
+♪ Glory, glory, hallelujah
+
+244
+00:19:52,680 --> 00:19:55,843
+♪ Glory, glory, hallelujah
+
+245
+00:19:55,960 --> 00:19:59,806
+♪ His truth is marching on
+
+246
+00:20:00,440 --> 00:20:03,046
+Ladies! Let me hear it!
+
+247
+00:20:03,160 --> 00:20:05,527
+Emancipation!
+
+248
+00:20:05,640 --> 00:20:09,725
+- Shout it out!
+- Freedom for women!
+
+249
+00:20:10,040 --> 00:20:14,841
+- Once again!
+- Women can remake the world!
+
+250
+00:20:16,160 --> 00:20:18,128
+<i>(women screaming)</i>
+
+251
+00:20:25,360 --> 00:20:27,044
+What do you think, Sergeant?
+
+252
+00:20:27,160 --> 00:20:31,563
+I hate to say it, Colonel, but it sounds like
+Sioux or Cheyenne war cries to me, sir.
+
+253
+00:20:31,680 --> 00:20:33,648
+An uprising at the fort?
+
+254
+00:20:34,360 --> 00:20:36,522
+- Ridiculous.
+- Yes, sir.
+
+255
+00:20:39,400 --> 00:20:43,200
+♪ I can read his righteous sentence
+by the dim and flaring lamps
+
+256
+00:20:43,320 --> 00:20:47,450
+♪ His truth is marching on
+
+257
+00:20:49,680 --> 00:20:51,842
+Those are bugles, sir.
+
+258
+00:20:54,320 --> 00:20:57,722
+♪ Glory, glory, hallelujah
+
+259
+00:20:58,160 --> 00:21:01,482
+♪ Glory, glory, hallelujah
+
+260
+00:21:01,960 --> 00:21:05,123
+♪ Glory, glory, hallelujah
+
+261
+00:21:05,240 --> 00:21:09,040
+♪ His truth is marching on
+
+262
+00:21:19,280 --> 00:21:22,966
+♪ Glory, glory, hallelujah
+
+263
+00:21:23,240 --> 00:21:26,369
+♪ Glory, glory, hallelujah
+
+264
+00:21:26,960 --> 00:21:30,123
+♪ Glory, glory, hallelujah
+
+265
+00:21:30,480 --> 00:21:34,007
+♪ His truth is marching on
+
+266
+00:21:35,680 --> 00:21:37,648
+That's cannon, sir!
+
+267
+00:21:37,760 --> 00:21:42,129
+- Form a skirmish line to the left!
+- Form a skirmish line to the left! Ho!
+
+268
+00:21:48,480 --> 00:21:52,405
+♪ In the beauty of the lilies
+Christ was born across the sea
+
+269
+00:21:52,520 --> 00:21:56,161
+♪ With a glory in his bosom
+that transfigures you and me
+
+270
+00:21:56,400 --> 00:21:58,562
+Draw carbines! Ho!
+
+271
+00:22:01,600 --> 00:22:03,807
+Company B returning. Open the gates.
+
+272
+00:22:05,320 --> 00:22:06,685
+♪ Glory, glory...
+
+273
+00:22:06,800 --> 00:22:09,610
+- My God! She's on fire, sir!
+- Charge!
+
+274
+00:22:13,040 --> 00:22:16,123
+♪ Glory, glory, hallelujah
+
+275
+00:22:16,240 --> 00:22:18,208
+♪ His truth is...
+
+276
+00:22:32,040 --> 00:22:34,930
+- You!
+- Good evening, Colonel.
+
+277
+00:22:35,880 --> 00:22:38,042
+Bandmaster, front and centre.
+
+278
+00:22:40,400 --> 00:22:44,121
+You're under arrest.
+This entire band is under arrest.
+
+279
+00:22:44,240 --> 00:22:47,005
+You're confined to quarters
+until further notice.
+
+280
+00:22:47,120 --> 00:22:49,088
+Dismissed!
+
+281
+00:22:50,840 --> 00:22:52,968
+Who are the idiots
+who fired those cannon?
+
+282
+00:22:53,080 --> 00:22:55,560
+- Sergeant Perkins.
+- Private McIntosh.
+
+283
+00:22:55,680 --> 00:22:58,331
+- Private Johnson.
+- Private Williams.
+
+284
+00:22:58,440 --> 00:23:01,125
+Report to my quarters
+tomorrow morning at nine.
+
+285
+00:23:01,240 --> 00:23:02,446
+Yes, sir.
+
+286
+00:23:02,560 --> 00:23:04,483
+Brady.
+
+287
+00:23:04,600 --> 00:23:08,446
+Return carbines.
+In file, prepare to dismount.
+
+288
+00:23:08,560 --> 00:23:10,528
+Dismount.
+
+289
+00:23:12,000 --> 00:23:16,369
+Madam. Article twelve, section seven,
+paragraph two of army regulations
+
+290
+00:23:16,480 --> 00:23:20,929
+states: "Government property cannot
+be used for political demonstrations."
+
+291
+00:23:21,040 --> 00:23:24,203
+Sir, we have never designated
+our movement to be political.
+
+292
+00:23:24,320 --> 00:23:28,405
+Article nine, section two, paragraph four
+of army regulations clearly states
+
+293
+00:23:28,520 --> 00:23:31,603
+that civilian meetings may be held
+at military installations
+
+294
+00:23:31,720 --> 00:23:34,803
+when permission has been granted
+by the commanding officer.
+
+295
+00:23:34,920 --> 00:23:38,049
+The commanding officer? I see.
+
+296
+00:23:38,880 --> 00:23:42,680
+Forgive me, madam. We've been on patrol
+for six days. I'm somewhat weary.
+
+297
+00:23:42,800 --> 00:23:45,087
+Captain Slater gave you
+permission in my absence?
+
+298
+00:23:45,200 --> 00:23:47,168
+He did.
+
+299
+00:23:52,800 --> 00:23:55,531
+- Brady, I want this mess cleaned up.
+- Yes, sir.
+
+300
+00:23:55,640 --> 00:23:59,167
+Ladies, I see you have transport.
+You'll be escorted back to town.
+
+301
+00:23:59,280 --> 00:24:02,489
+The party will leave
+in five minutes exactly.
+
+302
+00:24:03,200 --> 00:24:06,170
+- Madam, do you have quarters here?
+- I have.
+
+303
+00:24:07,080 --> 00:24:09,970
+Then you may retire
+to those quarters, madam,
+
+304
+00:24:10,080 --> 00:24:14,085
+and remake the world on some
+other occasion. Good evening.
+
+305
+00:24:14,200 --> 00:24:16,362
+- Buell.
+- Sir!
+
+306
+00:24:28,360 --> 00:24:31,523
+- Buell, get me Captain Slater.
+- Yes, sir.
+
+307
+00:25:24,480 --> 00:25:28,201
+Excuse me, sir.
+Did the colonel wish to see me?
+
+308
+00:25:28,320 --> 00:25:32,166
+- Where the hell did you come from?
+- I couldn't help but overhear, sir.
+
+309
+00:25:32,280 --> 00:25:36,251
+I want the colonel to know that what
+happened tonight, the way it happened,
+
+310
+00:25:36,360 --> 00:25:39,045
+was so quick that I hardly
+had time to marshal my forces.
+
+311
+00:25:39,160 --> 00:25:42,323
+Did you give that woman permission
+for a temperance rally?
+
+312
+00:25:42,440 --> 00:25:46,286
+Yes and no. That is, I had no idea
+it would get outta hand, so to speak, sir.
+
+313
+00:25:46,400 --> 00:25:48,641
+What the hell did you expect?
+
+314
+00:25:48,760 --> 00:25:51,764
+Give a woman an acorn
+and you're up to your rump in oak trees.
+
+315
+00:25:51,880 --> 00:25:54,963
+That's very true, sir. And I am sorry.
+
+316
+00:25:55,080 --> 00:25:58,448
+If only they hadn't started moving...
+that is to say, marching.
+
+317
+00:25:58,560 --> 00:26:02,121
+- Led by the Fort Russell band.
+- I'd say that Mrs Massingale led them.
+
+318
+00:26:02,240 --> 00:26:06,802
+The band came next. You see, they were
+playing The <i>Battle</i> Hymn of the Republic,
+
+319
+00:26:06,920 --> 00:26:10,481
+and every time they got to
+"Hallelujah" - boom!
+
+320
+00:26:11,400 --> 00:26:15,530
+- I'm sorry, sir, about the cannon.
+- Spare me the details.
+
+321
+00:26:15,640 --> 00:26:17,608
+Slater, what if word got out
+
+322
+00:26:17,720 --> 00:26:20,610
+that Fort Russell stood behind
+a temperance movement?
+
+323
+00:26:20,720 --> 00:26:24,930
+That I, a line officer,
+could ever support such a movement?
+
+324
+00:26:25,040 --> 00:26:27,202
+Well, you got a point there, sir.
+
+325
+00:26:28,800 --> 00:26:32,043
+- And you let them go right ahead.
+- Well, I, uh...
+
+326
+00:26:32,160 --> 00:26:36,085
+Actually, I was trying to keep the colonel's
+daughter out of it, for your sake.
+
+327
+00:26:36,200 --> 00:26:38,362
+What's my daughter got to do with this?
+
+328
+00:26:38,480 --> 00:26:40,926
+- Well, your daughter...
+- Please.
+
+329
+00:26:41,040 --> 00:26:43,725
+I beg you not to hold
+Paul responsible, Father.
+
+330
+00:26:43,840 --> 00:26:45,808
+It was my fault. I was the one who...
+
+331
+00:26:45,920 --> 00:26:49,811
+She was not. And I refuse to allow her
+to accept responsibility. I was the one.
+
+332
+00:26:49,920 --> 00:26:51,604
+- You were not.
+- Yes, I was.
+
+333
+00:26:51,720 --> 00:26:52,881
+Paul...
+
+334
+00:26:53,000 --> 00:26:56,891
+- In my own quarters.
+- We're sorry, Father, truly we are.
+
+335
+00:26:57,000 --> 00:26:58,889
+- B-but...
+- But what?
+
+336
+00:26:59,000 --> 00:27:00,968
+But...
+
+337
+00:27:01,680 --> 00:27:06,049
+But may I point out, sir, that you have
+the only private quarters at the fort,
+
+338
+00:27:06,160 --> 00:27:09,050
+and we didn't expect you back so soon.
+
+339
+00:27:09,160 --> 00:27:12,050
+It's true that Miss Gearhart
+has her own quarters, sir,
+
+340
+00:27:12,160 --> 00:27:16,927
+but I thought that my presence there
+might put her in a compromising position.
+
+341
+00:27:17,040 --> 00:27:20,283
+- Since my own quarters are shared, sir...
+- Slater! Answer me.
+
+342
+00:27:20,400 --> 00:27:23,768
+- I'm trying to, sir.
+- He isn't either, not truthfully.
+
+343
+00:27:23,880 --> 00:27:27,282
+He wasn't keeping me out of the
+temperance meeting, I was keeping him.
+
+344
+00:27:27,400 --> 00:27:30,927
+I thought he might try to stop
+the marching, so this seemed a lovely...
+
+345
+00:27:31,040 --> 00:27:34,249
+I mean, a way... to divert him.
+
+346
+00:27:34,920 --> 00:27:37,048
+Louise.
+
+347
+00:27:37,160 --> 00:27:39,561
+You don't really mind, do you, darling?
+
+348
+00:27:39,680 --> 00:27:43,605
+I mean, you certainly couldn't have
+enjoyed yourself any the less.
+
+349
+00:27:43,720 --> 00:27:45,688
+Louise!
+
+350
+00:27:48,760 --> 00:27:52,003
+Well, I'd do anything for
+Cora Massingale and her cause.
+
+351
+00:27:52,120 --> 00:27:56,045
+And if you've hurt her, Father,
+I'll never forgive you.
+
+352
+00:28:09,400 --> 00:28:11,402
+- Slater.
+- Yes, sir.
+
+353
+00:28:11,520 --> 00:28:15,844
+The women, the rally, the cannon.
+I'll chalk it all up to your inexperience.
+
+354
+00:28:15,960 --> 00:28:16,927
+Thank you, sir.
+
+355
+00:28:17,040 --> 00:28:22,206
+But you cannot... you simply cannot use
+my quarters for... for this sort of thing.
+
+356
+00:28:22,320 --> 00:28:23,651
+I'm sorry, sir.
+
+357
+00:28:23,760 --> 00:28:27,810
+Why don't you just get on with it and
+marry the girl? Stop all this lying around?
+
+358
+00:28:27,920 --> 00:28:32,244
+Well, the colonel knows my feelings about
+that, sir. The West is no life for a woman.
+
+359
+00:28:32,360 --> 00:28:35,728
+The West is no life for anyone.
+Wind, dust, Indians.
+
+360
+00:28:36,920 --> 00:28:40,208
+I hate the wind. I hate the dust.
+And I hate the Indians.
+
+361
+00:28:40,320 --> 00:28:44,609
+Yes, I know. And until my transfer
+comes through to an eastern post, I'll...
+
+362
+00:28:46,160 --> 00:28:48,527
+I'll drink to that.
+
+363
+00:28:48,640 --> 00:28:52,008
+To you and Louise and a transfer.
+There you are.
+
+364
+00:28:53,160 --> 00:28:55,970
+- I can't, sir.
+- Why not?
+
+365
+00:28:56,080 --> 00:28:59,402
+I haven't said good night to Louise yet.
+The liquor on my breath...
+
+366
+00:28:59,520 --> 00:29:03,002
+- She knows you drink, she knows I drink.
+- I know that, sir, but...
+
+367
+00:29:03,120 --> 00:29:06,886
+if you had seen her at that meeting
+tonight. She heard Mrs Massingale.
+
+368
+00:29:07,000 --> 00:29:10,766
+Her eyes all lit up.
+Frightened hell out of me, sir.
+
+369
+00:29:10,880 --> 00:29:13,326
+All right. Go to her.
+Do whatever it is you do.
+
+370
+00:29:13,440 --> 00:29:15,807
+- Thank you, sir.
+- But not on my bear rug!
+
+371
+00:29:15,920 --> 00:29:17,888
+No. No, sir.
+
+372
+00:29:19,680 --> 00:29:22,047
+Slater.
+
+373
+00:29:22,160 --> 00:29:26,290
+Here. Escort for a wagon train.
+Fella named Wallingham.
+
+374
+00:29:26,400 --> 00:29:28,482
+Taxpayer, good Republican.
+
+375
+00:29:28,600 --> 00:29:32,844
+I want you to figure out how to intercept
+the train and escort them to Denver.
+
+376
+00:29:32,960 --> 00:29:36,726
+Denver? That'll take over a week.
+I promised Louise...
+
+377
+00:29:36,840 --> 00:29:39,002
+I know, I know. She'll cry, of course.
+
+378
+00:29:39,120 --> 00:29:41,646
+Just tell her duty is a cruel master.
+
+379
+00:29:44,120 --> 00:29:49,206
+Yes, sir. Duty... is a cruel... master.
+
+380
+00:29:49,320 --> 00:29:51,971
+Yes, sir. Thank you. Good night, sir.
+
+381
+00:29:58,840 --> 00:30:01,081
+- (knocking)
+- Colonel Gearhart?
+
+382
+00:30:04,880 --> 00:30:06,848
+Colonel?
+
+383
+00:30:13,440 --> 00:30:15,408
+Colonel?
+
+384
+00:30:20,520 --> 00:30:21,851
+I, uh...
+
+385
+00:30:21,960 --> 00:30:26,284
+I don't wish to intrude on your privacy,
+Colonel, but... this is vitally important.
+
+386
+00:30:26,400 --> 00:30:28,607
+I'm taking a bath.
+
+387
+00:30:28,720 --> 00:30:30,768
+The sight of a gentleman taking his bath
+
+388
+00:30:30,880 --> 00:30:34,521
+is not foreign to a woman
+who's been widowed twice.
+
+389
+00:30:34,640 --> 00:30:37,883
+Well... Would you care to have a seat?
+
+390
+00:30:40,760 --> 00:30:44,845
+No, thank you. What I have to say
+is best said standing.
+
+391
+00:30:46,960 --> 00:30:49,281
+You'll forgive me if I don't get up.
+
+392
+00:30:49,400 --> 00:30:51,562
+It's not necessary.
+
+393
+00:30:53,600 --> 00:30:59,403
+Mrs Massingale, I've already told Captain
+Slater I won't hold him responsible.
+
+394
+00:30:59,520 --> 00:31:02,649
+In your case, I've written off
+the entire incident. So now...
+
+395
+00:31:02,760 --> 00:31:04,524
+That's not why I'm here.
+
+396
+00:31:04,640 --> 00:31:08,281
+I have received a telegram from Julesburg
+that distresses me deeply.
+
+397
+00:31:08,400 --> 00:31:11,847
+It says a train of 40 wagons left there
+yesterday bound for Denver
+
+398
+00:31:11,960 --> 00:31:15,123
+and that you are to furnish
+military escort for that train.
+
+399
+00:31:15,240 --> 00:31:17,607
+Is that information correct?
+
+400
+00:31:17,720 --> 00:31:20,929
+I received a request to that effect, yes.
+
+401
+00:31:21,040 --> 00:31:26,251
+Were you aware, Colonel, that the cargo
+of those 40 wagons is alcohol?
+
+402
+00:31:28,760 --> 00:31:31,843
+- No, ma'am.
+- Well, now you know.
+
+403
+00:31:31,960 --> 00:31:34,770
+Tell me, Colonel, are you
+going to furnish escort?
+
+404
+00:31:34,880 --> 00:31:36,644
+Yes, ma'am.
+
+405
+00:31:37,840 --> 00:31:40,844
+I respectfully request
+that you reconsider, Colonel.
+
+406
+00:31:40,960 --> 00:31:44,601
+In the name of suffering humanity,
+I implore you to halt that wagon train
+
+407
+00:31:44,720 --> 00:31:48,088
+and destroy this poison
+that they're carrying.
+
+408
+00:31:50,120 --> 00:31:54,091
+What you ask is... What you ask
+is impossible. The cargo is legal.
+
+409
+00:31:54,200 --> 00:31:57,090
+I have no grounds nor wish
+to destroy civilian property.
+
+410
+00:31:57,200 --> 00:31:59,646
+And now, madam, will you
+leave me to my bath?
+
+411
+00:31:59,760 --> 00:32:02,047
+Is it legal to sell whiskey to Indians?
+
+412
+00:32:02,160 --> 00:32:05,642
+Who said anything...
+Who said anything about Indians?
+
+413
+00:32:05,760 --> 00:32:08,491
+The cargo is headed for Denver,
+for businessmen there.
+
+414
+00:32:08,600 --> 00:32:11,570
+- How do you know?
+- I have the owner's word for it.
+
+415
+00:32:11,680 --> 00:32:14,331
+Mr Frank Wallingham,
+who is an acquaintance,
+
+416
+00:32:14,440 --> 00:32:16,966
+a taxpayer, and a good Republican.
+
+417
+00:32:17,800 --> 00:32:21,247
+Well, in that case,
+you force me to take action.
+
+418
+00:32:22,160 --> 00:32:25,289
+Our movement has many friends
+in many high places.
+
+419
+00:32:25,400 --> 00:32:28,006
+Men such as... Horace Greeley.
+
+420
+00:32:31,920 --> 00:32:33,763
+Is that a threat?
+
+421
+00:32:33,880 --> 00:32:37,362
+You can consider it such if you like.
+My conscience forces me to make it.
+
+422
+00:32:37,480 --> 00:32:39,642
+And mine demands that I do my duty.
+
+423
+00:32:41,320 --> 00:32:43,288
+So be it.
+
+424
+00:32:45,040 --> 00:32:49,807
+May I impose upon your kindness for
+directions to the post telegraph office?
+
+425
+00:32:51,720 --> 00:32:53,688
+Mrs Massingale, I'll do better than that.
+
+426
+00:32:53,800 --> 00:32:57,486
+I'll furnish you transportation
+to the Cheyenne telegraph office,
+
+427
+00:32:57,600 --> 00:33:01,082
+where your messages are sure
+to get out twice as quickly.
+
+428
+00:33:01,840 --> 00:33:02,443
+Thank you.
+
+429
+00:33:02,560 --> 00:33:05,450
+Call on me again if there's
+anything further I can do.
+
+430
+00:33:05,560 --> 00:33:08,040
+You're a very generous man, Colonel.
+
+431
+00:33:19,400 --> 00:33:21,368
+Right tum! Ho!
+
+432
+00:33:49,000 --> 00:33:51,606
+Three telegrams, sir, just arrived.
+
+433
+00:33:54,600 --> 00:33:56,568
+Read them.
+
+434
+00:33:57,760 --> 00:34:01,242
+"The Governor of Colorado is
+against liquor and its vicissitudes,
+
+435
+00:34:01,360 --> 00:34:04,170
+but his position makes it impossible
+to take a position
+
+436
+00:34:04,280 --> 00:34:06,851
+in the matter of whiskey cargo to Denver."
+
+437
+00:34:07,560 --> 00:34:10,769
+"The Adjutant General's office is
+grateful to Women's Temperance
+
+438
+00:34:10,880 --> 00:34:15,647
+for the splendid morale factor they have
+upon the American soldier. However..."
+
+439
+00:34:15,760 --> 00:34:18,604
+Whiskey matters must be left
+to commanders in the field.
+
+440
+00:34:18,720 --> 00:34:20,688
+"Respectfully."
+
+441
+00:34:23,000 --> 00:34:25,207
+"Mr Horace Greeley
+
+442
+00:34:25,320 --> 00:34:28,642
+has ever championed the noble cause
+of temperance and suffrage,
+
+443
+00:34:28,760 --> 00:34:33,209
+but is unable to interfere with
+constituted authority of the West."
+
+444
+00:34:36,320 --> 00:34:39,802
+Buell. Give these to Mrs Massingale
+with my compliments
+
+445
+00:34:39,920 --> 00:34:43,686
+and arrange transportation for her.
+Her movement is moving.
+
+446
+00:34:44,440 --> 00:34:46,408
+Yes, sir.
+
+447
+00:34:47,800 --> 00:34:49,609
+<i>On the morning of November 16th,</i>
+
+448
+00:34:49,720 --> 00:34:55,170
+<i>the Wallingham wagon train was moving
+along north of the South Platte River.</i>
+
+449
+00:34:55,280 --> 00:34:58,648
+<i>At the head was its owner,
+Frank Wallingham,</i>
+
+450
+00:34:58,760 --> 00:35:01,809
+<i>and its wagon master, Rafe Pike.</i>
+
+451
+00:35:02,320 --> 00:35:04,527
+<i>To the rear was a group of Irish teamsters</i>
+
+452
+00:35:04,640 --> 00:35:08,122
+<i>under the leadership
+of one Kevin O'Flaherly.</i>
+
+453
+00:35:10,160 --> 00:35:12,322
+<i>The Slater patrol was turning south</i>
+
+454
+00:35:12,440 --> 00:35:15,125
+<i>towards the course
+of the Wallingham train,</i>
+
+455
+00:35:15,240 --> 00:35:17,811
+<i>and a band of Sioux warriors
+was on the move,</i>
+
+456
+00:35:17,920 --> 00:35:20,526
+<i>led by the great Chief 5 Barrels</i>
+
+457
+00:35:20,640 --> 00:35:23,644
+<i>and his sub-chief, Walks-Stooped-Over,</i>
+
+458
+00:35:24,120 --> 00:35:28,205
+<i>who was also known in certain
+Indian circles as Sky Eyes,</i>
+
+459
+00:35:28,320 --> 00:35:30,482
+<i>due to the blue colour of his eyes,</i>
+
+460
+00:35:30,600 --> 00:35:36,403
+<i>the heritage apparently of some slight,
+uh... irregularity in his ancestry.</i>
+
+461
+00:35:36,920 --> 00:35:39,810
+- Please, Father, be reasonable.
+- No.
+
+462
+00:35:39,920 --> 00:35:43,811
+If Mrs Massingale wants a farewell
+meeting, she may use the mess hall.
+
+463
+00:35:43,920 --> 00:35:45,843
+But I will not attend.
+
+464
+00:35:45,960 --> 00:35:48,167
+But we're not asking you
+to take the pledge.
+
+465
+00:35:48,280 --> 00:35:51,568
+Although a bit of temperance
+might make you happier.
+
+466
+00:35:51,680 --> 00:35:54,524
+No red-blooded drinking man
+is more temperate than I am.
+
+467
+00:35:54,640 --> 00:35:56,768
+And I'm happy. I'm damned happy.
+
+468
+00:35:57,280 --> 00:35:59,851
+If you would only try to
+understand Mrs Massingale,
+
+469
+00:35:59,960 --> 00:36:02,167
+a woman who's lost
+two husbands to alcohol.
+
+470
+00:36:02,280 --> 00:36:04,806
+They drank themselves
+into an early grave.
+
+471
+00:36:04,920 --> 00:36:06,888
+I can only wonder why.
+
+472
+00:36:07,760 --> 00:36:10,684
+Do you absolutely refuse, Father,
+to attend this meeting?
+
+473
+00:36:10,800 --> 00:36:13,610
+I do, and I'm beginning
+to regret giving you the hall.
+
+474
+00:36:13,720 --> 00:36:16,007
+The least you can do
+is release the post band.
+
+475
+00:36:16,120 --> 00:36:16,609
+No.
+
+476
+00:36:16,720 --> 00:36:19,041
+- But we can't sing hymns without them.
+- Good.
+
+477
+00:36:19,160 --> 00:36:21,640
+- There's no point in having the meeting.
+- Splendid.
+
+478
+00:36:21,760 --> 00:36:23,728
+Please, Father.
+
+479
+00:36:24,760 --> 00:36:29,288
+It means so much to us.
+And Mrs Massingale is leaving.
+
+480
+00:36:29,400 --> 00:36:31,368
+We may never see her again.
+
+481
+00:36:32,520 --> 00:36:35,490
+- Can I depend on that?
+- Oh, I never go back on my word.
+
+482
+00:36:35,600 --> 00:36:38,046
+I shall say goodbye at the meeting.
+
+483
+00:36:39,920 --> 00:36:42,730
+Well, maybe the trombone.
+
+484
+00:36:42,840 --> 00:36:45,286
+Thank you, Father. You're a dear.
+
+485
+00:36:45,400 --> 00:36:48,483
+- And the drums?
+- No. No drums.
+
+486
+00:36:50,440 --> 00:36:51,407
+Good afternoon.
+
+487
+00:36:51,520 --> 00:36:54,649
+♪ Stand up, stand up and sing it
+
+488
+00:36:55,160 --> 00:36:57,891
+♪ Raise our banners high
+
+489
+00:36:58,280 --> 00:37:01,250
+♪ Victory is coming
+
+490
+00:37:01,640 --> 00:37:04,883
+♪ Victory is nigh, believers
+
+491
+00:37:05,000 --> 00:37:07,287
+♪ Victory is nigh
+
+492
+00:37:12,480 --> 00:37:15,211
+- What's goin' on over there?
+- Singing, sir.
+
+493
+00:37:16,240 --> 00:37:18,891
+- You have guards at every exit?
+- As you ordered, sir.
+
+494
+00:37:19,000 --> 00:37:22,209
+You'd better double the guards.
+Check the exits yourself.
+
+495
+00:37:22,320 --> 00:37:25,210
+If they break out of that hall
+in marching formation...
+
+496
+00:37:25,320 --> 00:37:29,041
+- That's what happened to Captain Slater.
+- Yes, sir.
+
+497
+00:37:31,080 --> 00:37:34,129
+(Mrs Massingale) Ladies,
+our enemy has two heads.
+
+498
+00:37:34,240 --> 00:37:37,369
+First, the enslavement of women by men.
+
+499
+00:37:37,480 --> 00:37:38,686
+(women) Yes.
+
+500
+00:37:38,800 --> 00:37:41,883
+And second, the enslavement
+of men themselves
+
+501
+00:37:42,000 --> 00:37:44,401
+by the remorseless tyrant alcohol.
+
+502
+00:37:45,520 --> 00:37:48,603
+- Are we willing to fight these enemies?
+- Yes.
+
+503
+00:37:48,720 --> 00:37:50,768
+Then we must reach out for freedom,
+
+504
+00:37:50,880 --> 00:37:53,724
+and tear this tyrant from the lips of man.
+
+505
+00:37:56,720 --> 00:38:00,122
+Now, ladies, I have
+an announcement to make
+
+506
+00:38:00,240 --> 00:38:03,642
+to each and every one of you
+who has touched my heart.
+
+507
+00:38:03,760 --> 00:38:08,129
+The time has come for me to say goodbye
+to all you wonderful women...
+
+508
+00:38:08,240 --> 00:38:09,685
+Thank God!
+
+509
+00:38:09,800 --> 00:38:13,088
+Something has occurred
+which requires my presence elsewhere.
+
+510
+00:38:13,200 --> 00:38:17,364
+- I am going to the city of Denver.
+- Denver?
+
+511
+00:38:17,720 --> 00:38:21,281
+I know, I know. You ask me
+"Why Denver?" I'll tell you why.
+
+512
+00:38:21,400 --> 00:38:24,722
+Because 40 wagons of whiskey
+are going to Denver right now.
+
+513
+00:38:24,840 --> 00:38:29,129
+40 wagons of poison
+for those poor misguided citizens,
+
+514
+00:38:29,240 --> 00:38:31,322
+and no one in high office seems to care.
+
+515
+00:38:31,440 --> 00:38:33,169
+Well, <i>I</i> do!
+
+516
+00:38:33,280 --> 00:38:35,442
+And I shall shout it over and over
+
+517
+00:38:35,560 --> 00:38:40,168
+until the mountains of Colorado come
+tumbling down to the Denver saloons.
+
+518
+00:38:41,560 --> 00:38:44,166
+- Will your hearts go with me?
+- Yes!
+
+519
+00:38:44,680 --> 00:38:47,445
+- Is our cause just and righteous?
+- Yes!
+
+520
+00:38:49,440 --> 00:38:53,604
+- I've doubled the guards, sir.
+- I want you to guard the main entrance.
+
+521
+00:38:53,720 --> 00:38:56,849
+- Do I have your blessings?
+- Yes!
+
+522
+00:38:56,960 --> 00:38:58,007
+No!
+
+523
+00:38:58,120 --> 00:39:01,329
+No! I cannot let you go
+to that sinful city alone.
+
+524
+00:39:01,920 --> 00:39:06,244
+If you'll have me, Mrs Massingale,
+I'll go with you.
+
+525
+00:39:08,680 --> 00:39:11,843
+Get over there.
+Drag my daughter off that platform.
+
+526
+00:39:14,400 --> 00:39:17,165
+Oh, how wonderful, ladies!
+
+527
+00:39:17,280 --> 00:39:20,648
+- Oh, ladies, we'll all go to Denver.
+- Yes!
+
+528
+00:39:22,000 --> 00:39:24,970
+- We'll make it our marching song.
+- Yes!
+
+529
+00:39:26,400 --> 00:39:30,325
+♪ Stand up, we'll march to Denver
+
+530
+00:39:30,640 --> 00:39:33,803
+♪ No more wine or beer
+
+531
+00:39:33,920 --> 00:39:37,891
+♪ Stand up, we'll march to Denver
+
+532
+00:39:38,280 --> 00:39:41,523
+♪ We will have no fear
+
+533
+00:39:41,840 --> 00:39:45,925
+♪ Stand up, we'll march to Denver
+
+534
+00:39:46,120 --> 00:39:49,647
+♪ Raise our banners high
+
+535
+00:39:49,920 --> 00:39:53,163
+♪ Denver, we are coming
+
+536
+00:39:53,800 --> 00:39:57,327
+♪ Denver will be dry, believers
+
+537
+00:39:57,560 --> 00:40:00,643
+♪ Denver will be dry
+
+538
+00:40:00,840 --> 00:40:04,925
+♪ Stand up, we'll march to Denver
+
+539
+00:40:05,200 --> 00:40:08,329
+♪ Down with demon rum
+
+540
+00:40:08,560 --> 00:40:12,360
+♪ Stand up, we'll march to Denver
+
+541
+00:40:12,880 --> 00:40:16,248
+♪ Denver, here we come
+
+542
+00:40:16,480 --> 00:40:20,246
+♪ Stand up, we'll march to Denver
+
+543
+00:40:20,680 --> 00:40:24,162
+♪ Lift our banners high...
+
+544
+00:40:24,440 --> 00:40:26,408
+Well, Buell?
+
+545
+00:40:28,040 --> 00:40:30,441
+Just... tryin' to get my wind back, sir.
+
+546
+00:40:32,080 --> 00:40:34,048
+Knocked me flat, sir.
+
+547
+00:40:35,920 --> 00:40:38,890
+Did you hear what that... woman said, sir?
+
+548
+00:40:39,000 --> 00:40:40,923
+I did.
+
+549
+00:40:41,040 --> 00:40:43,327
+- But, sir...
+- "But, sir" what?
+
+550
+00:40:44,840 --> 00:40:47,047
+How can we let them
+go through with it, sir?
+
+551
+00:40:47,160 --> 00:40:51,006
+March to Denver through country like this,
+without escort or protection?
+
+552
+00:40:51,120 --> 00:40:53,600
+What if they come upon
+a bunch of Indians, sir?
+
+553
+00:40:53,720 --> 00:40:56,087
+I suggest we pray for the Indians.
+
+554
+00:40:58,120 --> 00:41:01,203
+Can the... the army refuse escort, sir?
+
+555
+00:41:01,760 --> 00:41:04,331
+From now on, the army will do
+what I tell it to do.
+
+556
+00:41:04,440 --> 00:41:06,408
+<i>(cannon fire)</i>
+
+557
+00:41:19,440 --> 00:41:22,603
+What, uh... What do you intend to do, sir?
+
+558
+00:41:41,280 --> 00:41:43,248
+<i>(cannon fire)</i>
+
+559
+00:41:51,960 --> 00:41:55,885
+- Good morning, Miss Gearhart.
+- Good morning, Sergeant Buell.
+
+560
+00:42:22,600 --> 00:42:24,728
+Go away.
+
+561
+00:42:26,240 --> 00:42:28,208
+Louise, will you please go away?
+
+562
+00:42:28,320 --> 00:42:30,846
+This should make you feel better.
+Nice hot milk.
+
+563
+00:42:30,960 --> 00:42:32,928
+<i>(Qfoans)</i>
+
+564
+00:42:41,320 --> 00:42:43,482
+What's going on out there?
+
+565
+00:42:52,640 --> 00:42:55,246
+Will you stop that infernal uproar?
+
+566
+00:43:12,720 --> 00:43:16,281
+You will not under any circumstances
+go off with that... that woman.
+
+567
+00:43:16,400 --> 00:43:17,003
+Yes, Father.
+
+568
+00:43:17,120 --> 00:43:20,283
+To Denver or anyplace else.
+I want that clearly understood.
+
+569
+00:43:20,400 --> 00:43:22,368
+Yes, Father.
+
+570
+00:43:22,960 --> 00:43:25,406
+Now will you please leave me alone?
+
+571
+00:43:33,400 --> 00:43:35,926
+(whispers) Is he better?
+
+572
+00:43:36,040 --> 00:43:38,008
+I'm afraid not.
+
+573
+00:43:38,760 --> 00:43:41,923
+Louise, go and get me some
+more blankets. Lots of them.
+
+574
+00:43:42,040 --> 00:43:45,601
+I want him to perspire. We will
+sweat the poison out of his system.
+
+575
+00:43:45,720 --> 00:43:48,405
+Blankets. All right, Mrs Massingale.
+
+576
+00:43:56,680 --> 00:43:58,887
+- Mrs Massingale!
+- Lie back.
+
+577
+00:44:01,840 --> 00:44:04,002
+- Madam...
+- Back.
+
+578
+00:44:05,240 --> 00:44:09,689
+Now... just be quiet, please.
+Don't exert yourself.
+
+579
+00:44:10,520 --> 00:44:13,524
+- Madam, we have a surgeon.
+- Just relax.
+
+580
+00:44:13,640 --> 00:44:15,608
+Let the blood flow.
+
+581
+00:44:16,480 --> 00:44:19,609
+Now tell me, Colonel, does
+the pain centre lie about here?
+
+582
+00:44:19,720 --> 00:44:21,688
+Look, Mrs...
+
+583
+00:44:22,640 --> 00:44:27,009
+- It's a little higher.
+- A little higher. Yes, of course.
+
+584
+00:44:33,320 --> 00:44:37,370
+- About this march, Mrs Massingale...
+- Just unwind.
+
+585
+00:44:37,480 --> 00:44:40,131
+This march to Denver... impossible.
+
+586
+00:44:40,360 --> 00:44:44,410
+Right here, at this junction,
+Colonel, a series of cords.
+
+587
+00:44:45,080 --> 00:44:50,564
+And beneath them, intertwined nerves
+like fine silk threads.
+
+588
+00:44:51,320 --> 00:44:53,971
+Matters of... transportation.
+
+589
+00:44:55,680 --> 00:44:57,762
+Rattlesnakes...
+
+590
+00:44:57,880 --> 00:45:01,248
+All connected up to here
+where the pain centre lies.
+
+591
+00:45:03,920 --> 00:45:05,888
+Examine my position.
+
+592
+00:45:06,640 --> 00:45:08,608
+Consider, if you will...
+
+593
+00:45:10,440 --> 00:45:13,842
+- Oh, that feels good.
+- That's the key point.
+
+594
+00:45:14,280 --> 00:45:17,409
+First we rub gently downwards,
+
+595
+00:45:18,240 --> 00:45:20,607
+and then upwards,
+
+596
+00:45:21,280 --> 00:45:23,282
+and then downwards again.
+
+597
+00:45:23,640 --> 00:45:27,645
+Now you're beginning to relax.
+I can feel it in my fingers.
+
+598
+00:45:27,760 --> 00:45:29,728
+I wish I could help you, but...
+
+599
+00:45:31,240 --> 00:45:33,208
+Army regulations.
+
+600
+00:45:33,960 --> 00:45:36,122
+Article 12,
+
+601
+00:45:36,240 --> 00:45:38,208
+section 26,
+
+602
+00:45:39,120 --> 00:45:41,521
+Paragraph,"...
+
+603
+00:45:41,640 --> 00:45:42,971
+<i>(sighs)</i>
+
+604
+00:45:43,080 --> 00:45:45,048
+That's right.
+
+605
+00:45:45,880 --> 00:45:49,441
+Relax. Relax.
+
+606
+00:46:00,240 --> 00:46:02,607
+Company, attention!
+
+607
+00:46:03,080 --> 00:46:05,606
+Company, attention!
+
+608
+00:46:31,520 --> 00:46:33,841
+Good morning, Colonel Gearhart.
+
+609
+00:46:33,960 --> 00:46:35,849
+Good morning, Father.
+
+610
+00:46:35,960 --> 00:46:37,928
+Morning, ladies.
+
+611
+00:46:44,120 --> 00:46:47,841
+- Who are those men at the gate?
+- Husbands. Not all the ladies are single.
+
+612
+00:46:47,960 --> 00:46:52,249
+- What do they want here?
+- The ladies are takin' their wagons away.
+
+613
+00:46:53,280 --> 00:46:56,443
+They want the colonel
+to do something about it, sir.
+
+614
+00:47:03,520 --> 00:47:05,204
+- Sir.
+- Well?
+
+615
+00:47:05,320 --> 00:47:07,561
+Does the colonel intend...
+
+616
+00:47:07,680 --> 00:47:11,321
+I mean to say, sir, will the escort party...
+
+617
+00:47:11,440 --> 00:47:14,762
+Sir, do you really intend
+to go through with this thing?
+
+618
+00:47:14,880 --> 00:47:18,043
+Buell, you've got a great deal
+to learn about military science.
+
+619
+00:47:18,160 --> 00:47:20,322
+A simple matter
+of objective and stratagem.
+
+620
+00:47:20,440 --> 00:47:23,284
+Objective - get rid of these damn women.
+
+621
+00:47:23,400 --> 00:47:25,448
+- Stratagem...
+- Take 'em to Denver, sir?
+
+622
+00:47:25,560 --> 00:47:28,245
+- Mount up, Buell. Mount up.
+- Yes, sir.
+
+623
+00:47:33,920 --> 00:47:36,241
+- Move them out, Brady.
+- Yes, sir.
+
+624
+00:47:38,240 --> 00:47:40,242
+Twos left!
+
+625
+00:47:40,360 --> 00:47:42,840
+Right tum! Ho!
+
+626
+00:47:45,880 --> 00:47:47,848
+Right tum! Ho!
+
+627
+00:47:53,680 --> 00:47:55,648
+Right tum! Ho!
+
+628
+00:48:01,680 --> 00:48:04,081
+Left tum! Ho!
+
+629
+00:48:47,360 --> 00:48:51,570
+♪ Stand up, we'll march to Denver
+
+630
+00:48:52,000 --> 00:48:55,288
+♪ No more wine or beer
+
+631
+00:48:55,520 --> 00:48:59,605
+♪ Stand up, we'll march to Denver
+
+632
+00:49:00,040 --> 00:49:03,249
+♪ No more whiskey here
+
+633
+00:49:03,360 --> 00:49:07,604
+♪ Stand up, we'll march to Denver
+
+634
+00:49:09,040 --> 00:49:11,008
+- Buell!
+- Sir!
+
+635
+00:49:13,600 --> 00:49:17,366
+One bugler, just one bugler joins in
+with that singing, I'll have him shot!
+
+636
+00:49:17,480 --> 00:49:19,448
+Yes, sir.
+
+637
+00:49:23,280 --> 00:49:27,410
+♪ Stand up, we'll march to Denver
+
+638
+00:49:27,920 --> 00:49:31,129
+♪ Down with demon rum
+
+639
+00:49:31,320 --> 00:49:33,288
+♪ Stand up...
+
+640
+00:49:33,760 --> 00:49:39,051
+<i>it might be prudent right at this moment to
+get our bearings upon this historic arena.</i>
+
+641
+00:49:39,400 --> 00:49:41,209
+<i>Julesburg is</i> here.
+
+642
+00:49:41,320 --> 00:49:45,245
+<i>To the southwest along the South
+Platte River is the city of Denver.</i>
+
+643
+00:49:45,360 --> 00:49:47,601
+<i>North of it we find Fort Russell.</i>
+
+644
+00:49:47,720 --> 00:49:51,486
+<i>The Wallingham wagon train
+had moved to this point on the river.</i>
+
+645
+00:49:51,600 --> 00:49:55,002
+<i>The first cavalry patrol
+under Captain Slater - here.</i>
+
+646
+00:49:55,120 --> 00:49:58,363
+<i>The second cavalry patrol
+under Colonel Gearhan'</i> - here,
+
+647
+00:49:58,480 --> 00:50:01,211
+<i>with, of course,
+the temperance marchers.</i>
+
+648
+00:50:01,320 --> 00:50:04,051
+<i>And the band of Sioux Indians</i> - here.
+
+649
+00:50:05,400 --> 00:50:08,961
+<i>In the city of Denver, another
+miners' meeting was being held.</i>
+
+650
+00:50:28,000 --> 00:50:31,004
+Hold it! Hold it down.
+This meetin' is called to order.
+
+651
+00:50:31,120 --> 00:50:35,045
+Tell me who called this meetin', what for,
+and what's all the hollering about!
+
+652
+00:50:35,160 --> 00:50:37,686
+I did. Clayton, we gotta face the facts.
+
+653
+00:50:37,800 --> 00:50:41,122
+There's been no word from
+that wagon train in two weeks.
+
+654
+00:50:41,240 --> 00:50:44,642
+- That's right.
+- There's snow already at Grizzly Pass.
+
+655
+00:51:06,800 --> 00:51:10,441
+- Afternoon, gents.
+- Oracle, the thing is we, uh...
+
+656
+00:51:10,560 --> 00:51:12,528
+- We got trouble.
+- You know?
+
+657
+00:51:12,640 --> 00:51:15,041
+That wagon train
+may not never get to you.
+
+658
+00:51:15,160 --> 00:51:17,606
+- Why not?
+- Why, thank you.
+
+659
+00:51:21,080 --> 00:51:26,564
+It was all set on comin' to me.
+I, uh... I was lookin' up and, uh... uh...
+
+660
+00:51:26,680 --> 00:51:28,648
+Thank you.
+
+661
+00:51:28,760 --> 00:51:31,286
+<i>♪ Hallelu...</i>
+
+662
+00:51:31,400 --> 00:51:33,562
+- There! Now I see it!
+- What?
+
+663
+00:51:33,760 --> 00:51:35,728
+Uh... lnjuns.
+
+664
+00:51:35,840 --> 00:51:38,810
+I see hundreds of lnjuns.
+
+665
+00:51:44,200 --> 00:51:46,248
+You see anything else, Oracle?
+
+666
+00:51:46,360 --> 00:51:49,284
+- I think, uh...
+- <i>♪ Hallelu...</i>
+
+667
+00:51:49,400 --> 00:51:53,246
+- I see men... I see men on the march.
+- Cavalry?
+
+668
+00:51:53,360 --> 00:51:56,170
+Course not. This ain't no time for children.
+
+669
+00:51:56,280 --> 00:51:59,045
+I see men, men carryin', uh...
+
+670
+00:52:01,080 --> 00:52:03,481
+picks and, uh...
+
+671
+00:52:03,600 --> 00:52:06,968
+axes and, uh... uh...
+
+672
+00:52:10,800 --> 00:52:12,768
+uh...
+
+673
+00:52:20,960 --> 00:52:22,291
+shovels.
+
+674
+00:52:23,160 --> 00:52:26,767
+- Well, who are they?
+- Denver citizens' militia.
+
+675
+00:52:26,880 --> 00:52:30,248
+A-marchin' out there
+to intercept that wagon train
+
+676
+00:52:30,360 --> 00:52:32,328
+and see that whiskey gets home.
+
+677
+00:52:32,440 --> 00:52:36,968
+Hold on, Oracle. We're workin' men.
+We're miners. We ain't lnjun fighters.
+
+678
+00:52:37,080 --> 00:52:41,290
+I ain't marchin' up any rivers, sleeping
+on the rocks and cookin' on campfires.
+
+679
+00:52:41,400 --> 00:52:45,371
+You gonna spend the whole winter
+in Denver without no whiskey?
+
+680
+00:53:01,640 --> 00:53:04,564
+<i>At dawn the morning of November 17th,</i>
+
+681
+00:53:04,680 --> 00:53:08,321
+<i>the second cavalry patrol
+was heading due south for Denver,</i>
+
+682
+00:53:08,440 --> 00:53:11,284
+<i>with of course the temperance marchers.</i>
+
+683
+00:53:12,280 --> 00:53:15,443
+<i>The Wallingham wagon train
+was turning west.</i>
+
+684
+00:53:15,960 --> 00:53:19,681
+<i>The first cavalry patrol
+was moving fast to intercept it.</i>
+
+685
+00:53:19,800 --> 00:53:23,441
+<i>The Denver citizens' militia
+was making an easterly crossing</i>
+
+686
+00:53:23,560 --> 00:53:25,483
+<i>of the South Platte River,</i>
+
+687
+00:53:25,600 --> 00:53:29,286
+<i>while the Sioux Indians
+were coming down from the north,</i>
+
+688
+00:53:30,280 --> 00:53:33,170
+<i>picking up more braves all the time.</i>
+
+689
+00:53:34,920 --> 00:53:36,001
+Whoa!
+
+690
+00:53:37,360 --> 00:53:40,842
+For the beloved love of all the saints,
+St Pat and Mike and Bridget,
+
+691
+00:53:40,960 --> 00:53:44,043
+and all the souls in purgatory, not again!
+
+692
+00:53:45,040 --> 00:53:47,930
+Call yourself a wagon!
+You rotten collection of wood!
+
+693
+00:53:48,040 --> 00:53:50,850
+You ain't fit for carryin' swill to vultures!
+
+694
+00:54:10,920 --> 00:54:12,888
+Whoa!
+
+695
+00:54:13,680 --> 00:54:18,891
+All right, O'Flaherty. What's your excuse
+this time, you ignorant immigrant lump?
+
+696
+00:54:22,200 --> 00:54:25,124
+Oh, lump, is it? Well...
+
+697
+00:54:27,840 --> 00:54:31,845
+All things being equal,
+we'll be havin' a word with your lordship.
+
+698
+00:54:31,960 --> 00:54:34,884
+I told you I am not a lordship!
+
+699
+00:54:35,000 --> 00:54:38,482
+Can't expect an Irish serf to forget
+the habits of a lifetime, now.
+
+700
+00:54:38,600 --> 00:54:41,080
+- Just get on with it.
+- Well, now.
+
+701
+00:54:41,200 --> 00:54:44,602
+We, the Irish Teamsters,
+have a petition of grievances.
+
+702
+00:54:44,720 --> 00:54:46,882
+We state in plain and simple terms
+
+703
+00:54:47,000 --> 00:54:50,243
+the bad conditions under which
+we've been forced to labour,
+
+704
+00:54:50,360 --> 00:54:54,888
+and do hereby raise formal objection
+to the followin', to wit:
+
+705
+00:54:55,320 --> 00:54:58,244
+travel hours and harnessin', unharnessin',
+
+706
+00:54:59,000 --> 00:55:03,050
+carin' for horses, loadin', unloadin',
+
+707
+00:55:03,840 --> 00:55:06,207
+beddin', guard duty,
+
+708
+00:55:07,240 --> 00:55:09,163
+poor drinkin' water,
+
+709
+00:55:09,880 --> 00:55:13,282
+order of wagons in march,
+and, might I add, in addition to
+
+710
+00:55:13,400 --> 00:55:16,324
+no whiskey ration whatsoever
+
+711
+00:55:16,440 --> 00:55:18,807
+in a whole cargo of whiskey.
+
+712
+00:55:21,360 --> 00:55:25,126
+Now, suppose these grievances
+of yours aren't answered?
+
+713
+00:55:26,080 --> 00:55:30,722
+- What'll you do? Strike?
+- That's an ugly word to a workin' man.
+
+714
+00:55:30,840 --> 00:55:33,002
+- But it would be considered.
+- Ah...
+
+715
+00:55:33,120 --> 00:55:36,044
+Well, in that case, O'Flaherty, you strike.
+
+716
+00:55:37,760 --> 00:55:40,889
+- Strike.
+- And who, might I ask, pray tell me,
+
+717
+00:55:41,000 --> 00:55:44,607
+are you goin' to get to drive
+your sweatin', rotten wagons?
+
+718
+00:55:45,240 --> 00:55:46,924
+<i>(hoof beats)</i>
+
+719
+00:55:51,880 --> 00:55:54,963
+- There are your grievances.
+- We've struck off 12 more copies.
+
+720
+00:55:55,080 --> 00:55:57,048
+Exploiter! Capitalist!
+
+721
+00:55:57,160 --> 00:55:59,322
+Highbinder! Profiteer!
+
+722
+00:56:14,640 --> 00:56:18,201
+Mr Wallingham, I presume.
+Captain Slater at your service.
+
+723
+00:56:18,320 --> 00:56:20,402
+Colonel Gearhart sends his compliments.
+
+724
+00:56:20,520 --> 00:56:23,922
+He's most happy to comply with
+your request for escort to Denver.
+
+725
+00:56:24,040 --> 00:56:26,008
+Good for Colonel Gearhart.
+
+726
+00:56:26,120 --> 00:56:28,726
+Have you seen any Indians?
+A scout informed me...
+
+727
+00:56:28,840 --> 00:56:33,448
+There aren't any Indians here. Haven't
+you heard of the Peace Commission?
+
+728
+00:56:33,560 --> 00:56:37,167
+With a cargo like this,
+you've got to be sure, damn sure!
+
+729
+00:56:37,280 --> 00:56:39,851
+Indians, revenue agents,
+temperance women.
+
+730
+00:56:39,960 --> 00:56:41,610
+- Oh, you know.
+- Know what?
+
+731
+00:56:41,720 --> 00:56:43,722
+- About Cora Massingale.
+- Where?
+
+732
+00:56:43,840 --> 00:56:45,808
+It's all right. She's not here.
+
+733
+00:56:45,920 --> 00:56:48,730
+She's at Fort Russell
+giving temperance lectures.
+
+734
+00:56:48,840 --> 00:56:52,561
+- Are you positive she's at Fort Russell?
+- I positively guarantee it.
+
+735
+00:56:52,680 --> 00:56:56,321
+She isn't any nearer your cargo
+than... than the Indians are.
+
+736
+00:57:02,720 --> 00:57:04,882
+- Hope it's hot.
+<i>- (Giggling)</i>
+
+737
+00:57:05,000 --> 00:57:07,162
+Wait till we get you in.
+
+738
+00:57:39,360 --> 00:57:41,328
+- (cracking)
+- Oh!
+
+739
+00:57:53,120 --> 00:57:55,088
+Sergeant, I, uh...
+
+740
+00:58:10,000 --> 00:58:12,002
+We've got a morale problem, sir.
+
+741
+00:58:12,120 --> 00:58:14,122
+Take care of it, Buell.
+
+742
+00:58:14,240 --> 00:58:18,643
+I think the colonel will have to
+root it out, sir, right at the core.
+
+743
+00:58:18,760 --> 00:58:21,240
+The ladies, sir, are taking baths...
+
+744
+00:58:23,000 --> 00:58:25,241
+in the nude.
+
+745
+00:58:38,360 --> 00:58:40,840
+Mrs Massingale, I'd like a word with you.
+
+746
+00:58:54,720 --> 00:58:58,850
+Would you mind calling some other time,
+Colonel? I'm taking a bath.
+
+747
+00:58:58,960 --> 00:59:01,008
+I am well aware that you're taking a bath.
+
+748
+00:59:01,120 --> 00:59:05,523
+I don't care how dirty you are. I will not
+have you ladies bathing in the nude.
+
+749
+00:59:05,640 --> 00:59:07,642
+There's no other way I know of, Colonel.
+
+750
+00:59:07,760 --> 00:59:11,287
+The opportunity was there and...
+who knows what tomorrow might bring?
+
+751
+00:59:11,400 --> 00:59:14,324
+Especially now that
+we've changed our plans.
+
+752
+00:59:14,440 --> 00:59:17,410
+- Changed your plans?
+- Yes, Colonel.
+
+753
+00:59:19,640 --> 00:59:22,211
+You mean you want to go
+back to Cheyenne now?
+
+754
+00:59:22,320 --> 00:59:26,370
+Don't be ridiculous. Of course not.
+We want only to meet the wagon train.
+
+755
+00:59:26,480 --> 00:59:30,087
+But you are meeting the train.
+That's why we're going to Denver.
+
+756
+00:59:30,200 --> 00:59:33,044
+But we want to meet it
+long before it reaches Denver.
+
+757
+00:59:33,160 --> 00:59:35,322
+- That's not possible.
+- On the contrary.
+
+758
+00:59:35,440 --> 00:59:39,843
+We now intend to intercept
+the wagon train along the River Platte.
+
+759
+00:59:40,480 --> 00:59:42,642
+(shouts) You what?
+
+760
+00:59:43,960 --> 00:59:47,760
+In a clash of wills, Colonel,
+he who shouts loudest is lost.
+
+761
+00:59:47,880 --> 00:59:49,848
+Madam...
+
+762
+00:59:49,960 --> 00:59:54,887
+If I understand, you are going to lead your
+ladies through unsettled Plains country
+
+763
+00:59:55,000 --> 00:59:58,243
+- along the South Platte River trail.
+- Exactly.
+
+764
+00:59:58,360 --> 01:00:02,160
+And upon meeting the wagon train, I
+surmise you will put on a demonstration,
+
+765
+01:00:02,280 --> 01:00:05,329
+whose purpose is to tum back the train.
+
+766
+01:00:05,440 --> 01:00:06,885
+Precisely.
+
+767
+01:00:07,800 --> 01:00:11,009
+Very well. But if you think
+the United States Army
+
+768
+01:00:11,120 --> 01:00:14,727
+is going to escort a bunch of
+harebrained females across open desert,
+
+769
+01:00:14,840 --> 01:00:19,289
+bent on throwing themselves under
+horse teams, you're gravely mistaken.
+
+770
+01:00:19,400 --> 01:00:23,724
+Very well. I thank you
+for your many courtesies thus far,
+
+771
+01:00:23,840 --> 01:00:27,731
+but if you force us to go our way
+unescorted and any harm comes to us,
+
+772
+01:00:27,840 --> 01:00:33,244
+three million infuriated women will
+turn the War Department upside down.
+
+773
+01:00:35,040 --> 01:00:40,763
+Mrs Massingale, if I could force you
+to do anything, which obviously I cannot,
+
+774
+01:00:40,880 --> 01:00:45,044
+it would be to go home, and stay home,
+where all decent women belong.
+
+775
+01:01:08,480 --> 01:01:10,448
+- Sergeant.
+- Sir?
+
+776
+01:01:12,560 --> 01:01:14,528
+- Dammit.
+- Yes, sir.
+
+777
+01:01:16,320 --> 01:01:19,722
+Sergeant, I want some scouts
+on the trail of those women tomorrow.
+
+778
+01:01:19,840 --> 01:01:22,161
+Have them keep
+in constant touch with us.
+
+779
+01:01:22,280 --> 01:01:24,647
+We'll move in a somewhat
+parallel direction.
+
+780
+01:01:24,760 --> 01:01:26,728
+Yes, sir.
+
+781
+01:01:28,440 --> 01:01:31,762
+Excuse me, sir. Parallel direction...
+
+782
+01:01:32,600 --> 01:01:35,410
+Is that a new tactic, sir?
+I'm not acquainted with it.
+
+783
+01:01:35,520 --> 01:01:39,206
+- It was well known throughout the war.
+- Yes, sir, of course.
+
+784
+01:01:40,400 --> 01:01:43,006
+- What's it called, sir?
+- Called?
+
+785
+01:01:43,120 --> 01:01:47,808
+What command shall I give the men?
+"Move in a somewhat parallel direction"?
+
+786
+01:01:47,920 --> 01:01:50,844
+It's called... detached contact.
+
+787
+01:01:52,280 --> 01:01:53,486
+Detached contact?
+
+788
+01:01:53,600 --> 01:01:56,410
+And let it so be recorded
+in the daily journal!
+
+789
+01:01:57,440 --> 01:01:59,408
+Yes, sir.
+
+790
+01:02:21,480 --> 01:02:26,042
+<i>No documents can establish just how
+the Sioux formulated their plans,</i>
+
+791
+01:02:26,160 --> 01:02:29,323
+<i>although it's known
+that a plan was so formulated.</i>
+
+792
+01:02:29,440 --> 01:02:31,647
+<i>All we can do is surmise what was said.</i>
+
+793
+01:02:32,360 --> 01:02:34,328
+<i>(speaks Sioux)</i>
+
+794
+01:02:35,080 --> 01:02:39,165
+<i>White man win war.
+Now we use white man's way.</i>
+
+795
+01:02:41,160 --> 01:02:47,247
+<i>You, Chief Walks-Stooped-Over, with
+20 braves attack front of wagon train,</i>
+
+796
+01:02:47,360 --> 01:02:49,328
+<i>and draw off guard.</i>
+
+797
+01:02:50,720 --> 01:02:54,042
+<i>You, Chief Elks-Runner, with 20 braves</i>
+
+798
+01:02:54,160 --> 01:02:57,801
+<i>attack rear of wagon train
+and draw off guard.</i>
+
+799
+01:02:57,920 --> 01:03:01,288
+<i>All other braves
+attack centre of wagon train.</i>
+
+800
+01:03:01,960 --> 01:03:04,281
+<i>When Long Knives chase braves,</i>
+
+801
+01:03:04,400 --> 01:03:08,325
+<i>then great Chief 5 Barrels
+and two brothers-in-law</i>
+
+802
+01:03:08,440 --> 01:03:12,286
+<i>circle around whole wagon train,
+come in from southeast,</i>
+
+803
+01:03:12,400 --> 01:03:15,927
+<i>grab last three wagons
+and go like hell... west.</i>
+
+804
+01:03:17,080 --> 01:03:22,086
+<i>In the morning, when the sun rises
+over iron Mountain two hands high,</i>
+
+805
+01:03:23,080 --> 01:03:25,048
+<i>attack!</i>
+
+806
+01:03:26,840 --> 01:03:30,890
+<i>If Long Knives capture braves,
+show them paper.</i>
+
+807
+01:03:31,000 --> 01:03:33,446
+<i>We good Indians. No trouble.</i>
+
+808
+01:03:34,680 --> 01:03:36,921
+<i>Go back to reservation.</i>
+
+809
+01:03:37,040 --> 01:03:40,601
+<i>But before you go,
+don't forget to ask for presents.</i>
+
+810
+01:03:45,040 --> 01:03:49,682
+<i>In preparation for their attack,
+the Indians took up three positions.</i>
+
+811
+01:03:49,800 --> 01:03:51,290
+Here...
+
+812
+01:03:51,400 --> 01:03:52,447
+here...
+
+813
+01:03:52,560 --> 01:03:54,244
+and here.
+
+814
+01:03:54,360 --> 01:03:57,364
+<i>The Wallingham wagon train
+was moving in this direction,</i>
+
+815
+01:03:57,480 --> 01:04:00,324
+<i>escorted by the first cavalry patrol.</i>
+
+816
+01:04:00,440 --> 01:04:02,602
+<i>The temperance marchers,</i>
+
+817
+01:04:02,720 --> 01:04:05,610
+<i>having turned east,
+were moving in this direction.</i>
+
+818
+01:04:05,720 --> 01:04:10,328
+<i>The second cavalry patrol under Colonel
+Gearhart was keeping detached contact.</i>
+
+819
+01:04:10,440 --> 01:04:14,889
+<i>The citizens' militia were now heading
+due north at this position.</i>
+
+820
+01:04:15,000 --> 01:04:18,561
+<i>Obviously, a collision course
+for all concerned.</i>
+
+821
+01:04:20,480 --> 01:04:24,565
+<i>The day began with a sandstorm
+of disturbing proportions.</i>
+
+822
+01:04:36,240 --> 01:04:39,767
+- Hey, Rafe. Rafe! Rafe!
+- What?
+
+823
+01:04:39,880 --> 01:04:42,611
+- Get 'em moved up back there!
+- Huh?
+
+824
+01:04:42,720 --> 01:04:44,882
+Let's get them wagons moved up!
+
+825
+01:04:45,800 --> 01:04:48,770
+- Keep your eye on them lrishmen!
+- What?
+
+826
+01:04:49,440 --> 01:04:52,284
+- Watch out for them agitators!
+- Huh?
+
+827
+01:04:52,400 --> 01:04:54,562
+Oh, shut up!
+
+828
+01:04:58,600 --> 01:05:02,764
+Arise! Break away now.
+They'll think we're lost in the storm.
+
+829
+01:05:02,880 --> 01:05:05,247
+They'll have to give in to our demands.
+
+830
+01:05:18,240 --> 01:05:20,561
+Keep together, everybody,
+and keep moving!
+
+831
+01:05:20,680 --> 01:05:23,001
+Don't despair. We'll get through.
+
+832
+01:05:23,120 --> 01:05:26,681
+Buell, take a scout. Make contact
+with the women. They may need help.
+
+833
+01:05:26,800 --> 01:05:28,768
+Sir. Phillips!
+
+834
+01:05:37,320 --> 01:05:39,891
+- Oracle, can you see anything?
+- Nothing.
+
+835
+01:05:40,680 --> 01:05:43,570
+- I mean, in your mind.
+- I need whiskey.
+
+836
+01:05:44,960 --> 01:05:48,521
+♪ Stand up, we'll march to Denver
+
+837
+01:05:48,840 --> 01:05:51,002
+♪ For our cause is just
+
+838
+01:05:51,600 --> 01:05:55,286
+♪ Stand up, we'll march to Denver
+
+839
+01:05:55,400 --> 01:05:58,051
+♪ To conquer sin and lust
+
+840
+01:05:58,480 --> 01:06:01,927
+♪ Stand up, we'll march to Denver
+
+841
+01:06:02,240 --> 01:06:04,925
+♪ Raise our banners high
+
+842
+01:06:05,640 --> 01:06:08,166
+♪ Denver, we are coming
+
+843
+01:06:08,640 --> 01:06:12,281
+♪ Denver will be dry, believers
+
+844
+01:06:12,400 --> 01:06:14,971
+♪ Denver will be dry
+
+845
+01:06:15,080 --> 01:06:18,926
+♪ Stand up, we'll march to Denver
+
+846
+01:06:19,040 --> 01:06:21,247
+♪ For our cause is just
+
+847
+01:06:22,120 --> 01:06:25,567
+♪ Stand up, we'll march to Denver
+
+848
+01:06:25,680 --> 01:06:28,365
+♪ To conquer sin and lust
+
+849
+01:06:28,640 --> 01:06:31,928
+♪ Stand up, we'll march to Denver
+
+850
+01:06:32,480 --> 01:06:35,529
+♪ Raise our banners high
+
+851
+01:06:35,800 --> 01:06:38,804
+♪ Denver, we are coming
+
+852
+01:06:39,160 --> 01:06:42,448
+♪ Denver will be dry, believers
+
+853
+01:06:42,560 --> 01:06:44,767
+♪ Denver will be dry
+
+854
+01:06:47,680 --> 01:06:50,763
+♪ Stand up, we'll march to Denver
+
+855
+01:06:50,880 --> 01:06:53,850
+♪ Raise our banners high
+
+856
+01:06:54,600 --> 01:06:56,568
+<i>Rah'. Rah'. Rah'.!</i>
+
+857
+01:06:57,680 --> 01:07:00,968
+♪ Denver will be dry, believers
+
+858
+01:07:01,080 --> 01:07:02,844
+♪ Denver will be dry
+
+859
+01:07:03,600 --> 01:07:05,602
+Pretend we're lost!
+
+860
+01:07:05,720 --> 01:07:07,882
+We are lost!
+
+861
+01:07:21,920 --> 01:07:24,730
+Oracle, you sure
+you know where you're goin'?
+
+862
+01:07:25,640 --> 01:07:28,769
+- I mean, you ain't lost?
+- Course I ain't lost.
+
+863
+01:07:28,880 --> 01:07:31,247
+<i>Now you lust get behind me
+and keep gain'.</i>
+
+864
+01:07:32,280 --> 01:07:34,248
+Follow me, men.
+
+865
+01:07:45,520 --> 01:07:47,682
+Now listen to me, you men.
+
+866
+01:07:48,680 --> 01:07:51,251
+We're gonna shelter from this dust and...
+
+867
+01:08:22,920 --> 01:08:24,604
+Go!
+
+868
+01:08:27,640 --> 01:08:29,847
+<i>(shouts)</i>
+
+869
+01:08:32,800 --> 01:08:34,768
+<i>(whooping)</i>
+
+870
+01:08:51,800 --> 01:08:55,122
+♪ Stand up, we'll march to Denver
+
+871
+01:08:55,520 --> 01:08:57,807
+♪ No more whiskey here
+
+872
+01:08:59,640 --> 01:09:01,608
+<i>(whooping)</i>
+
+873
+01:09:33,240 --> 01:09:35,004
+Hey! Hey, wait...
+
+874
+01:09:45,760 --> 01:09:48,286
+Ladies, form a circle!
+
+875
+01:09:48,480 --> 01:09:51,006
+<i>Rah'. Rah'. Rah'. Rah'.!</i>
+
+876
+01:09:51,560 --> 01:09:55,406
+- Rafe! Was that gunfire?
+- Huh?
+
+877
+01:09:55,520 --> 01:09:58,205
+- I said did ya hear gunfire?
+- What?
+
+878
+01:09:58,320 --> 01:10:00,846
+- Form a circle, dammit!
+- Form a circle!
+
+879
+01:10:00,960 --> 01:10:03,361
+- A circle!
+- Form a circle!
+
+880
+01:10:04,400 --> 01:10:06,767
+Form a circle!
+
+881
+01:10:09,120 --> 01:10:11,691
+Militia! Form a circle!
+
+882
+01:10:14,880 --> 01:10:16,848
+Whoa!
+
+883
+01:10:20,600 --> 01:10:22,329
+<i>(whooping)</i>
+
+884
+01:10:22,440 --> 01:10:24,886
+- (gunfire)
+- Take cover, ladies!
+
+885
+01:10:35,840 --> 01:10:37,490
+<i>(whooping)</i>
+
+886
+01:10:57,800 --> 01:10:59,768
+Keep firin'!
+
+887
+01:11:02,000 --> 01:11:03,968
+<i>(Veils)</i>
+
+888
+01:11:19,080 --> 01:11:22,402
+Henry! Take a squad! Get up on that ridge!
+
+889
+01:11:22,520 --> 01:11:24,682
+- Yes, sir!
+- Ho!
+
+890
+01:11:29,160 --> 01:11:31,128
+<i>(whooping)</i>
+
+891
+01:11:56,200 --> 01:11:58,806
+<i>(gunfire)</i>
+
+892
+01:12:18,960 --> 01:12:20,928
+<i>(neighiflg)</i>
+
+893
+01:12:39,760 --> 01:12:41,603
+<i>(gunfire)</i>
+
+894
+01:12:41,720 --> 01:12:43,688
+<i>(woman screams)</i>
+
+895
+01:13:17,680 --> 01:13:19,523
+<i>(gunfire)</i>
+
+896
+01:13:19,640 --> 01:13:21,608
+Protect your rear!
+
+897
+01:13:22,760 --> 01:13:24,728
+Fire!
+
+898
+01:13:27,040 --> 01:13:29,008
+Protect your other rear!
+
+899
+01:13:30,400 --> 01:13:32,209
+Fire!
+
+900
+01:13:34,400 --> 01:13:36,368
+Protect your rear!
+
+901
+01:14:00,320 --> 01:14:06,248
+Try this! Protect both rears
+simultaneously!
+
+902
+01:14:14,080 --> 01:14:15,684
+- It's Indians, sir!
+- What?
+
+903
+01:14:15,800 --> 01:14:18,371
+Indians, sir! And they've got the women!
+
+904
+01:14:18,480 --> 01:14:21,370
+Good God! Charge!
+
+905
+01:14:23,600 --> 01:14:28,561
+<i>A great effort has been made to adhere
+to the chronological events of this action,</i>
+
+906
+01:14:28,680 --> 01:14:34,130
+<i>but due to the poor visibility we are
+only able to approximate positions.</i>
+
+907
+01:14:35,200 --> 01:14:39,842
+<i>As the battle</i> neared <i>its climax,
+we believe the wagon train</i> was... here.
+
+908
+01:14:40,560 --> 01:14:45,088
+<i>The two elements of the first
+cavalry detachment - here and here.</i>
+
+909
+01:14:45,200 --> 01:14:48,090
+<i>The second cavalry detachment</i> - here.
+
+910
+01:14:49,400 --> 01:14:52,006
+<i>The women's temperance marchers - here.</i>
+
+911
+01:14:52,120 --> 01:14:55,567
+<i>The Denver citizens' militia -
+approximately here.</i>
+
+912
+01:14:56,360 --> 01:14:59,204
+<i>The Indians</i> - here, here and...
+
+913
+01:14:59,320 --> 01:15:01,288
+<i>(speaks in Sioux)</i>
+
+914
+01:15:02,000 --> 01:15:03,445
+Agh!
+
+915
+01:15:03,960 --> 01:15:05,928
+...here.
+
+916
+01:15:07,240 --> 01:15:10,642
+<i>It is not known what happened
+to the striking Irish.</i>
+
+917
+01:15:10,760 --> 01:15:14,048
+<i>To the best of our knowledge,
+these are the final positions</i>
+
+918
+01:15:14,160 --> 01:15:19,007
+<i>in the engagement that became known
+to history as the Battle of Whiskey Hills,</i>
+
+919
+01:15:19,120 --> 01:15:23,887
+<i>but which, of course, was as nothing
+compared to the subsequent disaster</i>
+
+920
+01:15:24,000 --> 01:15:25,968
+<i>at Quicksand Bottoms.</i>
+
+921
+01:15:26,520 --> 01:15:28,329
+<i>(gunfire)</i>
+
+922
+01:15:28,440 --> 01:15:30,408
+<i>(screaming)</i>
+
+923
+01:16:08,600 --> 01:16:11,570
+<i>(I "Suite" by Elmer Bernstein)</i>
+
+924
+01:17:55,400 --> 01:17:59,849
+<i>♪ Hallelujah, hallelu, hallelujah</i>
+
+925
+01:18:00,160 --> 01:18:04,529
+<i>♪ Hallelujah, hallelu, hallelujah</i>
+
+926
+01:18:05,000 --> 01:18:09,164
+<i>♪ Hallelujah, hallelujah</i>
+
+927
+01:18:09,280 --> 01:18:13,444
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+928
+01:18:13,760 --> 01:18:17,765
+<i>♪ Hallelujah, hallelujah</i>
+
+929
+01:18:18,120 --> 01:18:27,404
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+930
+01:19:10,880 --> 01:19:13,281
+- It's a miracle.
+- I beg your pardon, sir?
+
+931
+01:19:13,400 --> 01:19:17,769
+A miracle of the highest order that so
+many bullets could miss so many people
+
+932
+01:19:17,880 --> 01:19:20,770
+in so small an area
+in such a short space of time.
+
+933
+01:19:22,280 --> 01:19:25,090
+- No fatalities at all?
+- None reported, sir.
+
+934
+01:19:25,200 --> 01:19:28,841
+- What do you propose that we do now?
+- Our duty is crystal clear.
+
+935
+01:19:28,960 --> 01:19:31,611
+The first thing we must do
+is keep the peace.
+
+936
+01:19:31,720 --> 01:19:34,121
+- Do you agree, Buell?
+- Absolutely, sir.
+
+937
+01:19:34,240 --> 01:19:37,050
+There are three important steps
+to peace negotiations.
+
+938
+01:19:37,160 --> 01:19:39,925
+No fraternisation
+and no discharge of firearms.
+
+939
+01:19:40,040 --> 01:19:41,246
+Yes, sir.
+
+940
+01:19:41,360 --> 01:19:45,524
+- And the third step, sir?
+- The third step? It's not important.
+
+941
+01:19:45,640 --> 01:19:49,725
+What is important is to have a conference.
+No peace without a conference, Slater.
+
+942
+01:19:49,840 --> 01:19:53,845
+Buell, inform all interested parties
+a conference will be held here
+
+943
+01:19:53,960 --> 01:19:56,327
+- in one hour from now.
+- Yes, sir.
+
+944
+01:19:59,360 --> 01:20:03,763
+Beyond that, my contract - I got it here -
+says that I am going to deliver,
+
+945
+01:20:03,880 --> 01:20:06,406
+and I am gonna deliver,
+come hell or high water.
+
+946
+01:20:06,520 --> 01:20:09,251
+You gotta get them
+damn foreigners outta here.
+
+947
+01:20:09,360 --> 01:20:12,409
+- Mr Wallingham...
+- I am a taxpayer and a good Republican,
+
+948
+01:20:12,520 --> 01:20:14,522
+which means I am entitled to army escort.
+
+949
+01:20:14,640 --> 01:20:17,769
+I'm damn well gonna get army escort
+or I'm gonna raise hell...
+
+950
+01:20:17,880 --> 01:20:19,644
+- Mr Wallingham.
+- What?
+
+951
+01:20:19,760 --> 01:20:23,128
+I will not tolerate profanity
+in the presence of ladies.
+
+952
+01:20:24,480 --> 01:20:26,448
+Oh...
+
+953
+01:20:27,440 --> 01:20:29,920
+I think we understand
+your position by now.
+
+954
+01:20:30,040 --> 01:20:33,806
+The next party to be heard from
+will be... uh... uh... Who are you?
+
+955
+01:20:34,680 --> 01:20:38,287
+My name is Clayton Howell, sir,
+commander of the Denver Free Militia.
+
+956
+01:20:38,400 --> 01:20:40,721
+- What do you want?
+- I'd like to inform the colonel
+
+957
+01:20:40,840 --> 01:20:44,640
+that a lot of us here are members of
+the Denver Saloon Owners' Association,
+
+958
+01:20:44,760 --> 01:20:48,048
+and we intend to receive that there cargo
+and take it home with us.
+
+959
+01:20:48,160 --> 01:20:50,561
+The winter nights are
+long and lonely in Denver,
+
+960
+01:20:50,680 --> 01:20:52,682
+and a man is sorely in need of comfort.
+
+961
+01:20:52,800 --> 01:20:57,408
+Startin' next month, that there sun
+is gonna be a-settin' at 5.33pm,
+
+962
+01:20:57,520 --> 01:20:59,682
+and she's gonna rise 11 dark hours later...
+
+963
+01:20:59,800 --> 01:21:02,804
+All right. I think we can
+leave the sun out of this.
+
+964
+01:21:03,960 --> 01:21:06,167
+- What are you doing here, Oracle?
+- Colonel.
+
+965
+01:21:06,280 --> 01:21:08,681
+I'm the guide to the Denver Free Militia.
+
+966
+01:21:08,800 --> 01:21:12,486
+It is my duty to see that this
+precious cargo and these good people...
+
+967
+01:21:12,600 --> 01:21:16,366
+Thank you, Oracle.
+I'm well aware of the duties of a guide.
+
+968
+01:21:16,760 --> 01:21:19,730
+- You're next.
+- Kevin O'Flaherty at your service, sir.
+
+969
+01:21:19,840 --> 01:21:23,003
+President of the Irish Teamsters.
+With your permission,
+
+970
+01:21:23,120 --> 01:21:25,885
+I have here a resolution
+containing 14 points,
+
+971
+01:21:26,000 --> 01:21:28,810
+which I'd like to read
+prior to these labour negotiations.
+
+972
+01:21:28,920 --> 01:21:30,445
+Labour negotiations?
+
+973
+01:21:30,560 --> 01:21:33,006
+If our demands are not satisfied,
+your lordship,
+
+974
+01:21:33,120 --> 01:21:35,805
+we intend to strike,
+as nasty as that may seem.
+
+975
+01:21:35,920 --> 01:21:38,526
+- By damn, you just try...
+- Wallingham!
+
+976
+01:21:39,320 --> 01:21:40,481
+Oh.
+
+977
+01:21:40,600 --> 01:21:43,331
+I am not gonna abandon
+10 of my wagons to them Indians.
+
+978
+01:21:43,440 --> 01:21:47,809
+Who said you had to? You've got the
+Denver Free Militia to drive your wagons.
+
+979
+01:21:47,920 --> 01:21:49,843
+What?
+
+980
+01:21:49,960 --> 01:21:51,644
+Excuse me, sir.
+
+981
+01:21:51,760 --> 01:21:55,367
+The militia couldn't do it, unless
+we took a soldier to guard each wagon.
+
+982
+01:21:55,480 --> 01:22:00,611
+- They're the worst bar flies in Denver.
+- And who's gonna guard the soldiers?
+
+983
+01:22:00,720 --> 01:22:04,406
+I see what you mean. Our supply of
+temperance men is extremely limited.
+
+984
+01:22:04,520 --> 01:22:06,443
+Yes, sir. It sure is.
+
+985
+01:22:07,360 --> 01:22:11,922
+Well, since you have nothing further
+to say, Mr O'Flaherty, sit down.
+
+986
+01:22:12,040 --> 01:22:15,010
+- I call on Mrs Massingale.
+- Thank you very much, Colonel.
+
+987
+01:22:15,120 --> 01:22:19,011
+The temperance movement has now
+spread right across this great nation.
+
+988
+01:22:19,120 --> 01:22:20,690
+Founded in the year...
+
+989
+01:22:20,800 --> 01:22:23,724
+Mrs Massingale, we are not here
+for a history of the movement.
+
+990
+01:22:23,840 --> 01:22:26,411
+- Have you anything further to say?
+- I have.
+
+991
+01:22:26,520 --> 01:22:30,081
+Dump it, I say. Dump this entire
+vile cargo into the river right now.
+
+992
+01:22:30,200 --> 01:22:33,090
+- By damn, madam...
+- Mr Wallingham!
+
+993
+01:22:36,720 --> 01:22:38,768
+<i>(speaks Sioux)</i>
+
+994
+01:22:49,160 --> 01:22:51,367
+Did you get that, Captain?
+
+995
+01:22:51,480 --> 01:22:55,087
+Not a word, but I have
+an interpreter standing by. Sims!
+
+996
+01:22:57,840 --> 01:22:58,523
+Yes, sir.
+
+997
+01:22:58,640 --> 01:23:03,009
+Sims, find out what they're doing here,
+why they left the reservation.
+
+998
+01:23:15,040 --> 01:23:18,123
+<i>Hunt buffalo. Minding own business.</i>
+
+999
+01:23:18,680 --> 01:23:22,526
+<i>Then white Long Knives come along
+and attack peaceful Indian.</i>
+
+1000
+01:23:32,680 --> 01:23:34,842
+<i>Paper say peaceful Indian.</i>
+
+1001
+01:23:36,520 --> 01:23:39,922
+<i>We go home,
+but first you give us presents.</i>
+
+1002
+01:23:43,240 --> 01:23:45,129
+- What'd he say?
+- He said.
+
+1003
+01:23:45,240 --> 01:23:48,084
+"Hunt buffalo in peace,
+minding their own business,
+
+1004
+01:23:48,200 --> 01:23:50,282
+- when white Long Knives attack."
+- What?
+
+1005
+01:23:50,400 --> 01:23:53,483
+Yes, sir. But they're willin'
+to go home now, sir.
+
+1006
+01:23:53,600 --> 01:23:57,047
+- Well, tell him he's made a wise decision.
+- Yes, sir.
+
+1007
+01:24:06,800 --> 01:24:09,451
+Where are presents for us?
+
+1008
+01:24:10,160 --> 01:24:14,051
+<i>You give me 20 wagons whiskey</i>
+
+1009
+01:24:14,160 --> 01:24:18,051
+<i>or I' don't take my braves home.</i>
+
+1010
+01:24:18,640 --> 01:24:20,608
+<i>Period.</i>
+
+1011
+01:24:25,440 --> 01:24:27,329
+Yes? What'd he say?
+
+1012
+01:24:27,440 --> 01:24:30,728
+He said he would like
+to give you a present, sir.
+
+1013
+01:24:30,840 --> 01:24:32,842
+- That's fine.
+- But he hasn't got one, sir.
+
+1014
+01:24:32,960 --> 01:24:35,645
+I see. Thank him, but tell him
+no present is necessary.
+
+1015
+01:24:35,760 --> 01:24:37,728
+Wait... I'll tell him.
+
+1016
+01:24:53,840 --> 01:24:58,243
+All right, then. Tomorrow morning,
+this whole, uh... this, uh...
+
+1017
+01:24:59,120 --> 01:25:00,485
+We're leaving for Denver.
+
+1018
+01:25:00,600 --> 01:25:04,321
+You will take your orders from
+Sergeant Major Buell as to starting time,
+
+1019
+01:25:04,440 --> 01:25:07,364
+disposition of marching order,
+camp sites, et cetera.
+
+1020
+01:25:07,480 --> 01:25:10,051
+Any decisions to be made
+will be made by me.
+
+1021
+01:25:10,840 --> 01:25:13,571
+- Sergeant.
+- Conference stands adjourned!
+
+1022
+01:25:52,520 --> 01:25:54,488
+- Buell.
+- Yes, sir?
+
+1023
+01:25:55,080 --> 01:25:57,048
+What are those Indians doing here?
+
+1024
+01:25:57,160 --> 01:26:00,846
+- I don't know, sir.
+- How long have they been following us?
+
+1025
+01:26:00,960 --> 01:26:04,328
+I was gonna bring that matter
+to the colonel's attention.
+
+1026
+01:26:04,440 --> 01:26:09,401
+They've been trailing us all day, sir.
+Shall I take a squad and run 'em off, sir?
+
+1027
+01:26:10,040 --> 01:26:14,125
+Buell, the Indian wars are over. These
+Sioux are wards of the government.
+
+1028
+01:26:14,240 --> 01:26:18,325
+- How would that look in Washington?
+- The colonel has a point, sir.
+
+1029
+01:26:18,440 --> 01:26:23,207
+Get the interpreter. Find out why they're
+still here. And we'll camp early tonight.
+
+1030
+01:26:23,320 --> 01:26:26,642
+- Field quarters assembly?
+- Have the sentries out before dark.
+
+1031
+01:26:30,200 --> 01:26:34,250
+Carter, check the rest of the sentries
+and find Sergeant Buell.
+
+1032
+01:26:51,800 --> 01:26:53,768
+<i>(water splashing)</i>
+
+1033
+01:27:23,440 --> 01:27:25,807
+Phillips, what's going on here?
+
+1034
+01:27:25,920 --> 01:27:28,048
+Compliments of Mrs Massingale, sir.
+
+1035
+01:27:28,160 --> 01:27:32,848
+She has use of another tub, sir, and
+she thought the colonel looked dirty, sir.
+
+1036
+01:27:32,960 --> 01:27:35,645
+Kind of scroungy and mucky, sir.
+
+1037
+01:27:36,520 --> 01:27:38,761
+And she thought... she sort of...
+
+1038
+01:27:40,760 --> 01:27:42,285
+Yes, sir.
+
+1039
+01:27:52,560 --> 01:27:54,881
+- Colonel Gearhart, sir.
+- Yes?
+
+1040
+01:27:55,400 --> 01:28:00,804
+All sentries on their posts, sir. The Denver
+militia has retired for the evening.
+
+1041
+01:28:00,920 --> 01:28:05,767
+- Where's Sergeant Buell?
+- At the Indian camp with the interpreter.
+
+1042
+01:28:07,000 --> 01:28:09,241
+- That's all, Carter.
+- Yes, sir.
+
+1043
+01:28:21,080 --> 01:28:24,402
+<i>- Sh'?
+- Come 'm, Hue“.</i>
+
+1044
+01:28:25,920 --> 01:28:28,366
+The report from the interpreter, sir...
+
+1045
+01:28:28,480 --> 01:28:30,528
+He, uh...
+
+1046
+01:28:32,160 --> 01:28:34,128
+Well?
+
+1047
+01:28:34,680 --> 01:28:36,808
+There might be a little confusion, sir.
+
+1048
+01:28:36,920 --> 01:28:39,082
+- Confusion?
+- Confusion. Yes, sir.
+
+1049
+01:28:39,200 --> 01:28:42,602
+The interpreter was only sure they said
+"Hunt buffalo in peace,
+
+1050
+01:28:42,720 --> 01:28:45,929
+minding own business,
+when white Long Knives attack."
+
+1051
+01:28:46,040 --> 01:28:50,011
+"Willing to go home.
+Would like to give you present."
+
+1052
+01:28:54,160 --> 01:28:56,527
+Sergeant, get me Oracle Jones.
+
+1053
+01:28:57,760 --> 01:28:59,728
+Yes, sir.
+
+1054
+01:29:16,320 --> 01:29:18,288
+Friend.
+
+1055
+01:29:20,320 --> 01:29:24,689
+Go ahead. Don't beat around the bush.
+Find out why the hell they're still here.
+
+1056
+01:29:24,800 --> 01:29:26,768
+<i>(Oracle and chief speak Sioux)</i>
+
+1057
+01:29:31,880 --> 01:29:34,042
+He says he's waitin' for the presents.
+
+1058
+01:29:34,160 --> 01:29:36,128
+Presents? Wait a...
+
+1059
+01:29:37,040 --> 01:29:40,249
+Well, tell him we don't want
+any presents, and thank him.
+
+1060
+01:29:40,360 --> 01:29:42,328
+<i>(speaks Sioux)</i>
+
+1061
+01:29:49,800 --> 01:29:52,201
+Not for you, Colonel. For him.
+
+1062
+01:29:54,320 --> 01:29:59,929
+Just a minute. He said "Hunt buffalo
+in peace, minding own business..."
+
+1063
+01:30:00,520 --> 01:30:02,363
+- Sims!
+- Yes, sir.
+
+1064
+01:30:02,480 --> 01:30:05,563
+- You're under arrest.
+- Yes, sir.
+
+1065
+01:30:10,920 --> 01:30:14,891
+- Suppose I refuse to give them presents?
+- They won't go home.
+
+1066
+01:30:18,320 --> 01:30:20,288
+Well, find out what they want.
+
+1067
+01:30:21,640 --> 01:30:23,802
+<i>(speaks Sioux)</i>
+
+1068
+01:30:29,360 --> 01:30:35,163
+The chief says he wants 20 wagons of...
+<i>minne wakan</i>... crazy water.
+
+1069
+01:30:36,240 --> 01:30:38,208
+20 wagons of whiskey?
+
+1070
+01:30:38,320 --> 01:30:42,006
+That chief... he's a real boozer, Colonel.
+
+1071
+01:30:43,480 --> 01:30:45,767
+Well, you tell him no.
+
+1072
+01:30:45,880 --> 01:30:48,486
+No one's gonna blackmail
+the United States Army!
+
+1073
+01:30:48,600 --> 01:30:53,640
+Tell him to pack up his braves and get
+back where they come from. I'll tell him.
+
+1074
+01:30:54,520 --> 01:30:58,844
+White chief... Indian chief...
+meet... as friends.
+
+1075
+01:31:00,080 --> 01:31:02,082
+Leave as friends.
+
+1076
+01:31:02,200 --> 01:31:04,646
+No crazy water, no whiskey.
+
+1077
+01:31:04,760 --> 01:31:07,730
+Go home in peace... But go home!
+
+1078
+01:31:07,840 --> 01:31:09,808
+- Sergeant.
+- Yes, sir.
+
+1079
+01:31:38,280 --> 01:31:40,248
+<i>(dripping)</i>
+
+1080
+01:31:50,440 --> 01:31:52,408
+<i>(moans)</i>
+
+1081
+01:32:00,440 --> 01:32:02,408
+<i>(snoring)</i>
+
+1082
+01:32:26,880 --> 01:32:28,848
+<i>(upping)</i>
+
+1083
+01:32:28,960 --> 01:32:30,928
+<i>(liquid pouring)</i>
+
+1084
+01:33:02,360 --> 01:33:04,328
+<i>(Oracle laughs)</i>
+
+1085
+01:33:12,360 --> 01:33:15,250
+<i>♪ Hallelujah!</i>
+
+1086
+01:33:16,200 --> 01:33:17,804
+There! Now I see it!
+
+1087
+01:33:23,520 --> 01:33:25,488
+(snares)
+
+1088
+01:33:39,080 --> 01:33:41,651
+Frank! Hold up there, Frank!
+
+1089
+01:33:42,920 --> 01:33:48,450
+Frank, come sundown you head your
+wagons in towards Quicksand Bottoms.
+
+1090
+01:33:48,560 --> 01:33:50,528
+- Why?
+- We'll be campin' there tonight.
+
+1091
+01:33:50,640 --> 01:33:52,688
+No, we ain't. Not this train.
+
+1092
+01:33:52,800 --> 01:33:57,203
+- Well, sure, Frank. You just suit yourself.
+- That's a waste of time and horsepower.
+
+1093
+01:33:57,320 --> 01:34:00,290
+I'll just light out for Denver
+on my lonesome.
+
+1094
+01:34:03,040 --> 01:34:05,202
+Wait a minute, Oracle.
+You seen somethin'?
+
+1095
+01:34:05,320 --> 01:34:10,087
+Well now, I don't mind tellin' you
+things is just beginnin' to come through.
+
+1096
+01:34:10,200 --> 01:34:12,567
+- What? What?
+- Can't say.
+
+1097
+01:34:13,960 --> 01:34:16,122
+Got somethin' to do
+with Quicksand Bottoms?
+
+1098
+01:34:16,240 --> 01:34:17,730
+Yep.
+
+1099
+01:34:17,840 --> 01:34:22,687
+Rafe! Rafe! When we get to
+Quicksand Bottoms, head in.
+
+1100
+01:34:22,800 --> 01:34:26,327
+- We're gonna camp there tonight.
+- Huh?
+
+1101
+01:34:26,440 --> 01:34:30,126
+When we get to Quicksand Bottoms,
+head in. We're gonna camp there tonight.
+
+1102
+01:34:30,240 --> 01:34:32,208
+OK, Frank.
+
+1103
+01:34:41,040 --> 01:34:43,202
+Militia, halt!
+
+1104
+01:34:46,400 --> 01:34:48,971
+Get that circle formed in there
+and keep it tight.
+
+1105
+01:34:49,080 --> 01:34:51,560
+Stay away from the edge
+of that swamp. Look out!
+
+1106
+01:34:51,680 --> 01:34:54,729
+Come on, move it up there.
+Close it up tight!
+
+1107
+01:34:57,280 --> 01:35:00,170
+Stay away from the edge
+of that swamp. Look out!
+
+1108
+01:35:00,880 --> 01:35:02,848
+<i>(gurgling)</i>
+
+1109
+01:35:04,520 --> 01:35:07,683
+All right! All right!
+Come on, the rest of ya! Watch out!
+
+1110
+01:35:07,960 --> 01:35:09,928
+Frank! You'd better come quick!
+
+1111
+01:35:10,040 --> 01:35:13,886
+The Irish have gone on strike
+and they've taken 10 of the wagons.
+
+1112
+01:35:20,960 --> 01:35:25,409
+Clayton! Go and rescue
+that precious booze. Form up your men.
+
+1113
+01:35:25,520 --> 01:35:28,649
+Militia! Form up in a column of fours! Hup!
+
+1114
+01:35:33,680 --> 01:35:36,081
+Sir, the teamsters have
+finally gone on strike.
+
+1115
+01:35:36,200 --> 01:35:38,521
+They've taken 10 wagons
+and formed a circle.
+
+1116
+01:35:38,640 --> 01:35:42,201
+- Where's Wallingham?
+- He's gettin' the militia together, sir.
+
+1117
+01:35:42,320 --> 01:35:44,482
+I've put a platoon
+between them and the ladies.
+
+1118
+01:35:44,600 --> 01:35:47,604
+- The ladies?
+- They're supporting the strike, sir.
+
+1119
+01:35:47,720 --> 01:35:50,690
+It's quite possible
+that violence is imminent.
+
+1120
+01:36:04,200 --> 01:36:06,328
+Come down from there, you alien radical!
+
+1121
+01:36:06,440 --> 01:36:08,204
+- Capitalist!
+- Anarchist!
+
+1122
+01:36:08,320 --> 01:36:10,288
+Hold your positions, ladies.
+
+1123
+01:36:21,800 --> 01:36:26,408
+You finally got here, did ya? I want you
+to get this damn mess straightened out.
+
+1124
+01:36:32,840 --> 01:36:36,447
+You! Just what are you
+and your ladies up to this time?
+
+1125
+01:36:37,200 --> 01:36:40,170
+Merely exercising our right
+to peaceful assembly,
+
+1126
+01:36:40,280 --> 01:36:45,730
+as guaranteed by the Constitution, which
+you, an army officer, are sworn to uphold.
+
+1127
+01:36:47,480 --> 01:36:48,447
+O'Flaherty.
+
+1128
+01:36:48,560 --> 01:36:50,642
+We're just honest workmen,
+your lordship,
+
+1129
+01:36:50,760 --> 01:36:54,367
+exercising our God-given right
+to refuse to work.
+
+1130
+01:36:54,480 --> 01:36:58,371
+Hah! You're a pack of cowards,
+hidin' behind the skirts of these women.
+
+1131
+01:36:58,480 --> 01:37:02,326
+Besides that, you're a pack of Irish
+thieves. They stole 10 of my wagons.
+
+1132
+01:37:02,440 --> 01:37:06,331
+- I demand you do somethin' about it.
+- Now, calm yourself, Mr Wallingham.
+
+1133
+01:37:06,440 --> 01:37:09,330
+I can see your wagons.
+They don't look stolen to me.
+
+1134
+01:37:09,440 --> 01:37:11,761
+Well, they're as good as stolen, by damn!
+
+1135
+01:37:11,880 --> 01:37:14,406
+I must remind you, sir,
+there are ladies present.
+
+1136
+01:37:14,520 --> 01:37:17,046
+Damn right they're present.
+I want 'em removed.
+
+1137
+01:37:17,160 --> 01:37:20,721
+I'm sorry, Mr Wallingham,
+but this is obviously a labour dispute.
+
+1138
+01:37:20,840 --> 01:37:25,721
+Much as I hate to admit it, Mrs Massingale
+and Mr O'Flaherty are within their rights.
+
+1139
+01:37:25,840 --> 01:37:29,083
+What about my rights
+as a taxpayer and a good Republican?
+
+1140
+01:37:29,200 --> 01:37:32,921
+I'll protect your wagons and cargo,
+but under army regulations I cannot...
+
+1141
+01:37:33,040 --> 01:37:36,249
+All right, men. Enough of this
+tin-soldier lawyer talk.
+
+1142
+01:37:36,360 --> 01:37:40,524
+Club down them lrishmen.
+Club 'em down and tote them women out.
+
+1143
+01:37:41,640 --> 01:37:46,521
+Slater, take charge. You'll meet force with
+force to whatever extent is necessary.
+
+1144
+01:37:46,640 --> 01:37:49,723
+Companies A and B, move up! Ho!
+
+1145
+01:38:00,960 --> 01:38:03,327
+Draw carbines! Ho!
+
+1146
+01:38:06,960 --> 01:38:09,850
+Come on, get in there!
+What are you waitin' for?
+
+1147
+01:38:10,760 --> 01:38:12,888
+Uh... be reasonable, Frank.
+
+1148
+01:38:13,000 --> 01:38:16,368
+We can't fight the United States Army.
+It wouldn't look good.
+
+1149
+01:38:19,080 --> 01:38:23,563
+All right, Gearhart. I'm holding you
+responsible for every one of my wagons.
+
+1150
+01:38:23,680 --> 01:38:26,650
+- I accept the responsibility. Buell!
+- Sir!
+
+1151
+01:38:26,760 --> 01:38:31,129
+- We'll camp here tonight. Pick a site.
+- Yes, sir. Field order 138, sir?
+
+1152
+01:38:34,280 --> 01:38:36,248
+Yes, sir.
+
+1153
+01:38:37,280 --> 01:38:42,047
+My congratulations, Mrs Massingale. A
+brilliant manoeuvre, flawlessly executed.
+
+1154
+01:38:42,160 --> 01:38:44,447
+Thank you, Colonel. I'm very flattered.
+
+1155
+01:38:45,360 --> 01:38:47,328
+Maintain order, Slater.
+
+1156
+01:39:03,360 --> 01:39:05,283
+Ladies.
+
+1157
+01:39:05,400 --> 01:39:07,368
+Mrs Massingale, ma'am...
+
+1158
+01:39:08,080 --> 01:39:11,527
+Would you mind telling me just what
+you expect to gain by all this?
+
+1159
+01:39:11,640 --> 01:39:13,130
+Time, for one thing.
+
+1160
+01:39:13,240 --> 01:39:15,846
+But you can't keep my wagons
+immobilised for ever.
+
+1161
+01:39:15,960 --> 01:39:18,122
+We'll see.
+
+1162
+01:39:18,240 --> 01:39:21,562
+Would you mind telling me
+what your next move might be?
+
+1163
+01:39:21,680 --> 01:39:25,162
+Well, apart from our non-violent
+picket line, we have no plans.
+
+1164
+01:39:25,280 --> 01:39:27,965
+Except to have our meeting
+at the Indian camp tonight.
+
+1165
+01:39:28,080 --> 01:39:30,048
+- A what?
+- A rally.
+
+1166
+01:39:30,160 --> 01:39:31,889
+A rally, Frank.
+
+1167
+01:39:32,000 --> 01:39:35,083
+Hold your positions, ladies.
+Come along, Louise.
+
+1168
+01:39:37,000 --> 01:39:39,162
+A rally at the Indian camp.
+
+1169
+01:39:41,040 --> 01:39:42,565
+♪ We will save, we will save,
+
+1170
+01:39:42,920 --> 01:39:47,960
+♪ we will save another soul, hallelujah
+
+1171
+01:39:48,240 --> 01:39:54,600
+♪ We will save, we will save,
+we will save another soul
+
+1172
+01:39:54,720 --> 01:39:58,247
+♪ And if the road is rocky
+and a man should start to slip
+
+1173
+01:39:58,880 --> 01:40:01,645
+♪ Man should start to slip,
+man should start to slip
+
+1174
+01:40:01,760 --> 01:40:05,321
+♪ And if the road is rocky
+and a man should start to slip
+
+1175
+01:40:05,440 --> 01:40:08,842
+♪ We will take a better grip
+
+1176
+01:40:08,960 --> 01:40:12,407
+♪ And if a man gets weak
+and takes a bottle from the shelf
+
+1177
+01:40:13,040 --> 01:40:15,805
+♪ Bottle from the shelf,
+bottle from the shelf
+
+1178
+01:40:15,920 --> 01:40:19,447
+♪ And if a man gets weak
+and takes a bottle from the shelf
+
+1179
+01:40:19,760 --> 01:40:23,003
+♪ We will save him from himself
+
+1180
+01:40:23,720 --> 01:40:25,165
+♪ We will save...
+
+1181
+01:40:25,280 --> 01:40:27,248
+<i>(speaks Sioux)</i>
+
+1182
+01:40:31,080 --> 01:40:37,531
+♪ We will save, we will save,
+we will save another soul
+
+1183
+01:40:37,640 --> 01:40:41,326
+♪ And if the road is rocky
+and a man should start to slip
+
+1184
+01:40:41,560 --> 01:40:43,642
+♪ Man should start to slip...
+
+1185
+01:40:43,760 --> 01:40:46,764
+- What'd he say?
+- He says, uh...
+
+1186
+01:40:46,880 --> 01:40:50,089
+"Good to sign white squaw's paper.
+Good for peace."
+
+1187
+01:40:52,440 --> 01:40:58,800
+♪ We will save, we will save,
+we will save another soul
+
+1188
+01:40:58,920 --> 01:41:02,481
+♪ And if the road is rocky
+and a man should start to slip
+
+1189
+01:41:03,040 --> 01:41:05,930
+♪ Man should start to slip,
+man should start to slip...
+
+1190
+01:41:06,040 --> 01:41:08,008
+<i>(band joins in)</i>
+
+1191
+01:41:17,600 --> 01:41:22,640
+if it's the last thing I ever do, I'll have
+that entire band transferred to Alaska.
+
+1192
+01:41:27,920 --> 01:41:29,968
+- What are they doing now?
+- Singing, sir.
+
+1193
+01:41:30,080 --> 01:41:33,209
+- And signing pledges.
+- I don't believe it.
+
+1194
+01:41:33,320 --> 01:41:35,846
+As far as I can tell,
+they've got 50 signed already.
+
+1195
+01:41:35,960 --> 01:41:40,124
+Go back there, Sergeant. Get me
+one of those pledges. I wanna see it.
+
+1196
+01:41:41,120 --> 01:41:43,088
+How can I get one, sir?
+
+1197
+01:41:44,880 --> 01:41:47,087
+Yes, sir!
+
+1198
+01:41:47,200 --> 01:41:53,082
+♪ We will save, we will save,
+we will save another soul
+
+1199
+01:41:53,640 --> 01:41:57,042
+♪ And if a man is saved,
+there are others still to come...
+
+1200
+01:41:57,920 --> 01:42:01,527
+- Can you handle the rest of this, Louise?
+- You can count on me, Mrs Massingale.
+
+1201
+01:42:01,640 --> 01:42:03,688
+I'm gonna hand out
+equipment to Group B.
+
+1202
+01:42:03,800 --> 01:42:05,768
+Good luck, Cora.
+
+1203
+01:42:09,440 --> 01:42:13,206
+Here, sir. Just a crazy mark,
+but each one of 'em's marked different.
+
+1204
+01:42:13,320 --> 01:42:15,800
+That woman! How many?
+
+1205
+01:42:15,920 --> 01:42:17,888
+- 81 now, sir.
+- 81?
+
+1206
+01:42:19,560 --> 01:42:22,723
+Get back there, Buell.
+And tell Slater to cover his flanks.
+
+1207
+01:42:22,840 --> 01:42:24,126
+Yes, sir.
+
+1208
+01:42:25,080 --> 01:42:27,048
+Chisel.
+
+1209
+01:42:28,160 --> 01:42:30,367
+Axe.
+
+1210
+01:42:30,480 --> 01:42:32,369
+Hammer.
+
+1211
+01:42:35,720 --> 01:42:37,802
+Where's that Massingale woman?
+
+1212
+01:42:37,920 --> 01:42:42,050
+She's down there somewhere, Frank,
+takin' advantage of ignorant savages.
+
+1213
+01:42:42,160 --> 01:42:45,881
+- There oughta be a law agin it.
+- There oughta be somethin'.
+
+1214
+01:42:46,000 --> 01:42:49,971
+- I don't trust her.
+- You just keep your pants hitched, Frank.
+
+1215
+01:42:56,160 --> 01:42:58,128
+<i>(gunfire)</i>
+
+1216
+01:43:08,120 --> 01:43:11,283
+Chief says... "No more peace."
+
+1217
+01:43:14,800 --> 01:43:18,122
+What is it, Sergeant?
+What happened, Sergeant?
+
+1218
+01:43:18,240 --> 01:43:20,481
+- The Indians have captured the women.
+- What?
+
+1219
+01:43:20,600 --> 01:43:23,285
+One minute they were all
+signing pledges and then...
+
+1220
+01:43:23,400 --> 01:43:25,607
+How did that idiot Slater
+ever let it happen?
+
+1221
+01:43:25,720 --> 01:43:28,849
+On behalf of Captain Slater, sir,
+it's only fair to state
+
+1222
+01:43:28,960 --> 01:43:34,126
+that if the women hadn't started singing
+hymns and making all that... racket...
+
+1223
+01:43:39,040 --> 01:43:42,203
+Sir, the Indians disarmed my men
+and took the ladies captive.
+
+1224
+01:43:42,320 --> 01:43:44,243
+I know what they did, Slater.
+
+1225
+01:43:44,360 --> 01:43:48,001
+They moved fast, we were outnumbered,
+there was nothing I could do.
+
+1226
+01:43:48,120 --> 01:43:49,724
+- Sergeant.
+- Sir!
+
+1227
+01:43:49,840 --> 01:43:52,571
+Alert the bugler. Rouse the camp.
+Prepare for battle.
+
+1228
+01:43:52,680 --> 01:43:58,050
+Yes, sir! Sir, any rash move on our part
+may endanger the lives of the women.
+
+1229
+01:43:58,160 --> 01:44:01,403
+- Dammit, I can't just twiddle my thumbs.
+- No, sir!
+
+1230
+01:44:01,520 --> 01:44:03,522
+Sir, the sergeant's right, sir.
+
+1231
+01:44:03,640 --> 01:44:07,281
+An attack right now might be
+most ill-advised... sir.
+
+1232
+01:44:10,240 --> 01:44:12,686
+- Why is he here?
+- He's a symbol of their good faith.
+
+1233
+01:44:12,800 --> 01:44:14,609
+Good faith?
+
+1234
+01:44:14,720 --> 01:44:17,200
+- They wanna bargain with us.
+- Bargain?
+
+1235
+01:44:17,320 --> 01:44:20,642
+20 wagons of whiskey
+in exchange for the women.
+
+1236
+01:44:20,760 --> 01:44:23,969
+- 20 wagons?
+- Yes, sir. You see, the Indians...
+
+1237
+01:44:26,680 --> 01:44:29,126
+- Can he understand us?
+- Not a word, sir.
+
+1238
+01:44:29,240 --> 01:44:31,846
+20 wagons comes out to about...
+
+1239
+01:44:32,840 --> 01:44:35,446
+three and seven-eighths women
+per wagon.
+
+1240
+01:44:35,560 --> 01:44:38,689
+I think that was it, or maybe
+the interpreter was confused.
+
+1241
+01:44:38,800 --> 01:44:39,767
+- Slater.
+- Yes, sir.
+
+1242
+01:44:39,880 --> 01:44:43,965
+There's only one course of action now.
+I am declaring martial law!
+
+1243
+01:44:46,240 --> 01:44:51,246
+I say you can't do it! No tinhorn colonel's
+gonna come here and declare martial law.
+
+1244
+01:44:51,360 --> 01:44:54,523
+If you don't shut up, Mr Wallingham,
+my first step will be to lock you up.
+
+1245
+01:44:54,640 --> 01:44:57,723
+Gentlemen, this bickering
+can lead to nothing constructive.
+
+1246
+01:44:57,840 --> 01:45:01,162
+Since you cannot take
+military action against the Indians
+
+1247
+01:45:01,280 --> 01:45:05,683
+and you cannot negotiate with them, there
+is only one course of action open to us.
+
+1248
+01:45:05,800 --> 01:45:09,600
+We must accede to their demands
+and give them the whiskey without delay.
+
+1249
+01:45:09,720 --> 01:45:12,007
+Giving whiskey to Indians
+is strictly forbidden
+
+1250
+01:45:12,120 --> 01:45:15,169
+by the army regulations
+so dear to you, Mrs Massingale.
+
+1251
+01:45:15,280 --> 01:45:17,521
+Not if the Indians don't drink the whiskey.
+
+1252
+01:45:17,640 --> 01:45:20,166
+What's to stop the Indians
+from drinking whiskey?
+
+1253
+01:45:20,280 --> 01:45:21,770
+Precisely.
+
+1254
+01:45:21,880 --> 01:45:25,009
+I have their pledges.
+One hundred signed pledges
+
+1255
+01:45:25,120 --> 01:45:29,170
+with this one on the top signed by
+Chief 5 Barrels himself. That's his mark.
+
+1256
+01:45:29,280 --> 01:45:31,601
+She's right. That's his mark.
+
+1257
+01:45:31,720 --> 01:45:33,449
+Do they get the whiskey?
+
+1258
+01:45:33,560 --> 01:45:36,530
+It's my whiskey, and you're not
+going to touch one drop of it!
+
+1259
+01:45:36,640 --> 01:45:38,483
+- Listen, Frank...
+- Quiet!
+
+1260
+01:45:38,600 --> 01:45:42,685
+In that case, I have no choice but to
+destroy all the whiskey right now.
+
+1261
+01:45:42,800 --> 01:45:44,245
+You're bluff in'.
+
+1262
+01:45:44,360 --> 01:45:46,601
+Oh...
+
+1263
+01:45:46,720 --> 01:45:48,688
+Am I?
+
+1264
+01:45:49,200 --> 01:45:52,249
+There is a woman hidden in each
+and every one of those wagons,
+
+1265
+01:45:52,360 --> 01:45:56,649
+awaiting my order by code to start
+smashing the barrels of this vile cargo.
+
+1266
+01:45:56,760 --> 01:45:58,967
+Madam, you lie.
+
+1267
+01:45:59,080 --> 01:46:00,730
+Indeed?
+
+1268
+01:46:04,320 --> 01:46:06,482
+Ladies of Group B...
+
+1269
+01:46:09,640 --> 01:46:11,802
+Frank, will you keep your pants hitched?
+
+1270
+01:46:11,920 --> 01:46:17,211
+The signal was to be a hymn, but that's
+not necessary. I'll just tell them to begin.
+
+1271
+01:46:17,320 --> 01:46:20,802
+- You wouldn't do that.
+- Ladies of Group B, you may begin!
+
+1272
+01:46:20,920 --> 01:46:23,048
+Puncture those barrels!
+
+1273
+01:46:23,160 --> 01:46:25,766
+- No, wait!
+- Just a moment, ladies!
+
+1274
+01:46:28,920 --> 01:46:34,131
+You let her smash one barrel and I'll have
+those brass buttons ripped off your chest!
+
+1275
+01:46:34,240 --> 01:46:37,722
+- I'm a taxpayer and a good Republican!
+- You say that one more time
+
+1276
+01:46:37,840 --> 01:46:40,366
+and I'll bust you right in the nose!
+
+1277
+01:46:40,480 --> 01:46:43,006
+- Are you threatening me?
+- Now sit down!
+
+1278
+01:46:43,120 --> 01:46:46,488
+- You hear that?
+- Sit down! Come on, Frank. Sit down.
+
+1279
+01:46:49,840 --> 01:46:52,002
+And shut up!
+
+1280
+01:46:54,480 --> 01:46:56,801
+Mrs Massingale, sit down.
+
+1281
+01:46:58,520 --> 01:47:00,488
+Sit down!
+
+1282
+01:47:07,920 --> 01:47:10,082
+And stay down.
+
+1283
+01:47:23,720 --> 01:47:26,644
+Ladies of Group B,
+get out of those wagons!
+
+1284
+01:47:27,160 --> 01:47:29,128
+Right now!
+
+1285
+01:47:41,600 --> 01:47:43,807
+- Sergeant, put this down.
+- Yes, sir.
+
+1286
+01:47:43,920 --> 01:47:48,164
+The United States Army confiscates
+20 wagons of the Wallingham train.
+
+1287
+01:47:48,280 --> 01:47:51,124
+There! You hear that?
+Confiscation of private property,
+
+1288
+01:47:51,240 --> 01:47:54,961
+in which case I shall be repaid in full.
+Go ahead, declare martial law.
+
+1289
+01:47:55,080 --> 01:47:58,527
+- Martial law to take effect at daybreak.
+- You declare it right now!
+
+1290
+01:47:58,640 --> 01:48:01,450
+Don't you tell me
+when to declare martial law.
+
+1291
+01:48:02,360 --> 01:48:06,410
+Slater. Take that symbol of good faith
+back to Chief 5 Barrels.
+
+1292
+01:48:06,520 --> 01:48:09,126
+And, Slater, knock down the price.
+
+1293
+01:48:13,640 --> 01:48:15,847
+- Buell.
+- Sir!
+
+1294
+01:48:15,960 --> 01:48:17,928
+This meeting stands adjourned.
+
+1295
+01:48:26,720 --> 01:48:28,051
+Get outta here!
+
+1296
+01:48:28,160 --> 01:48:30,925
+Go on! Get outta here,
+you bunch of vandals!
+
+1297
+01:48:31,040 --> 01:48:33,008
+Get off of my property!
+
+1298
+01:48:33,600 --> 01:48:35,762
+Get off of my bed! Get outta here!
+
+1299
+01:48:53,560 --> 01:48:56,882
+Get outta that wagon! Get outta there!
+
+1300
+01:48:58,680 --> 01:49:00,648
+Out! Out!
+
+1301
+01:49:11,520 --> 01:49:13,488
+<i>(laughs)</i>
+
+1302
+01:49:16,040 --> 01:49:19,089
+I thought I heard ya, Frank. (Chuckles)
+
+1303
+01:49:19,200 --> 01:49:20,122
+He, he, he...
+
+1304
+01:49:20,240 --> 01:49:22,607
+You got me into this, you soothsaying sot.
+
+1305
+01:49:22,720 --> 01:49:26,691
+And now I'll get you out of it, Frank.
+In fact, it's all set.
+
+1306
+01:49:26,800 --> 01:49:30,646
+Everything's ready, except one
+more chore I gotta do right now.
+
+1307
+01:49:30,760 --> 01:49:34,481
+Believe me, Frank,
+you just trust old Oracle.
+
+1308
+01:49:34,600 --> 01:49:37,285
+Me and my Billy girl is gonna fix it all up.
+
+1309
+01:49:37,920 --> 01:49:41,686
+Come on now, Billy girl.
+Take me slow and take me true.
+
+1310
+01:49:56,760 --> 01:49:59,081
+<i>(liquid pouring)</i>
+
+1311
+01:50:10,160 --> 01:50:12,128
+<i>(Mrs Massingale) Colonel?</i>
+
+1312
+01:50:12,880 --> 01:50:14,848
+Go away!
+
+1313
+01:50:17,640 --> 01:50:19,722
+Madam, I don't know what you're up to,
+
+1314
+01:50:19,840 --> 01:50:22,650
+but whatever it is
+I don't wanna hear about it.
+
+1315
+01:50:23,400 --> 01:50:26,529
+I've come to tell you how truly sorry
+I am for what I've done.
+
+1316
+01:50:26,640 --> 01:50:28,927
+Thank you, and good night.
+
+1317
+01:50:29,040 --> 01:50:31,281
+Colonel, do you realise what will happen
+
+1318
+01:50:31,400 --> 01:50:35,564
+when word gets out that you've given
+20 wagons of whiskey to Sioux Indians?
+
+1319
+01:50:35,680 --> 01:50:37,409
+I realise!
+
+1320
+01:50:37,520 --> 01:50:40,967
+20 wagons confiscated from
+a taxpayer and a good Republican.
+
+1321
+01:50:41,080 --> 01:50:44,004
+Don't you tell me what he is
+or I'll bust you on the nose!
+
+1322
+01:50:44,120 --> 01:50:48,330
+- Colonel, those cords again. Just let me...
+- Get away from my cords!
+
+1323
+01:50:48,440 --> 01:50:51,011
+If you just relax and let the blood flow...
+
+1324
+01:50:51,120 --> 01:50:53,282
+My blood can flow on its own.
+
+1325
+01:50:55,080 --> 01:50:58,402
+Mrs Massingale, I don't know
+what your plans are for tomorrow,
+
+1326
+01:50:58,520 --> 01:51:01,410
+but judging from experience,
+you'd better get some rest.
+
+1327
+01:51:01,520 --> 01:51:04,603
+How can I rest
+after what I've done to you?
+
+1328
+01:51:04,720 --> 01:51:06,688
+Try!
+
+1329
+01:51:17,040 --> 01:51:19,008
+<i>(sobbing)</i>
+
+1330
+01:51:23,800 --> 01:51:25,768
+Oh...
+
+1331
+01:51:41,480 --> 01:51:45,166
+My selfishness, my obstinacy,
+
+1332
+01:51:45,280 --> 01:51:47,965
+my stupidity in not listening
+to your advice.
+
+1333
+01:51:48,080 --> 01:51:49,809
+I must agree with you.
+
+1334
+01:51:49,920 --> 01:51:54,721
+- It's all my fault you're in this position.
+- Well, crying isn't going to help.
+
+1335
+01:52:09,840 --> 01:52:11,729
+Mrs Massingale...
+
+1336
+01:52:15,360 --> 01:52:17,522
+Mrs Massingale!
+
+1337
+01:52:17,640 --> 01:52:19,608
+You needn't look so shocked.
+
+1338
+01:52:20,520 --> 01:52:24,286
+Plato, Augustus, Alexander...
+
+1339
+01:52:24,800 --> 01:52:29,249
+even George Washington took
+occasional spirits in medicinal amounts.
+
+1340
+01:52:31,040 --> 01:52:35,409
+There's nothing wrong with limited
+libation under emotional stress.
+
+1341
+01:52:38,720 --> 01:52:41,087
+Your entire career is ruined!
+
+1342
+01:52:42,680 --> 01:52:45,809
+Well... I suppose
+there'll be some criticism.
+
+1343
+01:52:46,120 --> 01:52:48,361
+Criticism? You'll be crucified!
+
+1344
+01:52:49,560 --> 01:52:52,689
+The press, the public,
+the War Department.
+
+1345
+01:52:53,480 --> 01:52:55,448
+Horace Greeley.
+
+1346
+01:52:56,640 --> 01:52:58,608
+Oh...
+
+1347
+01:53:08,040 --> 01:53:13,524
+Well, if I can save the lives of 27 women,
+I... I'd gladly sacrifice my career.
+
+1348
+01:53:13,640 --> 01:53:17,167
+After all, what is it?
+Only 19 years of service.
+
+1349
+01:53:17,640 --> 01:53:20,723
+With Grant at Vicksburg.
+With Thomas at Nashville.
+
+1350
+01:53:20,840 --> 01:53:24,003
+17 Indian campaigns,
+Laramie to Fort Hall.
+
+1351
+01:53:25,920 --> 01:53:27,888
+One more year.
+
+1352
+01:53:28,600 --> 01:53:32,764
+281 dollars and 25 cents a month,
+pension.
+
+1353
+01:53:33,840 --> 01:53:37,526
+Sergeant Buell,
+27 dollars and 50 cents a month.
+
+1354
+01:53:38,960 --> 01:53:41,167
+Every month.
+
+1355
+01:53:41,280 --> 01:53:43,248
+19 years.
+
+1356
+01:53:45,240 --> 01:53:48,926
+And all that time, not once have I ever...
+
+1357
+01:53:49,040 --> 01:53:52,328
+never have I ever met anyone like...
+
+1358
+01:53:52,840 --> 01:53:55,002
+Like me?
+
+1359
+01:53:56,480 --> 01:53:59,768
+Oh, well, I'll just resign gracefully.
+Anyway, I'll resign.
+
+1360
+01:54:00,920 --> 01:54:03,571
+Well, at least you'll still
+have your beloved West.
+
+1361
+01:54:03,680 --> 01:54:05,842
+- I hate the West.
+- Oh, dear!
+
+1362
+01:54:05,960 --> 01:54:08,327
+Dust, wind, Indians.
+
+1363
+01:54:10,200 --> 01:54:14,569
+My stubbornness, my obstinacy,
+my selfishness.
+
+1364
+01:54:14,680 --> 01:54:17,001
+Now, now, Cora... uh... Mrs Massingale.
+
+1365
+01:54:17,120 --> 01:54:19,327
+If only I'd listened to you. If only!
+
+1366
+01:54:19,800 --> 01:54:22,724
+Easy, easy, Mrs Massingale... Cora.
+
+1367
+01:54:22,840 --> 01:54:25,684
+Do you think you could
+ever forgive me, Thaddeus?
+
+1368
+01:54:26,800 --> 01:54:28,962
+Well, l...
+
+1369
+01:54:40,920 --> 01:54:43,605
+I could try.
+
+1370
+01:54:50,680 --> 01:54:52,648
+Cora...
+
+1371
+01:54:53,360 --> 01:54:56,364
+Couldn't we forget all this? I mean...
+
+1372
+01:54:58,240 --> 01:55:03,326
+I mean... just forget
+the whole thing... Cora?
+
+1373
+01:55:03,440 --> 01:55:06,205
+- Colonel Gearhart!
+- One moment, Slater.
+
+1374
+01:55:16,440 --> 01:55:18,408
+Come in, Slater.
+
+1375
+01:55:21,320 --> 01:55:26,565
+- Captain Slater reporting, sir.
+- ♪ Stand up, we'll march to Denver.
+
+1376
+01:55:27,480 --> 01:55:31,041
+- ♪ No more wine or beer.
+- Someone's singing. Go on, Slater.
+
+1377
+01:55:31,840 --> 01:55:34,446
+Uh... Chief 5 Barrels
+said he'd take 15 barrels.
+
+1378
+01:55:34,560 --> 01:55:36,767
+I came back with eight and he said 13.
+
+1379
+01:55:37,440 --> 01:55:41,286
+I think that was the number.
+The language barrier is very difficult, sir.
+
+1380
+01:55:41,400 --> 01:55:44,563
+- Did you reach any agreement?
+- 10 wagons of whiskey.
+
+1381
+01:55:44,680 --> 01:55:46,170
+- 10 wagons?
+- For all the women.
+
+1382
+01:55:46,280 --> 01:55:48,123
+- Good work, Slater.
+- Thank you, sir.
+
+1383
+01:55:48,240 --> 01:55:52,165
+- What's he doing here?
+- The same, sir. A symbol of good faith.
+
+1384
+01:55:56,760 --> 01:55:59,240
+Are you sure he can't understand us?
+
+1385
+01:55:59,360 --> 01:56:01,601
+- Not a word.
+- That's all, Slater.
+
+1386
+01:56:06,040 --> 01:56:10,682
+Oh... The Indians
+would like to have... uh...
+
+1387
+01:56:10,800 --> 01:56:13,883
+Mrs Massingale present
+for the exchange, sir.
+
+1388
+01:56:15,920 --> 01:56:18,400
+- What for?
+- Our symbol of good faith.
+
+1389
+01:56:19,280 --> 01:56:22,966
+Tell Chief 5 Barrels I'd be happy
+to join my brave ladies.
+
+1390
+01:56:25,240 --> 01:56:29,325
+Yes, ma'am. I'll make all
+the arrangements for the exchange. Sir.
+
+1391
+01:56:29,440 --> 01:56:31,681
+Good night, Slater.
+
+1392
+01:56:31,800 --> 01:56:33,768
+It's scheduled for dawn.
+
+1393
+01:56:40,720 --> 01:56:42,370
+Oh...
+
+1394
+01:56:42,480 --> 01:56:45,211
+Thaddeus, isn't it wonderful? 10 wagons.
+
+1395
+01:56:45,320 --> 01:56:48,130
+That's the exact number
+held by the Irish teamsters.
+
+1396
+01:56:48,240 --> 01:56:53,007
+You're not gonna have to confiscate
+any of Mr Wallingham's wagons after all.
+
+1397
+01:56:53,760 --> 01:56:55,728
+Yes... well...
+
+1398
+01:56:55,840 --> 01:56:58,969
+It's a long day tomorrow, Cora,
+and you need rest.
+
+1399
+01:56:59,080 --> 01:57:01,048
+I'll take you back to your camp.
+
+1400
+01:57:03,920 --> 01:57:06,730
+- Oh...
+- Oh, I can get back by myself.
+
+1401
+01:57:06,840 --> 01:57:10,242
+- You're sure?
+- Oh, Thaddeus...
+
+1402
+01:57:10,360 --> 01:57:14,649
+You're so kind and generous... and brave.
+
+1403
+01:57:20,560 --> 01:57:22,528
+Good night, Thaddeus.
+
+1404
+01:57:25,320 --> 01:57:28,961
+♪ Stand up, we'll march to Denver
+
+1405
+01:57:29,320 --> 01:57:31,926
+♪ No more wine or beer...
+
+1406
+01:57:42,240 --> 01:57:44,208
+♪ We shall save
+
+1407
+01:57:45,000 --> 01:57:46,968
+♪ We shall save
+
+1408
+01:57:47,840 --> 01:57:50,730
+♪ We shall save another soul
+
+1409
+01:57:51,640 --> 01:57:54,120
+- ♪ Hallelujah.
+- Frank.
+
+1410
+01:57:54,240 --> 01:57:56,288
+- Huh?
+- Frank, she's all fixed up.
+
+1411
+01:57:57,280 --> 01:58:00,682
+- What?
+- Frank, listen carefully. This is important.
+
+1412
+01:58:00,800 --> 01:58:02,962
+Frank! Hey, Frank!
+
+1413
+01:58:04,920 --> 01:58:06,922
+You've been drinkin'.
+
+1414
+01:58:07,040 --> 01:58:11,568
+Frank, listen carefully. If you could
+get your wagon train outta here,
+
+1415
+01:58:11,680 --> 01:58:17,323
+if you could cross the river so as nobody,
+no lnjuns, women or army could follow,
+
+1416
+01:58:17,440 --> 01:58:19,920
+would you do it?
+
+1417
+01:58:20,040 --> 01:58:22,042
+- How?
+- Wait a minute!
+
+1418
+01:58:22,160 --> 01:58:25,130
+You'd have to give up
+them 10 wagons on the exchange.
+
+1419
+01:58:25,240 --> 01:58:28,130
+Now, here's what we do.
+We take the rest of the wagons
+
+1420
+01:58:28,240 --> 01:58:31,847
+and we ride across Quicksand Bottoms.
+None of them people could see us.
+
+1421
+01:58:31,960 --> 01:58:33,928
+- Hold it.
+- We'd get across the river...
+
+1422
+01:58:34,040 --> 01:58:36,964
+Hold on! Just a damn minute now.
+
+1423
+01:58:37,080 --> 01:58:40,482
+Nobody can cross Quicksand Bottoms
+cos they'd sink.
+
+1424
+01:58:40,600 --> 01:58:43,809
+We can. There's a way, Frank.
+
+1425
+01:58:43,920 --> 01:58:46,366
+I found it five years ago.
+
+1426
+01:58:46,480 --> 01:58:50,849
+A bunch of scalp-hungry lnjuns
+chased me right up to the edge.
+
+1427
+01:58:50,960 --> 01:58:54,248
+I knew for sure they'd get me
+that night if I didn't get across.
+
+1428
+01:58:54,360 --> 01:58:58,968
+I just pointed my Billy girl south
+and let her go. She didn't miss a step.
+
+1429
+01:58:59,560 --> 01:59:03,201
+I did the same thing tonight.
+She took me right across.
+
+1430
+01:59:03,600 --> 01:59:09,687
+I've staked out a trail across the Bottoms
+with my red flannel. We can't miss it.
+
+1431
+01:59:09,800 --> 01:59:15,125
+We'll take all the wagons you got and go
+across, a-pullin' up the stakes as we go.
+
+1432
+01:59:15,240 --> 01:59:17,846
+They won't even know
+what happened to us.
+
+1433
+01:59:17,960 --> 01:59:23,126
+Once across the Bottoms, it's a straight
+shoot to Denver over flat, open country.
+
+1434
+01:59:23,240 --> 01:59:26,767
+- We'll be free and clear.
+- (Wallingham chuckles)
+
+1435
+01:59:26,880 --> 01:59:31,090
+- Hallelujah! Hallelujah!
+- Sh! Hush up!
+
+1436
+01:59:31,520 --> 01:59:34,444
+Yeah... My sentiments exactly.
+
+1437
+01:59:35,480 --> 01:59:37,448
+Hallelujah.
+
+1438
+01:59:38,760 --> 01:59:40,728
+Here's one.
+
+1439
+01:59:43,440 --> 01:59:45,408
+Here's another one.
+
+1440
+01:59:49,600 --> 01:59:51,682
+Here...
+
+1441
+01:59:51,800 --> 01:59:54,007
+and here's one.
+
+1442
+01:59:54,120 --> 01:59:56,851
+- But what are they?
+- I don't know.
+
+1443
+01:59:56,960 --> 02:00:00,806
+- But does it look familiar?
+- It looks like Mr Jones' underwear.
+
+1444
+02:00:00,920 --> 02:00:04,208
+- It is.
+- Are you... are you sure?
+
+1445
+02:00:04,320 --> 02:00:08,530
+The ladies have confirmed it. He's not
+wearing those underdrawers now.
+
+1446
+02:00:08,640 --> 02:00:13,851
+They're torn to shreds and spread out
+on stakes all across Quicksand Bottoms.
+
+1447
+02:00:15,160 --> 02:00:18,243
+- Where's Group C?
+- (whistles)
+
+1448
+02:00:21,640 --> 02:00:24,610
+Mrs Massingale, have you any idea
+what these stakes are for?
+
+1449
+02:00:24,720 --> 02:00:27,610
+I'm not sure, but I know
+what we're gonna do with them.
+
+1450
+02:00:27,720 --> 02:00:30,041
+- What?
+- Move them.
+
+1451
+02:01:00,600 --> 02:01:03,604
+Stay between those red markers.
+Don't be a-laggin' behind.
+
+1452
+02:01:03,720 --> 02:01:05,688
+Keep your wagons up close, all of ya!
+
+1453
+02:01:05,800 --> 02:01:08,770
+Militia, when we move out,
+get on the wagons.
+
+1454
+02:01:11,160 --> 02:01:15,768
+That's the signal, sir. All wagons ready for
+exchange. Platoons A and B in position.
+
+1455
+02:01:15,880 --> 02:01:20,249
+Get down there, Buell. Send Mrs
+Massingale over to the exchange point.
+
+1456
+02:01:24,120 --> 02:01:26,361
+- Mrs Massingale!
+- Whoa, whoa!
+
+1457
+02:01:26,480 --> 02:01:29,802
+- Mrs Massingale, excuse me.
+- I'm busy right now, Mr O'Flaherty.
+
+1458
+02:01:29,920 --> 02:01:32,890
+- It's about them 10 wagons.
+- What's the matter with them?
+
+1459
+02:01:33,000 --> 02:01:36,607
+- Nothing, mum, but they ain't whiskey.
+- Ain't whiskey?
+
+1460
+02:01:36,720 --> 02:01:40,566
+No, mum. Those wagons is filled
+with French champagne. All of 'em.
+
+1461
+02:01:40,680 --> 02:01:43,650
+You know anything about
+French champagne, mum?
+
+1462
+02:01:43,760 --> 02:01:46,969
+Well, I sipped some once
+on my second honeymoon in Paris.
+
+1463
+02:01:47,080 --> 02:01:50,482
+Aye, but it was most likely cold.
+These bottles ain't, they're warm.
+
+1464
+02:01:50,600 --> 02:01:54,924
+If you open a bottle of warm champagne,
+especially when it's been shooken up,
+
+1465
+02:01:55,040 --> 02:01:57,202
+well, it's...
+
+1466
+02:01:58,280 --> 02:02:02,046
+- You mean they explode?
+- Like a Marsh gun, about a .58 calibre.
+
+1467
+02:02:02,160 --> 02:02:04,925
+We gotta handle those bottles
+like dynamite.
+
+1468
+02:02:05,040 --> 02:02:08,647
+That's why they hired us Irish teamsters.
+It's our business.
+
+1469
+02:02:08,760 --> 02:02:11,570
+What's gonna happen when
+them savages get them wagons?
+
+1470
+02:02:11,680 --> 02:02:13,921
+What's gonna happen to that champagne?
+
+1471
+02:02:14,040 --> 02:02:16,042
+- Explosions?
+- Right.
+
+1472
+02:02:16,160 --> 02:02:18,162
+I just thought someone oughta know.
+
+1473
+02:02:18,280 --> 02:02:22,410
+- Have you told Colonel Gearhart yet?
+- Oh, no, mum. I've been afeard to.
+
+1474
+02:02:22,520 --> 02:02:24,488
+What's holding you up, Mrs Massingale?
+
+1475
+02:02:24,600 --> 02:02:28,321
+I'm sorry, Sergeant Buell.
+Excuse me, Mr O'Flaherty.
+
+1476
+02:02:41,120 --> 02:02:43,248
+Mrs Massingale,
+we have a bit of a problem.
+
+1477
+02:02:43,360 --> 02:02:45,931
+Chief 5 Barrels insists on
+taking the first wagon,
+
+1478
+02:02:46,040 --> 02:02:49,886
+and his two brothers-in-law
+the second and third wagons,
+
+1479
+02:02:50,000 --> 02:02:55,006
+and Elks-Runner the fourth wagon. That
+leaves nobody in charge on their side.
+
+1480
+02:02:55,120 --> 02:02:57,202
+Me in charge.
+
+1481
+02:02:57,320 --> 02:03:01,370
+You? You speak our tongue?
+
+1482
+02:03:01,480 --> 02:03:04,848
+I speak with straight tongue.
+Me in charge good. Drink later.
+
+1483
+02:03:04,960 --> 02:03:07,884
+We'll agree to your taking charge
+on one condition,
+
+1484
+02:03:08,000 --> 02:03:10,651
+that I stay at the exchange point
+the whole time.
+
+1485
+02:03:10,760 --> 02:03:13,240
+- Me there... whole time.
+- Good.
+
+1486
+02:03:15,080 --> 02:03:17,242
+One moment, please, Captain.
+
+1487
+02:03:22,160 --> 02:03:25,528
+Mrs Massingale, I'll never forgive
+myself for having failed you.
+
+1488
+02:03:25,640 --> 02:03:27,881
+10 wagonloads of whiskey to the Indians.
+
+1489
+02:03:28,000 --> 02:03:31,322
+- I've destroyed the crusade.
+- Not quite yet.
+
+1490
+02:03:31,440 --> 02:03:33,602
+- What?
+- Give me a hatpin.
+
+1491
+02:03:35,320 --> 02:03:37,288
+Hatpin?
+
+1492
+02:03:37,760 --> 02:03:40,809
+Our goal is still in sight, Louise.
+Courage, ladies!
+
+1493
+02:03:45,960 --> 02:03:48,531
+First three ladies, front and centre.
+
+1494
+02:03:50,120 --> 02:03:53,283
+There they go, sir.
+Three women starting across...
+
+1495
+02:03:54,480 --> 02:03:56,608
+- Sir... sir!
+- What's the matter?
+
+1496
+02:03:56,720 --> 02:04:00,566
+That Massingale woman.
+She's heading for the exchange point.
+
+1497
+02:04:02,800 --> 02:04:06,088
+- Why's that symbol of good faith there?
+- I can't say, sir.
+
+1498
+02:04:10,760 --> 02:04:14,651
+- Roll the first wagon.
+- First wagon... roll!
+
+1499
+02:04:41,640 --> 02:04:45,008
+What's he trying to do,
+bolting out of there like that?
+
+1500
+02:04:45,880 --> 02:04:50,090
+- Roll wagon two.
+- Wagon two... roll!
+
+1501
+02:04:51,800 --> 02:04:53,768
+Ladies, move out!
+
+1502
+02:04:55,240 --> 02:04:57,720
+Wagon two, roll!
+
+1503
+02:04:59,480 --> 02:05:01,767
+Next three ladies, front and centre.
+
+1504
+02:05:17,760 --> 02:05:19,649
+<i>(corks popping)</i>
+
+1505
+02:05:19,760 --> 02:05:22,684
+Tell 'em not to bolt like that.
+Our teams'll get out of control.
+
+1506
+02:05:22,800 --> 02:05:24,962
+Tell those Indians not to bolt like that.
+
+1507
+02:05:37,280 --> 02:05:39,248
+<i>(popping)</i>
+
+1508
+02:06:07,600 --> 02:06:10,570
+- Roll wagon three.
+- Wagon three, roll!
+
+1509
+02:06:12,720 --> 02:06:15,200
+Roll!
+
+1510
+02:06:15,640 --> 02:06:17,927
+Next three ladies, front and centre!
+
+1511
+02:06:21,080 --> 02:06:23,048
+Well, move out. Go!
+
+1512
+02:06:41,800 --> 02:06:43,609
+<i>(popping)</i>
+
+1513
+02:06:43,720 --> 02:06:47,805
+Don't let those idiots bolt that way.
+Roll the wagons slowly!
+
+1514
+02:06:48,240 --> 02:06:50,766
+No, not those wagons.
+Hold those wagons back!
+
+1515
+02:06:50,880 --> 02:06:54,601
+Hold on to those teams! There's gonna
+be a runaway! Hold 'em, I say!
+
+1516
+02:06:54,720 --> 02:06:58,691
+Whoa! Somebody tell them Indians
+not to go bolting out there like that!
+
+1517
+02:06:59,240 --> 02:07:02,164
+Wagon four, roll!
+
+1518
+02:07:04,520 --> 02:07:08,286
+Next three ladies, front and centre!
+Hold the wagons back!
+
+1519
+02:07:19,920 --> 02:07:21,729
+Hold those teams back!
+
+1520
+02:07:24,240 --> 02:07:26,686
+- Hold those wagons!
+- Hold those wagons!
+
+1521
+02:07:30,000 --> 02:07:31,968
+Don't bolt!
+
+1522
+02:08:03,920 --> 02:08:05,649
+- Hold 'em back!
+- Hold 'em back!
+
+1523
+02:08:10,560 --> 02:08:13,564
+Carter! Cut those teams off
+and bring 'em back!
+
+1524
+02:08:13,680 --> 02:08:15,444
+HQ!
+
+1525
+02:08:18,240 --> 02:08:19,844
+HQ!
+
+1526
+02:08:46,920 --> 02:08:49,605
+- Look out! Look out!
+- We got a stampede!
+
+1527
+02:08:49,720 --> 02:08:51,688
+Hold on to that team!
+
+1528
+02:08:51,800 --> 02:08:54,041
+Don't let 'em follow them other horses!
+
+1529
+02:08:54,360 --> 02:08:56,203
+No, not that way!
+
+1530
+02:08:59,800 --> 02:09:02,007
+You're going the wrong way!
+
+1531
+02:09:02,120 --> 02:09:05,329
+They're gonna stampede!
+You'll never get 'em back!
+
+1532
+02:09:05,440 --> 02:09:07,408
+Full them up! Full them up there!
+
+1533
+02:09:08,000 --> 02:09:11,766
+Hey, you! Full them up!
+You're going the wrong way!
+
+1534
+02:09:25,000 --> 02:09:27,162
+The whole Wallingham train!
+
+1535
+02:10:08,800 --> 02:10:10,768
+Hey! Hey, you!
+
+1536
+02:10:11,520 --> 02:10:13,488
+Tum 'em, tum 'em!
+
+1537
+02:10:16,000 --> 02:10:18,401
+Head 'em back to the quicksands.
+
+1538
+02:10:37,680 --> 02:10:39,648
+<i>(Mrs Massingale screams)</i>
+
+1539
+02:11:17,040 --> 02:11:19,247
+Uh... company, halt.
+
+1540
+02:11:36,840 --> 02:11:38,808
+Whoa! Whoa!
+
+1541
+02:11:40,120 --> 02:11:43,090
+Get 'em on through there!
+Follow them red flags!
+
+1542
+02:11:45,800 --> 02:11:48,201
+All right! Follow them red flags as you go.
+
+1543
+02:11:48,320 --> 02:11:53,008
+Stay right along in line with them.
+Follow them little red flags there.
+
+1544
+02:12:06,720 --> 02:12:08,529
+Follow them markers!
+
+1545
+02:12:26,640 --> 02:12:30,247
+Stay right in line with them.
+Follow them little red flags and...
+
+1546
+02:12:31,400 --> 02:12:33,846
+He)', you! No, not that way!
+
+1547
+02:12:40,880 --> 02:12:42,803
+Frank! Look out, Frank!
+
+1548
+02:12:45,000 --> 02:12:47,401
+Whoa! Whoa!
+
+1549
+02:12:49,400 --> 02:12:53,086
+Rafe, Rafe! Come over here
+and give me a hand with this thing!
+
+1550
+02:12:55,400 --> 02:12:57,368
+Help me "P!
+
+1551
+02:13:00,280 --> 02:13:02,248
+Get 'em outta here!
+
+1552
+02:13:03,200 --> 02:13:05,851
+- OK, take 'em out!
+- Take 'em outta here.
+
+1553
+02:13:06,720 --> 02:13:08,688
+Go on, take 'em out!
+
+1554
+02:13:15,280 --> 02:13:17,248
+<i>Ulelches)</i>
+
+1555
+02:13:43,560 --> 02:13:46,370
+Tell the colonel
+the Indians are firing on us!
+
+1556
+02:13:48,040 --> 02:13:50,008
+Return fire!
+
+1557
+02:16:17,880 --> 02:16:19,769
+<i>(whooping)</i>
+
+1558
+02:16:19,880 --> 02:16:21,769
+<i>(gunfire)</i>
+
+1559
+02:16:21,880 --> 02:16:24,451
+Don't shoot! Don't shoot!
+
+1560
+02:17:06,720 --> 02:17:09,041
+Don't shoot!
+
+1561
+02:17:21,560 --> 02:17:23,722
+I beg your pardon!
+
+1562
+02:17:23,840 --> 02:17:25,888
+What do you think you're doing to me?
+
+1563
+02:17:26,200 --> 02:17:28,487
+My God! They've got Mrs Massingale!
+
+1564
+02:17:38,320 --> 02:17:40,800
+Sir! Sir, they're waving a flag of truce!
+
+1565
+02:17:41,920 --> 02:17:44,810
+It's a woman's petticoat. Charge!
+
+1566
+02:17:55,600 --> 02:17:57,568
+- Thaddeus!
+- You!
+
+1567
+02:18:05,360 --> 02:18:08,091
+We go home now.
+
+1568
+02:18:08,200 --> 02:18:11,568
+- You speak my tongue?
+- I speak with straight tongue.
+
+1569
+02:18:11,880 --> 02:18:13,848
+We go home, hunt buffalo.
+
+1570
+02:18:14,880 --> 02:18:17,247
+Peaceful Indian. Forget presents.
+
+1571
+02:18:18,480 --> 02:18:22,565
+You hunt buffalo in peace.
+You hunt deer of green forest in peace.
+
+1572
+02:18:22,680 --> 02:18:24,921
+You go home in peace. But go home!
+
+1573
+02:18:33,640 --> 02:18:35,608
+Oh...
+
+1574
+02:18:36,920 --> 02:18:39,082
+Hey. He!!!
+
+1575
+02:18:40,000 --> 02:18:42,446
+Hey! Hey!
+
+1576
+02:18:53,320 --> 02:18:55,288
+Get 'em outta there.
+
+1577
+02:19:06,320 --> 02:19:09,210
+Rafe! Rafe! Throw me that rope!
+
+1578
+02:19:09,320 --> 02:19:10,765
+Yeah. Get a rope!
+
+1579
+02:19:10,880 --> 02:19:14,771
+Hold what you got, Frank. I'm a-comin'.
+I'll help ya. Hold what you got, Frank!
+
+1580
+02:19:14,880 --> 02:19:16,848
+I'll be right there with you.
+
+1581
+02:19:24,400 --> 02:19:26,368
+Make it fast to that tree.
+
+1582
+02:19:35,880 --> 02:19:37,882
+Get the slack outta that line.
+
+1583
+02:19:38,200 --> 02:19:40,168
+Tighten up on it.
+
+1584
+02:19:41,200 --> 02:19:43,487
+Now, hold on that. Hold it! Hold it!
+
+1585
+02:20:36,320 --> 02:20:41,326
+<i>Companies A and B of the cavalry
+escorted the ex-temperance marchers</i>
+
+1586
+02:20:41,440 --> 02:20:45,047
+<i>back to their husbands and
+hungry children at Fort Russell.</i>
+
+1587
+02:20:45,520 --> 02:20:47,761
+<i>It is to be assumed some time passed</i>
+
+1588
+02:20:47,880 --> 02:20:51,930
+<i>before the Indians were able to
+regain their customary composure.</i>
+
+1589
+02:20:52,680 --> 02:20:57,083
+<i>But it is known that the exploits
+of their journey became tribal legend,</i>
+
+1590
+02:20:57,200 --> 02:21:02,127
+<i>to be told over and over again,
+from generation to generation,</i>
+
+1591
+02:21:02,680 --> 02:21:05,001
+<i>with slight revisions.</i>
+
+1592
+02:21:05,360 --> 02:21:09,206
+<i>The Denver Free Militia dissolved,
+never to march again.</i>
+
+1593
+02:21:09,600 --> 02:21:13,924
+<i>And, of course, the strike
+of the Irish teamsters failed,</i>
+
+1594
+02:21:14,040 --> 02:21:17,522
+<i>and the Wallingham Freighting Company
+went bankrupt,</i>
+
+1595
+02:21:17,960 --> 02:21:20,122
+<i>having no visible assets.</i>
+
+1596
+02:21:21,240 --> 02:21:24,926
+You know, Frank,
+some lnjuns told me once...
+
+1597
+02:21:25,040 --> 02:21:27,486
+Reliable lnjuns, Frank.
+
+1598
+02:21:27,600 --> 02:21:31,127
+They said a Cheyenne brave
+and his pony sunk right here,
+
+1599
+02:21:31,240 --> 02:21:33,891
+and dured if they didn't ooze up again
+
+1600
+02:21:34,000 --> 02:21:37,447
+just as natural-lookin'
+and as pretty as you please.
+
+1601
+02:21:38,400 --> 02:21:40,368
+Oh, they was dead, of course,
+
+1602
+02:21:40,480 --> 02:21:43,450
+but right near the top
+where you could grab easy.
+
+1603
+02:21:44,960 --> 02:21:47,850
+It might be worth waitin' for, eh, Frank?
+
+1604
+02:21:48,640 --> 02:21:50,847
+Frank?
+
+1605
+02:21:50,960 --> 02:21:52,610
+<i>(bubbling)</i>
+
+1606
+02:21:52,720 --> 02:21:55,121
+There. You see?
+
+1607
+02:21:59,000 --> 02:22:02,083
+<i>So ended the great disaster
+at Quicksand Bottoms.</i>
+
+1608
+02:22:02,800 --> 02:22:04,768
+<i>Oh, yes. Mrs Massingale.</i>
+
+1609
+02:22:06,120 --> 02:22:11,251
+<i>Cora Templeton Massingale retired from
+participation in temperance movements.</i>
+
+1610
+02:22:12,200 --> 02:22:14,931
+<i>A military wedding
+was held at Fort Russell.</i>
+
+1611
+02:22:18,600 --> 02:22:22,889
+<i>As it fumed out, it was a double wedding.</i>
+
+1612
+02:22:26,040 --> 02:22:30,204
+<i>A homestead claim was filed
+by Mr Jones and Mr Wallingham</i>
+
+1613
+02:22:30,320 --> 02:22:34,928
+<i>on a piece of land encompassing
+the entire Quicksand Bottoms area.</i>
+
+1614
+02:22:42,600 --> 02:22:43,647
+<i>(bubbling)</i>
+
+1615
+02:22:48,720 --> 02:22:51,291
+(whispers) Frank? Frank.
+
+1616
+02:22:52,200 --> 02:22:53,531
+- Frank!
+- What?
+
+1617
+02:22:53,640 --> 02:22:55,688
+- Frank!
+- <i>(bubbling)</i>
+
+1618
+02:23:11,080 --> 02:23:13,048
+Come on. Pull, Frank.
+
+1619
+02:23:15,160 --> 02:23:17,128
+Careful, careful, careful.
+
+1620
+02:23:28,440 --> 02:23:30,408
+<i>(both chuckle)</i>
+
+1621
+02:23:37,640 --> 02:23:40,041
+Oracle... Oracle.
+
+1622
+02:23:40,160 --> 02:23:42,128
+Oracle. Oracle!
+
+1623
+02:23:42,520 --> 02:23:44,284
+Oracle. Oracle.
+
+1624
+02:23:44,400 --> 02:23:47,847
+<i>♪ Hallelujah!</i>
+
+1625
+02:23:47,960 --> 02:23:50,406
+There! Now I see it!
+
+1626
+02:23:54,240 --> 02:23:57,005
+- Glory, hallelujah!
+- Hallelujah!
+
+1627
+02:23:59,280 --> 02:24:00,964
+<i>It's not to be denied</i>
+
+1628
+02:24:01,080 --> 02:24:04,368
+<i>that there were occasional
+re-emergences of whiskey kegs,</i>
+
+1629
+02:24:04,480 --> 02:24:09,168
+<i>which kept Mr Jones
+and Mr Wallingham,</i> uh... uh...
+
+1630
+02:24:09,600 --> 02:24:12,763
+<i>quite content for a number of years.</i>
+
+1631
+02:24:14,320 --> 02:24:16,288
+<i>And in spite of all predictions,</i>
+
+1632
+02:24:16,400 --> 02:24:19,927
+<i>shaggy hair, and busy beavers
+to the contrary,</i>
+
+1633
+02:24:20,040 --> 02:24:24,489
+<i>the winter of 1867 turned out to be
+the driest and warmest on record.</i>
+
+1634
+02:24:25,880 --> 02:24:29,168
+<i>Such was the year, oh, pioneer West,</i>
+
+1635
+02:24:30,440 --> 02:24:33,410
+<i>and the days of the Hallelujah Trail.</i>
+
+1636
+02:24:34,160 --> 02:24:36,640
+<i>♪ Don't know where we're goin'
+or where we been</i>
+
+1637
+02:24:36,760 --> 02:24:38,205
+<i>♪ Hallelujah Trail</i>
+
+1638
+02:24:38,320 --> 02:24:40,971
+<i>♪ It's written in the dust
+and blown by the wind</i>
+
+1639
+02:24:41,080 --> 02:24:42,570
+<i>♪ Hallelujah Trail</i>
+
+1640
+02:24:42,680 --> 02:24:45,160
+<i>♪ You can't tell a horse
+from a stubborn mule</i>
+
+1641
+02:24:45,280 --> 02:24:46,691
+<i>♪ Hallelujah Trail</i>
+
+1642
+02:24:46,800 --> 02:24:49,280
+<i>♪ You can't tell a hero
+from a doggone fool</i>
+
+1643
+02:24:49,400 --> 02:24:51,368
+<i>♪ Hallelujah Trail</i>
+
+1644
+02:24:51,880 --> 02:24:55,851
+<i>♪ Hallelujah, hallelujah</i>
+
+1645
+02:24:56,120 --> 02:24:59,761
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+1646
+02:25:00,440 --> 02:25:04,525
+<i>♪ Hallelujah, hallelujah</i>
+
+1647
+02:25:04,840 --> 02:25:06,808
+<i>♪ Hallelujah</i>
+
+1648
+02:25:08,960 --> 02:25:10,962
+<i>♪ Early in the morning, almost day</i>
+
+1649
+02:25:11,400 --> 02:25:13,243
+<i>♪ Hallelujah Trail</i>
+
+1650
+02:25:13,360 --> 02:25:15,362
+<i>♪ Rise and shine, we're on our way</i>
+
+1651
+02:25:15,800 --> 02:25:17,768
+<i>♪ Hallelujah Trail</i>
+
+1652
+02:25:17,960 --> 02:25:22,045
+<i>♪ Hallelujah, hallelujah</i>
+
+1653
+02:25:22,400 --> 02:25:26,166
+<i>♪ Hallelujah, hallelu, Hallelujah Trail</i>
+
+1654
+02:25:26,800 --> 02:25:30,805
+<i>♪ Hallelujah, hallelujah</i>
+
+1655
+02:25:31,160 --> 02:25:33,208
+<i>♪ Hallelujah</i>
+
+1656
+02:25:33,320 --> 02:25:37,325
+<i>♪ Hallelujah, hallelujah</i>
+
+1657
+02:25:37,640 --> 02:25:39,881
+<i>♪ Hallelujah</i>
+
+1658
+02:25:40,000 --> 02:25:45,086
+<i>♪ Hallelu, Hallelujah Trail!</i>
+
+1659
+02:25:49,640 --> 02:25:52,689
+<i>(♪ "Suite" by Elmer Bernstein)</i>
+

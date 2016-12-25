@@ -1,0 +1,7905 @@
+1
+00:02:41,719 --> 00:02:43,644
+[Computer beeping]
+
+2
+00:04:57,978 --> 00:05:00,173
+LEADER:
+Bio-readouts are in the green.
+
+3
+00:05:00,213 --> 00:05:01,703
+Looks like she's alive.
+
+4
+00:05:05,185 --> 00:05:07,483
+There goes our salvage, guys.
+
+5
+00:05:34,681 --> 00:05:36,148
+MED-TECH: How are we today?
+
+6
+00:05:36,183 --> 00:05:38,151
+RIPLEY: Oh. Terrible.
+
+7
+00:05:38,185 --> 00:05:40,415
+MED-TECH:
+Better than yesterday, at least.
+
+8
+00:05:40,454 --> 00:05:41,853
+Where am I?
+
+9
+00:05:41,888 --> 00:05:43,082
+MED-TECH: You're safe.
+
+10
+00:05:43,123 --> 00:05:46,149
+You're at Gateway Station.
+Been here a couple of days.
+
+11
+00:05:46,193 --> 00:05:49,651
+You were pretty groggy at first,
+but now you're OK.
+
+12
+00:05:49,696 --> 00:05:51,857
+Looks like you've got a visitor.
+
+13
+00:05:54,334 --> 00:05:56,632
+Jonesy! Come here!
+
+14
+00:05:56,670 --> 00:05:58,968
+Hey, come here.
+
+15
+00:05:59,006 --> 00:06:01,668
+How are you, you stupid cat?
+
+16
+00:06:01,708 --> 00:06:03,403
+How are you?
+
+17
+00:06:03,443 --> 00:06:05,411
+Where have you been?
+
+18
+00:06:05,445 --> 00:06:08,414
+BURKE:
+Guess you two have met, huh?
+
+19
+00:06:08,448 --> 00:06:11,849
+I'm Carter Burke.
+I work for the Company.
+
+20
+00:06:11,885 --> 00:06:14,877
+Don't let that fool you.
+I'm really an OK guy.
+
+21
+00:06:16,223 --> 00:06:18,157
+I'm glad you're feeling better.
+
+22
+00:06:18,191 --> 00:06:22,150
+They tell me the weakness and
+disorientation should pass soon.
+
+23
+00:06:22,195 --> 00:06:24,322
+That's just
+natural side effects...
+
+24
+00:06:24,364 --> 00:06:27,765
+of such an unusually long
+hypersleep.
+
+25
+00:06:27,801 --> 00:06:30,133
+What do you mean?
+
+26
+00:06:30,170 --> 00:06:32,502
+How long was I out there?
+
+27
+00:06:34,174 --> 00:06:36,301
+Has no one discussed this
+with you?
+
+28
+00:06:36,343 --> 00:06:37,810
+No.
+
+29
+00:06:37,844 --> 00:06:43,077
+But, I mean,
+I don't recognize this place.
+
+30
+00:06:43,116 --> 00:06:46,142
+No, I know. Uh... OK.
+
+31
+00:06:46,186 --> 00:06:49,121
+This might be a shock.
+It's long...
+
+32
+00:06:49,156 --> 00:06:51,124
+How long?
+
+33
+00:06:51,158 --> 00:06:52,853
+Please.
+
+34
+00:06:54,661 --> 00:06:56,288
+Fifty-seven years.
+
+35
+00:06:57,497 --> 00:06:58,623
+What?
+
+36
+00:06:58,665 --> 00:07:02,999
+BURKE: You were out there
+for fifty-seven years.
+
+37
+00:07:03,036 --> 00:07:06,369
+You drifted
+right through the core systems.
+
+38
+00:07:06,406 --> 00:07:09,102
+It's really just blind luck...
+
+39
+00:07:09,142 --> 00:07:12,407
+that a deep-salvage team
+found you.
+
+40
+00:07:12,446 --> 00:07:14,607
+It's one in a thousand, really.
+
+41
+00:07:14,648 --> 00:07:16,912
+You're damn lucky
+to be alive, kiddo.
+
+42
+00:07:16,950 --> 00:07:18,747
+You could be floating
+out there forever.
+
+43
+00:07:20,787 --> 00:07:21,981
+You OK?
+
+44
+00:07:22,889 --> 00:07:24,049
+[Hiss]
+
+45
+00:07:24,091 --> 00:07:25,058
+Oh.
+
+46
+00:07:25,092 --> 00:07:28,186
+[Heartbeat]
+
+47
+00:07:29,429 --> 00:07:32,296
+- [Hiss]
+- Oh!
+
+48
+00:07:32,332 --> 00:07:33,560
+BURKE: You OK?
+
+49
+00:07:39,072 --> 00:07:40,198
+[Hiss]
+
+50
+00:07:40,240 --> 00:07:41,935
+Oh!
+
+51
+00:07:41,975 --> 00:07:43,909
+God!
+
+52
+00:07:45,378 --> 00:07:47,471
+BURKE: Nurse! Please!
+
+53
+00:07:48,982 --> 00:07:50,916
+Someone get in here now!
+
+54
+00:07:50,951 --> 00:07:52,316
+RIPLEY: No!
+
+55
+00:07:52,352 --> 00:07:54,081
+BURKE: Now!
+
+56
+00:07:54,121 --> 00:07:56,351
+- Hold...
+- Please.
+
+57
+00:07:56,389 --> 00:07:58,687
+DOCTOR: Hold her.
+
+58
+00:07:58,725 --> 00:08:00,693
+Kill me!
+
+59
+00:08:08,935 --> 00:08:10,266
+No!
+
+60
+00:08:10,303 --> 00:08:11,497
+No!
+
+61
+00:08:17,944 --> 00:08:19,639
+MED-TECH: Bad dreams again?
+
+62
+00:08:19,679 --> 00:08:21,271
+You want something
+to help you sleep?
+
+63
+00:08:21,314 --> 00:08:22,645
+No.
+
+64
+00:08:24,151 --> 00:08:25,675
+I've slept enough.
+
+65
+00:08:27,487 --> 00:08:28,920
+Jonesy.
+
+66
+00:08:28,955 --> 00:08:30,422
+Come here.
+
+67
+00:08:30,457 --> 00:08:31,947
+[Meow]
+
+68
+00:08:31,992 --> 00:08:33,550
+Shh.
+
+69
+00:08:37,964 --> 00:08:39,261
+It's all right.
+
+70
+00:08:41,067 --> 00:08:42,466
+It's all right now.
+
+71
+00:08:44,971 --> 00:08:46,962
+It's over.
+
+72
+00:08:49,176 --> 00:08:51,167
+[Birds chirping]
+
+73
+00:09:05,792 --> 00:09:07,783
+[Chirping stops]
+
+74
+00:09:12,132 --> 00:09:15,067
+BURKE: Hi. Sorry I'm late.
+Been running behind all morning.
+
+75
+00:09:15,101 --> 00:09:17,001
+RIPLEY: ls there
+any word about my daughter?
+
+76
+00:09:18,004 --> 00:09:21,599
+Uh... I think we should
+worry about the hearing now.
+
+77
+00:09:21,641 --> 00:09:23,108
+We don't have a lot of time.
+
+78
+00:09:23,143 --> 00:09:25,111
+I read your deposition,
+and it's great.
+
+79
+00:09:25,145 --> 00:09:26,874
+If you stick to that,
+we'll be fine.
+
+80
+00:09:26,913 --> 00:09:30,110
+The thing is, there are gonna be
+a lot of heavyweights in there.
+
+81
+00:09:30,150 --> 00:09:32,180
+Feds, Interstellar
+Commerce Commission...
+
+82
+00:09:32,313 --> 00:09:35,146
+Colonial Administration,
+insurance company guys.
+
+83
+00:09:35,183 --> 00:09:37,947
+Do you have any news
+about my daughter?
+
+84
+00:09:39,120 --> 00:09:41,315
+We did come up
+with some information.
+
+85
+00:09:41,356 --> 00:09:43,586
+Why don't we sit down?
+
+86
+00:09:43,624 --> 00:09:46,593
+I was hoping to wait
+until after the inquest.
+
+87
+00:09:46,627 --> 00:09:48,117
+Uh...
+
+88
+00:09:50,631 --> 00:09:52,758
+"Amanda Ripley McClaren..."
+
+89
+00:09:52,800 --> 00:09:54,768
+married name, I guess...
+
+90
+00:09:54,802 --> 00:09:56,599
+"age sixty-six."
+
+91
+00:09:56,637 --> 00:09:59,606
+That was at the time
+of her death...
+
+92
+00:10:00,908 --> 00:10:03,468
+which was two years ago.
+
+93
+00:10:05,146 --> 00:10:07,137
+I'm real sorry.
+
+94
+00:10:17,191 --> 00:10:18,351
+Amy.
+
+95
+00:10:21,162 --> 00:10:23,130
+BURKE:
+She was cremated and interred...
+
+96
+00:10:23,164 --> 00:10:26,133
+at Westlake Repository,
+Little Chute, Wisconsin.
+
+97
+00:10:26,167 --> 00:10:27,828
+No children. I checked.
+
+98
+00:10:33,508 --> 00:10:36,136
+I promised her...
+
+99
+00:10:36,177 --> 00:10:38,668
+that I would be home
+for her birthday.
+
+100
+00:10:41,682 --> 00:10:44,344
+Her eleventh birthday.
+
+101
+00:10:48,022 --> 00:10:49,649
+Ohh...
+
+102
+00:10:49,757 --> 00:10:53,318
+INVESTIGATOR: I'd like to
+go back to this point...
+
+103
+00:10:53,361 --> 00:10:55,386
+about the override
+destruct elements.
+
+104
+00:10:55,430 --> 00:10:57,193
+I don't understand this.
+
+105
+00:10:57,231 --> 00:11:00,394
+We have been here
+three and a half hours.
+
+106
+00:11:00,435 --> 00:11:03,996
+How many different ways
+do you want the same story?
+
+107
+00:11:04,038 --> 00:11:07,474
+VAN LEUWEN: Look at it
+from our perspective, please.
+
+108
+00:11:08,676 --> 00:11:10,303
+Please?
+
+109
+00:11:12,647 --> 00:11:15,844
+You freely admit to
+detonating the engines of...
+
+110
+00:11:15,883 --> 00:11:18,784
+and thereby destroying
+an M-Class star freighter...
+
+111
+00:11:18,820 --> 00:11:21,288
+a rather expensive piece
+of hardware.
+
+112
+00:11:21,322 --> 00:11:23,790
+INVESTIGATOR: Forty-two million
+in adjusted dollars.
+
+113
+00:11:23,825 --> 00:11:26,794
+That's minus payload, of course.
+
+114
+00:11:26,828 --> 00:11:28,796
+VAN LEUWEN: The lifeboat's
+flight recorder...
+
+115
+00:11:28,830 --> 00:11:31,799
+corroborates some elements
+of your account...
+
+116
+00:11:31,833 --> 00:11:33,801
+in that, for reasons unknown...
+
+117
+00:11:33,835 --> 00:11:36,633
+the Nostromo
+set down on LV-426...
+
+118
+00:11:36,671 --> 00:11:39,299
+an unsurveyed planet
+at that time...
+
+119
+00:11:39,340 --> 00:11:41,308
+that it resumed its course...
+
+120
+00:11:41,342 --> 00:11:45,039
+and was subsequently set
+for self-destruct by you...
+
+121
+00:11:45,079 --> 00:11:46,307
+for reasons unknown.
+
+122
+00:11:46,347 --> 00:11:47,644
+Not for reasons unknown.
+
+123
+00:11:47,682 --> 00:11:48,910
+I told you.
+
+124
+00:11:48,950 --> 00:11:52,215
+We set down on Company orders
+to get this thing...
+
+125
+00:11:52,253 --> 00:11:57,384
+which destroyed my crew
+and your expensive ship.
+
+126
+00:11:57,425 --> 00:11:58,585
+The analysis team...
+
+127
+00:11:58,626 --> 00:12:01,151
+which went over the lifeboat
+centimeter by centimeter...
+
+128
+00:12:01,195 --> 00:12:03,891
+found no physical evidence
+of the creature you describe.
+
+129
+00:12:03,931 --> 00:12:08,129
+Good! That's because I blew it
+out of the goddamn air lock.
+
+130
+00:12:09,804 --> 00:12:11,169
+Like I said.
+
+131
+00:12:13,708 --> 00:12:15,369
+INVESTIGATOR:
+Are there any species...
+
+132
+00:12:15,409 --> 00:12:18,139
+like this hostile organism
+on LV-426?
+
+133
+00:12:18,179 --> 00:12:21,114
+ECA REP: No. It's a rock.
+No indigenous life.
+
+134
+00:12:22,917 --> 00:12:26,444
+Did IQs just drop sharply
+while I was away?
+
+135
+00:12:26,487 --> 00:12:29,115
+Ma'am, I already said
+it was not indigenous.
+
+136
+00:12:29,157 --> 00:12:32,024
+It was a derelict spacecraft.
+It was an alien ship.
+
+137
+00:12:32,059 --> 00:12:33,651
+It was not from there.
+
+138
+00:12:33,694 --> 00:12:36,686
+Do you get it?
+We homed in on its beacon.
+
+139
+00:12:36,731 --> 00:12:39,632
+And found something
+never recorded once...
+
+140
+00:12:39,667 --> 00:12:42,659
+in over three hundred
+surveyed worlds.
+
+141
+00:12:42,703 --> 00:12:48,005
+"A creature that gestates
+inside a living human host."
+
+142
+00:12:48,042 --> 00:12:49,703
+These are your words.
+
+143
+00:12:49,744 --> 00:12:51,905
+"And has concentrated acid
+for blood."
+
+144
+00:12:51,946 --> 00:12:53,038
+RIPLEY: That's right.
+
+145
+00:12:54,248 --> 00:12:58,014
+Look.
+I can see where this is going...
+
+146
+00:12:58,052 --> 00:13:00,680
+but I'm telling you
+that those things exist.
+
+147
+00:13:00,721 --> 00:13:02,746
+Thank you, Officer Ripley.
+That will be all.
+
+148
+00:13:02,790 --> 00:13:04,155
+Please! You're not listening.
+
+149
+00:13:04,192 --> 00:13:05,750
+Kane... the crew member...
+
+150
+00:13:05,793 --> 00:13:10,628
+Kane, who went into that ship,
+said he saw thousands of eggs.
+
+151
+00:13:10,665 --> 00:13:12,724
+Thank you. That will be all.
+
+152
+00:13:12,767 --> 00:13:14,860
+God damn it, that's not all!
+
+153
+00:13:14,902 --> 00:13:17,632
+If one of those things gets
+down here, that will be all!
+
+154
+00:13:17,672 --> 00:13:21,039
+And all this bullshit
+you think is important...
+
+155
+00:13:21,075 --> 00:13:23,407
+you can kiss all that good-bye!
+
+156
+00:13:29,617 --> 00:13:33,246
+It is the finding
+of this court of inquiry...
+
+157
+00:13:33,287 --> 00:13:35,380
+that Warrant Officer
+E. Ripley...
+
+158
+00:13:35,423 --> 00:13:38,290
+N-O-C-one-four-four-seven-two...
+
+159
+00:13:38,326 --> 00:13:41,420
+has acted
+with questionable judgment...
+
+160
+00:13:41,462 --> 00:13:44,488
+and is unfit
+to hold an ICC license...
+
+161
+00:13:44,532 --> 00:13:47,433
+as a commercial flight officer.
+
+162
+00:13:47,468 --> 00:13:51,029
+Said license is hereby
+suspended indefinitely.
+
+163
+00:13:52,206 --> 00:13:54,174
+No criminal charges...
+
+164
+00:13:54,208 --> 00:13:57,177
+will be filed against you
+at this time...
+
+165
+00:13:57,211 --> 00:13:59,645
+and you are released
+on your own recognizance...
+
+166
+00:13:59,680 --> 00:14:02,444
+for a six-month period
+of psychometric probation...
+
+167
+00:14:02,483 --> 00:14:07,716
+to include monthly review by
+an ICC psychiatric technician.
+
+168
+00:14:09,790 --> 00:14:12,623
+These proceedings are closed.
+
+169
+00:14:23,504 --> 00:14:25,472
+BURKE:
+That could have been better.
+
+170
+00:14:25,506 --> 00:14:26,973
+Look, I think... Ripley.
+
+171
+00:14:27,008 --> 00:14:28,976
+RIPLEY: Van Leuwen.
+
+172
+00:14:29,010 --> 00:14:31,979
+Why don't you just
+check out LV-426?
+
+173
+00:14:32,013 --> 00:14:33,981
+VAN LEUWEN:
+Because I don't have to.
+
+174
+00:14:34,015 --> 00:14:36,643
+People have been there
+for over twenty years...
+
+175
+00:14:36,684 --> 00:14:39,175
+and they never complained
+about any hostile organism.
+
+176
+00:14:39,220 --> 00:14:41,188
+RIPLEY: What people?
+
+177
+00:14:41,222 --> 00:14:42,883
+VAN LEUWEN: Terraformers.
+
+178
+00:14:42,923 --> 00:14:44,220
+Planet engineers.
+
+179
+00:14:44,258 --> 00:14:46,624
+They go in,
+set up atmosphere processors...
+
+180
+00:14:46,661 --> 00:14:48,390
+to make the air breathable.
+
+181
+00:14:48,429 --> 00:14:50,397
+It takes decades.
+
+182
+00:14:50,431 --> 00:14:53,059
+It's what we call
+a shake 'n' bake colony.
+
+183
+00:14:53,100 --> 00:14:56,729
+How many are there?
+How many colonists?
+
+184
+00:14:56,771 --> 00:15:00,138
+I don't know.
+Sixty, maybe seventy families.
+
+185
+00:15:00,174 --> 00:15:01,334
+Do you mind?
+
+186
+00:15:03,644 --> 00:15:05,134
+Families.
+
+187
+00:15:08,082 --> 00:15:09,572
+Jesus.
+
+188
+00:15:34,133 --> 00:15:36,124
+[Honk honk]
+
+189
+00:16:25,117 --> 00:16:27,085
+AL: l'll be down in maintenance.
+
+190
+00:16:27,119 --> 00:16:29,087
+- AI?
+- What?
+
+191
+00:16:29,121 --> 00:16:30,679
+- Hey, Al.
+- What?
+
+192
+00:16:30,722 --> 00:16:32,587
+LYDECKER: Remember you sent
+some wildcatters...
+
+193
+00:16:32,624 --> 00:16:33,852
+out in the middle of nowhere
+last week...
+
+194
+00:16:33,892 --> 00:16:36,190
+out past the llium Range?
+
+195
+00:16:36,228 --> 00:16:39,459
+One's on the horn,
+a mom-and-pop survey team.
+
+196
+00:16:39,498 --> 00:16:41,864
+He's onto something,
+wants his claim honored.
+
+197
+00:16:41,900 --> 00:16:43,834
+AL:
+Why wouldn't it be honored?
+
+198
+00:16:43,869 --> 00:16:47,930
+LYDECKER: Because you sent them
+on Company orders maybe?
+
+199
+00:16:47,973 --> 00:16:51,067
+AL: Christ. Some haunch in
+a cushy office on Earth says...
+
+200
+00:16:51,110 --> 00:16:53,010
+"Go look at a grid reference."
+
+201
+00:16:53,045 --> 00:16:56,310
+We look. They don't say why,
+and I don't ask...
+
+202
+00:16:56,348 --> 00:16:59,613
+because it takes two weeks
+to get an answer out here.
+
+203
+00:16:59,651 --> 00:17:01,619
+The answer is always,
+"Don't ask."
+
+204
+00:17:01,653 --> 00:17:04,087
+LYDECKER:
+What do I tell this guy?
+
+205
+00:17:04,123 --> 00:17:08,150
+AL: As far as I'm concerned,
+if he finds something, it's his.
+
+206
+00:17:08,193 --> 00:17:09,626
+- Lydecker?
+- What?
+
+207
+00:17:10,963 --> 00:17:12,658
+LYDECKER: You kids know
+you're not supposed to be here!
+
+208
+00:17:12,698 --> 00:17:13,926
+Get out!
+
+209
+00:17:46,665 --> 00:17:49,099
+TIMMY:
+You go in places we can't fit.
+
+210
+00:17:49,134 --> 00:17:52,069
+NEWT:
+So? That's why I'm the best!
+
+211
+00:17:52,104 --> 00:17:53,503
+MOTHER: Knock it off.
+
+212
+00:17:53,539 --> 00:17:56,838
+If I catch you playing in the
+air ducts, l'll tan your hides.
+
+213
+00:17:56,875 --> 00:17:59,139
+NEWT: Mom, all the kids play...
+
+214
+00:17:59,178 --> 00:18:01,738
+FATHER: Wait.
+Have a look at this.
+
+215
+00:18:12,090 --> 00:18:15,423
+Folks,
+we have scored big this time.
+
+216
+00:18:21,533 --> 00:18:23,364
+What is it, Dad?
+
+217
+00:18:27,973 --> 00:18:29,270
+I'm not sure.
+
+218
+00:18:31,043 --> 00:18:33,068
+Let's see if we can't get
+a closer look at this thing...
+
+219
+00:18:33,111 --> 00:18:35,079
+maybe through that crack
+on the side.
+
+220
+00:18:35,113 --> 00:18:36,603
+MOTHER: Shouldn't we call in?
+
+221
+00:18:36,648 --> 00:18:39,082
+Let's wait till we know
+what to call it in as.
+
+222
+00:18:43,121 --> 00:18:45,146
+That's about as close
+as we can get.
+
+223
+00:18:46,158 --> 00:18:47,819
+Should we look inside?
+
+224
+00:19:02,774 --> 00:19:05,743
+MOTHER: You kids stay inside.
+I mean it.
+
+225
+00:19:05,777 --> 00:19:07,267
+We'll be right back.
+
+226
+00:19:07,312 --> 00:19:09,143
+- TIMMY: OK.
+- NEWT: Bye.
+
+227
+00:20:25,190 --> 00:20:26,885
+TIMMY: Huh?
+
+228
+00:20:26,925 --> 00:20:30,156
+NEWT: Timmy,
+they've been gone a long time.
+
+229
+00:20:30,195 --> 00:20:33,255
+TIMMY: lt'll be OK.
+Dad knows what he's doing.
+
+230
+00:20:34,333 --> 00:20:35,800
+MOTHER: Mayday! Mayday!
+
+231
+00:20:35,834 --> 00:20:38,735
+This is Alpha Kilo Two-four-
+niner calling Control!
+
+232
+00:20:38,770 --> 00:20:41,796
+This is
+Alpha Kilo Two-four-niner!
+
+233
+00:20:41,840 --> 00:20:46,209
+NEWT: Aah!
+
+234
+00:20:47,212 --> 00:20:51,672
+Aah!
+
+235
+00:21:13,538 --> 00:21:16,166
+[Meow meow]
+
+236
+00:21:21,446 --> 00:21:23,346
+[Doorbell beeps]
+
+237
+00:21:27,652 --> 00:21:28,812
+BURKE: Hiya, Ripley.
+
+238
+00:21:28,854 --> 00:21:31,982
+This is Lieutenant Gorman
+of the Colonial Marine Corps...
+
+239
+00:21:33,158 --> 00:21:35,319
+Ripley, we have to talk.
+
+240
+00:21:35,360 --> 00:21:38,989
+We've lost contact
+with the colony on LV-426.
+
+241
+00:21:45,937 --> 00:21:47,837
+I don't believe this.
+
+242
+00:21:47,873 --> 00:21:50,341
+You guys throw me
+to the wolves...
+
+243
+00:21:50,375 --> 00:21:52,741
+and now you want me
+to go back there?
+
+244
+00:21:52,778 --> 00:21:55,474
+Forget it.
+It's not my problem.
+
+245
+00:21:55,514 --> 00:21:56,947
+- Can I finish?
+- No.
+
+246
+00:21:56,982 --> 00:21:58,574
+There's no way.
+
+247
+00:22:00,118 --> 00:22:02,450
+GORMAN: You wouldn't be
+going in with the troops.
+
+248
+00:22:02,487 --> 00:22:05,081
+I can guarantee your safety.
+
+249
+00:22:05,123 --> 00:22:07,921
+BURKE: These Colonial Marines
+are very tough hombres.
+
+250
+00:22:07,959 --> 00:22:10,621
+They're packing
+state-of-the-art firepower.
+
+251
+00:22:10,662 --> 00:22:13,061
+There's nothing
+they can't handle.
+
+252
+00:22:13,194 --> 00:22:14,286
+Lieutenant, am I right?
+
+253
+00:22:14,329 --> 00:22:18,060
+We've been trained to deal
+with situations like this.
+
+254
+00:22:18,099 --> 00:22:21,296
+Then you don't need me.
+I'm not a soldier.
+
+255
+00:22:21,336 --> 00:22:24,066
+BURKE: But we don't know
+exactly what's going on.
+
+256
+00:22:24,105 --> 00:22:25,902
+It may be a downed transmitter.
+
+257
+00:22:25,940 --> 00:22:28,204
+But if it's not...
+
+258
+00:22:28,243 --> 00:22:32,373
+I'd like you there
+as an advisor, and that's all.
+
+259
+00:22:35,283 --> 00:22:38,411
+What's your interest
+in all this? Why are you going?
+
+260
+00:22:39,454 --> 00:22:41,581
+The Corporation co-financed
+that colony...
+
+261
+00:22:41,623 --> 00:22:43,750
+along with
+Colonial Administration.
+
+262
+00:22:43,791 --> 00:22:46,021
+We're getting into a lot
+of terraforming now...
+
+263
+00:22:46,060 --> 00:22:47,027
+and building better worlds...
+
+264
+00:22:47,061 --> 00:22:49,586
+RIPLEY:
+Yeah. I saw the commercial.
+
+265
+00:22:49,631 --> 00:22:52,623
+I don't have time for this.
+I've got to get to work.
+
+266
+00:22:52,667 --> 00:22:55,864
+Right. I heard you're
+working the cargo docks.
+
+267
+00:22:55,904 --> 00:22:57,895
+That's right.
+
+268
+00:22:57,939 --> 00:22:59,429
+Running loaders and forklifts.
+
+269
+00:22:59,474 --> 00:23:00,805
+Yeah. So?
+
+270
+00:23:00,842 --> 00:23:04,039
+Nothing. I think it's great
+that you're keeping busy.
+
+271
+00:23:04,078 --> 00:23:06,546
+I know it's the only thing
+you could get.
+
+272
+00:23:06,581 --> 00:23:08,572
+There's nothing wrong with it.
+
+273
+00:23:11,486 --> 00:23:12,783
+What would you say
+if I told you...
+
+274
+00:23:12,820 --> 00:23:15,721
+I could get you reinstated
+as a flight officer?
+
+275
+00:23:15,757 --> 00:23:17,782
+The Company's already agreed
+to pick up your contract.
+
+276
+00:23:19,394 --> 00:23:20,861
+If I go.
+
+277
+00:23:22,430 --> 00:23:23,727
+Yeah, if you go.
+
+278
+00:23:23,765 --> 00:23:26,063
+Come on.
+That's a second chance, kiddo.
+
+279
+00:23:26,100 --> 00:23:27,624
+I think personally for you...
+
+280
+00:23:27,669 --> 00:23:30,604
+it would be the best thing
+to go and face this thing.
+
+281
+00:23:30,638 --> 00:23:32,196
+Get back on the horse.
+
+282
+00:23:32,240 --> 00:23:34,970
+Spare me.
+I've had my psych evaluation.
+
+283
+00:23:35,009 --> 00:23:36,943
+I know. I've read it.
+
+284
+00:23:36,978 --> 00:23:39,446
+You wake up every night,
+soaked in sweat...
+
+285
+00:23:39,480 --> 00:23:41,471
+I said no, and I mean it!
+
+286
+00:23:43,918 --> 00:23:45,977
+Now please leave.
+
+287
+00:23:46,020 --> 00:23:47,214
+I am not going back...
+
+288
+00:23:47,255 --> 00:23:50,554
+and I would not be
+any good to you if I did.
+
+289
+00:23:50,591 --> 00:23:51,819
+OK.
+
+290
+00:23:51,859 --> 00:23:53,121
+Shh.
+
+291
+00:23:54,629 --> 00:23:57,621
+Would you do me a favor?
+Just think about it.
+
+292
+00:24:01,469 --> 00:24:03,061
+GORMAN: Thanks for the coffee.
+
+293
+00:24:12,380 --> 00:24:13,540
+[Meow]
+
+294
+00:24:15,850 --> 00:24:17,374
+Aah!
+
+295
+00:24:23,391 --> 00:24:24,881
+Oh.
+
+296
+00:25:01,929 --> 00:25:03,863
+[Beeping]
+
+297
+00:25:11,873 --> 00:25:13,841
+Hello.
+
+298
+00:25:13,875 --> 00:25:16,036
+Ripley.
+
+299
+00:25:16,077 --> 00:25:17,203
+You OK?
+
+300
+00:25:17,245 --> 00:25:20,237
+RIPLEY:
+Just tell me one thing, Burke.
+
+301
+00:25:20,281 --> 00:25:23,409
+You're going out there
+to destroy them, right?
+
+302
+00:25:23,451 --> 00:25:25,043
+Not to study.
+
+303
+00:25:25,086 --> 00:25:26,986
+Not to bring back.
+
+304
+00:25:27,021 --> 00:25:28,648
+But to wipe them out.
+
+305
+00:25:28,689 --> 00:25:32,750
+That's the plan.
+You have my word on it.
+
+306
+00:25:35,496 --> 00:25:37,225
+All right, I'm in.
+
+307
+00:25:37,265 --> 00:25:38,493
+I think that...
+
+308
+00:25:46,941 --> 00:25:49,102
+And you, you little shithead...
+
+309
+00:25:50,445 --> 00:25:51,935
+you're staying here.
+
+310
+00:26:17,839 --> 00:26:19,830
+[Hinges squeak]
+
+311
+00:26:51,606 --> 00:26:53,597
+[Chain jingling]
+
+312
+00:27:38,586 --> 00:27:41,054
+[Beeping]
+
+313
+00:28:14,088 --> 00:28:15,646
+[Coughing]
+
+314
+00:28:23,898 --> 00:28:26,731
+DRAKE: They ain't payin' us
+enough for this, man.
+
+315
+00:28:27,835 --> 00:28:31,202
+DIETRICH: Not enough to have to
+wake up to your face, Drake.
+
+316
+00:28:31,239 --> 00:28:34,003
+What? Ls that a joke?
+
+317
+00:28:34,041 --> 00:28:35,838
+DIETRICH: I wish it were.
+
+318
+00:28:35,876 --> 00:28:39,778
+DRAKE: Hey, Hicks.
+Man, you look just like I feel.
+
+319
+00:28:41,983 --> 00:28:43,848
+APONE: All right, sweethearts...
+
+320
+00:28:43,884 --> 00:28:46,444
+what are you waiting for,
+breakfast in bed?
+
+321
+00:28:46,487 --> 00:28:48,250
+Another glorious day
+in the Corps.
+
+322
+00:28:48,289 --> 00:28:50,553
+A day in the Marine Corps
+is like a day on the farm.
+
+323
+00:28:51,559 --> 00:28:55,120
+Every meal's a banquet,
+every paycheck a fortune...
+
+324
+00:28:55,162 --> 00:28:56,754
+every formation a parade.
+
+325
+00:28:56,797 --> 00:28:58,458
+I love the Corps!
+
+326
+00:28:58,499 --> 00:29:00,467
+HUDSON:
+Man, this floor is freezing!
+
+327
+00:29:00,501 --> 00:29:02,560
+APONE:
+Want me to fetch your slippers?
+
+328
+00:29:02,603 --> 00:29:04,669
+Gee, would you, sir?
+I'd like that.
+
+329
+00:29:04,802 --> 00:29:06,394
+Look into my eye.
+
+330
+00:29:06,437 --> 00:29:07,961
+Fall in, people!
+
+331
+00:29:08,005 --> 00:29:10,405
+Come on, let's go.
+
+332
+00:29:10,441 --> 00:29:12,409
+FROST: I hate this job.
+
+333
+00:29:12,443 --> 00:29:14,934
+APONE: Crowe, Wierzbowski,
+on your feet.
+
+334
+00:29:17,915 --> 00:29:20,475
+FROST: I'm talking about
+breathing, not this frozen shit.
+
+335
+00:29:20,518 --> 00:29:22,315
+DIETRICH:
+Yeah, Top, how about it?
+
+336
+00:29:25,723 --> 00:29:29,181
+APONE: First assembly's
+in fifteen, people. Shag it.
+
+337
+00:29:31,329 --> 00:29:34,127
+VASQUEZ: Hey, mira.
+Who's Snow White?
+
+338
+00:29:34,165 --> 00:29:37,464
+FERRO: She's supposed to be
+some kind of consultant.
+
+339
+00:29:37,502 --> 00:29:39,868
+Apparently,
+she saw an alien once.
+
+340
+00:29:39,904 --> 00:29:41,963
+HUDSON: Whoopee-fucking-do!
+
+341
+00:29:42,006 --> 00:29:43,132
+Hey, I'm impressed.
+
+342
+00:29:43,174 --> 00:29:44,903
+VASQUEZ: Qué bonita.
+
+343
+00:29:47,078 --> 00:29:48,602
+HUDSON: Hey, Vasquez.
+
+344
+00:29:48,646 --> 00:29:51,706
+Have you ever been
+mistaken for a man?
+
+345
+00:29:51,749 --> 00:29:53,842
+No. Have you?
+
+346
+00:29:53,885 --> 00:29:55,750
+DRAKE: Ha ha! Oh, Vasquez.
+
+347
+00:29:57,088 --> 00:29:58,749
+You're just too bad.
+
+348
+00:30:09,000 --> 00:30:11,935
+HUDSON: Hey, Top, what's the op?
+
+349
+00:30:11,969 --> 00:30:14,267
+APONE: A rescue mission.
+You'll love it.
+
+350
+00:30:14,305 --> 00:30:15,966
+There's some juicy
+colonists' daughters...
+
+351
+00:30:16,007 --> 00:30:18,134
+we have to rescue
+from their virginity.
+
+352
+00:30:19,210 --> 00:30:21,474
+SPUNKMEYER: Dumbass colonists.
+
+353
+00:30:23,981 --> 00:30:26,916
+SPUNKMEYER:
+What's this crap supposed to be?
+
+354
+00:30:26,951 --> 00:30:28,919
+FROST: Cornbread, I think.
+
+355
+00:30:28,953 --> 00:30:30,921
+HICKS:
+lt's good for you, boy. Eat it.
+
+356
+00:30:30,955 --> 00:30:34,482
+FROST: I wouldn't mind getting
+more of that Arcturian poontang.
+
+357
+00:30:34,525 --> 00:30:36,220
+Remember that time?
+
+358
+00:30:36,260 --> 00:30:39,423
+SPUNKMEYER: Yeah, but the one
+you had was a male.
+
+359
+00:30:39,463 --> 00:30:41,761
+FROST: lt doesn't matter
+when it's Arcturian.
+
+360
+00:30:41,799 --> 00:30:44,427
+HUDSON: Hey, Bishop,
+do the thing with the knife.
+
+361
+00:30:44,468 --> 00:30:45,765
+BISHOP: Oh, please.
+
+362
+00:30:45,803 --> 00:30:48,670
+HUDSON: Come on. All right!
+
+363
+00:30:48,706 --> 00:30:50,674
+APONE: I don't want to see that.
+
+364
+00:30:50,708 --> 00:30:52,642
+HUDSON: All right!
+
+365
+00:30:52,677 --> 00:30:55,737
+What are you doing, man?
+
+366
+00:30:55,780 --> 00:30:57,873
+Quit messing around, Drake.
+
+367
+00:30:57,915 --> 00:30:59,542
+Bishop. Hey, man.
+
+368
+00:30:59,584 --> 00:31:01,643
+- Do it.
+- Hey, not me, man!
+
+369
+00:31:01,686 --> 00:31:04,246
+DRAKE: Yeah, you. Don't move.
+
+370
+00:31:04,288 --> 00:31:05,585
+Trust me.
+
+371
+00:31:07,892 --> 00:31:19,167
+Aah!
+
+372
+00:31:19,203 --> 00:31:21,296
+APONE: All right, knock it off.
+
+373
+00:31:21,339 --> 00:31:22,533
+Thank you.
+
+374
+00:31:23,608 --> 00:31:25,838
+[Laughter]
+
+375
+00:31:25,876 --> 00:31:27,867
+DRAKE: Enjoy your meal.
+
+376
+00:31:27,912 --> 00:31:30,039
+That wasn't funny, man.
+
+377
+00:31:33,884 --> 00:31:35,852
+BISHOP:
+Lieutenant Gorman? Mr. Burke?
+
+378
+00:31:35,886 --> 00:31:37,410
+BURKE: Yeah, thanks.
+
+379
+00:31:37,455 --> 00:31:41,619
+Looks like the new lieutenant's
+too good to eat with us grunts.
+
+380
+00:31:44,128 --> 00:31:47,222
+FROST: Boy's definitely
+got a corncob up his ass.
+
+381
+00:31:48,265 --> 00:31:50,597
+BURKE: I thought you
+never missed, Bishop.
+
+382
+00:31:54,205 --> 00:31:57,106
+You never said anything about
+an android being on board.
+
+383
+00:31:58,142 --> 00:32:00,736
+It never occurred to me.
+
+384
+00:32:00,778 --> 00:32:04,441
+It's common practice
+to have a synthetic on board.
+
+385
+00:32:04,482 --> 00:32:06,950
+I prefer the term
+"artificial person."
+
+386
+00:32:06,984 --> 00:32:08,918
+Right.
+
+387
+00:32:08,953 --> 00:32:10,477
+Is there a problem?
+
+388
+00:32:10,521 --> 00:32:13,547
+BURKE: I'm sorry. I don't know
+why I didn't even...
+
+389
+00:32:13,591 --> 00:32:15,218
+Ripley's last trip, the syn...
+
+390
+00:32:15,259 --> 00:32:17,227
+the artificial person
+malfunctioned.
+
+391
+00:32:17,261 --> 00:32:18,455
+Malfunctioned?
+
+392
+00:32:18,496 --> 00:32:22,159
+There were problems,
+and a few deaths were involved.
+
+393
+00:32:22,199 --> 00:32:23,461
+I'm shocked.
+
+394
+00:32:23,501 --> 00:32:25,401
+Was it an older model?
+
+395
+00:32:25,436 --> 00:32:27,461
+Yeah.
+The Hyperdyne Systems 120-A-2.
+
+396
+00:32:27,505 --> 00:32:30,838
+That explains it. The A-2s
+always were a bit twitchy.
+
+397
+00:32:30,875 --> 00:32:33,605
+That could never happen now
+with our behavioral inhibitors.
+
+398
+00:32:33,644 --> 00:32:35,441
+It is impossible for me
+to harm...
+
+399
+00:32:35,479 --> 00:32:38,312
+or allow to be harmed
+a human being.
+
+400
+00:32:38,349 --> 00:32:40,476
+Sure you don't want some?
+
+401
+00:32:40,518 --> 00:32:42,611
+[Crash]
+
+402
+00:32:42,653 --> 00:32:45,247
+Just stay away from me.
+You got that straight?
+
+403
+00:32:48,025 --> 00:32:50,323
+FROST: Guess she don't like
+the cornbread, either.
+
+404
+00:33:04,508 --> 00:33:07,341
+APONE: Squad, ten-hut!
+Officer on deck!
+
+405
+00:33:07,378 --> 00:33:08,868
+GORMAN: As you were.
+
+406
+00:33:08,913 --> 00:33:10,107
+APONE: Quickly, quickly.
+
+407
+00:33:10,147 --> 00:33:11,705
+Settle down.
+
+408
+00:33:11,749 --> 00:33:13,011
+All right, listen up!
+
+409
+00:33:14,318 --> 00:33:15,751
+GORMAN: Good morning, Marines.
+
+410
+00:33:15,786 --> 00:33:19,745
+I'm sorry we didn't have time
+to brief you before we left...
+
+411
+00:33:19,790 --> 00:33:21,155
+HUDSON: Sir!
+
+412
+00:33:21,192 --> 00:33:22,625
+What is it, Hicks?
+
+413
+00:33:22,660 --> 00:33:24,127
+HUDSON: Hudson, sir.
+
+414
+00:33:24,161 --> 00:33:25,788
+He's Hicks.
+
+415
+00:33:27,164 --> 00:33:28,791
+What's the question?
+
+416
+00:33:28,833 --> 00:33:32,667
+Is this gonna be a stand-up
+fight or another bug-hunt?
+
+417
+00:33:32,703 --> 00:33:36,833
+All we know is there's still
+no contact with the colony...
+
+418
+00:33:36,874 --> 00:33:39,274
+and a xenomorph may be involved.
+
+419
+00:33:39,310 --> 00:33:41,301
+APONE: Excuse me, sir. A what?
+
+420
+00:33:41,345 --> 00:33:42,539
+GORMAN: A xenomorph.
+
+421
+00:33:42,580 --> 00:33:44,480
+HICKS: lt's a bug-hunt.
+
+422
+00:33:44,515 --> 00:33:46,676
+What exactly
+are we dealing with?
+
+423
+00:33:46,717 --> 00:33:48,082
+GORMAN: Ripley.
+
+424
+00:33:49,553 --> 00:33:51,316
+RIPLEY:
+l'll tell you what I know.
+
+425
+00:33:52,189 --> 00:33:54,714
+We set down on LV-426.
+
+426
+00:33:54,759 --> 00:33:57,091
+A crew member
+was brought back on board...
+
+427
+00:33:57,128 --> 00:33:58,823
+with something attached
+to his face...
+
+428
+00:33:58,863 --> 00:34:00,922
+some kind of parasite.
+
+429
+00:34:00,965 --> 00:34:03,832
+We tried to get it off.
+It wouldn't come off.
+
+430
+00:34:03,868 --> 00:34:06,803
+Later, it seemed to come off
+by itself and die.
+
+431
+00:34:06,837 --> 00:34:09,203
+Kane seemed fine.
+
+432
+00:34:09,240 --> 00:34:11,504
+We were all having dinner.
+
+433
+00:34:11,542 --> 00:34:14,375
+It must have laid
+something inside his throat...
+
+434
+00:34:14,411 --> 00:34:15,901
+some sort of embryo.
+
+435
+00:34:15,946 --> 00:34:18,779
+He started... Um, he...
+
+436
+00:34:18,816 --> 00:34:23,048
+VASQUEZ: Look, man,
+I only need to know one thing...
+
+437
+00:34:23,087 --> 00:34:24,918
+where they are.
+
+438
+00:34:24,955 --> 00:34:26,422
+DRAKE: Vasquez, kick ass.
+
+439
+00:34:26,457 --> 00:34:27,924
+VASQUEZ: Anytime, anywhere.
+
+440
+00:34:27,958 --> 00:34:29,926
+HUDSON:
+Right. Somebody said "alien..."
+
+441
+00:34:29,960 --> 00:34:32,929
+she thought they said
+"illegal alien" and signed up.
+
+442
+00:34:32,963 --> 00:34:34,954
+- Fuck you, man.
+- Anytime, anywhere.
+
+443
+00:34:34,999 --> 00:34:36,626
+RIPLEY: Are you finished?
+
+444
+00:34:42,473 --> 00:34:45,533
+I hope you're right.
+I really do.
+
+445
+00:34:47,778 --> 00:34:50,303
+GORMAN: Yeah, OK. Right.
+Thank you, Ripley.
+
+446
+00:34:50,347 --> 00:34:53,839
+We have Ripley's report on disk.
+I suggest you study it.
+
+447
+00:34:53,884 --> 00:34:55,249
+RIPLEY: Because just one
+of those things...
+
+448
+00:34:55,286 --> 00:34:58,881
+wiped out my crew
+in less than twenty-four hours.
+
+449
+00:34:58,923 --> 00:35:00,686
+If the colonists
+have found that ship...
+
+450
+00:35:00,724 --> 00:35:03,090
+there's no telling how many
+have been exposed.
+
+451
+00:35:03,127 --> 00:35:04,492
+Do you understand?
+
+452
+00:35:07,631 --> 00:35:10,964
+GORMAN: Anyway, we have it
+on disk, so look at it.
+
+453
+00:35:11,001 --> 00:35:12,593
+Any questions?
+
+454
+00:35:13,704 --> 00:35:16,172
+What is it, Private?
+
+455
+00:35:16,207 --> 00:35:19,267
+How do I get out
+of this chickenshit outfit?
+
+456
+00:35:19,310 --> 00:35:21,039
+You secure that shit, Hudson.
+
+457
+00:35:23,314 --> 00:35:24,508
+All right.
+
+458
+00:35:25,883 --> 00:35:27,817
+Now listen up.
+
+459
+00:35:29,920 --> 00:35:33,617
+I want this thing to go smooth
+and by the numbers.
+
+460
+00:35:34,859 --> 00:35:39,455
+I want DCS and tactical database
+assimilation by 0830.
+
+461
+00:35:39,496 --> 00:35:41,293
+Ordnance loading,
+weapons strip...
+
+462
+00:35:41,332 --> 00:35:44,062
+and drop-ship prep details
+will have seven hours.
+
+463
+00:35:45,102 --> 00:35:46,228
+Now move it, people!
+
+464
+00:35:47,271 --> 00:35:50,240
+You heard the man,
+and you know the drill.
+
+465
+00:35:50,274 --> 00:35:51,571
+Assholes and elbows!
+
+466
+00:35:51,609 --> 00:35:54,333
+Hudson, come here.
+Come here!
+
+467
+00:36:09,481 --> 00:36:11,642
+APONE: I don't care if you are
+short, Hudson. Get it done.
+
+468
+00:36:11,683 --> 00:36:14,311
+HUDSON: You'll get lip cancer
+smoking those.
+
+469
+00:36:14,353 --> 00:36:17,811
+APONE: I want this loading lock
+sealed. Now!
+
+470
+00:36:17,856 --> 00:36:19,983
+- How many more, Spunkmeyer?
+- Last one.
+
+471
+00:36:20,025 --> 00:36:21,356
+Good. Take it away.
+
+472
+00:36:39,378 --> 00:36:40,868
+SPUNKMEYER: Clear behind.
+
+473
+00:36:47,719 --> 00:36:50,017
+APONE:
+Did you check number three?
+
+474
+00:36:50,055 --> 00:36:54,389
+Hi. I feel like a fifth wheel.
+Is there anything I can do?
+
+475
+00:36:54,426 --> 00:36:56,860
+I don't know.
+Is there anything you can do?
+
+476
+00:36:59,565 --> 00:37:01,556
+Well, I can drive that loader.
+
+477
+00:37:01,600 --> 00:37:04,660
+I have a Class Two rating.
+
+478
+00:37:06,672 --> 00:37:07,934
+Be my guest.
+
+479
+00:37:53,485 --> 00:37:55,180
+Where you want it?
+
+480
+00:37:59,057 --> 00:38:00,957
+Bay twelve, please.
+
+481
+00:38:57,316 --> 00:39:01,013
+APONE: We're a team, and there's
+nothing to worry about.
+
+482
+00:39:01,053 --> 00:39:03,453
+We come here,
+and we gonna conquer...
+
+483
+00:39:03,488 --> 00:39:06,389
+and we gonna take some.
+Is that understood?
+
+484
+00:39:06,425 --> 00:39:09,394
+That's what we gonna do.
+We are going to get some.
+
+485
+00:39:09,428 --> 00:39:12,397
+All right, people,
+on the ready-line!
+
+486
+00:39:12,431 --> 00:39:13,557
+- Are you lean?
+- Yeah!
+
+487
+00:39:13,598 --> 00:39:15,395
+- Are you mean?
+- Yeah!
+
+488
+00:39:15,434 --> 00:39:18,301
+- What are you?!
+- Lean, mean Marines!
+
+489
+00:39:18,337 --> 00:39:22,501
+APONE: Get on the ready-line!
+Get some today!
+
+490
+00:39:22,541 --> 00:39:24,304
+Get on the ready-line!
+
+491
+00:39:24,343 --> 00:39:25,469
+Move it out!
+
+492
+00:39:25,510 --> 00:39:27,375
+Move it out, God damn it!
+
+493
+00:39:27,412 --> 00:39:30,745
+Get hot! One, two, three!
+Get out! Get out! Get out!
+
+494
+00:39:30,782 --> 00:39:32,409
+Move it out! Move it out!
+Move it out!
+
+495
+00:39:32,451 --> 00:39:34,419
+Move it out! Move it out!
+Move it out!
+
+496
+00:39:34,453 --> 00:39:37,081
+One, two, three, four!
+One, two, three!
+
+497
+00:39:37,122 --> 00:39:38,589
+[Grunts]
+
+498
+00:39:38,623 --> 00:39:40,648
+Absolutely badasses!
+
+499
+00:39:40,692 --> 00:39:43,388
+Let's pack 'em in!
+Get in there!
+
+500
+00:39:43,428 --> 00:39:44,986
+Move it!
+
+501
+00:39:45,030 --> 00:39:46,122
+HICKS: Let's go, let's go.
+
+502
+00:39:46,164 --> 00:39:50,624
+APONE: One, two, three,
+four, five, six!
+
+503
+00:39:51,837 --> 00:39:54,499
+I want combat seating.
+You know your places.
+
+504
+00:39:55,841 --> 00:39:58,332
+Get those weapons stowed.
+Let's go.
+
+505
+00:39:58,377 --> 00:40:00,868
+Come on. Settle down, people.
+
+506
+00:40:02,013 --> 00:40:04,277
+Lock them in, Hudson.
+
+507
+00:40:04,316 --> 00:40:07,649
+HUDSON: Ready to get it on?
+You know it!
+
+508
+00:40:07,686 --> 00:40:10,519
+GORMAN: OK, Bishop, let's go.
+
+509
+00:40:10,555 --> 00:40:11,886
+Roger.
+
+510
+00:40:14,559 --> 00:40:16,857
+HUDSON: I'm ready, man.
+
+511
+00:40:16,895 --> 00:40:20,763
+Ready to get it on! Go!
+
+512
+00:40:24,870 --> 00:40:26,633
+FERRO: Stand by.
+Cross-locking now.
+
+513
+00:40:26,671 --> 00:40:28,901
+Pre-launch auto-cycle engage.
+
+514
+00:40:32,210 --> 00:40:34,178
+Primary couplers released.
+
+515
+00:40:34,212 --> 00:40:36,203
+Hit the internals.
+
+516
+00:40:47,759 --> 00:40:48,885
+HUDSON: Oh, shit, man.
+
+517
+00:40:48,927 --> 00:40:51,088
+FERRO: Confirm cross-lock
+and drop stations secured.
+
+518
+00:40:51,129 --> 00:40:54,030
+GORMAN: Affirmative.
+All drop stations secured.
+
+519
+00:40:58,336 --> 00:40:59,860
+Stand by. Ten seconds.
+
+520
+00:41:03,508 --> 00:41:06,443
+Stand by to initiate
+release sequencer...
+
+521
+00:41:06,478 --> 00:41:07,638
+on my mark.
+
+522
+00:41:07,679 --> 00:41:10,648
+HUDSON: We're on
+an express elevator to hell.
+
+523
+00:41:10,682 --> 00:41:12,411
+Going down!
+
+524
+00:41:12,451 --> 00:41:15,386
+Two, one, mark.
+
+525
+00:41:16,555 --> 00:41:19,683
+Whoo-hoo!
+
+526
+00:41:31,169 --> 00:41:33,729
+FERRO: Switch to DCS ranging.
+
+527
+00:41:33,772 --> 00:41:35,740
+SPUNKMEYER: Two-four-oh,
+nominal to profile.
+
+528
+00:41:35,774 --> 00:41:38,334
+FERRO:
+We're in the pipe, five by five.
+
+529
+00:41:49,054 --> 00:41:51,318
+SPUNKMEYER: We're picking up
+some hull ionization.
+
+530
+00:41:51,356 --> 00:41:55,053
+FERRO: Got it. Rough air ahead.
+We're in for some chop.
+
+531
+00:42:09,541 --> 00:42:12,101
+RIPLEY: How many drops
+is this for you, Lieutenant?
+
+532
+00:42:14,145 --> 00:42:15,635
+Thirty-eight.
+
+533
+00:42:17,148 --> 00:42:18,945
+Simulated.
+
+534
+00:42:18,984 --> 00:42:21,043
+How many combat drops?
+
+535
+00:42:21,086 --> 00:42:23,520
+Uh, two...
+
+536
+00:42:23,555 --> 00:42:25,250
+including this one.
+
+537
+00:42:25,290 --> 00:42:26,780
+DRAKE: Shit.
+
+538
+00:42:26,825 --> 00:42:28,690
+HUDSON: Oh, man.
+
+539
+00:42:41,339 --> 00:42:45,070
+Range zero-one-four.
+Turning on final.
+
+540
+00:42:50,516 --> 00:42:53,314
+FROST: I got a bad feeling
+about this drop.
+
+541
+00:42:53,352 --> 00:42:57,516
+CROWE: You always say, "I got
+a bad feeling about this drop."
+
+542
+00:42:57,557 --> 00:43:01,220
+FROST: When we get back without
+you, l'll call your folks.
+
+543
+00:43:04,497 --> 00:43:08,456
+GORMAN: All right.
+Let's see what we can see.
+
+544
+00:43:08,501 --> 00:43:10,469
+Everybody on-line.
+
+545
+00:43:10,503 --> 00:43:11,993
+Looking good.
+
+546
+00:43:14,006 --> 00:43:15,701
+Drake, check your camera.
+
+547
+00:43:15,741 --> 00:43:17,709
+There seems to be a malfunction.
+
+548
+00:43:17,743 --> 00:43:19,005
+That's better.
+
+549
+00:43:19,045 --> 00:43:21,809
+Pan it around a bit. Good.
+
+550
+00:43:21,847 --> 00:43:26,546
+HUDSON: I'm ready. Check it out.
+I am the ultimate badass.
+
+551
+00:43:27,353 --> 00:43:30,186
+HUDSON: State of the badass art.
+
+552
+00:43:30,223 --> 00:43:33,056
+You do not wanna fuck with me.
+
+553
+00:43:33,092 --> 00:43:34,992
+Check it out.
+
+554
+00:43:37,029 --> 00:43:39,998
+Hey, Ripley, don't worry.
+
+555
+00:43:40,032 --> 00:43:43,593
+Me and my squad of ultimate
+badasses will protect you.
+
+556
+00:43:45,037 --> 00:43:46,197
+HUDSON: Check it out.
+
+557
+00:43:47,373 --> 00:43:50,536
+Independently targeting
+particle-beam phalanx.
+
+558
+00:43:50,576 --> 00:43:52,009
+Whap!
+
+559
+00:43:52,044 --> 00:43:54,842
+Fry half a city with this puppy.
+
+560
+00:43:54,880 --> 00:43:56,848
+We got tactical
+smart missiles...
+
+561
+00:43:56,882 --> 00:43:59,749
+phase-plasma pulse-rifles,
+RPGs.
+
+562
+00:43:59,785 --> 00:44:03,277
+We got sonic,
+electronic ballbreakers!
+
+563
+00:44:03,322 --> 00:44:04,789
+We got nukes.
+
+564
+00:44:04,824 --> 00:44:06,689
+We got knives, sharp sticks...
+
+565
+00:44:06,726 --> 00:44:07,954
+APONE: Knock it off, Hudson!
+
+566
+00:44:07,994 --> 00:44:09,723
+All right, gear up.
+
+567
+00:44:09,762 --> 00:44:12,492
+Two minutes, people. Get hot.
+
+568
+00:44:13,633 --> 00:44:15,328
+Somebody wake up Hicks.
+
+569
+00:44:28,514 --> 00:44:30,812
+FERRO: Coming around
+for a seven-zero-niner.
+
+570
+00:44:30,850 --> 00:44:32,841
+SPUNKMEYER:
+Terminal guidance locked in.
+
+571
+00:44:32,885 --> 00:44:34,318
+FERRO: Where's the damn beacon?
+
+572
+00:44:35,321 --> 00:44:36,879
+Oh, I see it.
+
+573
+00:44:42,728 --> 00:44:44,696
+RIPLEY:
+That's the atmosphere processor?
+
+574
+00:44:44,730 --> 00:44:46,391
+BURKE: Yep, that's it.
+
+575
+00:44:46,432 --> 00:44:48,127
+Remarkable piece of machinery.
+
+576
+00:44:48,167 --> 00:44:49,759
+Completely automated.
+
+577
+00:44:49,802 --> 00:44:51,793
+We manufacture those,
+by the way.
+
+578
+00:45:02,014 --> 00:45:03,675
+GORMAN: OK, Ferro.
+
+579
+00:45:03,716 --> 00:45:07,174
+Take us in low
+over the main colony complex.
+
+580
+00:45:08,487 --> 00:45:10,955
+Storm shutters are sealed.
+
+581
+00:45:10,990 --> 00:45:12,958
+There's no visible activity.
+
+582
+00:45:12,992 --> 00:45:14,892
+All right. Hold at forty.
+
+583
+00:45:14,927 --> 00:45:16,121
+FERRO: Roger.
+
+584
+00:45:16,162 --> 00:45:17,891
+GORMAN: Give me a slow circle
+of the complex.
+
+585
+00:45:25,805 --> 00:45:27,432
+Structure seems intact.
+
+586
+00:45:29,008 --> 00:45:30,305
+They still have power.
+
+587
+00:45:30,343 --> 00:45:34,074
+GORMAN: OK, Ferro.
+Set down on the landing grid.
+
+588
+00:45:34,113 --> 00:45:37,446
+Immediate dust-off on my clear,
+then stay on station.
+
+589
+00:45:51,430 --> 00:45:53,796
+FERRO: Down and clear.
+
+590
+00:45:54,900 --> 00:45:57,095
+APONE:
+Ten seconds, people. Look sharp!
+
+591
+00:46:00,106 --> 00:46:03,542
+I want a nice, clean dispersal
+this time.
+
+592
+00:46:05,177 --> 00:46:07,338
+Let's go! Move it out!
+
+593
+00:46:07,380 --> 00:46:09,211
+Head 'em out!
+
+594
+00:46:30,236 --> 00:46:32,136
+GORMAN: First squad up, on-line.
+
+595
+00:46:32,171 --> 00:46:34,503
+Hicks, get yours in a cordon,
+and watch the rear.
+
+596
+00:46:34,540 --> 00:46:36,201
+APONE: Vasquez, take point.
+
+597
+00:46:36,242 --> 00:46:37,732
+Let's move!
+
+598
+00:46:45,551 --> 00:46:47,041
+Move up.
+
+599
+00:46:50,389 --> 00:46:52,550
+Hudson, run a bypass.
+
+600
+00:46:57,930 --> 00:46:59,454
+Second squad, move up.
+
+601
+00:46:59,498 --> 00:47:00,863
+Flanking positions.
+
+602
+00:47:00,900 --> 00:47:02,595
+Second squad, on-line.
+
+603
+00:47:31,630 --> 00:47:33,120
+APONE: You set?
+
+604
+00:48:04,196 --> 00:48:06,790
+Second team, move inside.
+Hicks, take the upper level.
+
+605
+00:48:35,160 --> 00:48:36,650
+APONE: Sir, you copying this?
+
+606
+00:48:36,695 --> 00:48:40,187
+Looks like hits
+from small-arms fire.
+
+607
+00:48:40,232 --> 00:48:45,329
+We got some explosives damages,
+probably seismic survey charges.
+
+608
+00:48:45,371 --> 00:48:47,339
+Are you reading this?
+
+609
+00:48:47,373 --> 00:48:49,034
+Keep it tight, people.
+
+610
+00:49:02,454 --> 00:49:06,788
+GORMAN: Hicks, Hudson,
+use your motion trackers.
+
+611
+00:49:24,343 --> 00:49:25,571
+HICKS: Nothing.
+
+612
+00:49:25,611 --> 00:49:27,841
+Not a goddamn thing.
+
+613
+00:49:33,819 --> 00:49:35,650
+GORMAN:
+Quarter and search by twos.
+
+614
+00:49:47,066 --> 00:49:49,591
+HICKS:
+OK, Dietrich, Frost, you're up.
+
+615
+00:50:19,006 --> 00:50:20,337
+[Beeping]
+
+616
+00:50:21,342 --> 00:50:23,003
+[Motion tracker beeping]
+
+617
+00:50:32,019 --> 00:50:34,010
+[Beeping louder]
+
+618
+00:50:37,191 --> 00:50:39,056
+HUDSON: lt's right in here.
+
+619
+00:50:51,138 --> 00:50:52,298
+- Now!
+- Now!
+
+620
+00:50:53,307 --> 00:50:54,467
+HUDSON: Hyah!
+
+621
+00:50:55,542 --> 00:50:57,169
+VASQUEZ: Good one, Hudson.
+
+622
+00:50:57,211 --> 00:51:00,510
+HUDSON: Uh, sir, we have
+a negative situation here.
+
+623
+00:51:00,547 --> 00:51:02,378
+Uh, moving on, sir.
+
+624
+00:51:11,258 --> 00:51:12,418
+RIPLEY: Wait.
+
+625
+00:51:12,459 --> 00:51:13,892
+Wait, tell him to...
+
+626
+00:51:15,329 --> 00:51:17,092
+Hicks, back up.
+
+627
+00:51:17,131 --> 00:51:18,792
+Pan right.
+
+628
+00:51:20,234 --> 00:51:22,099
+There.
+
+629
+00:51:22,136 --> 00:51:24,104
+HICKS:
+You seeing this all right?
+
+630
+00:51:25,506 --> 00:51:26,632
+Looks melted.
+
+631
+00:51:26,673 --> 00:51:30,336
+Somebody must have bagged
+one of Ripley's bad guys here.
+
+632
+00:51:31,078 --> 00:51:33,546
+BURKE: Acid for blood.
+
+633
+00:51:33,580 --> 00:51:36,913
+If you like that,
+you're gonna love this.
+
+634
+00:51:50,364 --> 00:51:51,831
+HUDSON: Quit screwing around.
+
+635
+00:51:51,865 --> 00:51:53,389
+APONE: Second squad,
+what's your status?
+
+636
+00:51:53,434 --> 00:51:55,402
+HICKS:
+We just finished our sweep.
+
+637
+00:51:55,436 --> 00:51:56,903
+Nobody's home.
+
+638
+00:51:56,937 --> 00:51:59,838
+APONE: Roger.
+Sir, this place is dead.
+
+639
+00:51:59,873 --> 00:52:01,534
+Whatever happened here,
+we missed it.
+
+640
+00:52:03,477 --> 00:52:05,104
+The area's secured.
+
+641
+00:52:05,145 --> 00:52:06,942
+Let's go check their computer.
+
+642
+00:52:06,980 --> 00:52:09,540
+- It's not secure.
+- The area's secured.
+
+643
+00:52:09,583 --> 00:52:12,643
+GORMAN:
+First team, head for Operations.
+
+644
+00:52:12,686 --> 00:52:14,654
+Hudson, get their CPU on-line.
+
+645
+00:52:14,688 --> 00:52:15,814
+HUDSON: Affirmative.
+
+646
+00:52:15,856 --> 00:52:18,017
+Hicks,
+meet me at the south lock.
+
+647
+00:52:18,058 --> 00:52:19,389
+We're coming in.
+
+648
+00:52:19,426 --> 00:52:21,189
+HUDSON: He's coming in.
+
+649
+00:52:21,228 --> 00:52:23,196
+I feel safer already.
+
+650
+00:52:23,230 --> 00:52:25,907
+VASQUEZ: Pendejo jerkoff.
+
+651
+00:52:44,892 --> 00:52:48,885
+HUDSON: Sir, we got
+the CPU on-line. No problem.
+
+652
+00:52:48,930 --> 00:52:51,262
+GORMAN:
+Good. Stand by in Operations.
+
+653
+00:52:52,767 --> 00:52:54,735
+OK, let's go.
+
+654
+00:53:15,456 --> 00:53:16,753
+Are you all right?
+
+655
+00:53:18,159 --> 00:53:19,626
+Yes.
+
+656
+00:53:35,910 --> 00:53:37,002
+DRAKE: Sir...
+
+657
+00:53:37,745 --> 00:53:40,976
+they sealed off this wing at
+both ends, welded the doors...
+
+658
+00:53:41,015 --> 00:53:44,382
+and blocked off the stairs
+with heavy equipment.
+
+659
+00:53:44,418 --> 00:53:47,353
+But it looks like
+the barricade didn't hold.
+
+660
+00:53:47,388 --> 00:53:49,913
+- Any bodies?
+- No, sir.
+
+661
+00:53:49,957 --> 00:53:51,891
+FROST: Last stand.
+
+662
+00:53:51,926 --> 00:53:53,450
+DRAKE: Must have been
+a hell of a fight.
+
+663
+00:53:54,428 --> 00:53:56,419
+HICKS: Looks that way.
+
+664
+00:53:58,432 --> 00:54:01,094
+GORMAN:
+All right, Drake, this way.
+
+665
+00:54:01,135 --> 00:54:04,263
+We should be able to cut through
+the med lab to Operations.
+
+666
+00:54:55,590 --> 00:54:56,989
+HICKS: Lieutenant.
+
+667
+00:54:59,393 --> 00:55:00,917
+Gorman.
+
+668
+00:55:18,346 --> 00:55:20,405
+Are those the same ones?
+
+669
+00:55:33,628 --> 00:55:34,686
+Careful, Burke.
+
+670
+00:55:45,273 --> 00:55:47,969
+HICKS: Looks like
+love at first sight to me.
+
+671
+00:55:49,277 --> 00:55:51,336
+Oh, he likes you, Burke.
+
+672
+00:55:51,379 --> 00:55:54,314
+BISHOP: Two are alive.
+The rest are dead.
+
+673
+00:55:55,917 --> 00:55:59,216
+"Surgically removed
+before embryo implantation.
+
+674
+00:55:59,253 --> 00:56:03,349
+"Subject Marachuk, John J.,
+died during the procedure."
+
+675
+00:56:03,391 --> 00:56:06,519
+They killed him taking it off.
+
+676
+00:56:06,594 --> 00:56:08,789
+[Beeping]
+
+677
+00:56:08,829 --> 00:56:09,989
+FROST: Yo, Hicks.
+
+678
+00:56:10,932 --> 00:56:13,127
+I think we got something here.
+
+679
+00:56:18,072 --> 00:56:19,198
+HICKS: Behind us.
+
+680
+00:56:19,240 --> 00:56:21,265
+RIPLEY: One of us?
+
+681
+00:56:21,309 --> 00:56:23,209
+GORMAN:
+Apone, where are your people?
+
+682
+00:56:23,244 --> 00:56:24,905
+Anybody in D-Block?
+
+683
+00:56:24,946 --> 00:56:27,380
+APONE: Negative.
+We're all in Operations.
+
+684
+00:56:30,718 --> 00:56:32,743
+DRAKE: Talk to me, Frosty.
+
+685
+00:56:32,787 --> 00:56:34,880
+FROST: Let's keep moving, baby.
+
+686
+00:56:46,067 --> 00:56:47,398
+[Crash]
+
+687
+00:56:52,740 --> 00:56:53,866
+HICKS: lt's moving.
+
+688
+00:56:53,908 --> 00:56:55,273
+DRAKE: Which way?
+
+689
+00:56:55,309 --> 00:56:57,277
+FROST:
+lt's coming straight for us.
+
+690
+00:56:57,311 --> 00:56:58,801
+Straight up.
+
+691
+00:57:14,929 --> 00:57:16,920
+[Beeping louder]
+
+692
+00:57:35,883 --> 00:57:37,180
+DRAKE: Fuck!
+
+693
+00:57:37,218 --> 00:57:38,879
+HICKS: Hold up.
+
+694
+00:57:39,987 --> 00:57:41,511
+Ripley.
+
+695
+00:58:00,908 --> 00:58:03,877
+RIPLEY:
+Hey, shh, it's all right.
+
+696
+00:58:03,911 --> 00:58:05,276
+It's all right.
+
+697
+00:58:05,312 --> 00:58:06,506
+GORMAN: Grab her, Corporal.
+
+698
+00:58:06,547 --> 00:58:09,846
+RIPLEY: Don't be afraid.
+Come on. We won't hurt you.
+
+699
+00:58:09,884 --> 00:58:12,250
+Shh. It's all right. It's OK.
+
+700
+00:58:12,286 --> 00:58:15,517
+Come on out. Come on. Easy.
+
+701
+00:58:15,556 --> 00:58:18,150
+HICKS: I got her. Ow! Damn!
+
+702
+00:58:18,726 --> 00:58:19,852
+RIPLEY: Don't let her go.
+
+703
+00:58:19,894 --> 00:58:21,327
+HICKS:
+She's under the grill!
+
+704
+00:58:21,362 --> 00:58:23,023
+GORMAN:
+Frost, get your light up here.
+
+705
+00:58:23,064 --> 00:58:24,554
+RIPLEY: Where'd she go?
+
+706
+00:58:26,000 --> 00:58:27,592
+FROST: She's on the other side.
+
+707
+00:58:27,635 --> 00:58:29,728
+RIPLEY: Shine the light!
+
+708
+00:58:31,539 --> 00:58:33,302
+BISHOP: Here. Here.
+
+709
+00:58:33,340 --> 00:58:36,002
+RIPLEY:
+Keep back. Don't scare her.
+
+710
+00:58:36,043 --> 00:58:37,670
+HICKS:
+Grab her. We're gonna lose her.
+
+711
+00:58:37,711 --> 00:58:39,576
+RIPLEY: Damn it!
+
+712
+00:58:45,719 --> 00:58:47,277
+RIPLEY: Wait.
+
+713
+00:59:12,777 --> 00:59:15,712
+It's OK. It's all right.
+
+714
+00:59:16,881 --> 00:59:18,576
+Don't be afraid.
+
+715
+00:59:19,717 --> 00:59:21,548
+See?
+
+716
+00:59:22,720 --> 00:59:24,745
+Wait. No, you don't.
+
+717
+00:59:24,789 --> 00:59:27,053
+It's OK.
+
+718
+00:59:27,091 --> 00:59:29,116
+You're gonna be all right now.
+
+719
+00:59:29,160 --> 00:59:30,457
+Shh.
+
+720
+00:59:30,494 --> 00:59:34,692
+Easy. Easy.
+It's gonna be OK.
+
+721
+00:59:34,732 --> 00:59:36,825
+It's all right.
+You're gonna be OK.
+
+722
+00:59:36,867 --> 00:59:39,427
+Shh, shh, shh.
+
+723
+00:59:39,470 --> 00:59:42,166
+Easy. Easy.
+
+724
+01:00:18,609 --> 01:00:20,236
+GORMAN: What's her name again?
+
+725
+01:00:20,277 --> 01:00:21,505
+DIETRICH: Rebecca.
+
+726
+01:00:21,545 --> 01:00:25,481
+GORMAN: Now think, Rebecca.
+Concentrate.
+
+727
+01:00:25,516 --> 01:00:27,848
+Just start at the beginning.
+
+728
+01:00:27,885 --> 01:00:29,853
+Where are your parents?
+
+729
+01:00:31,355 --> 01:00:32,481
+Look, Rebecca, you have to try...
+
+730
+01:00:32,523 --> 01:00:36,152
+Gorman, give it a rest,
+why don't you?
+
+731
+01:00:38,896 --> 01:00:41,421
+GORMAN: Total brainlock.
+
+732
+01:00:41,465 --> 01:00:43,456
+DIETRICH: Physically, she's OK.
+
+733
+01:00:43,500 --> 01:00:46,663
+Borderline malnutrition,
+but no permanent damage.
+
+734
+01:00:46,704 --> 01:00:48,729
+GORMAN:
+Come on. We're wasting time.
+
+735
+01:00:58,482 --> 01:00:59,881
+RIPLEY: Try this.
+
+736
+01:01:01,352 --> 01:01:03,343
+It's a little hot chocolate.
+
+737
+01:01:04,521 --> 01:01:06,079
+There you go.
+
+738
+01:01:07,224 --> 01:01:08,384
+Whoop.
+
+739
+01:01:09,660 --> 01:01:11,457
+That good, huh?
+
+740
+01:01:15,966 --> 01:01:17,433
+Uh-oh.
+
+741
+01:01:17,468 --> 01:01:19,663
+I made a clean spot here.
+
+742
+01:01:19,703 --> 01:01:21,102
+Now I've done it.
+
+743
+01:01:21,138 --> 01:01:23,402
+Guess l'll have to do
+the whole thing.
+
+744
+01:01:32,883 --> 01:01:36,341
+Hard to believe there's
+a little girl under all this.
+
+745
+01:01:37,855 --> 01:01:39,618
+And a pretty one, too.
+
+746
+01:01:45,629 --> 01:01:47,256
+You don't talk much, do you?
+
+747
+01:01:56,440 --> 01:01:58,408
+HUDSON: Smoking or non-smoking?
+
+748
+01:01:58,442 --> 01:02:00,410
+GORMAN: Tell me what
+you're scanning for.
+
+749
+01:02:00,444 --> 01:02:02,241
+BURKE: PDTs.
+
+750
+01:02:02,279 --> 01:02:04,247
+Personal data transmitters.
+
+751
+01:02:04,281 --> 01:02:06,875
+Every colonist had one
+surgically implanted.
+
+752
+01:02:06,917 --> 01:02:10,182
+If they're within twenty klicks,
+we'll read it out here.
+
+753
+01:02:10,220 --> 01:02:12,381
+So far, zippo.
+
+754
+01:02:12,423 --> 01:02:15,290
+I don't know how you
+stayed alive...
+
+755
+01:02:15,326 --> 01:02:17,817
+but you're one brave kid,
+Rebecca.
+
+756
+01:02:19,930 --> 01:02:21,761
+Newt.
+
+757
+01:02:22,933 --> 01:02:25,060
+What'd you say?
+
+758
+01:02:25,102 --> 01:02:26,899
+Newt.
+
+759
+01:02:26,937 --> 01:02:29,371
+My name's Newt.
+
+760
+01:02:29,406 --> 01:02:34,400
+Nobody calls me Rebecca
+except my brother.
+
+761
+01:02:34,445 --> 01:02:36,413
+Newt.
+
+762
+01:02:36,447 --> 01:02:38,074
+I like that.
+
+763
+01:02:38,115 --> 01:02:39,776
+I'm Ripley.
+
+764
+01:02:39,817 --> 01:02:42,615
+It's nice to meet you.
+
+765
+01:02:44,621 --> 01:02:47,715
+And who is this, hmm?
+
+766
+01:02:47,758 --> 01:02:49,555
+Casey.
+
+767
+01:02:49,593 --> 01:02:51,584
+Hello, Casey.
+
+768
+01:02:51,628 --> 01:02:54,620
+What about your brother?
+What's his name?
+
+769
+01:02:54,665 --> 01:02:56,223
+Timmy.
+
+770
+01:02:56,266 --> 01:02:59,030
+RIPLEY:
+ls Timmy around here, too?
+
+771
+01:02:59,069 --> 01:03:01,264
+Maybe hiding like you were?
+
+772
+01:03:05,009 --> 01:03:06,237
+Any sisters?
+
+773
+01:03:10,114 --> 01:03:11,843
+Mom and Dad?
+
+774
+01:03:14,451 --> 01:03:17,750
+Newt, look at me.
+
+775
+01:03:17,788 --> 01:03:18,982
+Where are they?
+
+776
+01:03:19,023 --> 01:03:22,049
+They're dead, all right?
+Can I go now?
+
+777
+01:03:25,095 --> 01:03:26,528
+I'm sorry, Newt.
+
+778
+01:03:28,065 --> 01:03:30,260
+Don't you think you'd be safer
+here with us?
+
+779
+01:03:34,004 --> 01:03:36,302
+These people are here
+to protect you.
+
+780
+01:03:36,340 --> 01:03:38,274
+They're soldiers.
+
+781
+01:03:38,308 --> 01:03:41,175
+It won't make any difference.
+
+782
+01:03:54,591 --> 01:03:56,752
+SPUNKMEYER:
+Need anything else?
+
+783
+01:03:59,229 --> 01:04:02,198
+Hello, Bishop.
+Do you need anything else?
+
+784
+01:04:04,401 --> 01:04:05,561
+No.
+
+785
+01:04:08,205 --> 01:04:10,366
+Nice pet you got there.
+
+786
+01:04:10,407 --> 01:04:13,561
+Magnificent, isn't it?
+
+787
+01:04:13,694 --> 01:04:17,061
+Yo! Stop your grinnin'
+and drop your linen!
+
+788
+01:04:17,098 --> 01:04:18,656
+Found them.
+
+789
+01:04:18,699 --> 01:04:19,927
+GORMAN: They alive?
+
+790
+01:04:19,967 --> 01:04:23,266
+HUDSON: Unknown, but it looks
+like all of them...
+
+791
+01:04:23,304 --> 01:04:25,738
+over at
+the processing station...
+
+792
+01:04:25,773 --> 01:04:27,536
+sub-level three...
+
+793
+01:04:27,575 --> 01:04:30,043
+under the main cooling towers.
+
+794
+01:04:30,077 --> 01:04:33,911
+HICKS: lt looks like
+a goddamn town meeting.
+
+795
+01:04:33,948 --> 01:04:35,643
+Let's saddle up, Apone.
+
+796
+01:04:35,683 --> 01:04:37,014
+APONE: Aye, sir.
+
+797
+01:04:38,185 --> 01:04:43,145
+Let's go. They ain't payin' us
+by the hour. Head 'em out.
+
+798
+01:04:43,190 --> 01:04:45,055
+OK, Frost, you're driving.
+
+799
+01:04:56,871 --> 01:05:00,272
+It's OK. Don't worry.
+It'll be OK.
+
+800
+01:05:40,548 --> 01:05:42,948
+GORMAN: I want
+a straight "V" deployment...
+
+801
+01:05:42,983 --> 01:05:45,144
+second team on left flank.
+
+802
+01:05:45,186 --> 01:05:47,416
+Advance on axial six-six-four.
+
+803
+01:05:47,454 --> 01:05:52,084
+Tracker on-line. Set the V-gain
+to filter R-F ambient.
+
+804
+01:05:52,126 --> 01:05:55,892
+APONE: Hudson, tracker on-line.
+Left and right, little buddy.
+
+805
+01:05:57,064 --> 01:05:59,532
+GORMAN: Forty meters in,
+bearing two-two-one...
+
+806
+01:05:59,567 --> 01:06:01,933
+there should be a stairwell.
+
+807
+01:06:01,969 --> 01:06:03,266
+APONE: Check. Got it.
+
+808
+01:06:05,206 --> 01:06:07,265
+GORMAN:
+You want sub-level three.
+
+809
+01:06:09,276 --> 01:06:10,538
+APONE: Let's go, people.
+
+810
+01:06:10,578 --> 01:06:12,205
+Hudson, you got the point.
+
+811
+01:06:12,246 --> 01:06:14,043
+Hicks, watch our tails.
+
+812
+01:06:14,081 --> 01:06:16,049
+Nice and easy.
+
+813
+01:06:16,083 --> 01:06:17,414
+Check those corners.
+
+814
+01:06:17,451 --> 01:06:19,442
+Check those corners.
+
+815
+01:06:23,057 --> 01:06:24,752
+GORMAN: Watch your spacing.
+
+816
+01:06:24,792 --> 01:06:27,693
+APONE: You heard the man.
+Don't bunch up. Stay loose.
+
+817
+01:06:27,728 --> 01:06:30,663
+GORMAN: Your transmission's
+showing a lot of break-up.
+
+818
+01:06:30,698 --> 01:06:33,394
+HUDSON: Probably getting some
+interference from the structure.
+
+819
+01:06:33,434 --> 01:06:34,924
+APONE: Use those lights.
+
+820
+01:06:37,071 --> 01:06:41,701
+GORMAN: Next one down,
+and proceed on a two-one-six.
+
+821
+01:06:41,742 --> 01:06:43,767
+APONE: Roger.
+That's a two-one-six.
+
+822
+01:06:46,046 --> 01:06:47,604
+GORMAN: I'm not
+making that out too well.
+
+823
+01:06:47,648 --> 01:06:49,513
+What is it, Hudson?
+
+824
+01:06:49,550 --> 01:06:52,212
+HUDSON:
+You tell me. I only work here.
+
+825
+01:07:07,167 --> 01:07:09,294
+What is that?
+
+826
+01:07:09,336 --> 01:07:11,566
+I don't know.
+
+827
+01:07:12,907 --> 01:07:14,534
+Proceed inside.
+
+828
+01:07:31,025 --> 01:07:33,994
+APONE: Watch your fire
+and check your targets.
+
+829
+01:07:34,028 --> 01:07:36,519
+Remember, we're looking
+for civvies in here.
+
+830
+01:07:46,407 --> 01:07:48,034
+APONE: Easy.
+
+831
+01:07:48,075 --> 01:07:51,044
+HICKS: Tighten it up, Frost.
+We're getting a little thin.
+
+832
+01:07:52,680 --> 01:07:54,409
+APONE: Nice and easy.
+
+833
+01:07:57,051 --> 01:07:59,246
+DIETRICH: Looks like
+some sort of secreted resin.
+
+834
+01:07:59,286 --> 01:08:03,120
+HICKS:
+Yeah, but secreted from what?
+
+835
+01:08:03,157 --> 01:08:05,887
+APONE: Nobody touch nothing.
+
+836
+01:08:05,926 --> 01:08:08,952
+BURKE:
+Busy little creatures, huh?
+
+837
+01:08:08,996 --> 01:08:11,260
+FROST: Hot as hell in here.
+
+838
+01:08:11,298 --> 01:08:13,027
+HUDSON: But it's a dry heat.
+
+839
+01:08:13,067 --> 01:08:14,728
+APONE: Knock it off, Hudson.
+
+840
+01:08:23,177 --> 01:08:26,169
+Lieutenant,
+what do those pulse-rifles fire?
+
+841
+01:08:26,213 --> 01:08:29,046
+GORMAN: Ten millimeter
+explosive-tip caseless.
+
+842
+01:08:29,083 --> 01:08:31,176
+Standard light
+armor-piercing round. Why?
+
+843
+01:08:31,218 --> 01:08:33,379
+RIPLEY: Look where your team is.
+
+844
+01:08:33,420 --> 01:08:36,583
+They're right under
+the primary heat exchangers.
+
+845
+01:08:36,623 --> 01:08:37,783
+So?
+
+846
+01:08:37,825 --> 01:08:41,352
+So if they fire their weapons
+in there...
+
+847
+01:08:41,395 --> 01:08:42,623
+won't they rupture
+the cooling system?
+
+848
+01:08:42,663 --> 01:08:45,689
+BURKE: Oh, ho ho. Yeah.
+She's absolutely right.
+
+849
+01:08:45,733 --> 01:08:46,995
+So what?
+
+850
+01:08:47,034 --> 01:08:51,266
+This whole station is basically
+a big fusion reactor.
+
+851
+01:08:52,506 --> 01:08:53,734
+Right?
+
+852
+01:08:53,774 --> 01:08:56,709
+So she's talking about
+a thermonuclear explosion...
+
+853
+01:08:56,744 --> 01:08:58,473
+and, "Adiós, muchachos."
+
+854
+01:08:58,512 --> 01:09:01,174
+Oh, great. Wonderful.
+
+855
+01:09:01,215 --> 01:09:03,740
+Shit!
+
+856
+01:09:05,753 --> 01:09:07,220
+Look.
+
+857
+01:09:07,254 --> 01:09:09,848
+Uh... Apone.
+
+858
+01:09:11,191 --> 01:09:14,752
+We can't have any firing
+in there.
+
+859
+01:09:14,795 --> 01:09:18,424
+I want you to collect
+magazines from everybody.
+
+860
+01:09:18,465 --> 01:09:19,955
+HUDSON: ls he fuckin' crazy?
+
+861
+01:09:20,000 --> 01:09:22,594
+FROST:
+What do we use, harsh language?
+
+862
+01:09:22,636 --> 01:09:24,570
+GORMAN: Flame units only.
+I want rifles slung.
+
+863
+01:09:24,605 --> 01:09:25,765
+APONE: Sir, I...
+
+864
+01:09:25,806 --> 01:09:28,536
+GORMAN: Just do it, Sergeant.
+And no grenades.
+
+865
+01:09:30,210 --> 01:09:32,007
+APONE: You heard the man.
+
+866
+01:09:32,046 --> 01:09:34,276
+Pull 'em out. Let's have 'em.
+
+867
+01:09:35,315 --> 01:09:37,715
+Come on, Vasquez.
+Clear and lock.
+
+868
+01:09:41,221 --> 01:09:42,381
+Damn!
+
+869
+01:09:43,257 --> 01:09:45,418
+You, too. Give it up, Ski.
+
+870
+01:09:45,459 --> 01:09:48,451
+Crowe, I want it now.
+Give it up.
+
+871
+01:09:48,495 --> 01:09:49,928
+DRAKE: Right on, Vas.
+
+872
+01:09:51,765 --> 01:09:53,699
+APONE: Let's go. Give it up.
+
+873
+01:09:53,734 --> 01:09:55,895
+Frost, you got the duty.
+Open that bag.
+
+874
+01:09:55,936 --> 01:09:57,494
+FROST: Thanks a lot, Sarge.
+
+875
+01:09:57,538 --> 01:09:58,937
+APONE: Hicks, cover our ass.
+
+876
+01:09:58,972 --> 01:10:00,803
+Head 'em out, people.
+
+877
+01:10:02,743 --> 01:10:06,702
+HICKS: I like to keep this handy
+for close encounters.
+
+878
+01:10:06,747 --> 01:10:08,544
+FROST: I heard that.
+
+879
+01:10:17,591 --> 01:10:19,354
+GORMAN: Any movement?
+
+880
+01:10:19,393 --> 01:10:20,883
+HUDSON: Nothing.
+
+881
+01:10:20,928 --> 01:10:22,122
+Zip.
+
+882
+01:10:34,708 --> 01:10:37,541
+APONE: Holy shit.
+
+883
+01:10:50,224 --> 01:10:52,590
+RIPLEY: Newt, go sit up front.
+
+884
+01:10:52,626 --> 01:10:53,957
+Go on!
+
+885
+01:10:53,994 --> 01:10:55,222
+Now!
+
+886
+01:11:23,720 --> 01:11:26,518
+APONE: Steady, people.
+Let's finish our sweep.
+
+887
+01:11:26,556 --> 01:11:29,923
+We're still Marines,
+and we got a job to do.
+
+888
+01:11:29,960 --> 01:11:31,450
+Keep it moving.
+
+889
+01:11:32,462 --> 01:11:33,827
+Easy.
+
+890
+01:12:05,929 --> 01:12:07,453
+- Top!
+- What?
+
+891
+01:12:07,497 --> 01:12:09,192
+DIETRICH: We got a live one!
+
+892
+01:12:09,232 --> 01:12:10,699
+You're gonna be all right.
+
+893
+01:12:10,734 --> 01:12:13,567
+Please... kill me.
+
+894
+01:12:13,603 --> 01:12:15,503
+DIETRICH:
+Stay calm. We'll get you out.
+
+895
+01:12:15,539 --> 01:12:17,734
+It's gonna be all right.
+
+896
+01:12:17,774 --> 01:12:19,469
+We've got to get her
+out of here.
+
+897
+01:12:19,509 --> 01:12:20,771
+APONE: What is it, Dietrich?
+What's going on?
+
+898
+01:12:20,811 --> 01:12:22,301
+Convulsion!
+
+899
+01:12:22,345 --> 01:12:23,505
+RIPLEY: Ohh!
+
+900
+01:12:23,547 --> 01:12:25,777
+APONE: Dietrich, get back!
+
+901
+01:12:25,816 --> 01:12:27,545
+Aah! Aah!
+
+902
+01:12:33,890 --> 01:12:35,255
+No!
+
+903
+01:12:35,292 --> 01:12:37,351
+APONE: Frost, flamethrower!
+
+904
+01:12:37,394 --> 01:12:39,954
+Get back! Flamethrower! Move!
+
+905
+01:12:39,996 --> 01:12:41,156
+[Screeching]
+
+906
+01:13:09,759 --> 01:13:11,522
+- [Beeping]
+- Movement!
+
+907
+01:13:11,561 --> 01:13:12,721
+What's the position?
+
+908
+01:13:14,264 --> 01:13:16,459
+I can't lock in!
+
+909
+01:13:16,499 --> 01:13:18,831
+Talk to me, Hudson!
+
+910
+01:13:18,869 --> 01:13:21,337
+Multiple signals.
+
+911
+01:13:21,371 --> 01:13:22,998
+They're closing.
+
+912
+01:13:24,341 --> 01:13:27,674
+APONE: Go to infrared, people.
+Look sharp!
+
+913
+01:13:27,711 --> 01:13:30,976
+GORMAN: What's happening, Apone?
+We can't see anything in here.
+
+914
+01:13:31,014 --> 01:13:33,073
+RIPLEY:
+Pull your team out, Gorman.
+
+915
+01:13:38,889 --> 01:13:41,687
+HUDSON: I got readings
+in front and behind.
+
+916
+01:13:41,725 --> 01:13:44,091
+FROST: Where, man?
+I don't see shit.
+
+917
+01:13:44,127 --> 01:13:46,561
+HICKS: He's right.
+Nothing's back here.
+
+918
+01:13:46,596 --> 01:13:49,064
+HUDSON: Something's moving,
+and it ain't us!
+
+919
+01:13:50,567 --> 01:13:52,057
+FROST: Oh, shit.
+
+920
+01:13:52,102 --> 01:13:54,002
+HUDSON:
+Tracker's off-scale, man.
+
+921
+01:13:54,037 --> 01:13:57,336
+They're all around us, man!
+Jesus!
+
+922
+01:13:57,374 --> 01:14:00,707
+DIETRICH: Maybe they don't
+show up on infrared at all.
+
+923
+01:14:04,748 --> 01:14:06,215
+Aah!
+
+924
+01:14:07,951 --> 01:14:09,179
+FROST: Aah!
+
+925
+01:14:10,553 --> 01:14:11,679
+APONE: Frost!
+
+926
+01:14:11,721 --> 01:14:13,188
+DIETRICH: Aah!
+
+927
+01:14:17,460 --> 01:14:19,394
+Come on!
+
+928
+01:14:23,767 --> 01:14:25,735
+CROWE: Aah!
+
+929
+01:14:25,769 --> 01:14:28,363
+GORMAN: Jesus Christ, Apone!
+What is going on?
+
+930
+01:14:28,405 --> 01:14:30,669
+HICKS: Wierzbowski
+and Crowe are down!
+
+931
+01:14:30,707 --> 01:14:34,803
+APONE:
+Dietrich, Crowe! Sound off!
+
+932
+01:14:34,844 --> 01:14:37,608
+Frost! Frost!
+
+933
+01:14:39,816 --> 01:14:41,306
+WIERZBOWSKl: Aah!
+
+934
+01:14:41,351 --> 01:14:43,444
+Wierzbowski!
+
+935
+01:14:43,486 --> 01:14:44,714
+Wierzbowski!
+
+936
+01:14:44,754 --> 01:14:46,312
+WIERZBOWSKl: Aah!
+
+937
+01:14:46,356 --> 01:14:48,290
+VASQUEZ: Let's rock!
+
+938
+01:14:48,325 --> 01:14:49,986
+DRAKE: Yeah!
+
+939
+01:14:50,026 --> 01:14:52,756
+Yeah!
+
+940
+01:14:52,796 --> 01:14:54,286
+Who's firing? God damn it!
+
+941
+01:14:55,298 --> 01:14:56,629
+VASQUEZ: Yeah!
+
+942
+01:14:56,666 --> 01:14:58,190
+I ordered a hold fire.
+
+943
+01:14:59,035 --> 01:15:03,165
+HUDSON: They're coming out of
+the goddamn walls! Let's book!
+
+944
+01:15:03,206 --> 01:15:05,231
+Uh, Apone...
+
+945
+01:15:05,275 --> 01:15:08,301
+I want you to lay down
+a suppressing fire with...
+
+946
+01:15:08,345 --> 01:15:11,280
+APONE: Vasquez, Drake,
+hold your fire, God damn it!
+
+947
+01:15:11,314 --> 01:15:13,214
+GORMAN: Are you copying me?
+
+948
+01:15:13,249 --> 01:15:15,547
+Lay down a suppressing fire
+with the incinerators...
+
+949
+01:15:15,585 --> 01:15:17,018
+and fall back by squads...
+
+950
+01:15:17,053 --> 01:15:18,350
+APONE: Say again?
+
+951
+01:15:18,388 --> 01:15:20,253
+All after "incinerator."
+
+952
+01:15:20,290 --> 01:15:24,317
+Lay down a suppressing fire
+with the incinerators...
+
+953
+01:15:24,361 --> 01:15:25,726
+and fall back...
+
+954
+01:15:25,762 --> 01:15:27,627
+[Loud gunfire]
+
+955
+01:15:29,632 --> 01:15:31,497
+APONE: Aah!
+
+956
+01:15:31,534 --> 01:15:32,660
+HUDSON: Sarge!
+
+957
+01:15:32,702 --> 01:15:35,967
+Apone, talk to me.
+
+958
+01:15:36,006 --> 01:15:37,633
+Apone? Talk to me!
+
+959
+01:15:37,674 --> 01:15:38,834
+RIPLEY: He's gone!
+
+960
+01:15:38,875 --> 01:15:40,467
+[Shouting and gunfire]
+
+961
+01:15:40,510 --> 01:15:42,978
+Get them out of there!
+
+962
+01:15:43,013 --> 01:15:44,776
+GORMAN: Shut up!
+
+963
+01:15:44,814 --> 01:15:46,577
+Hicks, whoever's left,
+get the hell...
+
+964
+01:15:46,616 --> 01:15:47,981
+- Shut up!
+- God damn it!
+
+965
+01:15:49,753 --> 01:15:51,345
+HICKS: Where's Apone?!
+
+966
+01:15:51,388 --> 01:15:52,514
+Where's Apone?!
+
+967
+01:15:52,555 --> 01:15:55,991
+The Sarge is gone!
+Let's get the fuck out of here!
+
+968
+01:15:56,026 --> 01:15:57,653
+HICKS: Let's go, Marines!
+
+969
+01:15:58,762 --> 01:16:00,286
+Hudson?
+
+970
+01:16:00,330 --> 01:16:01,957
+Vasquez?
+
+971
+01:16:01,998 --> 01:16:03,795
+HICKS: Hudson, look out!
+
+972
+01:16:03,833 --> 01:16:05,130
+HUDSON: Get it!
+
+973
+01:16:06,269 --> 01:16:07,759
+HICKS: Hudson!
+
+974
+01:16:07,804 --> 01:16:09,237
+GORMAN: Hicks! Hicks!
+
+975
+01:16:09,272 --> 01:16:11,001
+HICKS: lt's too much!
+Fall back!
+
+976
+01:16:11,041 --> 01:16:13,134
+GORMAN:
+I told them to fall back.
+
+977
+01:16:13,176 --> 01:16:14,336
+I told them to fall back.
+
+978
+01:16:14,377 --> 01:16:16,402
+RIPLEY: They're cut off!
+
+979
+01:16:16,446 --> 01:16:18,505
+Do something!
+
+980
+01:16:18,548 --> 01:16:20,311
+Fuck!
+
+981
+01:16:20,350 --> 01:16:21,510
+HICKS: Keep movin'!
+
+982
+01:16:21,551 --> 01:16:23,416
+RIPLEY: Hold on, Newt.
+
+983
+01:16:29,726 --> 01:16:32,354
+Ripley,
+what the hell are you doing?
+
+984
+01:16:38,334 --> 01:16:39,961
+GORMAN: Turn around!
+
+985
+01:16:43,440 --> 01:16:44,839
+That's an order!
+
+986
+01:16:49,312 --> 01:16:51,280
+RIPLEY: Get off me, damn it!
+
+987
+01:16:51,314 --> 01:16:52,838
+GORMAN:
+God damn it, that's an order!
+
+988
+01:16:52,882 --> 01:16:54,543
+BURKE:
+You had your chance, Gorman.
+
+989
+01:17:06,830 --> 01:17:08,297
+HICKS: Come on!
+
+990
+01:17:08,331 --> 01:17:09,798
+VASQUEZ: Come on, Drake!
+
+991
+01:17:26,516 --> 01:17:28,347
+DRAKE: Yeah!
+
+992
+01:17:28,384 --> 01:17:29,942
+HICKS: Let's move it!
+
+993
+01:17:31,020 --> 01:17:33,488
+VASQUEZ:
+Come on. Let's go! Let's go!
+
+994
+01:17:33,523 --> 01:17:37,050
+HUDSON: lt's blocked, man.
+We got to go around!
+
+995
+01:17:37,093 --> 01:17:38,754
+RIPLEY: Open the door! Hicks!
+
+996
+01:17:38,795 --> 01:17:41,389
+HICKS: Drake, we are leaving!
+
+997
+01:17:44,834 --> 01:17:46,563
+DRAKE: Run for it!
+
+998
+01:17:48,505 --> 01:17:49,699
+Shit!
+
+999
+01:17:53,710 --> 01:17:55,302
+[Grunting]
+
+1000
+01:17:55,345 --> 01:17:56,471
+BURKE: Let's go!
+
+1001
+01:17:56,513 --> 01:17:58,174
+VASQUEZ: Drake, come on, man!
+
+1002
+01:18:05,054 --> 01:18:06,282
+Drake, come on!
+
+1003
+01:18:10,026 --> 01:18:12,187
+Aah!
+
+1004
+01:18:12,228 --> 01:18:13,718
+No!
+
+1005
+01:18:15,798 --> 01:18:17,642
+HUDSON: Fire in the hold!
+
+1006
+01:18:17,775 --> 01:18:18,935
+HICKS: He's gone!
+
+1007
+01:18:18,976 --> 01:18:20,534
+VASQUEZ: No! Drake's out there!
+
+1008
+01:18:20,578 --> 01:18:22,205
+HUDSON: Put it out!
+
+1009
+01:18:22,246 --> 01:18:23,941
+VASQUEZ: Drake's coming!
+
+1010
+01:18:23,981 --> 01:18:25,846
+HICKS: He's gone!
+
+1011
+01:18:25,883 --> 01:18:27,373
+VASQUEZ: No, he's not!
+
+1012
+01:18:28,820 --> 01:18:30,788
+HICKS: Forget him! He's gone!
+
+1013
+01:18:36,093 --> 01:18:38,425
+Get on the goddamn door!
+
+1014
+01:18:41,165 --> 01:18:42,962
+HICKS: Eat this!
+
+1015
+01:18:44,702 --> 01:18:46,693
+HUDSON: Aah!
+
+1016
+01:18:46,737 --> 01:18:50,229
+HICKS: Ripley! Go, go, go!
+
+1017
+01:19:00,218 --> 01:19:01,981
+HICKS: Whoa!
+
+1018
+01:19:13,297 --> 01:19:14,457
+GORMAN: Oh.
+
+1019
+01:19:23,574 --> 01:19:25,166
+[Screeches]
+
+1020
+01:19:34,652 --> 01:19:36,552
+[Screeches]
+
+1021
+01:19:52,937 --> 01:19:54,905
+HICKS:
+lt's all right! We're clear!
+
+1022
+01:19:54,939 --> 01:19:57,908
+Ripley,
+you've blown the transaxle!
+
+1023
+01:19:57,942 --> 01:19:59,910
+You're just grinding metal!
+
+1024
+01:19:59,944 --> 01:20:02,037
+Come on, ease down.
+
+1025
+01:20:02,079 --> 01:20:03,910
+Ease down.
+
+1026
+01:20:03,948 --> 01:20:05,108
+Ease down.
+
+1027
+01:20:06,350 --> 01:20:07,749
+Ease down.
+
+1028
+01:20:19,363 --> 01:20:20,694
+RIPLEY: You OK?
+
+1029
+01:20:22,500 --> 01:20:24,491
+HUDSON: I'm all right.
+
+1030
+01:20:24,535 --> 01:20:27,663
+Get away from me, man!
+
+1031
+01:20:27,705 --> 01:20:29,138
+HICKS: Lieutenant.
+
+1032
+01:20:29,173 --> 01:20:31,573
+RIPLEY: What happened to Gorman?
+
+1033
+01:20:31,609 --> 01:20:32,871
+HICKS: I don't know...
+
+1034
+01:20:32,910 --> 01:20:35,174
+maybe a concussion,
+but he's alive.
+
+1035
+01:20:35,212 --> 01:20:37,077
+VASQUEZ: No, man, he's dead!
+
+1036
+01:20:37,114 --> 01:20:39,378
+Wake up, pendejo!
+I'm going to kill you!
+
+1037
+01:20:39,417 --> 01:20:40,884
+HICKS: Back off.
+
+1038
+01:20:40,918 --> 01:20:42,408
+Right now.
+
+1039
+01:20:44,922 --> 01:20:47,220
+Somebody get me a first aid kit.
+
+1040
+01:20:47,258 --> 01:20:50,386
+HUDSON: Hey. Hey, look.
+
+1041
+01:20:50,428 --> 01:20:52,896
+The Sarge and Dietrich
+aren't dead, man.
+
+1042
+01:20:52,930 --> 01:20:55,865
+Their signs are real low,
+but they ain't dead.
+
+1043
+01:20:55,900 --> 01:20:57,299
+Then we get them.
+
+1044
+01:20:57,335 --> 01:20:59,599
+- We don't leave people behind!
+- I ain't going back!
+
+1045
+01:20:59,637 --> 01:21:01,605
+You can't help them!
+
+1046
+01:21:03,274 --> 01:21:04,764
+You can't.
+
+1047
+01:21:04,809 --> 01:21:07,937
+Right now they're being cocooned
+just like the others.
+
+1048
+01:21:11,649 --> 01:21:14,413
+HUDSON: Oh, dear Lord Jesus,
+this ain't happenin', man.
+
+1049
+01:21:14,452 --> 01:21:15,919
+HICKS: God damn it.
+
+1050
+01:21:15,953 --> 01:21:18,421
+HUDSON:
+This can't be happenin', man.
+
+1051
+01:21:18,456 --> 01:21:19,684
+This isn't happenin'!
+
+1052
+01:21:19,824 --> 01:21:22,918
+We've got
+seven canisters of CN-20.
+
+1053
+01:21:22,960 --> 01:21:26,896
+I say we roll them in there
+and nerve gas the whole nest.
+
+1054
+01:21:26,931 --> 01:21:29,900
+HICKS: lt's worth a try, but we
+don't know if it'll affect them.
+
+1055
+01:21:29,934 --> 01:21:34,064
+HUDSON: Let's bug out and call
+it even. Why even talk about it?
+
+1056
+01:21:34,105 --> 01:21:37,905
+RIPLEY: I say we take off and
+nuke the entire site from orbit.
+
+1057
+01:21:40,911 --> 01:21:42,742
+It's the only way to be sure.
+
+1058
+01:21:42,780 --> 01:21:44,372
+HUDSON: Fuckin' "A"!
+
+1059
+01:21:44,415 --> 01:21:46,110
+BURKE: Hold on one second.
+
+1060
+01:21:46,150 --> 01:21:50,348
+This installation
+has a substantial dollar value.
+
+1061
+01:21:50,388 --> 01:21:51,787
+They can bill me.
+
+1062
+01:21:53,190 --> 01:21:54,384
+OK, look.
+
+1063
+01:21:54,425 --> 01:21:57,883
+This is an emotional moment
+for all of us, OK?
+
+1064
+01:21:57,928 --> 01:21:59,054
+I know that.
+
+1065
+01:21:59,096 --> 01:22:01,894
+But let's not make
+snap judgments, please.
+
+1066
+01:22:01,932 --> 01:22:04,992
+This is clearly an important
+species we're dealing with...
+
+1067
+01:22:05,036 --> 01:22:07,800
+and I don't think you or I
+or anybody has the right...
+
+1068
+01:22:07,838 --> 01:22:09,396
+to arbitrarily exterminate them.
+
+1069
+01:22:09,440 --> 01:22:10,600
+Wrong.
+
+1070
+01:22:10,641 --> 01:22:12,268
+VASQUEZ: Yeah. Watch us.
+
+1071
+01:22:12,309 --> 01:22:14,834
+HUDSON: Maybe you haven't been
+keeping up on current events...
+
+1072
+01:22:14,879 --> 01:22:17,370
+but we just got
+our asses kicked, pal!
+
+1073
+01:22:17,415 --> 01:22:20,907
+I'm not blind
+to what's going on...
+
+1074
+01:22:20,951 --> 01:22:24,614
+but I cannot authorize that kind
+of action. I'm sorry.
+
+1075
+01:22:26,524 --> 01:22:31,723
+Well, I believe Corporal Hicks
+has authority here.
+
+1076
+01:22:33,531 --> 01:22:34,998
+Corporal Hicks is...
+
+1077
+01:22:35,032 --> 01:22:37,728
+RIPLEY: This operation
+is under military jurisdiction.
+
+1078
+01:22:37,768 --> 01:22:40,999
+Hicks is next in chain
+of command, right, Corporal?
+
+1079
+01:22:42,373 --> 01:22:43,533
+Yeah.
+
+1080
+01:22:45,042 --> 01:22:46,566
+Yeah, that's right.
+
+1081
+01:22:47,678 --> 01:22:49,612
+BURKE: Yeah. Look, Ripley...
+
+1082
+01:22:49,647 --> 01:22:51,945
+this is a multimillion dollar
+installation, OK?
+
+1083
+01:22:51,982 --> 01:22:55,543
+He can't make that decision.
+He's just a grunt.
+
+1084
+01:22:55,586 --> 01:22:56,985
+Uh, no offense.
+
+1085
+01:22:57,021 --> 01:22:58,454
+HICKS: None taken.
+
+1086
+01:22:58,489 --> 01:22:59,956
+Ferro, do you copy?
+
+1087
+01:22:59,990 --> 01:23:01,116
+FERRO: Standing by.
+
+1088
+01:23:01,158 --> 01:23:03,558
+HICKS: Prep for dust-off.
+We need immediate evac.
+
+1089
+01:23:03,594 --> 01:23:05,459
+FERRO: Roger. On our way.
+
+1090
+01:23:05,496 --> 01:23:08,624
+HICKS: I say we take off,
+nuke the site from orbit.
+
+1091
+01:23:08,666 --> 01:23:10,258
+It's the only way to be sure.
+
+1092
+01:23:12,870 --> 01:23:14,633
+Let's do it.
+
+1093
+01:23:21,612 --> 01:23:23,739
+HICKS: Let's go.
+Pick it up, Hudson.
+
+1094
+01:23:23,781 --> 01:23:25,510
+Pick it up, baby.
+
+1095
+01:23:30,221 --> 01:23:32,712
+All right. Set him down here.
+
+1096
+01:23:39,263 --> 01:23:41,288
+Move it, Spunkmeyer.
+We're rolling.
+
+1097
+01:23:46,237 --> 01:23:48,865
+Hold on a second.
+There's something...
+
+1098
+01:23:48,906 --> 01:23:50,874
+FERRO: Just get up here.
+
+1099
+01:23:50,908 --> 01:23:53,342
+I'm in. Ramp closing.
+
+1100
+01:24:13,109 --> 01:24:15,669
+Spunkmeyer.
+
+1101
+01:24:15,712 --> 01:24:17,407
+God damn it.
+
+1102
+01:24:17,447 --> 01:24:18,937
+[Door slides open]
+
+1103
+01:24:20,216 --> 01:24:22,275
+Well, where the fuck...
+
+1104
+01:24:34,998 --> 01:24:36,226
+Run!
+
+1105
+01:25:17,874 --> 01:25:21,173
+Well, that's great.
+That's just fuckin' great, man.
+
+1106
+01:25:21,211 --> 01:25:24,237
+Now what the fuck
+are we supposed to do?
+
+1107
+01:25:24,280 --> 01:25:26,680
+We're in some real
+pretty shit now, man!
+
+1108
+01:25:26,716 --> 01:25:27,876
+HICKS: Are you finished?
+
+1109
+01:25:31,754 --> 01:25:33,415
+HICKS: You all right?
+
+1110
+01:25:38,661 --> 01:25:43,189
+NEWT: I guess we're not
+gonna be leaving now, right?
+
+1111
+01:25:43,233 --> 01:25:44,530
+RIPLEY: I'm sorry, Newt.
+
+1112
+01:25:44,567 --> 01:25:48,128
+You don't have to be sorry.
+It wasn't your fault.
+
+1113
+01:25:48,171 --> 01:25:50,639
+HUDSON: That's it, man.
+Game over, man! Game over!
+
+1114
+01:25:50,673 --> 01:25:52,868
+What the fuck
+are we gonna do now?
+
+1115
+01:25:52,909 --> 01:25:54,376
+What are we gonna do?
+
+1116
+01:25:54,410 --> 01:25:57,379
+BURKE: Maybe we could build
+a fire, sing a couple of songs.
+
+1117
+01:25:57,413 --> 01:25:58,880
+Why don't we try that?
+
+1118
+01:25:58,915 --> 01:26:01,713
+NEWT: We'd better get back
+'cause it'll be dark soon...
+
+1119
+01:26:01,751 --> 01:26:03,378
+and they mostly come at night.
+
+1120
+01:26:03,419 --> 01:26:04,750
+Mostly.
+
+1121
+01:26:21,704 --> 01:26:22,932
+HICKS: That's everything, right?
+
+1122
+01:26:23,873 --> 01:26:26,103
+This is absolutely everything
+we could salvage...
+
+1123
+01:26:26,142 --> 01:26:28,610
+out of the APC wreckage.
+
+1124
+01:26:28,645 --> 01:26:32,604
+We got four pulse-rifles
+with about fifty rounds each.
+
+1125
+01:26:32,649 --> 01:26:34,617
+That ain't so good.
+
+1126
+01:26:34,651 --> 01:26:38,109
+We got fifteen
+of these M-40 grenades.
+
+1127
+01:26:38,154 --> 01:26:41,646
+Don't touch that.
+Dangerous, honey.
+
+1128
+01:26:41,691 --> 01:26:43,090
+RIPLEY:
+ls that the only flamethrower?
+
+1129
+01:26:43,693 --> 01:26:47,220
+HICKS: Yeah. It's only
+half-full, but it's functional.
+
+1130
+01:26:47,263 --> 01:26:48,855
+And another one's damaged.
+
+1131
+01:26:48,898 --> 01:26:51,059
+I don't know about that one.
+
+1132
+01:26:51,100 --> 01:26:53,364
+But the good news...
+
+1133
+01:26:53,403 --> 01:26:55,963
+we got four of these
+robot sentries...
+
+1134
+01:26:56,973 --> 01:27:00,067
+with display
+and scanners intact.
+
+1135
+01:27:00,109 --> 01:27:03,078
+They really kick ass.
+They'll come in handy.
+
+1136
+01:27:03,112 --> 01:27:06,775
+How long after we're declared
+overdue can we expect a rescue?
+
+1137
+01:27:09,819 --> 01:27:12,014
+Seventeen days.
+
+1138
+01:27:12,055 --> 01:27:14,387
+Seventeen days?
+
+1139
+01:27:14,424 --> 01:27:17,393
+Hey, man, I don't wanna
+rain on your parade...
+
+1140
+01:27:17,427 --> 01:27:19,520
+but we're not gonna last
+seventeen hours.
+
+1141
+01:27:19,562 --> 01:27:23,259
+Those things are gonna come here
+like they did before, and...
+
+1142
+01:27:23,299 --> 01:27:25,494
+Hudson! Hudson!
+
+1143
+01:27:26,469 --> 01:27:28,835
+This little girl
+survived longer than that...
+
+1144
+01:27:28,871 --> 01:27:31,237
+with no weapons and no training.
+
+1145
+01:27:31,274 --> 01:27:32,673
+Right?
+
+1146
+01:27:36,012 --> 01:27:38,139
+Why don't you put her in charge?
+
+1147
+01:27:38,181 --> 01:27:39,944
+You better just start
+dealing with it, Hudson.
+
+1148
+01:27:39,983 --> 01:27:43,942
+Deal with it,
+because we need you...
+
+1149
+01:27:43,987 --> 01:27:46,012
+and I'm sick of your bullshit.
+
+1150
+01:27:46,055 --> 01:27:50,617
+Now get on a terminal
+and call up a floor plan file.
+
+1151
+01:27:50,660 --> 01:27:52,491
+Construction blueprints.
+I don't care.
+
+1152
+01:27:52,528 --> 01:27:54,155
+Anything that shows the layout.
+
+1153
+01:27:54,197 --> 01:27:56,461
+- Are you listening?
+- Yeah.
+
+1154
+01:27:56,499 --> 01:27:59,866
+RIPLEY: I need to see air ducts,
+electrical access tunnels...
+
+1155
+01:27:59,902 --> 01:28:01,494
+sub-basements...
+
+1156
+01:28:01,537 --> 01:28:03,903
+every possible way
+into this complex.
+
+1157
+01:28:05,341 --> 01:28:07,241
+We don't have much time.
+
+1158
+01:28:07,276 --> 01:28:08,641
+OK.
+
+1159
+01:28:09,779 --> 01:28:11,076
+OK, I'm on it.
+
+1160
+01:28:11,114 --> 01:28:12,274
+RIPLEY: Hudson!
+
+1161
+01:28:12,315 --> 01:28:14,044
+Just relax.
+
+1162
+01:28:20,523 --> 01:28:21,956
+l'll be in med lab.
+
+1163
+01:28:22,525 --> 01:28:25,494
+l'll check on Gorman,
+continue my analysis.
+
+1164
+01:28:25,528 --> 01:28:26,927
+Fine.
+
+1165
+01:28:26,963 --> 01:28:28,794
+You do that.
+
+1166
+01:28:34,670 --> 01:28:35,967
+RIPLEY: This service tunnel...
+
+1167
+01:28:36,005 --> 01:28:38,530
+must be how
+they're moving back and forth.
+
+1168
+01:28:38,574 --> 01:28:39,700
+HUDSON: That's right.
+
+1169
+01:28:39,742 --> 01:28:41,209
+It moves from
+the processing station...
+
+1170
+01:28:41,244 --> 01:28:43,712
+right into the sub-level.
+
+1171
+01:28:45,381 --> 01:28:46,780
+Come down on that.
+
+1172
+01:28:46,816 --> 01:28:49,011
+OK, come over.
+
+1173
+01:28:49,052 --> 01:28:50,519
+Hold it. Go back.
+
+1174
+01:28:50,553 --> 01:28:52,043
+Punch that in there.
+
+1175
+01:28:57,093 --> 01:28:58,754
+HICKS: No. It's back here.
+
+1176
+01:28:58,795 --> 01:28:59,955
+RIPLEY: OK.
+
+1177
+01:29:01,431 --> 01:29:04,161
+There's a pressure door
+at this end.
+
+1178
+01:29:04,200 --> 01:29:07,863
+Couldn't we put a remote
+sentry unit in the tunnel...
+
+1179
+01:29:07,904 --> 01:29:09,201
+then seal that door?
+
+1180
+01:29:09,238 --> 01:29:10,432
+HICKS: That'll work...
+
+1181
+01:29:10,473 --> 01:29:12,873
+but we gotta figure on them
+getting into the complex.
+
+1182
+01:29:12,909 --> 01:29:14,137
+RIPLEY: That's right, so...
+
+1183
+01:29:14,177 --> 01:29:16,873
+we repair the barricades
+at these two intersections...
+
+1184
+01:29:16,913 --> 01:29:18,073
+HICKS: Right.
+
+1185
+01:29:18,114 --> 01:29:21,880
+...and weld plate steel over
+these ducts here and here...
+
+1186
+01:29:21,918 --> 01:29:23,681
+and here.
+
+1187
+01:29:23,719 --> 01:29:27,314
+Then they can only come at us
+from these two corridors.
+
+1188
+01:29:27,356 --> 01:29:31,417
+HICKS: Right. Then we put
+the other sentry units here...
+
+1189
+01:29:31,461 --> 01:29:33,156
+and here, right?
+
+1190
+01:29:33,196 --> 01:29:34,823
+- Right.
+- Outstanding.
+
+1191
+01:29:34,864 --> 01:29:37,765
+Now all we need
+is a deck of cards.
+
+1192
+01:29:39,869 --> 01:29:42,201
+Let's move
+like we've got a purpose.
+
+1193
+01:29:42,238 --> 01:29:43,705
+HUDSON: Affirmative.
+
+1194
+01:29:43,739 --> 01:29:45,229
+NEWT: Affirmative.
+
+1195
+01:30:00,256 --> 01:30:02,087
+HUDSON: Do your thing, baby.
+
+1196
+01:30:02,125 --> 01:30:04,685
+Come on, Vasquez,
+let's get out of here.
+
+1197
+01:30:04,727 --> 01:30:07,093
+"A" and "B" sentries
+are in place and keyed.
+
+1198
+01:30:07,130 --> 01:30:10,327
+HICKS: Roger.
+Stand by. Arming now.
+
+1199
+01:30:10,366 --> 01:30:11,890
+Test it, Hudson.
+
+1200
+01:30:11,934 --> 01:30:14,334
+- Do it.
+- Fire in the hole!
+
+1201
+01:30:17,907 --> 01:30:20,603
+HUDSON: Great.
+Let's get the hell out of here.
+
+1202
+01:30:20,643 --> 01:30:22,440
+We're sealing the tunnel.
+
+1203
+01:30:22,478 --> 01:30:23,877
+Come on, baby.
+
+1204
+01:30:35,858 --> 01:30:37,519
+HICKS: For what it's worth.
+
+1205
+01:30:39,862 --> 01:30:42,228
+I want you to put this on.
+
+1206
+01:30:43,366 --> 01:30:44,594
+RIPLEY: What's it for?
+
+1207
+01:30:44,634 --> 01:30:45,828
+It's a locator.
+
+1208
+01:30:45,868 --> 01:30:49,463
+Then I can find you anywhere
+in the complex on this.
+
+1209
+01:30:50,873 --> 01:30:52,864
+It's just a precaution.
+
+1210
+01:30:53,876 --> 01:30:55,343
+Thanks.
+
+1211
+01:30:55,378 --> 01:30:58,347
+Doesn't mean we're engaged
+or anything.
+
+1212
+01:30:58,381 --> 01:31:00,313
+All right, what's next?
+
+1213
+01:31:29,609 --> 01:31:31,099
+RIPLEY: Last stop.
+
+1214
+01:31:35,615 --> 01:31:37,082
+Get in.
+
+1215
+01:31:37,116 --> 01:31:39,107
+Scoot down.
+
+1216
+01:31:40,620 --> 01:31:42,087
+That's good.
+
+1217
+01:31:42,121 --> 01:31:44,681
+Now lie here and have a nap.
+
+1218
+01:31:44,724 --> 01:31:46,191
+You're very tired.
+
+1219
+01:31:46,225 --> 01:31:49,592
+I don't want to.
+I have scary dreams.
+
+1220
+01:31:51,831 --> 01:31:55,198
+Well, I bet Casey
+doesn't have scary dreams.
+
+1221
+01:31:55,234 --> 01:31:57,202
+Let's take a look.
+
+1222
+01:31:57,236 --> 01:31:59,568
+Nope. Nothing bad in there.
+
+1223
+01:31:59,605 --> 01:32:00,867
+See?
+
+1224
+01:32:00,907 --> 01:32:03,307
+Maybe you could just
+try to be like her.
+
+1225
+01:32:03,342 --> 01:32:06,709
+Ripley, she doesn't
+have bad dreams...
+
+1226
+01:32:06,746 --> 01:32:09,681
+because she's just
+a piece of plastic.
+
+1227
+01:32:09,715 --> 01:32:11,410
+Right.
+
+1228
+01:32:11,450 --> 01:32:13,441
+I'm sorry, Newt.
+
+1229
+01:32:19,926 --> 01:32:21,587
+RIPLEY: There.
+
+1230
+01:32:21,627 --> 01:32:25,154
+My mommy always said
+there were no monsters...
+
+1231
+01:32:25,198 --> 01:32:28,565
+no real ones, but there are.
+
+1232
+01:32:28,601 --> 01:32:31,832
+Yes, there are, aren't there?
+
+1233
+01:32:33,706 --> 01:32:36,300
+Why do they tell
+little kids that?
+
+1234
+01:32:38,377 --> 01:32:40,072
+Most of the time it's true.
+
+1235
+01:32:40,112 --> 01:32:43,604
+Did one of those things
+grow inside her?
+
+1236
+01:32:44,617 --> 01:32:46,346
+I don't know, Newt.
+
+1237
+01:32:46,385 --> 01:32:48,546
+That's the truth.
+
+1238
+01:32:48,588 --> 01:32:51,022
+Isn't that how babies come...
+
+1239
+01:32:51,057 --> 01:32:53,252
+I mean, people babies?
+
+1240
+01:32:53,292 --> 01:32:54,850
+They grow inside you.
+
+1241
+01:32:54,894 --> 01:32:56,862
+No. That's very different.
+
+1242
+01:32:56,896 --> 01:32:58,864
+NEWT: Did you ever have a baby?
+
+1243
+01:32:58,898 --> 01:33:00,365
+Yes, I did.
+
+1244
+01:33:00,399 --> 01:33:02,333
+I had a little girl.
+
+1245
+01:33:02,368 --> 01:33:04,336
+Where is she?
+
+1246
+01:33:05,404 --> 01:33:06,928
+She's gone.
+
+1247
+01:33:08,574 --> 01:33:10,667
+You mean dead.
+
+1248
+01:33:12,144 --> 01:33:13,634
+Here.
+
+1249
+01:33:15,147 --> 01:33:16,637
+Take this.
+
+1250
+01:33:17,950 --> 01:33:19,645
+For luck.
+
+1251
+01:33:22,922 --> 01:33:24,412
+How's that?
+
+1252
+01:33:27,593 --> 01:33:29,083
+Don't go, please.
+
+1253
+01:33:29,128 --> 01:33:31,494
+Newt, I'm gonna be
+right in the next room.
+
+1254
+01:33:33,099 --> 01:33:34,862
+And you see that camera?
+
+1255
+01:33:34,900 --> 01:33:37,733
+I can see you
+through that camera...
+
+1256
+01:33:37,770 --> 01:33:40,034
+to see if you're safe.
+
+1257
+01:33:44,477 --> 01:33:47,173
+I'm not gonna leave you, Newt.
+
+1258
+01:33:47,213 --> 01:33:49,511
+I mean that.
+
+1259
+01:33:49,548 --> 01:33:51,209
+That's a promise.
+
+1260
+01:33:51,250 --> 01:33:52,808
+You promise?
+
+1261
+01:33:54,220 --> 01:33:56,313
+I cross my heart.
+
+1262
+01:33:56,355 --> 01:33:58,118
+And hope to die?
+
+1263
+01:33:59,225 --> 01:34:00,692
+And hope to die.
+
+1264
+01:34:14,974 --> 01:34:16,965
+Now go to sleep...
+
+1265
+01:34:17,009 --> 01:34:20,069
+and don't dream.
+
+1266
+01:34:23,983 --> 01:34:25,348
+Sneak.
+
+1267
+01:34:34,860 --> 01:34:36,828
+BISHOP:
+The molecular acid oxidizes...
+
+1268
+01:34:36,862 --> 01:34:39,057
+after the creature's death,
+completely neutralizing it.
+
+1269
+01:34:39,098 --> 01:34:42,829
+Bishop, that's interesting,
+but it gets us nowhere.
+
+1270
+01:34:42,868 --> 01:34:45,336
+I'm trying to figure out
+what we're dealing with.
+
+1271
+01:34:45,371 --> 01:34:46,838
+Let's go through it again.
+
+1272
+01:34:46,872 --> 01:34:49,841
+They grab the colonists,
+they move them over there...
+
+1273
+01:34:49,875 --> 01:34:53,834
+and they immobilize them
+to be hosts for more of these.
+
+1274
+01:34:53,879 --> 01:34:57,508
+Which means there would have
+to be a lot of these parasites.
+
+1275
+01:34:57,550 --> 01:35:00,383
+One for each colonist.
+That's over a hundred, at least.
+
+1276
+01:35:00,419 --> 01:35:02,387
+Yes. That follows.
+
+1277
+01:35:02,421 --> 01:35:06,221
+Each one of these things
+comes from an egg, right?
+
+1278
+01:35:09,228 --> 01:35:10,991
+So who's laying these eggs?
+
+1279
+01:35:12,098 --> 01:35:13,463
+I'm not sure.
+
+1280
+01:35:13,499 --> 01:35:16,195
+It must be something
+we haven't seen yet.
+
+1281
+01:35:16,235 --> 01:35:18,533
+Hey, maybe
+it's like an ant hive.
+
+1282
+01:35:18,571 --> 01:35:21,870
+- Bees have hives.
+- You know what I mean.
+
+1283
+01:35:21,907 --> 01:35:24,876
+There's, like, one female
+that runs the whole show.
+
+1284
+01:35:24,910 --> 01:35:26,810
+BISHOP: Yes. The queen.
+
+1285
+01:35:26,846 --> 01:35:28,336
+HUDSON: Yeah. The mama.
+
+1286
+01:35:28,381 --> 01:35:30,815
+And she's badass, man.
+I mean big.
+
+1287
+01:35:30,850 --> 01:35:33,410
+- These things ain't ants.
+- I know that.
+
+1288
+01:35:34,687 --> 01:35:37,315
+Bishop, I want
+these specimens destroyed...
+
+1289
+01:35:37,356 --> 01:35:39,256
+as soon as
+you're finished with them.
+
+1290
+01:35:39,291 --> 01:35:41,418
+Mr. Burke gave instructions...
+
+1291
+01:35:41,460 --> 01:35:45,089
+they were to be kept alive
+for return to the Company labs.
+
+1292
+01:35:47,266 --> 01:35:50,531
+He was very specific about it.
+
+1293
+01:35:50,569 --> 01:35:52,833
+Those two specimens
+are worth millions...
+
+1294
+01:35:52,872 --> 01:35:54,840
+to the bio-weapons division.
+
+1295
+01:35:54,874 --> 01:35:58,435
+If you're smart, we can both
+come out of this heroes...
+
+1296
+01:35:58,477 --> 01:36:01,378
+and we will be set up for life.
+
+1297
+01:36:02,548 --> 01:36:04,448
+You're crazy, Burke.
+Do you know that?
+
+1298
+01:36:04,483 --> 01:36:07,179
+Do you think you can get
+a dangerous organism...
+
+1299
+01:36:07,219 --> 01:36:08,880
+past ICC quarantine?
+
+1300
+01:36:08,921 --> 01:36:12,357
+How can they impound it
+if they don't know about it?
+
+1301
+01:36:12,391 --> 01:36:15,417
+But they will know
+about it, Burke. From me.
+
+1302
+01:36:15,461 --> 01:36:17,395
+Just like they'll know
+you were responsible...
+
+1303
+01:36:17,430 --> 01:36:19,694
+for the deaths of one hundred
+fifty-seven colonists.
+
+1304
+01:36:19,732 --> 01:36:20,858
+BURKE: Wait a second!
+
+1305
+01:36:20,900 --> 01:36:22,868
+- You sent them to that ship.
+- You're wrong.
+
+1306
+01:36:22,902 --> 01:36:24,733
+I just checked
+the colony log...
+
+1307
+01:36:24,770 --> 01:36:28,297
+directive dated 6-12-79,
+signed Burke, Carter J.
+
+1308
+01:36:28,340 --> 01:36:31,332
+You sent them out there
+and didn't even warn them.
+
+1309
+01:36:31,377 --> 01:36:34,346
+Why didn't you warn them, Burke?
+
+1310
+01:36:34,380 --> 01:36:36,041
+What if that ship
+didn't even exist?
+
+1311
+01:36:36,081 --> 01:36:37,605
+Did you think about that?
+I didn't know.
+
+1312
+01:36:37,650 --> 01:36:40,642
+So if I made a major
+security situation out of it...
+
+1313
+01:36:40,686 --> 01:36:42,313
+everybody steps in...
+
+1314
+01:36:42,354 --> 01:36:44,322
+and there's no
+exclusive rights for anybody.
+
+1315
+01:36:44,356 --> 01:36:48,315
+Nobody wins. I made a decision,
+and it was wrong.
+
+1316
+01:36:48,360 --> 01:36:51,124
+It was a bad call, Ripley.
+
+1317
+01:36:51,163 --> 01:36:54,360
+RIPLEY: Bad call?
+These people are dead, Burke!
+
+1318
+01:36:54,400 --> 01:36:56,834
+Haven't you any idea
+what you've done?
+
+1319
+01:36:56,869 --> 01:36:59,667
+I'm gonna make sure
+they nail you right to the wall.
+
+1320
+01:36:59,705 --> 01:37:02,265
+You're not gonna sleaze your way
+out of this one.
+
+1321
+01:37:02,308 --> 01:37:03,866
+Right to the wall.
+
+1322
+01:37:05,878 --> 01:37:07,106
+Ripley.
+
+1323
+01:37:08,147 --> 01:37:11,446
+You know,
+I expected more from you.
+
+1324
+01:37:11,484 --> 01:37:14,385
+I thought
+you'd be smarter than this.
+
+1325
+01:37:14,420 --> 01:37:17,651
+I'm happy to disappoint you.
+
+1326
+01:37:24,396 --> 01:37:26,330
+[Alarm from robot sentries]
+
+1327
+01:37:31,337 --> 01:37:32,361
+HUDSON: What's going on?
+
+1328
+01:37:32,404 --> 01:37:33,632
+HICKS: They're coming.
+
+1329
+01:37:33,672 --> 01:37:36,368
+- Where?
+- In the tunnel.
+
+1330
+01:37:37,877 --> 01:37:39,139
+Here we go.
+
+1331
+01:37:39,178 --> 01:37:41,806
+"A" and "B" gun
+tracking and firing.
+
+1332
+01:37:41,847 --> 01:37:43,337
+Multiple targets.
+
+1333
+01:37:46,485 --> 01:37:49,113
+[Aliens screeching
+over sentry transmitter]
+
+1334
+01:37:49,154 --> 01:37:51,054
+Look at those ammo counters go.
+
+1335
+01:37:53,692 --> 01:37:55,785
+"B" gun's down 50 percent.
+
+1336
+01:37:56,996 --> 01:37:59,260
+Man, it's a shooting gallery
+down there.
+
+1337
+01:38:03,141 --> 01:38:04,938
+HICKS: Sixty rounds left on "B."
+
+1338
+01:38:04,977 --> 01:38:08,208
+Forty... twenty... ten.
+
+1339
+01:38:08,246 --> 01:38:10,476
+"B" gun's dry. Twenty on "A."
+
+1340
+01:38:11,717 --> 01:38:13,981
+Ten... five...
+
+1341
+01:38:17,823 --> 01:38:19,290
+That's it.
+
+1342
+01:38:19,324 --> 01:38:22,657
+HUDSON: Jesus.
+They're wall-to-wall in there.
+
+1343
+01:38:24,896 --> 01:38:26,761
+[Loud thumping noises]
+
+1344
+01:38:26,798 --> 01:38:28,766
+They're at the pressure door.
+
+1345
+01:38:30,268 --> 01:38:32,361
+Man, listen to that.
+
+1346
+01:38:32,404 --> 01:38:36,135
+BISHOP: Bishop here.
+I'm afraid I have some bad news.
+
+1347
+01:38:36,174 --> 01:38:38,005
+Well, that's a switch.
+
+1348
+01:38:40,212 --> 01:38:43,181
+RIPLEY: lt's very pretty,
+but what are we looking for?
+
+1349
+01:38:43,215 --> 01:38:46,742
+BISHOP: That's it.
+Emergency venting.
+
+1350
+01:38:46,785 --> 01:38:51,245
+HUDSON: That's beautiful, man.
+That beats it all.
+
+1351
+01:38:51,289 --> 01:38:53,757
+HICKS: How long till it blows?
+
+1352
+01:38:53,792 --> 01:38:55,259
+BISHOP: Four hours...
+
+1353
+01:38:55,293 --> 01:38:57,761
+with a blast radius
+of thirty kilometers...
+
+1354
+01:38:57,796 --> 01:39:00,959
+equal to about forty megatons.
+
+1355
+01:39:00,999 --> 01:39:02,296
+HICKS: We got problems.
+
+1356
+01:39:02,334 --> 01:39:04,825
+HUDSON: I don't fucking
+believe this!
+
+1357
+01:39:04,870 --> 01:39:07,100
+HICKS: Vasquez,
+close the shutters.
+
+1358
+01:39:07,139 --> 01:39:09,767
+RIPLEY: Why can't we
+shut it down from here?
+
+1359
+01:39:09,808 --> 01:39:11,799
+BISHOP: The crash
+caused too much damage.
+
+1360
+01:39:11,843 --> 01:39:14,311
+An overload was inevitable
+at this point.
+
+1361
+01:39:14,346 --> 01:39:17,406
+HUDSON:
+Oh, man, I was getting short.
+
+1362
+01:39:17,449 --> 01:39:19,314
+Four more weeks and out.
+
+1363
+01:39:19,351 --> 01:39:21,251
+Now I'm going to buy it
+on this rock.
+
+1364
+01:39:21,286 --> 01:39:22,913
+VASQUEZ: Give us a break!
+
+1365
+01:39:22,954 --> 01:39:25,422
+HUDSON: Four more weeks.
+Oh, man.
+
+1366
+01:39:25,457 --> 01:39:28,358
+RIPLEY: We need the other
+drop-ship from the Sulaco.
+
+1367
+01:39:28,393 --> 01:39:31,920
+Can't we bring it down
+on remote?
+
+1368
+01:39:31,963 --> 01:39:35,558
+The transmitter was on the APC.
+It's wasted.
+
+1369
+01:39:35,600 --> 01:39:38,899
+I don't care how.
+We better think of a way.
+
+1370
+01:39:38,937 --> 01:39:41,804
+HUDSON: Think of what?
+We're fucked! We're doomed!
+
+1371
+01:39:41,840 --> 01:39:44,673
+Shut up! What about
+the colony transmitters?
+
+1372
+01:39:44,709 --> 01:39:46,574
+The uplink tower
+at the other end?
+
+1373
+01:39:46,611 --> 01:39:50,672
+The hard-wiring between here
+and there was damaged.
+
+1374
+01:39:50,715 --> 01:39:52,615
+We can't align the dish.
+
+1375
+01:39:52,651 --> 01:39:55,051
+Somebody's gonna
+have to go out there...
+
+1376
+01:39:55,087 --> 01:39:58,113
+take a portable terminal
+and patch in manually.
+
+1377
+01:39:58,156 --> 01:40:00,886
+Yeah, sure. With those things
+running around?
+
+1378
+01:40:00,926 --> 01:40:03,292
+You can count me out.
+
+1379
+01:40:03,328 --> 01:40:05,057
+HICKS: We can count you
+out of everything.
+
+1380
+01:40:05,097 --> 01:40:06,257
+BISHOP: l'll go.
+
+1381
+01:40:06,298 --> 01:40:07,856
+HUDSON: You go, man.
+
+1382
+01:40:07,899 --> 01:40:09,196
+RIPLEY: What?
+
+1383
+01:40:09,234 --> 01:40:10,428
+l'll go.
+
+1384
+01:40:10,469 --> 01:40:13,632
+I'm the only one qualified
+to remote-pilot the ship.
+
+1385
+01:40:13,672 --> 01:40:16,835
+HUDSON: Yeah, right, man.
+Bishop should go.
+
+1386
+01:40:16,875 --> 01:40:18,103
+Good idea.
+
+1387
+01:40:18,143 --> 01:40:20,338
+BISHOP: Believe me,
+I'd prefer not to.
+
+1388
+01:40:20,378 --> 01:40:24,405
+I may be synthetic,
+but I'm not stupid.
+
+1389
+01:40:35,227 --> 01:40:37,024
+RIPLEY: How long?
+
+1390
+01:40:37,062 --> 01:40:39,155
+BISHOP: This conduit runs
+almost to the uplink assembly...
+
+1391
+01:40:39,197 --> 01:40:40,596
+one hundred eighty meters.
+
+1392
+01:40:40,632 --> 01:40:43,795
+Say forty minutes
+crawling there...
+
+1393
+01:40:43,835 --> 01:40:47,202
+an hour to patch in
+and align the antenna...
+
+1394
+01:40:48,840 --> 01:40:50,501
+thirty minutes
+to prep the ship...
+
+1395
+01:40:50,542 --> 01:40:53,010
+and about fifty minutes
+flight time.
+
+1396
+01:40:53,044 --> 01:40:55,535
+RIPLEY: lt's gonna be close.
+
+1397
+01:40:58,049 --> 01:41:00,142
+RIPLEY: Good luck.
+
+1398
+01:41:00,185 --> 01:41:01,516
+BISHOP: See you soon.
+
+1399
+01:41:02,921 --> 01:41:04,752
+Watch your fingers.
+
+1400
+01:41:04,789 --> 01:41:06,416
+Oh.
+
+1401
+01:41:08,927 --> 01:41:11,088
+VASQUEZ: Vaya con Dios, man.
+
+1402
+01:41:23,041 --> 01:41:24,975
+HICKS: This is unbelievable.
+
+1403
+01:41:25,010 --> 01:41:28,309
+Twenty meters and closing.
+Fifteen.
+
+1404
+01:41:28,346 --> 01:41:29,745
+RIPLEY: How many?
+
+1405
+01:41:29,781 --> 01:41:32,443
+HICKS: Can't tell. Lots.
+
+1406
+01:41:34,019 --> 01:41:35,919
+"D" gun's down 50 percent.
+
+1407
+01:41:39,257 --> 01:41:40,884
+"C" gun's right behind it.
+
+1408
+01:41:44,329 --> 01:41:45,387
+HUDSON: lt ain't stopping 'em.
+
+1409
+01:41:45,430 --> 01:41:47,557
+Jesus, it ain't stopping 'em.
+
+1410
+01:41:47,599 --> 01:41:49,931
+HICKS: A hundred and fifty
+rounds on "D."
+
+1411
+01:41:49,968 --> 01:41:52,027
+HUDSON: Come on, baby. Come on.
+
+1412
+01:41:52,070 --> 01:41:53,503
+HICKS: One hundred rounds.
+
+1413
+01:41:55,974 --> 01:41:57,771
+HUDSON: Come on, come on.
+
+1414
+01:41:57,809 --> 01:41:59,071
+[Beeping]
+
+1415
+01:42:02,347 --> 01:42:04,281
+"D" gun's down to twenty.
+
+1416
+01:42:05,483 --> 01:42:06,848
+Ten.
+
+1417
+01:42:09,154 --> 01:42:10,644
+Damn it!
+
+1418
+01:42:12,190 --> 01:42:15,216
+Wait! They're retreating.
+
+1419
+01:42:19,497 --> 01:42:21,658
+RIPLEY: The guns stopped them.
+
+1420
+01:42:25,337 --> 01:42:27,032
+You're right.
+
+1421
+01:42:34,379 --> 01:42:36,347
+HICKS: Next time
+they walk right up and knock.
+
+1422
+01:42:36,381 --> 01:42:38,713
+Yeah, but they don't know that.
+
+1423
+01:42:38,750 --> 01:42:41,742
+They're probably looking
+for other ways to get in.
+
+1424
+01:42:42,754 --> 01:42:44,187
+That'll take 'em a while.
+
+1425
+01:42:44,222 --> 01:42:46,747
+- Maybe we got 'em demoralized.
+- Shut up.
+
+1426
+01:42:47,993 --> 01:42:50,553
+I want you two
+walking perimeter.
+
+1427
+01:42:52,130 --> 01:42:53,256
+Move!
+
+1428
+01:43:00,772 --> 01:43:01,932
+HICKS: Hey, listen.
+
+1429
+01:43:03,208 --> 01:43:05,540
+We're all in strung-out shape...
+
+1430
+01:43:05,577 --> 01:43:09,604
+but stay frosty and alert.
+
+1431
+01:43:10,915 --> 01:43:13,850
+We can't afford to let
+one of those bastards in here.
+
+1432
+01:43:13,885 --> 01:43:17,321
+All right. Vámonos.
+
+1433
+01:43:25,397 --> 01:43:28,958
+How long's it been
+since you got any sleep?
+
+1434
+01:43:29,000 --> 01:43:30,900
+Twenty-four hours?
+
+1435
+01:43:32,871 --> 01:43:36,068
+Hicks, I'm not gonna end up
+like those others.
+
+1436
+01:43:36,107 --> 01:43:38,974
+You'll take care of it,
+won't you?
+
+1437
+01:43:40,612 --> 01:43:45,072
+If it comes to that,
+l'll do us both.
+
+1438
+01:43:46,851 --> 01:43:51,311
+Let's just make sure it doesn't
+come to that, all right?
+
+1439
+01:43:51,356 --> 01:43:53,256
+All right.
+
+1440
+01:43:53,291 --> 01:43:58,593
+Hey, I want to introduce you
+to a personal friend of mine.
+
+1441
+01:43:58,630 --> 01:44:01,929
+This is an M-41A pulse-rifle,
+ten millimeter...
+
+1442
+01:44:01,966 --> 01:44:06,426
+with an over-and-under
+30 millimeter grenade launcher.
+
+1443
+01:44:06,471 --> 01:44:08,530
+Feel the weight.
+
+1444
+01:44:15,313 --> 01:44:17,781
+OK, what do I do?
+
+1445
+01:44:23,121 --> 01:44:25,589
+HICKS: Pull it in tight here.
+
+1446
+01:44:25,623 --> 01:44:28,285
+- Right.
+- Lean into it.
+
+1447
+01:44:28,326 --> 01:44:30,123
+HICKS:
+All right, it will kick some.
+
+1448
+01:44:31,863 --> 01:44:35,094
+When the counter
+reads zero here, you...
+
+1449
+01:44:35,133 --> 01:44:36,725
+- I press this up?
+- That's right.
+
+1450
+01:44:39,070 --> 01:44:42,198
+Get another one in quick.
+Slap it in hard.
+
+1451
+01:44:42,240 --> 01:44:45,004
+Now you're ready
+to rock 'n' roll.
+
+1452
+01:44:45,543 --> 01:44:48,478
+- What's this?
+- The grenade launcher.
+
+1453
+01:44:48,513 --> 01:44:51,175
+I don't think you want
+to mess with that.
+
+1454
+01:44:51,216 --> 01:44:55,016
+You started this.
+Show me everything.
+
+1455
+01:44:55,053 --> 01:44:57,044
+I can handle myself.
+
+1456
+01:44:58,723 --> 01:45:00,789
+Yeah, I noticed.
+
+1457
+01:45:10,565 --> 01:45:12,533
+RIPLEY: How do you feel?
+
+1458
+01:45:12,567 --> 01:45:17,027
+GORMAN: All right, I guess.
+One hell of a hangover.
+
+1459
+01:45:17,072 --> 01:45:19,370
+Look, Ripley, I just want...
+
+1460
+01:45:19,407 --> 01:45:22,399
+RIPLEY: Forget it. Excuse me.
+
+1461
+01:46:14,062 --> 01:46:16,860
+[Newt moaning]
+
+1462
+01:46:16,898 --> 01:46:19,025
+RIPLEY: Shh, shh, shh.
+
+1463
+01:46:19,067 --> 01:46:22,400
+It's OK. It's OK.
+
+1464
+01:47:32,272 --> 01:47:35,241
+[Whispering]
+Newt. Wake up.
+
+1465
+01:47:35,275 --> 01:47:37,743
+- What?
+- Be quiet.
+
+1466
+01:47:37,778 --> 01:47:39,769
+We're in trouble.
+
+1467
+01:47:57,664 --> 01:48:00,258
+- No!
+- Aah!
+
+1468
+01:48:00,300 --> 01:48:01,631
+Move, Newt!
+
+1469
+01:48:23,523 --> 01:48:24,683
+RIPLEY: Hey!
+
+1470
+01:48:24,725 --> 01:48:26,454
+[No sound]
+
+1471
+01:48:33,633 --> 01:48:35,828
+NEWT: Help!
+
+1472
+01:48:35,869 --> 01:48:38,337
+Help!
+
+1473
+01:48:38,371 --> 01:48:40,066
+RIPLEY: Hicks!
+
+1474
+01:48:40,107 --> 01:48:41,665
+HICKS: Say again, Bishop?
+
+1475
+01:48:41,708 --> 01:48:44,006
+You've got it
+into auto-refuel mode...
+
+1476
+01:48:44,044 --> 01:48:45,341
+and it's sequencing right?
+
+1477
+01:48:45,378 --> 01:48:46,504
+BISHOP: That's right.
+
+1478
+01:48:46,546 --> 01:48:48,605
+HICKS: Good. Stay on it.
+
+1479
+01:48:48,648 --> 01:48:53,608
+Get back to me when you've
+activated the launch cycle.
+
+1480
+01:48:53,653 --> 01:48:55,621
+He's at the uplink tower.
+
+1481
+01:48:55,655 --> 01:48:57,145
+BURKE: Terrific.
+
+1482
+01:48:59,993 --> 01:49:03,952
+- Hicks! Hicks!
+- Help! Help!
+
+1483
+01:49:03,997 --> 01:49:05,624
+Hicks! Help us!
+
+1484
+01:49:05,665 --> 01:49:07,326
+Break the glass!
+
+1485
+01:49:07,367 --> 01:49:09,392
+Break it, break it.
+
+1486
+01:49:09,436 --> 01:49:11,427
+RIPLEY: l'll try.
+
+1487
+01:49:31,625 --> 01:49:34,651
+Ripley, I'm scared.
+
+1488
+01:49:34,694 --> 01:49:36,685
+Me, too.
+
+1489
+01:49:42,269 --> 01:49:43,759
+Stay here.
+
+1490
+01:49:52,946 --> 01:49:55,881
+[Alarm sounds]
+
+1491
+01:49:55,916 --> 01:49:59,044
+HICKS: lt's the med lab.
+Hudson!
+
+1492
+01:49:59,085 --> 01:50:02,543
+Vasquez! Meet me in med lab.
+We got a fire.
+
+1493
+01:50:02,589 --> 01:50:04,250
+HUDSON: We're on our way.
+
+1494
+01:50:07,360 --> 01:50:10,557
+They're coming, Newt.
+Oh, please.
+
+1495
+01:50:15,769 --> 01:50:16,895
+Aah!
+
+1496
+01:50:16,937 --> 01:50:18,370
+Uh!
+
+1497
+01:50:24,511 --> 01:50:25,739
+Aah!
+
+1498
+01:50:32,953 --> 01:50:35,444
+Aah!
+
+1499
+01:50:35,488 --> 01:50:36,750
+Aah!
+
+1500
+01:50:41,928 --> 01:50:43,555
+Shoot it out!
+
+1501
+01:50:48,034 --> 01:50:49,934
+- Hudson!
+- Jesus!
+
+1502
+01:50:51,872 --> 01:50:53,464
+Oh!
+
+1503
+01:50:53,506 --> 01:50:55,167
+Christ, kid, look out!
+
+1504
+01:51:03,350 --> 01:51:04,783
+Fucking die!
+
+1505
+01:51:15,862 --> 01:51:17,830
+- Over there!
+- Yeah!
+
+1506
+01:51:17,864 --> 01:51:19,855
+- Ready?
+- Yeah!
+
+1507
+01:51:24,371 --> 01:51:25,429
+HICKS: Hudson!
+
+1508
+01:51:25,472 --> 01:51:28,032
+HUDSON: Yeah, all clear.
+Nailed the other one.
+
+1509
+01:51:28,074 --> 01:51:29,666
+It's history, man.
+
+1510
+01:51:30,877 --> 01:51:31,969
+HICKS: Jesus.
+
+1511
+01:51:33,546 --> 01:51:37,107
+RIPLEY: Burke. It was Burke.
+
+1512
+01:51:38,685 --> 01:51:43,019
+I say we grease this rat-fuck
+son of a bitch right now.
+
+1513
+01:51:43,056 --> 01:51:45,752
+HICKS: lt just doesn't make
+any goddamn sense.
+
+1514
+01:51:47,861 --> 01:51:50,853
+RIPLEY: He figured
+that he could get an alien...
+
+1515
+01:51:50,897 --> 01:51:55,994
+back through quarantine
+if one of us was impregnated...
+
+1516
+01:51:56,036 --> 01:51:59,301
+whatever you call it...
+
+1517
+01:51:59,339 --> 01:52:02,172
+and then frozen
+for the trip home.
+
+1518
+01:52:02,208 --> 01:52:06,872
+Nobody would know about
+the embryos we were carrying...
+
+1519
+01:52:06,913 --> 01:52:08,380
+me and Newt.
+
+1520
+01:52:10,250 --> 01:52:12,241
+Wait, now. We'd all know.
+
+1521
+01:52:12,285 --> 01:52:16,153
+Yes. He could only do it by
+sabotaging certain freezers...
+
+1522
+01:52:16,189 --> 01:52:19,386
+on the way home, namely yours.
+
+1523
+01:52:20,360 --> 01:52:24,956
+He could jettison the bodies
+and make up any story he liked.
+
+1524
+01:52:24,998 --> 01:52:27,626
+HUDSON: Fuck! He's dead.
+
+1525
+01:52:27,667 --> 01:52:29,897
+You're dog meat, pal.
+
+1526
+01:52:31,271 --> 01:52:35,970
+This is so nuts.
+Listen to what you're saying.
+
+1527
+01:52:36,009 --> 01:52:39,877
+It's paranoid delusion.
+It's really sad.
+
+1528
+01:52:41,581 --> 01:52:43,310
+It's pathetic.
+
+1529
+01:52:43,350 --> 01:52:46,513
+Burke, I don't know
+which species is worse.
+
+1530
+01:52:46,553 --> 01:52:50,580
+They don't fuck each other over
+for a goddamn percentage.
+
+1531
+01:52:50,623 --> 01:52:53,649
+HICKS: All right, we waste him.
+No offense.
+
+1532
+01:52:53,693 --> 01:52:55,820
+RIPLEY:
+No, he's got to go back...
+
+1533
+01:52:57,230 --> 01:52:58,697
+They cut the power.
+
+1534
+01:52:58,732 --> 01:53:01,997
+HUDSON: What do you mean "they"
+cut the power? They're animals.
+
+1535
+01:53:02,035 --> 01:53:04,526
+I want you two with trackers
+checking the corridors! Move!
+
+1536
+01:53:04,571 --> 01:53:06,698
+- Gorman, watch Burke.
+- I got him.
+
+1537
+01:53:06,740 --> 01:53:08,970
+Newt, stay close.
+
+1538
+01:53:11,911 --> 01:53:14,744
+- L'll go this side.
+- You do that, man.
+
+1539
+01:53:39,339 --> 01:53:40,499
+Anything?
+
+1540
+01:53:40,540 --> 01:53:42,201
+HUDSON: There's something.
+
+1541
+01:53:42,242 --> 01:53:45,473
+- [Beeping]
+- It's inside the complex.
+
+1542
+01:53:45,512 --> 01:53:47,377
+You're just reading me.
+
+1543
+01:53:47,414 --> 01:53:50,440
+- [Beeping]
+- No, it ain't you.
+
+1544
+01:53:52,252 --> 01:53:55,551
+They're inside the perimeter.
+They're in here.
+
+1545
+01:53:55,588 --> 01:53:58,751
+RIPLEY: Hudson, stay cool.
+Vasquez?
+
+1546
+01:54:03,663 --> 01:54:06,154
+[Beeps louder]
+
+1547
+01:54:06,199 --> 01:54:08,190
+Hudson may be right.
+
+1548
+01:54:08,234 --> 01:54:10,065
+RIPLEY: Get back.
+
+1549
+01:54:10,103 --> 01:54:11,400
+HUDSON: The signal's weird.
+
+1550
+01:54:11,438 --> 01:54:15,431
+Must be some interference
+or something.
+
+1551
+01:54:15,475 --> 01:54:17,443
+There's movement
+all over the place.
+
+1552
+01:54:17,477 --> 01:54:20,911
+Get back to Operations.
+It's game time.
+
+1553
+01:54:21,044 --> 01:54:22,136
+Newt.
+
+1554
+01:54:24,147 --> 01:54:27,605
+RIPLEY: Seal the door. Hurry!
+
+1555
+01:54:27,651 --> 01:54:31,087
+HICKS: Come on.
+Come on, get back.
+
+1556
+01:54:31,121 --> 01:54:32,611
+Work fast.
+
+1557
+01:54:36,660 --> 01:54:39,823
+Cover your eyes, Newt.
+Don't look at the light.
+
+1558
+01:54:39,863 --> 01:54:43,765
+Movement. Signal's clean.
+Range, twenty meters.
+
+1559
+01:54:43,800 --> 01:54:47,201
+RIPLEY: They found a way in,
+something we missed.
+
+1560
+01:54:47,237 --> 01:54:49,137
+HICKS: We didn't miss anything.
+
+1561
+01:54:49,172 --> 01:54:52,573
+HUDSON: Eighteen.
+Seventeen meters.
+
+1562
+01:54:52,609 --> 01:54:55,510
+RIPLEY: Something under
+the floor, not in the plans.
+
+1563
+01:54:55,545 --> 01:54:57,672
+- Fifteen meters.
+- Ripley!
+
+1564
+01:54:57,714 --> 01:54:59,739
+Definitely
+inside the barricades.
+
+1565
+01:54:59,783 --> 01:55:01,216
+Let's go.
+
+1566
+01:55:02,886 --> 01:55:05,354
+RIPLEY: That's right outside
+the door. Get back!
+
+1567
+01:55:05,388 --> 01:55:07,549
+HUDSON:
+This is a big fucking signal.
+
+1568
+01:55:07,591 --> 01:55:10,822
+- How you doing, Vasquez?
+- Almost there.
+
+1569
+01:55:12,429 --> 01:55:13,896
+That's it.
+
+1570
+01:55:14,898 --> 01:55:16,092
+HUDSON: Twelve meters.
+
+1571
+01:55:17,100 --> 01:55:20,228
+Eleven. Ten.
+
+1572
+01:55:20,270 --> 01:55:23,205
+- They're right on us.
+- Nine meters.
+
+1573
+01:55:23,240 --> 01:55:25,140
+Remember...
+short, controlled bursts.
+
+1574
+01:55:25,175 --> 01:55:26,540
+Eight meters.
+
+1575
+01:55:29,012 --> 01:55:30,172
+Seven.
+
+1576
+01:55:32,249 --> 01:55:33,443
+Six.
+
+1577
+01:55:33,483 --> 01:55:36,782
+- That's inside the room.
+- It's reading right!
+
+1578
+01:55:36,820 --> 01:55:38,378
+You're not reading it right.
+
+1579
+01:55:40,924 --> 01:55:45,657
+HUDSON: Five meters, man.
+Four. What the hell?
+
+1580
+01:55:48,165 --> 01:55:50,099
+HUDSON: Oh, my God.
+
+1581
+01:55:50,133 --> 01:55:51,794
+HICKS: Give me the light.
+
+1582
+01:56:06,583 --> 01:56:07,845
+Aah!
+
+1583
+01:56:09,586 --> 01:56:11,781
+There they go! Get them!
+
+1584
+01:56:14,391 --> 01:56:16,518
+- Come on!
+- Get them!
+
+1585
+01:56:17,627 --> 01:56:19,151
+BURKE: Do something, Gorman!
+
+1586
+01:56:21,064 --> 01:56:23,191
+HUDSON: Look out! Look out!
+Look out!
+
+1587
+01:56:23,233 --> 01:56:24,825
+There's more of them!
+
+1588
+01:56:24,868 --> 01:56:26,597
+Medical! Get to medical!
+
+1589
+01:56:26,636 --> 01:56:29,469
+Do it! Now!
+
+1590
+01:56:29,506 --> 01:56:30,939
+HICKS: Hudson, look out!
+
+1591
+01:56:33,210 --> 01:56:36,145
+Aah!
+
+1592
+01:56:36,179 --> 01:56:37,578
+Now!
+
+1593
+01:56:39,649 --> 01:56:41,446
+Burke!
+
+1594
+01:56:43,186 --> 01:56:47,623
+Open this door!
+Burke! Open it!
+
+1595
+01:56:47,657 --> 01:56:49,625
+Aah!
+
+1596
+01:56:49,659 --> 01:56:51,524
+Come on! Let's go!
+Fall back!
+
+1597
+01:56:54,064 --> 01:56:55,258
+HICKS: Go!
+
+1598
+01:56:55,298 --> 01:56:58,290
+HUDSON: Die, you bastards!
+Die, motherfucker!
+
+1599
+01:56:58,335 --> 01:56:59,734
+GORMAN: Burke!
+
+1600
+01:56:59,769 --> 01:57:01,999
+HICKS: Hudson!
+
+1601
+01:57:02,038 --> 01:57:03,403
+Hudson!
+
+1602
+01:57:03,440 --> 01:57:04,907
+HUDSON: Motherfucker!
+
+1603
+01:57:04,941 --> 01:57:08,308
+Come on! Come on!
+Come and get it, baby!
+
+1604
+01:57:08,345 --> 01:57:12,281
+I don't got all day!
+Come on, you bastard!
+
+1605
+01:57:12,315 --> 01:57:16,684
+Come on! You, too!
+You want some of this? Fuck you!
+
+1606
+01:57:16,720 --> 01:57:19,848
+Aah! Fuck you!
+
+1607
+01:57:19,890 --> 01:57:22,859
+- Hicks!
+- Hudson!
+
+1608
+01:57:22,893 --> 01:57:27,057
+[Hudson screaming]
+
+1609
+01:57:32,335 --> 01:57:34,166
+VASQUEZ: Come on, Hicks, go!
+
+1610
+01:57:35,171 --> 01:57:37,264
+RIPLEY: lt's locked!
+
+1611
+01:57:54,524 --> 01:57:57,084
+HICKS: Got it! Let's go!
+
+1612
+01:57:57,127 --> 01:57:58,287
+GORMAN: Go! Go!
+
+1613
+01:58:00,931 --> 01:58:03,422
+- Move, Gorman!
+- Seal it!
+
+1614
+01:58:04,834 --> 01:58:08,668
+RIPLEY: Burke! God damn you!
+Open this door!
+
+1615
+01:58:18,648 --> 01:58:19,774
+BURKE: Aah!
+
+1616
+01:58:19,816 --> 01:58:21,716
+HICKS: Get back.
+
+1617
+01:58:21,751 --> 01:58:22,877
+VASQUEZ: Hurry up.
+
+1618
+01:58:22,919 --> 01:58:24,079
+HICKS:
+Gorman, get out of the way!
+
+1619
+01:58:24,120 --> 01:58:26,213
+NEWT: Ripley, this way.
+
+1620
+01:58:27,557 --> 01:58:29,184
+RIPLEY: Wait. Get behind me.
+
+1621
+01:58:29,225 --> 01:58:31,659
+Whatever you do, do it fast.
+
+1622
+01:58:34,731 --> 01:58:37,461
+- Hicks!
+- Come on, let's go.
+
+1623
+01:58:39,135 --> 01:58:40,659
+GORMAN: Move!
+
+1624
+01:58:46,910 --> 01:58:50,311
+- Which way to the landing field?
+- This way.
+
+1625
+01:58:54,684 --> 01:58:56,675
+NEWT: Go right.
+
+1626
+01:59:00,557 --> 01:59:02,821
+NEWT: This way.
+
+1627
+01:59:11,401 --> 01:59:14,928
+- Which way?
+- Straight ahead and left.
+
+1628
+01:59:14,971 --> 01:59:18,498
+Bishop, do you read me?
+Come in. Over.
+
+1629
+01:59:18,541 --> 01:59:23,706
+BISHOP: The ship is on its way.
+ETA, sixteen minutes.
+
+1630
+01:59:23,747 --> 01:59:26,545
+Stand by there.
+We're on our way.
+
+1631
+01:59:37,394 --> 01:59:39,692
+- Which way now?
+- That way.
+
+1632
+01:59:39,729 --> 01:59:42,857
+- No, wait. This way.
+- You sure?
+
+1633
+01:59:44,501 --> 01:59:45,991
+GORMAN: Vasquez, move!
+
+1634
+01:59:48,905 --> 01:59:52,170
+- Right up here.
+- Hicks!
+
+1635
+01:59:52,208 --> 01:59:57,043
+- We're almost there.
+- Newt, wait!
+
+1636
+01:59:57,080 --> 01:59:58,377
+Newt!
+
+1637
+02:00:12,529 --> 02:00:13,860
+Yaaa!
+
+1638
+02:00:15,131 --> 02:00:16,359
+Aah!
+
+1639
+02:00:22,872 --> 02:00:24,271
+HICKS: Vasquez!
+
+1640
+02:00:25,708 --> 02:00:26,868
+GORMAN: Go!
+
+1641
+02:00:28,545 --> 02:00:31,412
+Ohh! Oh, no!
+
+1642
+02:00:42,725 --> 02:00:44,693
+RIPLEY: Newt.
+
+1643
+02:00:44,727 --> 02:00:47,662
+NEWT: Up there, there's
+a shortcut across the roof.
+
+1644
+02:00:49,699 --> 02:00:50,688
+Hicks.
+
+1645
+02:00:55,839 --> 02:00:57,170
+[Click click]
+
+1646
+02:01:00,076 --> 02:01:02,203
+You always were
+an asshole, Gorman.
+
+1647
+02:01:19,596 --> 02:01:21,826
+RIPLEY: Aah! Newt!
+
+1648
+02:01:21,865 --> 02:01:25,196
+- Ripley!
+- Newt!
+
+1649
+02:01:25,329 --> 02:01:29,356
+Hicks, get her! Hurry!
+
+1650
+02:01:31,802 --> 02:01:34,168
+Oh! Hold on, Newt!
+
+1651
+02:01:34,205 --> 02:01:36,469
+- I'm slipping!
+- Don't let go!
+
+1652
+02:01:36,507 --> 02:01:38,600
+- Ripley!
+- Hold on.
+
+1653
+02:01:38,642 --> 02:01:40,667
+- Help!
+- Got you.
+
+1654
+02:01:40,711 --> 02:01:42,736
+I got you.
+
+1655
+02:01:43,814 --> 02:01:46,339
+Aah!
+
+1656
+02:01:46,384 --> 02:01:49,080
+Newt! No!
+
+1657
+02:01:51,889 --> 02:01:55,381
+HICKS: Come on.
+We can find her with this.
+
+1658
+02:01:55,426 --> 02:01:56,984
+Stay where you are, Newt.
+
+1659
+02:01:57,028 --> 02:01:59,895
+- Ripley!
+- We're coming.
+
+1660
+02:02:11,475 --> 02:02:13,568
+Ripley!
+
+1661
+02:02:15,913 --> 02:02:17,210
+[Beeping]
+
+1662
+02:02:17,248 --> 02:02:18,510
+This way.
+
+1663
+02:02:20,751 --> 02:02:23,743
+- She's close.
+- Newt!
+
+1664
+02:02:26,757 --> 02:02:29,191
+Ripley!
+
+1665
+02:02:29,226 --> 02:02:31,592
+RIPLEY: Where are you?
+Can you hear me?
+
+1666
+02:02:32,863 --> 02:02:35,991
+- Newt!
+- Here! I'm here!
+
+1667
+02:02:36,033 --> 02:02:37,295
+RIPLEY: Where?
+
+1668
+02:02:41,338 --> 02:02:44,398
+Newt, are you OK?
+
+1669
+02:02:44,442 --> 02:02:46,808
+HICKS: Gonna have to cut it.
+
+1670
+02:02:46,844 --> 02:02:49,870
+RIPLEY: Climb down, honey.
+We've got to cut through.
+
+1671
+02:02:58,556 --> 02:03:02,515
+Newt? Now, don't move.
+Stay very still.
+
+1672
+02:03:02,560 --> 02:03:04,187
+NEWT: OK.
+
+1673
+02:03:05,429 --> 02:03:08,159
+We're almost there.
+Hang in there, OK?
+
+1674
+02:03:08,199 --> 02:03:10,292
+[Beeping]
+
+1675
+02:03:15,172 --> 02:03:17,106
+Hicks. Hurry.
+
+1676
+02:03:17,141 --> 02:03:18,665
+- I know.
+- I mean it!
+
+1677
+02:03:33,224 --> 02:03:35,784
+Newt, just stay still.
+
+1678
+02:03:39,230 --> 02:03:40,288
+Aah!
+
+1679
+02:03:40,331 --> 02:03:41,525
+HICKS: Almost there.
+
+1680
+02:03:41,565 --> 02:03:43,260
+RIPLEY: No!
+
+1681
+02:03:44,702 --> 02:03:45,862
+Newt!
+
+1682
+02:03:57,948 --> 02:04:00,280
+No! No!
+
+1683
+02:04:00,317 --> 02:04:04,413
+- Let's go.
+- No! They don't kill you!
+
+1684
+02:04:04,455 --> 02:04:08,255
+They don't kill you!
+She's alive! She's alive!
+
+1685
+02:04:08,292 --> 02:04:11,455
+HICKS: All right, I believe you.
+She's alive.
+
+1686
+02:04:11,495 --> 02:04:13,326
+We've got to go. Now!
+
+1687
+02:04:44,562 --> 02:04:47,690
+- Hicks.
+- Get it off!
+
+1688
+02:04:47,731 --> 02:04:52,998
+Aah! Get it off! Aah!
+
+1689
+02:04:59,043 --> 02:05:00,340
+RIPLEY: Here.
+
+1690
+02:05:00,377 --> 02:05:02,208
+[Hicks groaning]
+
+1691
+02:05:05,382 --> 02:05:06,542
+RIPLEY: Go.
+
+1692
+02:05:09,720 --> 02:05:12,518
+Come on, you can make it!
+
+1693
+02:05:35,746 --> 02:05:38,772
+RIPLEY: Bishop, how much time?
+
+1694
+02:05:38,816 --> 02:05:40,647
+BISHOP:
+Plenty. Twenty-six minutes.
+
+1695
+02:05:40,684 --> 02:05:43,346
+- We're not leaving.
+- We're not?
+
+1696
+02:06:52,656 --> 02:06:54,954
+[Locator beeping]
+
+1697
+02:07:08,205 --> 02:07:09,672
+BISHOP: Ripley...
+
+1698
+02:07:09,707 --> 02:07:12,540
+RIPLEY: I don't want
+to hear about it. She's alive.
+
+1699
+02:07:12,576 --> 02:07:15,044
+BISHOP: In 19 minutes, this area
+is gonna be a cloud of vapor...
+
+1700
+02:07:15,079 --> 02:07:16,376
+the size of Nebraska.
+
+1701
+02:07:16,413 --> 02:07:19,280
+- Don't let him leave.
+- We ain't going anywhere.
+
+1702
+02:07:21,685 --> 02:07:24,779
+- See you, Hicks.
+- Dwayne.
+
+1703
+02:07:26,090 --> 02:07:27,648
+It's Dwayne.
+
+1704
+02:07:29,526 --> 02:07:31,323
+Ellen.
+
+1705
+02:07:31,362 --> 02:07:35,025
+Don't be gone long, Ellen.
+
+1706
+02:07:39,370 --> 02:07:42,066
+[Alarm sounds]
+
+1707
+02:07:42,106 --> 02:07:45,200
+COMPUTER VOICE:
+Attention. Emergency.
+
+1708
+02:07:45,242 --> 02:07:49,372
+All personnel
+must evacuate immediately.
+
+1709
+02:07:49,413 --> 02:07:55,882
+You now have fifteen minutes
+to reach minimum safe distance.
+
+1710
+02:08:41,527 --> 02:08:44,155
+COMPUTER VOICE:
+Attention. Emergency.
+
+1711
+02:08:44,197 --> 02:08:48,657
+All personnel
+must evacuate immediately.
+
+1712
+02:08:48,701 --> 02:08:54,230
+You now have fourteen minutes
+to reach minimum safe distance.
+
+1713
+02:09:04,550 --> 02:09:07,075
+[Locator beeping]
+
+1714
+02:10:08,881 --> 02:10:10,872
+[Locator beeps faster]
+
+1715
+02:11:31,664 --> 02:11:33,325
+[Very fast beeping]
+
+1716
+02:11:44,310 --> 02:11:46,301
+[Sobs]
+
+1717
+02:12:13,673 --> 02:12:16,437
+[Screaming]
+
+1718
+02:12:19,245 --> 02:12:22,237
+Aah!
+
+1719
+02:12:34,660 --> 02:12:37,993
+NEWT: Ripley! Ripley!
+
+1720
+02:12:52,345 --> 02:12:54,973
+RIPLEY: Grab on to me!
+
+1721
+02:12:55,014 --> 02:12:56,538
+Hold on!
+
+1722
+02:14:34,780 --> 02:14:37,681
+[Hissing]
+
+1723
+02:15:00,035 --> 02:15:03,095
+[Screeching]
+
+1724
+02:15:56,625 --> 02:15:58,115
+[Screeching]
+
+1725
+02:16:47,776 --> 02:16:49,471
+NEWT: Let's go!
+
+1726
+02:16:52,447 --> 02:16:54,881
+Behind us!
+
+1727
+02:16:58,153 --> 02:17:00,144
+[Alarm sounds]
+
+1728
+02:17:45,333 --> 02:17:48,461
+COMPUTER VOICE:
+Attention. Emergency.
+
+1729
+02:17:48,503 --> 02:17:51,802
+All personnel
+must evacuate immediately.
+
+1730
+02:17:53,408 --> 02:17:56,673
+Attention. Emergency.
+
+1731
+02:17:56,711 --> 02:18:01,171
+All personnel
+must evacuate immediately.
+
+1732
+02:18:01,216 --> 02:18:06,210
+You now have four minutes
+to reach minimum safe distance.
+
+1733
+02:18:18,399 --> 02:18:20,390
+[Queen screeches]
+
+1734
+02:18:21,803 --> 02:18:24,533
+Come on, God damn it!
+
+1735
+02:18:30,311 --> 02:18:31,778
+Hold on to me!
+
+1736
+02:19:20,795 --> 02:19:23,821
+COMPUTER VOICE:
+Attention. Emergency.
+
+1737
+02:19:23,865 --> 02:19:28,097
+All personnel
+must evacuate immediately.
+
+1738
+02:19:28,136 --> 02:19:34,632
+You now have two minutes
+to reach minimum safe distance.
+
+1739
+02:19:41,182 --> 02:19:42,410
+No.
+
+1740
+02:19:45,220 --> 02:19:48,553
+Bishop, God damn you!
+
+1741
+02:20:52,387 --> 02:20:54,446
+Close your eyes, baby.
+
+1742
+02:20:56,658 --> 02:20:57,989
+NEWT: Look!
+
+1743
+02:21:05,767 --> 02:21:08,930
+NEWT: Come on! Come on!
+
+1744
+02:21:36,262 --> 02:21:37,627
+Punch it, Bishop!
+
+1745
+02:22:24,109 --> 02:22:26,236
+BISHOP: lt's OK. We're OK.
+
+1746
+02:22:35,588 --> 02:22:36,748
+RIPLEY: Hey.
+
+1747
+02:22:39,024 --> 02:22:41,322
+We made it.
+
+1748
+02:22:41,360 --> 02:22:43,225
+NEWT: I knew you'd come.
+
+1749
+02:22:58,277 --> 02:23:00,177
+BISHOP: He's gonna be all right.
+
+1750
+02:23:00,212 --> 02:23:04,410
+He's just out. I had to give him
+another shot for the pain.
+
+1751
+02:23:04,450 --> 02:23:07,248
+We need a stretcher
+to carry him up to medical.
+
+1752
+02:23:07,286 --> 02:23:08,617
+RIPLEY: OK.
+
+1753
+02:23:13,893 --> 02:23:16,191
+BISHOP:
+I'm sorry if I scared you.
+
+1754
+02:23:16,228 --> 02:23:18,696
+That platform
+was becoming too unstable.
+
+1755
+02:23:18,731 --> 02:23:20,665
+I had to circle and hope
+things didn't get too rough...
+
+1756
+02:23:20,699 --> 02:23:22,030
+to take you off.
+
+1757
+02:23:22,067 --> 02:23:25,867
+RIPLEY: Bishop... you did OK.
+
+1758
+02:23:25,905 --> 02:23:27,372
+I did?
+
+1759
+02:23:27,406 --> 02:23:28,737
+Oh, yeah.
+
+1760
+02:24:08,180 --> 02:24:10,341
+Go! Move!
+
+1761
+02:24:12,785 --> 02:24:16,050
+No! Here! Here!
+
+1762
+02:24:17,456 --> 02:24:18,821
+Run!
+
+1763
+02:24:23,362 --> 02:24:24,989
+Here!
+
+1764
+02:25:24,523 --> 02:25:25,683
+Aah!
+
+1765
+02:25:32,965 --> 02:25:35,092
+Aah!
+
+1766
+02:25:53,686 --> 02:25:55,984
+Get away from her, you bitch!
+
+1767
+02:26:19,078 --> 02:26:21,603
+Come on! Come on!
+
+1768
+02:27:34,086 --> 02:27:35,644
+Aah!
+
+1769
+02:27:43,595 --> 02:27:44,755
+Aah!
+
+1770
+02:27:46,398 --> 02:27:48,093
+Aah!
+
+1771
+02:27:50,035 --> 02:27:52,526
+Ripley!
+
+1772
+02:28:15,194 --> 02:28:17,185
+[Alarm sounds]
+
+1773
+02:28:25,112 --> 02:28:26,511
+Aah!
+
+1774
+02:28:27,047 --> 02:28:30,949
+Oh!
+
+1775
+02:28:30,984 --> 02:28:32,008
+Aah!
+
+1776
+02:28:37,825 --> 02:28:39,224
+Aah!
+
+1777
+02:28:47,367 --> 02:28:48,356
+Aah!
+
+1778
+02:28:48,402 --> 02:28:50,597
+[Screeching]
+
+1779
+02:29:00,948 --> 02:29:03,246
+Aah!
+
+1780
+02:29:03,283 --> 02:29:06,411
+Bishop!
+
+1781
+02:29:52,633 --> 02:29:55,431
+- Mommy.
+- Oh, God!
+
+1782
+02:29:58,772 --> 02:30:01,969
+Not bad for a human.
+
+1783
+02:30:49,089 --> 02:30:52,115
+Are we gonna sleep
+all the way home?
+
+1784
+02:30:52,159 --> 02:30:53,717
+All the way home.
+
+1785
+02:30:53,760 --> 02:30:55,193
+Can I dream?
+
+1786
+02:30:56,930 --> 02:31:00,127
+Yes, honey.
+I think we both can.
+
+1787
+02:31:07,774 --> 02:31:09,474
+- Sleep tight.
+- Affirmative.
+
+1788
+02:31:09,474 --> 02:31:10,805
+- Sleep tight.
+- Affirmative.
+
+1789
+02:31:35,000 --> 02:32:35,000
+Ripping & Subtitles
+4EverPsycho
+lovespiral@mail.ru

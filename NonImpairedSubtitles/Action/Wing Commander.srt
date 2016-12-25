@@ -1,0 +1,6543 @@
+1
+00:00:38,760 --> 00:00:40,560
+JOHN F. KENNEDY:
+Many years ago...
+
+2
+00:00:40,600 --> 00:00:43,000
+the great British explorer
+George Mallory...
+
+3
+00:00:43,000 --> 00:00:46,240
+who was to die
+on Mount Everest...
+
+4
+00:00:46,280 --> 00:00:48,520
+was asked
+why did he want to climb it.
+
+5
+00:00:48,560 --> 00:00:50,240
+He said, "Because it is there."
+
+6
+00:00:50,280 --> 00:00:53,400
+Well, space is there,
+and we're going to climb it.
+
+7
+00:00:53,440 --> 00:00:55,920
+And the moon
+and the planets are there.
+
+8
+00:00:55,960 --> 00:00:58,800
+And new hopes for knowledge
+and peace are there.
+
+9
+00:00:58,840 --> 00:01:01,280
+And, therefore,
+as we set sail...
+
+10
+00:01:01,320 --> 00:01:03,080
+we ask God's blessing...
+
+11
+00:01:03,120 --> 00:01:05,600
+on the most hazardous
+and dangerous...
+
+12
+00:01:05,640 --> 00:01:08,920
+and greatest adventure
+on which man has ever embarked.
+
+13
+00:01:08,960 --> 00:01:10,200
+Thank you.
+
+14
+00:01:10,280 --> 00:01:12,280
+[Applause]
+
+15
+00:01:35,640 --> 00:01:38,640
+MAN: I hereby declare
+this new world...
+
+16
+00:01:38,680 --> 00:01:41,160
+a colony
+of the Terran Confederation.
+
+17
+00:01:41,160 --> 00:01:44,160
+REPORTER: With the charting of
+the fourth pulsar this year...
+
+18
+00:01:44,160 --> 00:01:46,400
+the Pilgrim explorers are
+becoming a discussion point.
+
+19
+00:01:46,480 --> 00:01:50,640
+MAN: We are gathered here
+to celebrate Dr. Peter Anthony.
+
+20
+00:01:50,680 --> 00:01:52,600
+His invention of the Navcom A.I.
+
+21
+00:01:52,640 --> 00:01:56,120
+is possibly the most important
+development in space travel...
+
+22
+00:01:56,200 --> 00:01:57,880
+of the last century.
+
+23
+00:01:57,920 --> 00:02:00,200
+Finally, we can navigate
+almost any jump...
+
+24
+00:02:00,240 --> 00:02:03,040
+in known space with confidence.
+
+25
+00:02:03,040 --> 00:02:07,640
+Ladies and gentlemen,
+I give you Dr. Peter Anthony.
+
+26
+00:02:17,520 --> 00:02:19,800
+PILOT:
+Coming up on the far side...
+
+27
+00:02:19,840 --> 00:02:23,040
+Looks like maybe
+three or four kilometers long.
+
+28
+00:02:23,080 --> 00:02:24,680
+CONTROL:
+Copy that, Sparrow. Proceed.
+
+29
+00:02:24,720 --> 00:02:28,680
+PILOT: It's like nothing
+I've ever seen before.
+
+30
+00:02:28,720 --> 00:02:31,160
+Wait. Something's going on here.
+
+31
+00:02:31,200 --> 00:02:33,120
+[Radio static]
+
+32
+00:02:33,160 --> 00:02:35,160
+REPORTER: With escalating
+tension in the Vega sector...
+
+33
+00:02:35,240 --> 00:02:38,120
+the whole Confederation
+is on a knife edge.
+
+34
+00:02:38,160 --> 00:02:40,640
+Will these unprovoked attacks
+continue?
+
+35
+00:02:40,680 --> 00:02:42,920
+Will the diplomatic probes
+be successful?
+
+36
+00:02:43,000 --> 00:02:44,000
+We can only hope...
+
+37
+00:02:44,080 --> 00:02:45,640
+AMBASSADOR:
+I regret to report...
+
+38
+00:02:45,680 --> 00:02:48,080
+that all diplomatic avenues
+with the Kilrathi...
+
+39
+00:02:48,080 --> 00:02:49,280
+have been exhausted.
+
+40
+00:02:49,320 --> 00:02:51,960
+It is now clear
+they have no interest...
+
+41
+00:02:52,000 --> 00:02:54,880
+in coexisting with us
+or any other race.
+
+42
+00:02:54,960 --> 00:02:57,560
+It is my sad duty
+to inform you...
+
+43
+00:02:57,600 --> 00:03:00,160
+that as of Six A.M.
+this morning...
+
+44
+00:03:00,200 --> 00:03:03,200
+we are formally at war
+with the Kilrathi.
+
+45
+00:03:03,240 --> 00:03:05,400
+God help us all.
+
+46
+00:03:49,800 --> 00:03:52,640
+HELMSMAN: T.C.S. Vanguard
+now clearing outer marker.
+
+47
+00:03:52,640 --> 00:03:56,280
+Course four-six-niner, logged
+for the Charybdis quasar.
+
+48
+00:03:56,360 --> 00:03:59,720
+Ready to receive Navcom
+coordinates for the jump.
+
+49
+00:03:59,760 --> 00:04:01,920
+CONTROL:
+Roger that. Transmitting now.
+
+50
+00:04:01,960 --> 00:04:03,520
+Have a safe trip back to Earth.
+
+51
+00:04:20,680 --> 00:04:22,200
+RADIO: Freighter Delta.
+
+52
+00:04:22,240 --> 00:04:23,840
+Losing elevator-effect thrust.
+
+53
+00:04:23,880 --> 00:04:25,600
+Request trajectory.
+
+54
+00:04:33,560 --> 00:04:36,200
+RADIO: T.C.S. McClellan
+requesting flyby.
+
+55
+00:04:38,600 --> 00:04:41,640
+[Beeping]
+
+56
+00:04:56,360 --> 00:04:58,800
+[Siren blaring]
+
+57
+00:05:17,800 --> 00:05:19,840
+OFFICER: I got one-nine-zero
+bogies inbound.
+
+58
+00:05:19,880 --> 00:05:21,680
+Vector three-seven-four,
+attack formation.
+
+59
+00:05:21,720 --> 00:05:22,840
+WILSON: Status!
+
+60
+00:05:22,880 --> 00:05:25,320
+OFFICER: Forty Kilrathi ships
+coming to bear, Admiral.
+
+61
+00:05:25,360 --> 00:05:26,520
+They're powering weapons.
+
+62
+00:05:28,120 --> 00:05:30,200
+The Iowa's gone! And the Kobi.
+
+63
+00:05:34,920 --> 00:05:36,680
+MAN: We have a station breach!
+
+64
+00:05:36,720 --> 00:05:39,400
+Levels seven, eleven,
+and thirteen.
+
+65
+00:05:46,920 --> 00:05:48,720
+They're headed towards
+command and control!
+
+66
+00:05:52,000 --> 00:05:54,680
+Destroy the Navcom A.I. Now.
+
+67
+00:05:56,160 --> 00:05:58,560
+COMPUTER:
+Self-destruct malfunction.
+
+68
+00:06:02,800 --> 00:06:04,080
+TECHNICIAN: Command codes
+have been overwritten.
+
+69
+00:06:04,160 --> 00:06:06,000
+COMPUTER:
+Station breach, level six.
+
+70
+00:06:09,160 --> 00:06:11,760
+Station breach, level two.
+
+71
+00:06:23,960 --> 00:06:26,080
+COMPUTER:
+Command center breach imminent.
+
+72
+00:06:26,120 --> 00:06:28,600
+WILSON: Prepare a drone.
+Get me a coded channel.
+
+73
+00:06:30,400 --> 00:06:31,600
+This is Admiral Wilson...
+
+74
+00:06:31,600 --> 00:06:32,800
+Pegasus station
+commanding officer.
+
+75
+00:06:32,840 --> 00:06:35,160
+Forty Kilrathi capital ships
+are closing.
+
+76
+00:06:35,200 --> 00:06:38,160
+Station has been breached.
+They want the Navcom.
+
+77
+00:06:38,200 --> 00:06:39,880
+Repeat--they want the Navcom.
+
+78
+00:06:51,920 --> 00:06:53,520
+The station has been breached.
+
+79
+00:06:53,560 --> 00:06:55,120
+They want the Navcom.
+
+80
+00:06:55,160 --> 00:06:57,120
+Repeat--they want the Navcom.
+
+81
+00:06:57,160 --> 00:06:58,120
+The Pegasus Navcom.
+
+82
+00:06:58,160 --> 00:06:59,760
+My God, if they have it...
+
+83
+00:07:00,800 --> 00:07:02,360
+TOLWYN:
+What's the fleet's position?
+
+84
+00:07:02,400 --> 00:07:04,080
+RICHARD: We're spread out
+all over the sector.
+
+85
+00:07:04,120 --> 00:07:07,080
+The earliest our advanced
+elements can reach Sol...
+
+86
+00:07:07,120 --> 00:07:08,600
+is forty-two hours...
+
+87
+00:07:08,600 --> 00:07:10,880
+and that is taking risks
+with the jumps, sir.
+
+88
+00:07:12,000 --> 00:07:14,040
+TOLWYN: Give me
+the Vega and Sol sectors.
+
+89
+00:07:18,480 --> 00:07:20,720
+COMPUTER: Estimated Kilrathi
+fleet's position.
+
+90
+00:07:22,400 --> 00:07:25,800
+Projected time of travel
+to Earth, forty hours.
+
+91
+00:07:25,840 --> 00:07:28,240
+Locating
+main Confederation fleet.
+
+92
+00:07:30,400 --> 00:07:33,760
+Estimated time to Earth space,
+forty-two hours.
+
+93
+00:07:35,720 --> 00:07:39,200
+A mere two hours could decide
+the outcome of this war.
+
+94
+00:07:41,600 --> 00:07:43,000
+Signal all ships
+to mark our course...
+
+95
+00:07:43,040 --> 00:07:44,640
+and make full speed for Earth.
+
+96
+00:07:46,920 --> 00:07:49,040
+I need to know what
+the Kilrathi are up to, Richard.
+
+97
+00:07:49,080 --> 00:07:50,520
+Do we have any more ships
+left in Vega?
+
+98
+00:07:52,360 --> 00:07:54,880
+Just one, sir.
+The Tiger Claw.
+
+99
+00:07:54,920 --> 00:07:57,560
+But she's beyond the range
+of our communications...
+
+100
+00:07:57,600 --> 00:07:59,080
+and a drone will take
+two days to reach her.
+
+101
+00:07:59,120 --> 00:08:01,080
+TOLWYN: Who's this?
+
+102
+00:08:01,120 --> 00:08:03,960
+RICHARD: It's a requisitioned
+merchantman...the...
+
+103
+00:08:04,000 --> 00:08:05,360
+Diligent.
+
+104
+00:08:05,360 --> 00:08:07,040
+The Diligent.
+
+105
+00:08:07,080 --> 00:08:08,240
+RICHARD: Yes, sir.
+
+106
+00:08:09,400 --> 00:08:11,520
+Captained by James Taggart...
+
+107
+00:08:11,560 --> 00:08:14,840
+at present en route
+to the Tiger Claw...
+
+108
+00:08:14,880 --> 00:08:17,040
+with two replacement pilots--
+
+109
+00:08:18,000 --> 00:08:20,760
+First Lieutenants Todd Marshall
+and Christopher Blair.
+
+110
+00:08:20,800 --> 00:08:23,440
+Open a secure channel
+to the Diligent immediately.
+
+111
+00:08:23,480 --> 00:08:25,680
+I want to speak
+with her captain...
+
+112
+00:08:26,720 --> 00:08:29,400
+and with this
+First Lieutenant Blair.
+
+113
+00:08:44,440 --> 00:08:46,760
+[Door opens]
+
+114
+00:08:46,800 --> 00:08:48,520
+MARSHALL: Hey, Captain wants you
+on the bridge.
+
+115
+00:08:48,560 --> 00:08:50,680
+Say's it's top priority.
+
+116
+00:08:52,760 --> 00:08:54,000
+Sir?
+
+117
+00:08:55,760 --> 00:08:57,400
+I don't know
+who you know, Lieutenant...
+
+118
+00:08:57,440 --> 00:08:59,240
+but you got a Confed code one...
+
+119
+00:08:59,280 --> 00:09:02,360
+secure communication
+from Admiral Tolwyn.
+
+120
+00:09:02,400 --> 00:09:03,760
+COMPUTER: Waiting.
+
+121
+00:09:08,120 --> 00:09:10,200
+Waiting.
+
+122
+00:09:14,720 --> 00:09:18,040
+Transmission nominal.
+Long distance...connected.
+
+123
+00:09:18,080 --> 00:09:20,360
+At ease, Lieutenant.
+
+124
+00:09:20,440 --> 00:09:22,640
+-Yes, sir, Admiral.
+-Good.
+
+125
+00:09:22,680 --> 00:09:23,800
+You are currently outbound...
+
+126
+00:09:23,840 --> 00:09:26,880
+to the Vega sector
+and the Tiger Claw.
+
+127
+00:09:26,920 --> 00:09:28,840
+I need you to hand-deliver...
+
+128
+00:09:28,880 --> 00:09:32,240
+an encrypted communications chip
+to her captain.
+
+129
+00:09:32,240 --> 00:09:35,120
+Why not send it by drone
+to the Pegasus, sir?
+
+130
+00:09:35,120 --> 00:09:36,120
+That'd be quicker.
+
+131
+00:09:36,200 --> 00:09:37,480
+The Pegasus is gone...
+
+132
+00:09:37,520 --> 00:09:39,480
+destroyed by a Kilrathi
+battle group...
+
+133
+00:09:39,520 --> 00:09:41,000
+twelve and a half hours ago.
+
+134
+00:09:41,000 --> 00:09:43,640
+See that Captain Sansky
+gets that chip.
+
+135
+00:09:43,680 --> 00:09:45,360
+Why me?
+
+136
+00:09:45,400 --> 00:09:47,400
+I fought alongside your father
+in the Pilgrim wars.
+
+137
+00:09:47,440 --> 00:09:48,600
+He was a good man.
+
+138
+00:09:50,640 --> 00:09:51,640
+Godspeed.
+
+139
+00:09:54,080 --> 00:09:55,440
+TAGGART: Well, guys...
+
+140
+00:09:55,480 --> 00:09:57,360
+we have to jump
+into the Vega sector...
+
+141
+00:09:57,400 --> 00:09:59,000
+a little sooner than planned.
+
+142
+00:09:59,040 --> 00:10:03,160
+Set a course for beacon 147,
+one-quarter impulse...
+
+143
+00:10:03,200 --> 00:10:04,360
+and be subtle.
+
+144
+00:10:05,520 --> 00:10:09,120
+Setting course
+for beacon one-four-seven.
+
+145
+00:10:09,160 --> 00:10:11,120
+One-quarter impulse.
+
+146
+00:10:11,160 --> 00:10:13,640
+[Beeping]
+
+147
+00:10:13,680 --> 00:10:15,880
+MARSHALL: I'm reading that
+as a 100,000-kilometer...
+
+148
+00:10:15,920 --> 00:10:17,320
+no-fly zone, sir.
+
+149
+00:10:19,120 --> 00:10:21,320
+Just put in beacon 147.
+
+150
+00:10:22,440 --> 00:10:23,600
+It's a shortcut.
+
+151
+00:10:28,880 --> 00:10:30,080
+Aye, Captain.
+
+152
+00:10:40,720 --> 00:10:42,360
+[Knock on door]
+
+153
+00:10:42,400 --> 00:10:43,600
+Yeah?
+
+154
+00:10:48,200 --> 00:10:50,600
+We're holding steady
+on the beacon.
+
+155
+00:10:50,640 --> 00:10:52,040
+Marshall has the helm.
+
+156
+00:10:55,240 --> 00:10:57,040
+Those must be antiques.
+
+157
+00:10:58,040 --> 00:11:00,400
+They were made by the first
+explorers in this sector...
+
+158
+00:11:01,680 --> 00:11:05,080
+just like the cross
+you wear under your shirt.
+
+159
+00:11:11,120 --> 00:11:12,840
+May I see it?
+
+160
+00:11:33,680 --> 00:11:36,360
+There was a time long ago...
+
+161
+00:11:36,440 --> 00:11:38,080
+when people looked up
+to the Pilgrims.
+
+162
+00:11:38,120 --> 00:11:41,240
+The stars were their destiny.
+
+163
+00:11:46,200 --> 00:11:48,680
+Since the Pilgrims
+were defeated...
+
+164
+00:11:48,720 --> 00:11:51,840
+not a single new quasar
+has been charted.
+
+165
+00:11:55,400 --> 00:11:56,480
+COMPUTER:
+Increasing thrust...
+
+166
+00:11:56,520 --> 00:11:58,360
+Stupid...
+
+167
+00:11:58,400 --> 00:12:00,400
+COMPUTER: Main engine
+now at ninety percent.
+
+168
+00:12:03,040 --> 00:12:05,200
+TAGGART: Out! You get out!
+
+169
+00:12:05,240 --> 00:12:06,400
+Get out, get out!
+
+170
+00:12:06,480 --> 00:12:07,680
+MARSHALL: Ow. Jeez!
+
+171
+00:12:09,720 --> 00:12:11,280
+What's your problem?
+
+172
+00:12:12,480 --> 00:12:14,840
+-What?
+-Did you change course?
+
+173
+00:12:14,880 --> 00:12:15,960
+MARSHALL:
+No, I didn't change course.
+
+174
+00:12:16,000 --> 00:12:17,520
+I just boosted the power.
+Why dog it?
+
+175
+00:12:17,560 --> 00:12:20,400
+We can be at the beacon
+in, like, under an hour.
+
+176
+00:12:20,440 --> 00:12:23,120
+That beacon
+is marking a gravity well.
+
+177
+00:12:23,120 --> 00:12:24,360
+One cubic inch of it...
+
+178
+00:12:24,400 --> 00:12:26,960
+exerts more gravitational force
+than the sun.
+
+179
+00:12:27,000 --> 00:12:28,840
+COMPUTER: Navcom on-line.
+
+180
+00:12:30,600 --> 00:12:32,480
+TAGGART: lf we approach it
+too fast...
+
+181
+00:12:32,520 --> 00:12:35,520
+we'll be sucked in
+out of control.
+
+182
+00:12:35,560 --> 00:12:37,880
+If I don't realign
+our entry vector...
+
+183
+00:12:37,880 --> 00:12:39,560
+we are not going
+to make the jump.
+
+184
+00:12:39,600 --> 00:12:42,360
+-What happens if we miss?
+-We die.
+
+185
+00:12:42,400 --> 00:12:45,320
+BLAIR: Have we reached
+the entry vector's PNR yet?
+
+186
+00:12:45,360 --> 00:12:48,320
+No, no. Not yet.
+
+187
+00:12:52,240 --> 00:12:54,480
+She's reaching out for us.
+
+188
+00:12:54,480 --> 00:12:55,920
+Listen to that.
+
+189
+00:12:55,960 --> 00:12:57,960
+COMPUTER: Velocity holding--
+one-four-two-L-S-S...
+
+190
+00:12:58,000 --> 00:13:02,920
+Well, ladies, meet Scylla...
+
+191
+00:13:02,960 --> 00:13:05,240
+COMPUTER: Warning--
+gravitational anomaly detected.
+
+192
+00:13:05,280 --> 00:13:08,880
+Bane to sailors
+and monster of myth.
+
+193
+00:13:08,960 --> 00:13:10,560
+What's a Scylla?
+
+194
+00:13:10,600 --> 00:13:13,120
+Ulysses sailed between
+the whirlpool Charybdis...
+
+195
+00:13:13,120 --> 00:13:15,000
+and the island monster, Scylla.
+
+196
+00:13:15,040 --> 00:13:17,320
+She snatched six of his men
+and ate them.
+
+197
+00:13:19,960 --> 00:13:22,320
+MARSHALL:
+Whoa. What is this thing?
+
+198
+00:13:24,120 --> 00:13:27,840
+This thing is a distortion
+in space-time.
+
+199
+00:13:28,960 --> 00:13:31,480
+The Pilgrims
+were the first to chart it.
+
+200
+00:13:31,480 --> 00:13:33,280
+If it's charted,
+why is it off-limits?
+
+201
+00:13:33,360 --> 00:13:35,040
+Because it's unstable.
+
+202
+00:13:35,080 --> 00:13:37,120
+It's unstable?
+
+203
+00:13:38,120 --> 00:13:40,920
+Whoa. It's unstable,
+and we're gonna jump it?!
+
+204
+00:13:42,480 --> 00:13:43,760
+[Alarm blares]
+
+205
+00:13:43,800 --> 00:13:45,760
+Navigational computer
+just went off-line!
+
+206
+00:13:45,800 --> 00:13:47,280
+I'm on it!
+
+207
+00:13:47,320 --> 00:13:48,680
+-Blair!
+-Yes, sir?
+
+208
+00:13:48,720 --> 00:13:49,840
+You take the helm!
+
+209
+00:13:49,880 --> 00:13:52,120
+BLAIR:
+I never made a jump before.
+
+210
+00:13:52,160 --> 00:13:53,480
+TAGGART: Good time to learn!
+
+211
+00:13:53,520 --> 00:13:56,000
+MARSHALL: That's it!
+I don't like this guy.
+
+212
+00:13:56,000 --> 00:13:57,440
+B, l--I don't know about you...
+
+213
+00:13:57,480 --> 00:14:00,400
+but I really don't
+like this guy at all, man.
+
+214
+00:14:03,080 --> 00:14:04,240
+Merde.
+
+215
+00:14:06,160 --> 00:14:09,280
+-Uh...Mr. Taggart?
+-Yes?
+
+216
+00:14:09,320 --> 00:14:12,160
+-Ten seconds to jump, sir.
+-So?
+
+217
+00:14:12,200 --> 00:14:15,040
+So? So if you don't get that
+computer back on-line, sir...
+
+218
+00:14:15,080 --> 00:14:19,200
+this unstable gravity well's
+gonna suck us in...
+
+219
+00:14:19,240 --> 00:14:20,720
+one molecule at a time, sir!
+
+220
+00:14:22,600 --> 00:14:23,720
+COMPUTER: Navcom on-line.
+
+221
+00:14:23,760 --> 00:14:26,320
+Plot your course, Mr. Blair!
+
+222
+00:14:26,360 --> 00:14:29,360
+COMPUTER: Vector one entered
+and confirmed.
+
+223
+00:14:29,400 --> 00:14:31,880
+Vector three
+entered and confirmed.
+
+224
+00:14:40,640 --> 00:14:43,160
+[Marshall yelling]
+
+225
+00:14:46,440 --> 00:14:48,200
+What happened?
+
+226
+00:14:50,400 --> 00:14:53,600
+You just plotted a jump
+through a gravity well...
+
+227
+00:14:53,680 --> 00:14:56,040
+in under ten seconds...
+
+228
+00:14:56,040 --> 00:14:58,160
+and Navcom can't do that.
+
+229
+00:15:01,120 --> 00:15:02,560
+That's not bad.
+
+230
+00:15:03,600 --> 00:15:05,200
+I mean, that's not bad...
+
+231
+00:15:05,240 --> 00:15:07,400
+for the second-best pilot
+at the academy.
+
+232
+00:15:07,440 --> 00:15:08,560
+You shut up!
+
+233
+00:15:08,600 --> 00:15:11,080
+Next time you don't
+follow my orders...
+
+234
+00:15:11,120 --> 00:15:13,880
+I'll dump you with the rest
+of the garbage, you got that?
+
+235
+00:15:16,240 --> 00:15:18,360
+You plot a course
+for the Tiger Claw, Mr. Blair.
+
+236
+00:15:18,400 --> 00:15:19,560
+BLAIR: Yes, sir.
+
+237
+00:15:20,840 --> 00:15:22,040
+MARSHALL: Jeez.
+
+238
+00:15:25,280 --> 00:15:27,960
+Guy's got
+a serious attitude problem.
+
+239
+00:15:35,120 --> 00:15:38,600
+This is Lieutenant Hunter
+of the T.C.S. Tiger Claw.
+
+240
+00:15:38,640 --> 00:15:40,600
+Unidentified freighter
+bearing two-niner-three...
+
+241
+00:15:40,640 --> 00:15:42,520
+state your course and business.
+
+242
+00:15:45,200 --> 00:15:47,120
+BLAIR: This is the Diligent
+carrying supplies...
+
+243
+00:15:47,200 --> 00:15:50,000
+and two replacement pilots
+for the Tiger Claw.
+
+244
+00:15:52,120 --> 00:15:53,600
+HUNTER: Stay on course.
+
+245
+00:15:53,640 --> 00:15:56,200
+Have your captain transmit
+his security clearance.
+
+246
+00:15:56,240 --> 00:15:59,280
+Roger that, Lieutenant.
+Taggart on his way.
+
+247
+00:16:03,200 --> 00:16:05,560
+Fighters
+from the Tiger Claw, sir.
+
+248
+00:16:05,600 --> 00:16:06,960
+They've queried us.
+
+249
+00:16:07,960 --> 00:16:10,600
+Well, send the countersign.
+
+250
+00:16:10,600 --> 00:16:11,960
+Roger that.
+
+251
+00:16:15,280 --> 00:16:17,520
+Identification acknowledged.
+
+252
+00:16:17,600 --> 00:16:18,760
+They'll escort us in.
+
+253
+00:16:23,320 --> 00:16:26,240
+HUNTER: Diligent,
+you're clear to land in bay 2C.
+
+254
+00:16:26,320 --> 00:16:28,040
+Welcome to the Tiger Claw.
+
+255
+00:17:11,440 --> 00:17:12,600
+GERALD: Captain?
+
+256
+00:17:17,760 --> 00:17:19,680
+Lieutenant J.G.
+Christopher Blair...
+
+257
+00:17:19,680 --> 00:17:21,000
+reporting for duty, sir.
+
+258
+00:17:21,040 --> 00:17:23,320
+At ease, Lieutenant.
+
+259
+00:17:23,360 --> 00:17:25,640
+Commander Gerald tells me
+that you have something for me.
+
+260
+00:17:25,680 --> 00:17:27,080
+Yes, sir.
+
+261
+00:17:27,120 --> 00:17:30,480
+An encrypted communiqué
+from Admiral Tolwyn.
+
+262
+00:17:33,440 --> 00:17:35,880
+Why didn't the admiral
+send a drone via the Pegasus?
+
+263
+00:17:35,920 --> 00:17:38,560
+The Pegasus was destroyed
+by a Kilrathi battle group...
+
+264
+00:17:38,640 --> 00:17:40,040
+seventeen hours ago.
+
+265
+00:17:42,520 --> 00:17:43,920
+I see.
+
+266
+00:17:46,040 --> 00:17:47,600
+Communications?
+
+267
+00:17:47,640 --> 00:17:50,040
+I want this disk decrypted ASAP.
+
+268
+00:17:50,040 --> 00:17:51,480
+OBUTU: Yes, sir.
+
+269
+00:17:56,440 --> 00:17:58,280
+GERALD: Oh, Lieutenant?
+
+270
+00:18:02,160 --> 00:18:04,880
+You wouldn't be related
+to Arnold Blair, would you?
+
+271
+00:18:04,920 --> 00:18:06,920
+He was my father, sir.
+
+272
+00:18:07,920 --> 00:18:10,400
+He married a Pilgrim woman,
+didn't he?
+
+273
+00:18:10,440 --> 00:18:11,960
+Yes, sir.
+
+274
+00:18:12,000 --> 00:18:14,160
+Pilgrims don't think like us.
+
+275
+00:18:16,400 --> 00:18:19,200
+You won't have to worry, sir.
+
+276
+00:18:19,240 --> 00:18:20,560
+They're both dead.
+
+277
+00:18:20,640 --> 00:18:22,560
+I'm sure
+the lieutenant's heredity...
+
+278
+00:18:22,560 --> 00:18:25,840
+will have no bearing
+on his performance, Mr. Gerald.
+
+279
+00:18:28,440 --> 00:18:30,520
+No, sir. I'm sure it won't.
+
+280
+00:18:30,560 --> 00:18:32,640
+I suggest you stow your gear...
+
+281
+00:18:32,680 --> 00:18:34,560
+and familiarize yourself
+with the ship.
+
+282
+00:18:34,600 --> 00:18:36,280
+That's all, Lieutenant.
+
+283
+00:18:45,600 --> 00:18:47,600
+MARSHALL:
+Yo, B. Look at these rapiers.
+
+284
+00:18:47,600 --> 00:18:49,120
+They're beat to hell, man.
+
+285
+00:18:49,120 --> 00:18:52,120
+I don't see any of the hornets
+we flew back at the academy.
+
+286
+00:18:52,120 --> 00:18:53,440
+Oh, whoa, whoa, whoa.
+
+287
+00:18:53,440 --> 00:18:55,360
+You know what I do see?
+
+288
+00:18:55,400 --> 00:18:57,120
+Blonde.
+
+289
+00:19:01,120 --> 00:19:02,560
+Hey, how you doing?
+
+290
+00:19:47,480 --> 00:19:49,080
+MERLIN: Systems on-line.
+
+291
+00:19:49,120 --> 00:19:50,600
+Hello, I'm Merlin...
+
+292
+00:19:50,640 --> 00:19:53,040
+the latest in mobile
+interface cockpit--
+
+293
+00:19:53,080 --> 00:19:57,080
+DEVEREAUX: Two Dralthis on
+your tail--one above, one below.
+
+294
+00:19:57,160 --> 00:19:58,920
+You got five, maybe ten seconds.
+
+295
+00:19:58,960 --> 00:20:00,640
+Clock's ticking. What do you do?
+
+296
+00:20:00,680 --> 00:20:04,240
+Simple.
+I go vertical and inverted...
+
+297
+00:20:04,280 --> 00:20:06,080
+do a 180 at full throttle...
+
+298
+00:20:06,160 --> 00:20:07,520
+apply brakes...
+
+299
+00:20:07,520 --> 00:20:09,800
+and drop in behind 'em.
+
+300
+00:20:09,880 --> 00:20:12,920
+Bang, you're dead.
+Not fast enough.
+
+301
+00:20:12,960 --> 00:20:16,040
+Dralthis are too quick,
+particularly in a climb.
+
+302
+00:20:16,080 --> 00:20:18,520
+You've just taken a missile
+up your tailpipe.
+
+303
+00:20:18,560 --> 00:20:20,120
+OK, let's reverse the situation.
+
+304
+00:20:20,160 --> 00:20:21,880
+You're locked on a Dralthi.
+
+305
+00:20:21,920 --> 00:20:24,200
+It goes evasive,
+enters an asteroid belt.
+
+306
+00:20:24,240 --> 00:20:25,520
+If I'm locked on...
+
+307
+00:20:25,560 --> 00:20:28,040
+there's no such thing
+as evasive action.
+
+308
+00:20:28,080 --> 00:20:29,400
+And you're dead again.
+
+309
+00:20:29,440 --> 00:20:31,000
+You see, it's an ambush.
+
+310
+00:20:31,040 --> 00:20:32,840
+Five or six fighters
+hide behind rocks...
+
+311
+00:20:32,880 --> 00:20:35,520
+the size of your swollen head
+and pounce.
+
+312
+00:20:35,560 --> 00:20:37,880
+A Kilrathi gang-bang.
+
+313
+00:20:37,920 --> 00:20:39,880
+What's the matter?
+
+314
+00:20:39,920 --> 00:20:41,680
+Did I bruise your ego?
+
+315
+00:20:41,720 --> 00:20:44,640
+No. I'm just, uh, not used
+to getting combat tips...
+
+316
+00:20:44,680 --> 00:20:46,560
+from a grease monkey,
+that's all.
+
+317
+00:20:46,600 --> 00:20:49,160
+Lieutenant Commander Deveraux...
+
+318
+00:20:49,200 --> 00:20:50,480
+your wing commander.
+
+319
+00:20:52,240 --> 00:20:53,520
+You have a name?
+
+320
+00:20:53,560 --> 00:20:56,400
+Uh, Lieutenant Blair, ma'am.
+
+321
+00:20:56,440 --> 00:20:58,160
+Well, Lieutenant Blair...
+
+322
+00:20:58,200 --> 00:21:00,480
+if you want to play
+at being a fighter pilot...
+
+323
+00:21:00,520 --> 00:21:02,840
+I suggest you find
+a virtual fun zone.
+
+324
+00:21:02,880 --> 00:21:04,400
+Meanwhile,
+step down from the rapier.
+
+325
+00:21:14,240 --> 00:21:15,400
+I apologize, ma'am.
+
+326
+00:21:15,440 --> 00:21:18,440
+The mission sheet said
+the rapier was unassigned.
+
+327
+00:21:18,480 --> 00:21:23,040
+I didn't realize it belonged
+to Lieutenant Commander Chen.
+
+328
+00:21:23,080 --> 00:21:25,240
+What are you doing
+on the flight deck?
+
+329
+00:21:25,280 --> 00:21:27,880
+MARSHALL: Getting acquainted
+with our new surroundings.
+
+330
+00:21:29,280 --> 00:21:30,600
+MARSHALL: Good job, B.
+
+331
+00:21:30,640 --> 00:21:32,120
+We're on the ship
+five minutes...
+
+332
+00:21:32,160 --> 00:21:34,240
+and you're already hitting
+on our wing commander?
+
+333
+00:21:34,280 --> 00:21:35,400
+BLAIR: How was I to know?
+
+334
+00:21:35,440 --> 00:21:37,040
+MARSHALL: She's just another
+tight-ass C.O.
+
+335
+00:21:37,080 --> 00:21:39,040
+Who cares? Let it go.
+
+336
+00:21:42,440 --> 00:21:45,160
+Now I'm gonna show you
+how to make friends.
+
+337
+00:21:52,280 --> 00:21:54,920
+MARSHALL: How you doing?
+Allow me to introduce myself.
+
+338
+00:21:54,960 --> 00:21:56,960
+Lieutenant Todd Marshall,
+and my close personal friend...
+
+339
+00:21:57,000 --> 00:21:58,120
+Lieutenant Christopher Blair.
+
+340
+00:21:58,160 --> 00:22:00,120
+Ladies and gentlemen, take note.
+
+341
+00:22:00,200 --> 00:22:01,720
+This man happens to be...
+
+342
+00:22:01,760 --> 00:22:04,160
+the second-best pilot
+on this hunk of junk.
+
+343
+00:22:04,160 --> 00:22:07,200
+HUNTER: Just who are you
+calling the best?
+
+344
+00:22:07,240 --> 00:22:09,840
+-Now, that's a secret.
+-Shh. Watch this.
+
+345
+00:22:09,880 --> 00:22:12,840
+There's two ways to find
+that out, mister, uh...
+
+346
+00:22:12,920 --> 00:22:14,600
+uh, Lieutenant Hunter.
+
+347
+00:22:14,640 --> 00:22:18,280
+First way involves you trying
+to kick the shit out of me.
+
+348
+00:22:18,320 --> 00:22:19,480
+HUNTER: And the other way?
+
+349
+00:22:22,720 --> 00:22:24,760
+Forbes?
+
+350
+00:22:24,800 --> 00:22:26,640
+We're on stand-down.
+
+351
+00:22:26,680 --> 00:22:28,280
+One won't hurt.
+
+352
+00:22:30,080 --> 00:22:32,800
+MARSHALL:
+Well, it may even help, huh?
+
+353
+00:22:35,480 --> 00:22:37,120
+Here you go, mate.
+
+354
+00:22:37,160 --> 00:22:39,440
+Allow me.
+
+355
+00:22:39,480 --> 00:22:40,800
+You got balls.
+
+356
+00:22:40,840 --> 00:22:42,880
+-You should see 'em.
+-Mine are bigger.
+
+357
+00:22:42,920 --> 00:22:45,360
+I've been told
+size doesn't matter.
+
+358
+00:22:45,400 --> 00:22:47,320
+She lied.
+
+359
+00:22:47,360 --> 00:22:48,800
+Do you know what, Hunter?
+
+360
+00:22:48,840 --> 00:22:50,640
+I would have taken
+the third option.
+
+361
+00:22:50,680 --> 00:22:52,040
+MARSHALL: Really.
+
+362
+00:22:52,080 --> 00:22:54,720
+I would have kicked his ass
+first, then drank his scotch.
+
+363
+00:22:55,560 --> 00:22:57,400
+Oh! Touché.
+
+364
+00:22:59,200 --> 00:23:00,800
+COMPUTER: Message on-line.
+
+365
+00:23:00,880 --> 00:23:03,000
+Playback in progress.
+
+366
+00:23:03,040 --> 00:23:05,560
+TOLWYN: Jay,
+I'm gonna have to be brief.
+
+367
+00:23:05,640 --> 00:23:07,400
+The Kilrathi took Pegasus.
+
+368
+00:23:07,440 --> 00:23:09,560
+They may have her Navcom A.I.
+
+369
+00:23:09,640 --> 00:23:12,080
+By the time this communication
+reaches you...
+
+370
+00:23:12,120 --> 00:23:13,720
+they will be
+twenty-three hours...
+
+371
+00:23:13,760 --> 00:23:15,960
+from the Charybdis jump point
+and Earth.
+
+372
+00:23:18,440 --> 00:23:21,080
+Confed capital ships
+are headed home now.
+
+373
+00:23:21,120 --> 00:23:22,440
+The Concordia battle group...
+
+374
+00:23:22,480 --> 00:23:25,440
+will only be able to make it
+in twenty-five hours.
+
+375
+00:23:25,480 --> 00:23:28,800
+I'm ordering the Tiger Claw
+to the Charybdis quasar.
+
+376
+00:23:28,840 --> 00:23:31,080
+You are to use
+any means necessary...
+
+377
+00:23:31,160 --> 00:23:34,240
+to gather information as
+to the Kilrathi whereabouts...
+
+378
+00:23:34,280 --> 00:23:36,240
+capacity, and plan of attack.
+
+379
+00:23:36,280 --> 00:23:38,480
+I need intelligence, old friend.
+
+380
+00:23:38,520 --> 00:23:40,120
+Use Taggart.
+
+381
+00:23:40,160 --> 00:23:42,600
+He knows this space
+better than any man alive.
+
+382
+00:23:42,640 --> 00:23:45,560
+He can get you
+to Charybdis quickly.
+
+383
+00:23:48,040 --> 00:23:49,320
+I don't like it.
+
+384
+00:23:49,360 --> 00:23:51,360
+What don't you like, Paul?
+
+385
+00:23:52,760 --> 00:23:55,360
+The disk came to us
+on the Diligent...
+
+386
+00:23:55,440 --> 00:23:57,480
+entrusted to a Pilgrim
+half-breed.
+
+387
+00:23:59,440 --> 00:24:01,080
+Send for this Taggart.
+
+388
+00:24:07,080 --> 00:24:09,080
+MARSHALL: Why don't you take
+his castle...
+
+389
+00:24:09,160 --> 00:24:11,440
+with your little horsey?
+
+390
+00:24:17,440 --> 00:24:18,560
+Check...
+
+391
+00:24:18,600 --> 00:24:19,760
+Mate.
+
+392
+00:24:23,640 --> 00:24:26,560
+FORBES: So, there's a brain
+behind that mouth.
+
+393
+00:24:26,600 --> 00:24:29,720
+Your friend
+always this talkative?
+
+394
+00:24:29,760 --> 00:24:31,080
+MARSHALL: No, he just made
+the fatal error...
+
+395
+00:24:31,120 --> 00:24:32,720
+of mistaking
+our wing commander...
+
+396
+00:24:32,720 --> 00:24:33,960
+for your average grease monkey.
+
+397
+00:24:35,480 --> 00:24:38,840
+Listen, all I did was sit
+in Commander Chen's fighter.
+
+398
+00:24:45,960 --> 00:24:47,600
+BLAIR:
+Lieutenant Commander Chen?
+
+399
+00:24:47,640 --> 00:24:49,480
+Bossman?
+
+400
+00:24:51,480 --> 00:24:53,480
+HUNTER: You're talking about
+a bloke that never existed.
+
+401
+00:24:53,520 --> 00:24:55,320
+I'm pretty sure he did.
+
+402
+00:24:57,240 --> 00:25:00,240
+He...never...existed.
+
+403
+00:25:00,280 --> 00:25:03,520
+Now change the subject
+quickly, pal...
+
+404
+00:25:03,560 --> 00:25:04,760
+before I change it for you.
+
+405
+00:25:04,800 --> 00:25:06,880
+MARSHALL: You got a problem
+with my friend, Mr. Hunter?
+
+406
+00:25:06,920 --> 00:25:08,040
+HUNTER: Yes, I do.
+
+407
+00:25:08,080 --> 00:25:09,560
+MARSHALL: That means
+you got a problem with me.
+
+408
+00:25:09,600 --> 00:25:10,760
+-Is that so?
+-Yeah.
+
+409
+00:25:10,800 --> 00:25:12,160
+HUNTER:
+Well, you're gonna love this.
+
+410
+00:25:15,800 --> 00:25:17,960
+He's a Pilgrim!
+
+411
+00:25:18,000 --> 00:25:20,440
+DEVEREAUX: Stand down, or
+you'll have a problem with me.
+
+412
+00:25:23,480 --> 00:25:25,320
+I want an explanation.
+
+413
+00:25:25,320 --> 00:25:26,880
+Hunter?
+
+414
+00:25:26,920 --> 00:25:28,040
+-Ma'am?
+-Ma'am?
+
+415
+00:25:28,080 --> 00:25:30,040
+Lieutenant Hunter was
+just helping Marshall and l...
+
+416
+00:25:30,080 --> 00:25:31,400
+feel at home.
+
+417
+00:25:33,080 --> 00:25:34,240
+DEVEREAUX: Lieutenant?
+
+418
+00:25:36,840 --> 00:25:39,200
+HUNTER:
+Yeah. That's right, ma'am.
+
+419
+00:25:39,240 --> 00:25:41,320
+BLAIR: Yeah. You see?
+
+420
+00:25:42,960 --> 00:25:45,440
+I guess this conversation
+never existed.
+
+421
+00:25:54,040 --> 00:25:55,200
+Lieutenant?
+
+422
+00:25:56,160 --> 00:25:58,000
+Lieutenant!
+
+423
+00:25:58,040 --> 00:26:00,320
+Who in the hell
+do you think you are?
+
+424
+00:26:02,040 --> 00:26:03,480
+Let me give you a reality check.
+
+425
+00:26:03,520 --> 00:26:06,560
+In all likelihood,
+you're going to die out here.
+
+426
+00:26:06,560 --> 00:26:08,440
+We're all going
+to die out here...
+
+427
+00:26:08,480 --> 00:26:10,800
+but none of us need to be
+reminded of that fact...
+
+428
+00:26:10,840 --> 00:26:13,000
+so you die, you never existed.
+
+429
+00:26:13,040 --> 00:26:14,400
+Understand?
+
+430
+00:26:15,560 --> 00:26:16,840
+Yes, ma'am.
+
+431
+00:26:22,840 --> 00:26:24,000
+GERALD: Taggart, sir.
+
+432
+00:26:25,800 --> 00:26:29,240
+Ah. I know of you,
+Mr. Taggart...
+
+433
+00:26:29,280 --> 00:26:31,880
+but I'm afraid I don't know you.
+
+434
+00:26:31,920 --> 00:26:34,320
+And yet you come to me
+with classified orders...
+
+435
+00:26:34,360 --> 00:26:35,880
+from Admiral Tolwyn.
+
+436
+00:26:35,920 --> 00:26:39,040
+Oh, I see. The captain
+doesn't trust me...
+
+437
+00:26:39,080 --> 00:26:40,720
+Blair, or the disk.
+
+438
+00:26:40,760 --> 00:26:42,320
+Would you?
+
+439
+00:26:42,360 --> 00:26:44,040
+Well, uh...
+
+440
+00:26:44,080 --> 00:26:45,400
+no.
+
+441
+00:26:45,440 --> 00:26:47,040
+No.
+
+442
+00:26:47,080 --> 00:26:50,800
+This tactical schematic outlines
+a nightmare, Mr. Taggart.
+
+443
+00:26:50,840 --> 00:26:53,240
+It tells me that the Kilrathi
+may have a Navcom...
+
+444
+00:26:53,240 --> 00:26:56,600
+and with it the capacity
+to jump into Earth space.
+
+445
+00:26:56,640 --> 00:26:58,360
+And based on that nightmare...
+
+446
+00:26:58,400 --> 00:27:00,640
+it orders me to take
+radical action...
+
+447
+00:27:00,680 --> 00:27:03,520
+which, if it and you
+are a lie...
+
+448
+00:27:04,720 --> 00:27:07,200
+could compromise this ship
+and its crew.
+
+449
+00:27:07,240 --> 00:27:09,200
+So I'm bound to ask you,
+Mr. Taggart...
+
+450
+00:27:09,240 --> 00:27:12,040
+what proof do you have
+that this is authentic?
+
+451
+00:27:29,400 --> 00:27:31,720
+Where did you get this?
+
+452
+00:27:31,760 --> 00:27:32,920
+Tolwyn...
+
+453
+00:27:34,480 --> 00:27:36,280
+thought it might be useful...
+
+454
+00:27:36,320 --> 00:27:39,080
+if I ever had
+to convince a captain...
+
+455
+00:27:39,160 --> 00:27:41,640
+to follow his orders.
+
+456
+00:27:48,240 --> 00:27:49,360
+Mr. Obutu.
+
+457
+00:27:49,400 --> 00:27:51,920
+Plot a course
+for the Charybdis quasar.
+
+458
+00:27:51,960 --> 00:27:53,440
+Full speed, if you please.
+
+459
+00:27:56,280 --> 00:27:58,080
+[Keystrokes]
+
+460
+00:28:06,520 --> 00:28:08,240
+OBUTU: Sir, the nearest
+jump point to the Charybdis...
+
+461
+00:28:08,280 --> 00:28:11,320
+is four days hard travel
+from our current location.
+
+462
+00:28:11,400 --> 00:28:14,000
+TAGGART: There's a class-two
+pulsar eleven hours from here.
+
+463
+00:28:14,040 --> 00:28:15,800
+We can jump there.
+
+464
+00:28:17,160 --> 00:28:18,760
+OBUTU:
+It's not on the chart, sir.
+
+465
+00:28:18,800 --> 00:28:20,640
+Navcom does not have
+those coordinates.
+
+466
+00:28:20,680 --> 00:28:22,000
+I have them.
+
+467
+00:28:22,040 --> 00:28:24,000
+No one's jumped a pulsar
+for forty years...
+
+468
+00:28:24,040 --> 00:28:25,800
+and even then,
+they were Pilgrims.
+
+469
+00:28:27,080 --> 00:28:29,400
+I don't believe we have
+a choice, Mr. Gerald.
+
+470
+00:28:30,720 --> 00:28:34,200
+If the battle is to be decided
+in the Charybdis quasar...
+
+471
+00:28:34,200 --> 00:28:36,320
+then that's where we have to be.
+
+472
+00:28:38,640 --> 00:28:40,240
+Plot your course, Mr. Taggart.
+
+473
+00:28:40,280 --> 00:28:41,720
+Sure.
+
+474
+00:28:41,720 --> 00:28:43,840
+Sir, that ring means nothing.
+
+475
+00:28:43,880 --> 00:28:47,040
+This ring has been in Tolwyn's
+family for sixteen generations.
+
+476
+00:28:47,080 --> 00:28:48,520
+And any man who carries it...
+
+477
+00:28:48,560 --> 00:28:51,040
+has the admiral's
+full confidence!
+
+478
+00:28:53,280 --> 00:28:55,280
+Prepare for the jump.
+
+479
+00:29:01,600 --> 00:29:03,200
+BLAIR: Hey.
+
+480
+00:29:04,720 --> 00:29:06,200
+We goin' out?
+
+481
+00:29:06,240 --> 00:29:07,520
+No. Just me.
+
+482
+00:29:07,560 --> 00:29:09,240
+I pulled security
+with Lieutenant Forbes.
+
+483
+00:29:09,280 --> 00:29:11,240
+Why'd you wake me up?
+
+484
+00:29:12,720 --> 00:29:14,680
+Remember back at the academy?
+
+485
+00:29:14,720 --> 00:29:18,040
+You promised you would
+take that thing off.
+
+486
+00:29:18,080 --> 00:29:19,760
+It brings me luck.
+
+487
+00:29:19,800 --> 00:29:21,280
+It's gonna get you killed.
+
+488
+00:29:21,320 --> 00:29:23,240
+I was wearing it
+when I made the jump.
+
+489
+00:29:23,240 --> 00:29:25,560
+Yeah, but that had
+nothing to do with luck.
+
+490
+00:29:25,560 --> 00:29:28,320
+That was about training,
+skill, desire.
+
+491
+00:29:28,360 --> 00:29:29,760
+Now, please.
+
+492
+00:29:30,920 --> 00:29:32,760
+Take the cross off.
+
+493
+00:29:33,840 --> 00:29:35,520
+It's who I am.
+
+494
+00:29:35,560 --> 00:29:36,960
+You don't even know
+what it means.
+
+495
+00:29:40,200 --> 00:29:41,800
+This is the big show.
+
+496
+00:29:41,840 --> 00:29:43,800
+And you gotta have someone
+watching your back.
+
+497
+00:29:43,840 --> 00:29:45,560
+It's either kill or be killed.
+
+498
+00:29:45,600 --> 00:29:48,400
+And you know what?
+I can't always be there.
+
+499
+00:29:48,440 --> 00:29:49,680
+[Chuckles]
+
+500
+00:29:52,760 --> 00:29:54,720
+Hey, I'm tryin' to be
+Mr. Sensitive Guy.
+
+501
+00:29:54,760 --> 00:29:56,000
+It's just--Ahh!
+
+502
+00:29:56,040 --> 00:29:58,200
+I don't even know why I bother.
+
+503
+00:29:59,200 --> 00:30:01,600
+All right. Wish me luck.
+
+504
+00:30:01,680 --> 00:30:02,800
+BLAIR: Luck?
+
+505
+00:30:03,760 --> 00:30:05,560
+What about desire?
+
+506
+00:30:05,640 --> 00:30:07,280
+MARSHALL:
+You seen Lieutenant Forbes?
+
+507
+00:30:08,640 --> 00:30:10,560
+You know I got desire.
+
+508
+00:30:10,640 --> 00:30:12,760
+BLAIR: Hey, Marshall...
+
+509
+00:30:12,800 --> 00:30:13,920
+Luck.
+
+510
+00:30:13,960 --> 00:30:14,920
+Mmm.
+
+511
+00:30:37,800 --> 00:30:39,280
+OFFICER ON LEFT:
+Message from Earth Command.
+
+512
+00:30:39,320 --> 00:30:41,440
+Their defenses
+are on line, sir, but--
+
+513
+00:30:41,480 --> 00:30:42,600
+They don't believe...
+
+514
+00:30:42,680 --> 00:30:44,120
+they can withstand
+a Kilrathi battle group...
+
+515
+00:30:44,160 --> 00:30:46,640
+without the support
+of the fleet.
+
+516
+00:30:46,680 --> 00:30:48,640
+But they will fight, sir.
+
+517
+00:30:48,680 --> 00:30:50,120
+Earth will never surrender.
+
+518
+00:30:50,160 --> 00:30:51,640
+What's our status?
+
+519
+00:30:51,680 --> 00:30:53,640
+We're running
+at one-hundred-and-ten percent.
+
+520
+00:30:53,680 --> 00:30:55,640
+We've already lost three ships--
+
+521
+00:30:55,680 --> 00:30:59,120
+two at jump points, and one's
+reactor core melted down.
+
+522
+00:31:00,520 --> 00:31:02,120
+Run at one hundred and twenty.
+
+523
+00:31:06,760 --> 00:31:09,320
+DEVEREAUX: Now, if Dibbles had
+the flying skills of a woman...
+
+524
+00:31:09,360 --> 00:31:10,640
+he'd still be alive.
+
+525
+00:31:10,680 --> 00:31:12,320
+MARSHALL:
+You gotta be kidding me.
+
+526
+00:31:12,360 --> 00:31:14,360
+DEVEREAUX: Don't take it
+personally, Nugget.
+
+527
+00:31:14,360 --> 00:31:17,080
+It's a question of estrogen.
+
+528
+00:31:17,120 --> 00:31:19,560
+Women can out fly
+and outshoot men.
+
+529
+00:31:19,600 --> 00:31:21,080
+It has been proven...
+
+530
+00:31:21,120 --> 00:31:23,520
+that we can keep track
+of up to four enemy fighters.
+
+531
+00:31:23,560 --> 00:31:25,520
+No, it takes balls,
+big balls...
+
+532
+00:31:25,560 --> 00:31:28,360
+not ovaries, to maintain
+four enemy fighters...
+
+533
+00:31:28,400 --> 00:31:30,400
+and that's a fact, Jack.
+
+534
+00:31:30,440 --> 00:31:32,160
+All right, watch this.
+
+535
+00:31:33,640 --> 00:31:36,920
+Con. Con. This is Delta Two
+requesting permission to land.
+
+536
+00:31:36,960 --> 00:31:39,160
+RADIO: Delta Two,
+you're clear to land.
+
+537
+00:31:45,280 --> 00:31:49,000
+Delta Two, you're coming in
+too hot. Abort. I repeat, abort.
+
+538
+00:31:49,040 --> 00:31:51,640
+Delta Two. Do you copy?
+
+539
+00:31:51,680 --> 00:31:53,520
+Shit!
+
+540
+00:31:55,960 --> 00:31:57,400
+Delta Two, you are inverted!
+
+541
+00:31:57,440 --> 00:31:59,000
+MARSHALL: Hoo hoo! Not anymore.
+
+542
+00:32:03,000 --> 00:32:05,200
+MAN: Aaahhh!
+
+543
+00:32:07,000 --> 00:32:08,240
+Now, what were you saying?
+
+544
+00:32:08,280 --> 00:32:09,760
+RADIO: Delta One!
+
+545
+00:32:15,080 --> 00:32:16,360
+Whoo!
+
+546
+00:32:22,600 --> 00:32:24,240
+MARSHALL: What are you people
+lookin' at?
+
+547
+00:32:24,240 --> 00:32:25,880
+Carry on about your business.
+
+548
+00:32:25,920 --> 00:32:27,920
+Nothin' to see here,
+ladies and gentlemen.
+
+549
+00:32:27,920 --> 00:32:31,560
+Whoo! Oh, now,
+that was a sweet three-sixty.
+
+550
+00:32:32,440 --> 00:32:34,880
+Actually, that was a five-forty.
+
+551
+00:32:36,280 --> 00:32:38,960
+Did you just do that
+to impress me?
+
+552
+00:32:39,000 --> 00:32:42,320
+I'm just trying to redirect
+some of that testosterone.
+
+553
+00:32:43,360 --> 00:32:44,800
+You're a total...
+
+554
+00:32:44,880 --> 00:32:46,080
+maniac.
+
+555
+00:32:46,120 --> 00:32:49,520
+Todd "Maniac" Marshall
+at your service...ma'am!
+
+556
+00:32:49,560 --> 00:32:50,720
+Ha ha ha ha!
+
+557
+00:32:51,960 --> 00:32:54,200
+Ohh, shit.
+
+558
+00:33:07,120 --> 00:33:08,320
+[Intercom buzzes]
+
+559
+00:33:08,400 --> 00:33:09,520
+[Buzz]
+
+560
+00:33:09,560 --> 00:33:11,280
+OBUTU: You're needed
+on the bridge, Captain.
+
+561
+00:33:11,360 --> 00:33:13,080
+WILSON: I'll be right there.
+
+562
+00:33:14,600 --> 00:33:17,240
+You don't want to be here
+right now.
+
+563
+00:33:17,280 --> 00:33:18,720
+FORBES: Just for you, sir.
+
+564
+00:33:18,760 --> 00:33:20,400
+DEVEREAUX: Trying to bribe me?
+
+565
+00:33:20,440 --> 00:33:21,600
+FORBES: No.
+
+566
+00:33:23,280 --> 00:33:24,920
+No. Um...
+
+567
+00:33:24,960 --> 00:33:26,280
+thanks, Angel.
+
+568
+00:33:27,720 --> 00:33:28,920
+The flight boss would've
+brought us up on charges...
+
+569
+00:33:28,960 --> 00:33:30,120
+if you hadn't said something.
+
+570
+00:33:30,160 --> 00:33:32,720
+Yeah. Yeah, what the hell
+were you thinking?
+
+571
+00:33:32,760 --> 00:33:34,440
+Look, I wasn't.
+
+572
+00:33:34,480 --> 00:33:35,760
+[Chuckles]
+
+573
+00:33:35,800 --> 00:33:37,920
+Not with my head, anyway.
+
+574
+00:33:37,960 --> 00:33:40,440
+You're one of my best pilots.
+
+575
+00:33:40,480 --> 00:33:42,720
+I cannot afford to lose you.
+
+576
+00:33:44,640 --> 00:33:46,080
+I was just...
+
+577
+00:33:46,120 --> 00:33:48,120
+showing off a bit
+in front of Maniac.
+
+578
+00:33:48,160 --> 00:33:49,760
+Maniac?
+
+579
+00:33:49,800 --> 00:33:50,920
+[Chuckles]
+
+580
+00:33:50,960 --> 00:33:52,440
+Lieutenant Marshall.
+
+581
+00:33:53,960 --> 00:33:56,280
+He has a new call sign.
+
+582
+00:33:56,320 --> 00:33:57,920
+I see.
+
+583
+00:33:58,000 --> 00:34:00,320
+Well, I hope it felt very good.
+
+584
+00:34:02,240 --> 00:34:04,000
+Better...than...
+
+585
+00:34:04,080 --> 00:34:05,320
+sex.
+
+586
+00:34:05,360 --> 00:34:07,120
+Bullshit.
+
+587
+00:34:07,160 --> 00:34:08,880
+Better than sex with myself.
+
+588
+00:34:08,920 --> 00:34:10,520
+[Both laugh]
+
+589
+00:34:12,320 --> 00:34:14,560
+You just see that
+it never happens again.
+
+590
+00:34:16,200 --> 00:34:17,600
+[Opera music playing]
+
+591
+00:34:17,640 --> 00:34:19,520
+[Door opens]
+
+592
+00:34:19,560 --> 00:34:21,800
+BLAIR: Sir? Can I talk to you?
+
+593
+00:34:23,600 --> 00:34:24,760
+TAGGART: Yeah.
+
+594
+00:34:29,080 --> 00:34:30,280
+Go ahead.
+
+595
+00:34:32,600 --> 00:34:33,920
+BLAIR: My whole life...
+
+596
+00:34:33,960 --> 00:34:37,040
+I've taken crap
+because I'm part Pilgrim.
+
+597
+00:34:37,080 --> 00:34:38,600
+And I don't know why.
+
+598
+00:34:40,080 --> 00:34:41,760
+Sit down.
+
+599
+00:34:45,120 --> 00:34:48,120
+You're one of the last
+descendants of a dying race.
+
+600
+00:34:48,160 --> 00:34:52,600
+Pilgrims were the first human
+space explorers and settlers.
+
+601
+00:34:55,440 --> 00:34:57,400
+For five centuries...
+
+602
+00:34:57,440 --> 00:34:59,400
+they defied the odds.
+
+603
+00:34:59,440 --> 00:35:01,360
+They embraced space...
+
+604
+00:35:01,400 --> 00:35:03,880
+and for that,
+they were rewarded...
+
+605
+00:35:03,920 --> 00:35:06,640
+with the gift of a flawless
+sense of direction.
+
+606
+00:35:06,680 --> 00:35:09,880
+They could feel
+magnetic fields...
+
+607
+00:35:09,920 --> 00:35:11,720
+created by
+quasars and black holes...
+
+608
+00:35:11,720 --> 00:35:12,840
+created by
+quasars and black holes...
+
+609
+00:35:12,880 --> 00:35:15,000
+negotiate singularities...
+
+610
+00:35:15,040 --> 00:35:19,200
+navigate not just the stars,
+but space-time itself.
+
+611
+00:35:19,280 --> 00:35:21,000
+Like a Navcom A.I.?
+
+612
+00:35:21,040 --> 00:35:23,120
+TAGGART: No, no.
+You've got it backwards.
+
+613
+00:35:24,400 --> 00:35:26,880
+The billions of calculations
+each second...
+
+614
+00:35:26,920 --> 00:35:29,880
+necessary to lead us through
+a black hole or a quasar...
+
+615
+00:35:29,920 --> 00:35:34,600
+is the Navcom recreation
+of the mind of a single Pilgrim.
+
+616
+00:35:34,640 --> 00:35:36,920
+Then why'd the war start?
+
+617
+00:35:36,960 --> 00:35:38,080
+[Sighs]
+
+618
+00:35:38,120 --> 00:35:40,400
+You spend so much time
+out here alone...
+
+619
+00:35:40,440 --> 00:35:42,400
+you end up losing your humanity.
+
+620
+00:35:45,560 --> 00:35:49,040
+When Pilgrims began to lose
+touch with their heritage...
+
+621
+00:35:49,080 --> 00:35:52,760
+they saw themselves
+as superior to men.
+
+622
+00:35:52,800 --> 00:35:56,040
+And in their arrogance...
+
+623
+00:35:56,080 --> 00:35:59,120
+they chose to abandon
+all things human...
+
+624
+00:36:00,440 --> 00:36:03,640
+and follow what they called
+their "destiny."
+
+625
+00:36:03,680 --> 00:36:06,640
+Some say they believed
+they were gods.
+
+626
+00:36:06,680 --> 00:36:09,360
+You believe they were gods?
+
+627
+00:36:11,200 --> 00:36:12,360
+No.
+
+628
+00:36:14,520 --> 00:36:17,000
+But I do believe
+they were touched by God.
+
+629
+00:36:19,000 --> 00:36:20,600
+And like it or not...
+
+630
+00:36:23,040 --> 00:36:25,600
+you've got some of that
+inside you.
+
+631
+00:36:28,000 --> 00:36:29,960
+I have to get to the bridge.
+
+632
+00:36:30,000 --> 00:36:32,640
+We'll be jumping soon.
+I want you to be there.
+
+633
+00:36:48,400 --> 00:36:50,840
+MAN: This thing's
+eating suns for breakfast.
+
+634
+00:36:50,920 --> 00:36:52,120
+Let's go.
+
+635
+00:36:53,760 --> 00:36:55,640
+MAN ON LEFT:
+What the hell are we doing here?
+
+636
+00:36:55,760 --> 00:36:57,680
+HUNTER:
+You know what we're not doing.
+
+637
+00:36:57,720 --> 00:36:59,000
+FORBES: Turning around.
+
+638
+00:36:59,000 --> 00:37:01,080
+P.A.: This is the captain.
+
+639
+00:37:01,200 --> 00:37:05,480
+Prepare for a level-five
+jump-point interphase.
+
+640
+00:37:05,560 --> 00:37:07,440
+Secure all stations.
+
+641
+00:37:21,120 --> 00:37:22,880
+COMPUTER:
+Attention. Attention.
+
+642
+00:37:22,920 --> 00:37:24,080
+Course error.
+
+643
+00:37:24,080 --> 00:37:25,720
+Adjust course immediately.
+
+644
+00:37:25,760 --> 00:37:27,680
+Steady as she goes.
+
+645
+00:37:27,680 --> 00:37:29,320
+COMPUTER:
+Captain, the ship is headed...
+
+646
+00:37:29,320 --> 00:37:32,480
+into the PNR zone
+of a class-two pulsar.
+
+647
+00:37:32,520 --> 00:37:37,160
+One minute until
+gravitational pull is 100%.
+
+648
+00:37:38,920 --> 00:37:40,760
+What about it, Mr. Taggart?
+
+649
+00:37:40,760 --> 00:37:42,560
+The readings are wrong.
+
+650
+00:37:42,600 --> 00:37:46,240
+The sensors are not calibrated
+to the pulsar.
+
+651
+00:37:46,320 --> 00:37:49,680
+They've already been warped
+by the gravitational fields.
+
+652
+00:37:49,720 --> 00:37:53,200
+COMPUTER: Captain, I must insist
+we change course immediately.
+
+653
+00:37:53,240 --> 00:37:55,080
+TAGGART: No!
+
+654
+00:37:55,160 --> 00:37:56,360
+Manual override!
+
+655
+00:37:56,360 --> 00:37:57,480
+Forget you,
+artificial intelligence...
+
+656
+00:37:57,560 --> 00:37:58,880
+or we're all dead.
+
+657
+00:38:00,560 --> 00:38:03,160
+Captain,
+I think you should reconsider.
+
+658
+00:38:08,120 --> 00:38:09,600
+Steady as she goes, helm.
+
+659
+00:38:09,640 --> 00:38:11,560
+Aye, aye, sir.
+
+660
+00:38:14,520 --> 00:38:16,000
+COMPUTER:
+Warning. Warning.
+
+661
+00:38:16,080 --> 00:38:17,720
+Jump coordinates incorrect.
+
+662
+00:38:19,560 --> 00:38:21,200
+This is the captain.
+
+663
+00:38:21,240 --> 00:38:23,880
+Fifteen seconds to jump point.
+
+664
+00:38:28,120 --> 00:38:29,520
+MARSHALL:
+Watch. Oh, this is great.
+
+665
+00:38:31,680 --> 00:38:33,040
+MAN: Aft shields overloading.
+
+666
+00:38:34,200 --> 00:38:35,920
+MARSHALL:
+Just you and me. Hold on.
+
+667
+00:38:37,960 --> 00:38:39,080
+Ohh!
+
+668
+00:38:44,280 --> 00:38:45,680
+DEVEREAUX: Uhh!
+
+669
+00:38:45,720 --> 00:38:47,560
+-Ohh!
+-Uhh!
+
+670
+00:38:50,680 --> 00:38:52,920
+MARSHALL: Ha ha ha ha! Yeah!
+
+671
+00:38:52,960 --> 00:38:54,920
+BLAIR: You OK? You all right?
+
+672
+00:38:56,880 --> 00:38:58,760
+Where are we?
+
+673
+00:39:00,520 --> 00:39:02,200
+TAGGART: Ladies and gentlemen...
+
+674
+00:39:03,720 --> 00:39:06,560
+welcome to the Ulysses corridor.
+
+675
+00:39:09,000 --> 00:39:10,960
+We're through the jump point.
+
+676
+00:39:11,000 --> 00:39:12,840
+We made it.
+
+677
+00:39:15,440 --> 00:39:16,800
+Mr. Obutu.
+
+678
+00:39:18,040 --> 00:39:19,920
+Stealth mode, if you please.
+
+679
+00:39:21,120 --> 00:39:22,640
+Going to stealth.
+
+680
+00:39:25,960 --> 00:39:28,120
+Seven percent
+electronic emission...
+
+681
+00:39:28,160 --> 00:39:29,560
+zero communication.
+
+682
+00:39:31,480 --> 00:39:33,000
+Radar status.
+
+683
+00:39:33,040 --> 00:39:36,440
+Scanners picking up a strong
+electromagnetic signature...
+
+684
+00:39:36,440 --> 00:39:39,040
+at one-eleven mark forty-three.
+
+685
+00:39:39,080 --> 00:39:41,120
+An asteroid field.
+
+686
+00:39:41,160 --> 00:39:43,120
+-Lieutenant Commander.
+-Yes, sir.
+
+687
+00:39:43,160 --> 00:39:46,280
+Prepare a reconnoiter.
+I want to know what's out there.
+
+688
+00:39:46,320 --> 00:39:47,480
+And, Deveraux...
+
+689
+00:39:50,320 --> 00:39:52,960
+I don't want them to know
+that we're here.
+
+690
+00:39:53,000 --> 00:39:54,280
+Not yet.
+
+691
+00:39:54,320 --> 00:39:55,800
+Very good, sir.
+
+692
+00:40:02,280 --> 00:40:03,720
+MERLIN:
+Scanning quadrant.
+
+693
+00:40:03,760 --> 00:40:06,240
+Lieutenant, I'm picking up
+metal fragments ahead.
+
+694
+00:40:06,280 --> 00:40:09,280
+Alloy structure indicates
+from a Confederation vessel.
+
+695
+00:40:12,840 --> 00:40:14,560
+Angel, you catch that?
+
+696
+00:40:14,600 --> 00:40:16,040
+That's from Pegasus.
+
+697
+00:40:16,120 --> 00:40:18,360
+Ten thousand men and women...
+
+698
+00:40:18,400 --> 00:40:19,520
+gone...
+
+699
+00:40:19,560 --> 00:40:20,840
+just like that.
+
+700
+00:40:20,880 --> 00:40:23,000
+The concussion must've blown
+pieces of the station...
+
+701
+00:40:23,040 --> 00:40:24,520
+all over the sector.
+
+702
+00:40:26,360 --> 00:40:28,320
+COMPUTER:
+Warning. ENM emissions.
+
+703
+00:40:28,360 --> 00:40:30,520
+-Pipe down.
+-Two-one-six.
+
+704
+00:40:30,560 --> 00:40:32,520
+-Getting something.
+-Analyzing.
+
+705
+00:40:32,560 --> 00:40:34,320
+COMPUTER:
+Possible I.D. Kilrathi...
+
+706
+00:40:34,360 --> 00:40:37,360
+DEVEREAUX: Radio silence now.
+Get into the asteroids.
+
+707
+00:40:37,400 --> 00:40:38,560
+Low power.
+
+708
+00:40:54,640 --> 00:40:56,080
+They know we're here?
+
+709
+00:40:56,160 --> 00:40:57,320
+MERLIN: Possibly.
+
+710
+00:40:57,360 --> 00:40:59,520
+From the sophistication
+of the equipment onboard...
+
+711
+00:40:59,520 --> 00:41:03,360
+I'd say the vessel is a command
+and communications module.
+
+712
+00:41:03,400 --> 00:41:06,000
+What's it commanding?
+
+713
+00:41:06,040 --> 00:41:08,640
+MERLIN: At least six other ships
+down near the Brown Dwarf...
+
+714
+00:41:08,720 --> 00:41:10,160
+are communicating with it.
+
+715
+00:41:10,200 --> 00:41:13,560
+It seems to be transmitting
+jump coordinates.
+
+716
+00:41:29,080 --> 00:41:31,560
+Angel, they've spotted
+your heat corona!
+
+717
+00:41:31,560 --> 00:41:33,840
+I've got two more bogeys
+comin' in hot, six o'clock!
+
+718
+00:41:38,160 --> 00:41:40,120
+Can't spot them, Blair. Call it.
+
+719
+00:41:40,160 --> 00:41:42,640
+BLAIR: Jack in the box
+on three. One...
+
+720
+00:41:42,680 --> 00:41:44,480
+two...three!
+
+721
+00:42:01,400 --> 00:42:02,760
+Missile away!
+
+722
+00:42:05,520 --> 00:42:06,960
+The big one's shielded!
+
+723
+00:42:07,000 --> 00:42:09,840
+I got two more bogeys
+comin' up from the Brown Dwarf!
+
+724
+00:42:09,880 --> 00:42:11,000
+Engaging!
+
+725
+00:42:11,040 --> 00:42:13,160
+DEVEREAUX: Negative. I count
+fourteen unfriendlies inbound.
+
+726
+00:42:13,240 --> 00:42:14,960
+Looks like two destroyers.
+
+727
+00:42:15,000 --> 00:42:16,760
+We're out of here.
+
+728
+00:42:25,040 --> 00:42:27,000
+GERALD:
+You knew what the orders were--
+
+729
+00:42:27,040 --> 00:42:29,640
+no contact with the enemy.
+
+730
+00:42:29,720 --> 00:42:31,320
+Now you've compromised
+the mission...
+
+731
+00:42:31,360 --> 00:42:33,320
+and the very existence
+of this ship.
+
+732
+00:42:33,360 --> 00:42:34,840
+BLAIR: I had no choice, sir.
+
+733
+00:42:34,880 --> 00:42:36,000
+They'd spotted...
+
+734
+00:42:36,040 --> 00:42:37,480
+Lieutenant Commander
+Deveraux's heat signature.
+
+735
+00:42:37,520 --> 00:42:39,680
+GERALD: Really?
+Angel, how sure are you...
+
+736
+00:42:39,720 --> 00:42:41,480
+that the Kilrathi
+had you targeted?
+
+737
+00:42:41,520 --> 00:42:42,840
+Given the Lieutenant's
+background...
+
+738
+00:42:42,880 --> 00:42:44,640
+are you really that certain?
+
+739
+00:42:44,640 --> 00:42:46,000
+Excuse me?
+
+740
+00:42:47,720 --> 00:42:50,160
+It's well documented
+that Pilgrim saboteurs...
+
+741
+00:42:50,240 --> 00:42:51,520
+have been responsible...
+
+742
+00:42:51,560 --> 00:42:54,040
+for much of the Confed's
+problems in this war.
+
+743
+00:42:54,080 --> 00:42:55,720
+Did they have me targeted,
+Lieutenant?
+
+744
+00:42:55,760 --> 00:42:58,880
+WILSON: Now, come on.
+This is sterile conjecture.
+
+745
+00:42:59,880 --> 00:43:01,440
+The Kilrathi are well aware...
+
+746
+00:43:01,520 --> 00:43:03,360
+that rapiers
+don't just fly around...
+
+747
+00:43:03,400 --> 00:43:06,080
+in deep space
+without a carrier close by.
+
+748
+00:43:08,800 --> 00:43:10,840
+Thank you, Lieutenant.
+That is all.
+
+749
+00:43:10,880 --> 00:43:13,120
+-Sir--
+-Dismissed, Lieutenant.
+
+750
+00:43:17,520 --> 00:43:19,240
+WILSON:
+Your assessment, Mr. Gerald?
+
+751
+00:43:19,280 --> 00:43:21,240
+GERALD: That concom
+is running point...
+
+752
+00:43:21,280 --> 00:43:22,560
+for the battle group.
+
+753
+00:43:22,640 --> 00:43:24,880
+Their fleet won't be far behind.
+
+754
+00:43:24,920 --> 00:43:26,560
+So I say we send them a message.
+
+755
+00:43:26,600 --> 00:43:28,760
+I can have my fighters up
+in thirty minutes.
+
+756
+00:43:28,800 --> 00:43:30,520
+No, no. That's a mistake.
+
+757
+00:43:30,560 --> 00:43:32,400
+Without her fighters...
+
+758
+00:43:32,440 --> 00:43:33,960
+the Tiger Claw's vulnerable.
+
+759
+00:43:34,000 --> 00:43:35,800
+GERALD: You are
+a civilian scout, Mr. Taggart...
+
+760
+00:43:35,840 --> 00:43:37,320
+not a naval officer.
+
+761
+00:43:37,400 --> 00:43:38,840
+Tactical operations
+are our concern.
+
+762
+00:43:38,840 --> 00:43:40,520
+We are the Earth's only hope.
+
+763
+00:43:40,560 --> 00:43:44,040
+We need to buy our fleet
+two hours.
+
+764
+00:43:44,120 --> 00:43:47,120
+And you're willing
+to risk all that...
+
+765
+00:43:47,160 --> 00:43:49,960
+chasing after
+a communications ship?
+
+766
+00:43:50,000 --> 00:43:51,720
+WILSON: I'm sorry, Mr. Taggart.
+
+767
+00:43:51,760 --> 00:43:54,200
+Destroying the concom
+with its escorts...
+
+768
+00:43:54,240 --> 00:43:55,720
+will slow the Kilrathi.
+
+769
+00:43:55,720 --> 00:43:59,040
+Deveraux will lead
+a strike force.
+
+770
+00:43:59,040 --> 00:44:01,880
+And as you have charted
+the area before...
+
+771
+00:44:01,880 --> 00:44:03,520
+you will accompany her.
+
+772
+00:44:04,560 --> 00:44:06,040
+If you say so, Captain.
+
+773
+00:44:06,080 --> 00:44:07,920
+I do say so, Mr. Taggart.
+
+774
+00:44:14,000 --> 00:44:16,480
+-Carry on.
+-Yes, sir.
+
+775
+00:44:16,520 --> 00:44:18,120
+WILSON: Mr. Obutu.
+Plot a course...
+
+776
+00:44:18,160 --> 00:44:20,480
+for the rings
+of planet four-fifteen.
+
+777
+00:44:20,520 --> 00:44:22,880
+Four-fifteen. Aye, aye, sir.
+
+778
+00:44:27,520 --> 00:44:29,160
+BLAIR: I need to talk to you.
+
+779
+00:44:29,200 --> 00:44:31,000
+-You don't just barge in here.
+-Here.
+
+780
+00:44:31,040 --> 00:44:32,640
+BLAIR: I wear it for luck.
+
+781
+00:44:32,720 --> 00:44:34,760
+Is your luck at odds
+with our mission?
+
+782
+00:44:34,800 --> 00:44:36,760
+You think he's right?
+
+783
+00:44:36,760 --> 00:44:38,600
+Gerald?
+
+784
+00:44:38,640 --> 00:44:41,000
+In his mind, I started
+selling out the Tiger Claw...
+
+785
+00:44:41,040 --> 00:44:42,600
+the moment I stepped onboard!
+
+786
+00:44:42,640 --> 00:44:44,080
+I don't see
+how you can be a Pilgrim...
+
+787
+00:44:44,120 --> 00:44:45,480
+and fight on our side.
+
+788
+00:44:45,520 --> 00:44:47,120
+I'm not a Pilgrim!
+
+789
+00:44:48,760 --> 00:44:50,600
+My mother was.
+
+790
+00:44:50,640 --> 00:44:53,600
+My father
+fought for the Confederation.
+
+791
+00:44:53,640 --> 00:44:55,600
+And they both died
+before I was five.
+
+792
+00:44:55,640 --> 00:44:57,520
+He was killed
+trying to save her...
+
+793
+00:44:57,560 --> 00:44:59,040
+in the Peron massacre.
+
+794
+00:45:02,320 --> 00:45:04,440
+That cross is all I have.
+
+795
+00:45:12,480 --> 00:45:14,040
+Sit down, Lieutenant.
+
+796
+00:45:21,200 --> 00:45:23,640
+Why do you think
+they call me Angel?
+
+797
+00:45:25,360 --> 00:45:27,200
+I grew up in an orphanage.
+
+798
+00:45:27,240 --> 00:45:30,240
+Yeah, my parents died
+in the same war as yours.
+
+799
+00:45:30,320 --> 00:45:33,560
+My sisters told me they
+were angels gone to heaven...
+
+800
+00:45:33,600 --> 00:45:35,960
+so I prayed for them.
+They weren't angels.
+
+801
+00:45:36,000 --> 00:45:38,640
+They were dead, gone.
+They never existed.
+
+802
+00:45:38,680 --> 00:45:41,280
+Like Bossman?
+
+803
+00:45:41,320 --> 00:45:44,320
+Emotion gets in the way.
+
+804
+00:45:44,320 --> 00:45:47,960
+Commander, emotion
+is what separates us...
+
+805
+00:45:47,960 --> 00:45:50,720
+from the Pilgrims
+and from the Kilrathi.
+
+806
+00:45:50,760 --> 00:45:54,160
+Lieutenant Commander
+Chen was--was...
+
+807
+00:45:54,160 --> 00:45:57,160
+Bossman and I got close.
+
+808
+00:45:57,200 --> 00:45:59,440
+In fact, we got too close.
+
+809
+00:46:01,000 --> 00:46:04,320
+Then he got himself killed.
+
+810
+00:46:07,160 --> 00:46:09,480
+I better suit up.
+
+811
+00:46:14,720 --> 00:46:18,000
+We're square, you and l.
+You saved my hide today.
+
+812
+00:46:33,360 --> 00:46:34,440
+[Marshall moans]
+
+813
+00:46:34,480 --> 00:46:36,520
+FORBES: Come on, Maniac.
+
+814
+00:46:36,560 --> 00:46:40,880
+Fire it up one more time.
+
+815
+00:46:40,920 --> 00:46:42,040
+MARSHALL: No, no, no, no.
+
+816
+00:46:42,080 --> 00:46:46,000
+I think the big Maniac
+needs time to refuel.
+
+817
+00:46:46,040 --> 00:46:47,520
+FORBES:
+Don't I take care of you?
+
+818
+00:46:47,560 --> 00:46:48,920
+That's a big "yes, sir."
+
+819
+00:46:48,960 --> 00:46:50,120
+FORBES: So what about my needs?
+
+820
+00:46:50,160 --> 00:46:52,280
+Well, I'm all about
+your needs, sir.
+
+821
+00:46:56,440 --> 00:46:57,840
+FORBES: Really?
+
+822
+00:46:57,880 --> 00:46:59,240
+MARSHALL: Yeah,
+and right now you need...
+
+823
+00:46:59,240 --> 00:47:00,520
+to shut up
+and go to sleep, woman.
+
+824
+00:47:00,520 --> 00:47:01,520
+to shut up
+and go to sleep, woman.
+
+825
+00:47:03,920 --> 00:47:05,480
+You know,
+you make it all worth it.
+
+826
+00:47:05,520 --> 00:47:07,680
+Make what worth it?
+
+827
+00:47:07,720 --> 00:47:09,440
+Coming way out here to fight.
+
+828
+00:47:12,000 --> 00:47:13,720
+Leaving everything I love
+back at home.
+
+829
+00:47:13,760 --> 00:47:16,760
+Remember the briefing.
+
+830
+00:47:18,040 --> 00:47:20,800
+By the time you return...
+
+831
+00:47:20,840 --> 00:47:23,920
+everyone you know
+will be dead and buried.
+
+832
+00:47:25,880 --> 00:47:27,400
+Yeah, well...
+
+833
+00:47:27,440 --> 00:47:30,040
+you know what?
+
+834
+00:47:30,080 --> 00:47:32,000
+I don't care about any of that.
+
+835
+00:47:40,440 --> 00:47:42,840
+OFFICER: Attention,
+all Baker wing pilots...
+
+836
+00:47:42,880 --> 00:47:44,400
+report to the flight deck.
+
+837
+00:47:44,440 --> 00:47:47,840
+Repeat, all Baker wing pilots
+report to the flight deck.
+
+838
+00:47:47,880 --> 00:47:50,720
+MARSHALL: Oh, shit.
+
+839
+00:47:53,200 --> 00:47:56,160
+This war is really starting
+to piss me off.
+
+840
+00:47:57,840 --> 00:47:58,960
+Big time.
+
+841
+00:47:59,000 --> 00:48:01,000
+MARSHALL: Ha. Let's go.
+
+842
+00:48:01,000 --> 00:48:02,720
+All right, ladies, listen up.
+
+843
+00:48:02,760 --> 00:48:06,160
+We have a concom with escorts.
+
+844
+00:48:06,200 --> 00:48:08,960
+That means two,
+possibly three destroyers...
+
+845
+00:48:09,000 --> 00:48:11,400
+fighters, and support ships.
+
+846
+00:48:11,440 --> 00:48:13,040
+Primary target is the concom.
+
+847
+00:48:13,080 --> 00:48:14,520
+Everything else is gravy.
+
+848
+00:48:14,560 --> 00:48:16,440
+BLAIR: Just keep your mind
+on the Kilrathi, Maniac.
+
+849
+00:48:16,480 --> 00:48:17,960
+DEVEREAUX:
+Let's make them bleed.
+
+850
+00:48:18,000 --> 00:48:19,200
+Mount up.
+
+851
+00:48:19,280 --> 00:48:20,240
+Blair,
+you'll take Hunter's wing.
+
+852
+00:48:20,280 --> 00:48:21,400
+MARSHALL: Watch your back.
+
+853
+00:48:21,440 --> 00:48:25,480
+HUNTER: Ma'am, I'd as soon
+you assign me another wingman.
+
+854
+00:48:25,520 --> 00:48:27,040
+DEVEREAUX: You have a problem
+I should be aware of?
+
+855
+00:48:27,080 --> 00:48:30,720
+HUNTER: Yes, ma'am, I do.
+I don't fly with Pilgrims.
+
+856
+00:48:30,760 --> 00:48:32,120
+DEVEREAUX: You'll fly my wing.
+
+857
+00:48:32,200 --> 00:48:33,400
+BLAIR: Are you sure?
+
+858
+00:48:33,440 --> 00:48:35,520
+DEVEREAUX: Did I give
+a suggestion or an order?
+
+859
+00:48:35,560 --> 00:48:37,600
+BLAIR: I got your wing, ma'am.
+
+860
+00:48:53,800 --> 00:48:56,720
+DEVEREAUX: Picking up
+any com traffic, Baker Seven?
+
+861
+00:48:56,760 --> 00:48:58,880
+No.
+
+862
+00:49:01,120 --> 00:49:03,280
+Must be observing
+radio silence...
+
+863
+00:49:03,320 --> 00:49:05,520
+except for
+short range frequencies.
+
+864
+00:49:05,560 --> 00:49:07,640
+Baker Two, Three, and Four--
+anything?
+
+865
+00:49:07,680 --> 00:49:08,840
+BLAIR: Negative, chief.
+
+866
+00:49:08,880 --> 00:49:10,720
+FORBES:
+Nothing happening, boss.
+
+867
+00:49:10,760 --> 00:49:12,160
+HUNTER: Scope's clear, boss.
+
+868
+00:49:12,240 --> 00:49:13,440
+[Alarm sounds]
+
+869
+00:49:13,480 --> 00:49:16,160
+COMPUTER:
+Possible hostile contacts...
+
+870
+00:49:16,200 --> 00:49:20,320
+bearing three-zero-nine,
+local vector norton.
+
+871
+00:49:20,360 --> 00:49:21,800
+MARSHALL: All right, you losers,
+listen up.
+
+872
+00:49:21,840 --> 00:49:23,160
+I got three confirmed targets...
+
+873
+00:49:23,200 --> 00:49:25,640
+bugging that big Brown Dwarf
+down there.
+
+874
+00:49:25,720 --> 00:49:27,600
+FORBES: Confirm that.
+
+875
+00:49:27,640 --> 00:49:31,520
+The middle one has a massive
+electromagnetic signature.
+
+876
+00:49:31,560 --> 00:49:33,480
+DEVERAUX: All right, ladies,
+it's the concom.
+
+877
+00:49:33,520 --> 00:49:34,920
+Deploy for attack.
+
+878
+00:49:34,960 --> 00:49:37,440
+TAGGART:
+That's no concom. Abort!
+
+879
+00:49:37,480 --> 00:49:39,920
+DEVEREAUX: Baker Seven,
+you have no authority...
+
+880
+00:49:39,960 --> 00:49:41,480
+over this mission
+or its personnel.
+
+881
+00:49:41,560 --> 00:49:43,560
+Forget it, Baker One.
+
+882
+00:49:43,600 --> 00:49:46,000
+These are supply ships
+left behind...
+
+883
+00:49:46,040 --> 00:49:48,320
+by the Kilrathi battle group.
+
+884
+00:49:48,360 --> 00:49:50,320
+The Tiger Claw is in danger.
+
+885
+00:49:50,360 --> 00:49:53,360
+You are a civilian scout.
+
+886
+00:49:53,400 --> 00:49:55,680
+Commander, I'm not a civilian.
+
+887
+00:49:55,720 --> 00:49:59,760
+I hold the rank of Commodore
+in naval intelligence...
+
+888
+00:49:59,880 --> 00:50:02,320
+reporting directly
+to Admiral Tolwyn.
+
+889
+00:50:02,360 --> 00:50:04,000
+My call sign is Paladin.
+
+890
+00:50:04,040 --> 00:50:09,320
+My security verification code is
+Charlie-six-alpha-zebra-niner.
+
+891
+00:50:09,360 --> 00:50:11,240
+Try it, commander, now.
+
+892
+00:50:17,280 --> 00:50:18,880
+COMPUTER: Accessing.
+
+893
+00:50:18,920 --> 00:50:21,440
+Commodore James Taggart,
+naval intelligence.
+
+894
+00:50:21,440 --> 00:50:22,640
+Call sign: Paladin.
+
+895
+00:50:22,680 --> 00:50:24,000
+TAGGART: Listen to me, Angel.
+
+896
+00:50:24,040 --> 00:50:26,960
+If I'm wrong, you'll miss out...
+
+897
+00:50:27,000 --> 00:50:29,280
+on taking
+a couple of freighters.
+
+898
+00:50:29,320 --> 00:50:31,040
+But if I'm right...
+
+899
+00:50:31,080 --> 00:50:33,840
+the Tiger Claw
+could already be under attack.
+
+900
+00:50:33,880 --> 00:50:37,320
+FORBES: The Claw is already
+in that radiation belt, boss.
+
+901
+00:50:37,360 --> 00:50:40,600
+They couldn't radio for us
+even if they wanted to.
+
+902
+00:50:45,240 --> 00:50:46,920
+PILOT:
+Security check, alpha two...
+
+903
+00:50:46,960 --> 00:50:48,360
+nothing to report
+in this quadrant.
+
+904
+00:50:48,400 --> 00:50:49,520
+Everything is A-OK.
+
+905
+00:50:49,560 --> 00:50:52,120
+Wait a minute. What the--
+
+906
+00:50:54,840 --> 00:50:57,040
+Who is breaking radio silence?
+
+907
+00:50:57,080 --> 00:50:59,160
+Multiple targets inbound, sir.
+
+908
+00:50:59,200 --> 00:51:01,800
+GERALD: Battle stations!
+Launch all fighters!
+
+909
+00:51:04,960 --> 00:51:07,320
+Battle stations.
+Battle stations.
+
+910
+00:51:10,760 --> 00:51:14,400
+P.A: All fighters scramble.
+All fighters scramble.
+
+911
+00:51:15,480 --> 00:51:17,240
+Get that deck clear!
+
+912
+00:51:19,880 --> 00:51:21,600
+MAN: Get the safeties
+off those!
+
+913
+00:51:21,640 --> 00:51:22,960
+Let's get those things
+in the air!
+
+914
+00:51:23,000 --> 00:51:24,920
+[Men shouting]
+
+915
+00:51:27,960 --> 00:51:29,800
+MAN: You're fueled up.
+
+916
+00:51:29,840 --> 00:51:31,440
+Opening hangar doors now.
+
+917
+00:51:33,800 --> 00:51:34,920
+Delta Three...
+
+918
+00:51:34,960 --> 00:51:36,560
+Launch!
+
+919
+00:51:45,960 --> 00:51:47,440
+All fighters launched, sir.
+
+920
+00:51:49,760 --> 00:51:51,000
+GERALD: Sir!
+
+921
+00:51:53,760 --> 00:51:55,080
+WILSON: Shields up!
+
+922
+00:52:06,800 --> 00:52:08,680
+OBUTU: All shields are engaged.
+
+923
+00:52:14,720 --> 00:52:17,640
+I count three dozen
+Kilrathi star fighters...
+
+924
+00:52:17,720 --> 00:52:20,080
+two destroyers,
+and one battleship, sir.
+
+925
+00:52:20,120 --> 00:52:22,200
+That damn Taggart was right.
+
+926
+00:52:22,240 --> 00:52:23,880
+Maybe he knew something
+we didn't.
+
+927
+00:52:30,600 --> 00:52:31,720
+PILOT: Stay on my wing.
+
+928
+00:52:31,760 --> 00:52:33,280
+-Copy, Baker Leader.
+-I'm right behind you.
+
+929
+00:52:33,360 --> 00:52:35,240
+-I'm on this one.
+-Get him off my tail!
+
+930
+00:52:38,400 --> 00:52:39,520
+Torpedoes incoming.
+
+931
+00:52:39,560 --> 00:52:40,720
+Brace for impact!
+
+932
+00:52:44,520 --> 00:52:46,960
+Mr. Falk, give me a target.
+
+933
+00:52:48,840 --> 00:52:51,000
+FALK:
+Target acquisition imminent.
+
+934
+00:52:51,040 --> 00:52:54,840
+We've locked on to one
+of the destroyers, sir.
+
+935
+00:52:54,880 --> 00:52:57,160
+Fire tubes one and two!
+
+936
+00:53:15,440 --> 00:53:17,600
+Tracking two more torpedoes.
+
+937
+00:53:17,640 --> 00:53:19,320
+Hard to port.
+
+938
+00:53:28,120 --> 00:53:29,920
+[Beeping]
+
+939
+00:53:35,080 --> 00:53:37,600
+OBUTU: Force shield suffering
+forty percent failure.
+
+940
+00:53:37,640 --> 00:53:39,800
+Battery room reports a fire.
+
+941
+00:53:39,840 --> 00:53:42,800
+I'm getting a dozen more
+targets behind the battleship.
+
+942
+00:53:42,840 --> 00:53:45,040
+They're bringing in
+reinforcements.
+
+943
+00:53:45,080 --> 00:53:47,080
+We should be flattered.
+
+944
+00:53:47,120 --> 00:53:49,480
+Torpedo room report.
+
+945
+00:53:51,800 --> 00:53:53,800
+Tubes three and four
+are damaged.
+
+946
+00:53:53,840 --> 00:53:55,680
+Autoloaders are not operational.
+
+947
+00:53:56,720 --> 00:53:59,080
+FALK: Captain, I'm getting
+a coded friend or foe...
+
+948
+00:53:59,120 --> 00:54:01,080
+acknowledge
+from the new star fighters.
+
+949
+00:54:01,120 --> 00:54:02,520
+It's Deveraux's wing.
+
+950
+00:54:07,520 --> 00:54:09,600
+All right, ladies, let's do it.
+
+951
+00:54:09,640 --> 00:54:11,560
+All rapiers except
+Maniac and Blair...
+
+952
+00:54:11,600 --> 00:54:13,480
+engage those Dralthi.
+
+953
+00:54:14,800 --> 00:54:16,360
+See ya later, Nugget.
+
+954
+00:54:16,400 --> 00:54:18,560
+Watch your back, Rosie.
+
+955
+00:54:24,520 --> 00:54:26,240
+Broadswords, follow me in.
+
+956
+00:54:26,280 --> 00:54:27,560
+Maniac, Blair, cover us.
+
+957
+00:54:56,240 --> 00:54:58,440
+MARSHALL: Whoo-hoo-hoo!
+
+958
+00:54:58,480 --> 00:55:00,800
+BLAIR: Nice shooting, Maniac.
+
+959
+00:55:00,840 --> 00:55:02,280
+Buy one, get one free.
+
+960
+00:55:02,320 --> 00:55:04,920
+DEVEREAUX: OK, we've cleared
+a path for the bombers.
+
+961
+00:55:04,960 --> 00:55:06,320
+Let's get back to the action.
+
+962
+00:55:06,360 --> 00:55:08,360
+MARSHALL: Roger that.
+
+963
+00:55:08,440 --> 00:55:10,440
+Steady on course, Mr. Knight.
+
+964
+00:55:12,200 --> 00:55:15,960
+PILOT: The flak's too heavy.
+Let's launch now.
+
+965
+00:55:16,960 --> 00:55:18,440
+TAGGART: Wait for them
+to launch a torpedo.
+
+966
+00:55:18,480 --> 00:55:21,120
+They'll lower their shield
+just before.
+
+967
+00:55:22,280 --> 00:55:24,480
+-I'm hit!
+-Almost there.
+
+968
+00:55:24,520 --> 00:55:25,800
+TAGGART:
+Steady, my friend. Almost--
+
+969
+00:55:40,840 --> 00:55:42,640
+OBUTU: Hull breach, level three!
+
+970
+00:55:42,720 --> 00:55:44,400
+Shields not functioning.
+
+971
+00:55:44,440 --> 00:55:45,920
+Power at thirty percent.
+
+972
+00:55:45,960 --> 00:55:47,440
+GERALD: Sir!
+
+973
+00:55:47,520 --> 00:55:48,640
+Sir!
+
+974
+00:55:48,720 --> 00:55:50,280
+Steering loss, eighty percent.
+
+975
+00:55:52,920 --> 00:55:55,600
+GERALD: Medic to the bridge.
+
+976
+00:56:01,720 --> 00:56:03,160
+Bogey on my six.
+
+977
+00:56:03,240 --> 00:56:04,400
+Blair, help me out here.
+
+978
+00:56:08,240 --> 00:56:09,600
+Blair, where the hell are you?
+
+979
+00:56:09,640 --> 00:56:11,400
+I said, help me out here.
+
+980
+00:56:11,440 --> 00:56:13,240
+BLAIR: Is that a suggestion
+or an order, ma'am?
+
+981
+00:56:13,280 --> 00:56:14,720
+DEVERAUX: Definitely an order.
+
+982
+00:56:14,760 --> 00:56:16,200
+Wait. The battleship's
+preparing to launch.
+
+983
+00:56:16,240 --> 00:56:18,520
+She's going to finish off
+the Tiger Claw.
+
+984
+00:56:18,560 --> 00:56:20,040
+BLAIR: Where's Paladin?
+
+985
+00:56:20,040 --> 00:56:21,320
+No visual contact.
+
+986
+00:56:30,760 --> 00:56:31,920
+Baker Leader...
+
+987
+00:56:31,960 --> 00:56:34,680
+get your fighters
+clear of the pulse wave.
+
+988
+00:56:34,720 --> 00:56:36,160
+DEVERAUX: Roger that.
+
+989
+00:56:36,200 --> 00:56:37,920
+Maniac, Blair, return to ship.
+
+990
+00:56:37,960 --> 00:56:39,120
+BLAIR: Yes, ma'am.
+
+991
+00:56:46,240 --> 00:56:48,880
+Au revoir, mes amis.
+
+992
+00:57:12,120 --> 00:57:15,080
+MARSHALL: Hey, Forbes,
+you wanna go bury some Kilrathi?
+
+993
+00:57:15,080 --> 00:57:17,920
+Hmmph.
+Like you have to ask.
+
+994
+00:57:17,960 --> 00:57:20,280
+CONTROL: All craft
+return to ship immediately.
+
+995
+00:57:20,320 --> 00:57:23,600
+I repeat--
+all craft return to ship.
+
+996
+00:57:23,640 --> 00:57:25,040
+DEVERAUX: All right, ladies.
+You heard the man.
+
+997
+00:57:25,080 --> 00:57:26,240
+Maniac?
+
+998
+00:57:26,280 --> 00:57:27,960
+MARSHALL: What about my needs?
+
+999
+00:57:30,920 --> 00:57:32,920
+DEVERAUX: Maniac, Forbes,
+return to the ship. You copy me?
+
+1000
+00:57:39,280 --> 00:57:41,640
+They're trying to ram.
+
+1001
+00:57:41,680 --> 00:57:44,600
+They obviously don't want
+to play nice.
+
+1002
+00:57:49,800 --> 00:57:52,520
+Now, does that take balls,
+or what?
+
+1003
+00:57:52,560 --> 00:57:55,320
+MARSHALL: Yeah. It's not bad.
+It's not bad for a woman...
+
+1004
+00:57:55,360 --> 00:57:58,160
+but watch
+how a man handles this.
+
+1005
+00:58:01,840 --> 00:58:03,320
+FORBES:
+What are you doing, Maniac?
+
+1006
+00:58:03,320 --> 00:58:04,960
+MARSHALL: I'm gonna finish this
+argument once and for all...
+
+1007
+00:58:05,000 --> 00:58:06,360
+'cause this...
+
+1008
+00:58:06,400 --> 00:58:08,400
+This takes balls.
+
+1009
+00:58:08,440 --> 00:58:09,560
+FORBES: Maniac.
+
+1010
+00:58:09,600 --> 00:58:12,040
+Open fire. Shoot him.
+
+1011
+00:58:12,120 --> 00:58:15,240
+You better open fire, or I will.
+
+1012
+00:58:15,280 --> 00:58:16,640
+MARSHALL: It's all
+in the timing. It's my shot.
+
+1013
+00:58:16,680 --> 00:58:19,040
+Come on. My shot.
+
+1014
+00:58:21,320 --> 00:58:23,760
+No! Shit! Pull up, Rosie!
+
+1015
+00:58:23,800 --> 00:58:26,280
+Rosie, pull up! Pull up!
+
+1016
+00:58:27,840 --> 00:58:30,000
+Rosie, can you hold her?
+
+1017
+00:58:30,040 --> 00:58:33,440
+I could fly this thing
+and cook you breakfast.
+
+1018
+00:58:33,480 --> 00:58:35,240
+Quit showing off.
+
+1019
+00:58:38,680 --> 00:58:40,080
+All right. You eject...
+
+1020
+00:58:40,120 --> 00:58:42,120
+and I'm gonna tractor you home.
+
+1021
+00:58:42,160 --> 00:58:44,520
+Oh, you'd love that one,
+wouldn't you?
+
+1022
+00:58:47,720 --> 00:58:49,560
+The ejection system is fried.
+
+1023
+00:58:49,600 --> 00:58:52,120
+That ain't no thing.
+We'll just do it together, OK?
+
+1024
+00:58:53,600 --> 00:58:55,480
+Just follow me in, all right?
+
+1025
+00:58:58,920 --> 00:59:01,040
+Con, Con. This is Baker Three
+and Baker Four.
+
+1026
+00:59:01,120 --> 00:59:02,680
+We're coming in,
+and we're coming in hot.
+
+1027
+00:59:02,720 --> 00:59:04,520
+Get everything off that deck
+that ain't bolted down. Over.
+
+1028
+00:59:04,560 --> 00:59:05,680
+CONTROL: Roger that.
+
+1029
+00:59:05,760 --> 00:59:08,200
+Baker Three and Baker Four,
+you are cleared to land.
+
+1030
+00:59:12,080 --> 00:59:14,040
+[Alarm]
+
+1031
+00:59:14,080 --> 00:59:17,040
+We're coming in too fast, Rosie.
+
+1032
+00:59:20,280 --> 00:59:22,080
+That's it. Just line it up.
+
+1033
+00:59:28,640 --> 00:59:30,040
+Almost there. Easy.
+
+1034
+00:59:30,080 --> 00:59:31,680
+Just ease it in, girl.
+
+1035
+00:59:31,720 --> 00:59:33,720
+I love it when you talk dirty.
+
+1036
+00:59:36,400 --> 00:59:38,040
+MARSHALL:
+Get that nose up, marine!
+
+1037
+00:59:39,040 --> 00:59:41,520
+Pull up, Rosie!
+
+1038
+00:59:51,400 --> 00:59:53,320
+Forbes?
+
+1039
+01:00:05,560 --> 01:00:07,400
+Rosie?
+
+1040
+01:00:07,440 --> 01:00:09,120
+No. Rosie?
+
+1041
+01:00:09,160 --> 01:00:11,240
+Hey! Get me a medic.
+
+1042
+01:00:11,280 --> 01:00:12,240
+Get me a medic!
+
+1043
+01:00:12,280 --> 01:00:13,760
+Hey! Someone get me
+a rescue crew!
+
+1044
+01:00:13,800 --> 01:00:16,480
+Get me a rescue crew!
+
+1045
+01:00:16,520 --> 01:00:18,240
+Get me a rescue crew!
+
+1046
+01:00:18,280 --> 01:00:19,400
+Get me a medic!
+
+1047
+01:00:19,440 --> 01:00:21,240
+Get a rescue crew!
+
+1048
+01:00:21,280 --> 01:00:22,360
+No!
+
+1049
+01:00:23,400 --> 01:00:25,360
+BLAIR:
+She's outside the airlock!
+
+1050
+01:00:25,440 --> 01:00:26,960
+You go through that field,
+you're history.
+
+1051
+01:00:26,960 --> 01:00:28,440
+MARSHALL: Give me a suit!
+
+1052
+01:00:28,480 --> 01:00:30,880
+Somebody give me a suit!
+
+1053
+01:00:36,320 --> 01:00:37,480
+Rosie.
+
+1054
+01:00:38,600 --> 01:00:40,760
+Rosie. Rosie, can you hear me?
+
+1055
+01:00:44,920 --> 01:00:48,000
+TAGGART: Baker One,
+we need to get out of here.
+
+1056
+01:00:48,040 --> 01:00:49,440
+Rosie.
+
+1057
+01:00:52,560 --> 01:00:54,880
+HUNTER: We're running
+on fumes here, boss.
+
+1058
+01:00:57,920 --> 01:00:59,760
+Baker Leader to Con.
+
+1059
+01:01:04,160 --> 01:01:06,320
+Push that wreckage off the deck.
+
+1060
+01:01:08,720 --> 01:01:10,160
+What is that?
+
+1061
+01:01:11,320 --> 01:01:12,840
+MARSHALL: What is that?
+
+1062
+01:01:12,880 --> 01:01:14,000
+No, no, no.
+
+1063
+01:01:14,040 --> 01:01:15,480
+No, no, no.
+
+1064
+01:01:15,520 --> 01:01:16,960
+OK, look.
+
+1065
+01:01:17,000 --> 01:01:19,160
+She's alive. I know.
+I can see her eyes.
+
+1066
+01:01:19,200 --> 01:01:20,360
+Stop it, please!
+
+1067
+01:01:20,400 --> 01:01:22,120
+[No audio]
+
+1068
+01:01:23,960 --> 01:01:25,080
+MARSHALL: I'm gonna go get her,
+all right?
+
+1069
+01:01:25,120 --> 01:01:28,080
+-I'm gonna go get her.
+-You are not going out there!
+
+1070
+01:01:28,120 --> 01:01:32,080
+MARSHALL: Get away from me,
+you son of a bitch Pilgrim!
+
+1071
+01:01:32,160 --> 01:01:35,120
+BLAIR:
+You are not going out there!
+
+1072
+01:01:55,000 --> 01:01:56,160
+HUNTER: Listen, ma'am--
+
+1073
+01:01:58,040 --> 01:01:59,320
+DEVEREAUX: Lieutenant Marshall!
+
+1074
+01:02:00,440 --> 01:02:02,640
+You disobeyed a direct order...
+
+1075
+01:02:02,720 --> 01:02:04,840
+which during wartime
+is considered treason...
+
+1076
+01:02:04,880 --> 01:02:06,040
+and punishable by death.
+
+1077
+01:02:06,080 --> 01:02:08,240
+Hunter, give me your gun.
+
+1078
+01:02:08,280 --> 01:02:10,600
+BLAIR: Whoa. Whoa.
+You can't bring her back.
+
+1079
+01:02:10,640 --> 01:02:12,560
+Give me your gun.
+
+1080
+01:02:13,520 --> 01:02:15,240
+BLAIR: You holster that gun!
+
+1081
+01:02:15,280 --> 01:02:18,240
+HUNTER: She's the C.O., Nugget.
+
+1082
+01:02:20,280 --> 01:02:22,960
+BLAIR: Do not do this.
+
+1083
+01:02:25,440 --> 01:02:29,320
+It was a stupid accident.
+He has to live with it.
+
+1084
+01:02:30,880 --> 01:02:32,680
+Shh. It's OK.
+
+1085
+01:02:44,560 --> 01:02:46,960
+If you endanger another pilot...
+
+1086
+01:02:48,440 --> 01:02:49,960
+you're dead.
+
+1087
+01:03:16,200 --> 01:03:17,400
+GERALD: There.
+
+1088
+01:03:17,440 --> 01:03:19,080
+Put her down there.
+
+1089
+01:03:19,120 --> 01:03:20,760
+HELMSMAN: Aye-aye, sir.
+
+1090
+01:03:48,960 --> 01:03:50,080
+[Electronic thrumming noises]
+
+1091
+01:03:52,800 --> 01:03:54,400
+Decoy away, commander.
+
+1092
+01:03:56,760 --> 01:03:58,440
+She's got a bigger
+electronic signature...
+
+1093
+01:03:58,480 --> 01:03:59,640
+than the Concordia.
+
+1094
+01:03:59,720 --> 01:04:01,120
+I think she'll fool them.
+
+1095
+01:04:01,160 --> 01:04:02,360
+GERALD: I hope you're right.
+
+1096
+01:04:02,400 --> 01:04:05,120
+Secure all active scanners.
+Passive systems only.
+
+1097
+01:04:08,320 --> 01:04:09,440
+[Beep]
+
+1098
+01:04:09,480 --> 01:04:11,120
+[Systems power down]
+
+1099
+01:04:35,440 --> 01:04:37,320
+OBUTU: That's
+the Kilrathi battle group.
+
+1100
+01:04:48,920 --> 01:04:50,520
+FALK:
+They're following the decoy.
+
+1101
+01:04:51,880 --> 01:04:53,040
+They've missed us!
+
+1102
+01:04:53,080 --> 01:04:55,040
+[Cheering]
+
+1103
+01:04:55,040 --> 01:04:56,800
+-Come on!
+-Quiet. Shh!
+
+1104
+01:04:56,840 --> 01:04:58,520
+[Sonar ping]
+
+1105
+01:04:58,560 --> 01:05:01,000
+There's a destroyer hunting us.
+
+1106
+01:05:01,040 --> 01:05:02,960
+[Sonar pinging]
+
+1107
+01:05:21,320 --> 01:05:23,720
+[Sonar pings grow louder]
+
+1108
+01:05:23,760 --> 01:05:25,280
+They've spotted us.
+
+1109
+01:05:26,560 --> 01:05:28,080
+TAGGART: No, no, no.
+
+1110
+01:05:28,120 --> 01:05:30,560
+We're in a dense radiation belt.
+
+1111
+01:05:30,560 --> 01:05:33,080
+Gamma rays
+are clouding their screens.
+
+1112
+01:05:33,080 --> 01:05:36,200
+If they can't see or hear,
+they won't find us.
+
+1113
+01:06:02,240 --> 01:06:04,080
+[Explosion]
+
+1114
+01:06:07,440 --> 01:06:09,720
+They're nuking every crater.
+
+1115
+01:06:09,760 --> 01:06:11,720
+Methodical bastards.
+
+1116
+01:06:16,960 --> 01:06:19,720
+[Sonar pings quickening]
+
+1117
+01:06:26,840 --> 01:06:28,480
+[Explosion]
+
+1118
+01:06:34,880 --> 01:06:36,000
+[Metal creaking]
+
+1119
+01:06:36,040 --> 01:06:38,040
+MAN: The doors are failing.
+
+1120
+01:06:41,160 --> 01:06:42,720
+Grab anything that will seal it!
+
+1121
+01:06:45,200 --> 01:06:46,600
+Come on!
+
+1122
+01:06:49,160 --> 01:06:50,960
+[Vacuum suction]
+
+1123
+01:06:54,640 --> 01:06:56,440
+BLAIR: Whoa-ohh!
+
+1124
+01:06:59,160 --> 01:07:01,520
+You just gonna sit there
+and watch him die?
+
+1125
+01:07:05,680 --> 01:07:06,920
+Hold on, B!
+
+1126
+01:07:06,960 --> 01:07:08,440
+I'm coming!
+
+1127
+01:07:11,680 --> 01:07:14,360
+I'm going to get him.
+Take this end, tie it off.
+
+1128
+01:07:14,400 --> 01:07:15,520
+I'm going to get him.
+
+1129
+01:07:15,560 --> 01:07:18,320
+-Maniac!
+-Coming, B!
+
+1130
+01:07:18,360 --> 01:07:19,840
+MARSHALL: Tie it secure.
+
+1131
+01:07:19,840 --> 01:07:21,880
+Hold on. I'm comin'!
+
+1132
+01:07:28,760 --> 01:07:30,200
+BLAIR: Maniac!
+
+1133
+01:07:32,040 --> 01:07:37,160
+MARSHALL: Aah!
+
+1134
+01:07:37,200 --> 01:07:38,840
+Uhh!
+
+1135
+01:07:42,600 --> 01:07:44,480
+Come on!
+
+1136
+01:07:46,680 --> 01:07:48,520
+Come on!
+
+1137
+01:07:48,560 --> 01:07:49,880
+Come on!
+
+1138
+01:07:56,440 --> 01:07:58,520
+Come on!
+
+1139
+01:08:18,480 --> 01:08:21,200
+COMPUTER: Pressure loss
+is stabilized. All cabins...
+
+1140
+01:08:26,360 --> 01:08:28,240
+MARSHALL: What are you gonna do
+when I'm not around, huh?
+
+1141
+01:08:28,280 --> 01:08:30,440
+-Medic!
+-Uhh...
+
+1142
+01:08:30,480 --> 01:08:31,720
+Save your strength.
+
+1143
+01:08:33,400 --> 01:08:35,360
+[Marshall groans]
+
+1144
+01:08:40,840 --> 01:08:43,440
+MARSHALL: She would've come
+back in if it wasn't for me.
+
+1145
+01:08:43,480 --> 01:08:45,920
+No, no.
+She knew what she was doing.
+
+1146
+01:08:47,640 --> 01:08:50,320
+No. No. I should've been
+watching her back.
+
+1147
+01:08:50,360 --> 01:08:51,880
+BLAIR: Medic!
+
+1148
+01:08:51,920 --> 01:08:53,960
+She was a fighter pilot
+in a war zone.
+
+1149
+01:08:54,000 --> 01:08:56,960
+She didn't need help
+from you or anybody.
+
+1150
+01:08:57,000 --> 01:08:59,040
+She never existed.
+
+1151
+01:09:00,680 --> 01:09:02,640
+You listen to me.
+
+1152
+01:09:02,680 --> 01:09:05,640
+Don't you ever play
+that stupid game with me.
+
+1153
+01:09:05,640 --> 01:09:07,040
+You hear me?
+
+1154
+01:09:29,960 --> 01:09:31,120
+BLAIR: Angel.
+
+1155
+01:09:32,600 --> 01:09:34,080
+What is it, Lieutenant?
+
+1156
+01:09:34,960 --> 01:09:36,440
+Could we stop this, please?
+
+1157
+01:09:39,960 --> 01:09:41,960
+I'm sorry about Forbes.
+
+1158
+01:09:42,000 --> 01:09:44,120
+I don't know
+who you're talking about.
+
+1159
+01:09:44,160 --> 01:09:45,360
+Don't.
+
+1160
+01:09:45,400 --> 01:09:48,280
+It's a shitty game, Angel.
+
+1161
+01:09:48,280 --> 01:09:50,320
+Rosie deserves more.
+
+1162
+01:09:51,520 --> 01:09:53,680
+What do you suggest I do
+about it?
+
+1163
+01:09:53,720 --> 01:09:56,320
+Look, he feels responsible.
+
+1164
+01:09:56,400 --> 01:09:58,400
+And so he should.
+
+1165
+01:09:58,440 --> 01:10:00,320
+His confidence is shot.
+
+1166
+01:10:00,320 --> 01:10:02,920
+He's questioning
+every move he made.
+
+1167
+01:10:02,960 --> 01:10:05,040
+He can't go back up there
+like this.
+
+1168
+01:10:05,080 --> 01:10:06,520
+And right now...
+
+1169
+01:10:07,240 --> 01:10:09,240
+I think we need
+all the pilots we can get.
+
+1170
+01:10:09,280 --> 01:10:11,360
+I'll think about it.
+
+1171
+01:10:14,480 --> 01:10:16,640
+He's a good guy, Angel.
+
+1172
+01:10:18,480 --> 01:10:20,720
+There's no reason to hate him.
+
+1173
+01:10:29,640 --> 01:10:30,800
+COMPUTER:
+Fuel cells nominal.
+
+1174
+01:10:30,840 --> 01:10:34,000
+Life-support system critical
+in five hours.
+
+1175
+01:10:37,600 --> 01:10:39,600
+[Sonar pinging]
+
+1176
+01:10:46,960 --> 01:10:49,560
+What is she, another destroyer?
+
+1177
+01:10:49,600 --> 01:10:51,120
+GERALD: It doesn't matter.
+
+1178
+01:10:53,400 --> 01:10:56,320
+We can't take another round
+of bombardment.
+
+1179
+01:10:56,360 --> 01:10:58,680
+I have four rapiers
+ready to go, sir.
+
+1180
+01:10:58,720 --> 01:11:00,520
+We'll go down fighting.
+
+1181
+01:11:00,520 --> 01:11:02,600
+TAGGART: We'll do better
+than that, Angel.
+
+1182
+01:11:03,360 --> 01:11:04,880
+Let's make a miracle.
+
+1183
+01:11:06,560 --> 01:11:09,880
+That ship up there
+is going to save our ass.
+
+1184
+01:11:12,080 --> 01:11:14,040
+DEVEREAUX:
+Lieutenant, time to suit up.
+
+1185
+01:11:14,040 --> 01:11:16,200
+MORRIS: Oh! Ma'am?
+
+1186
+01:11:16,240 --> 01:11:18,440
+DEVEREAUX: I need
+my best pilots out there.
+
+1187
+01:11:18,480 --> 01:11:19,920
+P.A.: I repeat--
+
+1188
+01:11:19,960 --> 01:11:23,520
+all pilots and flight crew
+to hangar deck immediately.
+
+1189
+01:11:24,880 --> 01:11:28,240
+Well, I don't know if I'm
+one of your best pilots, ma'am.
+
+1190
+01:11:28,280 --> 01:11:31,440
+Does everyone here think
+I go around making suggestions?
+
+1191
+01:11:35,200 --> 01:11:36,600
+No.
+
+1192
+01:11:36,640 --> 01:11:38,880
+Then I guess I gave an order.
+
+1193
+01:11:38,920 --> 01:11:41,720
+Be on the flight deck
+in five minutes.
+
+1194
+01:11:43,280 --> 01:11:44,760
+Do it for Rosie.
+
+1195
+01:12:07,440 --> 01:12:09,360
+TAGGART: Aren't you on
+the wrong ship, Commander?
+
+1196
+01:12:09,400 --> 01:12:11,280
+GERALD: I still have
+a responsibility...
+
+1197
+01:12:11,320 --> 01:12:13,920
+to this crew, Commodore.
+
+1198
+01:12:13,960 --> 01:12:15,440
+And excuse my bluntness...
+
+1199
+01:12:15,440 --> 01:12:17,040
+but if you think
+I'm going to let my men...
+
+1200
+01:12:17,080 --> 01:12:19,840
+be flown into combat
+by a rogue and a half-breed...
+
+1201
+01:12:19,880 --> 01:12:21,760
+you're sadly mistaken.
+
+1202
+01:12:21,800 --> 01:12:24,680
+He really is a good guy
+once you get to know him.
+
+1203
+01:12:49,600 --> 01:12:51,840
+DEVERAUX:
+That's no destroyer.
+
+1204
+01:12:51,920 --> 01:12:54,800
+That's the communication ship
+we came up against.
+
+1205
+01:12:54,880 --> 01:12:57,080
+TAGGART: And that's the ship
+we'll get our fuel from.
+
+1206
+01:12:57,120 --> 01:12:59,080
+They'll spot
+our heat corona soon.
+
+1207
+01:12:59,120 --> 01:13:00,320
+TAGGART: No.
+
+1208
+01:13:00,360 --> 01:13:01,840
+They won't have a chance.
+
+1209
+01:13:01,880 --> 01:13:03,120
+Hit it.
+
+1210
+01:13:06,640 --> 01:13:08,040
+Marines, to your stations.
+
+1211
+01:13:08,080 --> 01:13:09,920
+As soon as you
+get on board...
+
+1212
+01:13:09,960 --> 01:13:11,840
+head straight
+for the engine room.
+
+1213
+01:13:11,840 --> 01:13:14,480
+Tiger Claw
+needs those fuel cells.
+
+1214
+01:14:06,760 --> 01:14:07,840
+TAGGART: Blair...
+
+1215
+01:14:07,880 --> 01:14:10,120
+I'm picking up some sort
+of transmission aft of you.
+
+1216
+01:14:10,160 --> 01:14:11,560
+Check it out.
+
+1217
+01:15:07,840 --> 01:15:09,000
+TAGGART: Blair.
+
+1218
+01:15:10,280 --> 01:15:11,920
+Where the hell are you, Blair?
+
+1219
+01:15:18,240 --> 01:15:20,000
+BLAIR: What the hell?
+
+1220
+01:15:20,040 --> 01:15:21,600
+Pegasus Navcom.
+
+1221
+01:15:21,640 --> 01:15:22,960
+Paladin...
+
+1222
+01:15:23,000 --> 01:15:24,600
+they have the Charybdis
+jump coordinates.
+
+1223
+01:15:26,000 --> 01:15:27,760
+DEVEREAUX: Is everything OK?
+
+1224
+01:15:27,800 --> 01:15:29,160
+We've secured the fuel cells.
+
+1225
+01:15:29,200 --> 01:15:30,640
+BLAIR: We've got more
+than that, Angel.
+
+1226
+01:15:30,640 --> 01:15:32,920
+We have the Kilrathi
+jump coordinates.
+
+1227
+01:15:32,960 --> 01:15:34,640
+DEVEREAUX: Marines, move out.
+
+1228
+01:15:53,280 --> 01:15:56,200
+GERALD:
+Mr. Obutu, prepare drone.
+
+1229
+01:15:56,240 --> 01:15:59,360
+Input the Kilrathi
+jump coordinates.
+
+1230
+01:15:59,400 --> 01:16:00,960
+Send it through
+the Charybdis quasar...
+
+1231
+01:16:01,000 --> 01:16:02,360
+to Admiral Tolwyn.
+
+1232
+01:16:03,840 --> 01:16:05,560
+They should be able to target
+the exact location...
+
+1233
+01:16:05,600 --> 01:16:08,040
+of the Kilrathi jump entry.
+
+1234
+01:16:08,080 --> 01:16:10,040
+It'll be over before they can
+get their weapons on-line.
+
+1235
+01:16:11,080 --> 01:16:13,120
+TAGGART:
+lf Tolwyn's there, Mr. Gerald.
+
+1236
+01:16:14,520 --> 01:16:15,880
+If he's there.
+
+1237
+01:16:15,920 --> 01:16:17,240
+OBUTU: Sir, we have a problem.
+
+1238
+01:16:17,280 --> 01:16:19,000
+I can't get the drones on-line.
+
+1239
+01:16:20,080 --> 01:16:22,920
+Without those coordinates,
+Tolwyn doesn't have a chance.
+
+1240
+01:16:24,120 --> 01:16:26,320
+And we are too big to slip
+past the Kilrathi...
+
+1241
+01:16:26,360 --> 01:16:27,480
+and warn the fleet.
+
+1242
+01:16:28,600 --> 01:16:30,240
+We'll have to send
+a fighter through.
+
+1243
+01:16:30,280 --> 01:16:32,320
+GERALD: impossible.
+
+1244
+01:16:32,360 --> 01:16:34,800
+There are over a thousand
+singularities in that quasar.
+
+1245
+01:16:34,840 --> 01:16:37,520
+To jump it would be suicide
+without Navcom coordinates.
+
+1246
+01:16:37,560 --> 01:16:39,560
+TAGGART:
+We don't need a Navcom.
+
+1247
+01:16:41,560 --> 01:16:42,720
+Blair?
+
+1248
+01:16:47,520 --> 01:16:49,000
+You will navigate the quasar.
+
+1249
+01:16:49,040 --> 01:16:51,440
+Angel will follow your lead.
+
+1250
+01:16:53,080 --> 01:16:54,840
+Sir, that's
+statistically impossible.
+
+1251
+01:16:54,880 --> 01:16:56,720
+We don't have another option.
+
+1252
+01:16:56,720 --> 01:16:58,480
+You have the gift.
+
+1253
+01:17:02,480 --> 01:17:04,000
+I don't think I can.
+
+1254
+01:17:04,960 --> 01:17:06,120
+I don't have the faith.
+
+1255
+01:17:06,160 --> 01:17:08,360
+It's not faith. It's genetics.
+
+1256
+01:17:11,520 --> 01:17:14,200
+But if you believe
+you need faith...
+
+1257
+01:17:28,000 --> 01:17:29,760
+take mine.
+
+1258
+01:17:46,120 --> 01:17:47,440
+Why didn't you tell me?
+
+1259
+01:17:49,600 --> 01:17:51,360
+You didn't ask.
+
+1260
+01:17:53,120 --> 01:17:54,240
+FALK: Sir...
+
+1261
+01:17:54,280 --> 01:17:57,760
+Long-range scanners
+picking up Kilrathi ships.
+
+1262
+01:17:57,800 --> 01:18:00,960
+Looks like a destroyer
+and a cruiser.
+
+1263
+01:18:01,880 --> 01:18:03,600
+TAGGART:
+We'll create the diversion.
+
+1264
+01:18:03,640 --> 01:18:06,080
+GERALD:
+Get those coordinates to Tolwyn.
+
+1265
+01:18:16,480 --> 01:18:19,840
+BLAIR: Uh, I got a strong signal
+at ten o'clock.
+
+1266
+01:18:20,920 --> 01:18:23,000
+It's gone, Angel. It vanished.
+
+1267
+01:18:23,040 --> 01:18:25,240
+DEVEREAUX: Got it--
+a skipper missile...
+
+1268
+01:18:25,280 --> 01:18:26,560
+dead on course
+for the Tiger Claw.
+
+1269
+01:18:26,600 --> 01:18:28,040
+Only thing that can kill it...
+
+1270
+01:18:28,120 --> 01:18:30,120
+is a star fighter
+in visual contact.
+
+1271
+01:18:35,200 --> 01:18:36,480
+What are you doing, Angel?
+
+1272
+01:18:36,520 --> 01:18:39,120
+DEVEREAUX: Just stay on course.
+Get through the jump point.
+
+1273
+01:18:39,160 --> 01:18:40,640
+What about our orders?
+
+1274
+01:18:40,680 --> 01:18:42,240
+Angel.
+
+1275
+01:18:42,280 --> 01:18:43,760
+Angel!
+
+1276
+01:18:51,680 --> 01:18:53,080
+[Alarm]
+
+1277
+01:18:53,120 --> 01:18:54,280
+GERALD: Report!
+
+1278
+01:18:54,320 --> 01:18:56,280
+Sir, we have a bogey.
+
+1279
+01:18:56,320 --> 01:18:59,200
+Vector one-nine-seven
+mark three--
+
+1280
+01:18:59,240 --> 01:19:00,640
+It's gone.
+
+1281
+01:19:03,280 --> 01:19:04,680
+It's a skipper missile.
+
+1282
+01:19:04,680 --> 01:19:06,520
+We're only picking it up...
+
+1283
+01:19:06,520 --> 01:19:08,280
+when it de-cloaks
+to get a radar fix.
+
+1284
+01:19:09,240 --> 01:19:11,560
+TAGGART:
+Estimated time till impact?
+
+1285
+01:19:11,600 --> 01:19:13,200
+One minute, sir.
+
+1286
+01:19:26,360 --> 01:19:28,720
+FALK:
+Forty-five seconds till impact.
+
+1287
+01:19:31,560 --> 01:19:34,520
+Sir, our shields are too weak
+to take a direct hit.
+
+1288
+01:19:36,640 --> 01:19:38,800
+It's in those two kids'
+hands now.
+
+1289
+01:19:53,160 --> 01:19:54,680
+FALK: Twenty seconds.
+
+1290
+01:19:56,640 --> 01:19:59,280
+COMPUTER: Warning!
+Collision alert!
+
+1291
+01:19:59,320 --> 01:20:00,480
+DEVEREAUX: Oh, shit!
+
+1292
+01:20:20,960 --> 01:20:22,480
+Radar.
+
+1293
+01:20:23,560 --> 01:20:25,560
+No sign
+of the skipper missile, sir.
+
+1294
+01:20:25,600 --> 01:20:28,080
+One of the rapiers
+must have shot it down.
+
+1295
+01:20:28,120 --> 01:20:30,400
+Where are they now?
+
+1296
+01:20:54,480 --> 01:20:56,200
+Are you all right?
+
+1297
+01:21:00,800 --> 01:21:03,200
+Well, I might not be dancing
+for a while.
+
+1298
+01:21:05,640 --> 01:21:06,960
+All right, hang on.
+
+1299
+01:21:06,960 --> 01:21:09,320
+I'm gonna tractor you
+back to the ship.
+
+1300
+01:21:09,320 --> 01:21:12,200
+No, no, you're not.
+You're going on.
+
+1301
+01:21:12,360 --> 01:21:15,280
+We can't both disobey orders.
+
+1302
+01:21:15,320 --> 01:21:16,920
+You'll be out of air in an hour.
+
+1303
+01:21:16,960 --> 01:21:19,160
+You're going back to the ship.
+
+1304
+01:21:19,200 --> 01:21:20,880
+You disobey my order...
+
+1305
+01:21:20,920 --> 01:21:22,440
+and I'll have you
+court-martialed.
+
+1306
+01:21:22,480 --> 01:21:23,880
+Like I care.
+
+1307
+01:21:23,880 --> 01:21:25,960
+Then care about
+the billions who will die...
+
+1308
+01:21:26,000 --> 01:21:28,560
+if the fleet doesn't get
+the jump coordinates.
+
+1309
+01:21:32,360 --> 01:21:33,960
+You've got to go on.
+
+1310
+01:21:35,080 --> 01:21:36,320
+You know that.
+
+1311
+01:21:45,920 --> 01:21:48,040
+You're all right, Angel.
+
+1312
+01:21:51,960 --> 01:21:53,400
+You too, Chris.
+
+1313
+01:22:29,040 --> 01:22:31,480
+OBUTU:
+The Kilrathi ships are closing.
+
+1314
+01:22:32,800 --> 01:22:34,040
+So what now?
+
+1315
+01:22:34,960 --> 01:22:37,520
+Now we make them sorry
+they were ever born.
+
+1316
+01:22:37,560 --> 01:22:39,400
+Battle stations.
+
+1317
+01:22:39,440 --> 01:22:41,560
+Battle stations!
+Battle stations!
+
+1318
+01:22:59,080 --> 01:23:00,840
+Merlin, check my coordinates.
+
+1319
+01:23:00,880 --> 01:23:02,600
+[Beeping]
+
+1320
+01:23:03,920 --> 01:23:06,360
+MERLIN: Jump coordinates
+verified, Lieutenant.
+
+1321
+01:23:09,080 --> 01:23:10,600
+BLAIR: Firing jump drive.
+
+1322
+01:23:53,160 --> 01:23:55,600
+FALK: Kilrathi cruiser and
+destroyer are in missile range.
+
+1323
+01:23:55,640 --> 01:23:57,320
+TAGGART: Open fire, Mr. Gerald.
+
+1324
+01:23:57,360 --> 01:23:58,480
+GERALD: Aye, aye, sir.
+
+1325
+01:23:58,520 --> 01:24:00,480
+All batteries,
+fire as she bears.
+
+1326
+01:24:17,920 --> 01:24:21,560
+FALK: A Kilrathi cruiser
+is bearing right for us, sir.
+
+1327
+01:24:21,600 --> 01:24:23,120
+What tack, sir?
+
+1328
+01:24:23,160 --> 01:24:24,920
+Steady on.
+
+1329
+01:24:24,960 --> 01:24:27,000
+Let them be the first to blink.
+
+1330
+01:24:29,440 --> 01:24:31,280
+MERLIN:
+Jump trajectory is drifting.
+
+1331
+01:24:31,320 --> 01:24:33,720
+Please recompute coordinates.
+
+1332
+01:24:40,960 --> 01:24:43,920
+BLAIR: Coordinates eight-seven-
+five-nine-three mark...
+
+1333
+01:24:43,920 --> 01:24:47,960
+eight-five-four-nine-three,
+vector one-oh-five-niner.
+
+1334
+01:24:52,720 --> 01:24:54,520
+Prepare to lower our shield.
+
+1335
+01:25:02,720 --> 01:25:04,720
+OFFICER:
+She's changing course, sir.
+
+1336
+01:25:04,760 --> 01:25:07,160
+Portside missile battery
+prepare to fire.
+
+1337
+01:25:07,200 --> 01:25:09,200
+MAN:
+Fuel block locked and loaded.
+
+1338
+01:25:09,240 --> 01:25:10,440
+SECOND MAN: Ready to go, sir.
+
+1339
+01:25:11,080 --> 01:25:15,560
+Sir, the missile guidance system
+won't activate at this range.
+
+1340
+01:25:15,600 --> 01:25:17,440
+She won't need to.
+Lower our shields.
+
+1341
+01:25:17,480 --> 01:25:19,400
+Shields lowered.
+
+1342
+01:25:20,400 --> 01:25:22,200
+MAN: Brace for impact!
+
+1343
+01:25:29,880 --> 01:25:32,040
+Give them a broadside,
+Mr. Gerald!
+
+1344
+01:25:32,080 --> 01:25:33,200
+Open fire!
+
+1345
+01:25:33,240 --> 01:25:34,520
+MAN: Fire! Now!
+
+1346
+01:25:42,480 --> 01:25:44,040
+ALL: Yeaaahh!
+
+1347
+01:25:45,800 --> 01:25:49,480
+MERLIN: I cannot verify
+the new coordinates. Recompute.
+
+1348
+01:25:52,120 --> 01:25:55,760
+PNR in five seconds.
+Entry vector doesn't compute.
+
+1349
+01:25:59,640 --> 01:26:01,120
+BLAIR: I made it!
+
+1350
+01:26:01,160 --> 01:26:03,800
+She held together!
+I love this baby!
+
+1351
+01:26:05,880 --> 01:26:06,960
+This is Lieutenant
+Christopher Blair...
+
+1352
+01:26:07,000 --> 01:26:08,480
+to any Confed ship.
+
+1353
+01:26:08,520 --> 01:26:11,280
+A Kilrathi battle group has
+the Charybdis jump coordinates.
+
+1354
+01:26:11,320 --> 01:26:13,320
+They will breach
+at one-six-seven...
+
+1355
+01:26:13,360 --> 01:26:15,120
+mark eight-eight nine,
+Sol system.
+
+1356
+01:26:15,160 --> 01:26:18,960
+Repeat, one-six-seven mark
+eight-eight-nine, Sol system.
+
+1357
+01:26:19,000 --> 01:26:21,280
+Confed fleet, do you read?
+
+1358
+01:26:21,320 --> 01:26:24,600
+[Buzz buzz buzz]
+
+1359
+01:26:24,640 --> 01:26:27,000
+Merlin, check your scanners for
+any sign of the Confed fleet.
+
+1360
+01:26:27,000 --> 01:26:28,120
+[Beep beep]
+
+1361
+01:26:28,160 --> 01:26:30,400
+MERLIN: I'm picking up
+a Kilrathi signal behind us.
+
+1362
+01:26:32,000 --> 01:26:34,160
+Snakeir class capital ship.
+
+1363
+01:26:34,200 --> 01:26:36,400
+It followed us
+through the jump point.
+
+1364
+01:26:36,440 --> 01:26:40,440
+BLAIR: Shit! I'm too late.
+
+1365
+01:27:00,360 --> 01:27:02,400
+RICHARD: Com room
+reports a faint message...
+
+1366
+01:27:02,440 --> 01:27:04,080
+in clear from Lieutenant Blair.
+
+1367
+01:27:04,120 --> 01:27:06,840
+He's broadcasting
+the Kilrathi jump coordinates.
+
+1368
+01:27:06,880 --> 01:27:08,240
+TOLWYN: Blair.
+
+1369
+01:27:08,280 --> 01:27:09,400
+RICHARD: Should we respond, sir?
+
+1370
+01:27:09,480 --> 01:27:10,960
+RADAR MAN:
+Identifying Confed rapier...
+
+1371
+01:27:11,000 --> 01:27:12,520
+heading towards Earth
+at LSM point nine.
+
+1372
+01:27:12,560 --> 01:27:14,040
+He's being followed by
+something massive, Admiral.
+
+1373
+01:27:14,040 --> 01:27:15,680
+Looks like a Snakeir.
+
+1374
+01:27:15,720 --> 01:27:17,240
+RICHARD:
+Permission to intercept it?
+
+1375
+01:27:17,280 --> 01:27:18,720
+TOLWYN: No, we wait.
+
+1376
+01:27:18,720 --> 01:27:22,000
+The Snakeir
+will overtake Blair's fighter.
+
+1377
+01:27:22,040 --> 01:27:24,080
+Sir, if we don't intercept...
+
+1378
+01:27:24,120 --> 01:27:26,640
+the Snakeir will reach
+Earth orbit before us.
+
+1379
+01:27:26,680 --> 01:27:28,680
+The casualties
+could be significant.
+
+1380
+01:27:28,720 --> 01:27:30,520
+I'm bloody well aware
+of that, Richard!
+
+1381
+01:27:30,560 --> 01:27:33,680
+All ships are to target
+those jump coordinates.
+
+1382
+01:27:43,040 --> 01:27:45,560
+Blair to Confed fleet,
+a Kilrathi capital ship...
+
+1383
+01:27:45,600 --> 01:27:47,600
+has penetrated
+the quasar's jump point...
+
+1384
+01:27:47,640 --> 01:27:49,840
+and is in Earth space. Copy?
+
+1385
+01:27:53,480 --> 01:27:55,080
+They aren't in radio range.
+
+1386
+01:27:56,760 --> 01:27:58,160
+Earth will never see 'em coming.
+
+1387
+01:27:58,200 --> 01:27:59,320
+MERLIN: I'm detecting...
+
+1388
+01:27:59,400 --> 01:28:01,920
+a Confederation signal,
+Lieutenant.
+
+1389
+01:28:05,240 --> 01:28:07,720
+[Beep beep beep beep]
+
+1390
+01:28:07,760 --> 01:28:09,200
+Confederation transponder...
+
+1391
+01:28:09,240 --> 01:28:11,680
+identified as beacon
+one-four-seven.
+
+1392
+01:28:11,720 --> 01:28:14,680
+Oh, shit--Scylla.
+
+1393
+01:28:22,960 --> 01:28:24,760
+MERLIN: Mass of Snakeir--
+
+1394
+01:28:24,800 --> 01:28:28,400
+two hundred thousand,
+four hundred sixty-one tons
+
+1395
+01:28:37,960 --> 01:28:41,920
+OBUTU: Sir, we've hove to
+for damage inspection.
+
+1396
+01:28:41,960 --> 01:28:44,080
+TAGGART: And the locator beacon
+from the rapier pod?
+
+1397
+01:28:45,480 --> 01:28:48,080
+Nothing, sir.
+Lost contact during the battle.
+
+1398
+01:28:52,320 --> 01:28:54,880
+Have the Diligent
+prepared for launch.
+
+1399
+01:28:54,920 --> 01:28:56,400
+If I'm not back
+in two hours...
+
+1400
+01:28:56,440 --> 01:28:58,960
+make the jump to Earth.
+I'll join you later.
+
+1401
+01:28:59,000 --> 01:29:00,120
+Aye, aye, sir.
+
+1402
+01:29:00,160 --> 01:29:02,320
+I'm going to look for that pod.
+
+1403
+01:29:22,000 --> 01:29:24,600
+MERLIN: The Snakeir will have
+a firing solution on us...
+
+1404
+01:29:24,640 --> 01:29:26,360
+in five seconds.
+
+1405
+01:29:29,480 --> 01:29:31,000
+Kilrathi radar is locked on.
+
+1406
+01:29:31,040 --> 01:29:32,960
+Ten seconds
+to the point of no return...
+
+1407
+01:29:32,960 --> 01:29:34,600
+and we're almost out of fuel.
+
+1408
+01:29:40,520 --> 01:29:41,680
+BLAIR: Give me a count.
+
+1409
+01:29:41,720 --> 01:29:44,320
+MERLIN: Five...four...
+
+1410
+01:29:46,360 --> 01:29:49,400
+three...two...
+
+1411
+01:29:49,440 --> 01:29:51,760
+BLAIR: Holy shit!
+
+1412
+01:30:19,520 --> 01:30:21,520
+We made it!
+
+1413
+01:30:24,240 --> 01:30:26,200
+The Kilrathi's too big.
+
+1414
+01:30:27,600 --> 01:30:28,720
+Scylla's got her.
+
+1415
+01:30:46,160 --> 01:30:47,560
+MERLIN:
+You're out of fuel, Lieutenant.
+
+1416
+01:30:47,600 --> 01:30:50,320
+Switching off auxiliary systems.
+
+1417
+01:31:20,360 --> 01:31:23,320
+RICHARD: Admiral,
+the Kilrathi fleet...
+
+1418
+01:31:23,360 --> 01:31:24,600
+is coming through
+the jump point...
+
+1419
+01:31:24,640 --> 01:31:25,760
+one ship at a time.
+
+1420
+01:31:25,800 --> 01:31:27,720
+They've no chance
+to defend themselves...
+
+1421
+01:31:27,760 --> 01:31:29,200
+or warn the ships behind.
+
+1422
+01:31:29,240 --> 01:31:30,720
+And the Snakeir?
+
+1423
+01:31:30,760 --> 01:31:34,120
+She's disappeared
+from our scanners.
+
+1424
+01:31:34,160 --> 01:31:37,920
+Launch two rapier wings
+and a squadron of broadswords.
+
+1425
+01:31:37,960 --> 01:31:40,120
+Aye, aye, sir.
+
+1426
+01:31:51,800 --> 01:31:53,040
+PILOT: This is Concordia
+rescue and recovery.
+
+1427
+01:31:53,080 --> 01:31:54,640
+Stand by for tractor.
+
+1428
+01:32:06,360 --> 01:32:08,320
+Welcome to Sol sector,
+Lieutenant.
+
+1429
+01:32:30,960 --> 01:32:32,800
+Your parents
+would have been proud.
+
+1430
+01:32:36,240 --> 01:32:38,280
+Have they located
+Commander Deveraux?
+
+1431
+01:32:38,320 --> 01:32:39,800
+Paladin went to search for her.
+
+1432
+01:32:39,840 --> 01:32:41,240
+We haven't heard from him...
+
+1433
+01:32:41,280 --> 01:32:43,560
+since the Tiger Claw
+arrived in Earth space.
+
+1434
+01:32:43,600 --> 01:32:46,040
+RICHARD: Admiral,
+I have the Diligent reporting.
+
+1435
+01:32:46,080 --> 01:32:47,720
+Commodore Taggart
+requesting permission...
+
+1436
+01:32:47,760 --> 01:32:49,520
+to land on the Tiger Claw, sir.
+
+1437
+01:32:49,560 --> 01:32:50,680
+Is she with him?
+
+1438
+01:32:50,720 --> 01:32:53,560
+RICHARD: Lieutenant Commander
+Deveraux is on board.
+
+1439
+01:32:53,600 --> 01:32:55,920
+Taggart is requesting
+an emergency medical team...
+
+1440
+01:32:55,960 --> 01:32:58,160
+to meet him on the flight deck.
+
+1441
+01:32:58,240 --> 01:33:00,600
+I think you're
+on the wrong ship, Lieutenant.
+
+1442
+01:33:08,880 --> 01:33:10,920
+BLAIR: Baker Two,
+requesting permission to land.
+
+1443
+01:33:10,960 --> 01:33:12,680
+CONTROL: Welcome back,
+Lieutenant Blair.
+
+1444
+01:33:12,720 --> 01:33:14,360
+You're clear to land.
+
+1445
+01:33:25,560 --> 01:33:26,960
+MORRIS: Yeah!
+
+1446
+01:33:27,000 --> 01:33:28,720
+Baby, you made it!
+
+1447
+01:33:28,760 --> 01:33:32,320
+Not bad for the second best
+pilot in the academy.
+
+1448
+01:33:32,400 --> 01:33:33,720
+BLAIR: Where's Angel?
+
+1449
+01:33:34,760 --> 01:33:36,640
+She just came in.
+
+1450
+01:33:36,680 --> 01:33:39,480
+TAGGART: Get the medical team
+on the double!
+
+1451
+01:33:41,440 --> 01:33:43,480
+It's pure luck I found her.
+
+1452
+01:33:43,520 --> 01:33:45,640
+She turned off her beacon...
+
+1453
+01:33:45,680 --> 01:33:47,840
+not to tip off the Kilrathi.
+
+1454
+01:33:47,880 --> 01:33:49,440
+She's brave.
+
+1455
+01:33:49,480 --> 01:33:51,480
+I'll go and get the medic.
+
+1456
+01:33:51,520 --> 01:33:54,840
+Come on, girl.
+Angel, come on, wake up, girl.
+
+1457
+01:33:54,880 --> 01:33:56,040
+Wake up.
+
+1458
+01:33:57,440 --> 01:33:58,760
+Hey, don't you die on me.
+
+1459
+01:33:58,800 --> 01:34:00,320
+MARSHALL: Come on.
+
+1460
+01:34:00,360 --> 01:34:02,280
+[Coughs]
+
+1461
+01:34:02,280 --> 01:34:03,960
+MARSHALL:
+They're coming, they're coming.
+
+1462
+01:34:04,000 --> 01:34:05,160
+BLAIR: Hang on.
+
+1463
+01:34:08,960 --> 01:34:10,560
+What did you say?
+
+1464
+01:34:11,360 --> 01:34:13,280
+I said don't you die on me.
+
+1465
+01:34:13,280 --> 01:34:14,920
+Yeah?
+
+1466
+01:34:14,960 --> 01:34:17,680
+Suggestion or an order?
+
+1467
+01:34:18,880 --> 01:34:20,840
+That's definitely an order.
+
+1468
+01:34:29,480 --> 01:34:31,160
+MEDIC:
+We should get her to sick bay.
+
+1469
+01:34:57,920 --> 01:35:09,840
+mikrodvd@hotmail.com
+icq : 7152764
+

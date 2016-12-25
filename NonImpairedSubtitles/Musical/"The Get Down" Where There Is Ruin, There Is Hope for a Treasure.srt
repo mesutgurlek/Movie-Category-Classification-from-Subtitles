@@ -1,0 +1,8195 @@
+﻿1
+00:00:35,327 --> 00:00:36,495
+<i>♪ I came from the city ♪</i>
+
+2
+00:00:36,578 --> 00:00:37,538
+<i>♪ Yeah ♪</i>
+
+3
+00:00:37,621 --> 00:00:38,664
+<i>♪ Got my name from the city ♪</i>
+
+4
+00:00:38,747 --> 00:00:39,748
+<i>♪ Where ♪</i>
+
+5
+00:00:39,831 --> 00:00:40,999
+<i>♪ The most dangerous city ♪</i>
+
+6
+00:00:41,083 --> 00:00:42,459
+<i>♪ Let's take a trip back ♪</i>
+
+7
+00:00:43,126 --> 00:00:44,169
+<i>♪ Back into time ♪</i>
+
+8
+00:00:44,253 --> 00:00:45,712
+<i>♪ 1977 ♪</i>
+
+9
+00:00:45,796 --> 00:00:47,047
+<i>♪ It was maximum crime ♪</i>
+
+10
+00:00:47,130 --> 00:00:48,799
+<i>♪ The president neglected us ♪</i>
+
+11
+00:00:48,882 --> 00:00:50,092
+<i>♪ Him and six masterminds ♪</i>
+
+12
+00:00:50,175 --> 00:00:53,095
+<i>♪ Six powerful men</i>
+<i>Put New York through some drastic times ♪</i>
+
+13
+00:00:53,178 --> 00:00:54,888
+<i>♪ The rich and selfish ones ♪</i>
+
+14
+00:00:54,972 --> 00:00:56,306
+<i>♪ Feed off the welfare ones ♪</i>
+
+15
+00:00:56,390 --> 00:00:58,100
+<i>♪ And which borough suffered the worst?</i>
+<i>♪</i>
+
+16
+00:00:58,183 --> 00:00:59,017
+<i>♪ Where I'm from ♪</i>
+
+17
+00:00:59,101 --> 00:00:59,977
+<i>♪ The Bronx ♪</i>
+
+18
+00:01:00,060 --> 00:01:02,354
+<i>♪ We had to rumble</i>
+<i>With rivals on the rubble ♪</i>
+
+19
+00:01:02,437 --> 00:01:04,565
+<i>♪ While buildings around us</i>
+<i>Would crumble, unh ♪</i>
+
+20
+00:01:04,648 --> 00:01:05,482
+<i>♪ I dreamed right ♪</i>
+
+21
+00:01:05,566 --> 00:01:07,693
+<i>♪ But it seemed like</i>
+<i>Nothing find me but trouble ♪</i>
+
+22
+00:01:07,776 --> 00:01:08,777
+<i>♪ I see the light ♪</i>
+
+23
+00:01:08,860 --> 00:01:10,487
+<i>♪ It's right there</i>
+<i>At the end of the tunnel ♪</i>
+
+24
+00:01:10,571 --> 00:01:11,530
+<i>♪ Had to find my rope ♪</i>
+
+25
+00:01:11,613 --> 00:01:12,823
+<i>♪ To pull me up ♪</i>
+
+26
+00:01:12,906 --> 00:01:15,117
+<i>♪ 'Cause I needed some kind of hope ♪</i>
+
+27
+00:01:15,200 --> 00:01:16,034
+<i>♪ To fill me up ♪</i>
+
+28
+00:01:16,118 --> 00:01:17,119
+<i>♪ Till I met one guy ♪</i>
+
+29
+00:01:17,703 --> 00:01:18,829
+<i>♪ Took me under the wing ♪</i>
+
+30
+00:01:19,454 --> 00:01:22,374
+<i>♪ I could have died if this man</i>
+<i>Ain't intervene ♪</i>
+
+31
+00:01:22,457 --> 00:01:24,501
+<i>♪ He was an orphan</i>
+<i>My savior ♪</i>
+
+32
+00:01:24,584 --> 00:01:25,836
+<i>♪ Free-spirited ♪</i>
+
+33
+00:01:25,919 --> 00:01:27,004
+<i>♪ No man braver ♪</i>
+
+34
+00:01:27,087 --> 00:01:28,255
+<i>♪ He was honored and gifted ♪</i>
+
+35
+00:01:28,338 --> 00:01:29,965
+<i>♪ His name was Shaolin Fantastic ♪</i>
+
+36
+00:01:30,048 --> 00:01:31,633
+<i>♪ The lady-killing romantic ♪</i>
+
+37
+00:01:31,717 --> 00:01:34,553
+<i>♪ Can't forget the day we met</i>
+<i>And this story recants it ♪</i>
+
+38
+00:01:34,636 --> 00:01:36,596
+<i>-♪ But yo, my life began last year ♪</i>
+<i>-♪ Ooh ♪</i>
+
+39
+00:01:36,680 --> 00:01:37,597
+<i>♪ Southmore High School ♪</i>
+
+40
+00:01:37,681 --> 00:01:39,891
+<i>♪ That summer I saw her</i>
+<i>Said to myself ♪</i>
+
+41
+00:01:39,975 --> 00:01:40,976
+<i>♪ She'll be my wife soon ♪</i>
+
+42
+00:01:49,026 --> 00:01:51,445
+<i>Mylene, Mylene</i>
+
+43
+00:01:51,528 --> 00:01:54,948
+- <i>♪ Grown up in a broken city ♪</i>
+<i>- My butterscotch queen</i>
+
+44
+00:01:55,032 --> 00:01:59,161
+<i>-Mylene, Mylene</i>
+<i>-♪ I've seen shame but I don't want pity ♪</i>
+
+45
+00:01:59,244 --> 00:02:03,165
+<i>-Mylene, Mylene, Mylene</i>
+<i>-♪ Maybe I'm too young... ♪</i>
+
+46
+00:02:03,248 --> 00:02:05,292
+<i> Mylene, Mylene</i>
+
+47
+00:02:05,375 --> 00:02:06,793
+<i>My butterscotch queen</i>
+
+48
+00:02:07,753 --> 00:02:09,004
+<i>This summer</i>
+
+49
+00:02:09,588 --> 00:02:12,174
+<i>Could you be my girl</i>
+<i>And I could be your king?</i>
+
+50
+00:02:12,716 --> 00:02:14,384
+<i>I beg your pardon</i>
+
+51
+00:02:14,468 --> 00:02:17,471
+<i>But I been loving you</i>
+<i>Since first day of kindergarten</i>
+
+52
+00:02:18,972 --> 00:02:22,601
+<i>I blush when you see me</i>
+<i>I cry when you sing</i>
+
+53
+00:02:23,852 --> 00:02:25,896
+<i>'Cause when you sing, it's like...</i>
+
+54
+00:02:25,979 --> 00:02:28,690
+<i>♪ 'Cause I will not forget ♪</i>
+
+55
+00:02:28,774 --> 00:02:31,068
+<i>-♪ The love you gave ♪</i>
+<i>-It's like...</i>
+
+56
+00:02:31,151 --> 00:02:34,196
+<i>- It's like how red velvet feel</i>
+
+57
+00:02:34,279 --> 00:02:35,322
+<i>That's how you sing</i>
+
+58
+00:02:35,405 --> 00:02:38,283
+I pray to God
+you ain't burning up my eggs, boy.
+
+59
+00:02:38,367 --> 00:02:39,201
+Ooh!
+
+60
+00:02:40,118 --> 00:02:41,244
+Aww!
+
+61
+00:02:42,412 --> 00:02:44,706
+Whoo! Whoo! Whoo!
+
+62
+00:02:44,790 --> 00:02:47,542
+You ain't got but one responsibility
+in this house.
+
+63
+00:02:47,626 --> 00:02:50,128
+-Not fucking up my breakfast.
+-I'm sorry.
+
+64
+00:02:50,212 --> 00:02:51,588
+Pshh...
+
+65
+00:02:51,671 --> 00:02:52,881
+<i>"When you sing</i>
+
+66
+00:02:52,964 --> 00:02:56,259
+<i>-It's like how red velvet feel"</i>
+-Come on, man. Get off.
+
+67
+00:02:56,343 --> 00:02:58,053
+<i>"That's what it's like when you sing</i>
+
+68
+00:02:58,804 --> 00:03:02,224
+<i>Tender, like crying tears"</i>
+
+69
+00:03:02,307 --> 00:03:03,183
+Give me that.
+
+70
+00:03:03,266 --> 00:03:05,102
+Leave him alone, Leon.
+
+71
+00:03:05,185 --> 00:03:06,311
+Morning, Queen Sheba.
+
+72
+00:03:06,395 --> 00:03:07,229
+Zeke.
+
+73
+00:03:08,605 --> 00:03:11,566
+- Keep your head out the clouds please?
+. That's my point exactly.
+
+74
+00:03:11,650 --> 00:03:14,694
+Which reminds me, later on,
+me and you gonna have a conversation
+
+75
+00:03:14,778 --> 00:03:15,946
+about the damn toothpaste.
+
+76
+00:03:16,029 --> 00:03:19,282
+What conversation you need to have
+with my nephew about toothpaste?
+
+77
+00:03:19,366 --> 00:03:20,534
+<i>Mylene, when you sing</i>
+
+78
+00:03:20,617 --> 00:03:22,702
+Boy go through toothpaste
+like he work at Colgate.
+
+79
+00:03:22,786 --> 00:03:25,539
+- <i>When you render your splendor</i>
+- Tumbleweed on his head.
+
+80
+00:03:25,622 --> 00:03:29,835
+-Bathroom look like a pubic rain forest.
+<i>-I surrender to the tender you engender</i>
+
+81
+00:03:29,918 --> 00:03:34,047
+His mama would not want
+his father figure going easy on him.
+
+82
+00:03:34,131 --> 00:03:35,465
+Father figure?
+
+83
+00:03:35,549 --> 00:03:37,718
+<i>- Rasping gasping love song</i>
+- Come on, now.
+
+84
+00:03:37,801 --> 00:03:39,553
+Don't get me started on the toilet tissue.
+
+85
+00:03:39,636 --> 00:03:41,638
+Boy must have the cleanest drawers
+in the Bronx.
+
+86
+00:03:41,722 --> 00:03:43,974
+-One of us gotta be clean.
+-Whoa, Shakespeare.
+
+87
+00:03:44,057 --> 00:03:45,726
+Enjoy your last day of school,
+
+88
+00:03:45,809 --> 00:03:48,437
+'cause come summertime,
+I'll make a working man out that ass.
+
+89
+00:03:48,520 --> 00:03:50,355
+Take a shower, Leon.
+
+90
+00:03:56,361 --> 00:04:02,868
+<i>♪ 'Cause I will not forget</i>
+<i>The love you gave ♪</i>
+
+91
+00:04:06,455 --> 00:04:13,044
+<i>- ♪ But be that as it may ♪</i>
+
+92
+00:04:15,005 --> 00:04:19,092
+<i>♪ Every night I pray ♪</i>
+
+93
+00:04:21,636 --> 00:04:25,807
+<i>♪ For brighter stars</i>
+<i>More golden days ♪</i>
+
+94
+00:04:26,391 --> 00:04:29,936
+<i>♪ And to be taken far away ♪</i>
+
+95
+00:04:31,229 --> 00:04:35,442
+<i>♪ Be that as it may ♪</i>
+
+96
+00:04:37,903 --> 00:04:43,909
+<i>♪ I know it's wrong for me to stay ♪</i>
+
+97
+00:04:46,161 --> 00:04:50,081
+<i>♪ I cannot bear these shades of gray ♪</i>
+
+98
+00:04:51,291 --> 00:04:54,920
+<i>♪ So now I'm on my way ♪</i>
+
+99
+00:04:56,129 --> 00:05:01,551
+<i>♪ Be that as it may ♪</i>
+
+100
+00:05:07,599 --> 00:05:11,937
+<i>♪ Ooh ♪</i>
+
+101
+00:05:12,020 --> 00:05:15,816
+<i>♪ Ooh, ooh ♪</i>
+
+102
+00:05:16,858 --> 00:05:19,027
+<i>♪ I will not ♪</i>
+
+103
+00:05:19,528 --> 00:05:22,447
+<i>♪ Forget the love ♪</i>
+
+104
+00:05:23,073 --> 00:05:27,536
+<i>♪ You gave ♪</i>
+
+105
+00:05:32,374 --> 00:05:34,960
+So, I think that was the one, right?
+
+106
+00:05:36,461 --> 00:05:38,171
+-Mylene.
+-What?
+
+107
+00:05:40,757 --> 00:05:43,468
+My God. That was--
+
+108
+00:05:43,552 --> 00:05:45,971
+-Did it sound professional?
+-That was superflicious.
+
+109
+00:05:46,054 --> 00:05:47,222
+What's "superflicious"?
+
+110
+00:05:47,305 --> 00:05:48,431
+-"Superflicious"?
+-Yeah.
+
+111
+00:05:48,515 --> 00:05:52,435
+"Superflicious" is super
+plus official plus delicious.
+
+112
+00:05:52,519 --> 00:05:53,728
+That's not a real word.
+
+113
+00:05:53,812 --> 00:05:54,896
+It is if I say it is.
+
+114
+00:05:54,980 --> 00:05:57,732
+So, after school we take this
+direct to Marrakesh Records, right?
+
+115
+00:05:57,816 --> 00:05:59,776
+-It don't work like that.
+-How you know?
+
+116
+00:05:59,859 --> 00:06:01,278
+They don't accept submissions.
+
+117
+00:06:01,361 --> 00:06:02,862
+I looked it up.
+
+118
+00:06:02,946 --> 00:06:04,781
+Caught red-handed.
+
+119
+00:06:04,864 --> 00:06:08,034
+You know Daddy don't allow anything
+but church music in here.
+
+120
+00:06:08,118 --> 00:06:09,744
+Don't tell <i>Papi</i>, please.
+
+121
+00:06:09,828 --> 00:06:12,122
+Only if you hand out the pamphlets.
+
+122
+00:06:12,205 --> 00:06:13,081
+Coming.
+
+123
+00:06:14,916 --> 00:06:16,960
+<i>♪ Hand me down my walking cane ♪</i>
+
+124
+00:06:17,043 --> 00:06:18,712
+<i>♪ Hand me down my hat... ♪</i>
+
+125
+00:06:18,795 --> 00:06:21,756
+- Good morning, my sweet angel.
+- Good morning, Dad.
+
+126
+00:06:21,840 --> 00:06:24,467
+Come on, son.
+You missing spots over here.
+
+127
+00:06:24,551 --> 00:06:26,177
+We're gonna be late for school, Dad.
+
+128
+00:06:26,261 --> 00:06:27,887
+No, Boo-Boo, you make yourselves late.
+
+129
+00:06:27,971 --> 00:06:29,889
+Wait to the last minute
+to do your morning chore.
+
+130
+00:06:29,973 --> 00:06:30,807
+Ooh!
+
+131
+00:06:30,890 --> 00:06:32,350
+- That's jive.
+- No, that's jive.
+
+132
+00:06:32,434 --> 00:06:34,394
+Come on.
+This ain't <i>Little House on the Prairie.</i>
+
+133
+00:06:34,477 --> 00:06:36,229
+-Dizzee's got a point, Dad.
+-No, he don't.
+
+134
+00:06:36,313 --> 00:06:38,440
+'Cause that there is my little house.
+
+135
+00:06:38,523 --> 00:06:40,108
+And this here is my little salon.
+
+136
+00:06:40,191 --> 00:06:42,986
+And that patch of sidewalk,
+that's my little prairie.
+
+137
+00:06:43,069 --> 00:06:46,072
+Less than a hundred years ago,
+the Bronx was all prairie.
+
+138
+00:06:46,156 --> 00:06:48,366
+Winston!
+What are you rattling on about?
+
+139
+00:06:48,450 --> 00:06:51,036
+What's going on?
+You gonna make the boys late for school.
+
+140
+00:06:51,119 --> 00:06:54,205
+How am I supposed to teach them discipline
+if you undermine me?
+
+141
+00:06:54,289 --> 00:06:55,665
+I have to go to the writer's bench.
+
+142
+00:06:56,541 --> 00:06:57,751
+- All right.
+- Don't be late.
+
+143
+00:06:57,834 --> 00:06:59,919
+<i>♪ Do-do, do, do-do... ♪</i>
+
+144
+00:07:00,003 --> 00:07:02,631
+They're like,
+"Who you gonna give your demo to?"
+
+145
+00:07:03,214 --> 00:07:05,008
+-I don't know. Different people.
+-Maybe I could help.
+
+146
+00:07:05,091 --> 00:07:06,593
+Smoke this joint with me?
+
+147
+00:07:06,676 --> 00:07:08,928
+Mylene, I know you enough
+to know you got a plan.
+
+148
+00:07:09,012 --> 00:07:11,181
+-Do you really think it was any good?
+-Yeah, Mylene.
+
+149
+00:07:11,264 --> 00:07:13,016
+It's better than the original.
+
+150
+00:07:14,059 --> 00:07:15,602
+-Misty Holloway?
+-Yeah.
+
+151
+00:07:15,685 --> 00:07:16,895
+Come on. Be serious, Zeke.
+
+152
+00:07:16,978 --> 00:07:20,565
+You sounded as good as she does on that,
+remix you always talking about.
+
+153
+00:07:20,649 --> 00:07:22,192
+-Carlo Pakoussa?
+-Yeah.
+
+154
+00:07:22,275 --> 00:07:24,235
+I wish.
+
+155
+00:07:27,197 --> 00:07:29,449
+<i> Zeke's about to</i>
+<i>pop the big question to Mylene.</i>
+
+156
+00:07:29,532 --> 00:07:32,118
+And tonight we all gonna see <i>Star Wars.</i>
+
+157
+00:07:32,202 --> 00:07:34,537
+Mylene ain't seeing no <i>Star Wars.</i>
+
+158
+00:07:34,621 --> 00:07:38,333
+And tell Zeke not to waste his breath
+'cause my girl got big plans.
+
+159
+00:07:38,416 --> 00:07:41,711
+Her life's about to change.
+She gonna turn him down flat.
+
+160
+00:07:41,795 --> 00:07:44,547
+Mylene, can I tell you something?
+
+161
+00:07:44,631 --> 00:07:46,424
+When you sing, it's like...
+
+162
+00:07:47,050 --> 00:07:49,594
+how red velvet feel.
+That's how you sing.
+
+163
+00:07:50,804 --> 00:07:52,764
+Like how butterscotch taste.
+
+164
+00:07:53,974 --> 00:07:56,184
+Warmed up though,
+like how they serve it sometimes?
+
+165
+00:07:58,269 --> 00:07:59,562
+You sounded like that.
+
+166
+00:07:59,646 --> 00:08:01,564
+You're tender, like...
+
+167
+00:08:02,732 --> 00:08:04,526
+like crying tears tender.
+
+168
+00:08:06,194 --> 00:08:08,446
+And at the end,
+right there at the finale...
+
+169
+00:08:09,447 --> 00:08:13,118
+Damn, holy shit.
+Your roar is a motherfucker, girl.
+
+170
+00:08:14,953 --> 00:08:16,246
+Yeah, you talk good.
+
+171
+00:08:18,415 --> 00:08:19,624
+Ain't talk when it's true.
+
+172
+00:08:28,049 --> 00:08:30,051
+God. I'm sorry.
+
+173
+00:08:30,135 --> 00:08:32,053
+We don't do this no more.
+
+174
+00:08:32,137 --> 00:08:33,263
+But we could.
+
+175
+00:08:33,888 --> 00:08:36,141
+-No.
+-But it's not like we do it all the time.
+
+176
+00:08:36,224 --> 00:08:37,183
+Or ever, really.
+
+177
+00:08:37,767 --> 00:08:40,270
+<i>-Ay, bendito,</i> don't be difficult.
+-But--
+
+178
+00:08:40,353 --> 00:08:43,565
+What are you doing tonight, for real?
+We can go see <i>Star Wars </i>together. Hey.
+
+179
+00:08:43,648 --> 00:08:44,983
+I want you to be my girl.
+
+180
+00:08:46,026 --> 00:08:47,777
+No. I got plans.
+
+181
+00:08:47,861 --> 00:08:50,947
+-What you talking about?
+-Okay. Can you keep a secret?
+
+182
+00:08:51,990 --> 00:08:52,824
+Yeah.
+
+183
+00:08:53,324 --> 00:08:57,370
+Okay, so tonight, Regina's getting me
+and the girls into Les Inferno.
+
+184
+00:08:57,454 --> 00:08:59,122
+Les Inferno? Are you crazy?
+
+185
+00:08:59,205 --> 00:09:01,374
+- Gangsters be there and shit!
+- Shut up.
+
+186
+00:09:01,458 --> 00:09:03,793
+I'm sleeping at Yolanda's
+'cause it's easier to sneak out.
+
+187
+00:09:03,960 --> 00:09:05,420
+DJ Malibu is spinning there tonight.
+
+188
+00:09:05,503 --> 00:09:08,715
+There's a dance competition. The winner
+gets to have dinner with Malibu.
+
+189
+00:09:08,798 --> 00:09:10,592
+That's what the tape's for.
+I'm gonna win the dance-off,
+
+190
+00:09:10,675 --> 00:09:13,136
+get him the tape
+so he can listen to it and say:
+
+191
+00:09:13,219 --> 00:09:15,430
+"Shit,
+she's the next Donna Summer."
+
+192
+00:09:16,222 --> 00:09:17,515
+And then sign me to his label.
+
+193
+00:09:17,599 --> 00:09:18,808
+That is so stupid.
+
+194
+00:09:18,892 --> 00:09:20,226
+Okay, I'll tell her.
+
+195
+00:09:20,310 --> 00:09:22,145
+- You're stupid.
+- Mylene!
+
+196
+00:09:22,812 --> 00:09:25,190
+<i>Ven aqui! </i>Daddy wants to see you.
+
+197
+00:09:25,273 --> 00:09:28,610
+I told him you were singing devil music
+and he said--
+
+198
+00:09:28,693 --> 00:09:31,404
+Thy voice shall only be lifted
+to the glory of God.
+
+199
+00:09:31,488 --> 00:09:34,574
+But, <i>Papi</i>, Ezekiel and I were just
+preparing for Sunday's service.
+
+200
+00:09:34,657 --> 00:09:36,409
+-Okay?
+-Sorry, I--
+
+201
+00:09:36,493 --> 00:09:38,661
+Should I ask Ezekiel
+which hymn you were singing?
+
+202
+00:09:38,745 --> 00:09:39,871
+That's not what your sister told me.
+
+203
+00:09:39,954 --> 00:09:42,040
+This is the last time you do this.
+
+204
+00:09:42,123 --> 00:09:45,126
+What you gonna do?
+Sucker.
+
+205
+00:09:45,210 --> 00:09:49,255
+Your sister said that you made a tape
+singing that dirty Donna Summer's music?
+
+206
+00:09:49,839 --> 00:09:51,883
+Actually, Dad, it's Misty Holloway.
+
+207
+00:09:51,966 --> 00:09:54,177
+- So, it was disco?
+- Mylene!
+
+208
+00:09:54,719 --> 00:09:55,553
+Yo, Ra.
+
+209
+00:09:56,638 --> 00:09:59,099
+- You are in my church!
+- Bye, Mylene.
+
+210
+00:09:59,182 --> 00:10:00,391
+Straighten out or get out of my house.
+
+211
+00:10:00,475 --> 00:10:02,769
+Get the fuck out.
+
+212
+00:10:02,852 --> 00:10:05,355
+-Yo, Zeke! Still ain't getting none?
+-Mind your own.
+
+213
+00:10:05,438 --> 00:10:07,816
+I thought you was smart?
+It ain't never gonna happen!
+
+214
+00:10:10,026 --> 00:10:11,402
+You are grounded again.
+
+215
+00:10:11,486 --> 00:10:13,363
+You will not be sleeping
+at Yolanda's tonight.
+
+216
+00:10:13,530 --> 00:10:15,740
+<i>-Papi!</i>
+-Looks ugly this time, man.
+
+217
+00:10:15,824 --> 00:10:18,326
+Be home by 10, go to your room
+and study the word of God.
+
+218
+00:10:18,409 --> 00:10:19,577
+What?
+
+219
+00:10:19,661 --> 00:10:22,664
+Mama, <i>por favor,</i> you promised me
+I could stay at Yolanda's tonight.
+
+220
+00:10:22,747 --> 00:10:25,667
+Please, don't provoke him.
+Your father's word is final.
+
+221
+00:10:25,750 --> 00:10:29,003
+-10 p.m.
+-You always take his side, man!
+
+222
+00:10:29,462 --> 00:10:30,588
+Go!
+
+223
+00:10:33,883 --> 00:10:35,885
+- Yo, what's got you down, girl?
+- God!
+
+224
+00:10:35,969 --> 00:10:38,513
+-Yo, did you ask her?
+-Man, I tried.
+
+225
+00:10:38,596 --> 00:10:40,098
+What? What you mean, you tried?
+
+226
+00:10:40,181 --> 00:10:43,434
+My dad's tripping, man.
+He's not gonna let me go out tonight.
+
+227
+00:10:43,518 --> 00:10:46,104
+That means I won't be able
+to get my tape to DJ Malibu.
+
+228
+00:10:46,187 --> 00:10:48,356
+She's dead set
+on going to Les Inferno tonight.
+
+229
+00:10:48,439 --> 00:10:49,399
+Les Inferno?
+
+230
+00:10:49,566 --> 00:10:52,443
+-Yeah.
+-Man, that's an epic turn of events, bro!
+
+231
+00:10:52,527 --> 00:10:53,903
+You gotta get in with a lady.
+
+232
+00:10:53,987 --> 00:10:55,697
+Those Holy Rollers go to bed early.
+
+233
+00:10:55,780 --> 00:10:58,533
+We'll wait till your parents are asleep
+and then we'll sneak you out.
+
+234
+00:10:58,616 --> 00:11:01,161
+You'll be back before
+anybody knows anything.
+
+235
+00:11:01,244 --> 00:11:05,915
+<i>♪ Hey, I'm getting some dick tonight</i>
+<i>And the feeling's all right ♪</i>
+
+236
+00:11:05,999 --> 00:11:08,251
+<i>♪ 'Cause my pussy is tight ♪</i>
+
+237
+00:11:11,004 --> 00:11:11,838
+Yeah!
+
+238
+00:11:14,632 --> 00:11:17,135
+<i>- ♪ Hey, you ♪</i>
+
+239
+00:11:19,345 --> 00:11:23,057
+<i>♪ You're losing, you're losing</i>
+<i>You're losing, you're losing ♪</i>
+
+240
+00:11:23,141 --> 00:11:24,851
+<i>♪ Your vitamin C ♪</i>
+
+241
+00:11:27,520 --> 00:11:28,855
+<i>♪ And you ♪</i>
+
+242
+00:11:32,233 --> 00:11:34,152
+<i>♪ You're losing, you're losing</i>
+<i>You're losing... ♪</i>
+
+243
+00:11:34,235 --> 00:11:37,780
+See, Shaolin was in the yards,
+and saw the dude hot one-ten,
+
+244
+00:11:37,864 --> 00:11:40,283
+and so he karate-chopped his ass.
+Waa-taa!
+
+245
+00:11:45,288 --> 00:11:46,873
+And that's how the war started.
+
+246
+00:11:46,956 --> 00:11:49,542
+- How do you know? You talk to Shao?
+- Dude, shut up.
+
+247
+00:11:49,626 --> 00:11:52,045
+No one's ever even seen Shao,
+let alone talked to him.
+
+248
+00:11:52,128 --> 00:11:54,213
+It's not a war they're fighting.
+
+249
+00:11:54,297 --> 00:11:57,467
+But for all of us.
+When we see our names on these trains,
+
+250
+00:11:57,550 --> 00:12:01,679
+if only even for a fleeting moment,
+we can say: "I was here."
+
+251
+00:12:02,263 --> 00:12:05,183
+Crash, you paint spotlights
+and Bat-signals.
+
+252
+00:12:05,266 --> 00:12:06,601
+Daze, you paint constellations,
+
+253
+00:12:06,684 --> 00:12:09,228
+breadcrumb trails of sparks
+that tell a story.
+
+254
+00:12:09,312 --> 00:12:10,605
+Shao 007,
+
+255
+00:12:10,688 --> 00:12:11,731
+<i>man...</i>
+
+256
+00:12:12,774 --> 00:12:15,777
+<i>his Pumas are always pristine.</i>
+
+257
+00:12:16,319 --> 00:12:18,237
+<i>His hands are samurai swords.</i>
+
+258
+00:12:18,613 --> 00:12:21,407
+And his pieces, they're all fireworks.
+
+259
+00:12:22,325 --> 00:12:24,035
+Big, bright, explosive.
+
+260
+00:12:25,370 --> 00:12:26,788
+Have you seen Shao's latest?
+
+261
+00:12:28,331 --> 00:12:30,291
+"Clan of the Dragon Fist."
+
+262
+00:12:32,835 --> 00:12:33,670
+Wait.
+
+263
+00:12:34,253 --> 00:12:35,588
+Shaolin Fantastic has a new piece?
+
+264
+00:12:35,672 --> 00:12:39,050
+-I gotta check it. Where's it at?
+-The rubble fields, by Charlotte Street.
+
+265
+00:12:39,133 --> 00:12:40,677
+- I'm out of here.
+- You crazy!
+
+266
+00:12:40,760 --> 00:12:43,221
+- You're going now?
+- Savage Warlords territory, you can't--
+
+267
+00:12:43,304 --> 00:12:45,139
+A life lived in fear is a life half-lived.
+
+268
+00:12:45,223 --> 00:12:46,391
+-Say what?
+<i>-Ciao </i>for now.
+
+269
+00:12:46,474 --> 00:12:48,559
+<i>♪ You're losing, you're losing... ♪</i>
+
+270
+00:12:48,643 --> 00:12:51,938
+Rumi... I like him.
+He's weird, though.
+
+271
+00:12:54,482 --> 00:12:55,942
+<i>♪ Hey, you... ♪</i>
+
+272
+00:12:56,025 --> 00:12:59,362
+<i>Graffiti vandalism</i>
+<i>is a symptom of a far greater sickness.</i>
+
+273
+00:12:59,445 --> 00:13:02,281
+<i>The colossus on the Hudson</i>
+<i>has fallen deathly ill.</i>
+
+274
+00:13:02,365 --> 00:13:07,120
+<i>Unemployed, crime ridden, graffiti-soaked,</i>
+<i>the city's bankruptcy has put its finances</i>
+
+275
+00:13:07,203 --> 00:13:11,708
+<i>in the hands of un-elected businessmen,</i>
+<i>and so the mayoral election is heating up.</i>
+
+276
+00:13:11,791 --> 00:13:13,584
+<i>Mayor Beame is in bad trouble.</i>
+
+277
+00:13:13,668 --> 00:13:18,006
+I'm confident we can improve
+the quality of life here in our city.
+
+278
+00:13:18,089 --> 00:13:21,009
+<i> But underdog candidate</i>
+<i>Ed Koch is not so sure.</i>
+
+279
+00:13:21,092 --> 00:13:22,468
+Our mayor's a failure.
+
+280
+00:13:22,552 --> 00:13:25,221
+<i>Graffiti and crime plague our streets.</i>
+
+281
+00:13:25,304 --> 00:13:28,891
+<i>Instead of taking responsibility,</i>
+<i>he hands responsibility</i>
+
+282
+00:13:28,975 --> 00:13:30,518
+<i>to corrupt local leaders.</i>
+
+283
+00:13:30,601 --> 00:13:33,438
+<i>Poverty pimps like Francisco Cruz</i>
+<i>in the Bronx.</i>
+
+284
+00:13:33,855 --> 00:13:37,025
+<i>Cruz lines his pockets</i>
+<i>with your tax dollars</i>
+
+285
+00:13:37,108 --> 00:13:40,194
+<i>while claiming to provide services</i>
+<i>to his people.</i>
+
+286
+00:13:40,278 --> 00:13:43,072
+They're bleeding our resources dry.
+
+287
+00:13:43,156 --> 00:13:47,285
+<i>Ed Koch for mayor.</i>
+<i>Tough, competent, tireless and fair!</i>
+
+288
+00:13:47,368 --> 00:13:50,079
+What did this Koch call me?
+
+289
+00:13:50,163 --> 00:13:51,247
+"Poverty pimp,"?
+
+290
+00:13:51,330 --> 00:13:54,000
+He gets elected,
+your whole operation here goes away.
+
+291
+00:13:54,083 --> 00:13:55,918
+No one will do more for you
+than the mayor can.
+
+292
+00:13:56,002 --> 00:13:59,005
+Koch is a loser.
+I'll help Beame get elected,
+
+293
+00:13:59,088 --> 00:14:03,176
+but if your boss wants votes, he's gotta
+help me build something special.
+
+294
+00:14:03,259 --> 00:14:06,012
+Looks like the goddamned Taj Mahal.
+
+295
+00:14:06,095 --> 00:14:07,889
+The Charlotte Street Taj Mahal.
+
+296
+00:14:07,972 --> 00:14:10,600
+You tell the mayor
+he has a very simple choice.
+
+297
+00:14:11,267 --> 00:14:12,351
+Lose the election...
+
+298
+00:14:14,729 --> 00:14:16,272
+or fund my vision.
+
+299
+00:14:20,485 --> 00:14:22,111
+So, in order to meet with Malibu,
+
+300
+00:14:22,195 --> 00:14:24,405
+Mylene gonna have to dance
+in a contest at Les Inferno?
+
+301
+00:14:24,989 --> 00:14:26,324
+All the hustlers up there.
+
+302
+00:14:26,407 --> 00:14:28,785
+-She gonna fuck around and get turned out.
+-Not Mylene.
+
+303
+00:14:28,868 --> 00:14:29,786
+She ain't like that.
+
+304
+00:14:30,745 --> 00:14:31,829
+Is she?
+
+305
+00:14:31,913 --> 00:14:33,581
+Clan of the Dragon Fist!
+
+306
+00:14:33,873 --> 00:14:37,168
+Over on Charlotte Street.
+Clan of the Dragon Fist.
+
+307
+00:14:37,752 --> 00:14:40,004
+-Your brother's a fucking weirdo.
+-You have no idea.
+
+308
+00:14:40,088 --> 00:14:41,714
+I'm talking about Shao 007.
+
+309
+00:14:41,798 --> 00:14:44,384
+A new piece on Charlotte Street.
+Clan of the Dragon Fist.
+
+310
+00:14:44,467 --> 00:14:46,636
+But that's Savage Warlords territory!
+
+311
+00:14:47,303 --> 00:14:51,057
+But it's Shaolin Fantastic.
+So, take a deep breath and follow!
+
+312
+00:14:57,814 --> 00:14:59,148
+Come on.
+
+313
+00:15:18,459 --> 00:15:20,461
+Shaolin Fantastic, man.
+
+314
+00:15:21,421 --> 00:15:22,588
+Clan of the Dragon Fist.
+
+315
+00:15:23,172 --> 00:15:26,843
+Dizz, it's a master blaster.
+Yo, tonight, we go to the yards.
+
+316
+00:15:26,926 --> 00:15:28,553
+You gotta let your hero know you exist.
+
+317
+00:15:31,097 --> 00:15:32,432
+Not so loud, Boo.
+
+318
+00:15:32,515 --> 00:15:34,183
+I feel like we're being watched, y'all.
+
+319
+00:15:35,476 --> 00:15:37,019
+Probably by Shaolin.
+
+320
+00:15:37,603 --> 00:15:39,647
+I think I seen Shaolin Fantastic
+the other day.
+
+321
+00:15:39,730 --> 00:15:40,857
+No way.
+
+322
+00:15:41,441 --> 00:15:43,276
+Up on the roof. Flying.
+
+323
+00:15:45,236 --> 00:15:46,946
+Right there. Roof to roof.
+
+324
+00:15:47,029 --> 00:15:49,907
+- You see his face?
+- No, but I saw the red Pumas.
+
+325
+00:15:49,991 --> 00:15:52,535
+I heard Shaolin's so slick,
+he snuck into Yankee Stadium
+
+326
+00:15:52,618 --> 00:15:55,163
+and stole Chambliss'
+walk-off home run bat.
+
+327
+00:15:55,246 --> 00:15:56,747
+He fearless, man.
+
+328
+00:15:56,831 --> 00:15:59,750
+You gotta be
+to live in Savage Warlord territory.
+
+329
+00:16:00,460 --> 00:16:02,420
+-Dizz, man.
+-What's up, Boo?
+
+330
+00:16:02,503 --> 00:16:06,090
+You afraid of Warlords?
+I ain't afraid of no stupid Warlords.
+
+331
+00:16:06,174 --> 00:16:09,218
+Seriously, though,
+can we please go now?
+
+332
+00:16:10,428 --> 00:16:12,763
+Fuck y'all doing on our turf, punks?
+
+333
+00:16:13,806 --> 00:16:16,642
+We writers, little man, not gangsters.
+
+334
+00:16:16,726 --> 00:16:19,145
+All we find, all we keep.
+
+335
+00:16:19,228 --> 00:16:20,146
+Y'all got money?
+
+336
+00:16:20,229 --> 00:16:22,648
+I said all we find, all we fucking keep!
+
+337
+00:16:22,732 --> 00:16:25,818
+-Who the fuck y'all looking at?
+-Little nigga, let me talk to you.
+
+338
+00:16:25,902 --> 00:16:27,528
+-Don't touch me.
+-Hey, hey!
+
+339
+00:16:29,322 --> 00:16:30,323
+Boo!
+
+340
+00:16:30,406 --> 00:16:31,908
+Hey, Boo. Hey, get back, stop!
+
+341
+00:16:31,991 --> 00:16:34,535
+Savage Warlords are gonna
+beat your ass, fuckers!
+
+342
+00:16:34,619 --> 00:16:35,453
+Get the hell off me!
+
+343
+00:16:35,536 --> 00:16:37,163
+- Leave my fucking brother alone!
+- Get off me.
+
+344
+00:16:37,246 --> 00:16:39,373
+After I smash his ugly face.
+
+345
+00:16:39,457 --> 00:16:41,751
+Napoleon!
+We told you to fucking look out
+
+346
+00:16:41,834 --> 00:16:44,629
+and you taking these fools off
+for their lunch money?
+
+347
+00:16:44,712 --> 00:16:45,630
+Yo, bounce.
+
+348
+00:16:49,675 --> 00:16:50,676
+The fuck's wrong with you?
+
+349
+00:16:50,760 --> 00:16:53,763
+You begged to be our lookout
+at Les Inferno tonight,
+
+350
+00:16:53,846 --> 00:16:56,641
+-but you can't handle the responsibility!
+<i>-Oye, oye, oye.</i>
+
+351
+00:16:56,724 --> 00:16:59,852
+-Savage Warlords, be on your way.
+-Yo, it's Papa Fuerte!
+
+352
+00:16:59,936 --> 00:17:02,188
+- Everybody else, to school!
+- Come on.
+
+353
+00:17:02,271 --> 00:17:03,564
+Let's go!
+
+354
+00:17:03,648 --> 00:17:05,900
+<i>Pa fuera de la calle. Fuera de la calle.</i>
+
+355
+00:17:05,983 --> 00:17:07,652
+- Yo!
+- Run! Run!
+
+356
+00:17:07,735 --> 00:17:10,947
+Anybody wants some static,
+still be there by the time I count three.
+
+357
+00:17:11,030 --> 00:17:13,449
+<i>Uno, dos, tres.</i>
+
+358
+00:17:13,533 --> 00:17:14,867
+Ha!
+
+359
+00:17:17,703 --> 00:17:18,663
+<i>Que pendejo.</i>
+
+360
+00:17:20,039 --> 00:17:21,374
+He reminds me of me.
+
+361
+00:17:22,959 --> 00:17:25,002
+Come on, Stanley, join the party.
+
+362
+00:17:25,795 --> 00:17:28,130
+"Clan of the Dragora Fist."
+
+363
+00:17:28,214 --> 00:17:30,466
+I can never make heads or tails
+of this graffiti shit.
+
+364
+00:17:30,550 --> 00:17:31,884
+I'll tell you what, Stanley.
+
+365
+00:17:31,968 --> 00:17:36,097
+You bring me art classes, art supplies,
+and art teachers for our schools here,
+
+366
+00:17:36,222 --> 00:17:37,056
+and I promise you,
+
+367
+00:17:37,139 --> 00:17:39,684
+this right here is gonna be
+hanging at the MoMA,
+
+368
+00:17:39,767 --> 00:17:42,895
+not on the side of some
+burnt-out buildings or the five train.
+
+369
+00:17:42,979 --> 00:17:45,147
+Look at that.
+Landlord's paying these gangs
+
+370
+00:17:45,231 --> 00:17:47,858
+to burn buildings
+to collect the insurance money.
+
+371
+00:17:48,276 --> 00:17:51,153
+I got an epidemic on my hands here,
+but I gotta hear it
+
+372
+00:17:51,237 --> 00:17:55,449
+from the fire chief over at Engine 71
+that you closed two more firehouses?
+
+373
+00:17:55,533 --> 00:17:58,536
+I'm down four fucking firehouses
+in the last nine months here, Stan.
+
+374
+00:17:58,619 --> 00:18:00,538
+-The mayor knows he owes you.
+-Fuck the mayor!
+
+375
+00:18:03,583 --> 00:18:06,502
+Listen up. I know some of y'all are gonna
+
+376
+00:18:06,586 --> 00:18:10,089
+want to make some money this summer,
+so remember, Francisco Cruz is offering
+
+377
+00:18:10,172 --> 00:18:13,009
+paying summer jobs and internships.
+
+378
+00:18:13,092 --> 00:18:14,844
+Make sure you visit his center,
+
+379
+00:18:14,927 --> 00:18:19,473
+tell him Ms. Green sent you. I want you
+to live with confidence this summer, okay?
+
+380
+00:18:22,059 --> 00:18:23,769
+Okay, settle down!
+
+381
+00:18:24,395 --> 00:18:26,647
+Settle down! We are not done yet.
+
+382
+00:18:26,731 --> 00:18:28,733
+And I got plenty of detention slips
+
+383
+00:18:28,816 --> 00:18:30,610
+if y'all want to keep acting a fool.
+
+384
+00:18:30,693 --> 00:18:32,403
+Now, as promised,
+
+385
+00:18:32,486 --> 00:18:37,033
+it is time for me to announce the winner
+of the poetry writing contest.
+
+386
+00:18:38,200 --> 00:18:40,661
+Imani, please sit.
+
+387
+00:18:40,745 --> 00:18:43,039
+The winner for the best poem is...
+
+388
+00:18:45,166 --> 00:18:46,709
+Ezekiel Figuero.
+
+389
+00:18:46,792 --> 00:18:49,003
+- Aww.
+- Everybody applaud. Come on.
+
+390
+00:18:49,086 --> 00:18:51,631
+My God.
+
+391
+00:18:51,714 --> 00:18:53,299
+-Faggot!
+-Hey.
+
+392
+00:18:53,382 --> 00:18:55,092
+Faggot.
+
+393
+00:18:55,176 --> 00:18:56,761
+All right, that's enough, quiet down.
+
+394
+00:18:56,844 --> 00:18:58,554
+- Brainiac bitch.
+- Okay, Ezekiel.
+
+395
+00:18:58,638 --> 00:19:02,266
+Come on up and get your prize
+and recite your poem.
+
+396
+00:19:02,892 --> 00:19:05,269
+...I can't. I hurt my back.
+
+397
+00:19:05,353 --> 00:19:07,980
+Is that right? That's fine.
+
+398
+00:19:08,564 --> 00:19:10,024
+I'll come to you.
+
+399
+00:19:10,107 --> 00:19:11,192
+Ooh!
+
+400
+00:19:15,029 --> 00:19:17,281
+-Thanks, Ms. Green.
+-"Thanks, Ms. Green."
+
+401
+00:19:17,365 --> 00:19:19,617
+Mock him again
+and I'm going Lady Macbeth on your ass!
+
+402
+00:19:19,700 --> 00:19:21,494
+- Fuck you.
+- Ooh!
+
+403
+00:19:21,577 --> 00:19:24,121
+I'd like for you to read your poem,
+Ezekiel.
+
+404
+00:19:24,205 --> 00:19:25,247
+Yeah, I'd rather not.
+
+405
+00:19:26,457 --> 00:19:27,291
+Why not?
+
+406
+00:19:30,169 --> 00:19:31,879
+Because, I didn't write it.
+
+407
+00:19:31,962 --> 00:19:35,549
+I copied it from a book. That's all.
+Here's your candy back. I'm sorry.
+
+408
+00:19:35,633 --> 00:19:36,467
+Why you lying?
+
+409
+00:19:38,469 --> 00:19:40,179
+Whoo! We outta here.
+
+410
+00:19:40,262 --> 00:19:41,597
+Ezekiel Figuero...
+
+411
+00:19:42,223 --> 00:19:44,975
+- we need to talk. Okay, everybody.
+- Meet me by the flagpole.
+
+412
+00:19:45,059 --> 00:19:47,520
+Have a great summer.
+I'm going to miss you.
+
+413
+00:19:47,603 --> 00:19:51,273
+- You're my favorite teacher.
+- Have a good one. Take some good pictures.
+
+414
+00:19:51,357 --> 00:19:55,277
+You know, Ezekiel really did write
+that poem. Unfortunately, you know,
+
+415
+00:19:55,361 --> 00:19:58,364
+he's not manly enough
+to stand up and admit it.
+
+416
+00:19:58,447 --> 00:20:00,074
+-Mylene.
+-Zeke.
+
+417
+00:20:00,157 --> 00:20:01,033
+Come on.
+
+418
+00:20:02,702 --> 00:20:04,120
+Have a great summer, Ms. Green.
+
+419
+00:20:04,203 --> 00:20:05,913
+-You have a great summer, baby.
+-Okay.
+
+420
+00:20:16,549 --> 00:20:18,634
+Look out onto that vista there, Stanley.
+
+421
+00:20:19,719 --> 00:20:20,720
+Tell me what you see.
+
+422
+00:20:21,387 --> 00:20:22,680
+I see a national disgrace.
+
+423
+00:20:23,180 --> 00:20:24,974
+I see something beautiful, Stan.
+
+424
+00:20:25,057 --> 00:20:27,643
+I see houses.
+Like that model in my office.
+
+425
+00:20:27,727 --> 00:20:30,813
+Not projects that were built to segregate
+and warehouse the working poor.
+
+426
+00:20:30,896 --> 00:20:33,023
+I see homes, Stan.
+
+427
+00:20:33,107 --> 00:20:35,359
+Homes for my rainbow people.
+
+428
+00:20:36,610 --> 00:20:41,991
+I see ball fields for the kids.
+A library, right over there.
+
+429
+00:20:42,074 --> 00:20:44,744
+<i> Full of kids nourishing</i>
+<i>their intellectual curiosity.</i>
+
+430
+00:20:44,827 --> 00:20:48,748
+Prepping for internships,
+colleges and good jobs. And over there,
+
+431
+00:20:48,914 --> 00:20:51,375
+<i>what the hell, a man-made lake.</i>
+<i>With ducks, Stan.</i>
+
+432
+00:20:51,459 --> 00:20:56,046
+I see a proud community. And I see
+my contractors building that lake
+
+433
+00:20:56,130 --> 00:20:57,715
+and constructing these homes.
+
+434
+00:20:57,798 --> 00:21:00,885
+I see a new South Bronx,
+an attainable future for my people.
+
+435
+00:21:00,968 --> 00:21:03,888
+-That's a hell of a dream, Cisco.
+-No, it's not a dream, Stanley.
+
+436
+00:21:03,971 --> 00:21:06,390
+Your mayor sucks.
+Everybody knows it.
+
+437
+00:21:06,474 --> 00:21:07,892
+In your own words,
+
+438
+00:21:07,975 --> 00:21:11,771
+he's desperate for me to deliver
+20,000 new voters for the primary, right?
+
+439
+00:21:11,854 --> 00:21:14,023
+- Twenty-five.
+- Well, I'm gonna deliver 50,
+
+440
+00:21:14,106 --> 00:21:14,982
+you keep the change.
+
+441
+00:21:15,566 --> 00:21:16,942
+<i>Mira,</i> I did the research, Stan.
+
+442
+00:21:17,026 --> 00:21:20,029
+And those houses are gonna cost
+at least ten million.
+
+443
+00:21:20,696 --> 00:21:22,740
+And your midget mayor,
+he's gonna pick up the tab.
+
+444
+00:21:22,823 --> 00:21:24,992
+-Ten million don't--
+-If the mayor wants my loyalty
+
+445
+00:21:25,075 --> 00:21:27,161
+and my votes and the blood of my people,
+
+446
+00:21:27,244 --> 00:21:30,539
+then that ten million comes directly
+right the fuck here!
+
+447
+00:21:30,956 --> 00:21:33,793
+I'll make it happen. Okay? You happy?
+
+448
+00:21:33,876 --> 00:21:37,463
+I'm always happy, Stan.
+Sadness is for suckers.
+
+449
+00:21:37,838 --> 00:21:39,590
+Come on, we'll get an egg cream.
+
+450
+00:21:52,102 --> 00:21:53,813
+But, Ms. Green, your poetry contest
+
+451
+00:21:53,896 --> 00:21:56,023
+was poetry writing, not poetry reciting.
+
+452
+00:21:56,106 --> 00:21:57,399
+So, you did write it.
+
+453
+00:21:57,483 --> 00:22:00,986
+-I didn't say that.
+-I don't know why it is, Ezekiel,
+
+454
+00:22:01,070 --> 00:22:05,491
+that you seem to want to be nothing,
+when with just a little courage...
+
+455
+00:22:06,325 --> 00:22:07,743
+you could really be something.
+
+456
+00:22:07,827 --> 00:22:08,994
+I got courage.
+
+457
+00:22:09,078 --> 00:22:10,204
+No, you don't.
+
+458
+00:22:10,955 --> 00:22:12,414
+Leaders lead.
+
+459
+00:22:12,498 --> 00:22:14,542
+Cowards cower.
+
+460
+00:22:16,252 --> 00:22:19,129
+Now I understand
+that your poem is personal.
+
+461
+00:22:19,213 --> 00:22:24,009
+I understand that it might make you
+feel uncomfortable to share it.
+
+462
+00:22:24,593 --> 00:22:26,178
+But take a look around.
+
+463
+00:22:26,262 --> 00:22:28,013
+The Bronx is a war zone.
+
+464
+00:22:29,515 --> 00:22:32,434
+Our community is dying.
+
+465
+00:22:32,977 --> 00:22:35,062
+And it's gonna take leaders to save it.
+
+466
+00:22:35,980 --> 00:22:37,147
+That means you.
+
+467
+00:22:40,234 --> 00:22:45,531
+That is why I have been trying
+to get you to stand up
+
+468
+00:22:45,614 --> 00:22:47,616
+and share your gift with the class.
+
+469
+00:22:47,700 --> 00:22:50,995
+But every time, you take the easy way out.
+
+470
+00:22:51,078 --> 00:22:53,914
+Well, luckily for you, I'm probably
+not gonna be in school next year.
+
+471
+00:23:02,047 --> 00:23:04,341
+How would your mother and father feel
+if they were alive?
+
+472
+00:23:05,718 --> 00:23:07,553
+To hear you talking like that?
+
+473
+00:23:08,304 --> 00:23:10,889
+You live with your aunt and her boyfriend,
+right?
+
+474
+00:23:11,432 --> 00:23:14,727
+Do you think that they took on the burden
+of raising you
+
+475
+00:23:14,810 --> 00:23:16,645
+just so you could drop out of school?
+
+476
+00:23:17,229 --> 00:23:21,025
+Be dead,
+be in jail by the time you turn 21?
+
+477
+00:23:21,984 --> 00:23:23,652
+-I don't know.
+-You don't know.
+
+478
+00:23:24,320 --> 00:23:27,114
+Maybe I was wrong about you.
+Maybe you really didn't write this poem.
+
+479
+00:23:27,197 --> 00:23:28,115
+I wrote it.
+
+480
+00:23:30,451 --> 00:23:31,410
+Then prove it.
+
+481
+00:23:50,721 --> 00:23:54,308
+<i>Boom, then crash</i>
+<i>The shattering of glass</i>
+
+482
+00:23:55,934 --> 00:23:58,187
+<i>I dived to the floor</i>
+<i>Busted my ass</i>
+
+483
+00:23:59,438 --> 00:24:02,650
+<i>"What the hell was that?"</i>
+<i>Was all that I said</i>
+
+484
+00:24:04,985 --> 00:24:06,612
+<i>Then I seen a pool of blood</i>
+
+485
+00:24:06,695 --> 00:24:08,364
+<i>Then I see my moms was dead</i>
+
+486
+00:24:09,448 --> 00:24:12,076
+<i>No emotion in the commotion</i>
+<i>I wasn't even sad</i>
+
+487
+00:24:12,159 --> 00:24:14,745
+<i>Even when I learned</i>
+<i>That the bullet was meant for my dad</i>
+
+488
+00:24:15,871 --> 00:24:18,457
+<i>Vietnam made Pops crazy</i>
+<i>He was already half-dead</i>
+
+489
+00:24:18,540 --> 00:24:21,126
+<i>So, why couldn't that have been him</i>
+<i>That they shot in the head?</i>
+
+490
+00:24:21,877 --> 00:24:23,796
+<i>All the news that fits the print</i>
+
+491
+00:24:24,838 --> 00:24:28,008
+<i>Mama's death went unreported</i>
+<i>Not a whiff, word or hint</i>
+
+492
+00:24:29,176 --> 00:24:32,054
+<i>"They don't care about us niggas"</i>
+<i>Is how my pops explained it</i>
+
+493
+00:24:32,137 --> 00:24:35,099
+<i>But I didn't know I was a nigga</i>
+<i>Until my dad proclaimed it</i>
+
+494
+00:24:36,058 --> 00:24:38,102
+<i>Six months later</i>
+<i>My pops was dead, too</i>
+
+495
+00:24:38,977 --> 00:24:42,106
+<i>Drug-related shots fired</i>
+<i>His skin turned cold blue</i>
+
+496
+00:24:42,189 --> 00:24:45,275
+<i>On the news that night</i>
+<i>The president's wife got a new hairdo</i>
+
+497
+00:24:45,359 --> 00:24:47,820
+<i>The news guy said</i>
+<i>"I like it. How about you?"</i>
+
+498
+00:24:48,529 --> 00:24:51,448
+<i>No word about my pops</i>
+<i>In the </i>Post <i>or on CBS</i>
+
+499
+00:24:52,533 --> 00:24:54,034
+<i>Why was that, you ask?</i>
+
+500
+00:24:54,118 --> 00:24:55,577
+<i>Take a fucking guess</i>
+
+501
+00:24:57,663 --> 00:25:01,625
+<i>And, yeah, why is that?</i>
+<i>Is what politicians should be asking</i>
+
+502
+00:25:01,709 --> 00:25:04,586
+<i>But who's got time for questions</i>
+<i>When y'all skiing up on Aspen?</i>
+
+503
+00:25:04,670 --> 00:25:07,756
+<i>Bronx get gunshots to the head</i>
+<i>And all y'all swerving us is Aspirin</i>
+
+504
+00:25:07,840 --> 00:25:10,426
+<i>My mama was so lovely</i>
+<i>She would have made your head spin</i>
+
+505
+00:25:10,509 --> 00:25:13,011
+<i>Level the playing field</i>
+<i>And y'all would see who would really win</i>
+
+506
+00:25:13,095 --> 00:25:14,471
+<i>And, yeah, I got anger</i>
+
+507
+00:25:15,681 --> 00:25:18,225
+<i>But I don't let it take me down</i>
+<i>Because my mama taught me better</i>
+
+508
+00:25:18,308 --> 00:25:20,144
+<i>And she holds me up when I fall down</i>
+
+509
+00:25:22,730 --> 00:25:24,064
+<i>Rest in peace, Moms</i>
+
+510
+00:25:24,690 --> 00:25:26,108
+<i>Don't worry about your son</i>
+
+511
+00:25:28,861 --> 00:25:31,989
+<i>Someday I'll make you proud</i>
+<i>Because, yeah, I am the one</i>
+
+512
+00:25:34,950 --> 00:25:36,076
+Ezekiel...
+
+513
+00:25:37,745 --> 00:25:40,956
+there are opportunities out there
+for your advancement.
+
+514
+00:25:41,540 --> 00:25:43,083
+Francisco Cruz, he...
+
+515
+00:25:56,930 --> 00:25:58,724
+<i>♪ Step out in the limelight... ♪</i>
+
+516
+00:26:00,058 --> 00:26:03,896
+What if Malibu will only listen to
+your tape if you get down with him?
+
+517
+00:26:03,979 --> 00:26:05,022
+What you gonna do then?
+
+518
+00:26:05,105 --> 00:26:06,356
+Listen, he's not like that.
+
+519
+00:26:06,440 --> 00:26:09,234
+My God, Mylene.
+You don't know nothing about the world.
+
+520
+00:26:09,318 --> 00:26:12,905
+So, you hit her with the poetry
+and she still said no? That's cold.
+
+521
+00:26:12,988 --> 00:26:15,741
+I don't know, man.
+I'm trying everything I got, Ra.
+
+522
+00:26:15,824 --> 00:26:18,327
+Well, listen, man.
+Mylene's looking for a man.
+
+523
+00:26:18,410 --> 00:26:20,996
+Dress slick, right? Act smooth.
+
+524
+00:26:21,079 --> 00:26:22,915
+Savoir faire, man.
+
+525
+00:26:22,998 --> 00:26:26,627
+These are men, Mylene.
+Look, it's different.
+
+526
+00:26:26,710 --> 00:26:30,130
+Like, last time I was there,
+I met this dude, Little Wolf.
+
+527
+00:26:30,214 --> 00:26:32,257
+He's Cadillac's main man,
+
+528
+00:26:32,341 --> 00:26:35,010
+and I mean, he was so fine,
+
+529
+00:26:35,093 --> 00:26:39,807
+and like, he had gap!
+I'm talking about g-money like this!
+
+530
+00:26:40,390 --> 00:26:42,810
+Took me to a high post hotel and stuff.
+
+531
+00:26:42,893 --> 00:26:44,311
+Howard Johnson's is high post?
+
+532
+00:26:44,394 --> 00:26:46,730
+Well, they had
+good room service and champagne.
+
+533
+00:26:47,815 --> 00:26:49,650
+Listen, I'm gonna give you some advice.
+
+534
+00:26:50,400 --> 00:26:52,486
+You let Malibu take you to the hotel.
+
+535
+00:26:52,569 --> 00:26:53,403
+Shit.
+
+536
+00:26:53,487 --> 00:26:57,533
+You sing a sexy song for him
+in your lingerie and shit.
+
+537
+00:26:58,200 --> 00:27:00,327
+Shake your little <i>culo.</i>
+
+538
+00:27:00,410 --> 00:27:01,578
+<i> Culo?</i>
+
+539
+00:27:02,204 --> 00:27:03,247
+That's how you get a record deal.
+
+540
+00:27:03,330 --> 00:27:05,082
+Fucking Howard Johnson, Ra?
+
+541
+00:27:05,165 --> 00:27:08,544
+You need to calm down, first of all.
+Both of y'all need to calm down.
+
+542
+00:27:08,627 --> 00:27:11,046
+Fuck! You're right, Ra.
+We gotta get into Les Inferno.
+
+543
+00:27:11,129 --> 00:27:12,297
+Stop.
+
+544
+00:27:12,422 --> 00:27:14,591
+you can't sweat a freak, man.
+
+545
+00:27:14,675 --> 00:27:17,719
+I'm not planning on getting down
+with nobody, all right?
+
+546
+00:27:17,845 --> 00:27:20,264
+-You have to show up looking fly.
+-Yeah.
+
+547
+00:27:20,347 --> 00:27:22,975
+-With the suave bolla. Okay?
+-Suave-- Okay.
+
+548
+00:27:23,058 --> 00:27:25,394
+I just wanna meet DJ Malibu
+and give him my tape,
+
+549
+00:27:25,477 --> 00:27:27,604
+so I can get out of my father's church
+and never look back.
+
+550
+00:27:27,688 --> 00:27:30,482
+-That's it.
+-You have to get her something. A gift.
+
+551
+00:27:30,566 --> 00:27:31,400
+Okay.
+
+552
+00:27:31,483 --> 00:27:33,360
+Not expensive
+because you ain't got no money.
+
+553
+00:27:33,861 --> 00:27:36,154
+But, you know, something that says:
+
+554
+00:27:37,030 --> 00:27:38,156
+"I know you, girl.
+
+555
+00:27:39,283 --> 00:27:44,997
+I know you deep into your Taino
+Puerto Rican punany, <i>mamasita.</i>"
+
+556
+00:27:45,080 --> 00:27:46,498
+Don't talk about her like that.
+
+557
+00:27:46,915 --> 00:27:49,418
+Look, number one:
+you need to be there to dance with her.
+
+558
+00:27:49,501 --> 00:27:52,588
+you need to be dangerous.
+
+559
+00:27:52,963 --> 00:27:53,839
+Okay.
+
+560
+00:27:53,922 --> 00:27:56,633
+Any dude that messes with her
+gotta get the hammer.
+
+561
+00:27:57,134 --> 00:27:59,261
+Bang, bang. It's over.
+
+562
+00:27:59,344 --> 00:28:02,014
+Where the hell would I cop a gun?
+It's a stupid idea.
+
+563
+00:28:02,097 --> 00:28:03,473
+-Stupid.
+-Look, man.
+
+564
+00:28:04,099 --> 00:28:05,684
+The gun's a personal choice.
+
+565
+00:28:22,576 --> 00:28:25,245
+That Clan of the Dragon Fist piece
+was fly.
+
+566
+00:28:25,329 --> 00:28:28,123
+But let it be your last,
+and focus, Grasshopper.
+
+567
+00:28:28,206 --> 00:28:30,959
+Tonight your quest will end
+and your journey will begin
+
+568
+00:28:31,043 --> 00:28:33,086
+if you bring me back the Pakoussa.
+
+569
+00:28:33,170 --> 00:28:35,589
+The Pakoussa? By Misty Holloway?
+
+570
+00:28:36,214 --> 00:28:39,009
+-Where is it?
+-The Jamaican on Charlotte Street.
+
+571
+00:28:39,384 --> 00:28:41,637
+Protected by the Warlords, so watch out.
+
+572
+00:28:42,179 --> 00:28:44,264
+Bring me back the Pakoussa, Grasshopper.
+
+573
+00:28:45,057 --> 00:28:46,016
+Osu.
+
+574
+00:28:51,688 --> 00:28:52,773
+And Grasshopper!
+
+575
+00:28:53,982 --> 00:28:55,943
+Have you found yourself a wordsmith yet?
+
+576
+00:28:56,568 --> 00:28:57,402
+Not yet.
+
+577
+00:28:57,778 --> 00:29:00,447
+Then you must learn
+to trust and choose wisely.
+
+578
+00:29:00,530 --> 00:29:02,658
+You're well-liked but always alone.
+
+579
+00:29:03,367 --> 00:29:05,118
+The journey requires a wordsmith.
+
+580
+00:29:05,786 --> 00:29:08,038
+Bring me the Pakoussa by midnight,
+Grasshopper.
+
+581
+00:29:11,959 --> 00:29:13,001
+Whoo!
+
+582
+00:29:15,754 --> 00:29:16,588
+The gift.
+
+583
+00:29:17,172 --> 00:29:19,258
+It's a must-have,
+and it's gotta be personal.
+
+584
+00:29:19,341 --> 00:29:20,175
+So, what's she like?
+
+585
+00:29:20,259 --> 00:29:22,761
+-Perfume? Clothes?
+-That "Far, Far Away" joint.
+
+586
+00:29:22,844 --> 00:29:24,846
+-Misty Holloway?
+-The remix, by Carlo Pakoussa.
+
+587
+00:29:24,930 --> 00:29:27,599
+She crazy for it. Plus, it's rare.
+I heard they only made like 50 copies.
+
+588
+00:29:27,683 --> 00:29:29,685
+That Jamaican's spot
+on Charlotte Street got rare stuff.
+
+589
+00:29:29,768 --> 00:29:31,812
+Boom! Get that shit.
+
+590
+00:29:31,895 --> 00:29:33,272
+- Get in the club.
+- Yeah.
+
+591
+00:29:33,355 --> 00:29:34,189
+Get the DJ to play it.
+
+592
+00:29:34,273 --> 00:29:35,524
+-Okay. Yeah.
+-Right?
+
+593
+00:29:35,607 --> 00:29:36,817
+Okay. Wait, wait, wait.
+
+594
+00:29:37,317 --> 00:29:38,735
+Then you take her in your arms.
+
+595
+00:29:39,278 --> 00:29:42,447
+You sweep her up,
+and you dance a sexy hustle.
+
+596
+00:29:42,572 --> 00:29:44,783
+<i>-♪ I party like this ♪</i>
+-Hey.
+
+597
+00:29:45,909 --> 00:29:47,577
+Right, <i>nena.</i> Good.
+
+598
+00:29:47,661 --> 00:29:49,329
+<i>♪ I never felt quite like this ♪</i>
+
+599
+00:29:49,413 --> 00:29:51,373
+Damn, look at you, girl.
+
+600
+00:29:51,456 --> 00:29:53,667
+-Okay. I see you, girl.
+-All right? All right?
+
+601
+00:29:53,750 --> 00:29:57,587
+And you gonna claim your terrain,
+<i>Mandingo</i> style. All right?
+
+602
+00:29:58,380 --> 00:30:01,925
+Okay, you gonna have to show me again
+'cause I don't understand all that.
+
+603
+00:30:02,009 --> 00:30:04,386
+-You don't know how to hustle?
+-No. I don't know what you just did.
+
+604
+00:30:04,469 --> 00:30:06,346
+Okay, look. You don't have to do that.
+
+605
+00:30:06,430 --> 00:30:08,682
+But you definitely have to get
+that fucking record though.
+
+606
+00:30:08,765 --> 00:30:11,143
+<i>- ♪ Wild in the streets ♪</i>
+
+607
+00:30:13,645 --> 00:30:15,522
+<i>♪ Wild in the streets ♪</i>
+
+608
+00:30:17,691 --> 00:30:21,862
+<i>♪ In the heat of the summer</i>
+<i>Better call up the plumber ♪</i>
+
+609
+00:30:22,404 --> 00:30:25,824
+<i>♪ And turn on the street pump</i>
+<i>To cool me off ♪</i>
+
+610
+00:30:26,450 --> 00:30:30,370
+<i>♪ With your newspaper writers</i>
+<i>And your big crime fighters ♪</i>
+
+611
+00:30:51,725 --> 00:30:53,685
+-Come on, Uncle Johnny.
+-Why?
+
+612
+00:30:54,519 --> 00:30:56,688
+Napoleon, tell them to cut it out, yeah?
+
+613
+00:30:56,772 --> 00:30:58,148
+- What'd you say?
+- Yeah.
+
+614
+00:30:58,940 --> 00:31:01,651
+What's this about you not signing
+our new contract, Johnny?
+
+615
+00:31:01,735 --> 00:31:06,073
+"In exchange for 50 dollars a week,
+we, the Savage Warlords, junior branch,
+
+616
+00:31:06,156 --> 00:31:10,243
+promise not to disturb Kingston Top Stop
+Variety Store or its owner."
+
+617
+00:31:10,327 --> 00:31:11,912
+You double the price now?
+
+618
+00:31:11,995 --> 00:31:15,290
+Savage Warlords are mad as hell.
+We'll take care of that.
+
+619
+00:31:15,374 --> 00:31:17,167
+You know how long me working here?
+
+620
+00:31:17,250 --> 00:31:19,127
+- Shut up and sign it.
+- That's right.
+
+621
+00:31:19,211 --> 00:31:21,797
+I can't pay no $50 a week,
+you evil midget.
+
+622
+00:31:24,883 --> 00:31:26,218
+Please, have mercy.
+
+623
+00:31:26,301 --> 00:31:28,220
+- Don't let the man take my record!
+- Yo!
+
+624
+00:31:28,303 --> 00:31:30,972
+- I'll sign. I'll sign.
+- Go! Go! Go!
+
+625
+00:31:34,309 --> 00:31:35,560
+Get the record!
+
+626
+00:31:35,644 --> 00:31:37,854
+Yeah!
+
+627
+00:31:38,939 --> 00:31:40,107
+<i>♪ Wild in the streets ♪</i>
+
+628
+00:31:43,026 --> 00:31:45,237
+- Hey! Damn!
+- Aw, yeah!
+
+629
+00:31:53,370 --> 00:31:54,204
+Fuck.
+
+630
+00:31:56,915 --> 00:31:59,918
+<i>- ♪ We got a gang called Shady ♪</i>
+
+631
+00:32:00,001 --> 00:32:02,546
+- Cut him off! Cut him off!
+<i>- ♪ And a midnight lady ♪</i>
+
+632
+00:32:03,964 --> 00:32:05,215
+<i>♪ And two transvestites... ♪</i>
+
+633
+00:32:06,466 --> 00:32:08,635
+Go! Let's go!
+
+634
+00:32:12,305 --> 00:32:13,682
+<i>♪ You best believe us ♪</i>
+
+635
+00:32:15,308 --> 00:32:16,685
+<i>♪ Your teenage Johnny's ♪</i>
+
+636
+00:32:17,602 --> 00:32:19,646
+<i>♪ Gonna be a man ♪</i>
+
+637
+00:32:23,483 --> 00:32:24,943
+<i>♪ Wild in the streets... ♪</i>
+
+638
+00:32:54,014 --> 00:32:55,140
+I'm gonna kill you!
+
+639
+00:32:59,561 --> 00:33:01,646
+- Yo, we got him.
+- We got you now, boy!
+
+640
+00:33:17,662 --> 00:33:19,414
+No, no, no. Fuck.
+
+641
+00:33:22,751 --> 00:33:24,085
+Fuck!
+
+642
+00:33:31,718 --> 00:33:32,552
+Come on, man.
+
+643
+00:33:47,192 --> 00:33:50,987
+<i>And yo, Shao...</i>
+<i>that's when our journey began.</i>
+
+644
+00:33:51,655 --> 00:33:53,281
+<i>I'll never forget...</i>
+
+645
+00:33:53,907 --> 00:33:55,325
+<i>the first day we met.</i>
+
+646
+00:33:56,785 --> 00:33:57,619
+<i>Yeah.</i>
+
+647
+00:34:01,831 --> 00:34:03,959
+Hey. Motherfucker!
+
+648
+00:34:04,668 --> 00:34:05,710
+Motherfucker!
+
+649
+00:34:05,794 --> 00:34:07,462
+Hey! Hey! Hey!
+
+650
+00:34:09,548 --> 00:34:13,093
+Hey, yo, we're gonna get you, man!
+
+651
+00:34:13,176 --> 00:34:16,680
+That's right, you better run!
+
+652
+00:34:16,763 --> 00:34:17,973
+Keep running!
+
+653
+00:34:27,607 --> 00:34:29,943
+Hold it there.
+
+654
+00:34:40,495 --> 00:34:41,830
+-Yo, is that the record?
+-Yeah.
+
+655
+00:34:41,913 --> 00:34:42,747
+Yes!
+
+656
+00:34:43,290 --> 00:34:45,709
+Yo, wait, wait, wait.
+So, how much you pay, man?
+
+657
+00:34:45,792 --> 00:34:47,919
+...I got it for free.
+
+658
+00:34:48,003 --> 00:34:49,379
+-For free?
+-Yep.
+
+659
+00:34:49,462 --> 00:34:52,841
+I almost got killed. Could've got killed.
+Might still get killed.
+
+660
+00:34:52,924 --> 00:34:54,634
+Let's get off the street.
+I got it for free.
+
+661
+00:34:54,718 --> 00:34:56,094
+All right. All right. Okay.
+
+662
+00:34:57,178 --> 00:34:58,138
+<i>Dinner!</i>
+
+663
+00:35:00,515 --> 00:35:02,601
+So, all y'all kids
+going to the movies tonight?
+
+664
+00:35:02,684 --> 00:35:04,644
+Regina and I gonna go see
+that new horror flick.
+
+665
+00:35:04,728 --> 00:35:06,396
+- Which one?
+<i>- Satan's Cheerleaders.</i>
+
+666
+00:35:06,479 --> 00:35:07,981
+-I heard about that.
+<i>-Satan's Cheer--?</i>
+
+667
+00:35:08,064 --> 00:35:09,065
+You boys going with them?
+
+668
+00:35:09,649 --> 00:35:11,276
+We're gonna see
+that new metagalactic one.
+
+669
+00:35:11,359 --> 00:35:13,278
+-Um, <i>Wars on Mars.</i>
+<i>-Mars Wars.</i>
+
+670
+00:35:13,361 --> 00:35:14,613
+I hate science fiction.
+
+671
+00:35:14,696 --> 00:35:16,114
+It's called<i> Star Wars,</i> fools.
+
+672
+00:35:16,197 --> 00:35:17,115
+<i>Star Wars.</i>
+
+673
+00:35:17,198 --> 00:35:19,034
+What about you, Mylene?
+
+674
+00:35:19,117 --> 00:35:20,327
+I--
+
+675
+00:35:20,869 --> 00:35:23,204
+-I have to be home soon.
+-You sure you gotta go?
+
+676
+00:35:23,288 --> 00:35:25,540
+Yeah, my chariot
+turns to a pumpkin at 9:45.
+
+677
+00:35:25,624 --> 00:35:27,584
+I see.
+
+678
+00:35:43,683 --> 00:35:45,101
+Okay, Dad. Okay. Okay.
+
+679
+00:35:46,645 --> 00:35:48,980
+- All right. Okay.
+- That was real nice.
+
+680
+00:35:50,106 --> 00:35:51,358
+You wearing gloves now, son?
+
+681
+00:35:51,441 --> 00:35:54,653
+I told you, Dad, I'm into pop art now.
+I quit writing graffiti.
+
+682
+00:35:54,736 --> 00:35:57,656
+Well, I just saw "Rumi 411" on the wall.
+
+683
+00:35:57,739 --> 00:35:59,115
+It's like a copycat thing, Dad.
+
+684
+00:35:59,199 --> 00:36:01,660
+If you get locked up again,
+I'm gonna leave you in there, Dizz.
+
+685
+00:36:01,743 --> 00:36:04,204
+You gonna end up getting married
+to a big old man named Mario.
+
+686
+00:36:04,287 --> 00:36:06,331
+Just watch your ass out there, son.
+
+687
+00:36:07,374 --> 00:36:09,626
+-You want a brownie, sugar?
+-No time for brownies, love.
+
+688
+00:36:09,709 --> 00:36:11,753
+-Late for the solstice jam.
+-What you gonna wear tonight?
+
+689
+00:36:11,836 --> 00:36:13,338
+Yo, not so loud.
+
+690
+00:36:13,421 --> 00:36:14,923
+I was thinking,
+you can't be dancing
+
+691
+00:36:15,006 --> 00:36:17,133
+in this contest at Les Inferno
+by yourself.
+
+692
+00:36:17,217 --> 00:36:19,260
+Maybe we could dance together.
+
+693
+00:36:19,344 --> 00:36:21,846
+Together?
+You know they don't let kids in there.
+
+694
+00:36:21,971 --> 00:36:24,808
+- ...Planet Xenon!
+- But you're a kid.
+
+695
+00:36:24,891 --> 00:36:26,601
+Yeah, but I'm female. And I'm fly.
+
+696
+00:36:26,726 --> 00:36:29,646
+I'm gonna project my aura
+to Planet Wakoobee.
+
+697
+00:36:29,729 --> 00:36:30,897
+You be careful on your surfboard.
+
+698
+00:36:30,980 --> 00:36:33,942
+Please don't go<i>.</i>
+I'm begging you. That place is evil.
+
+699
+00:36:34,025 --> 00:36:36,653
+Yo. <i>No más, </i>okay?
+I'm going. That's that.
+
+700
+00:36:37,570 --> 00:36:38,655
+Love you.
+
+701
+00:36:45,120 --> 00:36:50,542
+All right, Boo, count six.
+Rustoleum Federal Safety Purples.
+
+702
+00:36:51,418 --> 00:36:54,671
+Now, what do you do if Shaolin Fantastic
+appears in the train yards?
+
+703
+00:36:54,754 --> 00:36:56,172
+- Run.
+- Good.
+
+704
+00:36:56,256 --> 00:36:58,675
+'Cause Shao'll pull your pants down
+and spray-paint your nut sack.
+
+705
+00:36:58,758 --> 00:36:59,676
+Exactly, Boo.
+
+706
+00:37:01,136 --> 00:37:04,806
+This Misty track is the joint.
+
+707
+00:37:04,889 --> 00:37:08,017
+Yo, Zeke ain't gonna get into
+Les Inferno by himself, you know?
+
+708
+00:37:08,101 --> 00:37:11,688
+I just hope he doesn't keep asking me
+'cause I can't, like, reject him again.
+
+709
+00:37:11,771 --> 00:37:13,273
+- Mylene.
+- Poor Zeke.
+
+710
+00:37:13,356 --> 00:37:16,943
+-I feel bad for your man.
+-Yolanda, Zeke is my friend.
+
+711
+00:37:17,902 --> 00:37:20,530
+-Not my man, okay?
+-That means I could go out with him?
+
+712
+00:37:20,613 --> 00:37:22,657
+- I didn't say that.
+- 'Cause you like him.
+
+713
+00:37:22,741 --> 00:37:24,576
+-Let's just figure out what I'm wearing.
+-Yeah!
+
+714
+00:37:24,659 --> 00:37:27,120
+Now, if you do have to run
+from Shaolin, remember,
+
+715
+00:37:27,203 --> 00:37:28,747
+what rail do you watch out for?
+
+716
+00:37:28,830 --> 00:37:30,832
+Duh. The third rail.
+
+717
+00:37:30,915 --> 00:37:33,877
+Yo, I heard he's called Shao 007
+'cause he got a 7-inch weenie.
+
+718
+00:37:33,960 --> 00:37:35,170
+That's pretty average, Boo.
+
+719
+00:37:35,795 --> 00:37:37,464
+<i>Up next. Gangs for hire.</i>
+
+720
+00:37:38,131 --> 00:37:40,717
+<i>A special report. Our fearless...</i>
+
+721
+00:37:42,677 --> 00:37:43,803
+Very conservative.
+
+722
+00:37:45,889 --> 00:37:48,516
+It's not like any hustlers, gangsters
+or pimps are gonna notice her.
+
+723
+00:37:48,600 --> 00:37:49,601
+You think so?
+
+724
+00:37:51,853 --> 00:37:54,272
+Ooh.
+
+725
+00:37:54,355 --> 00:37:56,608
+No, man. You gonna have to fly solo, man.
+
+726
+00:37:56,691 --> 00:37:59,277
+-Solo?
+-To Les Inferno. You gotta go alone.
+
+727
+00:37:59,360 --> 00:38:01,738
+But when you storm the gates,
+you need to dress to kill, man.
+
+728
+00:38:01,821 --> 00:38:05,033
+You need to be off the chain,
+you need to be ready, okay?
+
+729
+00:38:05,116 --> 00:38:06,201
+-Okay. I'm ready.
+-You ready?
+
+730
+00:38:06,284 --> 00:38:07,660
+-You ready?
+-I'm ready.
+
+731
+00:38:07,744 --> 00:38:08,828
+Shh!
+
+732
+00:38:08,912 --> 00:38:10,413
+<i>...most violent gang is also...</i>
+
+733
+00:38:10,997 --> 00:38:11,956
+Let's go.
+
+734
+00:38:12,999 --> 00:38:14,125
+I'm ready.
+
+735
+00:38:14,209 --> 00:38:17,712
+<i>The Savage Warlords</i>
+<i>have begun dabbling in murder-for-hire.</i>
+
+736
+00:38:17,796 --> 00:38:21,090
+<i>A hit that left four dead last week</i>
+<i>is being blamed on...</i>
+
+737
+00:38:27,722 --> 00:38:29,057
+Yeah. Yeah.
+
+738
+00:38:29,140 --> 00:38:32,185
+I don't know about this, brother.
+These are your father's fine vines.
+
+739
+00:38:32,268 --> 00:38:34,187
+My father don't care
+about stuff like this.
+
+740
+00:38:35,396 --> 00:38:36,439
+This is the one.
+
+741
+00:38:36,523 --> 00:38:37,357
+I'm ready.
+
+742
+00:38:37,440 --> 00:38:38,399
+Damn straight.
+
+743
+00:38:39,526 --> 00:38:40,360
+You got the record.
+
+744
+00:38:40,443 --> 00:38:41,277
+I got the record.
+
+745
+00:38:41,361 --> 00:38:43,071
+-You're looking fly.
+-I'm looking fly.
+
+746
+00:38:43,154 --> 00:38:45,198
+Remember,
+you gotta be harder than hard up there.
+
+747
+00:38:45,281 --> 00:38:47,575
+-Be ready to fight anyone for your woman.
+-She's mine.
+
+748
+00:38:51,746 --> 00:38:52,705
+What?
+
+749
+00:38:53,206 --> 00:38:55,250
+They never gonna let you in
+with them rags on your feet.
+
+750
+00:39:05,593 --> 00:39:08,513
+- <i>Two bodies found...</i>
+- Yeah, faster, baby. Yeah.
+
+751
+00:39:08,596 --> 00:39:11,057
+<i>...casualties of a turf war</i>
+<i>as Nicky Barnes of Harlem</i>
+
+752
+00:39:11,140 --> 00:39:16,062
+<i>and Fat Annie of the South Bronx fight</i>
+<i>for control of the heroin trade north...</i>
+
+753
+00:39:16,145 --> 00:39:19,941
+"And then the Lord laid the sins
+of the father upon the child.
+
+754
+00:39:20,024 --> 00:39:23,278
+For though he is merciful,
+even the righteous are born in sin
+
+755
+00:39:23,361 --> 00:39:25,321
+and must bear the iniquities
+of their fathers."
+
+756
+00:39:25,405 --> 00:39:27,991
+<i>- ♪ Talkin' 'bout bad, bad girls... ♪</i>
+
+757
+00:39:28,074 --> 00:39:29,409
+Hey, girls.
+
+758
+00:39:29,492 --> 00:39:31,870
+My God.
+
+759
+00:39:31,953 --> 00:39:33,705
+See, I told you she coming.
+
+760
+00:39:33,788 --> 00:39:37,125
+That's right, girl.
+I've got mad respect for you...
+
+761
+00:39:37,208 --> 00:39:39,085
+...and for that dress.
+
+762
+00:39:39,168 --> 00:39:41,629
+- Do you like it?
+- Like it?
+
+763
+00:39:45,216 --> 00:39:47,552
+- Girl, you look almost as good as me.
+- Shut up.
+
+764
+00:39:47,635 --> 00:39:49,637
+Malibu is gonna sign you for sure.
+
+765
+00:39:49,721 --> 00:39:50,763
+Girl, he better.
+
+766
+00:39:50,847 --> 00:39:52,307
+Let's go.
+
+767
+00:39:53,016 --> 00:39:55,810
+Keep looking real good.
+
+768
+00:39:56,769 --> 00:39:58,438
+<i>- ♪ Hey, you ♪</i>
+
+769
+00:40:00,565 --> 00:40:03,067
+<i>♪ You're losing, you're losing</i>
+<i>You're losing ♪</i>
+
+770
+00:40:03,651 --> 00:40:05,737
+<i>♪ You're losing</i>
+<i>Your vitamin C ♪</i>
+
+771
+00:40:06,154 --> 00:40:07,614
+Nice and quiet, Boo.
+
+772
+00:40:07,697 --> 00:40:10,700
+These lamps,
+they belong to Shaolin Fantastic.
+
+773
+00:40:11,284 --> 00:40:12,744
+Shit. Check this out.
+
+774
+00:40:12,827 --> 00:40:13,828
+Shh!
+
+775
+00:40:13,912 --> 00:40:15,455
+He's here, Dizz. Look.
+
+776
+00:40:16,080 --> 00:40:19,000
+Don't worry. That's from
+last week. But if you see the red Pumas--
+
+777
+00:40:19,083 --> 00:40:20,376
+I know. Run.
+
+778
+00:40:23,463 --> 00:40:26,132
+Who wants to get in?
+Who wants to get in?
+
+779
+00:40:35,975 --> 00:40:39,812
+Why you keep checking your watch, Wolf?
+You got someplace to go?
+
+780
+00:40:39,896 --> 00:40:41,564
+Just waiting on your birthday cake, boss.
+
+781
+00:40:41,648 --> 00:40:43,483
+Ordered you a real special one this year.
+
+782
+00:40:43,566 --> 00:40:45,443
+Store-bought is fine by me.
+
+783
+00:40:46,027 --> 00:40:47,570
+Not like that Nicky Barnes.
+
+784
+00:40:48,196 --> 00:40:51,491
+What kind of drug lord poses
+on the cover of <i>Time </i>magazine?
+
+785
+00:40:51,574 --> 00:40:53,409
+Mr. Untouchable..
+
+786
+00:40:53,493 --> 00:40:55,370
+Since that cover,
+people calling Nicky "the king."
+
+787
+00:40:55,453 --> 00:40:56,996
+All hail the king.
+
+788
+00:40:57,080 --> 00:40:58,081
+-Nicky--
+-"King"?
+
+789
+00:40:59,040 --> 00:40:59,916
+Shit.
+
+790
+00:41:02,961 --> 00:41:04,712
+Would Shaolin really come after us?
+
+791
+00:41:04,796 --> 00:41:05,838
+What'd he want from us?
+
+792
+00:41:05,922 --> 00:41:08,549
+I mean, I heard he's so rich
+he got 100 pairs of Pumas.
+
+793
+00:41:08,633 --> 00:41:11,803
+I don't know. Yo, Boo.
+Why you letting it drip like that?
+
+794
+00:41:12,387 --> 00:41:13,596
+What'd I teach you?
+
+795
+00:41:13,680 --> 00:41:14,597
+"Hold it upright."
+
+796
+00:41:14,681 --> 00:41:18,434
+Hold the can upright.
+Move on. Move on. That's done.
+
+797
+00:41:18,518 --> 00:41:19,602
+But seriously.
+
+798
+00:41:19,686 --> 00:41:22,021
+You think he got enough money
+for that many shoes?
+
+799
+00:41:36,119 --> 00:41:37,078
+Enjoy the music.
+
+800
+00:41:41,874 --> 00:41:45,628
+Shit. Nicky Barnes ain't got nothing
+this birthday girl ain't got.
+
+801
+00:41:46,087 --> 00:41:49,424
+I got this here club,
+plus the disco downstairs,
+
+802
+00:41:49,507 --> 00:41:52,010
+plus three after-hours joints,
+
+803
+00:41:52,093 --> 00:41:54,345
+prostitution, gambling,
+
+804
+00:41:54,429 --> 00:41:56,472
+numbers, a day-care center.
+
+805
+00:41:56,556 --> 00:42:00,810
+And I still got time to control
+half the cocaine in the Bronx.
+
+806
+00:42:01,436 --> 00:42:03,021
+All Nicky do is sling dope.
+
+807
+00:42:03,104 --> 00:42:04,689
+And I'll tell you something else, Wolf.
+
+808
+00:42:04,772 --> 00:42:07,400
+Mark my words, this time next year,
+
+809
+00:42:07,483 --> 00:42:10,903
+I'm gonna take motherfucking Nicky Barnes
+the fuck out
+
+810
+00:42:10,987 --> 00:42:12,655
+and expand to Harlem.
+
+811
+00:42:12,739 --> 00:42:13,948
+Sound good to you?
+
+812
+00:42:15,742 --> 00:42:17,493
+-Nephew?
+-You the boss.
+
+813
+00:42:17,994 --> 00:42:19,787
+- All hail the queen.
+- Here, here.
+
+814
+00:42:19,871 --> 00:42:23,583
+-That's right, motherfucker.
+-I got the music.
+
+815
+00:42:25,084 --> 00:42:27,378
+You wanna check your watch
+or you wanna play?
+
+816
+00:42:38,014 --> 00:42:39,057
+Shit.
+
+817
+00:42:40,767 --> 00:42:42,268
+You got my favorite song.
+
+818
+00:42:42,351 --> 00:42:43,352
+The greatest hits.
+
+819
+00:42:51,402 --> 00:42:52,487
+It's all there?
+
+820
+00:42:52,570 --> 00:42:54,030
+A quarter ounce in twenty-fives.
+
+821
+00:42:55,406 --> 00:42:57,408
+You sound like you expect
+something different, boss.
+
+822
+00:42:58,034 --> 00:42:59,452
+I expect shit to be right.
+
+823
+00:43:00,536 --> 00:43:01,370
+Move that shit.
+
+824
+00:43:01,454 --> 00:43:03,331
+<i>♪ Pulling me closer ♪</i>
+
+825
+00:43:03,873 --> 00:43:05,458
+Well, look who's here.
+
+826
+00:43:05,541 --> 00:43:07,585
+Like Paul Revere.
+
+827
+00:43:08,169 --> 00:43:09,545
+Come kiss these dice for me, baby.
+
+828
+00:43:09,629 --> 00:43:12,340
+Hey, come on now,
+you got a grip of my money right there.
+
+829
+00:43:12,423 --> 00:43:15,343
+And I'm about to get some more.
+You know I like 'em young, right?
+
+830
+00:43:15,426 --> 00:43:17,804
+Yeah, I do. I remember.
+
+831
+00:43:18,554 --> 00:43:19,388
+Ha!
+
+832
+00:43:20,264 --> 00:43:22,141
+- Shit.
+- Damn.
+
+833
+00:43:24,936 --> 00:43:26,521
+What'd I say? Hey.
+
+834
+00:43:26,604 --> 00:43:28,272
+Got you something sweet, Miss Annie.
+
+835
+00:43:28,356 --> 00:43:31,984
+- You got more manners than my own son.
+- Happy birthday, Annie.
+
+836
+00:43:32,068 --> 00:43:34,821
+Thank you, sugar.
+Now give me some sugar, baby.
+
+837
+00:43:36,280 --> 00:43:38,324
+Hey. Hey.
+
+838
+00:43:39,826 --> 00:43:42,370
+Hey.
+
+839
+00:43:42,453 --> 00:43:46,916
+So young and so fine,
+like ripe blackberry wine.
+
+840
+00:43:49,627 --> 00:43:54,006
+That boy's gonna be a boss someday.
+He's gonna rock it like a Rockefeller.
+
+841
+00:43:54,090 --> 00:43:56,592
+What's my name? What's my name?
+
+842
+00:43:56,676 --> 00:43:57,760
+'Cause I think you forgot.
+
+843
+00:43:57,844 --> 00:44:01,472
+First time I saw him out back
+parking cars for nickels, said to myself:
+
+844
+00:44:01,556 --> 00:44:04,308
+"I'm gonna groom him real good."
+
+845
+00:44:12,733 --> 00:44:14,193
+<i>♪ Burn, baby, burn ♪</i>
+
+846
+00:44:16,195 --> 00:44:18,239
+- Yo!
+<i>- ♪ Burn, baby, burn ♪</i>
+
+847
+00:44:20,283 --> 00:44:22,368
+<i>- ♪ To my surprise ♪</i>
+
+848
+00:44:22,493 --> 00:44:23,536
+<i>♪ Listen ♪</i>
+
+849
+00:44:23,619 --> 00:44:26,706
+<i>♪ One hundred stories high ♪</i>
+
+850
+00:44:27,540 --> 00:44:30,459
+<i>- ♪ People gettin' loose, y'all ♪</i>
+- Whoo!
+
+851
+00:44:30,543 --> 00:44:32,003
+Whoo! Sailor.
+
+852
+00:44:33,004 --> 00:44:34,005
+Take it easy.
+
+853
+00:44:36,090 --> 00:44:37,466
+<i>♪ Folks are screamin' ♪</i>
+
+854
+00:44:39,886 --> 00:44:41,512
+<i>♪ Out of control ♪</i>
+
+855
+00:44:42,054 --> 00:44:45,308
+<i>♪ It was so entertainin' ♪</i>
+
+856
+00:44:46,225 --> 00:44:49,562
+<i>♪ When the boogie started to explode</i>
+<i>I heard somebody say ♪</i>
+
+857
+00:44:49,645 --> 00:44:51,105
+<i>♪ Burn, baby, burn ♪</i>
+
+858
+00:44:56,110 --> 00:44:58,321
+What took your slow ass so long?
+
+859
+00:44:58,404 --> 00:45:00,573
+You know I can't dance
+without my lucky lollipops.
+
+860
+00:45:03,200 --> 00:45:06,579
+Yo, Shaolin Fan-faggot.
+
+861
+00:45:06,662 --> 00:45:08,205
+Come here. Come here. Come here.
+
+862
+00:45:08,289 --> 00:45:09,290
+Come here. Come here.
+
+863
+00:45:09,373 --> 00:45:10,541
+Sit down. Sit down.
+
+864
+00:45:12,793 --> 00:45:13,628
+Come here.
+
+865
+00:45:14,503 --> 00:45:17,924
+My cousin here tells me
+that you kissed my mama
+
+866
+00:45:18,007 --> 00:45:20,635
+on her big juicy lips.
+
+867
+00:45:22,553 --> 00:45:23,638
+Did you do that?
+
+868
+00:45:23,721 --> 00:45:25,723
+Did you slip her some birthday tongue?
+
+869
+00:45:29,769 --> 00:45:33,481
+See, what happened was I was turning
+my head while she was kissing me.
+
+870
+00:45:33,564 --> 00:45:34,565
+Hey!
+
+871
+00:45:36,275 --> 00:45:38,069
+You see this fucking barboy?
+
+872
+00:45:38,152 --> 00:45:41,030
+Wanders in one day
+off the motherfucking street.
+
+873
+00:45:42,198 --> 00:45:44,408
+What happened,
+nobody wanted your little stank ass?
+
+874
+00:45:44,492 --> 00:45:45,952
+His mom was tricking,
+
+875
+00:45:46,035 --> 00:45:48,037
+and his pops is a bum.
+
+876
+00:45:49,622 --> 00:45:52,291
+Now, he think he run things around here.
+
+877
+00:45:52,875 --> 00:45:54,877
+But there's only one king around here.
+
+878
+00:45:54,961 --> 00:45:56,003
+- Shit.
+- Disco King Cadillac.
+
+879
+00:45:56,087 --> 00:45:58,673
+-Get off me!
+-I ought to pluck your eyeball out...
+
+880
+00:45:58,756 --> 00:46:00,591
+Get his ass, pay him for that shit.
+
+881
+00:46:00,675 --> 00:46:02,927
+...wear it around my neck
+if you don't answer.
+
+882
+00:46:03,010 --> 00:46:05,805
+- Fuck off of me.
+- Did you kiss my mama on the lips?
+
+883
+00:46:05,888 --> 00:46:08,057
+<i>♪ Do it now, ha ♪</i>
+
+884
+00:46:09,475 --> 00:46:13,229
+- Ladies. How you doing?
+- Yo, Pito!
+
+885
+00:46:14,063 --> 00:46:15,648
+- Hey.
+- Yeah.
+
+886
+00:46:15,731 --> 00:46:18,192
+<i>- ♪ Once I was a boogie singer ♪</i>
+
+887
+00:46:18,275 --> 00:46:20,319
+-Pito, baby.
+<i>-¿Cómo estás nena?</i>
+
+888
+00:46:20,403 --> 00:46:23,239
+<i>- ♪ Playing in a rock 'n' roll band ♪</i>
+
+889
+00:46:23,322 --> 00:46:24,490
+Hi. Yeah.
+
+890
+00:46:24,657 --> 00:46:27,660
+<i>- ♪ I never had no problems... ♪</i>
+- Hey, over here.
+
+891
+00:46:28,119 --> 00:46:32,623
+-Now, what's up? Talk to me, baby.
+-Hey, come on. Let us go.
+
+892
+00:46:32,707 --> 00:46:36,335
+I'm a friend of Little Wolf.
+This is my friend Mylene.
+
+893
+00:46:37,211 --> 00:46:38,045
+Hi.
+
+894
+00:46:38,129 --> 00:46:41,507
+<i>- ♪ Got to start to feelin' so low ♪</i>
+
+895
+00:46:41,799 --> 00:46:44,844
+- Over here. We wanna get in.
+<i>- ♪ And I decided quickly ♪</i>
+
+896
+00:46:46,804 --> 00:46:50,016
+<i>♪ To disco down and check out the show ♪</i>
+
+897
+00:46:52,810 --> 00:46:54,687
+Get your fucking hands--
+Get the fuck off me.
+
+898
+00:46:54,770 --> 00:46:57,898
+Did that hurt your feelings?
+You should stay. He should stay.
+
+899
+00:46:57,982 --> 00:47:00,067
+Man, if you don't get
+your fucking hands off me--
+
+900
+00:47:00,151 --> 00:47:02,194
+- The fuck you gonna do?
+- The fuck am I gonna do?
+
+901
+00:47:04,822 --> 00:47:08,701
+<i>♪ You're angelic in every way</i>
+<i>You shine like the moon ♪</i>
+
+902
+00:47:08,784 --> 00:47:13,497
+<i>♪ Just take my hand and we'll levitate</i>
+<i>Not a moment too soon... ♪</i>
+
+903
+00:47:13,581 --> 00:47:16,792
+- How you doing?
+- Whoo!
+
+904
+00:47:16,876 --> 00:47:17,960
+My God.
+
+905
+00:47:18,044 --> 00:47:20,046
+My God. Regina, you know these people?
+
+906
+00:47:21,505 --> 00:47:22,339
+Okay.
+
+907
+00:47:23,716 --> 00:47:25,551
+-Yo, who's that?
+<i>-♪ ...backseat of my Cadillac ♪</i>
+
+908
+00:47:27,344 --> 00:47:29,555
+I think that's that young broad.
+Little Wolf...
+
+909
+00:47:29,638 --> 00:47:32,683
+<i>-♪ ...of my Cadillac ♪</i>
+-He took her to the Howard Johnson's.
+
+910
+00:47:32,767 --> 00:47:35,227
+<i>♪ Let me take you there, you there... ♪</i>
+
+911
+00:47:35,311 --> 00:47:36,645
+Look who's checking you out.
+
+912
+00:47:36,729 --> 00:47:39,482
+<i>♪ Heaven's in the backseat</i>
+<i>Of my Cadillac ♪</i>
+
+913
+00:47:39,565 --> 00:47:42,568
+Yeah.
+She ain't never been to a hotel before.
+
+914
+00:47:42,651 --> 00:47:44,028
+Sweet-ass pussy--
+
+915
+00:47:44,111 --> 00:47:46,655
+No, I'm talking about
+the one next to her.
+
+916
+00:47:47,239 --> 00:47:49,658
+-Who is he?
+-That's Cadillac. He runs this place.
+
+917
+00:47:49,742 --> 00:47:53,287
+- His moms is Fat Annie.
+- And I'll bet you he knows Malibu.
+
+918
+00:47:54,121 --> 00:47:56,916
+And just wait till you
+see him dance, girl..
+
+919
+00:47:56,999 --> 00:47:57,833
+Bring her to me.
+
+920
+00:47:57,917 --> 00:48:00,336
+He wins the dance-off,
+like, every single week.
+
+921
+00:48:03,297 --> 00:48:05,883
+Wolves on the prowl.
+
+922
+00:48:07,718 --> 00:48:08,594
+My God.
+
+923
+00:48:09,053 --> 00:48:10,137
+Shit.
+
+924
+00:48:10,221 --> 00:48:13,557
+<i>♪ Heaven's in the backseat</i>
+<i>Of my Cadillac ♪</i>
+
+925
+00:48:14,517 --> 00:48:17,645
+<i>♪ Heaven's in the backseat</i>
+<i>Of my Cadillac ♪</i>
+
+926
+00:48:17,728 --> 00:48:19,146
+<i>♪ Let me take you there ♪</i>
+
+927
+00:48:19,230 --> 00:48:20,773
+<i>♪ Let me take you there ♪</i>
+
+928
+00:48:35,412 --> 00:48:36,288
+Next.
+
+929
+00:48:37,623 --> 00:48:41,418
+Misty Holloway, "Far, Far Away"?
+What the fuck? You trying to be a DJ?
+
+930
+00:48:42,419 --> 00:48:43,254
+I got money.
+
+931
+00:48:43,337 --> 00:48:45,256
+You don't have a woman with you,
+I can't let you in.
+
+932
+00:48:45,339 --> 00:48:47,133
+-My woman's inside.
+-Get off the line.
+
+933
+00:48:47,216 --> 00:48:48,050
+I have to get inside.
+
+934
+00:48:48,134 --> 00:48:49,844
+-Just take the money.
+-Listen...
+
+935
+00:48:49,927 --> 00:48:52,972
+you're making yourself look bad,
+especially with that record in your hand.
+
+936
+00:48:53,055 --> 00:48:55,641
+-Please. She's inside.
+-Don't have a woman, I can't let you in.
+
+937
+00:48:55,724 --> 00:48:57,101
+-You cannot get in.
+-Take the money.
+
+938
+00:48:57,184 --> 00:49:00,020
+-Take the money.
+-Get the fuck off the line, I said!
+
+939
+00:49:00,104 --> 00:49:04,066
+See, where I'm coming from as an
+entrepreneur with fingers in many worlds,
+
+940
+00:49:04,150 --> 00:49:08,154
+you understand,
+is that your mind has to be right
+
+941
+00:49:08,237 --> 00:49:10,739
+before you ever enter the Coliseum,
+you understand?
+
+942
+00:49:10,823 --> 00:49:13,117
+You have to see yourself as a star.
+
+943
+00:49:13,200 --> 00:49:14,410
+I do.
+
+944
+00:49:14,493 --> 00:49:15,411
+And you are.
+
+945
+00:49:16,203 --> 00:49:18,289
+I see star all over you.
+
+946
+00:49:18,873 --> 00:49:21,584
+And I know one or two people
+in that stratosphere.
+
+947
+00:49:21,667 --> 00:49:22,835
+Really?
+
+948
+00:49:22,918 --> 00:49:23,961
+Do you know Malibu?
+
+949
+00:49:26,172 --> 00:49:27,256
+Know Malibu?
+
+950
+00:49:27,339 --> 00:49:29,341
+I own Malibu.
+
+951
+00:49:29,425 --> 00:49:31,177
+I financed his label. You understand?
+
+952
+00:49:31,260 --> 00:49:32,720
+Wow, so...
+
+953
+00:49:32,803 --> 00:49:36,348
+you must think you're a real big man?
+
+954
+00:49:37,016 --> 00:49:39,018
+You ain't the first big man I met...
+
+955
+00:49:39,518 --> 00:49:40,519
+Cadillac.
+
+956
+00:49:41,562 --> 00:49:43,063
+I like your style.
+
+957
+00:49:43,564 --> 00:49:44,940
+I like it a whole lot.
+
+958
+00:49:46,317 --> 00:49:47,484
+Please, I will do anything.
+
+959
+00:49:47,568 --> 00:49:48,777
+-I have to get inside.
+-You again?
+
+960
+00:49:48,861 --> 00:49:50,863
+-The fuck do you want?
+-Please, I have to get inside!
+
+961
+00:49:50,946 --> 00:49:53,073
+-Nobody-- No.
+-Please, just fucking take it.
+
+962
+00:49:53,157 --> 00:49:55,743
+-I don't want your fucking money.
+-I have to get inside!
+
+963
+00:49:55,826 --> 00:49:57,828
+-You can't get inside.
+-Don't touch--
+
+964
+00:49:57,912 --> 00:49:59,288
+Fuck you and your record, man.
+
+965
+00:49:59,371 --> 00:50:01,373
+-Fuck! Fuck outta here.
+-Fuck you!
+
+966
+00:50:01,457 --> 00:50:02,875
+- Fuck you.
+- Let me get that.
+
+967
+00:50:02,958 --> 00:50:04,919
+- Get the fuck out of here.
+- I swear...
+
+968
+00:50:06,378 --> 00:50:08,130
+<i>Mi gente,</i> Malibu's here.
+
+969
+00:50:10,591 --> 00:50:12,009
+<i>♪ She loves her daddy ♪</i>
+
+970
+00:50:12,092 --> 00:50:14,803
+<i>♪ Daddy, Daddy Cool... ♪</i>
+
+971
+00:50:16,555 --> 00:50:19,725
+- I'll watch your car for a dollar.
+- Watch his car for free.
+
+972
+00:50:19,808 --> 00:50:22,353
+-That's DJ Malibu, stupid.
+<i>-♪ Daddy, Daddy Cool ♪</i>
+
+973
+00:50:23,687 --> 00:50:26,607
+<i>-♪ Daddy, Daddy Cool ♪</i>
+-Yo, Malibu, anything you need, I got you.
+
+974
+00:50:26,690 --> 00:50:29,526
+Chicks, coke,
+and a crate of Paul Masson champagne.
+
+975
+00:50:34,531 --> 00:50:35,366
+Yo!
+
+976
+00:50:36,867 --> 00:50:38,202
+Where's my record?
+
+977
+00:50:39,245 --> 00:50:40,454
+Right fucking here.
+
+978
+00:50:40,871 --> 00:50:43,165
+I got a good mind
+to jack you up for what you did.
+
+979
+00:50:43,249 --> 00:50:45,251
+What I--? You stole the record from me.
+
+980
+00:50:46,252 --> 00:50:47,753
+- Give me the fu--
+- Yo, Shao.
+
+981
+00:50:47,836 --> 00:50:49,338
+Take that shit around the corner, man.
+
+982
+00:50:50,673 --> 00:50:52,549
+Yeah. Looking good...
+
+983
+00:50:52,633 --> 00:50:54,551
+Now. Around the fucking corner.
+
+984
+00:50:56,637 --> 00:50:57,554
+Come on, little man.
+
+985
+00:50:57,972 --> 00:50:59,098
+Come around the corner.
+
+986
+00:50:59,723 --> 00:51:03,143
+I go around, I'm gonna knock you
+to Sunday, wait for you on Tuesday.
+
+987
+00:51:03,727 --> 00:51:06,146
+At Les Inferno,
+you can be anything you want.
+
+988
+00:51:10,776 --> 00:51:13,320
+It's Fat Annie's birthday, y'all!
+
+989
+00:51:14,196 --> 00:51:15,698
+I'm DJ Malibu...
+
+990
+00:51:16,282 --> 00:51:18,784
+-Malibu!
+-...and I'm here to lay in the groove
+
+991
+00:51:18,867 --> 00:51:20,828
+that'll make you move!
+
+992
+00:51:23,289 --> 00:51:25,082
+<i>- ♪ The Bus Stop ♪</i>
+
+993
+00:51:25,165 --> 00:51:26,583
+<i>♪ Are you ready ♪</i>
+
+994
+00:51:27,459 --> 00:51:28,585
+<i>♪ For the Bus Stop? ♪</i>
+
+995
+00:51:29,920 --> 00:51:30,754
+<i>♪ The Bus Stop ♪</i>
+
+996
+00:51:32,131 --> 00:51:33,007
+<i>♪ The Bus Stop ♪</i>
+
+997
+00:51:34,341 --> 00:51:35,467
+<i>♪ Form a line to the front ♪</i>
+
+998
+00:51:36,510 --> 00:51:37,720
+<i>♪ Form a line to the back ♪</i>
+
+999
+00:51:42,308 --> 00:51:44,727
+Watch your back, Fred Astaire.
+
+1000
+00:51:44,977 --> 00:51:47,855
+Malibu sees a whole lot of potential
+dancing out there.
+
+1001
+00:51:47,938 --> 00:51:50,733
+<i>♪ I wanna stay right here ♪</i>
+
+1002
+00:51:50,816 --> 00:51:52,860
+<i>♪ Everybody here is dancin' ♪</i>
+
+1003
+00:51:52,943 --> 00:51:56,530
+<i>♪ All I wanna do is get your body</i>
+<i>Next to mine ♪</i>
+
+1004
+00:51:59,742 --> 00:52:01,201
+Get Cadillac to introduce you.
+
+1005
+00:52:01,285 --> 00:52:03,203
+-What?
+-Malibu.
+
+1006
+00:52:04,580 --> 00:52:07,708
+Give him your tape, and ask him
+to dance with you in the competition.
+
+1007
+00:52:07,791 --> 00:52:08,625
+Do it.
+
+1008
+00:52:09,168 --> 00:52:12,963
+All I'm saying is, you dance
+with Cadillac, you gonna win for sure.
+
+1009
+00:52:13,047 --> 00:52:14,381
+Go, Malibu!
+
+1010
+00:52:14,465 --> 00:52:15,716
+<i>♪ Can you dance-off? ♪</i>
+
+1011
+00:52:19,053 --> 00:52:20,220
+<i>♪ Feel the burn ♪</i>
+
+1012
+00:52:23,140 --> 00:52:24,308
+<i>♪ Sashay, girl ♪</i>
+
+1013
+00:52:27,186 --> 00:52:28,020
+<i>♪ Sashay... ♪</i>
+
+1014
+00:52:28,562 --> 00:52:29,688
+I have this tape...
+
+1015
+00:52:31,732 --> 00:52:35,235
+of me singing. Do you think you could
+get it to Malibu for me?
+
+1016
+00:52:35,652 --> 00:52:37,654
+Maybe if we dance together?
+
+1017
+00:52:37,738 --> 00:52:38,572
+Sure.
+
+1018
+00:52:39,198 --> 00:52:40,407
+I'll make sure he gets it.
+
+1019
+00:52:41,075 --> 00:52:43,285
+And I'd love to dance.
+
+1020
+00:52:44,203 --> 00:52:47,373
+But let's talk about what
+you gonna do for me.
+
+1021
+00:52:48,290 --> 00:52:49,583
+You like hotels?
+
+1022
+00:52:49,666 --> 00:52:52,795
+<i>♪ Sashay now, sashay now</i>
+<i>Sashay now... ♪</i>
+
+1023
+00:52:52,961 --> 00:52:53,796
+I'm not like that.
+
+1024
+00:52:54,463 --> 00:52:55,297
+Let's go.
+
+1025
+00:52:56,006 --> 00:52:57,549
+-Come on.
+-She just need a dance.
+
+1026
+00:52:58,342 --> 00:52:59,343
+<i>Oye.</i>
+
+1027
+00:52:59,426 --> 00:53:01,387
+- Regina, baby.
+- Let's go.
+
+1028
+00:53:02,054 --> 00:53:03,430
+What the hell?
+
+1029
+00:53:03,514 --> 00:53:04,348
+<i>♪ Bus Stop ♪</i>
+
+1030
+00:53:04,431 --> 00:53:06,433
+All right. If you don't got a lover,
+
+1031
+00:53:06,517 --> 00:53:08,602
+you better grab somebody's mother,
+
+1032
+00:53:08,685 --> 00:53:13,607
+'cause the dance-off's gonna begin
+as soon as this "Bus Stop" jammy end.
+
+1033
+00:53:34,837 --> 00:53:36,171
+What the fuck you doing?
+
+1034
+00:53:36,255 --> 00:53:39,466
+Yo, I'm gonna give you one last chance
+to give me this fucking record.
+
+1035
+00:53:39,550 --> 00:53:41,093
+Why? I thought you was gonna kick my ass.
+
+1036
+00:53:41,176 --> 00:53:42,386
+Know who you're talking to?
+
+1037
+00:53:42,469 --> 00:53:45,264
+-Why you want the record so bad?
+-None of your damn business.
+
+1038
+00:53:45,347 --> 00:53:47,182
+You know I'll fucking kill you
+without blinking?
+
+1039
+00:53:47,266 --> 00:53:50,227
+Then kill me. This record's for my girl.
+You ain't fucking getting it.
+
+1040
+00:53:50,394 --> 00:53:52,855
+If I fuck up my pants,
+I'm gonna kill you twice.
+
+1041
+00:53:55,232 --> 00:53:57,234
+-Give me the fucking--
+-Get off.
+
+1042
+00:53:57,901 --> 00:53:59,862
+Yo, give me this fucking record!
+
+1043
+00:53:59,945 --> 00:54:02,156
+Fuck you! Ain't no girl worth it!
+
+1044
+00:54:02,239 --> 00:54:04,199
+Motherfucker, you punch like a girl.
+
+1045
+00:54:08,162 --> 00:54:09,746
+Ain't no biting, motherfucker.
+
+1046
+00:54:09,830 --> 00:54:12,124
+So many sharks in the sea.
+
+1047
+00:54:12,666 --> 00:54:14,209
+Ladies, who's it gonna be?
+
+1048
+00:54:14,793 --> 00:54:18,046
+Put those lips in motion,
+and show the fellas your devotion.
+
+1049
+00:54:18,797 --> 00:54:20,132
+Give me the record.
+
+1050
+00:54:20,215 --> 00:54:22,092
+-No.
+-Give me the fucking record.
+
+1051
+00:54:22,176 --> 00:54:23,010
+No!
+
+1052
+00:54:24,178 --> 00:54:25,471
+Why you here by your lonesome?
+
+1053
+00:54:25,554 --> 00:54:28,056
+I told you. This record's for my girl.
+It's her favorite.
+
+1054
+00:54:28,140 --> 00:54:30,392
+I gotta go in that club,
+get the DJ to play this record.
+
+1055
+00:54:30,476 --> 00:54:32,728
+I'm gonna win her heart back.
+Exactly what I'm gonna do.
+
+1056
+00:54:32,811 --> 00:54:34,354
+You a fucking nut.
+
+1057
+00:54:34,438 --> 00:54:38,233
+Cadillac win that contest every time
+with a different chick each week.
+
+1058
+00:54:46,575 --> 00:54:49,661
+<i>♪ Whoa, I wanna stay right here ♪</i>
+
+1059
+00:54:49,745 --> 00:54:51,371
+- Do it.
+<i>- ♪ Everybody here is dancin' ♪</i>
+
+1060
+00:54:52,122 --> 00:54:55,918
+<i>♪ All I wanna do is get your body</i>
+<i>Next to mine ♪</i>
+
+1061
+00:54:56,502 --> 00:54:58,253
+<i>♪ So, baby, won't you take it to me? ♪</i>
+
+1062
+00:54:58,754 --> 00:55:01,465
+Your life or your motherfucking record!
+
+1063
+00:55:02,007 --> 00:55:02,841
+You choose.
+
+1064
+00:55:03,675 --> 00:55:04,510
+Kill me.
+
+1065
+00:55:07,054 --> 00:55:08,263
+I'm in love, man.
+
+1066
+00:55:08,347 --> 00:55:10,849
+-Do me a favor. Put me out of my misery.
+-I'll do this shit.
+
+1067
+00:55:10,933 --> 00:55:11,767
+So, do it.
+
+1068
+00:55:13,227 --> 00:55:17,439
+'Cause I ain't no hard rock like you, but
+when it comes to my girl, I'm all heart.
+
+1069
+00:55:17,523 --> 00:55:18,732
+I'm do or die.
+
+1070
+00:55:19,149 --> 00:55:20,609
+So, kill me all you want to.
+
+1071
+00:55:20,692 --> 00:55:22,528
+Stab your hate into my love.
+
+1072
+00:55:23,570 --> 00:55:26,198
+You might kill me,
+but you'll never beat me.
+
+1073
+00:55:27,950 --> 00:55:30,410
+'Cause I got love, and you'll probably
+never know what that is.
+
+1074
+00:55:31,662 --> 00:55:32,704
+What you got, man?
+
+1075
+00:55:32,871 --> 00:55:33,705
+What you got?
+
+1076
+00:55:36,625 --> 00:55:37,793
+Ooh!
+
+1077
+00:55:37,876 --> 00:55:39,461
+You're a funny one, young'n.
+
+1078
+00:55:39,545 --> 00:55:41,880
+You got a real good way with words, man.
+
+1079
+00:55:44,216 --> 00:55:45,384
+I'll tell you what.
+
+1080
+00:55:45,968 --> 00:55:48,345
+I'll get you in. You give me the record.
+
+1081
+00:55:51,390 --> 00:55:53,058
+What you want for the record?
+
+1082
+00:55:57,771 --> 00:55:59,064
+I can get you into the club,
+
+1083
+00:55:59,147 --> 00:56:02,484
+get DJ Malibu to play your record,
+dance with your girl,
+
+1084
+00:56:02,568 --> 00:56:03,944
+as long as I get that record.
+
+1085
+00:56:04,444 --> 00:56:06,863
+And you don't never tell nobody
+how it all went down.
+
+1086
+00:56:06,947 --> 00:56:08,949
+I don't need you. I could get in myself.
+
+1087
+00:56:09,533 --> 00:56:12,327
+Sit out here in this swampy,
+fucking heat by yourself
+
+1088
+00:56:12,411 --> 00:56:15,289
+while your girl's inside
+getting served by a gangster, then.
+
+1089
+00:56:16,665 --> 00:56:17,499
+Whoo!
+
+1090
+00:56:19,001 --> 00:56:20,877
+I'm sorry about my behavior back there.
+
+1091
+00:56:21,670 --> 00:56:25,090
+Pretty girls, they just--
+They just make me nervous.
+
+1092
+00:56:25,507 --> 00:56:27,134
+I didn't know what to say,
+but I wanna make it up to you.
+
+1093
+00:56:27,217 --> 00:56:28,635
+That's a sign.
+
+1094
+00:56:28,719 --> 00:56:30,971
+If you really wanna get
+your tape to Malibu...
+
+1095
+00:56:31,597 --> 00:56:33,557
+you'll be my partner for this competition.
+
+1096
+00:56:34,099 --> 00:56:35,851
+He's looking for his next star.
+
+1097
+00:56:36,935 --> 00:56:38,979
+There's a lot of good dancers
+out there tonight.
+
+1098
+00:56:39,062 --> 00:56:41,607
+Yeah, but I'm only looking for one.
+
+1099
+00:56:42,232 --> 00:56:44,735
+I can't give you the fucking record!
+
+1100
+00:56:45,485 --> 00:56:48,488
+But decide quick
+'cause if your girl's really all that...
+
+1101
+00:56:49,072 --> 00:56:50,907
+Cadillac's dicking her down right now.
+
+1102
+00:56:57,289 --> 00:57:00,125
+Sixty seconds till the dance-off, y'all.
+
+1103
+00:57:00,834 --> 00:57:03,545
+-Fifty-nine... 58...
+-Wait.
+
+1104
+00:57:03,629 --> 00:57:06,298
+Get off your ass!
+It ain't too late.
+
+1105
+00:57:07,841 --> 00:57:08,717
+<i>♪ Are you ready ♪</i>
+
+1106
+00:57:09,926 --> 00:57:11,178
+<i>♪ To do the Bus Stop? ♪</i>
+
+1107
+00:57:12,137 --> 00:57:14,723
+<i>-♪ Do the Bus Stop... ♪</i>
+-Hey, that's her.
+
+1108
+00:57:15,223 --> 00:57:17,309
+-Which one?
+-The beautiful one.
+
+1109
+00:57:17,935 --> 00:57:20,062
+Getting served up, just like I told you.
+
+1110
+00:57:20,145 --> 00:57:21,647
+- Mylene!
+- Didn't I tell you?
+
+1111
+00:57:21,730 --> 00:57:24,149
+-Hey, Mylene!
+-Come on. Hey. We gotta go.
+
+1112
+00:57:24,232 --> 00:57:26,360
+-Come on. We gotta go!
+-Mylene!
+
+1113
+00:57:30,989 --> 00:57:32,324
+Where you think you going?
+
+1114
+00:57:33,033 --> 00:57:34,076
+I knew you was gonna try--
+
+1115
+00:57:34,159 --> 00:57:35,661
+Yo, yo. Yo, yo.
+
+1116
+00:57:35,869 --> 00:57:37,371
+Let them on through. Let them through.
+
+1117
+00:57:41,291 --> 00:57:42,417
+What you got for me, baby?
+
+1118
+00:57:42,501 --> 00:57:44,795
+Cadillac got somebody real here.
+
+1119
+00:57:44,878 --> 00:57:48,090
+He and his girl wanna go first
+in the dance-off to this record.
+
+1120
+00:57:48,674 --> 00:57:50,842
+-Give it to him.
+-No requests. You know better than that.
+
+1121
+00:57:51,635 --> 00:57:53,929
+Grown and imported by his father.
+
+1122
+00:57:54,012 --> 00:57:56,098
+- In Bolivia.
+- He's a don.
+
+1123
+00:57:56,556 --> 00:57:58,183
+Yeah. We'll see about that.
+
+1124
+00:58:02,938 --> 00:58:04,231
+Whoo!
+
+1125
+00:58:04,314 --> 00:58:05,983
+Don San Juan is his name.
+
+1126
+00:58:06,066 --> 00:58:08,485
+"Don San Juan," that shit ain't his name.
+
+1127
+00:58:08,568 --> 00:58:10,278
+How you fucking know? You from Bolivia?
+
+1128
+00:58:10,362 --> 00:58:11,947
+You mean to tell me...
+
+1129
+00:58:12,280 --> 00:58:16,702
+his name just so happens to be
+the motherfucking capital of Puerto Rico?
+
+1130
+00:58:16,785 --> 00:58:19,329
+You insulted my family name.
+I don't think you wanna do that.
+
+1131
+00:58:19,413 --> 00:58:22,374
+See? You fucked up.
+You don't even know who his family is.
+
+1132
+00:58:22,457 --> 00:58:25,627
+Bitch,
+who the fuck you think you talking to?
+
+1133
+00:58:25,711 --> 00:58:26,878
+Who you think you talking to?
+
+1134
+00:58:26,962 --> 00:58:28,714
+Motherfucker, they call me the best.
+
+1135
+00:58:28,797 --> 00:58:30,465
+I pass every test.
+
+1136
+00:58:30,966 --> 00:58:34,845
+I done ripped that S
+off of Superman's chest.
+
+1137
+00:58:34,928 --> 00:58:37,014
+Get it straight, homeboys.
+
+1138
+00:58:37,347 --> 00:58:39,057
+I don't take no fucking requests.
+
+1139
+00:58:39,141 --> 00:58:41,059
+You might have ripped the S
+off his chest,
+
+1140
+00:58:41,143 --> 00:58:43,061
+but nevertheless, take this request
+
+1141
+00:58:43,145 --> 00:58:44,062
+this ain't no jive.
+
+1142
+00:58:44,146 --> 00:58:46,064
+Play the record, and keep your ass alive.
+
+1143
+00:58:46,148 --> 00:58:47,607
+You coming to me with a threat?
+
+1144
+00:58:48,191 --> 00:58:49,651
+Boy, you don't know me yet.
+
+1145
+00:58:49,735 --> 00:58:53,113
+Nigga, youse a young'n,
+but baby, I'm a vet.
+
+1146
+00:58:53,739 --> 00:58:57,617
+And I don't spin nothing
+that ain't on my set.
+
+1147
+00:58:57,701 --> 00:59:00,203
+This ain't no threat, bro.
+This is something real.
+
+1148
+00:59:00,454 --> 00:59:02,497
+I don't really care how you fucking feel.
+
+1149
+00:59:03,081 --> 00:59:04,791
+-Our product has the Bolivian seal.
+-Pbbt!
+
+1150
+00:59:05,375 --> 00:59:07,586
+I'll make it snow all night on you
+for one record.
+
+1151
+00:59:08,920 --> 00:59:10,130
+So, baby, what's the deal?
+
+1152
+00:59:12,883 --> 00:59:14,384
+You make it snow all night?
+
+1153
+00:59:14,885 --> 00:59:16,303
+Bolivia's finest.
+
+1154
+00:59:16,386 --> 00:59:17,596
+Let me see this bullshit.
+
+1155
+00:59:17,679 --> 00:59:19,347
+<i>♪ Don't stop, I'll tell you when ♪</i>
+
+1156
+00:59:25,562 --> 00:59:27,397
+"Misty Holloway, Pakoussa Remix"?
+
+1157
+00:59:28,523 --> 00:59:30,233
+How the fuck did you get this?
+
+1158
+00:59:30,317 --> 00:59:32,944
+In my family,
+it's impolite to ask questions like that.
+
+1159
+00:59:33,028 --> 00:59:34,488
+So, don't worry about it.
+
+1160
+00:59:36,156 --> 00:59:37,491
+That accent is busted.
+
+1161
+00:59:38,742 --> 00:59:40,494
+Whoo!
+
+1162
+00:59:46,792 --> 00:59:49,294
+Boss, cake's almost here.
+I'm gonna get Cadillac.
+
+1163
+00:59:49,377 --> 00:59:51,797
+What kind of son is late
+for his mother's birthday?
+
+1164
+00:59:52,214 --> 00:59:54,132
+He's fucking around.
+I'll get him, bring him up.
+
+1165
+00:59:54,216 --> 00:59:55,050
+All right, then.
+
+1166
+00:59:55,133 --> 00:59:56,760
+All right, all right, all right.
+
+1167
+00:59:56,843 --> 00:59:58,303
+Time for something smooth...
+
+1168
+00:59:58,386 --> 00:59:59,888
+...for the lovers who wanna groove.
+
+1169
+00:59:59,971 --> 01:00:06,686
+A remix so romantic and so rare,
+some said it didn't exist nowhere.
+
+1170
+01:00:07,646 --> 01:00:08,647
+Yo, cuz.
+
+1171
+01:00:08,730 --> 01:00:11,566
+-Your mama's lighting candles now.
+-Not right now.
+
+1172
+01:00:11,650 --> 01:00:13,527
+She asked for you
+to sing her "Happy Birthday."
+
+1173
+01:00:13,610 --> 01:00:15,987
+-Never fear...
+-She didn't ask nicely.
+
+1174
+01:00:16,071 --> 01:00:18,615
+Malibu's got it right here.
+
+1175
+01:00:18,698 --> 01:00:20,826
+You think about that dance.
+
+1176
+01:00:26,039 --> 01:00:28,125
+- Yo, this is my song.
+<i>- ♪ ♪</i>
+
+1177
+01:00:28,208 --> 01:00:29,501
+What?
+
+1178
+01:00:33,547 --> 01:00:35,632
+- How'd he know it was-- What?
+<i>- ♪ ♪</i>
+
+1179
+01:00:39,386 --> 01:00:41,471
+<i>♪ ♪</i>- My God.
+
+1180
+01:00:41,555 --> 01:00:42,556
+You're here?
+
+1181
+01:00:42,639 --> 01:00:44,307
+<i>♪ ♪</i>- You got in?
+
+1182
+01:00:44,391 --> 01:00:48,186
+<i>You truly are as fine as wine</i>
+<i>And so divine</i>
+
+1183
+01:00:48,353 --> 01:00:50,355
+<i>You know I had to make you mine</i>
+<i>No matter the time</i>
+
+1184
+01:00:50,438 --> 01:00:53,400
+-Zeke, you're ridiculous.
+<i>-So, I scaled that mountaintop</i>
+
+1185
+01:00:54,151 --> 01:00:56,486
+<i>- To get that record dropped</i>
+<i>- ♪ ♪</i>
+
+1186
+01:00:56,570 --> 01:00:57,863
+<i>Just to see the clouds part</i>
+
+1187
+01:00:59,197 --> 01:01:02,159
+<i>- As your pretty lips did the same</i>
+<i>- ♪ ♪</i>
+
+1188
+01:01:02,242 --> 01:01:05,328
+<i>- Hoping, one day, they'd utter my name</i>
+<i>- ♪ ♪</i>
+
+1189
+01:01:13,795 --> 01:01:17,090
+<i>♪ ♪</i><i>- ♪ Tell me ♪</i>
+
+1190
+01:01:17,757 --> 01:01:18,717
+<i>♪ Tell me ♪</i>
+
+1191
+01:01:19,551 --> 01:01:20,677
+<i>♪ Tell me ♪</i>
+
+1192
+01:01:22,179 --> 01:01:23,889
+<i>- ♪ Tell me ♪</i>
+<i>- ♪ ♪</i>
+
+1193
+01:01:23,972 --> 01:01:28,935
+<i>-♪ Take me out of myself again ♪</i>
+<i> -♪ Out of myself... ♪</i>
+
+1194
+01:01:29,019 --> 01:01:31,479
+Feast your eyes
+on these two young doves.
+
+1195
+01:01:31,563 --> 01:01:35,525
+-The very definition of pure, sweet love.
+<i>-♪ Show me love, show me how to love ♪</i>
+
+1196
+01:01:35,609 --> 01:01:37,986
+<i>-♪ How to love ♪</i>
+<i>-♪ I can't do this on my own ♪</i>
+
+1197
+01:01:38,069 --> 01:01:42,032
+<i>-♪ I can't do this without my love ♪</i>
+<i>-♪ Take me out of myself... ♪</i>
+
+1198
+01:01:42,199 --> 01:01:43,909
+<i>♪ Yeah, yeah, yeah, yeah ♪</i>
+
+1199
+01:01:43,992 --> 01:01:47,829
+<i>-♪ Help me lose control ♪</i>
+<i>-♪ I can't do this on my own ♪</i>
+
+1200
+01:01:47,913 --> 01:01:48,955
+<i>♪ Show me love ♪</i>
+
+1201
+01:01:49,039 --> 01:01:52,209
+<i>♪ Show me happiness ♪</i>
+
+1202
+01:01:52,292 --> 01:01:54,794
+<i>♪ I can't do this on my own ♪</i>
+
+1203
+01:01:54,878 --> 01:01:56,338
+-Malibu.
+<i>-♪ I can't do this ♪</i>
+
+1204
+01:01:56,421 --> 01:01:59,341
+<i>-♪ I can't do this ♪</i>
+<i>-♪ I can't do this on my own ♪</i>
+
+1205
+01:02:05,388 --> 01:02:06,723
+Whoo!
+
+1206
+01:02:23,573 --> 01:02:26,576
+Ha! Who's the lucky lady
+gonna be tonight? Yeah.
+
+1207
+01:02:27,869 --> 01:02:29,412
+Come on!
+
+1208
+01:02:29,496 --> 01:02:33,541
+Losers need not apply
+'cause Cadillac's just too fly.
+
+1209
+01:02:34,834 --> 01:02:35,752
+<i>♪ Fee, fie ♪</i>
+
+1210
+01:02:36,336 --> 01:02:37,295
+<i>♪ Fo, fum ♪</i>
+
+1211
+01:02:37,379 --> 01:02:40,590
+<i>♪ I'm looking down the barrel</i>
+<i>Of the devil's gun ♪</i>
+
+1212
+01:02:40,674 --> 01:02:41,967
+<i>-♪ I said ♪</i>
+-Whoo!
+
+1213
+01:02:42,050 --> 01:02:44,719
+<i>♪ Nowhere to run ♪</i>
+
+1214
+01:02:45,220 --> 01:02:46,388
+<i>- ♪ We've gotta make a stand ♪</i>
+
+1215
+01:02:46,471 --> 01:02:48,556
+<i>- ♪ Against the devil's gun ♪</i>
+
+1216
+01:02:48,640 --> 01:02:51,059
+Ho! Mix it up, mix it up.
+
+1217
+01:02:52,143 --> 01:02:54,437
+Yeah, baby. Last chance for partners!
+
+1218
+01:02:59,150 --> 01:03:01,403
+<i>♪ Happy birthday to you ♪</i>
+
+1219
+01:03:01,486 --> 01:03:03,530
+What the fuck is this here?
+
+1220
+01:03:06,241 --> 01:03:10,370
+-You're making Annie feel all emotional.
+<i>-♪ Happy birthday, dear... ♪</i>
+
+1221
+01:03:10,453 --> 01:03:12,914
+<i>♪ You know his finger's on the trigger ♪</i>
+
+1222
+01:03:12,998 --> 01:03:14,916
+<i>♪ He's waitin' to deliver ♪</i>
+
+1223
+01:03:15,000 --> 01:03:16,626
+<i>♪ Can we ever figure out ♪</i>
+
+1224
+01:03:16,710 --> 01:03:18,795
+<i>♪ A way to make the people shout? ♪</i>
+
+1225
+01:03:18,878 --> 01:03:21,631
+Whoo!
+
+1226
+01:03:22,215 --> 01:03:26,011
+<i>♪ You're lookin' down the barrel</i>
+<i>Of the devil's gun ♪</i>
+
+1227
+01:03:26,678 --> 01:03:27,762
+<i>♪ Nowhere ♪</i>
+
+1228
+01:03:28,555 --> 01:03:29,514
+<i>♪ To run ♪</i>
+
+1229
+01:03:30,015 --> 01:03:33,310
+<i>♪ You've gotta make a stand</i>
+<i>Against the devil's gun ♪</i>
+
+1230
+01:03:34,352 --> 01:03:36,646
+<i>-♪ He's watching us burn ♪</i>
+-Hey!
+
+1231
+01:03:36,730 --> 01:03:38,398
+<i>♪ He's watching us burn ♪</i>
+
+1232
+01:03:39,232 --> 01:03:41,526
+Get off me!
+
+1233
+01:03:42,152 --> 01:03:43,403
+<i>♪ One day we'll learn... ♪</i>
+
+1234
+01:03:43,486 --> 01:03:44,654
+- Look, that what you want?
+- Hey!
+
+1235
+01:03:44,738 --> 01:03:46,865
+<i>♪ One day we'll learn ♪</i>
+
+1236
+01:03:48,450 --> 01:03:50,577
+<i>- ♪ Payback ♪</i>
+
+1237
+01:03:50,660 --> 01:03:51,703
+Get the fuck out now!
+
+1238
+01:03:52,203 --> 01:03:55,040
+I got you now, bitch!
+
+1239
+01:03:55,123 --> 01:03:57,167
+Where the fuck is he?
+
+1240
+01:03:57,250 --> 01:03:59,085
+<i>- ♪ You'll get that payback ♪</i>
+
+1241
+01:04:03,173 --> 01:04:05,884
+<i>♪ How about now? ♪</i>
+
+1242
+01:04:23,777 --> 01:04:24,903
+Where the fuck is Cadillac?!
+
+1243
+01:04:26,863 --> 01:04:27,697
+Ooh...
+
+1244
+01:04:27,781 --> 01:04:29,032
+Stop the press.
+
+1245
+01:04:29,657 --> 01:04:32,702
+Who's this young<i> boricua</i> mama,
+dancing to impress?
+
+1246
+01:04:33,870 --> 01:04:35,789
+Looks like King Cadillac's
+found himself
+
+1247
+01:04:35,872 --> 01:04:37,415
+-the very best.
+<i>-♪ We've gotta make a stand ♪</i>
+
+1248
+01:04:37,499 --> 01:04:39,626
+<i>♪ Against the devil's gun</i>
+<i>I said ♪</i>
+
+1249
+01:04:40,377 --> 01:04:41,378
+<i>- ♪ Fee, fie ♪</i>
+
+1250
+01:04:42,170 --> 01:04:43,254
+<i>♪ Fo, fum ♪</i>
+
+1251
+01:04:43,338 --> 01:04:46,549
+<i>♪ I'm looking down the barrel</i>
+<i>Of the devil's gun ♪</i>
+
+1252
+01:04:46,633 --> 01:04:47,467
+<i>♪ I said ♪</i>
+
+1253
+01:04:47,842 --> 01:04:50,553
+-Yeah!
+<i>-♪ Nowhere to run ♪</i>
+
+1254
+01:04:50,637 --> 01:04:53,723
+<i>♪ You've gotta make a stand</i>
+<i>Against the devil's gun ♪</i>
+
+1255
+01:05:25,422 --> 01:05:26,464
+Fuck you!
+
+1256
+01:05:31,302 --> 01:05:32,512
+<i>♪ Fee, fie... ♪</i>
+
+1257
+01:05:33,888 --> 01:05:35,348
+- Come on.
+- Okay!
+
+1258
+01:05:35,432 --> 01:05:36,558
+Get out of the way!
+
+1259
+01:05:37,934 --> 01:05:38,768
+<i>♪ I said ♪</i>
+
+1260
+01:05:38,852 --> 01:05:41,688
+<i>♪ Nowhere to run ♪</i>
+
+1261
+01:05:41,771 --> 01:05:43,356
+- Hey.
+<i>- ♪ We've gotta, gotta, gotta ♪</i>
+
+1262
+01:05:43,440 --> 01:05:44,899
+<i>♪ Gotta get the gun ♪</i>
+
+1263
+01:05:59,205 --> 01:06:01,958
+Yeah, yeah, yeah.
+What you got, hot shot producer?
+
+1264
+01:06:02,041 --> 01:06:06,212
+I see your 50 and I raise you 300.
+
+1265
+01:06:06,754 --> 01:06:08,298
+- Aw, come on.
+<i>- Coño.</i>
+
+1266
+01:06:08,381 --> 01:06:09,215
+Too rich, I'm out.
+
+1267
+01:06:09,299 --> 01:06:11,551
+Don't hate me because I'm beautiful.
+
+1268
+01:06:11,634 --> 01:06:13,720
+<i>Oye, </i>Juan.
+<i>Tráeme algo especial ahí.</i>
+
+1269
+01:06:15,680 --> 01:06:16,764
+<i>Un brindis.</i>
+
+1270
+01:06:17,348 --> 01:06:20,059
+To Stan, for supporting my housing vision.
+
+1271
+01:06:20,143 --> 01:06:22,228
+And also, a toast.
+
+1272
+01:06:22,312 --> 01:06:24,481
+- To Jackie.
+- Thank you, Cisco.
+
+1273
+01:06:24,564 --> 01:06:25,899
+God bless those who win early.
+
+1274
+01:06:26,858 --> 01:06:28,401
+When the night is long.
+
+1275
+01:06:28,485 --> 01:06:30,028
+<i>- Salud.</i>
+<i>- Salud.</i>
+
+1276
+01:06:37,869 --> 01:06:40,455
+Thanks for getting me and the girls out.
+
+1277
+01:06:40,538 --> 01:06:41,873
+Yeah. No doubt.
+
+1278
+01:06:41,956 --> 01:06:45,293
+- That was--
+- Horrible. I know.
+
+1279
+01:06:50,381 --> 01:06:52,425
+I just want to go to bed.
+
+1280
+01:06:52,509 --> 01:06:56,221
+But... I should give this to you.
+
+1281
+01:06:57,096 --> 01:06:59,349
+No, that's-- That's for you.
+I got that for you.
+
+1282
+01:06:59,432 --> 01:07:00,600
+I don't want it.
+
+1283
+01:07:01,768 --> 01:07:03,436
+But it's-- You love it.
+
+1284
+01:07:03,520 --> 01:07:06,022
+-It's your favorite.
+-Zeke, we're not-- We're not dating.
+
+1285
+01:07:06,105 --> 01:07:09,067
+-We're not a couple.
+-Let's start. Let's make it official.
+
+1286
+01:07:09,150 --> 01:07:11,569
+-Zeke--
+-I wanna be your man, Mylene.
+
+1287
+01:07:12,111 --> 01:07:13,112
+I know you like me.
+
+1288
+01:07:14,948 --> 01:07:17,158
+And I like you so much,
+I can't hardly breathe.
+
+1289
+01:07:17,242 --> 01:07:21,204
+I like you so much, I feel like I got
+thunder and lightning inside of me.
+
+1290
+01:07:21,287 --> 01:07:23,206
+You make me nervous.
+
+1291
+01:07:23,915 --> 01:07:25,208
+But you also make me calm.
+
+1292
+01:07:26,042 --> 01:07:26,876
+Real calm.
+
+1293
+01:07:27,919 --> 01:07:31,798
+Calm almost like how God must be calm,
+you know, Mylene? Calm from loving.
+
+1294
+01:07:33,550 --> 01:07:34,384
+I love you.
+
+1295
+01:07:37,136 --> 01:07:38,263
+Mylene, I love you.
+
+1296
+01:07:40,515 --> 01:07:41,766
+What do you think about that?
+
+1297
+01:07:45,103 --> 01:07:47,772
+Okay, look. I don't mean
+to be conceited or nothing.
+
+1298
+01:07:47,855 --> 01:07:49,607
+You know I'm not like that anyway.
+
+1299
+01:07:49,691 --> 01:07:51,901
+But if you see how you're
+looking at me now,
+
+1300
+01:07:51,985 --> 01:07:54,737
+that ain't the look of someone
+who don't like someone.
+
+1301
+01:07:54,821 --> 01:07:55,655
+So, come on.
+
+1302
+01:07:58,074 --> 01:07:59,617
+What do you say??
+
+1303
+01:08:07,917 --> 01:08:08,751
+No.
+
+1304
+01:08:10,712 --> 01:08:12,380
+No. Because I'm gonna be a singer, Zeke,
+
+1305
+01:08:12,463 --> 01:08:15,091
+-I'm gonna be a disco star.
+-I know you will. I know.
+
+1306
+01:08:15,174 --> 01:08:17,260
+And someday soon,
+I'm gonna cross that East River,
+
+1307
+01:08:17,343 --> 01:08:20,013
+and I can't let anybody
+distract me from that.
+
+1308
+01:08:20,096 --> 01:08:21,973
+-I won't distract you.
+-Yes, you will.
+
+1309
+01:08:23,141 --> 01:08:25,768
+And it's sad because you are so gifted.
+
+1310
+01:08:25,852 --> 01:08:29,022
+You're so smart
+and you just mess around with it.
+
+1311
+01:08:29,105 --> 01:08:32,525
+Like today in class when you were supposed
+to stand up and do that poem.
+
+1312
+01:08:33,484 --> 01:08:34,861
+You say you want me,
+
+1313
+01:08:34,944 --> 01:08:38,114
+but you don't know
+what it is that you want. But I do.
+
+1314
+01:08:39,407 --> 01:08:42,493
+And even if I was gonna be with somebody,
+which I'm not,
+
+1315
+01:08:42,577 --> 01:08:46,372
+I'm gonna be with a man
+that has goals and has a plan.
+
+1316
+01:08:46,456 --> 01:08:48,374
+Not a kid from the neighborhood.
+
+1317
+01:08:48,458 --> 01:08:50,585
+Not a boy. Not you.
+
+1318
+01:08:52,211 --> 01:08:53,379
+-Mylene--
+-Not now.
+
+1319
+01:08:53,463 --> 01:08:54,631
+If you give it a chance--
+
+1320
+01:08:54,714 --> 01:08:57,091
+I don't love you, Zeke. I don't love you.
+
+1321
+01:09:02,722 --> 01:09:04,015
+And it's quits.
+
+1322
+01:09:07,101 --> 01:09:08,144
+Mylene.
+
+1323
+01:09:27,497 --> 01:09:31,084
+"Even in the darkness,
+there is light, for God is gracious,
+
+1324
+01:09:31,209 --> 01:09:32,293
+and tells us,
+
+1325
+01:09:32,377 --> 01:09:36,673
+'Ye be kind to one another,
+tender hearted, forgiving for one another,
+
+1326
+01:09:36,756 --> 01:09:39,425
+as God in Christ forgave you.'"
+
+1327
+01:09:40,093 --> 01:09:41,803
+<i>Dios mío.</i> What are you wearing?
+
+1328
+01:09:41,886 --> 01:09:42,929
+Ramon<i>, tranquilo.</i>
+
+1329
+01:09:43,012 --> 01:09:44,013
+<i>¡Tranquilo nada!</i>
+
+1330
+01:09:44,889 --> 01:09:45,723
+Cover yourself.
+
+1331
+01:09:45,807 --> 01:09:46,766
+<i>-¡Tranquilo nada!</i>
+-Ramon!
+
+1332
+01:09:50,103 --> 01:09:52,563
+Have any idea what time it is?
+Your mother almost died.
+
+1333
+01:09:52,647 --> 01:09:54,357
+-I'm sorry.
+<i>-Casi me da un </i>heart attack.
+
+1334
+01:09:54,440 --> 01:09:55,274
+Look at yourself.
+
+1335
+01:09:55,358 --> 01:09:56,943
+Look at you. Our own daughter.
+
+1336
+01:09:57,402 --> 01:09:58,277
+A teenage whore.
+
+1337
+01:09:58,361 --> 01:09:59,904
+-Ramon!
+-<i>Puta</i>, Lydia.
+
+1338
+01:09:59,987 --> 01:10:02,407
+I went out with my friends
+to listen to music.
+
+1339
+01:10:02,490 --> 01:10:04,200
+I didn't drink, I didn't smoke--
+
+1340
+01:10:04,283 --> 01:10:06,160
+-You didn't drink? You didn't drink?
+-No.
+
+1341
+01:10:06,244 --> 01:10:07,370
+-No, no.
+-You didn't smoke? No?
+
+1342
+01:10:07,453 --> 01:10:09,831
+<i>Mentirosa.</i> Again, you are a liar.
+
+1343
+01:10:09,914 --> 01:10:12,959
+I may have had one drink
+and a cigarette, <i>pero</i> Mami,
+
+1344
+01:10:13,042 --> 01:10:14,502
+-that's what teenagers do.
+-Ramon!
+
+1345
+01:10:14,585 --> 01:10:16,546
+-No, not my teenager. Not you.
+-Ramon, <i>por favor.</i>
+
+1346
+01:10:16,629 --> 01:10:17,839
+No "Ramon"! And this?
+
+1347
+01:10:17,922 --> 01:10:21,217
+You want to be like Misty Holloway?
+What is this disco garbage?
+
+1348
+01:10:21,300 --> 01:10:22,301
+It's poison.
+
+1349
+01:10:22,385 --> 01:10:25,888
+You are not this. You will never be this.
+
+1350
+01:10:25,972 --> 01:10:28,516
+Do you understand me?
+You'll never be this. Never be this!
+
+1351
+01:10:28,599 --> 01:10:30,143
+-You went through my things?
+-Yes!
+
+1352
+01:10:30,226 --> 01:10:31,978
+I will not tolerate blasphemy.
+
+1353
+01:10:32,061 --> 01:10:33,938
+You will not associate with garbage.
+
+1354
+01:10:34,522 --> 01:10:36,482
+You will not sing disco,
+and from now on,
+
+1355
+01:10:36,566 --> 01:10:38,359
+you will never leave this house. Ever.
+
+1356
+01:10:38,443 --> 01:10:40,194
+I will sing, <i>Papi</i>.
+And you cannot stop me.
+
+1357
+01:10:40,278 --> 01:10:41,654
+I can't stop you?
+
+1358
+01:10:41,738 --> 01:10:42,905
+-No!
+-I'll show you how I stop you.
+
+1359
+01:10:42,989 --> 01:10:44,824
+- Ramon!
+- I'll show how I stop you!
+
+1360
+01:10:44,907 --> 01:10:46,617
+- I will beat the evil out of you.
+- Ramon!
+
+1361
+01:10:46,701 --> 01:10:49,954
+I'll beat it out of you!
+You are my darling angel.
+
+1362
+01:10:50,037 --> 01:10:51,539
+I will beat you all night
+
+1363
+01:10:51,622 --> 01:10:53,708
+- to separate from you and <i>El Diablo!</i>
+- No!
+
+1364
+01:10:53,791 --> 01:10:56,002
+-No, Ramon! Ramon! Stop it.
+-No! You cannot.
+
+1365
+01:10:56,085 --> 01:10:57,795
+- No!
+- No, no!
+
+1366
+01:10:57,879 --> 01:10:59,964
+Let her go! No! No!
+
+1367
+01:11:00,047 --> 01:11:01,048
+Lydia!
+
+1368
+01:11:01,716 --> 01:11:03,176
+Go to your uncle!
+
+1369
+01:11:04,635 --> 01:11:05,470
+I...
+
+1370
+01:11:09,474 --> 01:11:12,101
+We were in the studio,
+finishing up the rhythm track.
+
+1371
+01:11:12,268 --> 01:11:13,227
+I'm producing.
+
+1372
+01:11:13,311 --> 01:11:14,771
+We're this close. We're so close.
+
+1373
+01:11:14,854 --> 01:11:17,106
+And right outside the door,
+good old Hector,
+
+1374
+01:11:17,190 --> 01:11:19,859
+he's got like,
+five chicks that wanna blow him,
+
+1375
+01:11:19,942 --> 01:11:21,068
+-three dope dealers.
+-No.
+
+1376
+01:11:21,152 --> 01:11:23,362
+Now that your luck's gone bad,
+you're telling stories.
+
+1377
+01:11:23,446 --> 01:11:26,157
+I wanna do one more overdub
+because I'm a perfectionist.
+
+1378
+01:11:26,240 --> 01:11:27,992
+There's a reason I got three Grammys.
+
+1379
+01:11:29,452 --> 01:11:31,329
+- <i>¿Qué?</i>
+<i>- I need to talk to my uncle.</i>
+
+1380
+01:11:31,412 --> 01:11:33,706
+<i>¿Qué te pasa? Pero dime que te pasó.</i>
+
+1381
+01:11:33,790 --> 01:11:35,291
+How much is the music producer in for?
+
+1382
+01:11:35,374 --> 01:11:38,085
+- Mylene, calm down, please.
+- He's down 25 large.
+
+1383
+01:11:38,169 --> 01:11:39,212
+<i>La sobrina.</i>
+
+1384
+01:11:43,174 --> 01:11:44,050
+<i>¿Nena?</i>
+
+1385
+01:11:45,218 --> 01:11:47,053
+And she's right. I ain't shit.
+
+1386
+01:11:47,136 --> 01:11:50,306
+I ain't ever gonna be shit.
+She has no business being with me.
+
+1387
+01:11:50,389 --> 01:11:53,184
+I just-- I'll probably--
+
+1388
+01:11:54,393 --> 01:11:58,648
+I'll probably end up working in a fucking
+supermarket my whole fucking life!
+
+1389
+01:12:00,024 --> 01:12:03,778
+Can you fill us in with anything
+about Les Inferno? The shoot-out?
+
+1390
+01:12:03,861 --> 01:12:05,279
+My heart got shot out.
+
+1391
+01:12:05,363 --> 01:12:06,823
+My fucking heart got shot out.
+
+1392
+01:12:15,873 --> 01:12:17,750
+Yo, osu, wordsmith.
+
+1393
+01:12:17,834 --> 01:12:18,835
+Who the fuck is that?
+
+1394
+01:12:26,008 --> 01:12:27,802
+Some wild, wild west shit back there.
+
+1395
+01:12:27,885 --> 01:12:30,388
+This motherfucker
+with the fake karate and shit.
+
+1396
+01:12:31,681 --> 01:12:34,225
+Now what did I do?
+
+1397
+01:12:37,436 --> 01:12:38,563
+I got you in.
+
+1398
+01:12:38,646 --> 01:12:41,357
+I got Malibu, who's dead,
+to play the record,
+
+1399
+01:12:41,440 --> 01:12:44,110
+which in fact is the last record
+that he'll ever play.
+
+1400
+01:12:44,193 --> 01:12:46,153
+While motherfuckers shooting
+from both sides,
+
+1401
+01:12:46,237 --> 01:12:48,155
+while your stupid ass is trying
+to get the record
+
+1402
+01:12:48,239 --> 01:12:50,992
+off of Malibu's turntables,
+all for a bitch
+
+1403
+01:12:51,075 --> 01:12:53,035
+-who thinks she's better than you.
+-Don't call her a bitch.
+
+1404
+01:12:53,119 --> 01:12:54,287
+A motherfucking bitch!
+
+1405
+01:12:54,370 --> 01:12:56,914
+-Don't call her a bitch!
+-Sit your ass down.
+
+1406
+01:12:56,998 --> 01:12:57,999
+Yo, you got the gift.
+
+1407
+01:12:58,082 --> 01:13:00,877
+But you look like a bitch
+crying over a bitch.
+
+1408
+01:13:02,879 --> 01:13:04,839
+I don't understand all the crying
+over a female.
+
+1409
+01:13:04,922 --> 01:13:06,132
+You don't know. You don't know.
+
+1410
+01:13:06,215 --> 01:13:08,175
+I don't know? I don't know? About what?
+
+1411
+01:13:09,385 --> 01:13:11,721
+-Not about to say "love," are you?
+-What if I did?
+
+1412
+01:13:11,804 --> 01:13:15,099
+Then I say you're fucking right,
+I don't understand anything about love.
+
+1413
+01:13:15,182 --> 01:13:17,310
+Who is this dude, man?
+
+1414
+01:13:17,393 --> 01:13:19,186
+- Yeah, who the fuck is this dude?
+- Yo,
+
+1415
+01:13:19,270 --> 01:13:21,480
+- who you getting loud with, shortstop?
+- Hey.
+
+1416
+01:13:21,564 --> 01:13:24,775
+-You, nigga.
+-Aww, little munchkin.
+
+1417
+01:13:24,859 --> 01:13:26,235
+Hey, man. We're all cool.
+
+1418
+01:13:26,861 --> 01:13:27,862
+We're all cool.
+
+1419
+01:13:28,154 --> 01:13:28,988
+Let me see this.
+
+1420
+01:13:31,449 --> 01:13:33,075
+I write, maybe y'all seen me up.
+
+1421
+01:13:41,751 --> 01:13:43,336
+- Whoa.
+- No!
+
+1422
+01:13:43,419 --> 01:13:45,087
+- No!
+- Get the fuck outta here.
+
+1423
+01:13:45,171 --> 01:13:46,213
+Whoa, whoa, whoa.
+
+1424
+01:13:46,297 --> 01:13:48,674
+You're Shaolin Fantastic?
+
+1425
+01:13:48,758 --> 01:13:50,134
+The lady-killing romantic.
+
+1426
+01:13:50,217 --> 01:13:51,344
+Hell, no.
+
+1427
+01:13:52,053 --> 01:13:53,763
+Yo, Zeke. Is this really him?
+
+1428
+01:13:53,846 --> 01:13:55,848
+I don't know. I just met the dude.
+
+1429
+01:13:55,932 --> 01:13:57,558
+Hey, man. Just look at his shoes.
+
+1430
+01:13:57,642 --> 01:14:00,853
+Bro, this little guy--
+This is my brother, Boo-Boo.
+
+1431
+01:14:00,937 --> 01:14:02,313
+And that's my other brother, Ra-Ra.
+
+1432
+01:14:03,022 --> 01:14:03,856
+Do you know who I am?
+
+1433
+01:14:09,737 --> 01:14:10,947
+Rumi 411.
+
+1434
+01:14:11,614 --> 01:14:13,032
+You stay up with Crash and Daze.
+
+1435
+01:14:13,115 --> 01:14:15,368
+You also down with the Soul Artists?
+
+1436
+01:14:15,743 --> 01:14:16,786
+I spray all-city.
+
+1437
+01:14:17,370 --> 01:14:18,704
+Yo, where's my record at, man?
+
+1438
+01:14:18,788 --> 01:14:21,040
+-You like Misty Holloway that much?
+-Where's my record?!
+
+1439
+01:14:21,123 --> 01:14:23,876
+Here's your fucking record.
+Here. Go fetch.
+
+1440
+01:14:28,547 --> 01:14:30,299
+Why do you need the record?
+
+1441
+01:14:30,383 --> 01:14:31,717
+It's for the get down.
+
+1442
+01:14:32,969 --> 01:14:34,220
+What's the get down?
+
+1443
+01:14:36,514 --> 01:14:38,099
+You don't know what the get down is?
+
+1444
+01:14:38,766 --> 01:14:41,644
+You're a natural, and you don't know
+who Grandmaster Flash is?
+
+1445
+01:14:41,727 --> 01:14:44,063
+Shit. All right, punks.
+
+1446
+01:14:44,772 --> 01:14:46,691
+Y'all want to go to the flyest...
+
+1447
+01:14:47,650 --> 01:14:50,069
+secret underground party
+in the entire Bronx...
+
+1448
+01:14:50,778 --> 01:14:51,612
+you follow me.
+
+1449
+01:14:52,655 --> 01:14:53,489
+You decide.
+
+1450
+01:14:56,742 --> 01:14:57,576
+Let's go.
+
+1451
+01:15:06,836 --> 01:15:08,462
+- Yo.
+- Shao. What's up?
+
+1452
+01:15:08,546 --> 01:15:10,339
+They with me, all right? All of them.
+
+1453
+01:15:18,848 --> 01:15:19,974
+Yo!
+
+1454
+01:15:24,687 --> 01:15:25,730
+Aseke.
+
+1455
+01:15:33,988 --> 01:15:35,072
+Hey!
+
+1456
+01:15:38,743 --> 01:15:40,077
+My God.
+
+1457
+01:15:44,707 --> 01:15:46,417
+Ra, this is crazy cool.
+
+1458
+01:15:53,007 --> 01:15:54,425
+B-boy hard rocks in here.
+
+1459
+01:15:54,508 --> 01:15:56,010
+They don't like outsiders.
+
+1460
+01:15:56,093 --> 01:15:57,553
+Like, they really don't play, man.
+
+1461
+01:15:57,636 --> 01:15:59,472
+Y'all gotta pretend like y'all know
+what's what.
+
+1462
+01:16:01,932 --> 01:16:03,851
+Why y'all look so scared, man? Come on.
+
+1463
+01:16:03,934 --> 01:16:05,269
+Yo, Shaolin!
+
+1464
+01:16:07,897 --> 01:16:08,939
+Yo!
+
+1465
+01:16:09,607 --> 01:16:10,649
+<i>♪ Let's dance ♪</i>
+
+1466
+01:16:10,733 --> 01:16:12,193
+<i>♪ Break it down</i>
+<i>Let's dance ♪</i>
+
+1467
+01:16:12,276 --> 01:16:14,153
+<i>♪ Drop the beat and let's dance ♪</i>
+
+1468
+01:16:19,867 --> 01:16:20,910
+<i>♪ Good evening ♪</i>
+
+1469
+01:16:20,993 --> 01:16:23,913
+<i>♪ Welcome aboard Disco Airlines... ♪</i>
+
+1470
+01:16:32,254 --> 01:16:34,298
+<i>♪ Get down to the beat of the sound ♪</i>
+
+1471
+01:16:35,508 --> 01:16:37,009
+You're late, Grasshopper.
+
+1472
+01:16:37,468 --> 01:16:39,053
+I got the Pakoussa though.
+
+1473
+01:16:39,136 --> 01:16:40,596
+Shit.
+
+1474
+01:16:40,679 --> 01:16:41,555
+Yo!
+
+1475
+01:16:41,639 --> 01:16:43,724
+All right. All right. I'm impressed.
+
+1476
+01:16:43,808 --> 01:16:45,726
+But have you found your wordsmith yet?
+
+1477
+01:16:45,810 --> 01:16:49,105
+I think I found him tonight.
+So, can you teach me how to DJ now?
+
+1478
+01:16:49,188 --> 01:16:52,191
+I'm ready right now, Grandmaster.
+Just show me the magic.
+
+1479
+01:16:52,358 --> 01:16:54,485
+Tomorrow we begin. But tonight?
+
+1480
+01:16:54,568 --> 01:16:56,070
+We party.
+
+1481
+01:16:58,906 --> 01:17:00,199
+Whoo!
+
+1482
+01:17:11,919 --> 01:17:12,878
+Whoo!
+
+1483
+01:17:16,507 --> 01:17:18,634
+The Grandmaster pinpoints
+the get down part.
+
+1484
+01:17:19,552 --> 01:17:21,762
+Sometimes the drums only play
+for ten seconds,
+
+1485
+01:17:21,846 --> 01:17:24,849
+and the rest of the record
+is violins and singing and shit.
+
+1486
+01:17:25,516 --> 01:17:29,145
+He won't play that bullshit,
+so he plays the same record on two decks.
+
+1487
+01:17:30,479 --> 01:17:33,774
+While the get down plays on one,
+he cues the same part on two.
+
+1488
+01:17:35,609 --> 01:17:38,737
+Now, I don't know how he knows
+exactly when to do it,
+
+1489
+01:17:38,821 --> 01:17:41,699
+but the moment one finishes,
+bang, he flips the mixer...
+
+1490
+01:17:42,449 --> 01:17:43,826
+the beat goes on and on.
+
+1491
+01:17:45,286 --> 01:17:47,830
+The beat goes on, the wordsmith can go on.
+
+1492
+01:17:48,789 --> 01:17:50,875
+Man, what the fuck is the wordsmith?
+
+1493
+01:17:52,001 --> 01:17:54,670
+The MC. The master of ceremonies.
+
+1494
+01:17:55,212 --> 01:17:57,047
+<i>♪ B-boys and B-girls</i>
+<i>In the place to be ♪</i>
+
+1495
+01:17:57,131 --> 01:17:59,008
+<i>♪ Are you ready to rock this spot</i>
+<i>So viciously? ♪</i>
+
+1496
+01:17:59,091 --> 01:18:01,510
+- Come on!
+- And the beat goes on and on.
+
+1497
+01:18:01,594 --> 01:18:03,429
+And the beat goes on and on.
+
+1498
+01:18:03,512 --> 01:18:04,763
+And the beat goes on and on.
+
+1499
+01:18:08,684 --> 01:18:11,729
+Yo, Flash, I think I wanna tell
+some people, y'all listen to Cowboy.
+
+1500
+01:18:13,022 --> 01:18:13,898
+Yeah.
+
+1501
+01:18:14,481 --> 01:18:16,317
+<i>♪ Yes, yes, y'all</i>
+<i>To the beat, y'all ♪</i>
+
+1502
+01:18:16,400 --> 01:18:18,444
+<i>♪ Freak, freak, y'all</i>
+<i>To the beat, y'all ♪</i>
+
+1503
+01:18:18,527 --> 01:18:21,155
+<i>♪ Yes, yes, y'all</i>
+<i>And you don't stop ♪</i>
+
+1504
+01:18:21,238 --> 01:18:23,157
+<i>-♪ All the ladies, all the ladies ♪</i>
+-I love you!
+
+1505
+01:18:23,240 --> 01:18:24,325
+<i>♪ All the ladies in the house ♪</i>
+
+1506
+01:18:24,408 --> 01:18:26,368
+<i>♪ Let me hear you say "" ♪</i>
+
+1507
+01:18:27,494 --> 01:18:29,163
+<i>♪ Say "" ♪</i>
+
+1508
+01:18:29,246 --> 01:18:30,372
+<i>♪ Homeboys ♪</i>
+
+1509
+01:18:30,456 --> 01:18:32,082
+<i>- ♪ Homeboys, homeboys ♪</i>
+
+1510
+01:18:32,166 --> 01:18:33,751
+<i>♪ In the place to be</i>
+<i>Let me hear you say ♪</i>
+
+1511
+01:18:33,834 --> 01:18:36,337
+<i>♪ "Make money, money</i>
+<i>Make money, money, money" ♪</i>
+
+1512
+01:18:36,420 --> 01:18:38,255
+<i>♪ Make money, money</i>
+<i>Make money, money, money ♪</i>
+
+1513
+01:18:38,339 --> 01:18:40,341
+<i>♪ Say "take money, money</i>
+<i>Take money, money, money" ♪</i>
+
+1514
+01:18:40,424 --> 01:18:41,300
+<i>♪ Take money, money ♪</i>
+
+1515
+01:18:41,383 --> 01:18:42,426
+<i>♪ Take money, money, money ♪</i>
+
+1516
+01:18:42,509 --> 01:18:44,261
+<i>♪ Yes, yes, y'all</i>
+<i>To the beat, y'all ♪</i>
+
+1517
+01:18:44,345 --> 01:18:45,387
+<i>♪ Freak, freak, y'all ♪</i>
+
+1518
+01:18:45,471 --> 01:18:46,513
+<i>♪ And you don't stop ♪</i>
+
+1519
+01:18:46,597 --> 01:18:48,849
+<i>♪ Say, get live</i>
+<i>Socialize ♪</i>
+
+1520
+01:18:48,933 --> 01:18:50,935
+<i>♪ Come on, girls</i>
+<i>Let's take a ride ♪</i>
+
+1521
+01:18:51,018 --> 01:18:54,063
+<i>♪ Fellas, let's spin them fast</i>
+<i>'Cause my DJ ♪</i>
+
+1522
+01:18:54,146 --> 01:18:55,272
+<i>♪ Grandmaster Flash ♪</i>
+
+1523
+01:18:55,356 --> 01:18:57,858
+<i>- ♪ He's back for more... ♪</i>
+
+1524
+01:19:05,241 --> 01:19:06,200
+<i>Nena</i>, are you okay?
+
+1525
+01:19:12,164 --> 01:19:13,457
+<i>¿Qué pasó?</i>
+
+1526
+01:19:13,540 --> 01:19:14,792
+So, I went to Les Inferno.
+
+1527
+01:19:15,376 --> 01:19:16,293
+Fat Annie's?
+
+1528
+01:19:16,835 --> 01:19:19,630
+And then they shot him. In front of me.
+
+1529
+01:19:19,713 --> 01:19:21,882
+- They shot up the whole place.
+- What--
+
+1530
+01:19:21,966 --> 01:19:23,175
+What were you thinking?
+
+1531
+01:19:23,259 --> 01:19:24,260
+It was the only way.
+
+1532
+01:19:25,094 --> 01:19:26,262
+What do you mean?
+
+1533
+01:19:26,345 --> 01:19:28,931
+It's the only way I'm gonna... sing.
+
+1534
+01:19:29,473 --> 01:19:31,016
+<i>- Nena</i>.
+
+1535
+01:19:31,100 --> 01:19:32,559
+I'm gonna help you.
+
+1536
+01:19:33,143 --> 01:19:34,687
+All a man has is his word.
+
+1537
+01:19:35,271 --> 01:19:36,438
+I promise you.
+
+1538
+01:19:37,356 --> 01:19:38,190
+You're gonna sing.
+
+1539
+01:19:43,070 --> 01:19:45,114
+- <i>♪ And you know that ♪</i>
+<i>- ♪ And you know that ♪</i>
+
+1540
+01:19:45,197 --> 01:19:47,241
+- <i>♪ And you know that ♪</i>
+<i>- ♪ And you know that ♪</i>
+
+1541
+01:19:47,324 --> 01:19:48,158
+<i>♪'Cause we got it like that ♪</i>
+
+1542
+01:19:48,242 --> 01:19:50,744
+<i>♪ Any man out there</i>
+<i>Who think he can rhyme ♪</i>
+
+1543
+01:19:50,828 --> 01:19:52,788
+<i>♪ Step right up and get in line ♪</i>
+
+1544
+01:19:54,248 --> 01:19:56,375
+Yo, man. Look, man, look.
+
+1545
+01:19:56,458 --> 01:19:58,752
+Look, look, look,
+if anyone can rock this shit, it's you.
+
+1546
+01:19:58,836 --> 01:20:01,255
+<i>♪ I'm gonna hand this mic</i>
+<i>To the chosen one ♪</i>
+
+1547
+01:20:01,964 --> 01:20:04,049
+Yes, you're a poet and you know it.
+Come on.
+
+1548
+01:20:04,508 --> 01:20:05,634
+-It's an open mic, man.
+-No.
+
+1549
+01:20:05,718 --> 01:20:07,219
+Fuck you mean, "No?"
+Let's go!
+
+1550
+01:20:07,303 --> 01:20:08,178
+Take a deep breath and jump.
+
+1551
+01:20:08,262 --> 01:20:09,305
+-No!
+-Come on, man.
+
+1552
+01:20:09,388 --> 01:20:10,556
+- You got to.
+- Three!
+
+1553
+01:20:11,098 --> 01:20:12,599
+- Three!
+- Come on.
+
+1554
+01:20:12,683 --> 01:20:14,143
+- We're close to one.
+- Two!
+
+1555
+01:20:14,268 --> 01:20:16,145
+-One!
+-This is your moment.
+
+1556
+01:20:18,939 --> 01:20:20,524
+Kill this, let's go! You got it!
+
+1557
+01:20:21,650 --> 01:20:22,818
+No, no, no.
+
+1558
+01:20:22,901 --> 01:20:25,070
+You think you a wordsmith?
+Kick a fly rhyme.
+
+1559
+01:20:25,154 --> 01:20:26,071
+Get up here.
+
+1560
+01:20:29,992 --> 01:20:31,327
+Come on, Zeke!
+
+1561
+01:20:42,129 --> 01:20:43,130
+Yes, yes, y'all.
+
+1562
+01:20:44,715 --> 01:20:45,758
+To the beat, y'all.
+
+1563
+01:20:47,343 --> 01:20:50,137
+My name is Zeke and I'm a treat, y'all.
+
+1564
+01:20:52,431 --> 01:20:53,682
+Get out of here.
+
+1565
+01:20:53,766 --> 01:20:54,600
+Treat?
+
+1566
+01:20:54,683 --> 01:20:56,727
+Your rhymes stink like my feet!
+
+1567
+01:20:56,810 --> 01:21:00,189
+-Someone get this garbage on the street.
+-Yo, disco faggot, you don't belong here.
+
+1568
+01:21:00,272 --> 01:21:01,857
+You fucking suck!
+
+1569
+01:21:01,940 --> 01:21:05,694
+Get that motherfucking disco duck
+the fuck outta here.
+
+1570
+01:21:06,445 --> 01:21:08,030
+Before he ruin our party!
+
+1571
+01:21:09,406 --> 01:21:10,991
+And fuck his duck-ass...
+
+1572
+01:21:11,075 --> 01:21:13,786
+...burger-ass crew, too!
+
+1573
+01:21:14,620 --> 01:21:16,622
+- Run 'em out.
+- Get out. I'll beat your ass.
+
+1574
+01:21:16,705 --> 01:21:17,664
+You crazy?
+
+1575
+01:21:17,748 --> 01:21:19,875
+-Wait, no, no.
+-I ain't tripping. He tripping.
+
+1576
+01:21:19,958 --> 01:21:20,793
+You still playing.
+
+1577
+01:21:20,876 --> 01:21:22,586
+-Don't touch me.
+-Get back, man. Yo!
+
+1578
+01:21:23,420 --> 01:21:24,463
+Whoa!
+
+1579
+01:21:25,339 --> 01:21:27,883
+<i>You dare to turn against my brother?</i>
+
+1580
+01:21:29,593 --> 01:21:31,345
+<i>Shaolin Fantastic.</i>
+
+1581
+01:21:40,479 --> 01:21:42,314
+<i>♪ Tell me ♪</i>
+
+1582
+01:21:42,398 --> 01:21:44,358
+<i>-♪ Tell me ♪</i>
+<i>-♪ Whoa ♪</i>
+
+1583
+01:21:44,441 --> 01:21:45,943
+<i>- ♪ Tell me... ♪</i>
+
+1584
+01:22:21,103 --> 01:22:23,147
+<i>Master my Shaolin style,</i>
+
+1585
+01:22:23,272 --> 01:22:25,941
+<i>and you, too,</i>
+<i>can reach Olympian heights.</i>
+
+1586
+01:22:31,697 --> 01:22:33,198
+<i>There are none who can match him.</i>
+
+1587
+01:22:34,199 --> 01:22:36,285
+<i>- ♪ Whoa ♪</i>
+
+1588
+01:22:45,919 --> 01:22:47,171
+<i>♪ Take me ♪</i>
+
+1589
+01:22:47,254 --> 01:22:50,966
+<i>♪ Yo, I can still recall</i>
+<i>That fateful hour ♪</i>
+
+1590
+01:22:51,925 --> 01:22:54,178
+<i>-♪ Leaders lead and cowards cower ♪</i>
+<i>-♪ Help me ♪</i>
+
+1591
+01:22:54,761 --> 01:22:56,805
+<i>♪ Shaolin Fantastic, no man braver ♪</i>
+
+1592
+01:22:57,389 --> 01:22:58,932
+<i>♪ He showed me my superpower ♪</i>
+
+1593
+01:23:04,021 --> 01:23:06,356
+<i>♪ All right, y'all</i>
+<i>Let me catch Shaolin's pass ♪</i>
+
+1594
+01:23:06,440 --> 01:23:08,734
+<i>♪ Shaolin's fantastic, nothing but class ♪</i>
+
+1595
+01:23:08,817 --> 01:23:11,361
+<i>♪ With you and your wack style</i>
+<i>I should wipe my ass ♪</i>
+
+1596
+01:23:11,445 --> 01:23:13,655
+Yeah.
+
+1597
+01:23:16,116 --> 01:23:18,452
+<i>♪ Knick knack paddy whack</i>
+<i>Give a dog a bone ♪</i>
+
+1598
+01:23:18,535 --> 01:23:21,330
+<i>♪ Spank him like his daddy</i>
+<i>And send the boy home ♪</i>
+
+1599
+01:23:21,413 --> 01:23:23,290
+<i>♪ Shots fired</i>
+<i>Now you really should pause ♪</i>
+
+1600
+01:23:23,373 --> 01:23:25,792
+<i>♪ But since your mouth's open</i>
+<i>You can taste these good bars ♪</i>
+
+1601
+01:23:27,211 --> 01:23:29,254
+<i>-♪ What say you, sucka? ♪</i>
+-Yeah!
+
+1602
+01:23:30,672 --> 01:23:32,966
+<i>♪ And your friends</i>
+<i>I got them too ♪</i>
+
+1603
+01:23:33,050 --> 01:23:35,511
+<i>-♪ Looking like a Bozo clown-ass crew ♪</i>
+-Yeah?
+
+1604
+01:23:35,594 --> 01:23:37,596
+<i>♪ Thinking you bad</i>
+<i>With your waffle cabeza ♪</i>
+
+1605
+01:23:37,679 --> 01:23:40,390
+<i>♪ When it comes to big domes</i>
+<i>Yo, you won the race-a ♪</i>
+
+1606
+01:23:42,643 --> 01:23:43,977
+That's right!
+
+1607
+01:23:45,312 --> 01:23:47,439
+<i>♪ This ain't a battle</i>
+<i>This is only scrimmage ♪</i>
+
+1608
+01:23:48,023 --> 01:23:50,025
+<i>♪ Please refrain from applause</i>
+<i>Till I am finished ♪</i>
+
+1609
+01:23:50,192 --> 01:23:52,069
+<i>♪ Dressed in my disco clothes</i>
+<i>And still kill it ♪</i>
+
+1610
+01:23:52,152 --> 01:23:53,529
+<i>♪ The best in the Bronx ♪</i>
+
+1611
+01:23:53,612 --> 01:23:54,655
+<i>♪ Eventually you'll get it ♪</i>
+
+1612
+01:23:54,738 --> 01:23:56,907
+<i>♪ Let me introduce you</i>
+<i>To the Get Down crew ♪</i>
+
+1613
+01:23:56,990 --> 01:23:59,493
+<i>♪ Ra-Ra, Dizzee, Shaolin and Boo ♪</i>
+
+1614
+01:23:59,993 --> 01:24:02,120
+<i>♪ Y'all beneath us</i>
+<i>We got nothing to prove ♪</i>
+
+1615
+01:24:02,204 --> 01:24:04,289
+<i>♪ Follow instructions</i>
+<i>When you step into school ♪</i>
+
+1616
+01:24:04,581 --> 01:24:06,500
+<i>♪ Rock to the beat</i>
+<i>And it just don't stop ♪</i>
+
+1617
+01:24:06,583 --> 01:24:08,877
+<i>♪ Fly girls in the house</i>
+<i>Make their panties drop ♪</i>
+
+1618
+01:24:09,461 --> 01:24:11,296
+<i>♪ Crews come for me</i>
+<i>Everywhere we go ♪</i>
+
+1619
+01:24:11,380 --> 01:24:12,548
+<i>♪ Now that we got the spot jumping ♪</i>
+
+1620
+01:24:12,631 --> 01:24:15,008
+<i>♪ Everybody say "ho" ♪</i>
+
+1621
+01:24:15,509 --> 01:24:16,343
+Ho!
+
+1622
+01:24:16,426 --> 01:24:18,679
+- <i> ♪ Say "ho" ♪</i>
+- Ho!
+
+1623
+01:24:18,762 --> 01:24:21,265
+<i>♪ Say "turn nothing into something" ♪</i>
+
+1624
+01:24:21,348 --> 01:24:23,308
+<i>♪ Turn nothing into something ♪</i>
+
+1625
+01:24:23,392 --> 01:24:25,894
+<i>♪ Say Dizzee rocks the house ♪</i>
+
+1626
+01:24:25,978 --> 01:24:28,230
+<i>♪ Say Ra rocks the house ♪</i>
+
+1627
+01:24:28,397 --> 01:24:30,566
+<i>♪ Say Boo-Boo rocks the house ♪</i>
+
+1628
+01:24:30,649 --> 01:24:32,943
+<i>- ♪ Shaolin rocks the house ♪</i>
+- My God. My God.
+
+1629
+01:24:33,193 --> 01:24:35,362
+<i>- ♪ And Flash rocks the house ♪</i>
+- My God.
+
+1630
+01:24:35,862 --> 01:24:37,781
+<i>♪ Yes, yes, y'all, and you don't stop ♪</i>
+
+1631
+01:24:37,864 --> 01:24:40,242
+<i>♪ Yes, yes, y'all, and you don't stop ♪</i>
+
+1632
+01:24:50,919 --> 01:24:52,838
+- Shit.
+- Shit.
+
+1633
+01:24:52,921 --> 01:24:54,381
+-Whoo!
+-Yo, damn!
+
+1634
+01:24:54,464 --> 01:24:56,216
+- Damn.
+- Check this out, man.
+
+1635
+01:24:56,300 --> 01:24:59,052
+- Bro, you killed that.
+- Yo, we's got comics.
+
+1636
+01:24:59,136 --> 01:25:00,762
+You like that? You have fun, y'all.
+
+1637
+01:25:00,846 --> 01:25:03,056
+Hey, respect the temple.
+Respect the--
+
+1638
+01:25:03,140 --> 01:25:04,808
+Hey. Hands off everything, munchkin.
+
+1639
+01:25:05,309 --> 01:25:08,103
+Yo. Everybody, gather around.
+Gather around.
+
+1640
+01:25:08,687 --> 01:25:10,939
+This is the Aladdin's Cave.
+
+1641
+01:25:11,982 --> 01:25:14,318
+No one else has seen this before.
+
+1642
+01:25:14,401 --> 01:25:15,902
+Shit. We must be special.
+
+1643
+01:25:19,239 --> 01:25:20,907
+- You ready?
+- Yeah!
+
+1644
+01:25:20,991 --> 01:25:22,200
+- Are you ready?
+- Yeah.
+
+1645
+01:25:22,326 --> 01:25:23,910
+Bung! Doo-doo!
+
+1646
+01:25:24,620 --> 01:25:26,204
+Bung!
+
+1647
+01:25:26,997 --> 01:25:28,290
+Ba-dow!
+
+1648
+01:25:28,832 --> 01:25:29,666
+Shit!
+
+1649
+01:25:29,750 --> 01:25:32,127
+This is my lifetime collection, man.
+
+1650
+01:25:32,210 --> 01:25:33,754
+Alphabetized and everything.
+
+1651
+01:25:33,837 --> 01:25:35,130
+Yo, Shao, man.
+
+1652
+01:25:35,213 --> 01:25:36,798
+This is where you stay at?
+
+1653
+01:25:36,882 --> 01:25:38,717
+You know,
+other than staying at my girl's crib.
+
+1654
+01:25:38,800 --> 01:25:41,553
+That's where I keep my custom AJ Lesters.
+
+1655
+01:25:41,678 --> 01:25:42,929
+- Custom?
+- Hoo-hoo!
+
+1656
+01:25:43,013 --> 01:25:44,056
+He said custom?
+
+1657
+01:25:44,723 --> 01:25:46,558
+Yo, so how do you rig up the electric?
+
+1658
+01:25:46,642 --> 01:25:47,768
+You wired it yourself?
+
+1659
+01:25:47,851 --> 01:25:50,187
+-Magic. Says who?
+-No such thing.
+
+1660
+01:25:50,270 --> 01:25:52,147
+Boo! Be careful, man!
+
+1661
+01:25:53,357 --> 01:25:55,692
+How the fuck do you brush your teeth?
+
+1662
+01:25:55,901 --> 01:25:58,570
+Yo, the city ain't cut off
+the water in the building yet.
+
+1663
+01:25:58,654 --> 01:26:01,365
+- Shit, there is water. He ain't lying.
+- Man.
+
+1664
+01:26:01,948 --> 01:26:03,700
+If I knew Flash's secret,
+
+1665
+01:26:03,784 --> 01:26:06,536
+-I could extend the get down right here.
+-This-- This--
+
+1666
+01:26:06,828 --> 01:26:08,705
+This is def, man. This shit's def.
+
+1667
+01:26:08,789 --> 01:26:10,165
+Yo, yo. Yo, Shao.
+
+1668
+01:26:10,248 --> 01:26:11,375
+-Yo.
+-The sun's coming up.
+
+1669
+01:26:11,458 --> 01:26:12,668
+I can't see the train here.
+
+1670
+01:26:12,751 --> 01:26:14,628
+-Can we get on the roof?
+-Let's hit the roof.
+
+1671
+01:26:14,711 --> 01:26:16,004
+To the roof!
+
+1672
+01:26:16,088 --> 01:26:17,547
+All right. Let's do it.
+
+1673
+01:26:17,631 --> 01:26:19,591
+- Yo, yo, yo.
+- All-city.
+
+1674
+01:26:19,675 --> 01:26:21,426
+I'm the king of New York.
+
+1675
+01:26:24,262 --> 01:26:25,764
+- Heads up.
+- Snap.
+
+1676
+01:26:25,847 --> 01:26:28,642
+Stick with me, little man.
+I'll teach you how to fly. Hoo!
+
+1677
+01:26:28,725 --> 01:26:30,477
+-Yo, Zeke.
+-Yeah, bro?
+
+1678
+01:26:31,061 --> 01:26:32,354
+Tonight was pretty dope, right?
+
+1679
+01:26:32,437 --> 01:26:33,522
+Yeah, bro. Yeah.
+
+1680
+01:26:34,106 --> 01:26:35,941
+Shaolin Fantastic, he's kind of cool?
+
+1681
+01:26:36,024 --> 01:26:36,942
+Yeah, he is.
+
+1682
+01:26:38,235 --> 01:26:40,946
+Hey, hey. Brah, brah, come on.
+You're cool, too.
+
+1683
+01:26:41,947 --> 01:26:44,950
+-Don't you wanna see Dizzee's burner?
+-Last one up eats a dick.
+
+1684
+01:26:45,242 --> 01:26:46,493
+Hey, fuck you!
+
+1685
+01:26:47,035 --> 01:26:48,787
+- Motherfucker.
+- Hey, Shao.
+
+1686
+01:26:48,870 --> 01:26:49,955
+Will you sign my book?
+
+1687
+01:26:50,580 --> 01:26:51,832
+I'll do one better.
+
+1688
+01:26:52,791 --> 01:26:54,584
+I'm retiring from my writing.
+
+1689
+01:26:56,378 --> 01:26:57,754
+Gonna be a full-time DJ.
+
+1690
+01:26:59,464 --> 01:27:00,924
+So, all my stuff downstairs...
+
+1691
+01:27:02,384 --> 01:27:03,385
+it's all you, Rumi.
+
+1692
+01:27:05,429 --> 01:27:06,263
+For real?
+
+1693
+01:27:06,930 --> 01:27:07,764
+For real.
+
+1694
+01:27:08,390 --> 01:27:09,391
+Thanks.
+
+1695
+01:27:09,975 --> 01:27:12,519
+Yo, yo, yo, yo, yo.
+Huddle up, fellas, huddle up.
+
+1696
+01:27:12,602 --> 01:27:13,979
+Huddle around. Let's do it.
+
+1697
+01:27:14,771 --> 01:27:16,732
+I'm about to introduce you
+to the three kingdoms.
+
+1698
+01:27:17,441 --> 01:27:21,319
+Okay? We got the west.
+There's the land of DJ Kool Herc.
+
+1699
+01:27:21,403 --> 01:27:24,239
+-Who's Kool Herc?
+-If you don't know who Kool Herc is,
+
+1700
+01:27:24,322 --> 01:27:25,699
+you need to ask somebody.
+
+1701
+01:27:25,782 --> 01:27:27,367
+Well, I am asking somebody.
+
+1702
+01:27:30,078 --> 01:27:33,790
+Let's just say
+he has the biggest sound in the Bronx.
+
+1703
+01:27:34,791 --> 01:27:36,168
+Over here are his rivals.
+
+1704
+01:27:37,919 --> 01:27:39,504
+Bambaataa and the Zulus.
+
+1705
+01:27:40,255 --> 01:27:41,673
+And who's right here?
+
+1706
+01:27:41,757 --> 01:27:43,550
+- We are.
+- Yeah, well...
+
+1707
+01:27:45,343 --> 01:27:46,720
+Right now, right here...
+
+1708
+01:27:47,763 --> 01:27:50,390
+and will always forever be the land...
+
+1709
+01:27:51,099 --> 01:27:51,975
+the kingdom...
+
+1710
+01:27:53,226 --> 01:27:54,436
+of Grandmaster Flash.
+
+1711
+01:27:56,730 --> 01:27:58,482
+Yeah, but what about our kingdom?
+
+1712
+01:27:59,900 --> 01:28:00,776
+Well...
+
+1713
+01:28:00,859 --> 01:28:01,902
+that's a good question.
+
+1714
+01:28:04,362 --> 01:28:06,406
+Y'all want your own kingdom,
+or you wanna...
+
+1715
+01:28:06,823 --> 01:28:08,950
+be peasants in someone else's kingdom?
+
+1716
+01:28:09,034 --> 01:28:10,035
+We want our own kingdom.
+
+1717
+01:28:13,705 --> 01:28:14,915
+Then so it shall be.
+
+1718
+01:28:16,416 --> 01:28:18,126
+Stick with me and we'll run shit.
+
+1719
+01:28:18,794 --> 01:28:20,587
+We'll be musical kings.
+
+1720
+01:28:20,670 --> 01:28:22,464
+Fantastic Four Plus One.
+
+1721
+01:28:23,131 --> 01:28:25,091
+Running shit
+from Hunts Point to Riverdale.
+
+1722
+01:28:25,175 --> 01:28:26,760
+Large and in charge.
+
+1723
+01:28:28,428 --> 01:28:29,513
+Yeah.
+
+1724
+01:28:29,596 --> 01:28:31,348
+Train!
+
+1725
+01:28:32,015 --> 01:28:32,849
+Shit.
+
+1726
+01:28:33,517 --> 01:28:34,768
+- Shit!
+- My God.
+
+1727
+01:28:34,851 --> 01:28:36,561
+- That's us, Boo.
+- Shit!
+
+1728
+01:28:36,645 --> 01:28:37,646
+That's our train!
+
+1729
+01:28:37,729 --> 01:28:39,356
+That's the train!
+
+1730
+01:28:39,439 --> 01:28:40,899
+All-city, yo!
+
+1731
+01:28:45,362 --> 01:28:46,613
+All-city!
+
+1732
+01:28:47,531 --> 01:28:49,074
+Get a better angle, get a better angle!
+
+1733
+01:28:49,950 --> 01:28:52,077
+- Check this out.
+- Hey, yo.
+
+1734
+01:28:52,160 --> 01:28:53,495
+Think we could run the Bronx?
+
+1735
+01:28:54,287 --> 01:28:55,121
+What?
+
+1736
+01:28:56,706 --> 01:28:59,835
+You and me, the Jackson Five
+Kipling brothers over there...
+
+1737
+01:29:01,795 --> 01:29:03,380
+I don't know who can fuck with us.
+
+1738
+01:29:04,506 --> 01:29:06,550
+Plus, you're a natural wordsmith, man.
+
+1739
+01:29:06,633 --> 01:29:07,467
+-Yeah?
+-Yeah.
+
+1740
+01:29:08,927 --> 01:29:10,220
+You a natural everything.
+
+1741
+01:29:13,557 --> 01:29:16,226
+Yo, we gonna be bigger than Les Inferno.
+
+1742
+01:29:17,060 --> 01:29:18,270
+We gonna be bigger than...
+
+1743
+01:29:18,979 --> 01:29:20,272
+the Yankee Stadium.
+
+1744
+01:29:21,022 --> 01:29:23,024
+We gonna be bigger
+than the whole fucking Bronx.
+
+1745
+01:29:23,108 --> 01:29:24,693
+We gonna be bigger than the world.
+
+1746
+01:29:31,116 --> 01:29:32,576
+There you go. We broke night.
+
+1747
+01:29:42,210 --> 01:29:47,757
+<i>♪ Be that as it may ♪</i>
+
+1748
+01:29:51,177 --> 01:29:56,433
+<i>♪ Every night I pray ♪</i>
+
+1749
+01:29:58,977 --> 01:30:03,398
+<i>♪ For brighter stars, more golden days ♪</i>
+
+1750
+01:30:04,107 --> 01:30:07,777
+<i>♪ And to be taken far away ♪</i>
+
+1751
+01:30:09,321 --> 01:30:13,867
+<i>♪ Be that as it may ♪</i>
+
+1752
+01:30:20,415 --> 01:30:26,713
+<i>♪ Ooh-ooh-ooh ♪</i>
+
+1753
+01:30:29,424 --> 01:30:36,431
+<i>♪ I will not forget the love you gave ♪</i>
+
+1754
+01:30:39,351 --> 01:30:46,358
+<i>♪ I will not forget the love you ♪</i>
+
+1755
+01:30:48,485 --> 01:30:52,739
+<i>♪ Gave ♪</i>
+
+n and Boo ♪</i>
+
+1614
+01:23:59,993 --> 01:24:02,120
+<i>♪ Y'all beneath us</i>
+<i>We got nothing to prove ♪</i>
+
+1615
+01:24:02,204 --> 01:24:04,289
+<i>♪ Follow instructions</i>
+<i>When you step into school ♪</i>
+
+1616
+01:24:04,581 --> 01:24:06,500
+<i>♪ Rock to the beat</i>
+<i>And it just don't stop ♪</i>
+
+1617
+01:24:06,583 --> 01:24:08,877
+<i>♪ Fly girls in the house</i>
+<i>Make their panties drop ♪</i>
+
+1618
+01:24:09,461 --> 01:24:11,296
+<i>♪ Crews come for me</i>
+<i>Everywhere we go ♪</i>
+
+1619
+01:24:11,380 --> 01:24:12,548
+<i>♪ Now that we got the spot jumping ♪</i>
+
+1620
+01:24:12,631 --> 01:24:15,008
+<i>♪ Everybody say "ho" ♪</i>
+
+1621
+01:24:15,509 --> 01:24:16,343
+Ho!
+
+1622
+01:24:16,426 --> 01:24:18,679
+- <i> ♪ Say "ho" ♪</i>
+- Ho!
+
+1623
+01:24:18,762 --> 01:24:21,265
+<i>♪ Say "turn nothing into something" ♪</i>
+
+1624
+01:24:21,348 --> 01:24:23,308
+<i>♪ Turn nothing into something ♪</i>
+
+1625
+01:24:23,392 --> 01:24:25,894
+<i>♪ Say Dizzee rocks the house ♪</i>
+
+1626
+01:24:25,978 --> 01:24:28,230
+<i>♪ Say Ra rocks the house ♪</i>
+
+1627
+01:24:28,397 --> 01:24:30,566
+<i>♪ Say Boo-Boo rocks the house ♪</i>
+
+1628
+01:24:30,649 --> 01:24:32,943
+<i>- ♪ Shaolin rocks the house ♪</i>
+- My God. My God.
+
+1629
+01:24:33,193 --> 01:24:35,362
+<i>- ♪ And Flash rocks the house ♪</i>
+- My God.
+
+1630
+01:24:35,862 --> 01:24:37,781
+<i>♪ Yes, yes, y'all, and you don't stop ♪</i>
+
+1631
+01:24:37,864 --> 01:24:40,242
+<i>♪ Yes, yes, y'all, and you don't stop ♪</i>
+
+1632
+01:24:50,919 --> 01:24:52,838
+- Shit.
+- Shit.
+
+1633
+01:24:52,921 --> 01:24:54,381
+-Whoo!
+-Yo, damn!
+
+1634
+01:24:54,464 --> 01:24:56,216
+- Damn.
+- Check this out, man.
+
+1635
+01:24:56,300 --> 01:24:59,052
+- Bro, you killed that.
+- Yo, we's got comics.
+
+1636
+01:24:59,136 --> 01:25:00,762
+You like that? You have fun, y'all.
+
+1637
+01:25:00,846 --> 01:25:03,056
+Hey, respect the temple.
+Respect the--
+
+1638
+01:25:03,140 --> 01:25:04,808
+Hey. Hands off everything, munchkin.
+
+1639
+01:25:05,309 --> 01:25:08,103
+Yo. Everybody, gather around.
+Gather around.
+
+1640
+01:25:08,687 --> 01:25:10,939
+This is the Aladdin's Cave.
+
+1641
+01:25:11,982 --> 01:25:14,318
+No one else has seen this before.
+
+1642
+01:25:14,401 --> 01:25:15,902
+Shit. We must be special.
+
+1643
+01:25:19,239 --> 01:25:20,907
+- You ready?
+- Yeah!
+
+1644
+01:25:20,991 --> 01:25:22,200
+- Are you ready?
+- Yeah.
+
+1645
+01:25:22,326 --> 01:25:23,910
+Bung! Doo-doo!
+
+1646
+01:25:24,620 --> 01:25:26,204
+Bung!
+
+1647
+01:25:26,997 --> 01:25:28,290
+Ba-dow!
+
+1648
+01:25:28,832 --> 01:25:29,666
+Shit!
+
+1649
+01:25:29,750 --> 01:25:32,127
+This is my lifetime collection, man.
+
+1650
+01:25:32,210 --> 01:25:33,754
+Alphabetized and everything.
+
+1651
+01:25:33,837 --> 01:25:35,130
+Yo, Shao, man.
+
+1652
+01:25:35,213 --> 01:25:36,798
+This is where you stay at?
+
+1653
+01:25:36,882 --> 01:25:38,717
+You know,
+other than staying at my girl's crib.
+
+1654
+01:25:38,800 --> 01:25:41,553
+That's where I keep my custom AJ Lesters.
+
+1655
+01:25:41,678 --> 01:25:42,929
+- Custom?
+- Hoo-hoo!
+
+1656
+01:25:43,013 --> 01:25:44,056
+He said custom?
+
+1657
+01:25:44,723 --> 01:25:46,558
+Yo, so how do you rig up the electric?
+
+1658
+01:25:46,642 --> 01:25:47,768
+You wired it yourself?
+
+1659
+01:25:47,851 --> 01:25:50,187
+-Magic. Says who?
+-No such thing.
+
+1660
+01:25:50,270 --> 01:25:52,147
+Boo! Be careful, man!
+
+1661
+01:25:53,357 --> 01:25:55,692
+How the fuck do you brush your teeth?
+
+1662
+01:25:55,901 --> 01:25:58,570
+Yo, the city ain't cut off
+the water in the building yet.
+
+1663
+01:25:58,654 --> 01:26:01,365
+- Shit, there is water. He ain't lying.
+- Man.
+
+1664
+01:26:01,948 --> 01:26:03,700
+If I knew Flash's secret,
+
+1665
+01:26:03,784 --> 01:26:06,536
+-I could extend the get down right here.
+-This-- This--
+
+1666
+01:26:06,828 --> 01:26:08,705
+This is def, man. This shit's def.
+
+1667
+01:26:08,789 --> 01:26:10,165
+Yo, yo. Yo, Shao.
+
+1668
+01:26:10,248 --> 01:26:11,375
+-Yo.
+-The sun's coming up.
+
+1669
+01:26:11,458 --> 01:26:12,668
+I can't see the train here.
+
+1670
+01:26:12,751 --> 01:26:14,628
+-Can we get on the roof?
+-Let's hit the roof.
+
+1671
+01:26:14,711 --> 01:26:16,004
+To the roof!
+
+1672
+01:26:16,088 --> 01:26:17,547
+All right. Let's do it.
+
+1673
+01:26:17,631 --> 01:26:19,591
+- Yo, yo, yo.
+- All-city.
+
+1674
+01:26:19,675 --> 01:26:21,426
+I'm the king of New York.
+
+1675
+01:26:24,262 --> 01:26:25,764
+- Heads up.
+- Snap.
+
+1676
+01:26:25,847 --> 01:26:28,642
+Stick with me, little man.
+I'll teach you how to fly. Hoo!
+
+1677
+01:26:28,725 --> 01:26:30,477
+-Yo, Zeke.
+-Yeah, bro?
+
+1678
+01:26:31,061 --> 01:26:32,354
+Tonight was pretty dope, right?
+
+1679
+01:26:32,437 --> 01:26:33,522
+Yeah, bro. Yeah.
+
+1680
+01:26:34,106 --> 01:26:35,941
+Shaolin Fantastic, he's kind of cool?
+
+1681
+01:26:36,024 --> 01:26:36,942
+Yeah, he is.
+
+1682
+01:26:38,235 --> 01:26:40,946
+Hey, hey. Brah, brah, come on.
+You're cool, too.
+
+1683
+01:26:41,947 --> 01:26:44,950
+-Don't you wanna see Dizzee's burner?
+-Last one up eats a dick.
+
+1684
+01:26:45,242 --> 01:26:46,493
+Hey, fuck you!
+
+1685
+01:26:47,035 --> 01:26:48,787
+- Motherfucker.
+- Hey, Shao.
+
+1686
+01:26:48,870 --> 01:26:49,955
+Will you sign my book?
+
+1687
+01:26:50,580 --> 01:26:51,832
+I'll do one better.
+
+1688
+01:26:52,791 --> 01:26:54,584
+I'm retiring from my writing.
+
+1689
+01:26:56,378 --> 01:26:57,754
+Gonna be a full-time DJ.
+
+1690
+01:26:59,464 --> 01:27:00,924
+So, all my stuff downstairs...
+
+1691
+01:27:02,384 --> 01:27:03,385
+it's all you, Rumi.
+
+1692
+01:27:05,429 --> 01:27:06,263
+For real?
+
+1693
+01:27:06,930 --> 01:27:07,764
+For real.
+
+1694
+01:27:08,390 --> 01:27:09,391
+Thanks.
+
+1695
+01:27:09,975 --> 01:27:12,519
+Yo, yo, yo, yo, yo.
+Huddle up, fellas, huddle up.
+
+1696
+01:27:12,602 --> 01:27:13,979
+Huddle around. Let's do it.
+
+1697
+01:27:14,771 --> 01:27:16,732
+I'm about to introduce you
+to the three kingdoms.
+
+1698
+01:27:17,441 --> 01:27:21,319
+Okay? We got the west.
+There's the land of DJ Kool Herc.
+
+1699
+01:27:21,403 --> 01:27:24,239
+-Who's Kool Herc?
+-If you don't know who Kool Herc is,
+
+1700
+01:27:24,322 --> 01:27:25,699
+you need to ask somebody.
+
+1701
+01:27:25,782 --> 01:27:27,367
+Well, I am asking somebody.
+
+1702
+01:27:30,078 --> 01:27:33,790
+Let's just say
+he has the biggest sound in the Bronx.
+
+1703
+01:27:34,791 --> 01:27:36,168
+Over here are his rivals.
+
+1704
+01:27:37,919 --> 01:27:39,504
+Bambaataa and the Zulus.
+
+1705
+01:27:40,255 --> 01:27:41,673
+And who's right here?
+
+1706
+01:27:41,757 --> 01:27:43,550
+- We are.
+- Yeah, well...
+
+1707
+01:27:45,343 --> 

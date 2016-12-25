@@ -1,0 +1,6286 @@
+1
+00:00:02,879 --> 00:00:06,882
+<i>## [Drums, Piano: Fox Fanfare, Rock]</i>
+
+2
+00:00:24,609 --> 00:00:27,652
+<i>## [Intro, Slow Tempo]</i>
+
+3
+00:00:35,453 --> 00:00:37,913
+# Michael Rennie was ill #
+
+4
+00:00:37,997 --> 00:00:41,374
+# The day the Earth stood still #
+
+5
+00:00:41,459 --> 00:00:46,546
+# But he told us where we stand #
+
+6
+00:00:46,631 --> 00:00:49,007
+# And Flash Gordon was there #
+
+7
+00:00:49,091 --> 00:00:52,344
+# In silver underwear #
+
+8
+00:00:52,428 --> 00:00:57,390
+# Claude Rains was the Invisible Man #
+
+9
+00:00:57,475 --> 00:01:00,060
+# Then somethin' went wrong #
+
+10
+00:01:00,144 --> 00:01:02,729
+# For Fay Wray and King Kong #
+
+11
+00:01:02,813 --> 00:01:07,734
+# They got caught in a celluloid jam #
+
+12
+00:01:07,818 --> 00:01:10,570
+# Then at a deadly pace #
+
+13
+00:01:10,655 --> 00:01:13,949
+# It came from outer space #
+
+14
+00:01:14,033 --> 00:01:18,495
+# And this is how the message ran #
+
+15
+00:01:20,957 --> 00:01:23,583
+<i># Science fiction #</i>
+
+16
+00:01:23,668 --> 00:01:26,294
+<i>[Chorus]
+# Ooh, ooh, ooh #</i>
+
+17
+00:01:26,379 --> 00:01:29,839
+<i># Double feature #</i>
+
+18
+00:01:31,676 --> 00:01:34,427
+<i># Dr. X #</i>
+
+19
+00:01:34,512 --> 00:01:36,763
+<i># Ooh, ooh, ooh #</i>
+
+20
+00:01:36,847 --> 00:01:40,850
+<i># Will build a creature #</i>
+
+21
+00:01:41,852 --> 00:01:45,188
+<i># See androids fighting #</i>
+
+22
+00:01:45,273 --> 00:01:47,774
+<i># Ooh, ooh, ooh #</i>
+
+23
+00:01:47,858 --> 00:01:51,528
+<i># Brad and Janet #</i>
+
+24
+00:01:52,530 --> 00:01:55,991
+<i># Anne Francis stars in #</i>
+
+25
+00:01:56,075 --> 00:01:58,201
+<i># Ooh, ooh, ooh #</i>
+
+26
+00:01:58,286 --> 00:02:01,246
+# Forbidden Planet #
+
+27
+00:02:01,330 --> 00:02:07,127
+<i># Whoa-oh, oh-oh, oh-oh #</i>
+
+28
+00:02:07,211 --> 00:02:09,838
+<i># At the late-night #</i>
+
+29
+00:02:09,922 --> 00:02:12,465
+<i># Double feature #</i>
+
+30
+00:02:12,550 --> 00:02:15,176
+<i># Picture show #</i>
+
+31
+00:02:23,769 --> 00:02:26,813
+# I knew Leo G. Carroll #
+
+32
+00:02:26,897 --> 00:02:29,190
+# Was over a barrel #
+
+33
+00:02:29,275 --> 00:02:33,611
+# When Tarantula took to the hills #
+
+34
+00:02:34,613 --> 00:02:37,032
+# And I really got hot #
+
+35
+00:02:37,116 --> 00:02:39,826
+# When I saw Janette Scott #
+
+36
+00:02:39,910 --> 00:02:44,039
+# Fight a triffid
+that spits poison and kills #
+
+37
+00:02:45,249 --> 00:02:48,418
+# Dana Andrews said prunes #
+
+38
+00:02:48,502 --> 00:02:50,879
+# Gave him the runes #
+
+39
+00:02:50,963 --> 00:02:55,675
+# And passing them used lots of skills #
+
+40
+00:02:55,760 --> 00:02:58,345
+# But when worlds collide #
+
+41
+00:02:58,429 --> 00:03:00,764
+# Said George Pal to his bride #
+
+42
+00:03:00,848 --> 00:03:02,682
+# I'm gonna give you #
+
+43
+00:03:02,767 --> 00:03:05,643
+# Some terrible thrills #
+
+44
+00:03:05,728 --> 00:03:08,104
+# Like a #
+
+45
+00:03:08,189 --> 00:03:10,899
+<i># Science fiction #</i>
+
+46
+00:03:10,983 --> 00:03:13,360
+<i># Ooh, ooh, ooh #</i>
+
+47
+00:03:13,444 --> 00:03:16,780
+<i># Double feature #</i>
+
+48
+00:03:18,699 --> 00:03:21,326
+<i># Dr. X #</i>
+
+49
+00:03:21,410 --> 00:03:23,244
+<i># Ooh, ooh, ooh #</i>
+
+50
+00:03:23,329 --> 00:03:27,123
+<i># Will build a creature #</i>
+
+51
+00:03:28,376 --> 00:03:31,669
+<i># See androids fighting #</i>
+
+52
+00:03:31,754 --> 00:03:34,172
+<i># Ooh, ooh, ooh #</i>
+
+53
+00:03:34,256 --> 00:03:37,884
+<i># Brad and Janet #</i>
+
+54
+00:03:38,969 --> 00:03:42,389
+<i># Anne Francis stars in #</i>
+
+55
+00:03:42,473 --> 00:03:44,391
+<i># Ooh, ooh, ooh #</i>
+
+56
+00:03:44,475 --> 00:03:47,268
+# Forbidden Planet #
+
+57
+00:03:47,353 --> 00:03:53,274
+<i># Whoa-oh, oh-oh, oh-oh #</i>
+
+58
+00:03:53,359 --> 00:03:55,902
+<i># At the late-night #</i>
+
+59
+00:03:55,986 --> 00:03:58,363
+<i># Double feature #</i>
+
+60
+00:03:58,447 --> 00:04:00,740
+<i># Picture show #</i>
+
+61
+00:04:00,825 --> 00:04:03,827
+<i># I wanna go #</i>
+
+62
+00:04:03,911 --> 00:04:08,081
+<i># Whoa-oh, oh-oh #</i>
+
+63
+00:04:09,083 --> 00:04:11,584
+<i># To the late-night #</i>
+
+64
+00:04:11,669 --> 00:04:14,129
+<i># Double feature #</i>
+
+65
+00:04:14,213 --> 00:04:16,589
+<i># Picture show #</i>
+
+66
+00:04:16,674 --> 00:04:19,509
+<i># By RKO #</i>
+
+67
+00:04:19,593 --> 00:04:24,722
+<i># Whoa-oh, oh-oh, oh-oh #</i>
+
+68
+00:04:24,807 --> 00:04:27,350
+<i># To the late-night #</i>
+
+69
+00:04:27,435 --> 00:04:29,936
+<i># Double feature #</i>
+
+70
+00:04:30,020 --> 00:04:32,272
+<i># Picture show #</i>
+
+71
+00:04:32,356 --> 00:04:35,316
+<i># In the back row #</i>
+
+72
+00:04:35,401 --> 00:04:40,697
+<i># Oh-oh, oh-oh #</i>
+
+73
+00:04:40,781 --> 00:04:43,450
+<i># To the late-night #</i>
+
+74
+00:04:43,534 --> 00:04:45,869
+<i># Double feature #</i>
+
+75
+00:04:45,953 --> 00:04:47,704
+<i># Picture #</i>
+
+76
+00:04:47,872 --> 00:04:49,539
+<i># Show ##</i>
+
+77
+00:04:49,623 --> 00:04:52,542
+<i>## [Organ: "Wedding March"]</i>
+
+78
+00:04:55,087 --> 00:04:58,089
+<i>[Bells Ringing]</i>
+
+79
+00:05:05,055 --> 00:05:06,723
+[Photographer]
+Here they come.
+
+80
+00:05:06,807 --> 00:05:09,809
+[Guests Shouting, Cheering]
+
+81
+00:05:13,689 --> 00:05:16,399
+[All Laughing, Chattering]
+
+82
+00:05:17,818 --> 00:05:18,985
+[Movie Camera Whirring]
+
+83
+00:05:19,069 --> 00:05:21,196
+<i>[Photographer] I'd like the parents
+and the grandparents.</i>
+
+84
+00:05:21,280 --> 00:05:23,239
+Yes, all the close family.
+
+85
+00:05:29,246 --> 00:05:31,873
+<i>Smile! Hold that. Beautiful!</i>
+
+86
+00:05:31,957 --> 00:05:33,249
+And... click!
+
+87
+00:05:33,334 --> 00:05:35,793
+[Cheering, Laughing]
+
+88
+00:05:35,878 --> 00:05:38,463
+<i>[Applause Continues]</i>
+
+89
+00:05:38,547 --> 00:05:41,216
+Hey, Ralph. Congratulations.
+
+90
+00:05:41,300 --> 00:05:44,302
+[Guests Chattering]
+
+91
+00:05:46,514 --> 00:05:48,181
+[Photographer]
+Congratulations.
+
+92
+00:05:48,307 --> 00:05:50,391
+- Bye-bye. See you.
+- Congratulations.
+
+93
+00:05:51,393 --> 00:05:54,437
+Well, I guess
+we really did it, huh?
+
+94
+00:05:56,065 --> 00:05:57,982
+I don't think there's any
+doubt about that.
+
+95
+00:05:58,067 --> 00:06:00,089
+You and Betty have been
+almost inseparable since
+
+96
+00:06:00,090 --> 00:06:02,111
+you met in Dr. Scott's
+refresher courses.
+
+97
+00:06:02,196 --> 00:06:05,823
+To tell you the truth, Brad, that was the
+only reason I showed up in the first place.
+
+98
+00:06:05,950 --> 00:06:08,618
+- [Chuckles]
+- [Laughs] I mean...
+
+99
+00:06:08,702 --> 00:06:10,828
+Okay, you guys, this is it!
+You ready?
+
+100
+00:06:10,955 --> 00:06:13,248
+[Women Clamoring]
+Looks like Betty's gonna throw her bouquet.
+
+101
+00:06:13,332 --> 00:06:16,459
+Ready?
+Okay, here it comes!
+
+102
+00:06:16,544 --> 00:06:20,046
+[Squealing]
+I got it!
+
+103
+00:06:20,172 --> 00:06:22,340
+- I got it!
+- Hey, big fella.
+
+104
+00:06:22,466 --> 00:06:25,385
+<i>[Car Horn Honks]</i>
+Looks like it could be your turn next, hey?
+
+105
+00:06:25,469 --> 00:06:27,387
+Who knows?
+
+106
+00:06:27,471 --> 00:06:29,472
+So long. See you, Brad.
+
+107
+00:06:30,766 --> 00:06:32,725
+<i>[Ralph]
+We'd better get going now, Betty.</i>
+
+108
+00:06:32,810 --> 00:06:33,726
+<i>Come on, hop in.</i>
+
+109
+00:06:33,811 --> 00:06:36,271
+- Good-bye, Betty!
+- Bye! Bye!
+
+110
+00:06:36,355 --> 00:06:38,648
+[Guests Shouting, Chattering]
+
+111
+00:06:38,732 --> 00:06:40,650
+See you, Brad.
+
+112
+00:06:40,734 --> 00:06:43,736
+[Guests Shouting Good-byes]
+
+113
+00:06:47,032 --> 00:06:50,994
+[Shouting, Cheering]
+
+114
+00:06:51,078 --> 00:06:53,121
+<i>[Woman]
+Bye, Betty!</i>
+
+115
+00:06:53,205 --> 00:06:57,709
+Oh, Brad, wasn't it wonderful?
+Didn't Betty look radiantly beautiful?
+
+116
+00:06:57,793 --> 00:07:01,254
+Oh, I can't believe it. An hour ago,
+she was plain old Betty Munroe.
+
+117
+00:07:01,338 --> 00:07:04,549
+And now...
+Now she's Mrs. Ralph Hapschatt.
+
+118
+00:07:04,633 --> 00:07:06,551
+[Sighs]
+
+119
+00:07:08,178 --> 00:07:10,930
+- Yes, Janet. Ralph's a lucky guy.
+- Yes.
+
+120
+00:07:12,057 --> 00:07:14,851
+[Woman]
+Oh, I always cry at weddings.
+
+121
+00:07:16,812 --> 00:07:21,441
+- Uh, everyone knows that Betty's
+a wonderful little cook. - Yes.
+
+122
+00:07:21,525 --> 00:07:24,027
+<i>[Crows Cawing]</i>
+
+123
+00:07:27,031 --> 00:07:29,741
+Why, Ralph himself... he'll be in line
+for a promotion in a year or two.
+
+124
+00:07:29,825 --> 00:07:31,743
+Yes.
+
+125
+00:07:34,204 --> 00:07:36,205
+- Hey, Janet.
+- Yes, Brad?
+
+126
+00:07:38,500 --> 00:07:40,710
+I've got something to say.
+
+127
+00:07:40,794 --> 00:07:42,920
+Uh-huh?
+
+128
+00:07:43,005 --> 00:07:44,881
+# I really loved the... #
+
+129
+00:07:44,965 --> 00:07:48,926
+<i>[Thunder Rumbles]</i>
+
+130
+00:07:49,011 --> 00:07:50,928
+# Skillful way #
+
+131
+00:07:52,139 --> 00:07:54,807
+# You beat the other girls #
+
+132
+00:07:54,892 --> 00:07:56,392
+# To the bride's bouquet #
+
+133
+00:07:56,477 --> 00:07:58,936
+Oh. Oh, Brad.
+
+134
+00:07:59,021 --> 00:08:01,939
+<i>[Thunder Continues]</i>
+
+135
+00:08:02,024 --> 00:08:05,026
+- # The river was deep, but I swam it #
+- [<i>American Gothic</i> Couple] #Janet #
+
+136
+00:08:05,110 --> 00:08:08,071
+- # The future is ours so let's plan it #
+- <i># Janet #</i>
+
+137
+00:08:08,197 --> 00:08:11,115
+- # So please don't tell me to can it #
+- # Janet #
+
+138
+00:08:11,200 --> 00:08:14,786
+# I've one thing to say
+and that's dammit, Janet #
+
+139
+00:08:14,870 --> 00:08:16,788
+# I love you #
+
+140
+00:08:18,290 --> 00:08:21,000
+- # The road was long but I ran it #
+- # Janet #
+
+141
+00:08:21,085 --> 00:08:24,629
+- # There's a fire in my heart
+and you fan it # - <i># Janet #</i>
+
+142
+00:08:24,755 --> 00:08:27,590
+- # If there's one fool for you
+then I am it # - # Janet #
+
+143
+00:08:27,675 --> 00:08:30,843
+# I've one thing to say
+and that's dammit, Janet #
+
+144
+00:08:30,928 --> 00:08:32,470
+# I love you #
+
+145
+00:08:32,554 --> 00:08:34,847
+[Sighs]
+Whoo!
+
+146
+00:08:34,932 --> 00:08:39,018
+# Here's the ring to prove
+that I'm no joker #
+
+147
+00:08:39,103 --> 00:08:41,479
+[Gasps]
+Oh!
+
+148
+00:08:41,563 --> 00:08:45,942
+# There's three ways that love
+can grow #
+
+149
+00:08:46,944 --> 00:08:50,196
+- # That's good, bad #
+- [Giggles]
+
+150
+00:08:50,322 --> 00:08:52,156
+- # Or mediocre #
+- Oh.
+
+151
+00:08:53,158 --> 00:08:55,368
+# Oh, J-A-N-E-T #
+
+152
+00:08:55,452 --> 00:08:57,745
+- # I love you so #
+- Oh!
+
+153
+00:08:58,747 --> 00:09:02,834
+- # Oh, it's nicer than Betty Munroe had #
+- [Others] # Oh, Brad #
+
+154
+00:09:02,960 --> 00:09:06,170
+- # Now we're engaged and I'm so glad #
+- # Oh, Brad #
+
+155
+00:09:06,255 --> 00:09:09,132
+- # That you met Mom and you know Dad #
+- <i># Oh, Brad #</i>
+
+156
+00:09:09,216 --> 00:09:12,301
+# I've one thing to say
+and that's, Brad, I'm mad #
+
+157
+00:09:12,386 --> 00:09:14,679
+# For you too #
+
+158
+00:09:16,974 --> 00:09:19,726
+# Oh, Brad #
+
+159
+00:09:19,810 --> 00:09:22,186
+# Oh, dammit #
+
+160
+00:09:22,271 --> 00:09:25,732
+# I'm mad #
+
+161
+00:09:25,816 --> 00:09:28,693
+# Oh, Janet #
+
+162
+00:09:28,777 --> 00:09:30,945
+# For you #
+
+163
+00:09:31,029 --> 00:09:34,741
+# I love you too #
+
+164
+00:09:34,825 --> 00:09:39,746
+# There's one thing left to do
+Ah-ooh #
+
+165
+00:09:39,872 --> 00:09:44,000
+- # And that's go see the man
+who began it # - [Others] # Janet #
+
+166
+00:09:44,084 --> 00:09:47,086
+- # When we met in his science exam, it #
+- # Janet #
+
+167
+00:09:47,212 --> 00:09:50,256
+- # Made me give you the eye
+and then panic # - # Janet #
+
+168
+00:09:50,340 --> 00:09:53,718
+# Now I've one thing to say
+and that's dammit, Janet #
+
+169
+00:09:53,802 --> 00:09:56,429
+# I love you #
+
+170
+00:09:57,765 --> 00:10:00,767
+# Dammit, Janet #
+
+171
+00:10:00,851 --> 00:10:03,936
+# Oh, Brad, I'm mad #
+
+172
+00:10:04,021 --> 00:10:06,689
+# Dammit, Janet #
+
+173
+00:10:06,774 --> 00:10:15,698
+[Together]
+# I love you #
+
+174
+00:10:28,796 --> 00:10:32,799
+I would like, if I may,
+
+175
+00:10:32,883 --> 00:10:37,261
+to take you on a strange journey.
+
+176
+00:10:50,526 --> 00:10:53,820
+It seemed a fairly ordinary night...
+
+177
+00:10:53,904 --> 00:10:58,658
+when Brad Majors
+and his fiancée, Janet Weiss...
+
+178
+00:10:58,742 --> 00:11:01,702
+two young, ordinary, healthy kids...
+
+179
+00:11:01,787 --> 00:11:05,706
+left Denton
+that late November evening...
+
+180
+00:11:05,791 --> 00:11:09,794
+to visit a Dr. Everett Scott,
+
+181
+00:11:09,878 --> 00:11:13,256
+ex-tutor and now friend
+to both of them.
+
+182
+00:11:15,843 --> 00:11:20,638
+It's true there were
+dark storm clouds...
+
+183
+00:11:20,722 --> 00:11:24,475
+heavy, black and pendulous...
+
+184
+00:11:24,560 --> 00:11:27,186
+toward which they were driving.
+
+185
+00:11:27,271 --> 00:11:30,147
+It's true, also, that the spare tire
+they were carrying...
+
+186
+00:11:30,232 --> 00:11:32,650
+was badly in need of some air.
+
+187
+00:11:32,734 --> 00:11:38,239
+But they, being normal kids
+and on a night out,
+
+188
+00:11:38,323 --> 00:11:41,951
+well, they were not going to let a storm
+spoil the events of their evening.
+
+189
+00:11:44,788 --> 00:11:46,956
+On a night out.
+
+190
+00:11:48,959 --> 00:11:53,170
+It was a night out
+they were going to remember...
+
+191
+00:11:53,255 --> 00:11:55,840
+for a very long time.
+
+192
+00:11:55,924 --> 00:11:57,925
+<i>[Thunderclap]</i>
+
+193
+00:12:05,183 --> 00:12:08,144
+<i>[Richard Nixon On Radio] I have never been
+a quitter.</i> ## [Humming]
+
+194
+00:12:09,187 --> 00:12:11,397
+<i>To leave office before my term
+is completed...</i>
+
+195
+00:12:11,481 --> 00:12:14,817
+<i>is abhorrent
+to every instinct in my body.</i>
+
+196
+00:12:16,987 --> 00:12:18,738
+<i>But as president,</i>
+
+197
+00:12:18,822 --> 00:12:22,325
+<i>I must put the interests
+of America first.</i>
+
+198
+00:12:24,328 --> 00:12:28,247
+<i>America needs
+a full-time president...</i>
+
+199
+00:12:28,332 --> 00:12:31,167
+<i>and a full-time Congress,</i>
+
+200
+00:12:31,251 --> 00:12:34,670
+- <i>particularly at this time with
+the problems...</i> - [Motor Revving]
+
+201
+00:12:34,755 --> 00:12:37,757
+Gosh, that's the third motorcyclist
+that's passed us.
+
+202
+00:12:37,841 --> 00:12:41,302
+They sure do take their lives in their
+hands, what with the weather and all.
+
+203
+00:12:41,386 --> 00:12:45,056
+Yes, Janet.
+Life's pretty cheap to that type.
+
+204
+00:12:45,140 --> 00:12:47,391
+<i>...would almost totally absorb
+the time and attention...</i>
+
+205
+00:12:47,476 --> 00:12:51,437
+<i>of both the president
+and the Congress...</i>
+
+206
+00:12:51,521 --> 00:12:54,899
+What's the matter, Brad, darling?
+
+207
+00:12:54,983 --> 00:12:58,319
+Hmm. We must have taken
+the wrong fork a few miles back.
+
+208
+00:12:58,403 --> 00:13:01,739
+[Janet] Oh. But then where did
+that motorcyclist come from?
+
+209
+00:13:01,823 --> 00:13:05,993
+Hmm. Well, I guess
+we'll just have to turn back.
+
+210
+00:13:06,119 --> 00:13:10,164
+...to continue to fight through the
+months ahead for my...<i> [Tire Blows]</i>
+
+211
+00:13:10,248 --> 00:13:12,458
+What was that bang?
+
+212
+00:13:12,542 --> 00:13:15,294
+We must have a blowout.
+
+213
+00:13:15,379 --> 00:13:19,048
+Dammit! I knew I should've
+gotten that spare tire fixed.
+
+214
+00:13:19,132 --> 00:13:22,301
+<i>You just stay here and keep warm,
+and I'll go for help.</i>
+
+215
+00:13:22,386 --> 00:13:24,637
+Where will you go?
+We're in the middle of nowhere.
+
+216
+00:13:24,721 --> 00:13:29,350
+<i>...the great issues of peace abroad
+and prosperity without inflation at home.</i>
+
+217
+00:13:29,434 --> 00:13:32,103
+Didn't we pass a castle
+back down the road a few miles?
+
+218
+00:13:32,187 --> 00:13:34,271
+<i>[Nixon]
+...I shall resign...</i>
+
+219
+00:13:34,398 --> 00:13:37,900
+- <i>Maybe they have a telephone I could use.</i>
+- I'm going with you.
+
+220
+00:13:37,985 --> 00:13:40,987
+Oh, no, darling, there's no sense
+in both of us getting wet.
+
+221
+00:13:41,071 --> 00:13:43,114
+I'm coming with you.
+[Seat Belt Alarm Beeps]
+
+222
+00:13:43,198 --> 00:13:44,949
+[Sighs]
+
+223
+00:13:45,033 --> 00:13:48,369
+Besides, darling, the owner of that phone
+might be a beautiful woman,
+
+224
+00:13:48,453 --> 00:13:50,955
+and you might never
+come back again.
+
+225
+00:13:51,039 --> 00:13:53,040
+[Chuckles]
+
+226
+00:13:58,588 --> 00:14:00,089
+[Hollow Thud]
+
+227
+00:14:09,099 --> 00:14:11,600
+<i>[Thunder Rumbling]</i>
+
+228
+00:14:19,401 --> 00:14:21,402
+<i>[Thunderclap]</i>
+
+229
+00:14:34,124 --> 00:14:37,043
+# In the velvet darkness #
+
+230
+00:14:37,127 --> 00:14:39,545
+# Of the blackest night #
+
+231
+00:14:39,629 --> 00:14:43,215
+# Burning bright #
+
+232
+00:14:43,300 --> 00:14:48,512
+# There's a guiding star #
+
+233
+00:14:49,514 --> 00:14:52,725
+# No matter what #
+[Thunderclap]
+
+234
+00:14:52,809 --> 00:14:55,770
+# Or #
+
+235
+00:14:55,854 --> 00:15:01,150
+# Who you are #
+
+236
+00:15:01,234 --> 00:15:05,488
+[Together]
+# There's a light #
+
+237
+00:15:05,572 --> 00:15:09,742
+<i>[Chorus]
+# Over at the Frankenstein place #</i>
+
+238
+00:15:09,826 --> 00:15:16,582
+# There's a light #
+
+239
+00:15:16,666 --> 00:15:20,878
+<i>[Chorus]
+# Burning in the fireplace #</i>
+
+240
+00:15:20,962 --> 00:15:24,340
+# There's a light #
+
+241
+00:15:24,424 --> 00:15:30,262
+# Light in the darkness #
+
+242
+00:15:30,347 --> 00:15:35,851
+# Of everybody's life #
+
+243
+00:15:44,861 --> 00:15:49,323
+# The darkness must go #
+
+244
+00:15:49,407 --> 00:15:52,284
+# Down the river #
+
+245
+00:15:52,369 --> 00:15:57,123
+# Of nights dreaming #
+
+246
+00:15:57,207 --> 00:16:00,793
+# Flow morphia slow #
+
+247
+00:16:00,877 --> 00:16:03,295
+# Let the sun #
+
+248
+00:16:03,380 --> 00:16:06,298
+# And light come streaming #
+
+249
+00:16:06,383 --> 00:16:20,187
+# Into my life #
+
+250
+00:16:20,272 --> 00:16:24,817
+# There's a light #
+
+251
+00:16:24,901 --> 00:16:28,654
+<i>[Chorus]
+# Over at the Frankenstein place #</i>
+
+252
+00:16:28,738 --> 00:16:35,286
+<i># There's a light #</i>
+
+253
+00:16:35,370 --> 00:16:39,415
+<i>[Chorus]
+# Burning in the fireplace #</i>
+
+254
+00:16:39,499 --> 00:16:42,585
+<i># There's a light #</i>
+
+255
+00:16:42,669 --> 00:16:45,838
+<i># A light #</i>
+
+256
+00:16:45,922 --> 00:16:49,758
+# In the darkness #
+
+257
+00:16:49,843 --> 00:16:57,766
+# Of everybody's life ##
+
+258
+00:17:01,938 --> 00:17:03,564
+<i>And so,</i>
+
+259
+00:17:03,648 --> 00:17:08,652
+it seemed that fortune
+had smiled on Brad and Janet...
+
+260
+00:17:08,737 --> 00:17:12,573
+and that they had found the assistance
+that their plight required.
+
+261
+00:17:13,950 --> 00:17:16,035
+Or had they?
+
+262
+00:17:16,119 --> 00:17:18,454
+<i>[Thunderclap]</i>
+
+263
+00:17:18,538 --> 00:17:21,373
+Brad, let's go back.
+I'm cold and I'm frightened.
+
+264
+00:17:21,458 --> 00:17:23,459
+Just a moment, Janet.
+They may have a phone.
+
+265
+00:17:27,130 --> 00:17:29,465
+[Doorbell Clangs]
+
+266
+00:17:31,176 --> 00:17:33,177
+<i>[Lock Turns]</i>
+
+267
+00:17:34,262 --> 00:17:36,680
+<i>[People Laughing, Shouting, Muffled]</i>
+
+268
+00:17:36,765 --> 00:17:39,266
+[Door Creaking]
+
+269
+00:17:43,313 --> 00:17:45,439
+Hello.
+
+270
+00:17:46,483 --> 00:17:49,109
+Hi! My name's Brad Majors.
+
+271
+00:17:50,654 --> 00:17:53,447
+This is my fiancée,
+Janet Weiss.
+
+272
+00:17:53,531 --> 00:17:58,035
+<i>I wonder if you might help us. You see,
+our car broke down a few miles up the road.</i>
+
+273
+00:17:58,119 --> 00:18:00,037
+Do you have a phone
+we might use?
+
+274
+00:18:01,248 --> 00:18:03,165
+You're wet.
+
+275
+00:18:05,085 --> 00:18:10,005
+- Yes, it's raining.
+- Yes.
+
+276
+00:18:11,091 --> 00:18:13,300
+Yes.
+
+277
+00:18:13,385 --> 00:18:15,386
+<i>[Thunderclap]</i>
+
+278
+00:18:16,930 --> 00:18:22,184
+<i>I think, perhaps,
+you better both come inside.</i>
+
+279
+00:18:25,522 --> 00:18:27,523
+You're too kind.
+
+280
+00:18:30,485 --> 00:18:32,987
+<i>## [Rock And Roll]
+[People Laughing, Shouting]</i>
+
+281
+00:18:37,450 --> 00:18:39,785
+<i>## [Continues]</i>
+
+282
+00:18:42,622 --> 00:18:45,624
+Brad, I'm frightened.
+What kind of a place is this?
+
+283
+00:18:45,709 --> 00:18:48,585
+Oh, it's probably some kind of
+hunting lodge for rich weirdos.
+
+284
+00:18:48,670 --> 00:18:50,587
+Oh.
+[Door Slams]
+
+285
+00:18:55,135 --> 00:18:57,052
+This way.
+
+286
+00:18:57,137 --> 00:18:59,138
+<i>[Laughing, Shouting Continue]</i>
+
+287
+00:19:01,516 --> 00:19:03,767
+Are you having a party?
+
+288
+00:19:05,895 --> 00:19:08,731
+You've arrived
+on a rather special night.
+
+289
+00:19:08,857 --> 00:19:12,484
+- It's one of the master's affairs.
+- Oh.
+
+290
+00:19:12,569 --> 00:19:14,653
+- Lucky him.
+- You're lucky.
+
+291
+00:19:14,738 --> 00:19:18,824
+He's lucky. I'm lucky.
+We're all lucky!
+
+292
+00:19:18,908 --> 00:19:20,242
+[Laughing Loudly]
+
+293
+00:19:20,327 --> 00:19:23,829
+<i>[Clock Chiming]</i>
+
+294
+00:19:28,960 --> 00:19:30,753
+<i>## [Downbeat]</i>
+
+295
+00:19:33,340 --> 00:19:36,175
+# It's astounding #
+
+296
+00:19:36,259 --> 00:19:38,552
+# Time is fleeting #
+
+297
+00:19:39,763 --> 00:19:42,890
+# Madness takes its toll #
+
+298
+00:19:42,974 --> 00:19:44,725
+[Laughs]
+
+299
+00:19:44,809 --> 00:19:46,894
+# But listen closely #
+
+300
+00:19:46,978 --> 00:19:49,730
+# Not for very much longer #
+
+301
+00:19:50,815 --> 00:19:55,402
+# I've got to keep control #
+
+302
+00:19:55,487 --> 00:19:58,197
+# I remember #
+
+303
+00:19:58,281 --> 00:20:01,533
+# Doing the time warp #
+
+304
+00:20:01,618 --> 00:20:05,913
+# Drinking those moments when #
+
+305
+00:20:05,997 --> 00:20:08,499
+# The blackness would hit me #
+
+306
+00:20:08,583 --> 00:20:12,294
+[Together]
+# And the void would be calling #
+
+307
+00:20:12,378 --> 00:20:16,340
+<i># Let's do the time warp again #</i>
+
+308
+00:20:17,842 --> 00:20:22,221
+# Let's do the time warp again #
+
+309
+00:20:24,224 --> 00:20:26,350
+[Speaking Lyrics]
+# It's just a jump to the left #
+
+310
+00:20:28,436 --> 00:20:30,771
+# And a step to the right #
+
+311
+00:20:30,855 --> 00:20:32,356
+# With your hands on your hips #
+
+312
+00:20:33,858 --> 00:20:36,360
+# You bring your knees in tight #
+
+313
+00:20:36,444 --> 00:20:38,987
+# But it's the pelvic thrust #
+
+314
+00:20:39,072 --> 00:20:42,407
+# That really drives you insane #
+
+315
+00:20:42,492 --> 00:20:46,328
+# Let's do the time warp again #
+
+316
+00:20:46,412 --> 00:20:48,330
+[Sighs]
+
+317
+00:20:48,414 --> 00:20:52,543
+# Let's do the time warp again #
+
+318
+00:20:52,627 --> 00:20:55,337
+# It's so dreamy #
+
+319
+00:20:55,421 --> 00:20:58,423
+# Oh, fantasy free me #
+
+320
+00:20:58,508 --> 00:21:00,509
+# So you can't see me #
+
+321
+00:21:00,593 --> 00:21:03,220
+<i># No, not at all #</i>
+
+322
+00:21:03,304 --> 00:21:06,098
+# In another dimension #
+
+323
+00:21:06,182 --> 00:21:09,101
+# With voyeuristic intention #
+
+324
+00:21:09,185 --> 00:21:12,104
+# Well secluded #
+
+325
+00:21:12,188 --> 00:21:14,106
+# I see all #
+
+326
+00:21:14,190 --> 00:21:16,733
+# With a bit of a mind flip #
+
+327
+00:21:16,818 --> 00:21:20,237
+# You're into the time slip # Ah!
+
+328
+00:21:20,321 --> 00:21:24,700
+# And nothing
+can ever be the same #
+
+329
+00:21:24,784 --> 00:21:27,411
+# You're spaced out on sensation #
+
+330
+00:21:27,495 --> 00:21:31,206
+# Like you're under sedation #
+
+331
+00:21:31,291 --> 00:21:41,592
+# Let's do the time warp again #
+
+332
+00:21:41,676 --> 00:21:44,303
+# Well, I was walking down the street
+just having a think #
+
+333
+00:21:44,387 --> 00:21:47,055
+# When a snake of a guy
+gave me an evil wink #
+
+334
+00:21:47,140 --> 00:21:49,474
+# He shook-a me up
+He took me by surprise #
+
+335
+00:21:49,559 --> 00:21:52,477
+# He had a pickup truck
+and the devil's eyes #
+
+336
+00:21:52,562 --> 00:21:55,147
+# He stared at me
+and I felt a change #
+
+337
+00:21:55,231 --> 00:21:57,482
+# Time meant nothing
+Never would again #
+
+338
+00:21:57,567 --> 00:22:02,070
+# Let's do the time warp again #
+
+339
+00:22:03,281 --> 00:22:07,326
+# Let's do the time warp again #
+
+340
+00:22:07,410 --> 00:22:09,244
+# It's just a jump to the left #
+
+341
+00:22:11,206 --> 00:22:13,665
+# And then a step to the right #
+
+342
+00:22:13,750 --> 00:22:16,335
+# With your hands on your hips #
+
+343
+00:22:16,419 --> 00:22:19,129
+# You bring your knees in tight #
+
+344
+00:22:19,214 --> 00:22:21,757
+# But it's the pelvic thrust #
+
+345
+00:22:21,841 --> 00:22:25,510
+# That really drives you insane #
+
+346
+00:22:25,595 --> 00:22:35,520
+# Let's do the time warp again #
+
+347
+00:22:35,605 --> 00:22:37,522
+[Columbia Squeals]
+
+348
+00:22:37,607 --> 00:22:40,609
+## [Rhythmic Tapping]
+Ah!
+
+349
+00:22:40,693 --> 00:22:42,861
+Oh! Whoa!
+
+350
+00:22:46,658 --> 00:22:48,325
+Yeow!
+
+351
+00:22:50,411 --> 00:22:53,664
+[Moans]
+
+352
+00:22:53,748 --> 00:22:57,960
+[All]
+# Let's do the time warp again #
+
+353
+00:22:59,128 --> 00:23:02,965
+# Let's do the time warp again #
+
+354
+00:23:03,049 --> 00:23:04,967
+# It's just a jump to the left #
+
+355
+00:23:06,970 --> 00:23:09,554
+<i># And then a step to the right #</i>
+
+356
+00:23:09,639 --> 00:23:12,266
+# With your hands on your hips #
+
+357
+00:23:12,350 --> 00:23:14,268
+<i># Bring your knees in tight #</i>
+
+358
+00:23:14,352 --> 00:23:16,937
+# But it's the pelvic thrust #
+
+359
+00:23:17,021 --> 00:23:21,108
+# That really drives you insane #
+
+360
+00:23:21,192 --> 00:23:26,571
+<i># Let's do the time warp again #</i>
+
+361
+00:23:26,656 --> 00:23:31,034
+# Let's do the time warp again ##
+
+362
+00:23:31,119 --> 00:23:34,413
+<i>## [Slows Down]</i>
+
+363
+00:23:36,082 --> 00:23:37,624
+<i>## [Drum Beats, Piano Tinkles]</i>
+
+364
+00:23:40,712 --> 00:23:42,254
+<i>## [Ends]</i>
+
+365
+00:23:42,338 --> 00:23:44,256
+[Whispering]
+Say something.
+
+366
+00:23:45,258 --> 00:23:47,384
+Say!
+
+367
+00:23:47,510 --> 00:23:49,928
+- Do any of you guys know how to Madison?
+- [Groans]
+
+368
+00:23:50,054 --> 00:23:53,390
+- [All Murmuring]
+- Huh? - Huh?
+
+369
+00:23:53,599 --> 00:23:56,852
+Brad, please,
+let's get out of here.
+
+370
+00:23:56,936 --> 00:23:59,146
+For God's sake,
+keep a grip on yourself, Janet.
+
+371
+00:23:59,230 --> 00:24:02,941
+- <i>But it seems so unhealthy here.</i>
+- It's just a party, Janet.
+
+372
+00:24:03,067 --> 00:24:06,486
+- Well, I want to go. - Well, we can't
+go anywhere till I get to a phone.
+
+373
+00:24:06,571 --> 00:24:09,698
+- Then ask the butler or someone.
+- <i>Just a moment, Janet.</i>
+
+374
+00:24:09,782 --> 00:24:12,284
+We don't want to interfere
+with their celebrations.
+
+375
+00:24:12,368 --> 00:24:14,619
+This isn't the Junior
+Chamber of Commerce, Brad.
+
+376
+00:24:14,704 --> 00:24:18,123
+They're probably foreigners
+with ways different than our own.
+
+377
+00:24:18,207 --> 00:24:20,459
+They may do some more...
+folk dancing.
+
+378
+00:24:20,543 --> 00:24:22,461
+[Chortling, Snickering]
+
+379
+00:24:22,545 --> 00:24:25,088
+Look, I'm cold, I'm wet
+and I'm just plain scared!
+
+380
+00:24:25,173 --> 00:24:28,300
+<i>I'm here.
+There's nothing to worry about.</i>
+
+381
+00:24:28,426 --> 00:24:30,218
+<i>[Guest] Oh, my.</i>
+[Screams]
+
+382
+00:24:33,056 --> 00:24:35,223
+# How do you do, I #
+
+383
+00:24:35,308 --> 00:24:37,559
+# See you've met my #
+
+384
+00:24:37,643 --> 00:24:40,771
+# Faithful handyman #
+
+385
+00:24:40,855 --> 00:24:44,483
+# He's just a little brought down
+because #
+
+386
+00:24:44,567 --> 00:24:46,735
+# When you knocked #
+
+387
+00:24:46,819 --> 00:24:49,154
+# He thought you were
+the candy man #
+
+388
+00:24:51,282 --> 00:24:53,533
+# Don't get strung out #
+
+389
+00:24:53,618 --> 00:24:55,702
+# By the way I look #
+
+390
+00:24:55,787 --> 00:24:59,206
+# Don't judge a book by its cover #
+
+391
+00:24:59,290 --> 00:25:02,000
+<i># I'm not much of a man #</i>
+
+392
+00:25:02,085 --> 00:25:03,919
+# By the light of day #
+
+393
+00:25:04,003 --> 00:25:08,006
+# But by night
+I'm one hell of a lover #
+
+394
+00:25:08,091 --> 00:25:11,301
+# I'm just a sweet transvestite #
+
+395
+00:25:13,179 --> 00:25:16,181
+# From Transsexual #
+
+396
+00:25:16,265 --> 00:25:19,351
+# Transylvania #
+
+397
+00:25:19,435 --> 00:25:21,520
+<i>Ah, ha, ha!</i>
+
+398
+00:25:21,604 --> 00:25:23,980
+# Let me show you around #
+
+399
+00:25:24,065 --> 00:25:27,109
+# Maybe play you a sound #
+
+400
+00:25:27,193 --> 00:25:30,654
+# You look like you're both
+pretty groovy #
+
+401
+00:25:30,738 --> 00:25:33,865
+# Or if you want something visual #
+
+402
+00:25:33,950 --> 00:25:36,201
+# That's not too abysmal #
+
+403
+00:25:36,285 --> 00:25:39,621
+# We could take in an old
+Steve Reeves movie #
+
+404
+00:25:40,790 --> 00:25:44,042
+# I'm glad we
+caught you at home #
+
+405
+00:25:44,127 --> 00:25:46,628
+# Could we use your phone #
+
+406
+00:25:46,712 --> 00:25:49,172
+- # We're both in a bit of a hurry #
+- Right.
+
+407
+00:25:49,257 --> 00:25:51,216
+# We'll just say where we are #
+
+408
+00:25:51,300 --> 00:25:52,676
+# Then go back to the car #
+
+409
+00:25:52,760 --> 00:25:54,761
+A pleasure to meet you, Dr. Furter.
+
+410
+00:25:54,887 --> 00:25:58,014
+- # We don't want to be any worry #
+- [Speaking Foreign Language]
+
+411
+00:25:58,099 --> 00:25:59,933
+# Well, you got caught with a flat #
+
+412
+00:26:00,017 --> 00:26:03,270
+# Well, how about that #
+
+413
+00:26:03,354 --> 00:26:07,023
+# Well, babies, don't you panic #
+
+414
+00:26:07,108 --> 00:26:09,568
+# By the light of the night #
+
+415
+00:26:09,652 --> 00:26:12,112
+# It'll all seem all right #
+
+416
+00:26:12,196 --> 00:26:15,824
+# I'll get you a satanic mechanic #
+
+417
+00:26:15,908 --> 00:26:19,202
+# I'm just a sweet transvestite #
+
+418
+00:26:20,830 --> 00:26:23,915
+# From Transsexual #
+
+419
+00:26:24,000 --> 00:26:27,294
+# Transylvania #
+
+420
+00:26:27,378 --> 00:26:29,588
+Ah, ha!
+
+421
+00:26:29,672 --> 00:26:31,673
+# Why don't you stay for the night #
+
+422
+00:26:31,799 --> 00:26:34,259
+- # Night #
+- # Or maybe a bite #
+
+423
+00:26:34,343 --> 00:26:35,469
+# Bite #
+
+424
+00:26:35,553 --> 00:26:38,805
+# I could show you
+my favorite obsession #
+
+425
+00:26:38,890 --> 00:26:42,559
+<i># I've been making a man #</i>
+
+426
+00:26:42,643 --> 00:26:44,936
+# With blond hair and a tan #
+
+427
+00:26:45,021 --> 00:26:47,189
+# And he's good for relieving my #
+
+428
+00:26:47,273 --> 00:26:48,440
+# Tension #
+
+429
+00:26:48,524 --> 00:26:51,693
+# I'm just a sweet transvestite #
+
+430
+00:26:53,821 --> 00:26:56,698
+# From Transsexual #
+
+431
+00:26:56,782 --> 00:26:59,784
+# Transylvania #
+
+432
+00:26:59,869 --> 00:27:02,579
+Ah, ha!
+Hit it! Hit it!
+
+433
+00:27:02,663 --> 00:27:05,081
+# I'm just a sweet transvestite #
+
+434
+00:27:05,166 --> 00:27:07,042
+# Sweet transvestite #
+
+435
+00:27:07,126 --> 00:27:10,337
+# From Transsexual #
+
+436
+00:27:10,421 --> 00:27:14,007
+[All]
+# Transylvania #
+
+437
+00:27:14,091 --> 00:27:16,134
+Ah, ha!
+
+438
+00:27:17,386 --> 00:27:19,971
+# So come up to the lab #
+
+439
+00:27:20,056 --> 00:27:23,850
+<i># And see what's on the slab #</i>
+
+440
+00:27:24,894 --> 00:27:27,646
+# I see you shiver with antici... #
+
+441
+00:27:29,732 --> 00:27:31,399
+# ...pation #
+
+442
+00:27:32,568 --> 00:27:35,695
+# But maybe the rain #
+
+443
+00:27:35,780 --> 00:27:38,365
+# Is really to blame #
+
+444
+00:27:38,449 --> 00:27:41,201
+<i># So I'll remove the cause #</i>
+
+445
+00:27:42,203 --> 00:27:44,371
+[Chuckling]
+
+446
+00:27:45,373 --> 00:27:47,040
+# But not the symptom ##
+
+447
+00:27:50,795 --> 00:27:53,964
+[Guests Exclaiming, Chattering]
+
+448
+00:27:54,048 --> 00:27:55,966
+<i>[Man]
+Wonderful!</i>
+
+449
+00:27:56,050 --> 00:27:58,468
+[Guests Chattering]
+
+450
+00:27:59,887 --> 00:28:01,596
+Thank you.
+
+451
+00:28:04,392 --> 00:28:07,352
+Thank you very much.
+
+452
+00:28:07,436 --> 00:28:09,396
+[Sighs]
+Oh! Oh!
+
+453
+00:28:09,480 --> 00:28:10,897
+Oh! Brad!
+
+454
+00:28:11,023 --> 00:28:12,712
+It's all right, Janet.
+We'll play along for now
+
+455
+00:28:12,713 --> 00:28:14,401
+and pull out the aces
+when the time's right.
+
+456
+00:28:14,485 --> 00:28:15,527
+Oh. Oh!
+
+457
+00:28:15,611 --> 00:28:20,448
+Oh. Slowly, slowly.
+It's too nice a job to rush.
+
+458
+00:28:20,575 --> 00:28:25,662
+- Hi. My name's Brad Majors, and this is
+my fiancée, Janet Weiss. - [Murmurs]
+
+459
+00:28:29,375 --> 00:28:30,834
+Uh, you are...
+
+460
+00:28:30,918 --> 00:28:34,588
+You're very lucky to be invited
+up to Frank's laboratory.
+
+461
+00:28:34,672 --> 00:28:38,383
+Some people would give
+their right arm for the privilege.
+
+462
+00:28:38,509 --> 00:28:40,719
+- People like you maybe?
+- Hah!
+
+463
+00:28:40,803 --> 00:28:43,388
+- I've seen it.
+- Oh!
+
+464
+00:28:43,514 --> 00:28:46,975
+[Magenta] Uh-huh.
+<i>[Clock Chiming]</i>
+
+465
+00:28:47,059 --> 00:28:50,186
+<i>[Magenta] Come along. The master
+doesn't like to be kept waiting.</i>
+
+466
+00:28:51,188 --> 00:28:53,315
+<i>Shift it!</i>
+
+467
+00:28:56,110 --> 00:28:57,986
+<i>[Bottle Shatters]</i>
+
+468
+00:29:08,748 --> 00:29:11,124
+[Janet] Is he, um... Frank, I mean.
+Is he your husband?
+
+469
+00:29:11,208 --> 00:29:12,917
+[Magenta Laughs]
+
+470
+00:29:13,002 --> 00:29:16,588
+The master is not yet married.
+Nor do I think he ever will be.
+
+471
+00:29:16,672 --> 00:29:19,341
+- We are simply his servants.
+- Oh.
+
+472
+00:30:03,969 --> 00:30:06,471
+[Frank]
+Magenta.
+
+473
+00:30:06,555 --> 00:30:08,598
+Columbia.
+
+474
+00:30:08,683 --> 00:30:10,684
+Go and assist Riff Raff.
+
+475
+00:30:12,311 --> 00:30:17,732
+I will entertain, um...
+[Chuckles]
+
+476
+00:30:19,568 --> 00:30:22,862
+Brad Majors.
+This is my fiancée, Janet Vice.
+
+477
+00:30:22,947 --> 00:30:25,156
+- Weiss.
+- Weiss. [Clears Throat]
+
+478
+00:30:26,158 --> 00:30:29,953
+- Mmm! <i>Enchanté.</i>
+- [Giggles]
+
+479
+00:30:30,037 --> 00:30:32,622
+Well, how nice.
+
+480
+00:30:32,748 --> 00:30:36,000
+And what charming underclothes
+you both have. <i>[Guests Chortle]</i>
+
+481
+00:30:36,085 --> 00:30:39,671
+But here, put these on.
+
+482
+00:30:39,755 --> 00:30:43,299
+They'll make you feel
+less, uh, vulnerable.
+
+483
+00:30:43,384 --> 00:30:44,843
+[Chuckling]
+
+484
+00:30:44,927 --> 00:30:47,178
+<i>It's not often
+we receive visitors here,</i>
+
+485
+00:30:47,263 --> 00:30:50,348
+let alone offer them hospitality.
+
+486
+00:30:50,433 --> 00:30:55,061
+Hospitality? All we wanted to do
+was to use your telephone. Goddamn it!
+
+487
+00:30:55,146 --> 00:30:57,564
+A reasonable request
+which you've chosen to ignore!
+
+488
+00:30:57,648 --> 00:31:00,275
+- Brad, don't be ungrateful.
+- Ungrateful?
+
+489
+00:31:01,527 --> 00:31:04,362
+How forceful you are, Brad.
+
+490
+00:31:04,447 --> 00:31:08,783
+Such a perfect specimen
+of manhood... so dominant.
+
+491
+00:31:08,868 --> 00:31:10,785
+<i>[Guests Exclaim, Giggle]</i>
+
+492
+00:31:12,371 --> 00:31:15,165
+You must be awfully
+proud of him, Janet.
+
+493
+00:31:15,249 --> 00:31:17,959
+Well, yes, I am.
+
+494
+00:31:18,043 --> 00:31:19,586
+[Both Chuckling]
+
+495
+00:31:19,712 --> 00:31:23,006
+- Do you have any tattoos, Brad?
+- Certainly not.
+
+496
+00:31:23,090 --> 00:31:24,507
+Oh, well.
+
+497
+00:31:24,633 --> 00:31:26,468
+- How about you?
+- [Giggling]
+
+498
+00:31:26,552 --> 00:31:28,887
+Everything is in readiness, master.
+
+499
+00:31:28,971 --> 00:31:31,848
+We merely await your word.
+
+500
+00:31:40,316 --> 00:31:45,695
+- Tonight, my unconventional
+conventionists... - [All Chuckling]
+
+501
+00:31:45,780 --> 00:31:51,701
+<i>you are to witness a new breakthrough
+in biochemical research.</i>
+
+502
+00:31:51,786 --> 00:31:55,914
+And paradise is to be mine!
+
+503
+00:31:55,998 --> 00:31:58,500
+[All Exclaiming]
+
+504
+00:32:00,252 --> 00:32:03,004
+[On P.A.]
+It was strange the way it happened.
+
+505
+00:32:03,088 --> 00:32:07,050
+Suddenly, you get a break.
+
+506
+00:32:08,969 --> 00:32:11,721
+All the pieces seem to fit into place.
+
+507
+00:32:12,723 --> 00:32:16,559
+What a sucker you've been.
+What a fool.
+
+508
+00:32:16,644 --> 00:32:19,604
+The answer was there all the time.
+
+509
+00:32:19,688 --> 00:32:23,733
+It took a small accident
+to make it happen.
+
+510
+00:32:25,069 --> 00:32:27,779
+- An accident!
+- [Magenta, Columbia] Accident!
+
+511
+00:32:27,863 --> 00:32:30,281
+<i>And that's how I discovered
+the secret.</i>
+
+512
+00:32:31,659 --> 00:32:34,410
+That elusive ingredient.
+
+513
+00:32:34,495 --> 00:32:37,121
+That spark...
+
+514
+00:32:37,206 --> 00:32:39,749
+that is the breath of life.
+
+515
+00:32:42,795 --> 00:32:44,712
+Yes.
+
+516
+00:32:45,840 --> 00:32:48,883
+I have that knowledge.
+
+517
+00:32:50,177 --> 00:32:52,720
+I hold the secret...
+
+518
+00:32:52,805 --> 00:32:55,348
+to life itself!
+
+519
+00:32:55,432 --> 00:32:58,226
+<i>[Guests Applauding, Cheering]</i>
+
+520
+00:33:00,062 --> 00:33:02,480
+[Exclaims]
+
+521
+00:33:02,565 --> 00:33:04,941
+[Cheering, Applauding]
+
+522
+00:33:05,025 --> 00:33:08,027
+[Noisemakers Tooting, Rattling]
+
+523
+00:33:11,365 --> 00:33:15,285
+You see, you are fortunate.
+
+524
+00:33:15,369 --> 00:33:18,705
+For tonight is the night...
+
+525
+00:33:18,789 --> 00:33:23,918
+that my beautiful creature
+is destined to be born!
+
+526
+00:33:24,044 --> 00:33:28,047
+[Cheering]
+[Noisemakers Tooting, Rattling]
+
+527
+00:33:34,805 --> 00:33:37,307
+<i>## [Drumroll]</i>
+
+528
+00:33:48,819 --> 00:33:50,737
+Hoopla!
+
+529
+00:33:50,821 --> 00:33:53,823
+<i>[Guests Gasping]</i>
+
+530
+00:34:02,124 --> 00:34:05,793
+Throw open the switches
+on the sonic oscillator.
+
+531
+00:34:11,008 --> 00:34:14,719
+And step up the reactor power input...
+
+532
+00:34:14,803 --> 00:34:17,639
+<i>three more points!</i>
+
+533
+00:34:19,224 --> 00:34:22,185
+<i>[Electricity Crackling]</i>
+
+534
+00:34:30,444 --> 00:34:32,362
+[Strains, Grunts]
+
+535
+00:34:36,700 --> 00:34:37,992
+[Gasps]
+
+536
+00:34:39,286 --> 00:34:41,621
+Oh, Brad!
+
+537
+00:34:41,705 --> 00:34:43,831
+It's all right, Janet.
+
+538
+00:34:49,046 --> 00:34:51,506
+[Laughing]
+
+539
+00:34:51,590 --> 00:34:54,759
+[Exclaims, Laughing]
+
+540
+00:34:55,886 --> 00:34:57,845
+Oh!
+
+541
+00:35:00,933 --> 00:35:02,350
+<i>[Guests Gasping]</i>
+
+542
+00:35:11,568 --> 00:35:13,528
+[Gushes]
+
+543
+00:35:17,908 --> 00:35:19,867
+[Panting]
+
+544
+00:35:19,952 --> 00:35:22,954
+<i>[Electronic Squealing]</i>
+
+545
+00:35:28,585 --> 00:35:31,629
+[Laughing Maniacally]
+
+546
+00:35:31,714 --> 00:35:34,716
+<i>[Machines Squealing, Buzzing]</i>
+
+547
+00:35:42,391 --> 00:35:44,934
+<i>[High-pitched Whine]</i>
+
+548
+00:35:45,019 --> 00:35:48,021
+<i>[Whine Intensifies]</i>
+
+549
+00:35:57,656 --> 00:36:01,868
+<i>[Loud Whooshing]</i>
+
+550
+00:36:18,218 --> 00:36:21,721
+<i>[Guests Applauding, Cheering]</i>
+
+551
+00:36:29,521 --> 00:36:33,024
+[Gasps]
+Oh, Rocky!
+
+552
+00:36:33,233 --> 00:36:36,402
+- [Growls]
+- [Cackling]
+
+553
+00:36:38,197 --> 00:36:42,992
+# The sword of Damocles
+is hangin' over my head #
+
+554
+00:36:44,495 --> 00:36:48,122
+# And I've got the feeling someone's
+gonna be cuttin' the thread #
+
+555
+00:36:48,207 --> 00:36:50,416
+You idiot!
+
+556
+00:36:50,501 --> 00:36:54,045
+<i># Oh, woe is me #</i>
+
+557
+00:36:54,129 --> 00:36:56,964
+# My life is a misery #
+
+558
+00:36:57,049 --> 00:36:59,717
+<i># Oh-oh, can't you see #</i>
+
+559
+00:36:59,802 --> 00:37:02,637
+<i># That I'm at the start
+of a pretty big downer #</i>
+
+560
+00:37:05,808 --> 00:37:09,143
+# I woke up this mornin' with a start
+when I fell out of bed #
+
+561
+00:37:09,228 --> 00:37:11,854
+# That ain't no crime #
+
+562
+00:37:11,939 --> 00:37:15,274
+# And left from my dreaming
+was a feeling of unnameable dread #
+
+563
+00:37:15,359 --> 00:37:17,860
+# That ain't no crime #
+
+564
+00:37:17,945 --> 00:37:20,655
+<i># My high is low #</i>
+
+565
+00:37:20,739 --> 00:37:23,783
+# I'm dressed up with no place to go #
+
+566
+00:37:23,867 --> 00:37:26,911
+# And all I know #
+
+567
+00:37:26,995 --> 00:37:29,122
+# Is I'm at the start
+of a pretty big downer #
+
+568
+00:37:29,206 --> 00:37:31,082
+[Frank]
+Oh, Rocky!
+
+569
+00:37:31,166 --> 00:37:33,501
+# Oh, no #
+
+570
+00:37:33,627 --> 00:37:36,212
+- # Sha-la, la-la That ain't no crime #
+- <i># Oh, no, no, no #</i>
+
+571
+00:37:36,338 --> 00:37:39,841
+- # Sha-la, la-la That ain't no crime #
+- # Oh, no, no, no #
+
+572
+00:37:39,925 --> 00:37:41,592
+# Sha-la, la-la
+That ain't no crime #
+
+573
+00:37:41,677 --> 00:37:43,803
+<i># That ain't no crime #</i>
+
+574
+00:37:45,139 --> 00:37:48,599
+- # The sword of Damocles
+is hangin' over my head # - Oh, really!
+
+575
+00:37:48,684 --> 00:37:50,935
+# That ain't no crime #
+
+576
+00:37:51,019 --> 00:37:54,480
+# And I've got the feeling someone's
+gonna be cuttin' the thread #
+
+577
+00:37:54,565 --> 00:37:57,275
+<i># That ain't no crime #</i>
+
+578
+00:37:57,359 --> 00:38:00,444
+# Oh, woe is me #
+
+579
+00:38:00,529 --> 00:38:02,905
+# My life is a mystery #
+
+580
+00:38:02,990 --> 00:38:06,492
+# And can't you see #
+
+581
+00:38:06,577 --> 00:38:10,913
+# That I'm at the start
+of a pretty big downer #
+
+582
+00:38:10,998 --> 00:38:12,415
+[Sobbing]
+
+583
+00:38:12,499 --> 00:38:15,418
+- # Sha-la, la-la That ain't no crime #
+- <i># Oh, no, no, no #</i>
+
+584
+00:38:15,502 --> 00:38:18,546
+<i># Sha-la, la-la
+That ain't no crime, oh, no #</i>
+
+585
+00:38:18,630 --> 00:38:21,132
+<i># Sha-la, la-la
+That ain't no crime #</i>
+
+586
+00:38:21,216 --> 00:38:23,634
+# Ain't no crime #
+[Gushing, Sobbing]
+
+587
+00:38:23,719 --> 00:38:30,641
+- # Sha-la, la-la That ain't no crime #
+- # Oh, no, no, no #
+
+588
+00:38:30,726 --> 00:38:32,727
+<i>- # Sha-la, la-la That ain't no crime #
+- # Oh, no, no, no #</i>
+
+589
+00:38:32,811 --> 00:38:36,189
+# Ain't no crime
+Sha-la-la ##
+
+590
+00:38:36,398 --> 00:38:38,524
+- [All] Mmm!
+- <i>[Frank] Well, really!</i>
+
+591
+00:38:39,610 --> 00:38:42,403
+That's no way to behave
+on your first day out.
+
+592
+00:38:44,072 --> 00:38:46,199
+[Whimpers]
+
+593
+00:38:46,283 --> 00:38:51,037
+But, um, since you're such
+an exceptional beauty,
+
+594
+00:38:51,121 --> 00:38:53,080
+I'm prepared to forgive you.
+
+595
+00:38:54,750 --> 00:38:56,709
+Ooh!
+
+596
+00:38:56,793 --> 00:38:58,961
+<i>[Guests Exclaiming, Applauding]</i>
+
+597
+00:38:59,046 --> 00:39:01,088
+Oh, I just love success!
+
+598
+00:39:01,215 --> 00:39:03,591
+- He's a credit to your genius, master.
+- Yes.
+
+599
+00:39:03,717 --> 00:39:05,843
+- A triumph of your will.
+- Yes.
+
+600
+00:39:05,928 --> 00:39:07,428
+He's okay.
+
+601
+00:39:11,683 --> 00:39:13,184
+"Okay"?
+
+602
+00:39:15,646 --> 00:39:16,979
+"Okay"?
+
+603
+00:39:18,774 --> 00:39:21,442
+I think we can do
+better than that.
+
+604
+00:39:21,526 --> 00:39:23,527
+Come on.
+
+605
+00:39:25,697 --> 00:39:28,324
+Now, Brad and Janet,
+
+606
+00:39:28,408 --> 00:39:30,201
+what do you think of him?
+
+607
+00:39:30,285 --> 00:39:32,870
+Oh. Well,
+
+608
+00:39:32,955 --> 00:39:35,623
+I don't like men
+with too many muscles.
+
+609
+00:39:35,707 --> 00:39:37,708
+[Guests Chuckling]
+
+610
+00:39:37,793 --> 00:39:40,294
+- I didn't make him for you!
+- [Gasps]
+
+611
+00:39:41,463 --> 00:39:45,007
+He carries the Charles Atlas
+seal of approval.
+
+612
+00:39:45,217 --> 00:39:47,635
+[Murmuring, Laughing]
+
+613
+00:39:50,013 --> 00:39:53,099
+<i>## [Piano Fanfare]</i>
+
+614
+00:39:56,228 --> 00:40:00,898
+<i># A weakling
+weighing 98 pounds #</i>
+
+615
+00:40:01,942 --> 00:40:04,860
+# Will get sand in his face #
+
+616
+00:40:04,945 --> 00:40:07,446
+# When kicked to the ground #
+
+617
+00:40:07,531 --> 00:40:08,948
+[Chuckling]
+
+618
+00:40:09,032 --> 00:40:12,118
+<i># And soon in the gym #</i>
+
+619
+00:40:12,202 --> 00:40:14,495
+# With a determined chin #
+
+620
+00:40:15,664 --> 00:40:17,748
+# The sweat from his pores #
+
+621
+00:40:17,833 --> 00:40:23,838
+<i># As he works for his cause #</i>
+
+622
+00:40:24,881 --> 00:40:27,049
+# Will make him glisten #
+
+623
+00:40:28,427 --> 00:40:30,678
+# And gleam #
+
+624
+00:40:30,762 --> 00:40:33,556
+# And with massage #
+
+625
+00:40:33,640 --> 00:40:40,813
+# And just a little bit of steam #
+
+626
+00:40:40,897 --> 00:40:42,982
+[Gushing]
+
+627
+00:40:43,066 --> 00:40:45,901
+# He'll be pink #
+
+628
+00:40:45,986 --> 00:40:48,779
+# And quite clean #
+
+629
+00:40:48,864 --> 00:40:53,200
+# He'll be a strong man #
+
+630
+00:40:54,202 --> 00:41:00,374
+- # Oh, honey, but the wrong man #
+- <i>[Chorus] # But the wrong man #</i>
+
+631
+00:41:00,459 --> 00:41:04,337
+# He'll eat nutritious high protein #
+
+632
+00:41:04,421 --> 00:41:06,964
+# And swallow raw eggs #
+
+633
+00:41:07,049 --> 00:41:09,091
+# Try to build up his shoulders #
+
+634
+00:41:09,176 --> 00:41:12,386
+# His chest, arms and legs #
+
+635
+00:41:12,471 --> 00:41:17,183
+# Such an effort
+If he only knew of my plan #
+
+636
+00:41:17,267 --> 00:41:20,936
+# In just seven days #
+
+637
+00:41:21,063 --> 00:41:27,610
+- # I can make you a man #
+- # I can make you a man #
+
+638
+00:41:28,612 --> 00:41:31,238
+# He'll do press-ups and chin-ups #
+
+639
+00:41:31,323 --> 00:41:33,532
+# Do the snatch, clean and jerk #
+
+640
+00:41:34,618 --> 00:41:37,286
+# He thinks dynamic tension #
+
+641
+00:41:37,371 --> 00:41:39,914
+# Must be hard work #
+
+642
+00:41:39,998 --> 00:41:41,957
+# Such strenuous living #
+
+643
+00:41:42,042 --> 00:41:44,502
+# I just don't understand #
+
+644
+00:41:44,586 --> 00:41:49,173
+# When in just seven days
+oh, baby #
+
+645
+00:41:49,257 --> 00:41:57,014
+# I can make you a man #
+[Gushing]
+
+646
+00:41:57,224 --> 00:42:00,059
+[Beeping]
+
+647
+00:42:00,143 --> 00:42:03,979
+- Ahh! Who? Wha...
+- Eddie!
+
+648
+00:42:04,064 --> 00:42:05,981
+[Screaming]
+
+649
+00:42:11,279 --> 00:42:13,447
+<i>[Guests Screaming]</i>
+
+650
+00:42:14,866 --> 00:42:17,410
+[Engine Stops]
+
+651
+00:42:17,494 --> 00:42:19,620
+<i>## [Rock And Roll]</i>
+
+652
+00:42:21,164 --> 00:42:23,124
+Whoo!
+
+653
+00:42:23,917 --> 00:42:26,961
+# Whatever happened
+to Saturday night #
+
+654
+00:42:27,045 --> 00:42:29,171
+# When you dressed up sharp
+and you felt all right #
+
+655
+00:42:29,256 --> 00:42:32,383
+# It don't seem the same
+since cosmic light #
+
+656
+00:42:32,467 --> 00:42:34,218
+# Came into my life #
+
+657
+00:42:34,302 --> 00:42:36,262
+# I thought I was divine #
+
+658
+00:42:36,346 --> 00:42:38,639
+# I used to go for a ride
+with a chick who'd go #
+
+659
+00:42:38,723 --> 00:42:41,642
+# And listen to the music
+on the radio #
+
+660
+00:42:41,726 --> 00:42:44,395
+# A saxophone was blowin'
+on a rock-and-roll show #
+
+661
+00:42:44,479 --> 00:42:49,275
+# We climbed in the back seat
+Really had a good time #
+
+662
+00:42:49,359 --> 00:42:52,153
+# Hot patootie, bless my soul #
+
+663
+00:42:52,237 --> 00:42:54,947
+# I really love that rock and roll #
+
+664
+00:42:55,031 --> 00:42:58,409
+# Hot patootie, bless my soul #
+
+665
+00:42:58,493 --> 00:43:01,370
+# I really love that rock and roll #
+
+666
+00:43:01,455 --> 00:43:04,748
+[All]
+# Hot patootie, bless my soul #
+
+667
+00:43:04,833 --> 00:43:06,542
+# I really love that rock and roll #
+
+668
+00:43:06,626 --> 00:43:10,254
+# Hot patootie, bless my soul #
+
+669
+00:43:10,338 --> 00:43:12,465
+# I really love that rock and roll #
+
+670
+00:43:20,098 --> 00:43:21,724
+Lovely party.
+
+671
+00:43:27,647 --> 00:43:30,691
+# My head it used to swim
+from the perfume I smelled #
+
+672
+00:43:30,775 --> 00:43:33,611
+# My hands kind of fumbled
+with her white plastic belt #
+
+673
+00:43:33,695 --> 00:43:36,530
+# I'd taste her baby pink lipstick
+and that's when I'd melt #
+
+674
+00:43:36,615 --> 00:43:39,783
+# She'd whisper in my ear
+tonight she really was mine #
+
+675
+00:43:39,868 --> 00:43:42,119
+# Get back in front
+and put some hair oil on #
+
+676
+00:43:42,204 --> 00:43:45,039
+# Buddy Holly was singin'
+his very last song #
+
+677
+00:43:45,123 --> 00:43:48,292
+# With your arms around your girl
+you tried to sing along #
+
+678
+00:43:48,376 --> 00:43:49,835
+# It felt pretty good # Whoo!
+
+679
+00:43:49,961 --> 00:43:52,880
+- # Really had a good time #
+- [Squealing]
+
+680
+00:43:52,964 --> 00:43:56,258
+[All]
+# Hot patootie, bless my soul #
+
+681
+00:43:56,343 --> 00:43:58,302
+# I really love that rock and roll #
+
+682
+00:43:58,386 --> 00:44:01,680
+# Hot patootie, bless my soul #
+
+683
+00:44:01,765 --> 00:44:04,642
+# I really love that rock and roll #
+
+684
+00:44:04,726 --> 00:44:07,811
+# Hot patootie, bless my soul #
+
+685
+00:44:07,896 --> 00:44:10,689
+# I really love that rock and roll #
+
+686
+00:44:10,774 --> 00:44:13,567
+<i># Hot patootie, bless my soul #</i>
+
+687
+00:44:13,652 --> 00:44:16,070
+# I really love that rock and roll #
+
+688
+00:44:23,286 --> 00:44:25,454
+Huh? Where are you going?
+
+689
+00:44:28,750 --> 00:44:31,001
+<i># Hot patootie, bless my soul #</i>
+
+690
+00:44:31,086 --> 00:44:34,088
+# I really love that rock and roll #
+
+691
+00:44:34,172 --> 00:44:37,466
+# Hot patootie, bless my soul #
+
+692
+00:44:37,551 --> 00:44:39,969
+# I really love that rock and roll #
+
+693
+00:44:40,053 --> 00:44:42,346
+<i># Hot patootie, bless my soul #</i>
+
+694
+00:44:42,430 --> 00:44:45,641
+# I really love that rock and roll #
+
+695
+00:44:45,725 --> 00:44:48,310
+# Hot patootie, bless my soul #
+
+696
+00:44:48,395 --> 00:44:51,313
+<i># I really love that rock and roll #</i>
+
+697
+00:44:51,398 --> 00:44:54,316
+<i># Hot patootie, bless my soul #</i>
+
+698
+00:44:54,401 --> 00:44:56,860
+# I really love that rock and roll #
+
+699
+00:44:56,945 --> 00:44:59,863
+<i># Hot patootie, bless my soul #</i>
+
+700
+00:44:59,948 --> 00:45:02,992
+# I really love that rock and roll #
+
+701
+00:45:03,076 --> 00:45:05,869
+<i># Hot patootie, bless my soul #</i>
+
+702
+00:45:05,954 --> 00:45:08,747
+# I really love that rock and roll #
+
+703
+00:45:08,832 --> 00:45:11,584
+# Hot patootie, bless my soul #
+
+704
+00:45:11,668 --> 00:45:14,837
+# I really love that rock and roll ##
+
+705
+00:45:18,258 --> 00:45:21,677
+- [Screaming]
+- [Shouting]
+
+706
+00:45:24,014 --> 00:45:25,806
+<i>[People Screaming]</i>
+
+707
+00:45:27,892 --> 00:45:32,563
+- [Shrieking]
+- [Screaming] No!
+
+708
+00:45:32,647 --> 00:45:34,565
+<i>[Hacking]</i>
+
+709
+00:45:34,649 --> 00:45:37,651
+<i>[Columbia Screaming, Sobbing]</i>
+
+710
+00:45:46,494 --> 00:45:49,747
+One from the vaults.
+<i>[Guests Chuckling]</i>
+
+711
+00:45:56,004 --> 00:45:57,338
+<i>[Bars Rattling]</i>
+
+712
+00:45:59,007 --> 00:46:00,966
+Oh, baby!
+
+713
+00:46:08,725 --> 00:46:10,684
+Don't be upset.
+
+714
+00:46:12,854 --> 00:46:15,689
+It was a mercy killing.
+
+715
+00:46:15,774 --> 00:46:19,401
+He had a certain naive charm...
+
+716
+00:46:19,486 --> 00:46:21,737
+but no muscle.
+
+717
+00:46:22,906 --> 00:46:24,281
+[Squeals]
+
+718
+00:46:24,366 --> 00:46:27,201
+# But a deltoid #
+
+719
+00:46:27,285 --> 00:46:30,537
+# And a bicep #
+
+720
+00:46:30,622 --> 00:46:35,709
+# A hot groin and a tricep #
+
+721
+00:46:35,794 --> 00:46:39,213
+# Makes me #
+[Gushes]
+
+722
+00:46:39,297 --> 00:46:40,673
+# Shake #
+
+723
+00:46:40,757 --> 00:46:44,635
+# Makes me want to take
+Charles Atlas #
+
+724
+00:46:44,719 --> 00:46:47,638
+# By the hand #
+
+725
+00:46:47,722 --> 00:46:51,016
+# In just seven days
+oh, baby #
+
+726
+00:46:51,101 --> 00:46:57,523
+# I can make you a man #
+
+727
+00:46:59,401 --> 00:47:03,404
+# I don't want no dissension #
+
+728
+00:47:05,031 --> 00:47:09,410
+# Just dynamic tension #
+
+729
+00:47:10,954 --> 00:47:15,541
+# I'm a muscle fan #
+
+730
+00:47:15,625 --> 00:47:18,961
+<i>[Frank]
+# In just seven days #</i>
+
+731
+00:47:19,045 --> 00:47:25,008
+# I can make you a man #
+
+732
+00:47:25,093 --> 00:47:27,344
+# Dig it if you #
+
+733
+00:47:27,429 --> 00:47:29,388
+# Can #
+
+734
+00:47:29,764 --> 00:47:33,183
+# In just seven days #
+
+735
+00:47:33,268 --> 00:47:37,187
+# I can make you a man ##
+
+736
+00:47:37,272 --> 00:47:40,441
+<i>[Electronic: "Wedding March"]</i>
+
+737
+00:47:49,325 --> 00:47:51,785
+[Guests Chanting]
+Rocky, Rocky, rah, rah, rah!
+
+738
+00:47:51,870 --> 00:47:59,001
+Rocky, Rocky, rah, rah, rah!
+
+739
+00:48:09,888 --> 00:48:13,891
+There are those who say
+that life is an illusion...
+
+740
+00:48:13,975 --> 00:48:17,227
+and that reality is simply
+a figment of the imagination.
+
+741
+00:48:18,480 --> 00:48:21,440
+If this is so, then
+Brad and Janet are quite safe.
+
+742
+00:48:23,109 --> 00:48:27,321
+However, the sudden departure
+of their host...
+
+743
+00:48:27,405 --> 00:48:30,449
+and his creation...
+
+744
+00:48:30,533 --> 00:48:33,786
+into the seclusion
+of his somber bridal suite...
+
+745
+00:48:33,870 --> 00:48:39,041
+had left them feeling
+both apprehensive and uneasy.
+
+746
+00:48:39,125 --> 00:48:42,878
+A feeling which grew
+as the other guests departed...
+
+747
+00:48:42,962 --> 00:48:46,799
+and they were shown
+to their separate rooms.
+
+748
+00:48:55,141 --> 00:48:57,518
+[Clatters, Water Sloshes]
+
+749
+00:49:02,774 --> 00:49:05,776
+[Both Chortling]
+
+750
+00:49:19,916 --> 00:49:21,834
+[Chuckling]
+
+751
+00:49:22,043 --> 00:49:23,252
+<i>[Wolf Howls]</i>
+
+752
+00:49:23,378 --> 00:49:25,337
+<i>[Knocking]</i>
+[Gasps]
+
+753
+00:49:25,421 --> 00:49:27,506
+Who is it? Who's there?
+
+754
+00:49:31,427 --> 00:49:33,804
+- [Brad] It's only me, Janet.
+- Oh.
+
+755
+00:49:33,888 --> 00:49:35,889
+Brad, darling, come in.
+
+756
+00:49:37,851 --> 00:49:39,518
+- Mmm!
+- Oh, Brad!
+
+757
+00:49:39,602 --> 00:49:41,687
+[Both Moaning]
+
+758
+00:49:41,771 --> 00:49:43,814
+Yes, my darling!
+Oh, but what if...
+
+759
+00:49:43,898 --> 00:49:46,066
+It's all right, Janet.
+Everything's going to be all right.
+
+760
+00:49:46,150 --> 00:49:49,695
+Oh, I hope so, my darling.
+<i>[Wolf Howls]</i>
+
+761
+00:49:49,779 --> 00:49:51,947
+[Yelping, Screaming]
+
+762
+00:49:52,073 --> 00:49:55,117
+- Oh! It's you!
+- [Frank] I'm afraid so, Janet.
+
+763
+00:49:55,201 --> 00:49:57,119
+- But isn't it nice?
+- Oh!
+
+764
+00:49:57,203 --> 00:50:01,415
+Oh, you beast! You monster!
+What have you done with Brad?
+
+765
+00:50:01,499 --> 00:50:04,459
+Well, nothing.
+Why, do you think I should?
+
+766
+00:50:04,544 --> 00:50:08,338
+You tricked me! I wouldn't have.
+I've never, never...
+
+767
+00:50:08,464 --> 00:50:10,799
+- [Crying]
+- Yes. Yes, I know.
+
+768
+00:50:10,884 --> 00:50:12,885
+But it isn't all bad, is it?
+
+769
+00:50:14,012 --> 00:50:16,763
+I think you really will
+find it quite pleasurable.
+
+770
+00:50:16,848 --> 00:50:18,181
+[Both Moaning]
+
+771
+00:50:18,308 --> 00:50:20,893
+- So soft, so sensual.
+- Stop. I mean, help!
+
+772
+00:50:20,977 --> 00:50:23,854
+- Oh, Brad. Oh, Brad!
+- Shh.
+
+773
+00:50:23,938 --> 00:50:25,939
+Brad's probably asleep by now.
+
+774
+00:50:26,024 --> 00:50:27,691
+Do you want him to see you
+like this?
+
+775
+00:50:27,775 --> 00:50:31,778
+Oh! Like this? Like how?
+It's your fault! You're to blame!
+
+776
+00:50:31,863 --> 00:50:33,864
+[Sighs]
+I was saving myself.
+
+777
+00:50:33,948 --> 00:50:38,368
+[Chuckling] Well, I'm sure
+you're not spent yet.
+
+778
+00:50:38,453 --> 00:50:39,870
+<i>[Wolf Howling]</i>
+
+779
+00:50:39,954 --> 00:50:41,788
+Promise you won't tell Brad?
+
+780
+00:50:41,873 --> 00:50:45,459
+Cross my heart
+and hope to die.
+
+781
+00:50:45,543 --> 00:50:49,755
+[Moaning, Laughing]
+
+782
+00:50:49,839 --> 00:50:51,298
+<i>[Both Laughing]</i>
+
+783
+00:51:35,677 --> 00:51:38,804
+- [Sizzles]
+- [Gasps]
+
+784
+00:51:38,888 --> 00:51:40,764
+[Hissing]
+
+785
+00:51:40,848 --> 00:51:43,600
+[Whimpering]
+
+786
+00:51:43,685 --> 00:51:45,227
+[Chortling]
+
+787
+00:51:47,563 --> 00:51:50,023
+[Laughing]
+
+788
+00:51:50,108 --> 00:51:51,900
+[Straining, Grunting]
+
+789
+00:51:51,985 --> 00:51:52,859
+[Hissing]
+
+790
+00:51:52,944 --> 00:51:55,237
+[Grunts]
+
+791
+00:51:56,322 --> 00:51:58,824
+<i>[Laughing]</i>
+
+792
+00:52:24,058 --> 00:52:27,936
+- [Sucking]
+- [Gasps]
+
+793
+00:52:35,611 --> 00:52:38,822
+[Janet] Oh, Brad, darling,
+it's no good here!
+
+794
+00:52:38,906 --> 00:52:40,240
+It'll destroy us.
+
+795
+00:52:40,324 --> 00:52:44,077
+Don't worry, Janet.
+We'll be away from here in the morning.
+
+796
+00:52:44,162 --> 00:52:46,747
+Oh, Brad, you're so strong
+and protective.
+
+797
+00:52:46,831 --> 00:52:49,499
+[Both Chuckling, Moaning]
+
+798
+00:52:49,584 --> 00:52:51,501
+Wha...
+
+799
+00:52:51,586 --> 00:52:53,086
+You!
+
+800
+00:52:53,171 --> 00:52:56,173
+[Frank] I'm afraid so, Brad.
+But isn't it nice?
+
+801
+00:52:56,257 --> 00:52:59,509
+Why, you...
+What have you done with Janet?
+
+802
+00:52:59,594 --> 00:53:02,220
+Nothing.
+Why, do you think I should?
+
+803
+00:53:02,305 --> 00:53:07,142
+You tricked me. I wouldn't have.
+I've never, never. Never!
+
+804
+00:53:07,226 --> 00:53:10,062
+Yes, I know.
+But it isn't all bad, is it?
+
+805
+00:53:10,146 --> 00:53:14,107
+Not even half bad.
+I think you'll really quite enjoy it.
+
+806
+00:53:14,192 --> 00:53:15,484
+[Brad Moaning]
+
+807
+00:53:15,610 --> 00:53:18,361
+- So soft. So sensual.
+- No, stop, stop. No.
+
+808
+00:53:18,446 --> 00:53:20,864
+Oh, Janet.
+[Moaning]
+
+809
+00:53:20,948 --> 00:53:22,699
+- Janet!
+- Shh!
+
+810
+00:53:22,784 --> 00:53:27,120
+Janet's probably asleep by now.
+Do you want her to see you like this?
+
+811
+00:53:27,205 --> 00:53:31,291
+Like this? Like how?
+It's your fault! You're to blame.
+
+812
+00:53:31,375 --> 00:53:33,752
+I thought it was the real thing!
+
+813
+00:53:33,836 --> 00:53:37,756
+Oh, come on, Brad, admit it.
+You liked it, didn't you?
+
+814
+00:53:37,840 --> 00:53:41,343
+There's no crime in giving yourself
+over to pleasure.
+
+815
+00:53:41,427 --> 00:53:45,472
+Oh, Brad, you've wasted
+so much time already.
+
+816
+00:53:45,556 --> 00:53:48,475
+Janet needn't know.
+I won't tell her.
+
+817
+00:53:49,894 --> 00:53:51,895
+You promise you won't tell?
+
+818
+00:53:53,022 --> 00:53:55,398
+[Moaning]
+On my mother's grave.
+
+819
+00:53:55,483 --> 00:53:56,399
+<i>[Device Beeping]</i>
+
+820
+00:53:56,484 --> 00:54:00,445
+<i>Master, Rocky has broken his chains
+and vanished.</i>
+
+821
+00:54:00,530 --> 00:54:04,533
+The new playmate is loose
+and somewhere in the castle grounds.
+
+822
+00:54:04,659 --> 00:54:08,120
+Magenta has just released the dogs.
+<i>[Dogs Barking]</i>
+
+823
+00:54:08,204 --> 00:54:10,247
+Hmm? Oh.
+
+824
+00:54:10,373 --> 00:54:15,001
+- Coming! [Chuckling]
+- Oh!
+
+825
+00:54:16,170 --> 00:54:20,090
+What is happening here?
+Where's Brad?
+
+826
+00:54:20,174 --> 00:54:22,926
+Where's anybody?
+
+827
+00:54:23,010 --> 00:54:25,512
+<i>[Dogs Barking]</i>
+
+828
+00:54:26,681 --> 00:54:30,559
+[Rocky Whimpering]
+
+829
+00:54:30,643 --> 00:54:33,687
+Oh, Brad!
+
+830
+00:54:33,771 --> 00:54:38,608
+Brad, my darling. Oh!
+How could I have done this to you?
+
+831
+00:54:50,538 --> 00:54:53,707
+Oh! If only we hadn't
+made this journey.
+
+832
+00:54:53,791 --> 00:54:57,294
+If only the car hadn't broken down.
+
+833
+00:54:57,378 --> 00:55:01,464
+Oh! If only we were
+amongst friends...
+
+834
+00:55:01,549 --> 00:55:03,466
+or sane persons.
+
+835
+00:55:03,551 --> 00:55:06,344
+Oh, Brad.
+
+836
+00:55:09,223 --> 00:55:11,183
+What have they done with him?
+
+837
+00:55:13,895 --> 00:55:16,855
+<i>Brad.</i>
+
+838
+00:55:16,939 --> 00:55:20,025
+Oh, Brad! How could you?
+
+839
+00:55:20,109 --> 00:55:23,028
+[Crying]
+
+840
+00:55:23,112 --> 00:55:25,071
+Oh!
+
+841
+00:55:27,992 --> 00:55:30,493
+<i>[Rocky Whimpering]</i>
+
+842
+00:55:33,039 --> 00:55:35,540
+<i>[Whimpering]</i>
+
+843
+00:55:38,419 --> 00:55:40,420
+<i>[Janet Gasps]</i>
+
+844
+00:55:43,883 --> 00:55:46,760
+Oh. But you're hurt.
+
+845
+00:55:48,596 --> 00:55:50,639
+Did they do this to you?
+
+846
+00:55:53,893 --> 00:55:56,061
+Here. I'll dress your wounds.
+
+847
+00:55:57,230 --> 00:55:59,856
+Poor baby, there. Oh.
+
+848
+00:56:11,202 --> 00:56:15,664
+<i>[Criminologist] "Emotion: Agitation
+or disturbance of mind;</i>
+
+849
+00:56:15,748 --> 00:56:19,251
+vehement or excited mental state."
+
+850
+00:56:21,587 --> 00:56:25,715
+It is also a powerful
+and irrational master.
+
+851
+00:56:25,800 --> 00:56:30,470
+And from what Magenta and Columbia
+eagerly viewed on their television monitor,
+
+852
+00:56:30,554 --> 00:56:36,434
+there seemed little doubt
+that Janet was indeed its slave.
+
+853
+00:56:36,519 --> 00:56:39,145
+[Together]
+Tell us about it, Janet.
+
+854
+00:56:39,230 --> 00:56:41,898
+[Both Laughing]
+
+855
+00:56:42,984 --> 00:56:46,111
+# I was feelin' done in #
+
+856
+00:56:47,405 --> 00:56:49,322
+# Couldn't win #
+
+857
+00:56:50,616 --> 00:56:55,912
+# I'd only ever kissed before #
+
+858
+00:56:56,038 --> 00:56:58,581
+- You mean she...
+- Uh-huh.
+
+859
+00:56:58,666 --> 00:57:01,626
+# I thought there's no use getting #
+
+860
+00:57:01,711 --> 00:57:05,088
+# Into heavy petting #
+
+861
+00:57:05,172 --> 00:57:08,174
+# It only leads to trouble #
+
+862
+00:57:08,259 --> 00:57:11,886
+# And seat wetting #
+
+863
+00:57:12,013 --> 00:57:15,890
+- <i># Now all I want to know #</i>
+- [Laughs]
+
+864
+00:57:15,975 --> 00:57:18,560
+# Is how to go #
+
+865
+00:57:18,644 --> 00:57:21,771
+# I've tasted blood
+and I want more #
+
+866
+00:57:21,856 --> 00:57:23,815
+[Together]
+More, more, more.
+
+867
+00:57:23,899 --> 00:57:27,110
+# I'll put up no resistance #
+
+868
+00:57:27,194 --> 00:57:30,196
+# I want to stay the distance #
+
+869
+00:57:30,281 --> 00:57:33,241
+# I've got an itch to scratch #
+
+870
+00:57:33,326 --> 00:57:35,785
+# I need assistance #
+
+871
+00:57:35,870 --> 00:57:38,621
+# Touch-a, touch-a, touch-a
+touch me #
+
+872
+00:57:38,706 --> 00:57:41,374
+# I wanna be dirty #
+
+873
+00:57:41,459 --> 00:57:44,252
+# Thrill me, chill me, fulfill me #
+
+874
+00:57:44,337 --> 00:57:46,880
+<i># Creature of the night #</i>
+
+875
+00:57:51,594 --> 00:57:54,971
+# Then if anything grows #
+[Giggles]
+
+876
+00:57:55,056 --> 00:57:57,599
+# While you pose #
+
+877
+00:57:57,683 --> 00:58:00,935
+# I'll oil you up
+and rub you down #
+
+878
+00:58:01,020 --> 00:58:03,521
+Down, down, down.
+
+879
+00:58:03,606 --> 00:58:06,691
+# And that's just
+one small fraction #
+
+880
+00:58:06,776 --> 00:58:09,611
+# Of the main attraction #
+
+881
+00:58:09,695 --> 00:58:12,197
+# You need a friendly hand #
+
+882
+00:58:12,281 --> 00:58:14,699
+# And I need action #
+
+883
+00:58:14,784 --> 00:58:17,744
+# Touch-a, touch-a, touch-a
+touch me #
+
+884
+00:58:17,828 --> 00:58:20,288
+# I wanna be dirty #
+
+885
+00:58:20,373 --> 00:58:22,999
+# Thrill me, chill me, fulfill me #
+
+886
+00:58:23,084 --> 00:58:25,960
+# Creature of the night #
+
+887
+00:58:26,087 --> 00:58:28,505
+- # Touch-a, touch-a, touch-a touch me #
+- [Laughing]
+
+888
+00:58:28,589 --> 00:58:31,049
+# I wanna be dirty #
+
+889
+00:58:31,133 --> 00:58:34,010
+# Thrill me, chill me, fulfill me #
+
+890
+00:58:34,095 --> 00:58:35,845
+# Creature of the night #
+
+891
+00:58:35,930 --> 00:58:39,808
+Oh! # Touch-a, touch-a, touch-a
+touch me #
+
+892
+00:58:39,892 --> 00:58:42,018
+# I wanna be dirty #
+
+893
+00:58:42,103 --> 00:58:44,938
+- # Thrill me, chill me, fulfill me #
+- [Laughing]
+
+894
+00:58:45,022 --> 00:58:47,649
+# Creature of the night #
+
+895
+00:58:47,733 --> 00:58:50,276
+Creature of the night.
+
+896
+00:58:50,361 --> 00:58:53,029
+Creature of the night?
+
+897
+00:58:53,114 --> 00:58:55,657
+Creature of the night.
+
+898
+00:58:55,741 --> 00:58:58,493
+Creature of the night.
+
+899
+00:58:58,577 --> 00:59:01,121
+Creature of the night.
+
+900
+00:59:01,205 --> 00:59:03,581
+# Creature of the night #
+
+901
+00:59:03,666 --> 00:59:05,291
+Creature of the night.
+
+902
+00:59:06,502 --> 00:59:08,962
+# Creature of the night ##
+[Moans]
+
+903
+00:59:10,297 --> 00:59:12,298
+[Riff Raff Whimpering]
+
+904
+00:59:12,383 --> 00:59:15,051
+[Grunting]
+
+905
+00:59:15,136 --> 00:59:17,470
+Mercy!
+
+906
+00:59:18,931 --> 00:59:22,142
+- [Yelps]
+- How did it happen?
+
+907
+00:59:22,226 --> 00:59:25,186
+I understood
+you were to be watching.
+
+908
+00:59:26,188 --> 00:59:29,524
+I was only away for a minute,
+master.
+
+909
+00:59:29,608 --> 00:59:34,112
+Well, see if you can find him
+on the monitor.
+
+910
+00:59:36,699 --> 00:59:38,825
+[Mutters]
+
+911
+00:59:40,995 --> 00:59:42,954
+<i>[Riff Raff]
+Master.</i>
+
+912
+00:59:43,038 --> 00:59:45,665
+<i>Master, we have a visitor.</i>
+
+913
+00:59:51,505 --> 00:59:52,839
+<i>[Brad]
+Hey! Scotty!</i>
+
+914
+00:59:52,923 --> 00:59:56,217
+[Laughs]
+Dr. Everett Scott.
+
+915
+00:59:56,302 --> 01:00:00,013
+You know this earthling...
+this... person?
+
+916
+01:00:00,097 --> 01:00:04,267
+I most certainly do. He happens
+to be an old friend of mine.
+
+917
+01:00:04,351 --> 01:00:06,769
+I see.
+
+918
+01:00:06,854 --> 01:00:09,522
+So this wasn't simply
+a chance meeting.
+
+919
+01:00:10,524 --> 01:00:12,984
+You came here
+with a purpose.
+
+920
+01:00:13,068 --> 01:00:17,197
+I told you, my car broke down.
+I was telling the truth.
+
+921
+01:00:17,281 --> 01:00:20,074
+I know what you told me, Brad.
+
+922
+01:00:20,159 --> 01:00:25,288
+But this Dr. Everett Scott,
+his name is not unknown to me.
+
+923
+01:00:25,372 --> 01:00:27,749
+He was a science teacher
+at Denton High School.
+
+924
+01:00:27,833 --> 01:00:30,168
+And now he works for your government,
+doesn't he, Brad?
+
+925
+01:00:30,294 --> 01:00:33,755
+- What? - He's attached
+to the Bureau of Investigation...
+
+926
+01:00:33,839 --> 01:00:36,841
+of that which you call U.F.O.'s!
+
+927
+01:00:36,967 --> 01:00:40,386
+- Isn't that right, Brad?
+- He might be. I don't know.
+
+928
+01:00:40,471 --> 01:00:42,847
+The intruder is entering
+the building, master.
+
+929
+01:00:46,435 --> 01:00:50,522
+He'll probably be in...
+in the Zen Room.
+
+930
+01:00:55,236 --> 01:00:57,153
+<i>Ach!</i>
+
+931
+01:00:57,238 --> 01:01:00,740
+Shall we inquire of him in person?
+
+932
+01:01:03,953 --> 01:01:07,038
+[Grunts]
+
+933
+01:01:07,122 --> 01:01:09,916
+[Power Humming]
+
+934
+01:01:10,000 --> 01:01:12,001
+<i>Ach!</i>
+
+935
+01:01:35,192 --> 01:01:36,818
+Great Scott!
+
+936
+01:01:38,571 --> 01:01:41,072
+<i>[Engine Zooming]</i>
+
+937
+01:01:44,535 --> 01:01:47,328
+<i>[Wheels Screeching]</i>
+[Crash]
+
+938
+01:01:48,831 --> 01:01:50,290
+Frank-N-Furter.
+
+939
+01:01:50,374 --> 01:01:52,792
+We meet at last.
+
+940
+01:01:53,961 --> 01:01:56,337
+Dr. Scott!
+
+941
+01:01:56,422 --> 01:01:58,965
+Brad. What are you doing here?
+
+942
+01:02:00,134 --> 01:02:03,136
+Don't play games, Dr. Scott.
+
+943
+01:02:03,220 --> 01:02:06,472
+You know perfectly well
+what Brad Majors is doing here.
+
+944
+01:02:06,557 --> 01:02:08,891
+It was part of your plan, was it not,
+
+945
+01:02:08,976 --> 01:02:12,937
+that he and his female
+should check the layout for you?
+
+946
+01:02:13,022 --> 01:02:18,109
+Well, unfortunately for you all,
+the plans are to be changed.
+
+947
+01:02:19,445 --> 01:02:22,405
+<i>I hope you're adaptable, Dr. Scott.</i>
+
+948
+01:02:22,489 --> 01:02:25,033
+I know Brad is.
+
+949
+01:02:25,159 --> 01:02:29,412
+I can assure you that Brad's presence here
+comes as a complete surprise to me.
+
+950
+01:02:29,496 --> 01:02:31,539
+I came here to find Eddie.
+
+951
+01:02:32,499 --> 01:02:34,751
+- Eddie? I've seen him. He's...
+- Eddie?
+
+952
+01:02:34,835 --> 01:02:36,836
+What do you know of Eddie,
+Dr. Scott?
+
+953
+01:02:37,921 --> 01:02:40,757
+I happen to know a great deal
+about a lot of things.
+
+954
+01:02:40,841 --> 01:02:43,885
+<i>You see, Eddie
+happens to be my nephew.</i>
+
+955
+01:02:43,969 --> 01:02:44,886
+[Gasps]
+
+956
+01:02:44,970 --> 01:02:47,472
+<i>[Rocky Groans]
+[Janet Gasps]</i>
+
+957
+01:02:48,974 --> 01:02:50,975
+Dr. Scott.
+
+958
+01:02:54,521 --> 01:02:56,564
+- Janet!
+- Dr. Scott!
+
+959
+01:02:56,649 --> 01:02:58,107
+- Janet!
+- Brad!
+
+960
+01:02:58,192 --> 01:02:59,442
+Rocky!
+
+961
+01:02:59,526 --> 01:03:01,361
+- Janet!
+- Dr. Scott!
+
+962
+01:03:01,445 --> 01:03:03,029
+- Janet!
+- Brad!
+
+963
+01:03:03,113 --> 01:03:04,447
+Rocky!
+
+964
+01:03:04,531 --> 01:03:05,865
+- Janet!
+- Dr. Scott!
+
+965
+01:03:05,949 --> 01:03:07,033
+- Janet!
+- Brad!
+
+966
+01:03:07,117 --> 01:03:09,369
+Rocky!
+
+967
+01:03:09,453 --> 01:03:12,372
+Listen! I made you,
+
+968
+01:03:12,456 --> 01:03:15,583
+and I can break you just as easily.
+
+969
+01:03:16,752 --> 01:03:18,670
+[Loud Clang]
+
+970
+01:03:18,754 --> 01:03:22,382
+Master! Dinner is prepared!
+
+971
+01:03:24,843 --> 01:03:26,552
+Excellent.
+
+972
+01:03:27,554 --> 01:03:32,016
+<i>Under the circumstances,
+formal dress is to be optional.</i>
+
+973
+01:03:35,062 --> 01:03:39,816
+<i>Food has always played a vital role
+in life's rituals.</i>
+
+974
+01:03:39,900 --> 01:03:44,654
+The breaking of bread, the last meal
+of the condemned man...
+
+975
+01:03:44,738 --> 01:03:48,616
+and now this meal.
+
+976
+01:03:48,701 --> 01:03:51,661
+<i>[Criminologist]
+However informal it might appear,</i>
+
+977
+01:03:51,745 --> 01:03:56,249
+<i>you can be sure there was to be
+very little bonhomie.</i>
+
+978
+01:04:12,933 --> 01:04:14,934
+<i>[Lid Clatters]</i>
+
+979
+01:04:16,437 --> 01:04:18,438
+[Silverware, Glasses Rattle]
+
+980
+01:04:29,491 --> 01:04:31,993
+[Electric Knife Whirring]
+
+981
+01:04:51,513 --> 01:04:52,305
+[Whirs]
+
+982
+01:04:57,603 --> 01:05:01,773
+<i>[Whirring]</i>
+
+983
+01:05:12,785 --> 01:05:15,745
+A toast.
+
+984
+01:05:15,829 --> 01:05:20,166
+- <i>To absent friends.</i>
+- To absent friends.
+
+985
+01:05:23,712 --> 01:05:25,713
+And Rocky.
+
+986
+01:05:29,426 --> 01:05:34,305
+<i>[Scraping, Clattering]</i>
+
+987
+01:05:35,808 --> 01:05:40,394
+# Happy birthday to you #
+
+988
+01:05:40,479 --> 01:05:41,938
+# Happy birthday, dear Rocky #
+
+989
+01:05:42,064 --> 01:05:44,190
+- <i>[Janet] # Happy birthday to you ##</i>
+- Shall we?
+
+990
+01:06:00,040 --> 01:06:02,750
+<i>[Cart Clatters]</i>
+
+991
+01:06:02,835 --> 01:06:05,753
+We came here to discuss Eddie.
+
+992
+01:06:05,838 --> 01:06:09,382
+- Eddie!
+- [Whirring]
+
+993
+01:06:11,343 --> 01:06:13,386
+That's a rather tender subject.
+
+994
+01:06:13,470 --> 01:06:15,721
+<i>Another slice, anyone?</i>
+
+995
+01:06:22,271 --> 01:06:24,272
+Excuse me.
+
+996
+01:06:28,193 --> 01:06:33,281
+<i>[Columbia Screaming]</i>
+
+997
+01:06:33,365 --> 01:06:35,908
+<i>[Sobbing]</i>
+
+998
+01:06:35,993 --> 01:06:39,996
+I knew he was in with a bad crowd,
+but it was worse than I imagined.
+
+999
+01:06:40,122 --> 01:06:41,539
+- <i>Aliens.</i>
+- Huh?
+
+1000
+01:06:41,623 --> 01:06:42,748
+[Together]
+Dr. Scott!
+
+1001
+01:06:42,833 --> 01:06:45,209
+Go on, Dr. Scott.
+
+1002
+01:06:46,420 --> 01:06:49,714
+<i>Or should I say Dr. von Scott?</i>
+
+1003
+01:06:49,798 --> 01:06:53,092
+<i>Just what exactly are you implying?</i>
+
+1004
+01:06:53,176 --> 01:06:55,094
+- It's all right!
+- <i>But, Dr. Scott.</i>
+
+1005
+01:06:55,178 --> 01:06:58,097
+That's all right, Brad.
+[Chuckles]
+
+1006
+01:06:59,850 --> 01:07:02,435
+[Slow Tempo]
+# From the day he was born #
+
+1007
+01:07:05,022 --> 01:07:07,815
+# He was trouble #
+
+1008
+01:07:10,027 --> 01:07:13,779
+# He was the thorn #
+
+1009
+01:07:13,864 --> 01:07:17,950
+<i># In his "mutter's" side #</i>
+
+1010
+01:07:19,828 --> 01:07:22,622
+# She tried in vain #
+
+1011
+01:07:26,001 --> 01:07:30,880
+# But he never caused her
+nothing but shame #
+
+1012
+01:07:30,964 --> 01:07:34,717
+# He left home #
+
+1013
+01:07:34,801 --> 01:07:38,179
+<i># The day she died #</i>
+
+1014
+01:07:38,263 --> 01:07:40,181
+[Up-beat Tempo]
+# From the day she was gone #
+
+1015
+01:07:41,600 --> 01:07:43,517
+# All he wanted #
+
+1016
+01:07:44,519 --> 01:07:46,520
+# Was rock-and-roll porn #
+
+1017
+01:07:47,522 --> 01:07:49,482
+# Und <i>a motorbike</i> #
+
+1018
+01:07:50,609 --> 01:07:54,111
+<i># Shooting up junk #</i>
+
+1019
+01:07:54,196 --> 01:07:57,531
+# He was a low-down
+cheap little punk #
+
+1020
+01:07:57,616 --> 01:08:02,662
+# Taking everyone for a ride #
+
+1021
+01:08:03,664 --> 01:08:06,290
+# When Eddie said
+he didn't like his teddy #
+
+1022
+01:08:06,375 --> 01:08:09,085
+# You knew he was a no-good kid #
+
+1023
+01:08:09,169 --> 01:08:12,338
+# But when he threatened your life
+with a switchblade knife #
+
+1024
+01:08:12,422 --> 01:08:13,756
+- # What a guy #
+- # Makes you cry #
+
+1025
+01:08:13,840 --> 01:08:15,716
+# <i>Und</i> I did #
+
+1026
+01:08:15,801 --> 01:08:18,970
+# Everybody shoved him #
+
+1027
+01:08:19,054 --> 01:08:22,264
+# I very nearly loved him #
+
+1028
+01:08:22,349 --> 01:08:25,059
+# I said, hey, listen to me #
+
+1029
+01:08:25,143 --> 01:08:28,229
+# Stay sane inside insanity #
+
+1030
+01:08:28,313 --> 01:08:33,609
+# But he locked the door
+and threw away the key #
+
+1031
+01:08:33,694 --> 01:08:35,736
+# But he must've been drawn #
+
+1032
+01:08:37,197 --> 01:08:39,073
+<i># Into something #</i>
+
+1033
+01:08:40,283 --> 01:08:42,994
+# Making him warn me #
+
+1034
+01:08:43,078 --> 01:08:46,205
+- # In a note which reads #
+- # What's it say, what's it say #
+
+1035
+01:08:46,289 --> 01:08:47,748
+<i>[Eddie's Voice]
+# I'm out of my head #</i>
+
+1036
+01:08:49,626 --> 01:08:52,378
+<i># Oh, hurry, or I may be dead #</i>
+
+1037
+01:08:52,462 --> 01:08:57,174
+<i># They mustn't carry out
+their evil deeds #</i>
+
+1038
+01:08:57,259 --> 01:08:59,260
+<i>[Screaming]</i>
+
+1039
+01:08:59,344 --> 01:09:01,804
+# When Eddie said
+he didn't like his teddy #
+
+1040
+01:09:01,888 --> 01:09:04,181
+# You knew he was a no-good kid #
+
+1041
+01:09:04,266 --> 01:09:07,560
+But when he threatened your life
+with a switchblade knife #
+
+1042
+01:09:07,644 --> 01:09:09,478
+- # What a guy #
+- # Makes you cry #
+
+1043
+01:09:09,563 --> 01:09:11,272
+# <i>Und</i> I did #
+
+1044
+01:09:11,356 --> 01:09:14,150
+# When Eddie said
+he didn't like his teddy #
+
+1045
+01:09:14,234 --> 01:09:16,485
+# You knew he was a no-good kid #
+
+1046
+01:09:16,570 --> 01:09:20,031
+# But when he threatened your life
+with a switchblade knife #
+
+1047
+01:09:21,116 --> 01:09:23,993
+# What a guy #
+
+1048
+01:09:24,077 --> 01:09:25,953
+# Whoa, oh, oh #
+
+1049
+01:09:26,038 --> 01:09:28,247
+# Makes you cry #
+[Cries]
+
+1050
+01:09:28,331 --> 01:09:30,541
+# Hey, hey, hey #
+
+1051
+01:09:30,625 --> 01:09:34,253
+# <i>Und</i> I did #
+
+1052
+01:09:34,337 --> 01:09:38,966
+# Eddie ##
+
+1053
+01:09:39,051 --> 01:09:40,968
+[Chuckles]
+Oh.
+
+1054
+01:09:46,558 --> 01:09:49,977
+[Janet Screaming]
+
+1055
+01:09:51,354 --> 01:09:53,939
+Oh, Rocky!
+
+1056
+01:09:55,901 --> 01:09:58,277
+How could you?
+
+1057
+01:09:58,361 --> 01:10:01,280
+[Janet Screaming]
+
+1058
+01:10:02,949 --> 01:10:05,659
+[Screaming Continues]
+
+1059
+01:10:05,744 --> 01:10:08,329
+Quick! This way! This way!
+
+1060
+01:10:08,413 --> 01:10:10,748
+[Both Laughing]
+
+1061
+01:10:10,832 --> 01:10:12,333
+Shut up!
+
+1062
+01:10:13,835 --> 01:10:17,004
+# I'll tell you once
+I won't tell you twice #
+
+1063
+01:10:17,130 --> 01:10:20,841
+# You'd better wise up
+Janet Weiss # [Whimpering]
+
+1064
+01:10:20,926 --> 01:10:24,553
+# Your apple pie
+don't taste too nice #
+
+1065
+01:10:24,638 --> 01:10:28,057
+# You'd better wise up
+Janet Weiss #
+
+1066
+01:10:28,141 --> 01:10:29,809
+[Groans]
+
+1067
+01:10:33,939 --> 01:10:38,442
+- [Screaming] - # I've laid the seed
+It should be all you need #
+
+1068
+01:10:38,527 --> 01:10:40,653
+# You're as sensual as a pencil #
+
+1069
+01:10:40,737 --> 01:10:42,238
+# Wound up like an E
+or first string #
+
+1070
+01:10:42,322 --> 01:10:45,199
+# When we made it
+did ya hear a bell ring #
+
+1071
+01:10:45,283 --> 01:10:49,120
+# You got a block
+Well, take my advice #
+
+1072
+01:10:49,204 --> 01:10:52,665
+# You'd better wise up
+Janet Weiss #
+
+1073
+01:10:53,708 --> 01:10:57,253
+# The transducer
+will seduce ya #
+
+1074
+01:10:57,337 --> 01:10:59,004
+[Power Crackles]
+
+1075
+01:10:59,089 --> 01:11:02,133
+My feet! I can't move my feet!
+
+1076
+01:11:02,217 --> 01:11:05,511
+My wheels!
+My God, I can't move my wheels.
+
+1077
+01:11:06,930 --> 01:11:09,181
+It's as if we're glued to the spot.
+
+1078
+01:11:09,266 --> 01:11:11,433
+You are.
+
+1079
+01:11:11,518 --> 01:11:15,062
+So quake with fear,
+you tiny fools.
+
+1080
+01:11:15,147 --> 01:11:17,898
+[Crying]
+Oh, we're trapped.
+
+1081
+01:11:17,983 --> 01:11:20,401
+# It's something you'll get used to #
+
+1082
+01:11:20,527 --> 01:11:23,529
+- # A mental mind-fuck can be nice #
+- [Shrieks] No!
+
+1083
+01:11:23,655 --> 01:11:27,074
+<i>[Dr. Scott] You won't find Earth people
+quite the easy mark you imagine.</i>
+
+1084
+01:11:27,159 --> 01:11:29,243
+<i>This sonic transducer,</i>
+
+1085
+01:11:29,369 --> 01:11:31,579
+it is, I suppose, some
+kind of audio-vibratory,
+
+1086
+01:11:31,580 --> 01:11:33,789
+physiomolecular
+transport device?
+
+1087
+01:11:33,915 --> 01:11:35,833
+- You mean...
+- Yes, Brad.
+
+1088
+01:11:35,917 --> 01:11:39,420
+It's something we ourselves have been
+working on for quite some time.
+
+1089
+01:11:39,504 --> 01:11:43,507
+But it seems our friend here
+has found a means of perfecting it.
+
+1090
+01:11:43,592 --> 01:11:47,136
+A device which is capable
+of breaking down solid matter...
+
+1091
+01:11:47,220 --> 01:11:49,597
+and then projecting it
+through space...
+
+1092
+01:11:49,681 --> 01:11:54,476
+and, who knows,
+perhaps even time itself.
+
+1093
+01:11:54,561 --> 01:11:57,313
+You mean he's gonna
+send us to another planet?
+
+1094
+01:11:57,397 --> 01:12:00,524
+# Planet schmanet, Janet #
+
+1095
+01:12:00,609 --> 01:12:04,320
+# You'd better wise up
+Janet Weiss #
+
+1096
+01:12:04,404 --> 01:12:08,490
+# You'd better wise up
+Build your thighs up #
+
+1097
+01:12:08,575 --> 01:12:10,284
+# You'd better wise up #
+
+1098
+01:12:10,368 --> 01:12:12,578
+And then she cried out...
+
+1099
+01:12:12,662 --> 01:12:15,915
+Stop!
+
+1100
+01:12:17,083 --> 01:12:18,500
+<i>[Metallic Clanking]</i>
+
+1101
+01:12:18,585 --> 01:12:24,423
+# Don't get hot and flustered #
+
+1102
+01:12:24,507 --> 01:12:28,886
+# Use a bit of mustard #
+
+1103
+01:12:28,970 --> 01:12:31,847
+# You're a hot dog #
+
+1104
+01:12:31,932 --> 01:12:37,269
+<i># But you'd better not
+try to hurt her #</i>
+
+1105
+01:12:38,438 --> 01:12:40,481
+# Frank Furter #
+
+1106
+01:12:40,565 --> 01:12:43,525
+<i>[Dr. Scott]
+# You're a hot dog #</i>
+
+1107
+01:12:43,610 --> 01:12:48,989
+# But you'd better not
+try to hurt her #
+
+1108
+01:12:50,033 --> 01:12:52,451
+# Frank Furter #
+
+1109
+01:12:52,535 --> 01:12:54,870
+# You're a hot dog... ##
+
+1110
+01:12:54,955 --> 01:12:55,788
+<i>[Machine Squeals]</i>
+
+1111
+01:12:57,332 --> 01:13:01,377
+<i>My God! I can't stand
+any more of this.</i>
+
+1112
+01:13:01,461 --> 01:13:03,462
+First, you spurn me for Eddie,
+
+1113
+01:13:03,546 --> 01:13:06,382
+and then you throw him off
+like an old overcoat for Rocky.
+
+1114
+01:13:06,466 --> 01:13:09,760
+<i>You chew people up,
+and then you spit them out again.</i>
+
+1115
+01:13:10,762 --> 01:13:12,471
+I loved you.
+
+1116
+01:13:12,555 --> 01:13:14,890
+<i>Do you hear me? I loved you.</i>
+
+1117
+01:13:14,975 --> 01:13:18,686
+And what did it get me?
+Yeah, I'll tell you... a big nothing.
+
+1118
+01:13:18,770 --> 01:13:21,063
+You're like a sponge.
+You take, take, take...
+
+1119
+01:13:21,147 --> 01:13:23,232
+and drain others
+of their love and emotion.
+
+1120
+01:13:23,316 --> 01:13:25,025
+Well, I've had enough!
+
+1121
+01:13:25,110 --> 01:13:27,152
+You've gotta choose
+between me and Rocky...
+
+1122
+01:13:27,237 --> 01:13:29,321
+so named because of
+the rocks in his head.
+
+1123
+01:13:31,741 --> 01:13:33,951
+- Mmm!
+- [Machine Squeals]
+
+1124
+01:13:39,833 --> 01:13:42,084
+It's not easy having a good time.
+
+1125
+01:13:45,630 --> 01:13:46,338
+<i>[Machine Squeals]</i>
+
+1126
+01:13:51,136 --> 01:13:53,804
+Even smiling
+makes my face ache.
+
+1127
+01:13:56,933 --> 01:13:59,893
+And my children turn on me.
+
+1128
+01:14:00,895 --> 01:14:03,605
+Rocky's behaving
+just the way that Eddie did.
+
+1129
+01:14:06,651 --> 01:14:11,071
+Do you think I made a mistake splitting
+his brain between the two of them?
+
+1130
+01:14:11,156 --> 01:14:13,949
+<i>[Magenta]
+I grow weary of this world!</i>
+
+1131
+01:14:14,034 --> 01:14:16,952
+When shall we return
+to Transylvania? Huh?
+
+1132
+01:14:18,621 --> 01:14:20,664
+Magenta,
+
+1133
+01:14:20,749 --> 01:14:24,543
+I am indeed grateful to both you
+and your brother, Riff Raff.
+
+1134
+01:14:24,627 --> 01:14:27,296
+You have both served me well.
+
+1135
+01:14:27,380 --> 01:14:30,758
+Loyalty such as yours
+shall not go unrewarded.
+
+1136
+01:14:31,760 --> 01:14:36,472
+You will discover that, when the mood
+takes me, I can be quite generous.
+
+1137
+01:14:36,556 --> 01:14:40,142
+I ask for nothing, master.
+
+1138
+01:14:40,226 --> 01:14:43,479
+And you shall receive it
+in abundance!
+
+1139
+01:14:46,274 --> 01:14:49,109
+Come. We are ready
+for the floor show.
+
+1140
+01:14:51,780 --> 01:14:54,782
+<i>[Elevator Motor Whirring]</i>
+
+1141
+01:15:17,889 --> 01:15:23,227
+<i>[Criminologist] And so, by some
+extraordinary coincidence,</i>
+
+1142
+01:15:23,311 --> 01:15:26,146
+fate, it seemed, had decided
+that Brad and Janet...
+
+1143
+01:15:26,231 --> 01:15:30,317
+should keep that appointment
+with their friend, Dr. Everett Scott.
+
+1144
+01:15:30,402 --> 01:15:32,611
+But it was to be in a situation...
+
+1145
+01:15:32,695 --> 01:15:35,948
+which none of them
+could have possibly foreseen.
+
+1146
+01:15:36,032 --> 01:15:40,411
+And just a few hours
+after announcing their engagement,
+
+1147
+01:15:40,495 --> 01:15:43,622
+Brad and Janet had both tasted...
+
+1148
+01:15:45,333 --> 01:15:47,292
+forbidden fruit.
+
+1149
+01:15:48,670 --> 01:15:54,258
+This in itself was proof that
+their host was a man of little morals...
+
+1150
+01:15:54,342 --> 01:15:56,802
+and some persuasion.
+
+1151
+01:15:58,054 --> 01:16:02,141
+What further indignities
+were they to be subjected to?
+
+1152
+01:16:03,101 --> 01:16:07,563
+And what of the floor show
+that had been spoken of?
+
+1153
+01:16:08,565 --> 01:16:11,442
+In an empty house...
+
+1154
+01:16:11,526 --> 01:16:14,611
+in the middle of the night?
+
+1155
+01:16:14,696 --> 01:16:17,406
+What diabolical plan...
+
+1156
+01:16:17,490 --> 01:16:21,577
+had seized
+Frank's crazed imagination?
+
+1157
+01:16:23,830 --> 01:16:26,290
+What indeed?
+
+1158
+01:16:26,374 --> 01:16:28,584
+From what had gone before,
+
+1159
+01:16:28,668 --> 01:16:33,881
+it was clear that this
+was to be no picnic.
+
+1160
+01:16:34,966 --> 01:16:37,468
+<i>## [Rock And Roll]</i>
+
+1161
+01:16:59,741 --> 01:17:01,366
+[Squeals]
+
+1162
+01:17:02,410 --> 01:17:06,288
+# It was great
+when it all began #
+
+1163
+01:17:06,372 --> 01:17:10,209
+# I was a regular Frankie fan #
+
+1164
+01:17:10,293 --> 01:17:14,922
+# But it was over
+when he had the plan #
+
+1165
+01:17:15,006 --> 01:17:19,301
+# To start a-workin' on a muscleman #
+
+1166
+01:17:19,385 --> 01:17:23,305
+# Now the only thing
+that gives me hope #
+
+1167
+01:17:23,389 --> 01:17:28,268
+# Is my love of a certain dope #
+
+1168
+01:17:28,353 --> 01:17:29,853
+# Rose tints my world #
+
+1169
+01:17:29,938 --> 01:17:35,067
+# Keeps me safe
+from my trouble and pain #
+
+1170
+01:17:36,152 --> 01:17:40,447
+# I'm just seven hours old #
+
+1171
+01:17:40,532 --> 01:17:43,742
+# Truly beautiful to behold #
+
+1172
+01:17:45,161 --> 01:17:48,705
+# And somebody should be told #
+
+1173
+01:17:48,790 --> 01:17:52,751
+# My libido hasn't been controlled #
+
+1174
+01:17:52,835 --> 01:17:56,421
+# Now the only thing
+I've come to trust #
+
+1175
+01:17:57,423 --> 01:18:00,884
+# Is an orgasmic rush of lust #
+
+1176
+01:18:01,886 --> 01:18:04,054
+# Rose tints my world #
+
+1177
+01:18:04,138 --> 01:18:07,641
+# And keeps me safe
+from my trouble and pain #
+
+1178
+01:18:10,478 --> 01:18:14,898
+# It's beyond me #
+
+1179
+01:18:14,983 --> 01:18:18,860
+# Help me, Mommy #
+
+1180
+01:18:18,945 --> 01:18:22,823
+# I'll be good, you'll see #
+
+1181
+01:18:22,907 --> 01:18:27,202
+# Take this dream away #
+
+1182
+01:18:27,287 --> 01:18:29,538
+# What's this #
+
+1183
+01:18:29,622 --> 01:18:31,915
+# Let's see #
+
+1184
+01:18:32,000 --> 01:18:35,669
+# I feel sexy #
+
+1185
+01:18:37,005 --> 01:18:39,464
+# What's come over me #
+
+1186
+01:18:39,549 --> 01:18:43,093
+Whoo! # Here it comes again #
+
+1187
+01:18:44,178 --> 01:18:46,096
+[Moans]
+
+1188
+01:18:46,180 --> 01:18:50,142
+# I feel released #
+
+1189
+01:18:50,226 --> 01:18:53,604
+# Bad times deceased #
+[Chuckles]
+
+1190
+01:18:53,688 --> 01:18:57,107
+# My confidence has increased #
+
+1191
+01:18:58,151 --> 01:19:01,570
+# Reality is here #
+
+1192
+01:19:01,654 --> 01:19:06,116
+# The game has been disbanded #
+
+1193
+01:19:06,200 --> 01:19:09,494
+# My mind has been expanded #
+
+1194
+01:19:09,579 --> 01:19:13,123
+# It's a gas that Frankie's landed #
+
+1195
+01:19:14,125 --> 01:19:18,629
+# His lust is so sincere #
+
+1196
+01:19:18,713 --> 01:19:20,964
+[Kisses]
+
+1197
+01:19:21,174 --> 01:19:24,468
+<i>## [Drumroll]</i>
+
+1198
+01:19:24,552 --> 01:19:28,055
+<i>## [Trumpet Fanfare]</i>
+
+1199
+01:19:34,187 --> 01:19:38,190
+<i>[Morse Code Beeping]</i>
+
+1200
+01:19:54,540 --> 01:19:56,667
+# Whatever happened #
+
+1201
+01:19:56,751 --> 01:19:59,628
+# To Fay Wray #
+
+1202
+01:19:59,712 --> 01:20:01,755
+# That delicate #
+
+1203
+01:20:01,839 --> 01:20:06,426
+# Satin-draped frame #
+
+1204
+01:20:07,512 --> 01:20:11,932
+# As it clung to her thigh #
+
+1205
+01:20:12,016 --> 01:20:17,270
+# How I started to cry #
+
+1206
+01:20:18,564 --> 01:20:21,650
+# 'Cause I wanted to be dressed #
+
+1207
+01:20:21,734 --> 01:20:25,570
+# Just the same #
+
+1208
+01:20:27,281 --> 01:20:29,825
+# Give yourself over #
+
+1209
+01:20:29,909 --> 01:20:34,037
+# To absolute pleasure #
+
+1210
+01:20:34,122 --> 01:20:37,332
+# Swim the warm waters #
+
+1211
+01:20:37,417 --> 01:20:41,420
+# Of sins of the flesh #
+
+1212
+01:20:41,504 --> 01:20:44,339
+# Erotic nightmares #
+
+1213
+01:20:44,424 --> 01:20:48,593
+# Beyond any measure #
+
+1214
+01:20:48,678 --> 01:20:52,013
+# And sensual daydreams #
+
+1215
+01:20:52,098 --> 01:20:56,685
+# To treasure forever #
+
+1216
+01:20:56,769 --> 01:21:01,982
+# Can't you just see it #
+
+1217
+01:21:02,066 --> 01:21:06,737
+# Whoa-oh, oh #
+
+1218
+01:21:06,821 --> 01:21:08,029
+[Moans]
+
+1219
+01:21:08,114 --> 01:21:10,240
+<i>[Water Splashes]</i>
+
+1220
+01:21:10,324 --> 01:21:12,701
+<i>[Harp Glissando]</i>
+
+1221
+01:21:15,371 --> 01:21:17,914
+# Don't dream it #
+
+1222
+01:21:19,834 --> 01:21:21,835
+# Be it #
+
+1223
+01:21:22,837 --> 01:21:26,173
+# Don't dream it #
+
+1224
+01:21:27,550 --> 01:21:30,552
+# Be it #
+
+1225
+01:21:30,636 --> 01:21:33,138
+# Don't dream it #
+
+1226
+01:21:34,974 --> 01:21:36,975
+# Be it #
+
+1227
+01:21:38,060 --> 01:21:41,313
+# Don't dream it #
+
+1228
+01:21:42,732 --> 01:21:44,608
+# Be it #
+
+1229
+01:21:45,610 --> 01:21:50,113
+<i># Don't dream it #</i>
+
+1230
+01:21:50,198 --> 01:21:52,908
+# Be it #
+
+1231
+01:21:52,992 --> 01:21:56,453
+[All]
+# Don't dream it #
+
+1232
+01:21:57,580 --> 01:22:00,248
+# Be it #
+
+1233
+01:22:00,333 --> 01:22:03,335
+# Don't dream it #
+
+1234
+01:22:05,046 --> 01:22:07,756
+# Be it #
+
+1235
+01:22:07,840 --> 01:22:10,801
+# Don't dream it #
+
+1236
+01:22:12,637 --> 01:22:15,096
+# Be it #
+
+1237
+01:22:15,181 --> 01:22:18,517
+# Don't dream it #
+
+1238
+01:22:20,144 --> 01:22:22,354
+<i># Be it #</i>
+
+1239
+01:22:22,438 --> 01:22:23,855
+<i>Ach!
+## [Singing Continues]</i>
+
+1240
+01:22:23,940 --> 01:22:26,441
+We've got to get...
+
+1241
+01:22:26,526 --> 01:22:28,401
+out of this trap...
+
+1242
+01:22:29,695 --> 01:22:32,364
+<i>before this decadence...</i>
+
+1243
+01:22:33,866 --> 01:22:36,535
+<i>saps our wills.</i>
+
+1244
+01:22:37,578 --> 01:22:40,372
+I've got to be strong...
+
+1245
+01:22:40,456 --> 01:22:43,041
+<i>und</i> try to hang on.
+
+1246
+01:22:44,544 --> 01:22:47,754
+<i>Or else my mind...</i>
+
+1247
+01:22:47,839 --> 01:22:50,924
+<i>may well snap.</i>
+
+1248
+01:22:51,008 --> 01:22:54,427
+<i>Und</i> my life will be lived...
+
+1249
+01:22:56,722 --> 01:23:04,771
+# For the thrill #
+
+1250
+01:23:05,857 --> 01:23:09,776
+# It's beyond me #
+
+1251
+01:23:09,861 --> 01:23:12,237
+# Help me, Mommy #
+
+1252
+01:23:13,281 --> 01:23:15,323
+# God bless #
+
+1253
+01:23:15,408 --> 01:23:20,203
+# Lili St. Cyr #
+
+1254
+01:23:21,706 --> 01:23:22,664
+# My, my, my #
+
+1255
+01:23:22,748 --> 01:23:24,165
+# M-my, my, my, my #
+
+1256
+01:23:24,250 --> 01:23:25,792
+<i># My, my, my, my #</i>
+
+1257
+01:23:25,877 --> 01:23:26,835
+# My-ay #
+
+1258
+01:23:26,919 --> 01:23:28,837
+# I'm a wild and an untamed thing #
+
+1259
+01:23:28,921 --> 01:23:31,298
+# I'm a bee with a deadly sting #
+
+1260
+01:23:31,382 --> 01:23:33,717
+# You get a hit
+and your mind goes "ping" #
+
+1261
+01:23:33,801 --> 01:23:36,219
+# Your heart'll thump
+and your blood will sing #
+
+1262
+01:23:36,304 --> 01:23:38,638
+# So let the party
+and the sounds rock on #
+
+1263
+01:23:38,723 --> 01:23:41,474
+# We're gonna shake it
+till the life has gone #
+
+1264
+01:23:41,559 --> 01:23:45,353
+# Rose tint my world
+Keep me safe from my trouble and pain #
+
+1265
+01:23:48,482 --> 01:23:50,817
+[All] # We're a wild
+and an untamed thing #
+
+1266
+01:23:50,902 --> 01:23:53,069
+# We're a bee with a deadly sting #
+
+1267
+01:23:53,154 --> 01:23:55,697
+# You get a hit
+and your mind goes "ping" #
+
+1268
+01:23:55,781 --> 01:23:58,158
+# Your heart'll thump
+and your blood will sing #
+
+1269
+01:23:58,242 --> 01:24:00,410
+# So let the party
+and the sounds rock on #
+
+1270
+01:24:00,494 --> 01:24:03,371
+# We're gonna shake it
+till the life has gone #
+
+1271
+01:24:03,456 --> 01:24:08,501
+# Rose tint my world
+Keep me safe from my trouble and pain #
+
+1272
+01:24:08,586 --> 01:24:10,503
+<i>## [Saxophone]</i>
+
+1273
+01:24:18,846 --> 01:24:20,889
+# We're a wild and an untamed thing #
+
+1274
+01:24:20,973 --> 01:24:23,683
+# We're a bee with a deadly sting #
+
+1275
+01:24:23,768 --> 01:24:26,019
+# You get a hit
+and your mind goes "ping" #
+
+1276
+01:24:26,103 --> 01:24:27,854
+# Your heart'll thump
+and your blood will sing #
+
+1277
+01:24:27,939 --> 01:24:30,523
+# So let the party
+and the sounds rock on #
+
+1278
+01:24:30,608 --> 01:24:33,193
+# We're gonna shake it
+till the life has gone, gone, gone #
+
+1279
+01:24:33,277 --> 01:24:38,323
+# Rose tint my world
+Keep me safe from my trouble and pain ##
+
+1280
+01:24:38,407 --> 01:24:40,867
+Hey!
+
+1281
+01:24:40,952 --> 01:24:44,913
+# Frank-N-Furter #
+
+1282
+01:24:44,997 --> 01:24:47,999
+<i># It's all over #</i>
+
+1283
+01:24:48,084 --> 01:24:51,503
+# Your mission is a failure #
+
+1284
+01:24:51,587 --> 01:24:55,215
+<i># Your lifestyle's too extreme #</i>
+
+1285
+01:24:55,299 --> 01:24:58,635
+# I'm your new commander #
+
+1286
+01:24:58,719 --> 01:25:01,429
+# You now are my prisoner #
+
+1287
+01:25:01,514 --> 01:25:05,016
+<i># We return to Transylvania #</i>
+
+1288
+01:25:05,101 --> 01:25:11,356
+# Prepare the transit beam ##
+
+1289
+01:25:12,692 --> 01:25:14,192
+<i>[Frank]
+Wait!</i>
+
+1290
+01:25:17,446 --> 01:25:19,364
+I can explain.
+
+1291
+01:25:26,038 --> 01:25:28,039
+[No Audible Dialogue]
+
+1292
+01:25:39,552 --> 01:25:43,304
+<i>## [Piano, Slow Tempo]</i>
+
+1293
+01:25:48,936 --> 01:25:53,314
+# On the day I went away #
+
+1294
+01:25:53,399 --> 01:25:57,444
+# Good-bye #
+
+1295
+01:25:57,528 --> 01:26:00,864
+# Was all I had to say #
+
+1296
+01:26:00,948 --> 01:26:04,034
+[All]
+# Now I #
+
+1297
+01:26:05,161 --> 01:26:08,663
+# I want to come again and stay #
+
+1298
+01:26:08,748 --> 01:26:12,000
+# Oh, my, my #
+
+1299
+01:26:12,084 --> 01:26:18,548
+# Smile and that will mean I may #
+
+1300
+01:26:18,632 --> 01:26:22,635
+# May-ay #
+
+1301
+01:26:22,720 --> 01:26:25,055
+# 'Cause I've seen #
+
+1302
+01:26:25,139 --> 01:26:27,348
+# Oh #
+
+1303
+01:26:27,433 --> 01:26:33,605
+# Blue skies through the tears #
+
+1304
+01:26:33,689 --> 01:26:37,817
+- # In my eyes #
+- [Yawns]
+
+1305
+01:26:37,902 --> 01:26:39,819
+# And I realize #
+
+1306
+01:26:43,074 --> 01:26:45,825
+# I'm going home #
+
+1307
+01:26:50,247 --> 01:26:53,958
+<i>[Chorus]
+# I'm going home #</i>
+
+1308
+01:27:00,966 --> 01:27:04,594
+[Frank]
+# Everywhere, it's been the same #
+
+1309
+01:27:04,678 --> 01:27:09,224
+<i>[Chorus]
+# Feeling #</i>
+
+1310
+01:27:09,308 --> 01:27:12,894
+# Like I'm outside in the rain #
+
+1311
+01:27:12,978 --> 01:27:16,231
+<i># Wheeling #</i>
+
+1312
+01:27:16,315 --> 01:27:20,193
+# Free to try and find a game #
+
+1313
+01:27:20,277 --> 01:27:23,279
+<i># Dealing #</i>
+
+1314
+01:27:23,364 --> 01:27:26,074
+# Cards for sorrow #
+
+1315
+01:27:26,158 --> 01:27:31,204
+# Cards for pain #
+
+1316
+01:27:33,415 --> 01:27:35,792
+# 'Cause I've seen #
+
+1317
+01:27:35,876 --> 01:27:38,044
+# Oh #
+
+1318
+01:27:38,129 --> 01:27:40,547
+# Blue skies #
+
+1319
+01:27:40,631 --> 01:27:44,008
+# Through the tears #
+
+1320
+01:27:44,093 --> 01:27:46,136
+# In my eyes #
+
+1321
+01:27:48,639 --> 01:27:50,640
+# And I realize #
+
+1322
+01:27:53,769 --> 01:27:56,062
+# I'm going home #
+
+1323
+01:28:00,109 --> 01:28:04,821
+[With Chorus]
+# I'm going home #
+
+1324
+01:28:07,992 --> 01:28:11,536
+# I'm going home #
+
+1325
+01:28:16,375 --> 01:28:25,633
+# I'm going home ##
+
+1326
+01:28:25,718 --> 01:28:28,845
+<i>[Audience Applauding]</i>
+
+1327
+01:28:28,929 --> 01:28:32,807
+[Cheering]
+Bravo! Bravo!
+
+1328
+01:28:32,892 --> 01:28:35,393
+<i>[Applause, Cheering Continue]</i>
+
+1329
+01:28:43,235 --> 01:28:45,653
+<i>[Cheering, Applause Fade]</i>
+
+1330
+01:28:45,738 --> 01:28:48,406
+How sentimental.
+
+1331
+01:29:00,294 --> 01:29:02,587
+[Riff Raff] And also
+presumptuous of you.
+
+1332
+01:29:04,465 --> 01:29:06,382
+You see,
+
+1333
+01:29:06,467 --> 01:29:10,470
+when I said "we"
+were to return to Transylvania,
+
+1334
+01:29:10,554 --> 01:29:13,097
+I referred only
+to Magenta and myself.
+
+1335
+01:29:14,141 --> 01:29:17,518
+I'm sorry, however, if you found
+my words misleading.
+
+1336
+01:29:17,603 --> 01:29:18,728
+But, you see,
+
+1337
+01:29:18,812 --> 01:29:22,065
+you are to remain here...
+
+1338
+01:29:22,149 --> 01:29:24,776
+in spirit anyway.
+
+1339
+01:29:26,195 --> 01:29:29,656
+<i>- [Dr. Scott] Good heavens, that's a laser.
+- [Riff Raff] Yes, Dr. Scott.</i>
+
+1340
+01:29:29,740 --> 01:29:34,327
+A laser capable of emitting
+a beam of pure anti-matter.
+
+1341
+01:29:35,412 --> 01:29:37,121
+<i>[Brad]
+You mean you're going to kill him?</i>
+
+1342
+01:29:37,248 --> 01:29:41,000
+- What's his crime?
+- You saw what became of Eddie.
+
+1343
+01:29:41,085 --> 01:29:43,253
+Society must be protected.
+
+1344
+01:29:43,337 --> 01:29:45,838
+Exactly, Dr. Scott.
+
+1345
+01:29:45,923 --> 01:29:48,925
+And now, Frank-N-Furter,
+your time has come.
+
+1346
+01:29:49,009 --> 01:29:52,470
+Say good-bye to all of <i>this...</i>
+
+1347
+01:29:54,390 --> 01:29:58,434
+and hello to oblivion.
+
+1348
+01:30:07,319 --> 01:30:12,323
+<i>[Columbia Screaming]</i>
+
+1349
+01:30:13,367 --> 01:30:15,493
+[Whimpers]
+No.
+
+1350
+01:30:17,329 --> 01:30:19,580
+No. No!
+
+1351
+01:30:23,252 --> 01:30:26,337
+<i>[Shrieks, Whimpering]</i>
+
+1352
+01:30:28,299 --> 01:30:29,632
+[Screaming]
+
+1353
+01:30:29,717 --> 01:30:30,550
+[Screams]
+
+1354
+01:30:33,971 --> 01:30:37,015
+<i>[Curtain Clattering]</i>
+
+1355
+01:30:43,105 --> 01:30:45,231
+<i>[Rocky Groaning]</i>
+
+1356
+01:30:45,316 --> 01:30:47,817
+[Whimpering]
+
+1357
+01:30:53,699 --> 01:30:57,327
+<i>## [Chorus Vocalizing]</i>
+
+1358
+01:30:57,411 --> 01:30:59,912
+[Whimpering]
+
+1359
+01:31:03,375 --> 01:31:06,919
+[Sobbing]
+
+1360
+01:31:28,609 --> 01:31:30,943
+[Grunting]
+
+1361
+01:31:39,244 --> 01:31:44,082
+[Rocky Screaming]
+
+1362
+01:31:50,214 --> 01:31:51,756
+<i>[Brad]
+Good God!</i>
+
+1363
+01:31:51,924 --> 01:31:54,467
+You killed them.
+
+1364
+01:31:54,551 --> 01:31:58,763
+But I thought you liked them.
+They liked you.
+
+1365
+01:31:59,807 --> 01:32:02,058
+They didn't like me!
+
+1366
+01:32:03,310 --> 01:32:05,895
+They never liked me!
+
+1367
+01:32:05,979 --> 01:32:07,939
+You did right.
+
+1368
+01:32:21,870 --> 01:32:25,498
+A decision had to be made.
+
+1369
+01:32:25,582 --> 01:32:27,583
+You're okay by me.
+
+1370
+01:32:28,919 --> 01:32:30,837
+Dr. Scott,
+
+1371
+01:32:31,839 --> 01:32:35,466
+I'm sorry about your...
+nephew.
+
+1372
+01:32:36,468 --> 01:32:38,386
+Eddie?
+
+1373
+01:32:38,470 --> 01:32:40,805
+Yes, well, perhaps
+it was for the best.
+
+1374
+01:32:40,889 --> 01:32:42,890
+[Laughs]
+
+1375
+01:32:43,892 --> 01:32:48,229
+You should leave now, Dr. Scott,
+while it is still possible.
+
+1376
+01:32:48,313 --> 01:32:54,110
+We are about to beam the entire house
+back to the planet of Transsexual...
+
+1377
+01:32:54,194 --> 01:32:56,863
+in the galaxy of Transylvania.
+
+1378
+01:32:58,991 --> 01:33:01,159
+Go.
+
+1379
+01:33:01,243 --> 01:33:03,161
+Now.
+
+1380
+01:33:10,919 --> 01:33:13,421
+<i>[Magenta Laughing]</i>
+
+1381
+01:33:15,299 --> 01:33:17,592
+<i>Our noble mission
+is almost completed,</i>
+
+1382
+01:33:17,676 --> 01:33:22,513
+my most... beautiful sister.
+
+1383
+01:33:23,515 --> 01:33:25,433
+And soon we shall return...
+
+1384
+01:33:25,517 --> 01:33:30,104
+to the moon-drenched shores
+of our beloved planet.
+
+1385
+01:33:30,189 --> 01:33:32,773
+Ah.
+
+1386
+01:33:32,858 --> 01:33:36,194
+Sweet Transsexual.
+
+1387
+01:33:37,863 --> 01:33:40,072
+Land of night.
+
+1388
+01:33:41,658 --> 01:33:47,163
+To sing and dance once more
+to your dark refrain.
+
+1389
+01:33:52,002 --> 01:33:53,920
+To take that...
+
+1390
+01:33:55,797 --> 01:33:58,466
+step to the right.
+
+1391
+01:33:58,550 --> 01:34:00,259
+Hah!
+
+1392
+01:34:00,344 --> 01:34:03,763
+But it's the pelvic thrust...
+
+1393
+01:34:03,847 --> 01:34:07,642
+# That really drives you insane #
+
+1394
+01:34:07,726 --> 01:34:10,895
+<i>[Magenta]
+And our world...</i>
+
+1395
+01:34:10,979 --> 01:34:15,066
+<i>will do the time warp again!</i>
+
+1396
+01:34:15,150 --> 01:34:17,401
+[Both Cackling]
+
+1397
+01:34:21,740 --> 01:34:25,243
+<i>[Engines Roaring]
+[Magenta, Riff Raff Laughing]</i>
+
+1398
+01:34:35,921 --> 01:34:39,507
+# I've done a lot #
+
+1399
+01:34:39,591 --> 01:34:43,761
+# God knows I've tried #
+
+1400
+01:34:43,845 --> 01:34:47,557
+# To find the truth #
+
+1401
+01:34:47,641 --> 01:34:52,144
+# I've even lied #
+
+1402
+01:34:52,229 --> 01:34:55,856
+# But all I know #
+
+1403
+01:34:55,941 --> 01:34:59,151
+# Is down inside I'm #
+
+1404
+01:34:59,278 --> 01:35:03,864
+# Bleeding #
+<i>[Chorus] # Bleeding #</i>
+
+1405
+01:35:07,995 --> 01:35:12,373
+[Janet]
+# And superheroes #
+
+1406
+01:35:12,457 --> 01:35:15,960
+# Come to feast #
+
+1407
+01:35:16,044 --> 01:35:19,630
+# To taste the flesh #
+
+1408
+01:35:19,715 --> 01:35:23,634
+# Not yet deceased #
+
+1409
+01:35:23,719 --> 01:35:27,430
+# And all I know #
+
+1410
+01:35:27,514 --> 01:35:30,850
+# Is still the beast is #
+
+1411
+01:35:30,976 --> 01:35:35,354
+# Feeding #
+<i>[Chorus] # Feeding #</i>
+
+1412
+01:35:38,817 --> 01:35:42,320
+<i>## [Chorus Vocalizing]</i>
+
+1413
+01:36:21,777 --> 01:36:23,778
+<i>## [Ends]</i>
+
+1414
+01:36:26,198 --> 01:36:28,157
+[Speaking Lyrics]
+# And crawling #
+
+1415
+01:36:29,701 --> 01:36:31,702
+# On the planet's face #
+
+1416
+01:36:33,080 --> 01:36:35,039
+# Some insects #
+
+1417
+01:36:36,541 --> 01:36:38,542
+# Called the human race #
+
+1418
+01:36:41,463 --> 01:36:43,381
+# Lost in time #
+
+1419
+01:36:46,677 --> 01:36:48,886
+# And lost in space #
+
+1420
+01:36:49,930 --> 01:36:51,931
+# And meaning #
+
+1421
+01:36:53,058 --> 01:37:01,565
+<i>[Chorus]
+# Meaning ##</i>
+
+1422
+01:37:04,319 --> 01:37:06,821
+<i>## [Piano Tinkling]</i>
+
+1423
+01:37:12,077 --> 01:37:15,454
+<i>[Lips]
+# Science fiction #</i>
+
+1424
+01:37:18,083 --> 01:37:21,752
+<i># Double feature #</i>
+
+1425
+01:37:24,089 --> 01:37:28,050
+<i># Frank has built and #</i>
+
+1426
+01:37:29,845 --> 01:37:34,056
+<i># Lost his creature #</i>
+
+1427
+01:37:35,058 --> 01:37:39,562
+<i># Darkness has conquered #</i>
+
+1428
+01:37:41,523 --> 01:37:45,609
+<i># Brad and Janet #</i>
+
+1429
+01:37:46,611 --> 01:37:51,449
+<i># The servants gone to #</i>
+
+1430
+01:37:52,784 --> 01:37:55,953
+<i># A distant planet #</i>
+
+1431
+01:37:56,037 --> 01:38:01,375
+<i># Whoa-oh, oh-oh, oh-oh #</i>
+
+1432
+01:38:02,377 --> 01:38:05,254
+<i># At the late-night #</i>
+
+1433
+01:38:05,338 --> 01:38:08,048
+<i># Double feature #</i>
+
+1434
+01:38:08,133 --> 01:38:10,551
+<i># Picture show #</i>
+
+1435
+01:38:10,635 --> 01:38:13,763
+<i># I wanna go #</i>
+
+1436
+01:38:13,847 --> 01:38:18,058
+<i># Oh-oh, oh-oh #</i>
+
+1437
+01:38:19,603 --> 01:38:22,438
+<i># To the late-night #</i>
+
+1438
+01:38:22,522 --> 01:38:24,857
+<i># Double feature #</i>
+
+1439
+01:38:24,941 --> 01:38:30,780
+<i># Picture show ##</i>
+
+1440
+01:39:17,202 --> 01:39:20,204
+<i>## ["The Time Warp"]</i>
+
+1441
+01:39:54,698 --> 01:39:58,492
+<i>## [Slows Down]</i>
+
+1442
+01:39:58,577 --> 01:40:00,703
+<i>## [Drum Beats, Piano Tinkles]</i>
+
+1443
+01:40:01,746 --> 01:40:03,247
+<i>## [Ends]</i>
+
+1444
+01:40:03,331 --> 01:40:04,331
+English - US - from PSDH to SDH

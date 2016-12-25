@@ -1,0 +1,4982 @@
+1
+00:00:56,400 --> 00:00:57,700
+Hey, you guys, check this out!
+
+2
+00:00:58,100 --> 00:00:59,300
+What is that, man?
+
+3
+00:00:59,900 --> 00:01:01,100
+That's straight Five-O.
+
+4
+00:01:02,000 --> 00:01:03,400
+Let me see that.
+
+5
+00:01:04,700 --> 00:01:05,900
+All right, you ready?
+
+6
+00:01:06,600 --> 00:01:10,100
+Byzantines fighting side by side
+with cowboys and Indians?
+
+7
+00:01:10,500 --> 00:01:12,300
+It was an
+imaginative
+childhood.
+
+8
+00:01:12,400 --> 00:01:14,700
+You know, actually,
+this garage was once a garage.
+
+9
+00:01:14,800 --> 00:01:15,800
+So check it out.
+We're deriving
+
+10
+00:01:15,900 --> 00:01:18,000
+a set of coupled
+differential equations
+
+11
+00:01:18,100 --> 00:01:20,200
+using a fourth order
+Runge-Kutta Method.
+
+12
+00:01:20,300 --> 00:01:21,400
+You're kidding. Huh.
+
+13
+00:01:21,500 --> 00:01:22,300
+He's trying
+to see how far
+
+14
+00:01:22,400 --> 00:01:23,700
+he can fling
+a ball of fire.
+
+15
+00:01:23,800 --> 00:01:26,100
+Ooh. You know, I think
+I liked it better when you,
+
+16
+00:01:26,200 --> 00:01:28,000
+uh, lit dead bugs
+with a magnifying glass.
+
+17
+00:01:28,200 --> 00:01:29,700
+Don did that.
+Oh.
+
+18
+00:01:29,800 --> 00:01:31,400
+Right, yeah.
+
+19
+00:01:31,900 --> 00:01:33,100
+All right!
+
+20
+00:01:37,100 --> 00:01:38,300
+Bingo!
+
+21
+00:01:39,900 --> 00:01:41,300
+Good shot!
+
+22
+00:01:42,400 --> 00:01:43,500
+What? Come in.
+
+23
+00:01:44,500 --> 00:01:45,700
+Alan Eppes?
+
+24
+00:01:46,000 --> 00:01:46,900
+Yeah?
+
+25
+00:01:47,000 --> 00:01:48,400
+Have a nice day.
+
+26
+00:01:50,900 --> 00:01:52,100
+What was
+all that about?
+
+27
+00:01:52,200 --> 00:01:54,500
+Oh, oh. It's a project
+that I consulted on.
+
+28
+00:01:54,600 --> 00:01:56,500
+Which project?
+Kim's Day Night
+
+29
+00:01:56,600 --> 00:01:57,800
+Golf Center.
+
+30
+00:01:57,900 --> 00:01:59,000
+Yeah, that's the
+driving range
+
+31
+00:01:59,100 --> 00:02:01,100
+in Koreatown, right?
+Yeah. The neighbors
+
+32
+00:02:01,200 --> 00:02:02,800
+in the surrounding apartments
+have been complaining
+
+33
+00:02:02,900 --> 00:02:05,000
+that the, uh,
+floodlights are on 24/7.
+
+34
+00:02:05,100 --> 00:02:06,800
+Apparently, it's daytime
+all night long.
+
+35
+00:02:09,300 --> 00:02:10,600
+I'm being sued.
+
+36
+00:02:18,500 --> 00:02:19,700
+What do you see, David?
+
+37
+00:02:20,900 --> 00:02:23,000
+Badge traces back
+to an LAPD officer
+
+38
+00:02:23,100 --> 00:02:24,400
+went missing
+in 1990.
+
+39
+00:02:24,500 --> 00:02:25,800
+Hmm. Missing how?
+
+40
+00:02:25,900 --> 00:02:27,800
+Uh, we don't know.
+Found the badge
+right there.
+
+41
+00:02:28,000 --> 00:02:29,800
+Officer's name
+was John Everett.
+
+42
+00:02:29,900 --> 00:02:30,900
+23 years old.
+
+43
+00:02:31,000 --> 00:02:32,600
+Bureau initially
+handled the case
+
+44
+00:02:32,700 --> 00:02:34,100
+as an unexplained disappearance.
+
+45
+00:02:35,400 --> 00:02:36,000
+Yeah, well,
+
+46
+00:02:36,100 --> 00:02:37,400
+this should give it
+a new perspective, huh?
+
+47
+00:02:37,500 --> 00:02:40,300
+Reports indicate he went missing
+wearing his uniform.
+
+48
+00:02:40,400 --> 00:02:42,500
+It's looking like
+a cop killing with
+the guy out there
+
+49
+00:02:42,600 --> 00:02:43,700
+still walking around.
+
+50
+00:02:43,800 --> 00:02:45,200
+That's Gary Walker
+coming up the hill.
+
+51
+00:02:45,300 --> 00:02:47,400
+LAPD's gonna work
+with us on this one.
+
+52
+00:02:47,800 --> 00:02:49,300
+So, Lieutenant,
+how you doing?
+
+53
+00:02:49,400 --> 00:02:51,100
+Seen me on better
+
+54
+00:02:51,500 --> 00:02:52,800
+Sinclair.
+
+55
+00:02:53,200 --> 00:02:54,200
+Is this it?
+
+56
+00:02:54,400 --> 00:02:55,900
+This is it.
+
+57
+00:03:01,700 --> 00:03:04,400
+Man who wore this
+was the finest young
+cop I ever knew.
+
+58
+00:03:06,800 --> 00:03:08,200
+You were close
+with John Everett?
+
+59
+00:03:08,600 --> 00:03:09,600
+Yeah.
+
+60
+00:03:10,100 --> 00:03:12,200
+Everett was on my
+street crime team.
+
+61
+00:03:12,600 --> 00:03:14,100
+We hit hard and often.
+
+62
+00:03:14,200 --> 00:03:15,800
+Couple of weeks
+before he disappeared,
+
+63
+00:03:16,600 --> 00:03:19,400
+he killed a real hard-ass
+gang banger
+
+64
+00:03:19,500 --> 00:03:20,700
+named Stephon Bradley.
+
+65
+00:03:20,800 --> 00:03:21,500
+You think him
+gone missing
+
+66
+00:03:21,600 --> 00:03:23,000
+was an act of revenge maybe?
+
+67
+00:03:23,100 --> 00:03:25,500
+I don't need to think,
+I know, Sinclair.
+
+68
+00:03:26,000 --> 00:03:28,000
+His brother vowed
+revenge at the time,
+
+69
+00:03:28,100 --> 00:03:30,200
+and Everett's
+car was found
+
+70
+00:03:30,300 --> 00:03:31,100
+in his
+neighborhood.
+
+71
+00:03:31,200 --> 00:03:32,300
+What, you couldn't make a case?
+
+72
+00:03:32,400 --> 00:03:33,600
+Not without a body.
+
+73
+00:03:34,200 --> 00:03:35,400
+What happened to Bradley?
+
+74
+00:03:36,400 --> 00:03:38,400
+Did ten years for armed robbery.
+
+75
+00:03:38,500 --> 00:03:40,100
+Paroled in '02.
+
+76
+00:03:40,600 --> 00:03:43,000
+Got a college degree while
+he was on the inside, too.
+
+77
+00:03:43,100 --> 00:03:44,600
+I hear he even writes
+a little poetry now.
+
+78
+00:03:46,100 --> 00:03:47,800
+But all that's about to change.
+
+79
+00:03:53,800 --> 00:03:55,100
+We got this cop
+that disappeared
+
+80
+00:03:55,200 --> 00:03:57,100
+but, uh, the thing is, it
+happened 17 years ago.
+
+81
+00:03:57,800 --> 00:03:59,000
+What can I do?
+
+82
+00:03:59,100 --> 00:04:00,700
+High rise was supposed
+to be built,
+
+83
+00:04:00,800 --> 00:04:02,300
+but a lawsuit
+shut it down.
+
+84
+00:04:02,400 --> 00:04:04,300
+And the lot's been
+vacant ever since?
+Yeah.
+
+85
+00:04:04,400 --> 00:04:06,700
+This area right here--
+that's where the kids found
+
+86
+00:04:06,800 --> 00:04:08,300
+Officer Everett's badge.
+
+87
+00:04:08,500 --> 00:04:11,000
+Okay. A construction site
+would be a pretty good place
+
+88
+00:04:11,100 --> 00:04:11,800
+to hide a body.
+
+89
+00:04:11,900 --> 00:04:13,100
+Yeah. Crew could bury
+over the body without
+
+90
+00:04:13,200 --> 00:04:14,100
+ever knowing
+about it.
+
+91
+00:04:14,200 --> 00:04:15,800
+Mm-hmm. Of course,
+on the flip side,
+
+92
+00:04:16,400 --> 00:04:18,200
+doesn't even mean that
+there's a body there.
+
+93
+00:04:18,300 --> 00:04:19,100
+Oh, there's a body.
+
+94
+00:04:19,400 --> 00:04:20,800
+Trust me, Agent Reeves.
+
+95
+00:04:20,900 --> 00:04:22,700
+Of course.
+I'm-I'm sorry.
+I just mean,
+
+96
+00:04:22,800 --> 00:04:24,400
+it's a lot of ground
+to cover there.
+
+97
+00:04:25,200 --> 00:04:26,200
+Charlie?
+
+98
+00:04:26,300 --> 00:04:27,200
+Um...
+
+99
+00:04:27,700 --> 00:04:29,100
+laser swath mapping.
+
+100
+00:04:29,200 --> 00:04:31,000
+Well, take me back
+to school, Professor.
+
+101
+00:04:31,100 --> 00:04:32,200
+It's a lot like radar.
+
+102
+00:04:32,700 --> 00:04:33,900
+Instead of sending out
+
+103
+00:04:34,000 --> 00:04:36,400
+radio waves,
+we're shooting laser pulses,
+
+104
+00:04:36,500 --> 00:04:37,400
+which will allow me
+
+105
+00:04:37,500 --> 00:04:39,500
+to create a
+highly accurate,
+
+106
+00:04:39,600 --> 00:04:42,500
+3-D, uh, topographical map
+of the area.
+
+107
+00:04:43,100 --> 00:04:45,100
+And then we look
+for abnormal erosion
+
+108
+00:04:45,200 --> 00:04:46,300
+in the Earth's surface.
+
+109
+00:04:46,400 --> 00:04:50,000
+See, ground earth is compact
+until it's disturbed.
+
+110
+00:04:50,100 --> 00:04:51,200
+It's like when
+you dig a grave.
+
+111
+00:04:51,300 --> 00:04:52,700
+Right, when
+a person's body
+
+112
+00:04:52,800 --> 00:04:55,200
+is buried, uh, erosion
+
+113
+00:04:55,300 --> 00:04:59,100
+and decomposition create
+a depression in the earth.
+
+114
+00:04:59,200 --> 00:05:01,300
+Um, here,
+let me take this, um...
+
+115
+00:05:01,400 --> 00:05:02,700
+this bowl of...
+
+116
+00:05:02,900 --> 00:05:05,600
+this bowl of popcorn,
+for example, and imagine
+
+117
+00:05:06,900 --> 00:05:10,200
+that this is the earth
+under which a body is buried.
+
+118
+00:05:10,300 --> 00:05:12,500
+And this water
+represents
+
+119
+00:05:12,600 --> 00:05:14,100
+erosion, time...
+
+120
+00:05:14,200 --> 00:05:16,600
+And there goes my lunch.
+
+121
+00:05:16,700 --> 00:05:17,900
+See that depression?
+
+122
+00:05:18,200 --> 00:05:19,400
+That is what our lasers
+
+123
+00:05:19,500 --> 00:05:20,600
+are looking for.
+
+124
+00:05:20,700 --> 00:05:21,700
+Well, that sounds
+real good
+
+125
+00:05:22,000 --> 00:05:23,900
+as long as we
+locate my man.
+
+126
+00:05:24,000 --> 00:05:24,900
+See, this isn't just
+
+127
+00:05:25,000 --> 00:05:26,800
+an unsolved homicide
+for me. I knew John.
+
+128
+00:05:26,900 --> 00:05:30,000
+I was responsible for hi
+as I am for all of my men.
+
+129
+00:05:31,300 --> 00:05:32,600
+17 years ago,
+
+130
+00:05:32,800 --> 00:05:36,500
+John's wife had to bury
+an empty coffin,
+
+131
+00:05:36,600 --> 00:05:37,600
+and we didn't have the evidence
+
+132
+00:05:37,700 --> 00:05:40,100
+to take down his killer,
+Calvin Bradley.
+
+133
+00:05:40,200 --> 00:05:41,600
+It's time
+to bring Everett home...
+
+134
+00:05:44,700 --> 00:05:46,500
+...get this cop killer
+off the streets.
+
+135
+00:05:53,501 --> 00:05:55,801
+So, there's Walker's
+team back in 1990,
+
+136
+00:05:55,901 --> 00:05:59,201
+and he was married
+for three years.
+
+137
+00:05:59,301 --> 00:06:00,601
+Had a little boy
+
+138
+00:06:00,701 --> 00:06:03,101
+who is now 19 years old.
+
+139
+00:06:03,201 --> 00:06:03,901
+According to Walker,
+
+140
+00:06:04,001 --> 00:06:05,601
+he and the team stay close
+to the family.
+
+141
+00:06:05,701 --> 00:06:08,301
+Yeah, survivor's
+guilt probably.
+
+142
+00:06:09,001 --> 00:06:10,301
+Hey, Liz,
+
+143
+00:06:11,501 --> 00:06:12,801
+thanks for helping us out.
+
+144
+00:06:12,901 --> 00:06:13,901
+Oh, yeah, no problem.
+
+145
+00:06:14,001 --> 00:06:16,101
+I was getting tired
+of driving around Compton
+
+146
+00:06:16,201 --> 00:06:17,701
+breaking down
+doors anyway.
+
+147
+00:06:17,801 --> 00:06:19,201
+Ooh, gang detail.
+
+148
+00:06:19,301 --> 00:06:20,001
+Mm-hmm.
+
+149
+00:06:20,101 --> 00:06:21,601
+War on drugs knows no end.
+
+150
+00:06:21,701 --> 00:06:23,801
+Anyway, these are the files
+you asked for.
+
+151
+00:06:24,001 --> 00:06:25,901
+Okay, and Calvin Bradley?
+
+152
+00:06:26,001 --> 00:06:28,401
+He ran with a black gang
+known as BSF:
+
+153
+00:06:28,601 --> 00:06:30,601
+Bixel Street Family.
+
+154
+00:06:30,701 --> 00:06:32,401
+I asked around.
+
+155
+00:06:32,501 --> 00:06:34,101
+He's actually a bit of a legend.
+
+156
+00:06:34,201 --> 00:06:35,101
+Yeah? How so?
+
+157
+00:06:35,201 --> 00:06:37,101
+I mean, guy clearly
+is no angel, but word now,
+
+158
+00:06:37,201 --> 00:06:38,901
+he's a changed
+man, and, uh,
+
+159
+00:06:39,001 --> 00:06:40,101
+runs a program helping kids.
+
+160
+00:06:40,201 --> 00:06:42,201
+And he's been clean
+since his brother's death?
+
+161
+00:06:43,001 --> 00:06:45,201
+You mean since Everett's.
+
+162
+00:06:46,501 --> 00:06:47,701
+Uh-huh.
+
+163
+00:06:50,101 --> 00:06:51,301
+Hard to believe
+
+164
+00:06:51,401 --> 00:06:54,201
+we may finally find Everett
+after all these years.
+
+165
+00:06:54,301 --> 00:06:56,201
+To think he's been
+rotting out there all this time.
+
+166
+00:06:56,301 --> 00:06:58,201
+While Calvin Bradley's
+been walking around
+
+167
+00:06:58,301 --> 00:06:59,201
+a free man.
+
+168
+00:06:59,301 --> 00:07:01,201
+No thanks
+to the FBI.
+
+169
+00:07:01,301 --> 00:07:02,501
+Hey, what? Excuse me?
+Let's just
+
+170
+00:07:02,601 --> 00:07:03,801
+say the Feds didn't put
+
+171
+00:07:03,901 --> 00:07:05,201
+much manpower on it
+at the time.
+
+172
+00:07:05,301 --> 00:07:07,001
+Look, I wasn't there
+at the time, okay?
+
+173
+00:07:07,101 --> 00:07:08,701
+Hey, listen, this has been
+a very tough day
+
+174
+00:07:08,801 --> 00:07:10,201
+for all of us, but, uh,
+
+175
+00:07:10,301 --> 00:07:11,401
+we're on the
+same page now,
+
+176
+00:07:11,501 --> 00:07:13,001
+and, uh, Eppes
+has just come here
+
+177
+00:07:13,101 --> 00:07:15,201
+to find out what happened the
+day that Everett disappeared.
+
+178
+00:07:15,301 --> 00:07:16,901
+I mean, if there's anything
+you remember, you know,
+
+179
+00:07:17,001 --> 00:07:18,501
+that's come back to you,
+you know what I'm after.
+
+180
+00:07:23,801 --> 00:07:24,701
+Night before,
+
+181
+00:07:24,801 --> 00:07:26,801
+a ten-year-old girl
+was killed in a drive-by.
+
+182
+00:07:26,901 --> 00:07:30,201
+Word was a BSF crew had raided
+a rival gang's stash house.
+
+183
+00:07:30,301 --> 00:07:31,201
+What's BSF?
+
+184
+00:07:31,301 --> 00:07:32,201
+Bixel Street
+Family.
+
+185
+00:07:32,301 --> 00:07:33,501
+That was Bradley's gang
+at the time.
+
+186
+00:07:33,601 --> 00:07:35,901
+Anyway, team had
+the day off.
+
+187
+00:07:36,301 --> 00:07:38,001
+Commanders wanted
+everyone on it.
+
+188
+00:07:38,101 --> 00:07:40,201
+Kid gets killed,
+politicians want action.
+
+189
+00:07:40,301 --> 00:07:41,601
+Well, you know
+how it is.
+
+190
+00:07:42,701 --> 00:07:44,301
+So I called everybody in.
+
+191
+00:07:44,401 --> 00:07:45,501
+Everett had some
+appointments,
+
+192
+00:07:45,601 --> 00:07:46,401
+didn't get the
+word till late.
+
+193
+00:07:46,601 --> 00:07:49,101
+By the time he rolle
+we were all out on the street.
+
+194
+00:07:49,201 --> 00:07:50,701
+That was the last
+we heard of him.
+
+195
+00:07:51,901 --> 00:07:53,901
+What's going on?
+I got your call.
+
+196
+00:07:54,001 --> 00:07:55,601
+Did you find him?
+No, no, no,
+not yet.
+
+197
+00:07:55,701 --> 00:07:56,201
+Not yet,
+not yet.
+I don't understand.
+
+198
+00:07:56,301 --> 00:07:59,201
+Well, some kids...
+some kids found his badge.
+
+199
+00:07:59,301 --> 00:08:00,701
+Oh, my God.
+
+200
+00:08:00,801 --> 00:08:02,001
+What am I gonna
+tell Kevin?
+
+201
+00:08:02,101 --> 00:08:03,701
+You just let us talk
+to him, all right?
+
+202
+00:08:05,301 --> 00:08:06,001
+Thanks.
+
+203
+00:08:06,101 --> 00:08:07,701
+Just, uh...
+
+204
+00:08:09,401 --> 00:08:10,701
+What's that all about?
+
+205
+00:08:11,701 --> 00:08:13,001
+That's Everett's wife.
+
+206
+00:08:13,101 --> 00:08:14,701
+She's worried
+about their son Kevin.
+
+207
+00:08:14,801 --> 00:08:15,501
+Uh-huh.
+
+208
+00:08:15,601 --> 00:08:17,301
+We tried to be
+like a dad to him.
+
+209
+00:08:18,201 --> 00:08:19,001
+You can see why
+
+210
+00:08:19,101 --> 00:08:21,201
+we want Calvin Bradley
+brought to justice.
+
+211
+00:08:23,501 --> 00:08:24,601
+Charlie, have you seen the...?
+
+212
+00:08:25,601 --> 00:08:27,301
+Laser Swath Mapping?
+
+213
+00:08:27,401 --> 00:08:28,601
+Yeah. Are you
+familiar with it?
+
+214
+00:08:28,701 --> 00:08:29,701
+I am.
+
+215
+00:08:29,801 --> 00:08:32,401
+I consulted once with
+the Army Corps of Engineers.
+
+216
+00:08:32,501 --> 00:08:33,301
+Oh, my.
+They were checking
+
+217
+00:08:33,401 --> 00:08:35,801
+for coastal erosion
+along the Gulf, but this...
+
+218
+00:08:36,401 --> 00:08:38,101
+This looks local.
+Well...
+
+219
+00:08:38,201 --> 00:08:39,401
+I'm helping
+the FBI
+
+220
+00:08:40,601 --> 00:08:42,901
+locate a missing police officer.
+
+221
+00:08:43,001 --> 00:08:44,301
+A missing police officer?
+
+222
+00:08:44,401 --> 00:08:45,101
+I didn't hear anything
+about that
+
+223
+00:08:45,201 --> 00:08:46,201
+on the news.
+
+224
+00:08:46,301 --> 00:08:48,001
+Well, it was
+back in 1990.
+
+225
+00:08:48,101 --> 00:08:50,101
+Bunch of kids
+just recently
+
+226
+00:08:50,201 --> 00:08:52,201
+found his badge
+in an empty lot.
+
+227
+00:08:52,501 --> 00:08:54,301
+So, you're looking for...?
+
+228
+00:08:54,401 --> 00:08:56,601
+His body.
+Oh, God.
+
+229
+00:08:56,701 --> 00:08:58,101
+That-That's an awful thing
+to happen.
+
+230
+00:08:58,201 --> 00:08:59,101
+Yeah.
+
+231
+00:08:59,201 --> 00:09:00,901
+So, um, have you seen Amita?
+
+232
+00:09:01,001 --> 00:09:02,301
+She was in her office earlier.
+
+233
+00:09:02,401 --> 00:09:03,501
+She's probably hiding from me.
+
+234
+00:09:03,601 --> 00:09:04,801
+Why would she be hiding
+from you?
+
+235
+00:09:04,901 --> 00:09:07,301
+Oh, well, because she resigned
+
+236
+00:09:07,401 --> 00:09:09,401
+as the Chair
+of the Curriculum Committee.
+
+237
+00:09:10,701 --> 00:09:12,001
+She resigned?
+
+238
+00:09:12,101 --> 00:09:12,501
+Mm-hmm.
+
+239
+00:09:12,601 --> 00:09:13,601
+In an e-mail.
+
+240
+00:09:13,701 --> 00:09:15,001
+Chairing that committee
+
+241
+00:09:15,101 --> 00:09:16,701
+is an incredible opportunity
+for her...
+
+242
+00:09:19,801 --> 00:09:20,901
+Hey, Charlie, um,
+
+243
+00:09:21,401 --> 00:09:23,601
+I left your dad
+a couple of messages,
+
+244
+00:09:23,701 --> 00:09:25,501
+and I haven't heard back
+from him yet,
+
+245
+00:09:25,601 --> 00:09:26,201
+and I was
+wondering if
+
+246
+00:09:26,601 --> 00:09:30,001
+<i>you knew if there's a reason
+he's not calling me?</i>
+
+247
+00:09:30,901 --> 00:09:32,101
+Well, he's being sued.
+
+248
+00:09:32,701 --> 00:09:34,201
+He's being sued?!
+
+249
+00:09:34,301 --> 00:09:34,801
+Yeah.
+
+250
+00:09:34,901 --> 00:09:36,301
+Apparently, a golf driving range
+
+251
+00:09:36,401 --> 00:09:40,401
+he's been working on has become
+an eyesore, literally.
+
+252
+00:09:42,101 --> 00:09:43,201
+Yeah, that's him.
+
+253
+00:09:44,101 --> 00:09:45,301
+That's Calvin Bradley.
+
+254
+00:09:46,201 --> 00:09:47,801
+I thought associating
+with gang members
+
+255
+00:09:47,901 --> 00:09:49,401
+was a violation
+of his parole?
+
+256
+00:09:49,501 --> 00:09:51,901
+Oh, he applied to a judge
+for an exception.
+
+257
+00:09:52,001 --> 00:09:54,101
+Claimed he was
+rehabilitating them.
+
+258
+00:09:54,901 --> 00:09:55,901
+You guys seem pretty sure
+
+259
+00:09:56,001 --> 00:09:57,601
+he's the one who
+killed Officer Everett.
+
+260
+00:09:58,101 --> 00:09:59,301
+In 1990,
+
+261
+00:09:59,401 --> 00:10:02,001
+Bradley's bragging to
+anybody who will listen,
+
+262
+00:10:02,101 --> 00:10:03,501
+he's gonna get revenge
+on Everett
+
+263
+00:10:03,601 --> 00:10:04,501
+for killing his brother.
+
+264
+00:10:05,701 --> 00:10:07,201
+Words don't always
+mean action.
+
+265
+00:10:07,301 --> 00:10:08,701
+Out there, you
+learned real quick
+
+266
+00:10:08,801 --> 00:10:10,601
+there was no such thing
+as an idle threat.
+
+267
+00:10:10,801 --> 00:10:12,301
+I grew up in this
+neighborhood, all right?
+
+268
+00:10:12,801 --> 00:10:14,701
+Half the gang
+bangers I busted,
+
+269
+00:10:14,801 --> 00:10:18,001
+I knew, and if they said it,
+they did it.
+
+270
+00:10:18,101 --> 00:10:21,401
+We find John Everett's body,
+this scumbag's going down.
+
+271
+00:10:25,701 --> 00:10:27,501
+So these are all the spots
+I have.
+
+272
+00:10:27,801 --> 00:10:29,401
+How far down
+do they have to dig?
+
+273
+00:10:29,501 --> 00:10:30,501
+Oh, just about...
+
+274
+00:10:30,601 --> 00:10:32,501
+just about four feet or so.
+
+275
+00:10:32,601 --> 00:10:35,101
+You worked that
+gang case last year,
+developed those, uh...
+
+276
+00:10:35,201 --> 00:10:36,201
+What are they called?
+
+277
+00:10:36,301 --> 00:10:37,201
+Shooting chains?
+
+278
+00:10:37,601 --> 00:10:41,501
+Yeah, a, uh, murder leads
+to a retaliation,
+
+279
+00:10:41,601 --> 00:10:44,301
+and another and another,
+and, yeah, it's a...
+
+280
+00:10:44,401 --> 00:10:45,601
+it's a domino effect, sure.
+
+281
+00:10:45,901 --> 00:10:47,301
+Any chance you could
+do that here?
+
+282
+00:10:47,401 --> 00:10:48,401
+See if any other slayings
+
+283
+00:10:48,501 --> 00:10:50,901
+connect this cop's death
+to Calvin Bradley?
+
+284
+00:10:51,001 --> 00:10:52,101
+Yeah, it's quite possible.
+
+285
+00:10:53,901 --> 00:10:55,101
+Where's your brother?
+
+286
+00:10:55,201 --> 00:10:56,201
+Hmm?
+
+287
+00:10:56,301 --> 00:10:58,201
+Oh, he's off
+with the LAPD.
+
+288
+00:10:59,101 --> 00:11:00,601
+Does he know that
+you're on this case?
+
+289
+00:11:00,701 --> 00:11:03,501
+No. I haven't had a
+chance to tell him.
+
+290
+00:11:03,601 --> 00:11:05,301
+Oh, well, that'll be
+a nice surprise for him.
+
+291
+00:11:06,801 --> 00:11:07,901
+You think?
+
+292
+00:11:08,001 --> 00:11:09,601
+I mean, has he said something
+to you?
+
+293
+00:11:10,401 --> 00:11:12,301
+'Cause, you know, I...
+he's just been a little...
+
+294
+00:11:12,501 --> 00:11:13,501
+No, he's...
+
+295
+00:11:14,201 --> 00:11:15,901
+He's been going through
+some stuff.
+
+296
+00:11:16,301 --> 00:11:17,400
+Stuff?
+
+297
+00:11:17,401 --> 00:11:18,701
+Yeah.
+
+298
+00:11:18,801 --> 00:11:20,701
+I think you should talk
+to him about it.
+
+299
+00:11:21,401 --> 00:11:22,201
+Sure.
+
+300
+00:11:22,301 --> 00:11:24,001
+Agent Warner,
+we got something.
+
+301
+00:11:26,801 --> 00:11:28,801
+C1, just as
+I had suspected.
+
+302
+00:11:34,101 --> 00:11:36,301
+It's him. It's Everett.
+
+303
+00:11:39,901 --> 00:11:42,101
+The Preliminary Coroner's
+investigation here
+
+304
+00:11:42,201 --> 00:11:44,801
+indicates Everett had a single
+gunshot wound to the head.
+
+305
+00:11:44,901 --> 00:11:46,501
+Fracturing indicates it was
+
+306
+00:11:46,601 --> 00:11:48,101
+probably at close range.
+
+307
+00:11:48,701 --> 00:11:50,501
+So this was
+an execution.
+
+308
+00:11:50,601 --> 00:11:51,901
+Never been any
+doubt about that.
+
+309
+00:11:52,401 --> 00:11:54,401
+Somehow Bradley got his
+hands on Everett...
+
+310
+00:11:54,601 --> 00:11:55,601
+walked him to the
+
+311
+00:11:55,701 --> 00:11:57,801
+construction site,
+planted one in his dome.
+
+312
+00:11:57,901 --> 00:12:00,001
+Then he dumped
+him in a ditch,
+
+313
+00:12:00,101 --> 00:12:02,601
+and waited for a
+construction crew
+to seal his tomb.
+
+314
+00:12:03,601 --> 00:12:05,401
+Maybe. But can you prove it?
+
+315
+00:12:05,501 --> 00:12:07,801
+Well, I'm gonna let
+Bradley to do that for me.
+
+316
+00:12:07,901 --> 00:12:09,601
+What makes you think
+he's gonna talk to you now?
+
+317
+00:12:09,701 --> 00:12:11,101
+1990, I didn't
+have a body.
+
+318
+00:12:11,201 --> 00:12:12,901
+Bradley knew that.
+Now I do.
+
+319
+00:12:27,401 --> 00:12:29,801
+Calvin Bradley, FBI, open up!
+
+320
+00:12:30,101 --> 00:12:32,401
+LAPD. What the
+hell's going on?
+
+321
+00:12:38,401 --> 00:12:39,901
+Get off him! Back off!
+
+322
+00:12:43,501 --> 00:12:44,601
+We're done here!
+
+323
+00:12:49,301 --> 00:12:51,101
+You see me here with no lawyer
+
+324
+00:12:51,201 --> 00:12:52,801
+because I have nothing to hide.
+
+325
+00:12:53,101 --> 00:12:55,401
+Yeah, why is it you look like
+you got something to hide, huh?
+
+326
+00:12:55,601 --> 00:12:58,401
+17 years, nothing changes.
+
+327
+00:12:58,501 --> 00:13:01,101
+And you people wonder why we
+don't want to help the cops.
+
+328
+00:13:03,001 --> 00:13:04,401
+We found him, Calvin.
+
+329
+00:13:04,601 --> 00:13:06,001
+You know who that is, right?
+
+330
+00:13:06,101 --> 00:13:08,101
+LAPD officer,
+John Everett.
+
+331
+00:13:08,201 --> 00:13:11,801
+Same cop that killed your
+little brother 17 years ago.
+
+332
+00:13:11,901 --> 00:13:13,301
+And disappeared two weeks later.
+
+333
+00:13:14,201 --> 00:13:16,001
+I have nothing to do with this.
+
+334
+00:13:16,201 --> 00:13:17,501
+Several witnesses say
+
+335
+00:13:17,601 --> 00:13:20,301
+you threatened
+Officer Everett's life.
+
+336
+00:13:20,401 --> 00:13:22,801
+I was young.
+I was a hothead.
+
+337
+00:13:23,201 --> 00:13:24,801
+Said some things
+I didn't mean.
+
+338
+00:13:24,901 --> 00:13:26,801
+Hey, his car was found
+a couple hundred feet
+
+339
+00:13:26,901 --> 00:13:27,701
+from your house.
+
+340
+00:13:27,801 --> 00:13:30,901
+Calvin, man, you've spent
+more time in a law library
+than we have.
+
+341
+00:13:31,001 --> 00:13:32,601
+You know that car
+gives you opportunity
+
+342
+00:13:32,701 --> 00:13:33,901
+and your brother's death,
+
+343
+00:13:34,001 --> 00:13:35,201
+that gives you motive.
+
+344
+00:13:35,301 --> 00:13:37,901
+My little brother
+was shot down like a dog.
+
+345
+00:13:38,001 --> 00:13:39,601
+Police didn't investigate.
+
+346
+00:13:39,701 --> 00:13:41,501
+You guys didn't care.
+Your little brother
+
+347
+00:13:41,601 --> 00:13:43,501
+was a drug dealer who ran
+with one of the most
+
+348
+00:13:43,601 --> 00:13:45,101
+violent gangs in the city.
+
+349
+00:13:45,201 --> 00:13:47,201
+You make it sound like
+Stephon had a choice.
+
+350
+00:13:47,301 --> 00:13:48,601
+Like any of us did.
+
+351
+00:13:48,701 --> 00:13:51,101
+Got one choice out there, man:
+Live or die.
+
+352
+00:13:51,201 --> 00:13:52,901
+Is that what you told
+Officer Everett
+
+353
+00:13:53,001 --> 00:13:54,601
+when you put a bullet
+through his skull?
+
+354
+00:13:56,101 --> 00:13:58,501
+I've already been to prison
+for crimes I committed.
+
+355
+00:13:58,701 --> 00:14:00,701
+I'm not going back
+for one I didn't do.
+
+356
+00:14:01,401 --> 00:14:03,101
+Life without parole.
+
+357
+00:14:03,601 --> 00:14:06,101
+Okay? That's the
+only time you're going
+to hear that offer.
+
+358
+00:14:06,901 --> 00:14:10,001
+You people think my brother
+got what he deserved.
+
+359
+00:14:11,701 --> 00:14:12,701
+Well...
+
+360
+00:14:12,801 --> 00:14:14,701
+I think same might
+be said for this cop.
+
+361
+00:14:16,501 --> 00:14:17,901
+What was that you said?
+
+362
+00:14:18,001 --> 00:14:19,301
+All right.
+Say that again.
+
+363
+00:14:19,401 --> 00:14:20,701
+Listen, Gary, come on.
+Hey, Gary.
+
+364
+00:14:20,801 --> 00:14:22,701
+Gary, Gary! Hey Gary!
+
+365
+00:14:22,801 --> 00:14:24,001
+All right, all right. Listen.
+
+366
+00:14:24,201 --> 00:14:25,201
+Down.
+
+367
+00:14:25,301 --> 00:14:27,001
+Could I talk to
+you for a second?
+Yeah, yeah, yeah, yep.
+
+368
+00:14:31,701 --> 00:14:33,201
+You can't do that
+around here, you know?
+
+369
+00:14:33,301 --> 00:14:34,101
+You gotta calm down.
+
+370
+00:14:34,401 --> 00:14:35,301
+Whew. Okay.
+
+371
+00:14:35,501 --> 00:14:38,101
+He wants to desecrate the
+memory of one of my men.
+
+372
+00:14:38,301 --> 00:14:40,501
+You just let me have a piece
+of him, I'll get a confession.
+
+373
+00:14:40,601 --> 00:14:41,801
+No, I can't do that.
+
+374
+00:14:41,901 --> 00:14:42,901
+Come on, Eppes,
+just take a walk,
+
+375
+00:14:43,001 --> 00:14:44,601
+go have dinner
+or whatever.
+
+376
+00:14:44,701 --> 00:14:46,001
+I understand how you feel.
+
+377
+00:14:46,101 --> 00:14:46,801
+It's not gonna happen,
+all right?
+
+378
+00:14:46,901 --> 00:14:48,701
+Okay, listen.
+Before Everett disappeared,
+
+379
+00:14:48,801 --> 00:14:51,101
+he was worried about
+retribution.
+
+380
+00:14:51,201 --> 00:14:52,701
+He'd heard things on the street.
+
+381
+00:14:52,801 --> 00:14:53,901
+And we're running that down.
+
+382
+00:14:54,001 --> 00:14:56,401
+Yeah, well, I've been running
+it down for 17 years.
+
+383
+00:14:56,901 --> 00:14:57,701
+And now,
+
+384
+00:14:57,801 --> 00:14:58,901
+you have the man.
+
+385
+00:14:59,001 --> 00:15:00,701
+You have him sitting right here.
+
+386
+00:15:00,801 --> 00:15:03,101
+The man who killed him.
+Now, if you two don't
+
+387
+00:15:03,201 --> 00:15:04,501
+have the stomach for it--
+That's not the case.
+
+388
+00:15:04,601 --> 00:15:06,101
+All right? We tried.
+
+389
+00:15:06,201 --> 00:15:07,401
+We don't have enough
+to hold the guy. Period.
+
+390
+00:15:09,101 --> 00:15:10,001
+Are you setting him free?
+
+391
+00:15:10,101 --> 00:15:11,601
+Yeah, you bet I'm
+setting him loose.
+
+392
+00:15:13,801 --> 00:15:15,201
+Excuse me.
+
+393
+00:15:17,801 --> 00:15:19,201
+Someone's not happy.
+
+394
+00:15:19,301 --> 00:15:20,501
+Bradley called
+our bluff.
+
+395
+00:15:20,701 --> 00:15:22,401
+Well, it's about to get
+more interesting.
+
+396
+00:15:22,501 --> 00:15:23,301
+The ballistics are in.
+
+397
+00:15:23,401 --> 00:15:25,701
+The bullet that killed
+Everett came from a .38.
+
+398
+00:15:26,001 --> 00:15:28,501
+What? A revolver?
+Or a revolver
+that was issued
+
+399
+00:15:28,601 --> 00:15:31,501
+to Everett.
+It's his duty weapon.
+
+400
+00:15:31,601 --> 00:15:33,701
+Same gun that killed
+Stephon Bradley.
+
+401
+00:15:34,101 --> 00:15:36,301
+That means Everett was killed
+with his own gun.
+
+402
+00:15:36,801 --> 00:15:38,201
+yeah.
+
+403
+00:15:44,001 --> 00:15:46,101
+Kevin wouldn't
+even remember his dad
+
+404
+00:15:46,201 --> 00:15:47,501
+if it weren't
+for those guys.
+
+405
+00:15:47,601 --> 00:15:51,001
+They took him to ball
+games, camping trips...
+
+406
+00:15:52,901 --> 00:15:54,101
+How's he holding up?
+
+407
+00:15:54,201 --> 00:15:57,301
+It's been tough...
+watching me get through this.
+
+408
+00:15:58,001 --> 00:15:58,901
+But he's lucky.
+
+409
+00:15:59,001 --> 00:16:01,501
+He's got four great
+surrogate dads.
+
+410
+00:16:02,701 --> 00:16:04,401
+When Lieutenant Walker said
+that your husband
+
+411
+00:16:04,501 --> 00:16:06,101
+had some concerns
+after shooting
+
+412
+00:16:06,201 --> 00:16:07,301
+Stephon Bradley.
+
+413
+00:16:07,401 --> 00:16:09,501
+Uh, that's his way
+of saying he was upset.
+
+414
+00:16:10,501 --> 00:16:12,201
+Case you haven't noticed,
+Lieutenant Walker
+
+415
+00:16:12,301 --> 00:16:14,701
+doesn't exactly
+express himself well.
+
+416
+00:16:15,301 --> 00:16:16,801
+Emotionally, I mean.
+
+417
+00:16:18,001 --> 00:16:20,601
+Truth is, the shooting
+changed my husband.
+
+418
+00:16:20,701 --> 00:16:24,401
+He wasn't prepared for the way
+he felt after killing that kid.
+
+419
+00:16:24,501 --> 00:16:25,501
+Was he depressed?
+
+420
+00:16:25,601 --> 00:16:27,701
+Depressed?
+Did he have
+trouble eating?
+
+421
+00:16:27,801 --> 00:16:28,801
+Or sleeping?
+
+422
+00:16:29,701 --> 00:16:31,201
+What are you asking me?
+
+423
+00:16:32,001 --> 00:16:34,501
+Well, our forensics indicate
+that your husband
+
+424
+00:16:34,601 --> 00:16:36,201
+was killed with his own gun.
+
+425
+00:16:37,901 --> 00:16:39,801
+You think he killed himself?
+
+426
+00:16:42,001 --> 00:16:45,301
+No... No, he wouldn't do that.
+
+427
+00:16:46,801 --> 00:16:49,601
+Well, I'm sorry to put you
+through this. We just, uh...
+
+428
+00:16:50,301 --> 00:16:51,801
+we just wanted to be sure.
+
+429
+00:16:58,601 --> 00:17:00,901
+Walker's got Bradley
+tried and convicted.
+
+430
+00:17:01,001 --> 00:17:02,401
+Yeah, I know, I know.
+
+431
+00:17:03,101 --> 00:17:05,401
+Want some coffee?
+No, I'm good.
+
+432
+00:17:08,601 --> 00:17:09,601
+What's going on?
+
+433
+00:17:09,701 --> 00:17:12,701
+Is everything okay?
+Yeah, yeah, it's
+just some stuff.
+
+434
+00:17:12,801 --> 00:17:14,801
+You know, I really don't
+want to talk about.
+
+435
+00:17:19,901 --> 00:17:21,701
+Talking's not exactly
+what I had in mind.
+
+436
+00:17:22,601 --> 00:17:24,801
+Uh, isn't this
+sexual harassment?
+
+437
+00:17:24,901 --> 00:17:26,901
+Uh, I'll show you
+sexual harassment.
+
+438
+00:17:28,001 --> 00:17:29,501
+All right. Hey.
+
+439
+00:17:31,601 --> 00:17:33,401
+I want your
+input on that, Eppes.
+Yeah.
+
+440
+00:17:33,501 --> 00:17:34,701
+Roger that.
+
+441
+00:17:37,601 --> 00:17:38,901
+That's amazing.
+
+442
+00:17:39,001 --> 00:17:41,301
+And in 1977,
+there were fewer than...
+
+443
+00:17:41,401 --> 00:17:44,201
+500 murders in Los Angeles.
+
+444
+00:17:44,301 --> 00:17:46,501
+And by 1985,
+the number doubled.
+
+445
+00:17:46,801 --> 00:17:48,801
+Well, there must be
+some sort of causal
+
+446
+00:17:48,901 --> 00:17:50,701
+explanation for those
+statistics.
+
+447
+00:17:50,801 --> 00:17:52,901
+Yeah, I mean, it was
+the introduction of mass
+
+448
+00:17:53,001 --> 00:17:54,501
+drug sales by the gangs,
+you know?
+
+449
+00:17:54,601 --> 00:17:57,301
+Fights over street corners--
+territories shifting
+
+450
+00:17:57,401 --> 00:17:58,701
+led to more killings.
+
+451
+00:18:06,201 --> 00:18:07,401
+What?
+
+452
+00:18:07,501 --> 00:18:09,001
+You quit.
+
+453
+00:18:11,401 --> 00:18:12,601
+What are you talking about?
+
+454
+00:18:13,701 --> 00:18:15,401
+Chair of the Curriculum
+Committee.
+
+455
+00:18:16,001 --> 00:18:17,701
+You know how
+huge that is.
+
+456
+00:18:19,401 --> 00:18:21,201
+I can't believe she told you.
+
+457
+00:18:21,301 --> 00:18:23,301
+You know, neither Larry nor I
+were ever asked
+
+458
+00:18:23,401 --> 00:18:24,501
+to chair that committee.
+
+459
+00:18:24,601 --> 00:18:26,201
+There's some pretty
+heavy hitters, you know.
+
+460
+00:18:26,301 --> 00:18:27,801
+It can be intimidating.
+
+461
+00:18:27,901 --> 00:18:29,701
+I mean, maybe not for you...
+Well, I've seen you
+
+462
+00:18:29,801 --> 00:18:32,001
+with the faculty,
+you're very good.
+
+463
+00:18:34,901 --> 00:18:36,601
+Some of the professors talk.
+
+464
+00:18:37,601 --> 00:18:39,301
+About us.
+What?!
+
+465
+00:18:39,401 --> 00:18:40,301
+Well, it doesn't matter.
+
+466
+00:18:40,401 --> 00:18:41,801
+No, just tell me...
+What,
+
+467
+00:18:41,901 --> 00:18:42,801
+so that you can protect me?
+
+468
+00:18:43,301 --> 00:18:45,101
+Look, you can't and you
+shouldn't have to.
+
+469
+00:18:46,101 --> 00:18:47,801
+I'm just not ready for this.
+
+470
+00:18:53,601 --> 00:18:54,701
+Agent Reeves,
+
+471
+00:18:54,801 --> 00:18:56,801
+did you mention
+something about suicide?
+
+472
+00:18:56,901 --> 00:19:00,201
+Did you mention to Everett's
+wife that he killed himself?
+
+473
+00:19:00,301 --> 00:19:02,501
+No, I never said that.
+I know you
+didn't say that.
+
+474
+00:19:02,601 --> 00:19:06,001
+But did you say something about,
+"Well, was he depressed...?"
+
+475
+00:19:06,101 --> 00:19:08,401
+Eh, he was depressed,
+Lieutenant.
+
+476
+00:19:08,501 --> 00:19:09,501
+Now, you shouldn't...
+
+477
+00:19:09,601 --> 00:19:12,501
+You really had no
+right to do that.
+
+478
+00:19:12,601 --> 00:19:14,601
+Hold on. Don't come in here
+telling us what rights
+
+479
+00:19:14,701 --> 00:19:15,601
+we do or don't have, Gary.
+
+480
+00:19:15,701 --> 00:19:17,001
+Now, I understand
+how you feel...
+
+481
+00:19:17,101 --> 00:19:18,701
+No, I don't think you
+do understand, Eppes.
+
+482
+00:19:18,801 --> 00:19:20,101
+I don't think understand
+how I feel.
+
+483
+00:19:20,201 --> 00:19:21,601
+I don't think you know what
+it's like to living it
+
+484
+00:19:21,701 --> 00:19:23,901
+in the streets,
+the way we do.
+
+485
+00:19:24,401 --> 00:19:25,801
+And back then, it was a war.
+
+486
+00:19:25,901 --> 00:19:28,801
+Cops were dying every day,
+trying to take back this city.
+
+487
+00:19:29,001 --> 00:19:30,301
+And Everett was one of them.
+
+488
+00:19:30,401 --> 00:19:32,801
+Did you know Everett was
+killed with his own gun?
+
+489
+00:19:34,301 --> 00:19:35,401
+What?
+
+490
+00:19:35,501 --> 00:19:37,301
+Yeah, ballistics matched
+the bullet to the .38
+
+491
+00:19:37,401 --> 00:19:39,101
+that killed Bradley,
+all right? Take a look.
+
+492
+00:19:39,201 --> 00:19:40,601
+I don't need to see that.
+What are you talking about?
+
+493
+00:19:40,701 --> 00:19:43,101
+That means that Bradley
+got a hold of Everett's gun
+and he shot him with it.
+
+494
+00:19:43,201 --> 00:19:45,901
+So what? The body
+was buried, remember?
+How did that happen?
+
+495
+00:19:46,001 --> 00:19:47,701
+I said before, the
+construction crew could have
+
+496
+00:19:47,801 --> 00:19:49,901
+buried his body and
+not ever knew about it.
+
+497
+00:19:50,001 --> 00:19:51,301
+What are you doing?
+Are you writing
+
+498
+00:19:51,401 --> 00:19:53,801
+Calvin Bradley's
+closing argument now?
+
+499
+00:19:53,901 --> 00:19:56,701
+I knew Everett. He wouldn't
+have killed himself.
+
+500
+00:19:58,901 --> 00:20:00,101
+I got something.
+
+501
+00:20:02,701 --> 00:20:04,401
+The gang case
+I worked on last year,
+
+502
+00:20:04,501 --> 00:20:07,301
+my guiding principle was
+their territorial nature.
+
+503
+00:20:07,401 --> 00:20:08,601
+And it turned out some of
+these gang members spent
+
+504
+00:20:08,701 --> 00:20:11,101
+their whole lives living
+within a 10-block radius.
+
+505
+00:20:11,201 --> 00:20:12,701
+Their turf.
+Right, I remember.
+
+506
+00:20:12,801 --> 00:20:14,601
+They live a mile from
+the ocean; some of them
+
+507
+00:20:14,701 --> 00:20:15,701
+have never even
+seen it...
+
+508
+00:20:15,801 --> 00:20:19,701
+Right, so here is a map
+of all known gang territories
+
+509
+00:20:19,801 --> 00:20:22,801
+back in 1990 and using the
+theory of collective behavior,
+
+510
+00:20:22,901 --> 00:20:24,101
+I...
+
+511
+00:20:25,201 --> 00:20:27,901
+Lieutenant Walker,
+imagine a colony of ants
+
+512
+00:20:28,001 --> 00:20:29,101
+searching for food.
+
+513
+00:20:29,401 --> 00:20:30,401
+They send out a scout
+
+514
+00:20:30,601 --> 00:20:32,801
+and that scout wanders
+around randomly.
+
+515
+00:20:32,901 --> 00:20:35,601
+If that scout finds food,
+well, then the colony
+
+516
+00:20:35,701 --> 00:20:37,401
+marks that path as good.
+
+517
+00:20:37,501 --> 00:20:40,301
+If he doesn't find food, then
+that path is marked as neutral.
+
+518
+00:20:40,401 --> 00:20:42,301
+And if that scout
+never returns,
+
+519
+00:20:42,401 --> 00:20:44,301
+you better believe that
+path is marked as bad.
+
+520
+00:20:44,401 --> 00:20:45,901
+Same thing
+works with gangs.
+
+521
+00:20:46,001 --> 00:20:48,601
+Calvin Bradley was a member
+of the Bixel Street Family.
+
+522
+00:20:48,701 --> 00:20:51,201
+This was their territory
+back in 1990.
+
+523
+00:20:51,301 --> 00:20:53,501
+Everett's body
+was found here
+
+524
+00:20:53,601 --> 00:20:56,101
+in an area controlled
+by a gang called
+
+525
+00:20:56,201 --> 00:20:58,201
+the 18 Street Mexicali.
+
+526
+00:20:58,301 --> 00:21:02,201
+18 Street Mexicali and Bixel
+Steet Family were rivals.
+
+527
+00:21:02,301 --> 00:21:05,001
+Factoring in for
+territorial gang shifts...
+
+528
+00:21:08,001 --> 00:21:11,501
+I cannot find
+a single safe passage.
+
+529
+00:21:11,601 --> 00:21:12,901
+For Bradley to
+travel from his turf
+
+530
+00:21:13,001 --> 00:21:15,801
+to a rival's turf to even
+have killed Everett.
+
+531
+00:21:15,901 --> 00:21:18,301
+It would be like a
+Sunni going for a ride
+
+532
+00:21:18,401 --> 00:21:19,501
+in a Shi'ite neighborhood.
+
+533
+00:21:19,601 --> 00:21:22,001
+???
+
+534
+00:21:31,901 --> 00:21:32,701
+So Calvin Bradley
+
+535
+00:21:32,801 --> 00:21:34,601
+would've had trouble getting to
+the crime scene.
+
+536
+00:21:34,701 --> 00:21:36,401
+Which doesn't make him
+innocent...
+
+537
+00:21:37,101 --> 00:21:40,101
+Yeah, Charlie's math is all
+about probabilities.
+
+538
+00:21:40,201 --> 00:21:43,701
+So, if he says it's unlikely,
+it probably is...
+
+539
+00:21:43,801 --> 00:21:44,901
+Which takes us back
+to what?
+
+540
+00:21:45,001 --> 00:21:45,701
+Suicide?
+
+541
+00:21:47,301 --> 00:21:49,501
+Well, what if we just keep
+following the probabilities.
+
+542
+00:21:49,601 --> 00:21:50,901
+Meaning what?
+
+543
+00:21:51,001 --> 00:21:52,501
+Well, if the math says
+it's doubtful anyone
+
+544
+00:21:52,601 --> 00:21:54,001
+from a rival gang
+would have access
+
+545
+00:21:54,101 --> 00:21:56,301
+tohe 18 Street
+Mexicali territories,
+
+546
+00:21:56,901 --> 00:21:58,401
+that narrows
+our suspect list down.
+
+547
+00:21:58,701 --> 00:22:01,501
+To someone in the 18 Street
+Mexicali crew.
+Right.
+
+548
+00:22:01,601 --> 00:22:03,501
+I'll talk to Charlie
+about running some names.
+
+549
+00:22:08,101 --> 00:22:09,701
+Hey!
+What's going on?
+
+550
+00:22:09,801 --> 00:22:10,401
+Whoa!
+
+551
+00:22:10,501 --> 00:22:11,801
+Oh, hi.
+Hi, the door was open.
+
+552
+00:22:11,901 --> 00:22:13,001
+I hope you don't mind.
+Oh, no, no.
+
+553
+00:22:13,101 --> 00:22:14,001
+Not at all. Come in.
+Good.
+
+554
+00:22:14,101 --> 00:22:15,801
+Thanks. Wow.
+
+555
+00:22:16,001 --> 00:22:16,901
+What's going on?
+
+556
+00:22:17,001 --> 00:22:18,501
+I love what you've done
+with the room, huh.
+
+557
+00:22:18,601 --> 00:22:20,201
+You do?
+Very, uh,
+early American
+
+558
+00:22:20,301 --> 00:22:22,701
+interrogation room,
+it's nice.
+
+559
+00:22:22,801 --> 00:22:24,601
+I can see your pores.
+You notice, eh?
+
+560
+00:22:24,701 --> 00:22:25,701
+So, so what?
+
+561
+00:22:25,801 --> 00:22:27,701
+Charlie told me about
+this whole lawsuit thing.
+
+562
+00:22:27,801 --> 00:22:29,801
+Yeah.
+I just wanted to come
+give you some moral support.
+
+563
+00:22:29,901 --> 00:22:31,301
+Well, uh, thank you,
+I appreciate that,
+
+564
+00:22:31,401 --> 00:22:33,101
+but what I really
+need are answers.
+
+565
+00:22:33,201 --> 00:22:34,501
+Yeah, to what?
+I've been going
+
+566
+00:22:34,601 --> 00:22:36,001
+over my original calculations.
+
+567
+00:22:36,101 --> 00:22:37,001
+They're absolutely right.
+
+568
+00:22:37,101 --> 00:22:38,401
+I just don't understand
+
+569
+00:22:38,501 --> 00:22:39,701
+what the problem is
+with the lighting.
+
+570
+00:22:40,001 --> 00:22:42,101
+I tried to
+simulate it here.
+
+571
+00:22:42,901 --> 00:22:45,401
+Angles of incidence, good.
+
+572
+00:22:46,401 --> 00:22:48,501
+You got reflection,
+absorption,
+
+573
+00:22:48,601 --> 00:22:51,301
+saturation coefficients.
+
+574
+00:22:51,401 --> 00:22:54,001
+Very impressive,
+very impressive, Mr. Eppes.
+
+575
+00:22:54,101 --> 00:22:55,701
+Now I see where Charlie gets
+hiinterest
+
+576
+00:22:55,801 --> 00:22:56,901
+in numbers.
+Yeah, well,
+
+577
+00:22:57,001 --> 00:22:58,501
+I'm afraid there's only
+one genius in this family.
+
+578
+00:22:58,601 --> 00:22:59,301
+Oh, I don't know.
+
+579
+00:22:59,501 --> 00:23:01,701
+Hey, I know, I know Charlie's
+busy helping out Don,
+
+580
+00:23:01,801 --> 00:23:04,301
+and if you're interested
+I'm available.
+
+581
+00:23:06,601 --> 00:23:08,301
+To go over your figures.
+
+582
+00:23:08,401 --> 00:23:09,601
+My figures?
+Yes.
+
+583
+00:23:09,701 --> 00:23:11,201
+I got it.
+Put your head down.
+
+584
+00:23:15,701 --> 00:23:16,801
+What do you say,
+Lieutenant?
+
+585
+00:23:19,501 --> 00:23:21,101
+It's happy hour
+somewhere, right?
+
+586
+00:23:21,301 --> 00:23:22,401
+Let me get a
+club soda.
+
+587
+00:23:22,501 --> 00:23:23,401
+Club soda.
+
+588
+00:23:23,501 --> 00:23:24,401
+You know that
+I've been trying
+
+589
+00:23:24,501 --> 00:23:28,101
+to pin this on Calvin
+Bradley for 17 years.
+
+590
+00:23:28,201 --> 00:23:29,501
+It's a little hard
+for me to believe
+
+591
+00:23:29,601 --> 00:23:30,701
+that after all this time
+
+592
+00:23:30,801 --> 00:23:33,401
+I might have been looking
+at the wrong guy.
+
+593
+00:23:33,801 --> 00:23:35,501
+Hey, look, it's
+not over yet.
+
+594
+00:23:37,301 --> 00:23:38,101
+Thanks.
+
+595
+00:23:38,201 --> 00:23:40,001
+Well, you'd think that I would
+know after all this time
+
+596
+00:23:40,101 --> 00:23:43,001
+that things are never
+what they seem.
+
+597
+00:23:43,101 --> 00:23:44,301
+You followed
+your gut.
+
+598
+00:23:44,401 --> 00:23:45,401
+There's nothing else you can do.
+
+599
+00:23:46,001 --> 00:23:48,001
+It's a whole different world
+out there now, Eppes.
+
+600
+00:23:48,101 --> 00:23:50,401
+It's a whole different way
+of policing, a whole new way.
+
+601
+00:23:51,601 --> 00:23:53,301
+Down is up, up is down.
+
+602
+00:23:57,001 --> 00:23:59,001
+Everett wouldn't have
+killed himself.
+
+603
+00:23:59,701 --> 00:24:01,301
+That's not the man I knew.
+
+604
+00:24:02,101 --> 00:24:03,901
+So, tell me
+about 18 Street guy?
+
+605
+00:24:05,401 --> 00:24:07,601
+Well, they're not around
+anymore, that's one thing.
+
+606
+00:24:07,701 --> 00:24:09,401
+And they used to be one
+of the biggest drug suppliers
+
+607
+00:24:09,501 --> 00:24:10,701
+on the west coast.
+All right.
+
+608
+00:24:10,801 --> 00:24:12,201
+So, if Everett was shot
+in their territory,
+
+609
+00:24:12,301 --> 00:24:13,701
+then somebody knows something.
+
+610
+00:24:15,901 --> 00:24:17,201
+something, right?
+
+611
+00:24:19,501 --> 00:24:20,701
+Yeah.
+
+612
+00:24:23,401 --> 00:24:24,201
+Hey.
+
+613
+00:24:24,301 --> 00:24:25,101
+How you doing?
+
+614
+00:24:26,001 --> 00:24:27,501
+Tell me where Jimmy Lopez is?
+
+615
+00:24:27,801 --> 00:24:29,201
+The other side of this cab.
+
+616
+00:24:35,801 --> 00:24:37,201
+Jimmy Lopez?
+
+617
+00:24:37,301 --> 00:24:38,401
+FBI. I'd like
+to talk to you
+
+618
+00:24:38,501 --> 00:24:39,101
+for a minute.
+
+619
+00:24:39,201 --> 00:24:40,401
+FBI?
+Yeah.
+
+620
+00:24:41,101 --> 00:24:42,301
+Get your hands up.
+
+621
+00:24:42,401 --> 00:24:43,201
+How you doing,
+Jimmy?
+
+622
+00:24:43,301 --> 00:24:44,701
+Officer Walker.
+
+623
+00:24:44,801 --> 00:24:45,601
+You got a good memory.
+
+624
+00:24:46,201 --> 00:24:47,401
+What's, uh...
+
+625
+00:24:47,501 --> 00:24:48,601
+what's going on
+here, guys?
+
+626
+00:24:48,701 --> 00:24:50,001
+We thought
+we would take a trip
+
+627
+00:24:50,101 --> 00:24:50,901
+down memory lane.
+
+628
+00:24:51,501 --> 00:24:53,001
+Yeah, maybe you didn't hear,
+but...
+
+629
+00:24:53,101 --> 00:24:55,001
+I don't snitch no more.
+
+630
+00:24:55,101 --> 00:24:56,101
+right?
+
+631
+00:24:56,201 --> 00:24:58,101
+Well, they found Officer
+Everett's body.
+
+632
+00:24:58,201 --> 00:24:59,001
+Who?
+
+633
+00:24:59,101 --> 00:25:00,101
+Officer John Everett.
+
+634
+00:25:02,701 --> 00:25:04,201
+Nah, that name don't ring
+a bell.
+
+635
+00:25:05,501 --> 00:25:07,301
+Well, he was
+found buried
+
+636
+00:25:07,401 --> 00:25:09,801
+in 18 Street
+Mexicali territory,
+
+637
+00:25:09,901 --> 00:25:11,301
+so his name better start ringing
+some bells
+
+638
+00:25:11,401 --> 00:25:12,501
+or I'm gonna ring
+your bell.
+
+639
+00:25:14,901 --> 00:25:17,401
+I never had nothing
+to do with killing no cop.
+
+640
+00:25:17,501 --> 00:25:18,301
+There's no way
+he gets shot
+
+641
+00:25:18,401 --> 00:25:19,101
+in your territory
+
+642
+00:25:19,201 --> 00:25:20,501
+and it's not the news
+of the decade.
+
+643
+00:25:20,601 --> 00:25:22,501
+No statute of limitations
+on murder, Jimmy.
+
+644
+00:25:22,601 --> 00:25:23,401
+You know that, right?
+
+645
+00:25:25,701 --> 00:25:27,701
+I heard what everyone else
+heard, okay?
+
+646
+00:25:27,801 --> 00:25:28,501
+What's that?
+
+647
+00:25:28,601 --> 00:25:30,701
+The cop was whacked courtesy
+of the BSF.
+
+648
+00:25:30,801 --> 00:25:32,501
+Payback for some shooting.
+
+649
+00:25:32,601 --> 00:25:33,101
+So, what's he doing
+
+650
+00:25:33,201 --> 00:25:34,301
+in the 18 Street's territory?
+
+651
+00:25:35,901 --> 00:25:37,201
+No offense,
+
+652
+00:25:37,301 --> 00:25:39,201
+but when it came
+to killing cops,
+
+653
+00:25:39,501 --> 00:25:42,001
+gang bangers can find
+some pretty common ground.
+
+654
+00:25:48,101 --> 00:25:50,001
+Oh, hey.
+There you are.
+
+655
+00:25:50,101 --> 00:25:51,701
+I went by your office
+looking for you.
+
+656
+00:25:51,801 --> 00:25:52,701
+You did?
+
+657
+00:25:52,801 --> 00:25:53,901
+Yeah, I just wanted to talk.
+
+658
+00:25:54,201 --> 00:25:56,101
+About what?
+Mm...
+
+659
+00:25:57,001 --> 00:26:00,701
+You know, thought about
+walking away myself once.
+
+660
+00:26:00,801 --> 00:26:01,901
+You did.
+
+661
+00:26:02,001 --> 00:26:03,901
+Was first time I orally defended
+
+662
+00:26:04,001 --> 00:26:05,101
+a dissertation.
+
+663
+00:26:06,401 --> 00:26:09,201
+Charlie Eppes,
+not confident about math?
+
+664
+00:26:09,901 --> 00:26:11,301
+I was more scared
+of quitting
+
+665
+00:26:11,401 --> 00:26:12,901
+than I was of going
+through with it,
+
+666
+00:26:13,001 --> 00:26:13,901
+so...
+
+667
+00:26:15,001 --> 00:26:16,301
+I couldn't walk away.
+
+668
+00:26:17,401 --> 00:26:18,401
+I'm gonna do it.
+
+669
+00:26:18,501 --> 00:26:20,601
+I'm gonna chair
+that committee.
+You are?
+
+670
+00:26:21,501 --> 00:26:22,901
+I may make some mistakes...
+
+671
+00:26:23,001 --> 00:26:23,901
+No, you're gonna be great.
+
+672
+00:26:24,001 --> 00:26:26,001
+You're gonna be great.
+I'll help you.
+
+673
+00:26:26,101 --> 00:26:27,501
+You know, if you
+want my help.
+
+674
+00:26:27,601 --> 00:26:29,601
+I'm not saying that
+you need my help.
+
+675
+00:26:30,401 --> 00:26:31,401
+If you want it.
+
+676
+00:26:31,501 --> 00:26:33,501
+I will take all the help
+I can get.
+
+677
+00:26:33,701 --> 00:26:34,601
+See that?
+
+678
+00:26:34,701 --> 00:26:35,601
+We're a lot alike.
+
+679
+00:26:36,001 --> 00:26:36,701
+'Cause I'm always
+
+680
+00:26:36,801 --> 00:26:38,101
+asking you
+for help.
+Yes.
+
+681
+00:26:40,101 --> 00:26:41,401
+Speaking of help...
+
+682
+00:26:41,901 --> 00:26:43,701
+I see you're still
+after that cop killer.
+
+683
+00:26:45,001 --> 00:26:46,101
+Yeah.
+
+684
+00:26:46,201 --> 00:26:47,701
+Liz Warner says that
+he might be a member
+
+685
+00:26:47,801 --> 00:26:50,401
+of a street gang
+called 18 Street Mexicali.
+
+686
+00:26:51,201 --> 00:26:53,101
+But none of the shooting
+chains are tracking back
+
+687
+00:26:53,201 --> 00:26:54,301
+to a common shooter.
+
+688
+00:26:54,401 --> 00:26:56,101
+That's right.
+What are you thinking?
+
+689
+00:26:56,201 --> 00:26:58,101
+You used collective
+behavior theory
+
+690
+00:26:58,201 --> 00:27:00,401
+to define the path the
+killer could have taken.
+
+691
+00:27:00,801 --> 00:27:03,501
+But that's not the
+whole the story.
+
+692
+00:27:04,701 --> 00:27:06,301
+You're missing
+a variable.
+
+693
+00:27:07,801 --> 00:27:09,101
+The victim.
+
+694
+00:27:10,001 --> 00:27:13,001
+I need to know the path
+that Everett was taking as well.
+
+695
+00:27:14,201 --> 00:27:15,201
+All right, so according to this
+
+696
+00:27:15,301 --> 00:27:16,501
+18 Street had two
+triggers
+
+697
+00:27:16,601 --> 00:27:18,101
+at the time
+of Everett's death.
+
+698
+00:27:18,201 --> 00:27:19,501
+It could still be
+anyone in the gang.
+
+699
+00:27:19,601 --> 00:27:21,001
+I hoping your brother's
+got an answer.
+
+700
+00:27:21,101 --> 00:27:22,101
+All right,
+Charlie, hey,
+
+701
+00:27:22,201 --> 00:27:24,201
+tell me you got a name
+for us.
+No, no.
+
+702
+00:27:24,301 --> 00:27:25,101
+Something else.
+
+703
+00:27:25,201 --> 00:27:26,901
+Charlie looked at
+the timeline of events
+
+704
+00:27:27,001 --> 00:27:28,201
+for Everett on the day
+he was killed.
+
+705
+00:27:28,301 --> 00:27:30,901
+And I applied
+critical path analysis,
+
+706
+00:27:31,001 --> 00:27:32,301
+which is a mathematical
+way of looking
+
+707
+00:27:32,401 --> 00:27:34,801
+at the most efficient manner
+to complete tasks.
+
+708
+00:27:35,301 --> 00:27:36,801
+Imagine you're cooking
+a holiday dinner,
+
+709
+00:27:37,001 --> 00:27:38,601
+and you cook it all
+at the same time.
+
+710
+00:27:38,701 --> 00:27:40,701
+Well, some of your food's
+gonna end up burnt.
+
+711
+00:27:40,801 --> 00:27:42,601
+Some of your food's
+gonna end up cold.
+
+712
+00:27:42,701 --> 00:27:44,901
+What you need to do,
+is prepare and cook
+
+713
+00:27:45,001 --> 00:27:47,401
+each part of the meal
+in an effective order
+
+714
+00:27:47,501 --> 00:27:49,601
+and monitor them simultaneously
+
+715
+00:27:49,701 --> 00:27:52,801
+so that you serve all hot food
+at all the same time.
+
+716
+00:27:52,901 --> 00:27:55,301
+The same concept applies
+for Everett.
+
+717
+00:27:55,401 --> 00:27:58,401
+And he changed two appointments
+he made that day.
+
+718
+00:27:58,501 --> 00:28:00,701
+All right, I mean,
+
+719
+00:28:00,801 --> 00:28:02,001
+so why's this significant?
+
+720
+00:28:02,301 --> 00:28:03,401
+Because people tend
+
+721
+00:28:03,501 --> 00:28:05,701
+to schedule meetings
+as close to one another
+
+722
+00:28:05,801 --> 00:28:06,501
+as they can.
+
+723
+00:28:06,601 --> 00:28:08,601
+Schedule them
+in a progressive order,
+
+724
+00:28:08,701 --> 00:28:10,101
+if they can.
+Kind of like a...
+
+725
+00:28:10,201 --> 00:28:12,001
+math of convenience.
+
+726
+00:28:12,101 --> 00:28:14,801
+But his body and his car were
+found a few miles apart.
+
+727
+00:28:14,901 --> 00:28:16,801
+Meaning that either
+Everett was killed
+
+728
+00:28:16,901 --> 00:28:19,301
+where he was found and his car
+was moved afterwards or...
+
+729
+00:28:19,401 --> 00:28:21,801
+Or else he drove
+to the Bixel Street turf
+
+730
+00:28:21,901 --> 00:28:23,101
+and was transported
+
+731
+00:28:23,201 --> 00:28:24,701
+to where we found him
+some other way.
+
+732
+00:28:24,801 --> 00:28:28,501
+Thus making one of those
+two pieces of data skewed.
+
+733
+00:28:29,001 --> 00:28:29,901
+So...
+
+734
+00:28:30,001 --> 00:28:31,901
+I ran two different analyses.
+
+735
+00:28:32,401 --> 00:28:34,801
+I gave probability scores
+to the areas
+
+736
+00:28:34,901 --> 00:28:36,901
+that Everett was most likely
+headed to.
+
+737
+00:28:37,001 --> 00:28:38,101
+Now, this first map,
+
+738
+00:28:38,201 --> 00:28:40,401
+assumes that he was headed
+to where his body was found,
+
+739
+00:28:40,501 --> 00:28:42,401
+to the 18 Street
+Mexicali territory,
+
+740
+00:28:42,501 --> 00:28:45,501
+making this his most likely
+next destination.
+
+741
+00:28:45,601 --> 00:28:47,401
+All right, and if he drove
+to the Bixel turf?
+
+742
+00:28:48,201 --> 00:28:50,401
+Then Everett was most likely
+headed here,
+
+743
+00:28:50,601 --> 00:28:52,501
+by a more
+efficient path.
+
+744
+00:28:56,401 --> 00:28:57,601
+Do you see something?
+
+745
+00:28:57,701 --> 00:28:59,201
+Well, back in 1990,
+
+746
+00:28:59,901 --> 00:29:02,801
+Internal Affairs had their
+headquarters right here.
+
+747
+00:29:03,701 --> 00:29:05,101
+Internal Affairs?
+
+748
+00:29:05,201 --> 00:29:06,901
+???
+
+749
+00:29:13,301 --> 00:29:14,301
+Charlie is righting.
+
+750
+00:29:14,401 --> 00:29:16,301
+Everett was on his way
+to Internal Affairs
+
+751
+00:29:16,401 --> 00:29:17,801
+and he was killed
+before he got there.
+
+752
+00:29:17,901 --> 00:29:20,101
+Yeah, that ain't
+a coincidence-- no way.
+
+753
+00:29:20,201 --> 00:29:21,901
+Okay, so why was he
+on his way to IA?
+
+754
+00:29:22,001 --> 00:29:24,101
+Well, Everett shot
+Stephon Bradley.
+
+755
+00:29:24,201 --> 00:29:25,101
+Right?
+Yeah.
+
+756
+00:29:25,201 --> 00:29:26,601
+But a shooting board ruled
+it as a good kill.
+
+757
+00:29:26,701 --> 00:29:29,001
+Yeah, they did, only IA
+was taking another look.
+
+758
+00:29:30,001 --> 00:29:30,901
+Yeah, why's that?
+
+759
+00:29:31,001 --> 00:29:32,701
+Well, three days
+before Everett shot him,
+
+760
+00:29:32,801 --> 00:29:34,001
+Stephon Bradley
+was picked up
+
+761
+00:29:34,101 --> 00:29:35,101
+by Homicide.
+
+762
+00:29:35,201 --> 00:29:36,501
+He was wanted
+for a series of murders.
+
+763
+00:29:37,101 --> 00:29:39,301
+He was taking down rival
+gangs' stash houses
+
+764
+00:29:39,401 --> 00:29:40,801
+and killing everyone inside.
+
+765
+00:29:41,201 --> 00:29:42,001
+And he offered
+
+766
+00:29:42,101 --> 00:29:44,101
+to trade information
+against dirty cops.
+
+767
+00:29:44,401 --> 00:29:45,501
+Was he dirty, Gary?
+
+768
+00:29:46,201 --> 00:29:47,301
+No.
+
+769
+00:29:47,701 --> 00:29:48,701
+I don't believe that.
+
+770
+00:29:48,801 --> 00:29:50,301
+What were the circumstances
+of the killing?
+
+771
+00:29:51,201 --> 00:29:54,901
+We got a tip that Bradley had
+committed a double murder.
+
+772
+00:29:55,001 --> 00:29:56,601
+We found him
+at his girlfriend's house.
+
+773
+00:29:56,701 --> 00:29:59,101
+Everett covered the back,
+Bradley tried to bolt for it.
+
+774
+00:29:59,201 --> 00:29:59,901
+Everett shot him.
+
+775
+00:30:01,001 --> 00:30:02,701
+Starting to smell
+like a bad kill.
+
+776
+00:30:03,601 --> 00:30:04,801
+All right, so...
+
+777
+00:30:04,901 --> 00:30:07,701
+Everett was headed
+to Internal Affairs to confess,
+
+778
+00:30:07,801 --> 00:30:10,401
+and he stopped in the BSF
+territory on the way.
+
+779
+00:30:10,801 --> 00:30:11,901
+Why?
+
+780
+00:30:12,001 --> 00:30:13,801
+Well, a cop with a
+guilty conscience
+
+781
+00:30:14,401 --> 00:30:16,601
+might wanna come
+clean to the, uh...
+
+782
+00:30:17,001 --> 00:30:20,001
+the brother of the guy that
+he killed before he went to IA.
+
+783
+00:30:20,101 --> 00:30:22,301
+You saying that Everett went
+to see Calvin Bradley?
+
+784
+00:30:23,001 --> 00:30:25,701
+Walked into the arms of the one
+man who wanted to see him dead.
+
+785
+00:30:37,001 --> 00:30:38,101
+Calvin.
+
+786
+00:30:38,401 --> 00:30:39,101
+How many times
+
+787
+00:30:39,201 --> 00:30:41,201
+we gonna go through this,
+fellas?
+You're wasting our time.
+
+788
+00:30:41,301 --> 00:30:43,101
+We know you saw Everett
+the day he disappeared.
+
+789
+00:30:45,701 --> 00:30:48,001
+Okay, you wanna prove
+you're a changed man, Calvin?
+
+790
+00:30:48,301 --> 00:30:50,701
+How 'bout owning up
+to what you did, finally, huh?
+
+791
+00:30:50,801 --> 00:30:53,301
+I did ten years taking
+responsibility, Lieutenant.
+
+792
+00:30:53,401 --> 00:30:54,601
+What about you?
+
+793
+00:30:54,701 --> 00:30:56,001
+I hadn't committed
+any crimes.
+
+794
+00:30:56,101 --> 00:30:57,901
+No, you had other
+people do it for you.
+
+795
+00:30:58,001 --> 00:30:59,101
+Wait, hold on, say what?
+
+796
+00:30:59,401 --> 00:31:00,401
+What's that?
+
+797
+00:31:00,901 --> 00:31:02,101
+You really want to know?
+
+798
+00:31:02,201 --> 00:31:03,201
+Yeah, I really wanna know.
+
+799
+00:31:03,301 --> 00:31:06,101
+All right, Everett did
+come to see me that day.
+
+800
+00:31:06,201 --> 00:31:07,701
+To apologize.
+
+801
+00:31:07,801 --> 00:31:09,101
+All right, he wanted
+me to understand
+
+802
+00:31:09,201 --> 00:31:10,901
+what had gone down
+with Stephon.
+
+803
+00:31:11,301 --> 00:31:13,201
+Only he left
+my house alive.
+
+804
+00:31:13,301 --> 00:31:14,201
+You're a liar.
+
+805
+00:31:14,301 --> 00:31:15,701
+And you don't
+know any better.
+
+806
+00:31:15,801 --> 00:31:17,101
+All right,
+careful, hey.
+
+807
+00:31:17,201 --> 00:31:17,901
+What did Everett
+say to you?
+
+808
+00:31:18,001 --> 00:31:19,901
+16 years I been the suspect
+
+809
+00:31:20,101 --> 00:31:21,501
+and you want my help.
+
+810
+00:31:23,901 --> 00:31:25,601
+The cops were giving
+Stephon tips
+
+811
+00:31:25,701 --> 00:31:27,901
+on the location of
+Mexican dope houses.
+
+812
+00:31:28,001 --> 00:31:28,801
+What?
+
+813
+00:31:28,901 --> 00:31:29,901
+Stephon ripped them off
+
+814
+00:31:30,001 --> 00:31:31,501
+while the cops
+looked the other way.
+
+815
+00:31:32,301 --> 00:31:34,801
+Then they killed him when he
+wanted to tell the truth.
+
+816
+00:31:36,401 --> 00:31:37,901
+Whatever my
+brother was...
+
+817
+00:31:38,301 --> 00:31:40,001
+you were the ones
+that made him that way.
+
+818
+00:31:40,101 --> 00:31:41,301
+Can I go now?
+
+819
+00:31:45,201 --> 00:31:46,501
+What do you think, Gary?
+
+820
+00:31:48,401 --> 00:31:49,501
+Yeah, get out of here.
+
+821
+00:31:49,601 --> 00:31:50,501
+Get out of here.
+
+822
+00:31:51,201 --> 00:31:53,801
+Yeah, well, you can ask but
+I'm not giving you a deposition.
+
+823
+00:31:53,901 --> 00:31:55,501
+No, not until I know more facts.
+
+824
+00:31:56,101 --> 00:31:57,201
+Yeah, come in.
+
+825
+00:31:58,201 --> 00:31:59,401
+All right, if
+that's your position
+
+826
+00:31:59,501 --> 00:32:00,501
+you can talk to my lawyer.
+
+827
+00:32:00,601 --> 00:32:01,901
+You got it.
+
+828
+00:32:02,501 --> 00:32:03,501
+You know a good lawyer?
+
+829
+00:32:03,601 --> 00:32:04,701
+I do. I know several.
+
+830
+00:32:04,801 --> 00:32:05,801
+Good.
+Alan.
+
+831
+00:32:05,901 --> 00:32:06,601
+Geez...
+
+832
+00:32:06,701 --> 00:32:07,801
+Come here.
+
+833
+00:32:07,901 --> 00:32:08,401
+Huh?
+
+834
+00:32:08,501 --> 00:32:09,901
+Come here. Come.
+
+835
+00:32:10,301 --> 00:32:12,401
+Relax. Here. Sit.
+
+836
+00:32:12,701 --> 00:32:14,501
+No, it's all right, breathe.
+
+837
+00:32:15,501 --> 00:32:16,801
+Relax.
+
+838
+00:32:16,901 --> 00:32:17,801
+All right,
+it's gonna be fine.
+
+839
+00:32:17,901 --> 00:32:18,701
+All right,
+we are gonna tackle
+
+840
+00:32:18,801 --> 00:32:20,901
+each problem, one at a time.
+
+841
+00:32:21,001 --> 00:32:22,001
+Albert Einstein said that?
+
+842
+00:32:22,101 --> 00:32:24,601
+No, I read it on the back
+of an iced tea bottle.
+
+843
+00:32:24,701 --> 00:32:26,501
+Oh.
+It still applies.
+
+844
+00:32:27,801 --> 00:32:28,701
+You know what I did?
+
+845
+00:32:29,101 --> 00:32:32,701
+I simulated your design
+on the CAD program at CalSci.
+
+846
+00:32:34,301 --> 00:32:37,101
+Well, I thought things like this
+were, uh, frowned upon
+
+847
+00:32:37,201 --> 00:32:38,701
+by certain administrators.
+
+848
+00:32:38,801 --> 00:32:39,901
+Yeah, so I'm busted.
+
+849
+00:32:40,001 --> 00:32:41,401
+But who's gonna tell on me?
+Me?
+
+850
+00:32:44,701 --> 00:32:46,301
+Well, if that
+million-dollar computer
+
+851
+00:32:46,401 --> 00:32:48,201
+of yours is, uh, correct...
+
+852
+00:32:48,301 --> 00:32:50,601
+There's no way that that
+driving range can be as bright
+
+853
+00:32:50,701 --> 00:32:52,101
+as the plaintiffs claim it is.
+
+854
+00:32:52,201 --> 00:32:53,201
+I know, but the measure
+of foot-candles
+
+855
+00:32:53,301 --> 00:32:54,801
+is just off the charts.
+
+856
+00:32:54,901 --> 00:32:56,501
+So, I, it, it...
+
+857
+00:32:56,601 --> 00:32:57,201
+it doesn't...
+
+858
+00:32:59,101 --> 00:33:00,401
+Oh, wait, wait,
+wait, wait, wait.
+
+859
+00:33:00,701 --> 00:33:02,301
+I know what this means.
+
+860
+00:33:02,401 --> 00:33:04,401
+The hue of the
+polypropylene is wrong.
+
+861
+00:33:04,501 --> 00:33:06,601
+They didn't use the synthetic
+grass that I specified.
+
+862
+00:33:06,701 --> 00:33:08,701
+The contractor uses
+a cheaper material
+
+863
+00:33:08,801 --> 00:33:10,201
+which reflects...
+Which reflects more light!
+
+864
+00:33:10,301 --> 00:33:11,501
+See?!
+
+865
+00:33:13,201 --> 00:33:15,101
+Well, I'm off the hook.
+Yeah.
+
+866
+00:33:15,201 --> 00:33:17,001
+Except for you electric bill's
+gonna go through the roof.
+
+867
+00:33:17,101 --> 00:33:18,301
+Oh, that's all right.
+
+868
+00:33:18,801 --> 00:33:20,001
+Charlie owns the place now.
+
+869
+00:33:23,701 --> 00:33:26,301
+So the police were
+using Stephon Bradley
+
+870
+00:33:26,401 --> 00:33:28,001
+to take down Mexican drug gangs?
+
+871
+00:33:28,101 --> 00:33:29,601
+No way Everett was
+a part of that.
+
+872
+00:33:29,701 --> 00:33:31,301
+Then why did Everett
+go see Bradley's brother
+
+873
+00:33:31,401 --> 00:33:33,001
+to apologize?
+Easy.
+
+874
+00:33:33,101 --> 00:33:34,801
+Just saying, how long
+we gonna live in denial here?
+
+875
+00:33:35,201 --> 00:33:36,401
+Okay, well,
+let's look at
+
+876
+00:33:36,501 --> 00:33:37,401
+what Bradley's saying.
+
+877
+00:33:37,501 --> 00:33:39,601
+If what he's saying is true,
+then someone had to be
+
+878
+00:33:39,701 --> 00:33:41,201
+telling the cops
+where the locations
+
+879
+00:33:41,301 --> 00:33:43,001
+for these houses were
+to begin with, right?
+
+880
+00:33:43,101 --> 00:33:44,501
+Well, if we find that source...
+
+881
+00:33:44,601 --> 00:33:46,701
+Maybe he can point us in the
+direction of Everett's killer.
+
+882
+00:33:46,801 --> 00:33:48,201
+Okay, so let's take a look.
+
+883
+00:33:48,301 --> 00:33:49,901
+These are
+the gang territories
+
+884
+00:33:50,001 --> 00:33:51,301
+where Calvin Bradley's
+brother ripped off
+
+885
+00:33:51,401 --> 00:33:52,901
+those drug houses,
+and they're spread
+
+886
+00:33:53,001 --> 00:33:55,101
+all through Mexican
+gang territory,
+
+887
+00:33:55,901 --> 00:33:57,301
+except for one.
+
+888
+00:33:58,201 --> 00:33:59,701
+18 Street Mexicali.
+
+889
+00:33:59,801 --> 00:34:00,901
+Which is
+the same territory
+
+890
+00:34:01,001 --> 00:34:02,201
+where Everett's body
+was found.
+
+891
+00:34:02,301 --> 00:34:04,101
+Okay, so why'd these guys
+get a free ride?
+
+892
+00:34:05,301 --> 00:34:06,501
+What it means
+
+893
+00:34:06,601 --> 00:34:07,901
+is that whoever
+was feeding them
+
+894
+00:34:08,001 --> 00:34:10,001
+information was
+18 Street Mexicali.
+
+895
+00:34:10,101 --> 00:34:11,301
+And he didn't want
+to snitch on his...
+
+896
+00:34:11,901 --> 00:34:13,001
+on his own gang.
+
+897
+00:34:13,901 --> 00:34:15,001
+Jimmy Lopez.
+
+898
+00:34:23,901 --> 00:34:25,301
+Where's Jimmy Lopez?
+
+899
+00:34:25,801 --> 00:34:27,401
+I wish you
+could tell me.
+
+900
+00:34:27,501 --> 00:34:29,101
+Took off. Haven't seen him.
+
+901
+00:34:29,201 --> 00:34:30,201
+Where's his rig?
+
+902
+00:34:31,101 --> 00:34:32,201
+Around the corner.
+
+903
+00:34:39,901 --> 00:34:41,001
+That's it.
+
+904
+00:34:53,001 --> 00:34:54,301
+That's wierd.
+
+905
+00:35:12,801 --> 00:35:14,401
+Jimmy Lopez.
+
+906
+00:35:15,801 --> 00:35:18,401
+Been keeping a secret
+from me for 17 years.
+
+907
+00:35:33,501 --> 00:35:34,601
+Just doesn't add up.
+
+908
+00:35:34,701 --> 00:35:36,401
+Lopez was clean for years.
+
+909
+00:35:36,501 --> 00:35:39,201
+You think the pressure
+of being questioned by you guys
+
+910
+00:35:39,301 --> 00:35:40,401
+pushed him over the edge?
+
+911
+00:35:40,501 --> 00:35:41,501
+Or someone else did.
+
+912
+00:35:41,601 --> 00:35:43,301
+The tip of the needle is
+broken off in his arm.
+
+913
+00:35:43,901 --> 00:35:44,701
+Really?
+
+914
+00:35:44,801 --> 00:35:45,901
+Like he fought back?
+
+915
+00:35:46,001 --> 00:35:49,701
+Toxicology report shows
+a mixture of heroin, strychnine
+
+916
+00:35:49,801 --> 00:35:52,801
+and powdered milk.
+Nice little cocktail.
+
+917
+00:35:52,901 --> 00:35:53,601
+What are you thinking?
+
+918
+00:35:53,701 --> 00:35:55,401
+Most drug dealers,
+they're very consistent
+
+919
+00:35:55,501 --> 00:35:56,601
+in the way they cut their drugs.
+
+920
+00:35:56,701 --> 00:35:58,101
+That's true--
+signature,
+
+921
+00:35:58,201 --> 00:35:59,701
+brand-- helps them
+sell it on the street.
+
+922
+00:35:59,801 --> 00:36:01,201
+Maybe we get
+a tox report
+
+923
+00:36:01,301 --> 00:36:03,701
+from Lopez's OD
+over to Charlie.
+
+924
+00:36:03,801 --> 00:36:05,201
+He can compare
+the drugs
+
+925
+00:36:05,301 --> 00:36:06,501
+in Lopez's system
+
+926
+00:36:06,601 --> 00:36:08,601
+to the other ODs
+in the coroner's database?
+
+927
+00:36:08,701 --> 00:36:09,701
+Sure, go for it.
+
+928
+00:36:09,801 --> 00:36:10,601
+It's worth a shot, right?
+
+929
+00:36:18,001 --> 00:36:20,001
+Statistical
+identification?
+
+930
+00:36:20,501 --> 00:36:21,401
+Right.
+
+931
+00:36:21,601 --> 00:36:24,401
+Just looking at toxicology
+records of recent ODs.
+
+932
+00:36:24,501 --> 00:36:25,701
+I'm trying to match
+
+933
+00:36:25,801 --> 00:36:28,001
+a specific drug
+combo to a dealer.
+
+934
+00:36:29,201 --> 00:36:31,001
+Strychnine-- that's poison.
+
+935
+00:36:31,101 --> 00:36:32,201
+It's a trace dose.
+
+936
+00:36:32,301 --> 00:36:33,001
+It's not enough to kill.
+
+937
+00:36:33,101 --> 00:36:35,401
+You know, dealers put it
+in their heroin mixes.
+
+938
+00:36:35,501 --> 00:36:36,701
+Poison plus heroin.
+
+939
+00:36:36,801 --> 00:36:39,801
+Yeah. A witness who identified
+our cop killer OD'd,
+
+940
+00:36:39,901 --> 00:36:42,201
+so I'm just trying to
+trace the drug supply.
+
+941
+00:36:43,701 --> 00:36:45,001
+What's happening
+with the committee?
+
+942
+00:36:47,401 --> 00:36:50,501
+Some of the faculty
+are demanding, but...
+
+943
+00:36:51,201 --> 00:36:52,801
+I think I'm up for the job.
+
+944
+00:36:52,901 --> 00:36:53,801
+I never doubted it.
+
+945
+00:36:54,301 --> 00:36:55,301
+What are you working on?
+
+946
+00:36:55,401 --> 00:36:56,801
+Uh, Millie has me
+working on
+
+947
+00:36:56,901 --> 00:36:59,901
+some cluster analysis using
+autocorrelation techniques
+
+948
+00:37:00,001 --> 00:37:02,701
+to analyze the most effective
+undergrad classes
+
+949
+00:37:02,801 --> 00:37:04,101
+in the past two years.
+
+950
+00:37:04,801 --> 00:37:06,601
+Even going through
+the past two semesters
+
+951
+00:37:06,701 --> 00:37:07,901
+would be a ton of work.
+
+952
+00:37:08,401 --> 00:37:09,701
+Yeah.
+
+953
+00:37:09,801 --> 00:37:11,001
+Millie thinks there's
+as much to be learned
+
+954
+00:37:11,101 --> 00:37:12,901
+from the old curriculum
+as the current.
+
+955
+00:37:16,601 --> 00:37:17,701
+What is it?
+
+956
+00:37:18,801 --> 00:37:19,801
+You know what?
+
+957
+00:37:19,901 --> 00:37:21,001
+Can we talk later?
+
+958
+00:37:21,101 --> 00:37:22,301
+I got to go.
+Okay.
+
+959
+00:37:22,401 --> 00:37:24,901
+We got LAPD looking up
+all his known associates.
+
+960
+00:37:27,201 --> 00:37:29,301
+against all the recent ODs
+in the coroner's office, right?
+
+961
+00:37:29,401 --> 00:37:30,001
+Yeah, and?
+
+962
+00:37:30,101 --> 00:37:31,501
+There were no matches
+to any current dealers,
+
+963
+00:37:31,601 --> 00:37:33,201
+which is why I re-ran
+every overdose
+
+964
+00:37:33,301 --> 00:37:34,601
+in the Coroner's
+database,
+
+965
+00:37:34,701 --> 00:37:37,101
+including old overdoses,
+and I got a hit--
+
+966
+00:37:37,301 --> 00:37:38,701
+several hits,
+actually.
+
+967
+00:37:38,801 --> 00:37:40,101
+Three overdoses going back
+
+968
+00:37:40,201 --> 00:37:42,001
+over a year,
+all tracing back
+
+969
+00:37:42,101 --> 00:37:44,501
+to a drug dealer
+named Hector Osorio.
+
+970
+00:37:45,901 --> 00:37:49,001
+Uh, Osorio was busted
+
+971
+00:37:49,101 --> 00:37:51,501
+by Lieutenant Davidson's
+narco team.
+
+972
+00:37:52,001 --> 00:37:53,001
+A large quantity
+
+973
+00:37:53,101 --> 00:37:54,301
+of drugs were seized.
+
+974
+00:37:56,201 --> 00:37:58,201
+Which would be
+in the evidence room.
+
+975
+00:37:59,501 --> 00:38:01,701
+And who would have
+access to those drugs?
+
+976
+00:38:06,001 --> 00:38:07,701
+The lead detective of the team.
+
+977
+00:38:07,801 --> 00:38:09,701
+My guy Davidson.
+
+978
+00:38:14,801 --> 00:38:15,801
+Hey, Walker, what's up?
+
+979
+00:38:16,201 --> 00:38:17,601
+You guys got any news?
+
+980
+00:38:19,001 --> 00:38:20,101
+What the hell's wrong with you?
+
+981
+00:38:21,101 --> 00:38:22,001
+All right, all right!
+
+982
+00:38:22,101 --> 00:38:23,101
+You're under arrest for
+the murder of
+
+983
+00:38:23,201 --> 00:38:24,601
+John Everett.
+What are you
+talking about?
+
+984
+00:38:24,701 --> 00:38:27,901
+They traced the drugs
+in Lopez's system to a bust
+
+985
+00:38:28,001 --> 00:38:30,101
+that your team made, huh?
+
+986
+00:38:30,201 --> 00:38:30,801
+So what?
+
+987
+00:38:30,901 --> 00:38:33,801
+Yeah, that means that you
+poisoned Lopez with those drugs.
+
+988
+00:38:34,101 --> 00:38:35,501
+Tell me the truth.
+You got nothing.
+
+989
+00:38:35,601 --> 00:38:36,501
+You don't got jack on me.
+
+990
+00:38:38,501 --> 00:38:40,201
+How could you do that?!
+All right, get off!
+
+991
+00:38:40,301 --> 00:38:41,701
+You ate at
+Everett's table!
+Hey!
+
+992
+00:38:41,801 --> 00:38:43,501
+You helped raise
+his son!
+
+993
+00:38:43,601 --> 00:38:45,001
+Gary, cut it out!
+Back off!
+
+994
+00:38:45,101 --> 00:38:46,001
+This isn't helping! Turn around!
+
+995
+00:38:46,101 --> 00:38:47,001
+Get your hands
+behind your back!
+
+996
+00:38:47,101 --> 00:38:47,801
+We never took a dime.
+
+997
+00:38:48,501 --> 00:38:49,701
+I made the
+streets safer.
+
+998
+00:38:49,801 --> 00:38:51,701
+Every drug dealer that
+Bradley whacked...
+
+999
+00:38:51,801 --> 00:38:52,801
+I don't believe you!
+No!
+
+1000
+00:38:52,901 --> 00:38:54,601
+Not one drug dealer
+Bradley whacked
+
+1001
+00:38:54,701 --> 00:38:56,301
+ever killed another kid
+with junk!
+
+1002
+00:38:56,401 --> 00:38:57,301
+You got that?!
+
+1003
+00:38:57,401 --> 00:38:59,501
+I made the streets safer!
+So when Everett
+
+1004
+00:38:59,601 --> 00:39:01,101
+was about to rat you out,
+you killed him.
+
+1005
+00:39:01,201 --> 00:39:02,401
+Because he had it coming!
+
+1006
+00:39:02,501 --> 00:39:03,701
+You set him up
+All right, all right.
+
+1007
+00:39:03,801 --> 00:39:04,401
+to take the shot.
+
+1008
+00:39:04,501 --> 00:39:05,701
+Let me just see him
+for one second.
+
+1009
+00:39:05,801 --> 00:39:07,101
+He was gonna go to IA!
+
+1010
+00:39:07,201 --> 00:39:08,501
+Let me just...
+Give me that.
+
+1011
+00:39:08,601 --> 00:39:09,501
+Get this piece of
+crap away from me.
+
+1012
+00:39:09,601 --> 00:39:12,201
+He wouldn't listen
+to reason! Hey, Walker!
+
+1013
+00:39:12,501 --> 00:39:14,401
+Walker, I had no choice!
+
+1014
+00:39:22,101 --> 00:39:23,301
+Hey, Dad.
+
+1015
+00:39:23,401 --> 00:39:24,101
+Hey, Charlie.
+
+1016
+00:39:24,501 --> 00:39:25,301
+What?
+
+1017
+00:39:25,401 --> 00:39:26,701
+No plans with Amita tonight?
+
+1018
+00:39:26,801 --> 00:39:29,101
+She's busy
+chairing a new committee.
+
+1019
+00:39:29,501 --> 00:39:31,401
+I guess...
+
+1020
+00:39:31,601 --> 00:39:33,401
+Millie found
+the magic bullet, huh?
+
+1021
+00:39:33,501 --> 00:39:35,501
+Yeah, they dropped me
+from the lawsuit.
+
+1022
+00:39:35,601 --> 00:39:37,301
+Contractor's
+on the hot seat now.
+
+1023
+00:39:37,401 --> 00:39:39,001
+Oh, good. Well, I'm glad
+she could help.
+
+1024
+00:39:39,401 --> 00:39:41,701
+You know, if you would've
+needed my help,
+
+1025
+00:39:41,801 --> 00:39:43,701
+I certainly would've
+been there for you.
+
+1026
+00:39:43,801 --> 00:39:44,801
+Oh, yeah, I
+know, I know.
+
+1027
+00:39:45,101 --> 00:39:47,501
+Oh, by the way, Charlie,
+when I hooked up
+
+1028
+00:39:47,601 --> 00:39:49,901
+all these lights, I may have
+blown a circuit or two.
+
+1029
+00:39:50,001 --> 00:39:51,101
+A circuit or two?
+
+1030
+00:39:51,201 --> 00:39:51,601
+Where?
+Yeah.
+
+1031
+00:39:51,701 --> 00:39:52,301
+I hope you had
+the system
+
+1032
+00:39:52,401 --> 00:39:53,901
+backed up with
+that laptop of yours
+
+1033
+00:39:54,001 --> 00:39:54,801
+in the garage.
+
+1034
+00:39:55,001 --> 00:39:56,201
+Ah-ah-ah!
+
+1035
+00:39:58,001 --> 00:39:59,301
+I was just kidding.
+
+1036
+00:40:10,701 --> 00:40:11,401
+Hey.
+
+1037
+00:40:11,501 --> 00:40:12,801
+So...
+
+1038
+00:40:13,301 --> 00:40:14,601
+what's going on?
+
+1039
+00:40:16,001 --> 00:40:17,301
+I'm worried
+about you.
+
+1040
+00:40:17,401 --> 00:40:18,801
+Ah, I'm all right.
+
+1041
+00:40:19,701 --> 00:40:20,401
+I mean, you know,
+
+1042
+00:40:20,501 --> 00:40:22,201
+did I do something to...
+No, no, no.
+
+1043
+00:40:22,301 --> 00:40:24,001
+Liz, it's not about you.
+
+1044
+00:40:24,201 --> 00:40:25,701
+I mean...
+Okay.
+
+1045
+00:40:26,701 --> 00:40:28,701
+You can't just get me going
+and disappear.
+
+1046
+00:40:29,401 --> 00:40:31,301
+Yeah, I know.
+I just...
+
+1047
+00:40:31,401 --> 00:40:32,201
+I feel like
+
+1048
+00:40:32,301 --> 00:40:35,201
+I keep second-guessing
+so many moves.
+
+1049
+00:40:35,301 --> 00:40:36,601
+Mid-life crisis, huh?
+
+1050
+00:40:37,301 --> 00:40:38,601
+Ha, ha.
+
+1051
+00:40:41,101 --> 00:40:42,801
+Anyone see you come in here?
+
+1052
+00:40:43,501 --> 00:40:45,001
+Listen to you.
+
+1053
+00:41:16,501 --> 00:41:17,701
+Hey.
+
+1054
+00:41:21,101 --> 00:41:22,201
+Hey.
+
+1055
+00:41:24,201 --> 00:41:25,801
+I got plenty
+in the bottle here.
+
+1056
+00:41:26,901 --> 00:41:27,901
+I can see that.
+
+1057
+00:41:28,401 --> 00:41:29,601
+300 bucks.
+
+1058
+00:41:30,401 --> 00:41:31,701
+Thought he'd
+appreciate it.
+
+1059
+00:41:33,701 --> 00:41:35,601
+Gary, there was nothing
+you could have done.
+
+1060
+00:41:35,701 --> 00:41:37,101
+I mean, look, I know that
+
+1061
+00:41:37,201 --> 00:41:38,701
+and you know that.
+
+1062
+00:41:38,801 --> 00:41:41,301
+We'd both be lying to ourselves
+if we said that, Eppes.
+
+1063
+00:41:43,201 --> 00:41:44,801
+17 years.
+
+1064
+00:41:46,201 --> 00:41:48,501
+It was right there
+under my nose.
+
+1065
+00:41:50,201 --> 00:41:51,701
+I just couldn't see it.
+
+1066
+00:41:55,401 --> 00:41:56,601
+He was a funny kid.
+
+1067
+00:41:56,701 --> 00:41:59,601
+He always walked around with
+this goofy grin.
+
+1068
+00:42:00,801 --> 00:42:01,801
+I remember he had
+
+1069
+00:42:01,901 --> 00:42:04,201
+this little red radio
+that he used to play,
+
+1070
+00:42:04,301 --> 00:42:08,101
+and there was one song that
+he really liked to listen to,
+
+1071
+00:42:08,201 --> 00:42:09,301
+and I...
+
+1072
+00:42:09,701 --> 00:42:12,001
+I just haven't been able
+to remember that song.
+
+1073
+00:42:13,001 --> 00:42:15,001
+I wish I could
+remember that song.
+
+1074
+00:42:16,401 --> 00:42:18,201
+Wasn't it you that said,
+"At the end of the day,
+
+1075
+00:42:18,301 --> 00:42:19,701
+you go home safe,
+that's all you can ask"?
+
+1076
+00:42:20,401 --> 00:42:21,401
+That's right, Eppes.
+
+1077
+00:42:21,501 --> 00:42:22,201
+You...
+
+1078
+00:42:23,601 --> 00:42:25,101
+You walk away...
+
+1079
+00:42:26,101 --> 00:42:27,301
+it all works out.
+
+1080
+00:42:27,305 --> 00:42:35,301
+<font color="#ffff00">welcome to www.1000fr.com</font>
+

@@ -1,0 +1,7960 @@
+1
+00:00:19,146 --> 00:00:23,776  X1:220 X2:499 Y1:390 Y2:420
+(Lawn Sprinkler Pulsing)
+
+2
+00:03:04,709 --> 00:03:06,677  X1:334 X2:388 Y1:390 Y2:420
+Ugh.
+
+3
+00:04:01,199 --> 00:04:02,632  X1:247 X2:475 Y1:390 Y2:420
+Hey, Mr. McAllister.
+
+4
+00:04:02,700 --> 00:04:05,225  X1:234 X2:487 Y1:358 Y2:419
+Not wasting any time,
+areyou, Tracy?
+
+5
+00:04:05,303 --> 00:04:09,137  X1:220 X2:501 Y1:358 Y2:420
+You know what they say
+about the early bird.
+
+6
+00:04:09,207 --> 00:04:10,640  X1:299 X2:419 Y1:390 Y2:417
+Yeah, I do.
+
+7
+00:04:12,710 --> 00:04:14,268  X1:226 X2:494 Y1:390 Y2:420
+Good luck there, Tracy.
+
+8
+00:04:14,345 --> 00:04:16,643  X1:253 X2:468 Y1:358 Y2:420
+Thanks, Mr. M.
+I'll seeyou in class.
+
+9
+00:04:16,714 --> 00:04:18,147  X1:269 X2:450 Y1:390 Y2:420
+Yup, mm-hmm.
+
+10
+00:04:19,717 --> 00:04:21,378  X1:246 X2:473 Y1:358 Y2:420
+Tracy: None ofthis
+would've happened
+
+11
+00:04:21,452 --> 00:04:24,148  X1:219 X2:501 Y1:358 Y2:420
+if Mr. McAllister hadn't
+meddled the way he did.
+
+12
+00:04:24,222 --> 00:04:26,656  X1:207 X2:515 Y1:358 Y2:420
+He should'vejust accepted
+things as they are,
+
+13
+00:04:26,724 --> 00:04:29,124  X1:216 X2:503 Y1:358 Y2:420
+instead oftrying
+to interfere with destiny.
+
+14
+00:04:29,194 --> 00:04:32,163  X1:233 X2:488 Y1:358 Y2:419
+You see, you can't
+interfere with destiny.
+
+15
+00:04:32,230 --> 00:04:33,663  X1:229 X2:489 Y1:390 Y2:420
+That's why it's destiny.
+
+16
+00:04:33,731 --> 00:04:35,665  X1:209 X2:510 Y1:390 Y2:420
+And ifyou try to interfere,
+
+17
+00:04:35,733 --> 00:04:38,167  X1:203 X2:515 Y1:358 Y2:420
+the same thing's
+just gonna happen anyway,
+
+18
+00:04:38,236 --> 00:04:39,669  X1:241 X2:478 Y1:390 Y2:420
+and you'll just suffer.
+
+19
+00:04:42,240 --> 00:04:44,674  X1:193 X2:527 Y1:358 Y2:420
+Jim: It's hard to remember
+how the whole thing started,
+
+20
+00:04:44,742 --> 00:04:46,175  X1:216 X2:504 Y1:390 Y2:414
+the whole election mess.
+
+21
+00:04:46,244 --> 00:04:49,543  X1:237 X2:483 Y1:358 Y2:420
+What I do remember
+is that I loved myjob.
+
+22
+00:04:49,614 --> 00:04:51,138  X1:272 X2:449 Y1:390 Y2:417
+I was a teacher,
+
+23
+00:04:51,216 --> 00:04:52,240  X1:287 X2:432 Y1:390 Y2:417
+an educator,
+
+24
+00:04:52,317 --> 00:04:55,115  X1:230 X2:490 Y1:358 Y2:420
+and I couldn't imagine
+doing anything else.
+
+25
+00:04:55,186 --> 00:04:56,881  X1:248 X2:474 Y1:390 Y2:420
+Boy: Mr. McAllister.
+
+26
+00:04:56,955 --> 00:04:58,582  X1:324 X2:398 Y1:390 Y2:413
+Mr. M!
+
+27
+00:04:58,656 --> 00:05:00,978  X1:252 X2:468 Y1:358 Y2:414
+Quit daydreaming.
+Get back to work.
+
+28
+00:05:01,112 --> 00:05:04,673  X1:213 X2:507 Y1:358 Y2:420
+Jim: The students knew
+it wasn'tjust ajob for me.
+
+29
+00:05:04,749 --> 00:05:06,080  X1:279 X2:441 Y1:390 Y2:420
+I got involved.
+
+30
+00:05:06,150 --> 00:05:08,084  X1:214 X2:507 Y1:390 Y2:420
+Put down the cards, boys!
+
+31
+00:05:08,152 --> 00:05:09,585  X1:256 X2:463 Y1:390 Y2:420
+This game is over!
+
+32
+00:05:09,654 --> 00:05:11,019  X1:264 X2:454 Y1:390 Y2:420
+Jim: And I cared.
+
+33
+00:05:11,088 --> 00:05:13,079  X1:233 X2:486 Y1:390 Y2:417
+Come on, Wolverines!
+
+34
+00:05:13,157 --> 00:05:14,089  X1:260 X2:462 Y1:390 Y2:420
+Defense! Let's go!
+
+35
+00:05:14,158 --> 00:05:16,092  X1:247 X2:474 Y1:358 Y2:414
+Jim: And I think
+I made a difference.
+
+36
+00:05:16,160 --> 00:05:18,094  X1:255 X2:464 Y1:358 Y2:414
+I knew I touched
+the students' lives
+
+37
+00:05:18,162 --> 00:05:20,596  X1:242 X2:478 Y1:358 Y2:420
+during their diffiicult
+young adultyears.
+
+38
+00:05:20,665 --> 00:05:24,624  X1:226 X2:495 Y1:358 Y2:420
+And I took that
+responsibility seriously.
+
+39
+00:05:24,702 --> 00:05:28,103  X1:243 X2:478 Y1:358 Y2:420
+In the 1 2 years
+I taught U.S. history,
+
+40
+00:05:28,172 --> 00:05:30,606  X1:213 X2:506 Y1:358 Y2:417
+civics, and current events
+at Carver,
+
+41
+00:05:30,675 --> 00:05:33,610  X1:196 X2:522 Y1:358 Y2:414
+I was voted
+Teacher ofthe Year 3 times.
+
+42
+00:05:33,678 --> 00:05:35,441  X1:264 X2:454 Y1:390 Y2:414
+A school record.
+
+43
+00:05:35,513 --> 00:05:38,607  X1:235 X2:485 Y1:358 Y2:414
+Teaching was all
+I'd everwanted to do.
+
+44
+00:05:40,618 --> 00:05:44,110  X1:204 X2:515 Y1:358 Y2:420
+Standing in front of
+a roomful ofyoung people,
+
+45
+00:05:44,188 --> 00:05:46,622  X1:207 X2:512 Y1:358 Y2:417
+trying to get them excited
+about the world,
+
+46
+00:05:46,691 --> 00:05:48,625  X1:204 X2:515 Y1:390 Y2:420
+trying to make them think,
+
+47
+00:05:48,693 --> 00:05:52,129  X1:190 X2:531 Y1:358 Y2:414
+preparing them for the tough
+moral and ethical decisions
+
+48
+00:05:52,196 --> 00:05:54,130  X1:213 X2:506 Y1:390 Y2:420
+that they'd face as adults,
+
+49
+00:05:54,198 --> 00:05:56,063  X1:246 X2:474 Y1:358 Y2:420
+that's how I wanted
+to spend my life.
+
+50
+00:05:57,134 --> 00:05:59,068  X1:262 X2:458 Y1:358 Y2:414
+So is this
+a moral situation
+
+51
+00:05:59,136 --> 00:06:01,297  X1:227 X2:493 Y1:390 Y2:414
+or an ethical situation?
+
+52
+00:06:01,372 --> 00:06:04,307  X1:180 X2:539 Y1:358 Y2:420
+What's the difference between
+morals and ethics anyway?
+
+53
+00:06:04,375 --> 00:06:05,569  X1:302 X2:418 Y1:390 Y2:420
+Anybody?
+
+54
+00:06:07,144 --> 00:06:08,577  X1:323 X2:398 Y1:390 Y2:414
+Derek.
+
+55
+00:06:08,646 --> 00:06:10,580  X1:263 X2:459 Y1:358 Y2:420
+Yeah. Ethics is
+like when you do
+
+56
+00:06:10,648 --> 00:06:12,843  X1:234 X2:484 Y1:358 Y2:420
+what society tells you
+is right to do.
+
+57
+00:06:12,917 --> 00:06:14,077  X1:283 X2:435 Y1:390 Y2:414
+And morals...
+
+58
+00:06:16,654 --> 00:06:18,588  X1:215 X2:504 Y1:358 Y2:420
+Yeah, yeah,
+you're on the right track.
+
+59
+00:06:18,656 --> 00:06:19,816  X1:203 X2:517 Y1:390 Y2:420
+Can anybody help him out?
+
+60
+00:06:22,526 --> 00:06:23,515  X1:308 X2:413 Y1:390 Y2:414
+Michelle.
+
+61
+00:06:23,594 --> 00:06:26,085  X1:267 X2:454 Y1:358 Y2:414
+Morals are like...
+lessons.
+
+62
+00:06:26,163 --> 00:06:28,256  X1:244 X2:475 Y1:358 Y2:420
+You know, like
+the moral ofa story.
+
+63
+00:06:28,332 --> 00:06:32,098  X1:231 X2:489 Y1:358 Y2:420
+It's whatyou learn
+from a story or a fable.
+
+64
+00:06:32,169 --> 00:06:34,603  X1:206 X2:513 Y1:390 Y2:420
+Or a life experience. Good.
+
+65
+00:06:34,672 --> 00:06:35,934  X1:291 X2:429 Y1:390 Y2:414
+And ethics?
+
+66
+00:06:36,007 --> 00:06:39,602  X1:250 X2:469 Y1:358 Y2:420
+Um, ethics is how
+you use the morals
+
+67
+00:06:39,677 --> 00:06:41,702  X1:271 X2:449 Y1:358 Y2:420
+thatyou learn
+from the story?
+
+68
+00:06:41,779 --> 00:06:45,215  X1:195 X2:525 Y1:358 Y2:420
+Yeah, OK, but I thinkwe're
+missing something key here.
+
+69
+00:06:45,282 --> 00:06:47,113  X1:232 X2:488 Y1:390 Y2:420
+What are we missing?
+
+70
+00:06:55,092 --> 00:06:55,956  X1:324 X2:394 Y1:390 Y2:419
+Tracy.
+
+71
+00:06:56,027 --> 00:06:58,257  X1:198 X2:524 Y1:390 Y2:414
+Ethics are rules ofconduct--
+
+72
+00:06:59,330 --> 00:07:00,729  X1:269 X2:450 Y1:390 Y2:420
+Jim: Tracy Flick.
+
+73
+00:07:00,798 --> 00:07:01,730  X1:294 X2:425 Y1:390 Y2:420
+Tracy Flick.
+
+74
+00:07:01,799 --> 00:07:03,562  X1:248 X2:471 Y1:358 Y2:414
+I'd seen a lot of
+ambitious students
+
+75
+00:07:03,634 --> 00:07:05,067  X1:198 X2:522 Y1:390 Y2:420
+come and go over theyears,
+
+76
+00:07:05,136 --> 00:07:08,594  X1:231 X2:489 Y1:358 Y2:420
+but Tracy Flick,
+she was a special case.
+
+77
+00:07:09,774 --> 00:07:11,571  X1:224 X2:496 Y1:358 Y2:417
+Tracy: Some people say
+I'm an overachiever,
+
+78
+00:07:11,642 --> 00:07:13,075  X1:249 X2:471 Y1:358 Y2:420
+but I think
+they'rejustjealous.
+
+79
+00:07:13,144 --> 00:07:15,078  X1:220 X2:502 Y1:358 Y2:414
+My mom always tells me
+I'm different.
+
+80
+00:07:15,146 --> 00:07:16,579  X1:252 X2:466 Y1:390 Y2:420
+You know, special.
+
+81
+00:07:16,647 --> 00:07:18,080  X1:270 X2:450 Y1:358 Y2:420
+And ifyou look
+at all the things
+
+82
+00:07:18,149 --> 00:07:19,081  X1:220 X2:501 Y1:390 Y2:420
+I've accomplished so far,
+
+83
+00:07:19,150 --> 00:07:21,584  X1:204 X2:516 Y1:390 Y2:420
+I thinkyou'd have to agree.
+
+84
+00:07:28,192 --> 00:07:30,592  X1:238 X2:486 Y1:358 Y2:414
+Here I am as Hodel in
+FiddlerOn The Roof.
+
+85
+00:07:30,661 --> 00:07:33,596  X1:190 X2:529 Y1:358 Y2:420
+[ding] Matchmaker, matchmaker,
+I'll bring the veil [ding]
+
+86
+00:07:33,664 --> 00:07:35,256  X1:215 X2:506 Y1:390 Y2:420
+[ding]You bring the groom [ding]
+
+87
+00:07:35,332 --> 00:07:39,098  X1:183 X2:536 Y1:358 Y2:414
+Tracy: And here I am on KCHS,
+our student-run TV station.
+
+88
+00:07:39,170 --> 00:07:41,104  X1:222 X2:496 Y1:390 Y2:420
+The littering must stop.
+
+89
+00:07:41,172 --> 00:07:42,901  X1:235 X2:483 Y1:390 Y2:420
+Tracy Flick reporting.
+
+90
+00:07:42,973 --> 00:07:45,100  X1:228 X2:493 Y1:358 Y2:416
+Tracy:
+But it was in the S.G.A.,
+
+91
+00:07:45,176 --> 00:07:46,609  X1:215 X2:506 Y1:358 Y2:417
+the Student Government
+Association,
+
+92
+00:07:46,677 --> 00:07:48,110  X1:177 X2:542 Y1:390 Y2:420
+where I made my biggest mark.
+
+93
+00:07:48,179 --> 00:07:50,113  X1:176 X2:545 Y1:390 Y2:420
+I never missed a single meeting.
+
+94
+00:07:50,181 --> 00:07:52,115  X1:239 X2:481 Y1:358 Y2:420
+And I volunteered
+for every committee,
+
+95
+00:07:52,183 --> 00:07:54,117  X1:219 X2:500 Y1:390 Y2:420
+as long as I could lead it.
+
+96
+00:07:54,185 --> 00:07:55,277  X1:247 X2:473 Y1:390 Y2:420
+I agree with Ashley!
+
+97
+00:07:55,352 --> 00:07:57,047  X1:215 X2:506 Y1:358 Y2:414
+I thinkwe should rent
+the barrels ahead oftime
+
+98
+00:07:57,121 --> 00:07:59,112  X1:220 X2:500 Y1:358 Y2:420
+because what happened
+last time was a travesty.
+
+99
+00:07:59,190 --> 00:08:00,350  X1:263 X2:457 Y1:390 Y2:417
+It was ridiculous,
+
+100
+00:08:00,424 --> 00:08:02,051  X1:200 X2:520 Y1:358 Y2:420
+and I think it really
+reflected poorly on all ofus.
+
+101
+00:08:02,126 --> 00:08:04,560  X1:241 X2:480 Y1:358 Y2:420
+Jim: Now Tracy Flick
+was poised to win
+
+102
+00:08:04,628 --> 00:08:07,096  X1:243 X2:476 Y1:358 Y2:420
+the presidency
+ofthe student body.
+
+103
+00:08:07,164 --> 00:08:10,065  X1:195 X2:525 Y1:358 Y2:420
+And so far,
+she was running unopposed.
+
+104
+00:08:10,134 --> 00:08:13,069  X1:205 X2:515 Y1:358 Y2:420
+Determined by a culture
+at a certain time in history.
+
+105
+00:08:14,238 --> 00:08:16,103  X1:198 X2:523 Y1:358 Y2:420
+Jim: Oh, there's
+one more thing about Tracy
+
+106
+00:08:16,173 --> 00:08:17,800  X1:219 X2:501 Y1:390 Y2:420
+I thinkyou should know.
+
+107
+00:08:17,875 --> 00:08:21,971  X1:236 X2:486 Y1:358 Y2:419
+Her pussy gets so wet
+you can't believe it.
+
+108
+00:08:22,046 --> 00:08:23,980  X1:256 X2:466 Y1:358 Y2:414
+(Softly)
+Don't tell me that.
+
+109
+00:08:24,048 --> 00:08:25,572  X1:211 X2:510 Y1:358 Y2:414
+Don't tell me that.
+I don't want to know that.
+
+110
+00:08:25,649 --> 00:08:27,583  X1:247 X2:474 Y1:358 Y2:417
+Jim: A few months
+before the election,
+
+111
+00:08:27,651 --> 00:08:29,585  X1:244 X2:479 Y1:358 Y2:414
+she'd gotten herself
+in a little trouble
+
+112
+00:08:29,653 --> 00:08:33,111  X1:247 X2:472 Y1:358 Y2:420
+with my best friend
+Dave Novotny.
+
+113
+00:08:33,190 --> 00:08:35,090  X1:309 X2:412 Y1:390 Y2:419
+[ding] Foxy[ding]
+
+114
+00:08:35,159 --> 00:08:37,593  X1:214 X2:506 Y1:358 Y2:419
+Jim: Dave came to Carver
+theyear after I did,
+
+115
+00:08:37,661 --> 00:08:39,595  X1:203 X2:517 Y1:390 Y2:420
+and we hit it offright away.
+
+116
+00:08:39,663 --> 00:08:41,597  X1:203 X2:518 Y1:358 Y2:420
+Dave was one ofthose guys
+who taught
+
+117
+00:08:41,665 --> 00:08:43,098  X1:203 X2:518 Y1:358 Y2:420
+because they neverwanted
+to leave high school
+
+118
+00:08:43,167 --> 00:08:44,600  X1:264 X2:456 Y1:390 Y2:420
+in the fiirst place.
+
+119
+00:08:44,668 --> 00:08:47,603  X1:174 X2:547 Y1:390 Y2:420
+But basically, he was a good guy.
+
+120
+00:08:47,671 --> 00:08:50,105  X1:153 X2:566 Y1:390 Y2:417
+Ourwives became best friends, too.
+
+121
+00:08:50,174 --> 00:08:52,608  X1:200 X2:519 Y1:358 Y2:420
+And when Dave and Linda's
+son Darryl was born,
+
+122
+00:08:52,676 --> 00:08:55,042  X1:249 X2:472 Y1:358 Y2:420
+they asked us to be
+his godparents.
+
+123
+00:08:56,814 --> 00:08:59,248  X1:150 X2:569 Y1:390 Y2:420
+Tracy: You probably think the worst,
+
+124
+00:08:59,316 --> 00:09:02,046  X1:210 X2:510 Y1:358 Y2:420
+that Mr. Novotnywas
+taking horrible advantage
+
+125
+00:09:02,119 --> 00:09:03,552  X1:233 X2:487 Y1:390 Y2:414
+ofone ofhis students.
+
+126
+00:09:03,621 --> 00:09:06,055  X1:204 X2:517 Y1:390 Y2:414
+But it wasn't like that at all.
+
+127
+00:09:06,123 --> 00:09:08,557  X1:218 X2:504 Y1:358 Y2:420
+Our relationship was
+based on mutual respect
+
+128
+00:09:08,626 --> 00:09:09,684  X1:268 X2:451 Y1:390 Y2:414
+and admiration.
+
+129
+00:09:09,760 --> 00:09:12,558  X1:189 X2:530 Y1:358 Y2:420
+I mean, during my
+sophomoreyear in geometry,
+
+130
+00:09:12,630 --> 00:09:14,564  X1:217 X2:503 Y1:358 Y2:420
+it was strictly
+professional between us.
+
+131
+00:09:14,632 --> 00:09:16,532  X1:266 X2:454 Y1:390 Y2:420
+I mean, nothing.
+
+132
+00:09:16,600 --> 00:09:18,067  X1:217 X2:506 Y1:390 Y2:420
+It wasn't until junioryear
+
+133
+00:09:18,135 --> 00:09:20,069  X1:205 X2:515 Y1:358 Y2:420
+when we worked together
+on theyearbook
+
+134
+00:09:20,137 --> 00:09:22,071  X1:183 X2:537 Y1:390 Y2:420
+that things got kind ofserious.
+
+135
+00:09:22,139 --> 00:09:24,073  X1:207 X2:514 Y1:358 Y2:414
+One night he took
+us editors out to celebrate
+
+136
+00:09:24,141 --> 00:09:25,574  X1:267 X2:453 Y1:390 Y2:414
+after a deadline.
+
+137
+00:09:25,643 --> 00:09:28,077  X1:236 X2:484 Y1:358 Y2:417
+Eventually, Dave and I
+were left alone,
+
+138
+00:09:28,145 --> 00:09:29,578  X1:233 X2:486 Y1:390 Y2:420
+and we got to talking.
+
+139
+00:09:29,647 --> 00:09:31,581  X1:192 X2:530 Y1:390 Y2:417
+Not like teacher and student,
+
+140
+00:09:31,649 --> 00:09:33,082  X1:264 X2:456 Y1:390 Y2:414
+but like 2 adults.
+
+141
+00:09:33,150 --> 00:09:34,583  X1:261 X2:458 Y1:390 Y2:420
+You know, Tracy,
+
+142
+00:09:34,652 --> 00:09:36,586  X1:225 X2:495 Y1:358 Y2:420
+I notice that
+you don't seem to have
+
+143
+00:09:36,654 --> 00:09:38,588  X1:206 X2:514 Y1:390 Y2:420
+any close friends at Carver.
+
+144
+00:09:38,656 --> 00:09:40,590  X1:180 X2:538 Y1:390 Y2:414
+You seem to be kind ofa loner.
+
+145
+00:09:40,658 --> 00:09:43,422  X1:261 X2:460 Y1:358 Y2:419
+No, I'm not.
+I'm just real busy.
+
+146
+00:09:43,494 --> 00:09:46,088  X1:231 X2:489 Y1:358 Y2:420
+Oh, no. I know, I know
+it's not by choice.
+
+147
+00:09:46,163 --> 00:09:48,597  X1:201 X2:519 Y1:390 Y2:420
+I just mean that, that, well...
+
+148
+00:09:48,666 --> 00:09:51,100  X1:171 X2:550 Y1:390 Y2:420
+being the kind ofperson you are,
+
+149
+00:09:51,168 --> 00:09:53,102  X1:176 X2:544 Y1:390 Y2:420
+it must be really diffiicult foryou
+
+150
+00:09:53,170 --> 00:09:54,933  X1:259 X2:463 Y1:358 Y2:420
+to fiind somebody
+you could talk to.
+
+151
+00:09:55,005 --> 00:09:56,597  X1:243 X2:476 Y1:390 Y2:420
+What doyou mean?
+
+152
+00:09:56,674 --> 00:09:59,074  X1:207 X2:513 Y1:390 Y2:420
+What kind ofperson am I?
+
+153
+00:10:01,178 --> 00:10:05,114  X1:198 X2:521 Y1:358 Y2:420
+Tracy, you know, I've been
+watching you for going on...
+
+154
+00:10:05,182 --> 00:10:06,615  X1:288 X2:432 Y1:390 Y2:419
+3 years now,
+
+155
+00:10:06,684 --> 00:10:09,812  X1:213 X2:506 Y1:358 Y2:417
+and I thinkyou are
+one ofthe most talented,
+
+156
+00:10:09,887 --> 00:10:13,050  X1:244 X2:475 Y1:358 Y2:417
+hard-working,
+sensitive, attractive,
+
+157
+00:10:13,123 --> 00:10:15,114  X1:245 X2:477 Y1:390 Y2:414
+brilliant students I--
+
+158
+00:10:15,192 --> 00:10:16,124  X1:341 X2:381 Y1:390 Y2:413
+No.
+
+159
+00:10:17,528 --> 00:10:19,894  X1:183 X2:538 Y1:390 Y2:420
+Human beings I have ever met.
+
+160
+00:10:21,198 --> 00:10:22,187  X1:296 X2:423 Y1:390 Y2:420
+Thankyou.
+
+161
+00:10:22,266 --> 00:10:25,133  X1:205 X2:515 Y1:358 Y2:420
+And I know that
+sometimes people likeyou
+
+162
+00:10:25,202 --> 00:10:29,138  X1:250 X2:470 Y1:358 Y2:420
+have to pay a price
+for their greatness.
+
+163
+00:10:29,206 --> 00:10:31,800  X1:199 X2:519 Y1:390 Y2:420
+And that price is loneliness.
+
+164
+00:10:31,876 --> 00:10:35,312  X1:225 X2:495 Y1:358 Y2:420
+I don't know.
+maybe I'm wrong, but...
+
+165
+00:10:35,379 --> 00:10:40,112  X1:218 X2:501 Y1:358 Y2:420
+itjust seems to me like
+you might need a friend.
+
+166
+00:10:43,721 --> 00:10:45,484  X1:232 X2:487 Y1:358 Y2:416
+Tracy: Since I grew up
+without a dad,
+
+167
+00:10:45,556 --> 00:10:46,989  X1:156 X2:563 Y1:390 Y2:420
+you might assume, psychologically,
+
+168
+00:10:47,057 --> 00:10:49,150  X1:255 X2:464 Y1:358 Y2:420
+I was looking
+for a father fiigure.
+
+169
+00:10:49,226 --> 00:10:51,660  X1:241 X2:481 Y1:358 Y2:414
+But that had nothing
+to do with it at all.
+
+170
+00:10:51,729 --> 00:10:53,663  X1:248 X2:474 Y1:358 Y2:420
+It wasjust that
+Dave was so strong,
+
+171
+00:10:53,731 --> 00:10:56,700  X1:232 X2:487 Y1:358 Y2:420
+and he made me feel
+so safe and protected.
+
+172
+00:10:56,767 --> 00:11:00,601  X1:175 X2:545 Y1:358 Y2:420
+It was the fiirst time
+somebody ever saw the real me,
+
+173
+00:11:00,671 --> 00:11:02,605  X1:176 X2:544 Y1:390 Y2:420
+the me that nobody else knows.
+
+174
+00:11:02,673 --> 00:11:05,733  X1:181 X2:539 Y1:390 Y2:417
+OK, here. Get down. Get down.
+
+175
+00:11:15,152 --> 00:11:17,086  X1:267 X2:454 Y1:390 Y2:418
+[ding]You're once [ding]
+
+176
+00:11:17,154 --> 00:11:18,086  X1:301 X2:419 Y1:390 Y2:418
+[ding]Twice [ding]
+
+177
+00:11:20,157 --> 00:11:24,594  X1:230 X2:490 Y1:390 Y2:420
+[ding]Three times a lady[ding]
+
+178
+00:11:26,163 --> 00:11:32,102  X1:254 X2:467 Y1:390 Y2:420
+[ding]And I loveyou [ding]
+
+179
+00:11:33,671 --> 00:11:36,105  X1:242 X2:478 Y1:390 Y2:419
+[ding]Yes, you're once [ding]
+
+180
+00:11:36,173 --> 00:11:37,606  X1:301 X2:419 Y1:390 Y2:418
+[ding]Twice [ding]
+
+181
+00:11:39,677 --> 00:11:41,611  X1:230 X2:490 Y1:390 Y2:420
+[ding]Three times a lady[ding]
+
+182
+00:11:41,679 --> 00:11:43,112  X1:322 X2:397 Y1:390 Y2:420
+(Slurp)
+
+183
+00:11:45,182 --> 00:11:53,021  X1:254 X2:467 Y1:390 Y2:420
+[ding]And I loveyou [ding]
+
+184
+00:11:53,090 --> 00:11:54,022  X1:325 X2:394 Y1:390 Y2:420
+(Gulp)
+
+185
+00:11:55,092 --> 00:11:58,550  X1:305 X2:416 Y1:390 Y2:419
+[ding] I love [ding]
+
+186
+00:11:58,629 --> 00:12:00,028  X1:313 X2:407 Y1:390 Y2:418
+[ding]You [ding]
+
+187
+00:12:01,198 --> 00:12:03,063  X1:215 X2:505 Y1:358 Y2:420
+Tracy: When I think back
+on my relationship
+
+188
+00:12:03,133 --> 00:12:04,566  X1:254 X2:465 Y1:390 Y2:420
+with Mr. Novotny,
+
+189
+00:12:04,635 --> 00:12:07,570  X1:193 X2:526 Y1:390 Y2:414
+what I miss most is our talks.
+
+190
+00:12:09,640 --> 00:12:12,074  X1:216 X2:503 Y1:390 Y2:420
+You did it in your house?
+
+191
+00:12:12,142 --> 00:12:13,575  X1:248 X2:473 Y1:390 Y2:420
+In your own house?
+
+192
+00:12:13,644 --> 00:12:16,704  X1:178 X2:542 Y1:390 Y2:420
+OK, I know it seems crazy, but...
+
+193
+00:12:16,780 --> 00:12:20,079  X1:246 X2:473 Y1:358 Y2:420
+Jim, what I'm trying
+to tell you is that...
+
+194
+00:12:20,150 --> 00:12:21,583  X1:287 X2:432 Y1:390 Y2:420
+Tracy and I...
+
+195
+00:12:21,652 --> 00:12:24,086  X1:249 X2:470 Y1:390 Y2:420
+are totally, totally...
+
+196
+00:12:24,154 --> 00:12:26,179  X1:320 X2:401 Y1:390 Y2:414
+in love.
+
+197
+00:12:27,414 --> 00:12:29,541  X1:307 X2:413 Y1:358 Y2:414
+- In love?
+- Yeah.
+
+198
+00:12:29,616 --> 00:12:30,708  X1:296 X2:425 Y1:390 Y2:413
+It's serious.
+
+199
+00:12:30,784 --> 00:12:33,719  X1:224 X2:496 Y1:358 Y2:414
+She inspires me in ways
+that Linda never has.
+
+200
+00:12:33,787 --> 00:12:35,880  X1:168 X2:552 Y1:390 Y2:420
+She even wants to read my novel.
+
+201
+00:12:35,956 --> 00:12:38,049  X1:249 X2:469 Y1:358 Y2:420
+Butyou haven't
+written your novel.
+
+202
+00:12:38,125 --> 00:12:39,558  X1:226 X2:493 Y1:390 Y2:420
+That's the whole point!
+
+203
+00:12:39,626 --> 00:12:42,060  X1:209 X2:512 Y1:358 Y2:420
+I--I've got the whole thing
+right here!
+
+204
+00:12:42,129 --> 00:12:44,063  X1:253 X2:467 Y1:358 Y2:420
+I just need
+to get it out there.
+
+205
+00:12:44,131 --> 00:12:47,567  X1:181 X2:539 Y1:358 Y2:414
+And Tracywants me to write it
+so she can read it.
+
+206
+00:12:47,634 --> 00:12:48,566  X1:285 X2:435 Y1:390 Y2:414
+It's beautiful.
+
+207
+00:12:48,635 --> 00:12:50,068  X1:324 X2:398 Y1:390 Y2:413
+Dave...
+
+208
+00:12:50,137 --> 00:12:53,573  X1:254 X2:466 Y1:358 Y2:420
+I'm just saying this
+as your friend.
+
+209
+00:12:53,640 --> 00:12:57,201  X1:239 X2:479 Y1:358 Y2:420
+Whatyou're doing is
+really, reallywrong,
+
+210
+00:12:57,277 --> 00:12:59,245  X1:232 X2:487 Y1:390 Y2:420
+and you've gotta stop.
+
+211
+00:12:59,312 --> 00:13:01,337  X1:204 X2:515 Y1:390 Y2:420
+The lineyou've crossed is...
+
+212
+00:13:01,414 --> 00:13:03,348  X1:277 X2:442 Y1:358 Y2:420
+It's immoral,
+and it's illegal.
+
+213
+00:13:03,416 --> 00:13:04,849  X1:280 X2:438 Y1:390 Y2:419
+Jim, come on.
+
+214
+00:13:04,918 --> 00:13:07,079  X1:178 X2:542 Y1:390 Y2:414
+I don't need a lecture on ethics.
+
+215
+00:13:07,154 --> 00:13:08,348  X1:198 X2:523 Y1:390 Y2:420
+I'm not talking about ethics.
+
+216
+00:13:08,421 --> 00:13:09,979  X1:216 X2:504 Y1:390 Y2:420
+I'm talking about morals.
+
+217
+00:13:11,591 --> 00:13:13,718  X1:228 X2:492 Y1:390 Y2:414
+What's the difference?
+
+218
+00:13:13,794 --> 00:13:15,523  X1:232 X2:489 Y1:358 Y2:419
+Jim: I guess
+I don't have to tell you
+
+219
+00:13:15,595 --> 00:13:17,529  X1:226 X2:494 Y1:390 Y2:414
+how this all turned out.
+
+220
+00:13:24,104 --> 00:13:25,036  X1:275 X2:444 Y1:390 Y2:418
+(Clears Throat)
+
+221
+00:13:34,114 --> 00:13:36,048  X1:276 X2:442 Y1:390 Y2:419
+Tracy's mom...
+
+222
+00:13:36,116 --> 00:13:38,243  X1:221 X2:498 Y1:390 Y2:414
+she doesn't understand.
+
+223
+00:13:38,318 --> 00:13:40,047  X1:230 X2:491 Y1:390 Y2:420
+No. I'd say she doesn't.
+
+224
+00:13:40,120 --> 00:13:44,557  X1:219 X2:502 Y1:358 Y2:420
+Fact is, I have never seen
+a mother so upset.
+
+225
+00:13:44,624 --> 00:13:45,682  X1:322 X2:398 Y1:390 Y2:420
+(Sighs)
+
+226
+00:13:45,759 --> 00:13:48,819  X1:229 X2:490 Y1:358 Y2:420
+All right. I know what
+Tracy told her mother,
+
+227
+00:13:48,895 --> 00:13:50,556  X1:210 X2:509 Y1:390 Y2:414
+what her mother told me.
+
+228
+00:13:50,630 --> 00:13:52,564  X1:201 X2:520 Y1:390 Y2:420
+I need to hear this from you
+
+229
+00:13:52,632 --> 00:13:54,566  X1:209 X2:511 Y1:358 Y2:420
+because I have
+a legal responsibility here.
+
+230
+00:13:54,634 --> 00:13:56,499  X1:248 X2:474 Y1:390 Y2:420
+Let me askyou this.
+
+231
+00:13:59,072 --> 00:14:01,905  X1:237 X2:485 Y1:358 Y2:420
+Did you cross the line
+with this girl?
+
+232
+00:14:09,583 --> 00:14:10,515  X1:333 X2:389 Y1:390 Y2:414
+I di--
+
+233
+00:14:12,085 --> 00:14:13,017  X1:312 X2:407 Y1:390 Y2:413
+W-We...
+
+234
+00:14:15,088 --> 00:14:17,022  X1:280 X2:439 Y1:390 Y2:414
+We're in love.
+
+235
+00:14:21,595 --> 00:14:22,789  X1:253 X2:469 Y1:390 Y2:414
+Linda: Your novel?!
+
+236
+00:14:22,863 --> 00:14:24,524  X1:193 X2:527 Y1:390 Y2:420
+Areyou fucking kidding me?
+
+237
+00:14:24,598 --> 00:14:25,530  X1:321 X2:401 Y1:390 Y2:414
+Linda...
+
+238
+00:14:25,599 --> 00:14:27,032  X1:216 X2:503 Y1:390 Y2:420
+Jim: After Dave got fiired,
+
+239
+00:14:27,100 --> 00:14:28,533  X1:165 X2:558 Y1:390 Y2:414
+Linda kicked him out ofthe house
+
+240
+00:14:28,602 --> 00:14:30,035  X1:241 X2:478 Y1:390 Y2:414
+and fiiled for divorce.
+
+241
+00:14:30,103 --> 00:14:33,038  X1:204 X2:517 Y1:358 Y2:420
+He ended up
+moving back to Milwaukee
+
+242
+00:14:33,106 --> 00:14:34,038  X1:226 X2:494 Y1:390 Y2:420
+to live with his parents.
+
+243
+00:14:34,107 --> 00:14:35,369  X1:218 X2:504 Y1:390 Y2:420
+He's lucky he's not injail.
+
+244
+00:14:35,442 --> 00:14:36,909  X1:327 X2:395 Y1:390 Y2:414
+Linda!
+
+245
+00:14:39,112 --> 00:14:41,239  X1:197 X2:523 Y1:390 Y2:414
+And ethics are the basis of--
+
+246
+00:14:41,314 --> 00:14:42,372  X1:264 X2:456 Y1:390 Y2:420
+(Class Bell Rings)
+
+247
+00:14:42,449 --> 00:14:44,383  X1:168 X2:551 Y1:390 Y2:420
+OK. We'll pick up here next time.
+
+248
+00:14:49,890 --> 00:14:51,050  X1:199 X2:520 Y1:390 Y2:420
+Would it be possible for me
+
+249
+00:14:51,124 --> 00:14:53,422  X1:247 X2:472 Y1:358 Y2:420
+to retake the test
+we tookyesterday?
+
+250
+00:14:53,493 --> 00:14:54,926  X1:237 X2:482 Y1:358 Y2:414
+The testyesterday?
+You wanna retake it?
+
+251
+00:14:54,995 --> 00:14:57,020  X1:248 X2:473 Y1:358 Y2:420
+Yeah. I had to work
+the night before,
+
+252
+00:14:57,097 --> 00:14:58,029  X1:232 X2:487 Y1:358 Y2:420
+and I didn't have
+enough time to study.
+
+253
+00:14:58,098 --> 00:14:59,030  X1:303 X2:417 Y1:390 Y2:420
+Oh, yeah?
+
+254
+00:15:00,367 --> 00:15:02,335  X1:229 X2:490 Y1:358 Y2:420
+Tracy: Now that I have
+more life experience,
+
+255
+00:15:02,402 --> 00:15:04,632  X1:254 X2:466 Y1:358 Y2:414
+I feel sorry
+for Mr. McAllister.
+
+256
+00:15:04,704 --> 00:15:07,639  X1:202 X2:520 Y1:358 Y2:417
+I mean, anyone who's stuck
+in the same little room,
+
+257
+00:15:07,707 --> 00:15:09,504  X1:168 X2:551 Y1:390 Y2:420
+wearing the same stupid clothes,
+
+258
+00:15:09,576 --> 00:15:12,511  X1:222 X2:498 Y1:358 Y2:420
+same exact same things
+year afteryear
+
+259
+00:15:12,579 --> 00:15:14,012  X1:261 X2:458 Y1:390 Y2:417
+for his whole life,
+
+260
+00:15:14,080 --> 00:15:16,514  X1:227 X2:492 Y1:358 Y2:420
+while his students
+go on to good colleges
+
+261
+00:15:16,583 --> 00:15:19,518  X1:232 X2:487 Y1:358 Y2:420
+and move to big cities
+and do great things
+
+262
+00:15:19,586 --> 00:15:22,487  X1:210 X2:510 Y1:390 Y2:420
+and make loads ofmoney,
+
+263
+00:15:22,555 --> 00:15:24,523  X1:241 X2:481 Y1:358 Y2:420
+he's gotta be at least
+a littlejealous.
+
+264
+00:15:24,591 --> 00:15:26,024  X1:252 X2:467 Y1:358 Y2:420
+I noticed it was
+a little low foryou.
+
+265
+00:15:26,092 --> 00:15:27,491  X1:236 X2:485 Y1:358 Y2:419
+Tracy:
+It's like my mom says:
+
+266
+00:15:27,560 --> 00:15:31,018  X1:203 X2:515 Y1:358 Y2:420
+The weak are always trying
+to sabotage the strong.
+
+267
+00:15:31,097 --> 00:15:33,531  X1:204 X2:517 Y1:358 Y2:414
+One thing that's important
+to know about me
+
+268
+00:15:33,600 --> 00:15:35,033  X1:224 X2:496 Y1:390 Y2:420
+is that I'm an only child,
+
+269
+00:15:35,101 --> 00:15:37,535  X1:227 X2:494 Y1:364 Y2:420
+so my mom
+is really devoted to me.
+
+270
+00:15:37,604 --> 00:15:39,037  X1:223 X2:495 Y1:390 Y2:414
+And I love her so much.
+
+271
+00:15:39,105 --> 00:15:41,039  X1:251 X2:469 Y1:358 Y2:420
+She wants me
+to do all the things
+
+272
+00:15:41,107 --> 00:15:43,541  X1:233 X2:488 Y1:358 Y2:414
+that she wanted to do
+in life but couldn't.
+
+273
+00:15:43,610 --> 00:15:45,544  X1:190 X2:531 Y1:358 Y2:417
+Mom used to be a stewardess
+for Northwest,
+
+274
+00:15:45,612 --> 00:15:48,046  X1:165 X2:554 Y1:390 Y2:420
+and now she works as a paralegal.
+
+275
+00:15:48,114 --> 00:15:50,048  X1:219 X2:501 Y1:358 Y2:414
+She likes to write letters
+to successful women
+
+276
+00:15:50,116 --> 00:15:52,050  X1:253 X2:468 Y1:358 Y2:420
+like Elizabeth Dole
+and Connie Chung
+
+277
+00:15:52,118 --> 00:15:54,052  X1:203 X2:518 Y1:358 Y2:420
+and ask them how they got
+to be where they are
+
+278
+00:15:54,120 --> 00:15:55,985  X1:242 X2:477 Y1:358 Y2:420
+and what advice
+do they have for me,
+
+279
+00:15:56,056 --> 00:15:58,115  X1:242 X2:476 Y1:390 Y2:420
+Tracy, her daughter.
+
+280
+00:15:58,191 --> 00:15:59,488  X1:258 X2:463 Y1:390 Y2:417
+9 times out of 1 0,
+
+281
+00:15:59,559 --> 00:16:01,493  X1:213 X2:507 Y1:358 Y2:420
+they sayyou have
+to hold ontoyour dreams
+
+282
+00:16:01,561 --> 00:16:02,493  X1:268 X2:453 Y1:390 Y2:414
+no matterwhat.
+
+283
+00:16:02,562 --> 00:16:03,494  X1:205 X2:515 Y1:390 Y2:420
+The pressures women face
+
+284
+00:16:03,563 --> 00:16:05,497  X1:226 X2:496 Y1:358 Y2:417
+mean you have to work
+twice as hard,
+
+285
+00:16:05,565 --> 00:16:09,001  X1:196 X2:524 Y1:358 Y2:420
+and you can't let anything
+or anyone stand in yourway.
+
+286
+00:16:09,069 --> 00:16:10,502  X1:308 X2:414 Y1:390 Y2:419
+Hey! Hey!
+
+287
+00:16:10,570 --> 00:16:12,697  X1:267 X2:453 Y1:358 Y2:413
+One per person!
+Put those back!
+
+288
+00:16:12,772 --> 00:16:14,239  X1:319 X2:403 Y1:390 Y2:413
+Eat me.
+
+289
+00:16:14,307 --> 00:16:17,003  X1:216 X2:502 Y1:358 Y2:420
+Tracy: Butyou know,
+winning isn't everything.
+
+290
+00:16:17,077 --> 00:16:21,013  X1:196 X2:523 Y1:358 Y2:420
+Win or lose, ethical conduct
+is the most important thing.
+
+291
+00:16:21,081 --> 00:16:22,708  X1:225 X2:493 Y1:390 Y2:420
+Just ask Mr. McAllister.
+
+292
+00:16:22,782 --> 00:16:24,010  X1:275 X2:446 Y1:390 Y2:414
+Mr. McAllister!
+
+293
+00:16:24,084 --> 00:16:26,882  X1:226 X2:495 Y1:390 Y2:420
+Mr. McAllister, wait up!
+
+294
+00:16:26,953 --> 00:16:28,511  X1:221 X2:501 Y1:390 Y2:420
+Mr. McAllister, don't go!
+
+295
+00:16:31,591 --> 00:16:33,525  X1:230 X2:490 Y1:390 Y2:420
+I got all my signatures.
+
+296
+00:16:33,593 --> 00:16:36,027  X1:155 X2:563 Y1:390 Y2:420
+There's 1 58, way more than I need.
+
+297
+00:16:36,096 --> 00:16:37,529  X1:262 X2:459 Y1:390 Y2:420
+Hey, that's super.
+
+298
+00:16:37,597 --> 00:16:39,030  X1:280 X2:441 Y1:390 Y2:420
+Here they are.
+
+299
+00:16:39,099 --> 00:16:40,532  X1:245 X2:476 Y1:358 Y2:420
+Oh, you canjust
+put them in my box,
+
+300
+00:16:40,600 --> 00:16:42,363  X1:249 X2:470 Y1:358 Y2:414
+and I'll take a look
+at them tomorrow.
+
+301
+00:16:42,435 --> 00:16:44,027  X1:190 X2:531 Y1:390 Y2:420
+Could you approve them now
+
+302
+00:16:44,104 --> 00:16:46,038  X1:221 X2:498 Y1:358 Y2:420
+because I'd really like
+to kick offmy campaign
+
+303
+00:16:46,106 --> 00:16:48,040  X1:235 X2:485 Y1:358 Y2:420
+right away, you know,
+in the morning.
+
+304
+00:16:48,108 --> 00:16:49,040  X1:327 X2:394 Y1:390 Y2:420
+Right.
+
+305
+00:16:55,048 --> 00:16:57,983  X1:222 X2:496 Y1:358 Y2:420
+Yeah, yeah.
+Those look good to me.
+
+306
+00:16:58,051 --> 00:16:59,985  X1:153 X2:567 Y1:390 Y2:420
+Aren'tyou supposed to keep them?
+
+307
+00:17:00,053 --> 00:17:01,486  X1:275 X2:447 Y1:390 Y2:414
+No. That's fiine.
+
+308
+00:17:01,554 --> 00:17:03,545  X1:220 X2:499 Y1:358 Y2:420
+I thoughtyou were
+supposed to keep them.
+
+309
+00:17:06,059 --> 00:17:07,993  X1:240 X2:478 Y1:390 Y2:420
+Yeah, right, fiine, OK.
+
+310
+00:17:08,061 --> 00:17:09,494  X1:230 X2:489 Y1:390 Y2:420
+Thanks for everything.
+
+311
+00:17:09,562 --> 00:17:10,494  X1:311 X2:408 Y1:390 Y2:414
+You bet.
+
+312
+00:17:14,067 --> 00:17:16,501  X1:236 X2:484 Y1:358 Y2:419
+I can't wait
+to start campaigning.
+
+313
+00:17:16,569 --> 00:17:17,501  X1:285 X2:434 Y1:390 Y2:414
+What's that?
+
+314
+00:17:17,570 --> 00:17:19,003  X1:236 X2:484 Y1:358 Y2:419
+I can't wait
+to start campaigning.
+
+315
+00:17:19,072 --> 00:17:21,006  X1:253 X2:467 Y1:358 Y2:420
+Oh. Well, it should
+be easy foryou.
+
+316
+00:17:21,074 --> 00:17:22,507  X1:228 X2:492 Y1:390 Y2:420
+So far, no competition.
+
+317
+00:17:22,575 --> 00:17:24,509  X1:242 X2:476 Y1:358 Y2:420
+Yeah, butyou know,
+Coca-Cola's by far
+
+318
+00:17:24,577 --> 00:17:25,509  X1:160 X2:560 Y1:390 Y2:417
+the world's number one soft drink,
+
+319
+00:17:25,578 --> 00:17:27,512  X1:206 X2:516 Y1:358 Y2:420
+and they spend
+more money than anybody
+
+320
+00:17:27,580 --> 00:17:28,638  X1:274 X2:445 Y1:390 Y2:420
+on advertising.
+
+321
+00:17:28,715 --> 00:17:32,014  X1:222 X2:500 Y1:358 Y2:420
+I guess that's how come
+they stay number one.
+
+322
+00:17:32,085 --> 00:17:33,518  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+323
+00:17:33,586 --> 00:17:36,020  X1:170 X2:550 Y1:390 Y2:420
+OK. Well, good luck there, Tracy.
+
+324
+00:17:36,089 --> 00:17:39,252  X1:251 X2:467 Y1:390 Y2:417
+You know, Mr. M...
+
+325
+00:17:39,325 --> 00:17:41,520  X1:204 X2:514 Y1:358 Y2:420
+when I win the presidency,
+that means you and I
+
+326
+00:17:41,594 --> 00:17:43,858  X1:228 X2:492 Y1:358 Y2:420
+are gonna be spending
+a lot oftime together,
+
+327
+00:17:43,930 --> 00:17:47,024  X1:213 X2:508 Y1:358 Y2:414
+and I for one would really
+like that time to be...
+
+328
+00:17:47,100 --> 00:17:50,263  X1:198 X2:523 Y1:390 Y2:420
+harmonious and productive.
+
+329
+00:17:50,336 --> 00:17:52,065  X1:274 X2:445 Y1:390 Y2:420
+Wouldn'tyou?
+
+330
+00:17:53,139 --> 00:17:54,071  X1:330 X2:389 Y1:390 Y2:413
+Sure.
+
+331
+00:17:56,609 --> 00:17:57,633  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+332
+00:17:57,710 --> 00:17:59,507  X1:231 X2:487 Y1:358 Y2:420
+That's what I thought.
+I wasjust checking.
+
+333
+00:17:59,579 --> 00:18:01,945  X1:190 X2:528 Y1:390 Y2:420
+Yeah. Good luck there, Tracy.
+
+334
+00:18:02,015 --> 00:18:03,812  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+335
+00:18:08,555 --> 00:18:11,490  X1:186 X2:533 Y1:358 Y2:420
+Jim: I don't blame Tracy
+forwhat happened with Dave.
+
+336
+00:18:11,558 --> 00:18:12,889  X1:286 X2:436 Y1:390 Y2:414
+How could I?
+
+337
+00:18:12,959 --> 00:18:15,291  X1:216 X2:505 Y1:358 Y2:420
+Dave was an adult,
+more than twice her age.
+
+338
+00:18:15,361 --> 00:18:18,489  X1:205 X2:515 Y1:358 Y2:417
+Sure, she got on my nerves
+once in a while,
+
+339
+00:18:18,565 --> 00:18:21,500  X1:245 X2:476 Y1:358 Y2:420
+but I admired Tracy.
+I really did.
+
+340
+00:18:23,103 --> 00:18:27,233  X1:224 X2:495 Y1:358 Y2:420
+Thank God for Diane.
+She was my best friend.
+
+341
+00:18:27,307 --> 00:18:29,502  X1:180 X2:542 Y1:390 Y2:420
+My source oflove and strength.
+
+342
+00:18:29,576 --> 00:18:31,510  X1:209 X2:510 Y1:358 Y2:420
+Oh, sure, we'd had
+our share ofbumpy times,
+
+343
+00:18:31,578 --> 00:18:34,138  X1:152 X2:569 Y1:390 Y2:420
+but we'd always seen them through.
+
+344
+00:18:34,214 --> 00:18:38,014  X1:211 X2:507 Y1:358 Y2:414
+After 9 years ofmarriage,
+we were closer than ever.
+
+345
+00:18:39,586 --> 00:18:40,610  X1:259 X2:461 Y1:390 Y2:420
+Anything wrong?
+
+346
+00:18:42,088 --> 00:18:43,521  X1:317 X2:405 Y1:390 Y2:413
+No. No.
+
+347
+00:18:43,590 --> 00:18:45,615  X1:228 X2:491 Y1:390 Y2:420
+Just, you know, school.
+
+348
+00:18:51,097 --> 00:18:53,463  X1:164 X2:555 Y1:390 Y2:420
+Tracy: When I win the presidency,
+
+349
+00:18:53,533 --> 00:18:56,969  X1:213 X2:505 Y1:358 Y2:420
+we're gonna be spending
+a lot oftime together.
+
+350
+00:18:57,036 --> 00:19:00,972  X1:191 X2:530 Y1:390 Y2:414
+Lots and lots and lots oftime.
+
+351
+00:19:01,040 --> 00:19:03,975  X1:234 X2:487 Y1:390 Y2:414
+President and advisor.
+
+352
+00:19:04,043 --> 00:19:07,479  X1:197 X2:525 Y1:390 Y2:420
+Harmonious and productive.
+
+353
+00:19:07,547 --> 00:19:10,482  X1:258 X2:462 Y1:390 Y2:420
+Close and special.
+
+354
+00:19:10,550 --> 00:19:12,745  X1:296 X2:423 Y1:390 Y2:414
+You...and I.
+
+355
+00:19:44,546 --> 00:19:45,979  X1:261 X2:458 Y1:390 Y2:419
+Woman: Hey, P.J .
+
+356
+00:19:46,047 --> 00:19:47,981  X1:186 X2:536 Y1:358 Y2:420
+Man: What areyou doing here
+in the boys' locker room?
+
+357
+00:19:48,049 --> 00:19:49,539  X1:241 X2:480 Y1:358 Y2:419
+I've come to see
+the star quarterback
+
+358
+00:19:49,617 --> 00:19:50,982  X1:240 X2:480 Y1:390 Y2:420
+before the big game.
+
+359
+00:19:51,052 --> 00:19:53,486  X1:137 X2:585 Y1:390 Y2:414
+But what ifCoach Henderson walks in?
+
+360
+00:19:53,555 --> 00:19:56,183  X1:256 X2:465 Y1:358 Y2:414
+Oh, that's OK.
+I took care ofhim.
+
+361
+00:19:56,257 --> 00:19:57,986  X1:212 X2:509 Y1:390 Y2:420
+So, uh, whatyou reading?
+
+362
+00:19:58,059 --> 00:20:00,926  X1:179 X2:542 Y1:390 Y2:420
+I'm just reviewing my playbook.
+
+363
+00:20:00,996 --> 00:20:03,487  X1:194 X2:527 Y1:390 Y2:420
+I have a playwe can practice.
+
+364
+00:20:03,565 --> 00:20:04,998  X1:242 X2:477 Y1:390 Y2:420
+You be quarterback.
+
+365
+00:20:05,066 --> 00:20:07,296  X1:270 X2:451 Y1:390 Y2:420
+I'll be tight end.
+
+366
+00:20:07,369 --> 00:20:08,301  X1:309 X2:410 Y1:390 Y2:420
+(Coughs)
+
+367
+00:20:08,370 --> 00:20:10,497  X1:251 X2:468 Y1:390 Y2:420
+(Woman Grunting)
+
+368
+00:20:18,079 --> 00:20:21,014  X1:254 X2:468 Y1:358 Y2:420
+Tracy: You know,
+Coca-Cola is by far
+
+369
+00:20:21,082 --> 00:20:24,017  X1:160 X2:560 Y1:390 Y2:414
+the world's number one soft drink.
+
+370
+00:20:32,594 --> 00:20:33,993  X1:334 X2:388 Y1:390 Y2:414
+Paul.
+
+371
+00:20:34,062 --> 00:20:34,994  X1:333 X2:386 Y1:390 Y2:414
+Aah!
+
+372
+00:20:41,603 --> 00:20:43,662  X1:282 X2:436 Y1:390 Y2:414
+Aah! Aaahhh!
+
+373
+00:20:43,738 --> 00:20:45,535  X1:333 X2:386 Y1:390 Y2:414
+Aah!
+
+374
+00:20:45,607 --> 00:20:47,541  X1:216 X2:506 Y1:358 Y2:420
+Paul: I was so mad at God
+when I broke my leg
+
+375
+00:20:47,609 --> 00:20:49,770  X1:134 X2:585 Y1:390 Y2:420
+at Shadow Ridge over Christmas break.
+
+376
+00:20:49,844 --> 00:20:52,472  X1:323 X2:395 Y1:390 Y2:420
+Why?!
+
+377
+00:20:52,547 --> 00:20:54,538  X1:235 X2:485 Y1:358 Y2:420
+The doctors told me
+I'd have to quit sports
+
+378
+00:20:54,616 --> 00:20:57,244  X1:231 X2:488 Y1:358 Y2:420
+for at least a couple
+ofyears, ifnot forever,
+
+379
+00:20:57,318 --> 00:20:58,979  X1:207 X2:516 Y1:358 Y2:420
+which meant
+no fiirst-string quarterback
+
+380
+00:20:59,054 --> 00:21:00,487  X1:304 X2:417 Y1:390 Y2:414
+in the fall.
+
+381
+00:21:00,555 --> 00:21:02,489  X1:196 X2:524 Y1:390 Y2:420
+It was like the end ofmy life.
+
+382
+00:21:02,557 --> 00:21:05,492  X1:191 X2:528 Y1:358 Y2:420
+When I got back to school,
+everybodywas so supportive,
+
+383
+00:21:05,560 --> 00:21:08,495  X1:204 X2:515 Y1:358 Y2:420
+and they all wanted to sign
+my cast and everything,
+
+384
+00:21:08,563 --> 00:21:10,793  X1:259 X2:463 Y1:358 Y2:420
+but I still couldn't
+shake the feeling
+
+385
+00:21:10,865 --> 00:21:12,992  X1:170 X2:549 Y1:390 Y2:420
+that now my life had no purpose.
+
+386
+00:21:13,068 --> 00:21:15,002  X1:188 X2:532 Y1:390 Y2:414
+What did God want from me?
+
+387
+00:21:15,070 --> 00:21:17,504  X1:267 X2:452 Y1:390 Y2:420
+Why did I exist?
+
+388
+00:21:17,572 --> 00:21:20,507  X1:206 X2:514 Y1:358 Y2:420
+Sometimes you can search
+everywhere for answers.
+
+389
+00:21:20,575 --> 00:21:23,009  X1:240 X2:480 Y1:358 Y2:420
+Then one day,
+destinyjust walks up
+
+390
+00:21:23,078 --> 00:21:25,012  X1:189 X2:530 Y1:390 Y2:420
+and taps you on the shoulder.
+
+391
+00:21:25,080 --> 00:21:28,015  X1:159 X2:562 Y1:390 Y2:420
+I know because it happened to me.
+
+392
+00:21:29,918 --> 00:21:32,716  X1:239 X2:482 Y1:358 Y2:420
+Jim: Paul, can I speak
+toyou for a minute?
+
+393
+00:21:32,787 --> 00:21:35,221  X1:247 X2:476 Y1:358 Y2:420
+Paul: Mr. McAllister
+changed my life.
+
+394
+00:21:35,290 --> 00:21:38,521  X1:192 X2:528 Y1:358 Y2:417
+And no matterwhat they say
+he did or did not do,
+
+395
+00:21:38,593 --> 00:21:41,027  X1:209 X2:512 Y1:390 Y2:420
+I believe he is a good man.
+
+396
+00:21:41,096 --> 00:21:44,532  X1:252 X2:471 Y1:358 Y2:420
+Paul, I knowyou've
+been pretty down
+
+397
+00:21:44,599 --> 00:21:46,226  X1:245 X2:475 Y1:390 Y2:420
+sinceyour accident.
+
+398
+00:21:46,301 --> 00:21:49,737  X1:232 X2:489 Y1:358 Y2:420
+Yeah. I wanted to play
+football again so bad
+
+399
+00:21:49,804 --> 00:21:50,896  X1:275 X2:446 Y1:390 Y2:417
+I could taste it,
+
+400
+00:21:50,972 --> 00:21:53,031  X1:243 X2:478 Y1:358 Y2:420
+and maybe go on
+to the playoffs and--
+
+401
+00:21:53,108 --> 00:21:54,040  X1:319 X2:402 Y1:390 Y2:414
+I know.
+
+402
+00:21:54,109 --> 00:21:55,371  X1:189 X2:532 Y1:390 Y2:420
+I understand disappointment.
+
+403
+00:21:55,443 --> 00:21:56,410  X1:301 X2:419 Y1:390 Y2:420
+I really do.
+
+404
+00:21:56,478 --> 00:21:57,410  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+405
+00:21:57,479 --> 00:21:58,537  X1:228 X2:496 Y1:390 Y2:420
+Now, I personally think
+
+406
+00:21:58,613 --> 00:22:00,547  X1:232 X2:487 Y1:358 Y2:420
+you have a very bright
+future ahead ofyou.
+
+407
+00:22:00,615 --> 00:22:01,980  X1:210 X2:510 Y1:390 Y2:420
+And I'm not talking about
+
+408
+00:22:02,050 --> 00:22:04,075  X1:203 X2:516 Y1:390 Y2:420
+the fleeting glory ofsports.
+
+409
+00:22:04,152 --> 00:22:05,585  X1:243 X2:476 Y1:390 Y2:420
+What doyou mean?
+
+410
+00:22:05,653 --> 00:22:07,143  X1:230 X2:491 Y1:390 Y2:420
+Let me giveyou a clue.
+
+411
+00:22:07,222 --> 00:22:08,985  X1:192 X2:526 Y1:390 Y2:414
+You're a natural-born leader.
+
+412
+00:22:09,057 --> 00:22:11,992  X1:204 X2:516 Y1:358 Y2:420
+You're one ofthe most
+popular students at Carver.
+
+413
+00:22:12,060 --> 00:22:13,493  X1:226 X2:493 Y1:358 Y2:420
+You're honest,
+you're straightforward,
+
+414
+00:22:13,561 --> 00:22:15,188  X1:153 X2:567 Y1:390 Y2:420
+and you don't crack under pressure,
+
+415
+00:22:15,263 --> 00:22:17,231  X1:208 X2:513 Y1:358 Y2:420
+as we all saw in
+an amazing fourth quarter
+
+416
+00:22:17,298 --> 00:22:18,925  X1:258 X2:462 Y1:390 Y2:420
+against Westside.
+
+417
+00:22:19,000 --> 00:22:20,991  X1:205 X2:514 Y1:390 Y2:420
+All the kids look up toyou.
+
+418
+00:22:21,069 --> 00:22:22,866  X1:205 X2:517 Y1:390 Y2:420
+Now, what does that spell?
+
+419
+00:22:28,576 --> 00:22:30,009  X1:304 X2:415 Y1:390 Y2:414
+Student...
+
+420
+00:22:30,078 --> 00:22:31,511  X1:308 X2:411 Y1:390 Y2:414
+council...
+
+421
+00:22:31,579 --> 00:22:33,240  X1:302 X2:418 Y1:390 Y2:420
+president.
+
+422
+00:22:33,314 --> 00:22:35,009  X1:300 X2:419 Y1:390 Y2:417
+Who, me?
+
+423
+00:22:35,083 --> 00:22:36,710  X1:302 X2:417 Y1:390 Y2:417
+Oh, no. I...
+
+424
+00:22:36,784 --> 00:22:40,276  X1:226 X2:494 Y1:358 Y2:417
+I don't know anything
+about that stuff, Mr. M.
+
+425
+00:22:40,355 --> 00:22:42,516  X1:217 X2:503 Y1:358 Y2:420
+I mean, besides,
+that's Tracy Flick's thing.
+
+426
+00:22:42,590 --> 00:22:44,023  X1:189 X2:530 Y1:390 Y2:420
+She's always working so hard.
+
+427
+00:22:44,092 --> 00:22:46,117  X1:249 X2:470 Y1:358 Y2:420
+Yeah. She's a real
+go-getter, all right.
+
+428
+00:22:46,194 --> 00:22:48,059  X1:237 X2:481 Y1:390 Y2:420
+And she's super nice.
+
+429
+00:22:48,129 --> 00:22:49,528  X1:294 X2:424 Y1:390 Y2:420
+Yeah, yeah,
+
+430
+00:22:49,597 --> 00:22:51,531  X1:168 X2:554 Y1:390 Y2:420
+but one person assured ofvictory
+
+431
+00:22:51,599 --> 00:22:53,533  X1:160 X2:561 Y1:390 Y2:414
+kind ofundermines the whole idea
+
+432
+00:22:53,601 --> 00:22:54,898  X1:181 X2:539 Y1:390 Y2:420
+ofdemocracy, don'tyou think?
+
+433
+00:22:54,969 --> 00:22:55,958  X1:290 X2:432 Y1:390 Y2:416
+But, Mr. M--
+
+434
+00:22:56,037 --> 00:22:57,971  X1:229 X2:492 Y1:358 Y2:420
+I mean, that'd be more
+like a dictatorship
+
+435
+00:22:58,039 --> 00:22:59,472  X1:270 X2:450 Y1:390 Y2:414
+like we studied.
+
+436
+00:22:59,541 --> 00:23:00,473  X1:244 X2:478 Y1:390 Y2:417
+But, Mr. M, there's--
+
+437
+00:23:00,542 --> 00:23:02,567  X1:183 X2:540 Y1:390 Y2:420
+Paul, what's your favorite fruit?
+
+438
+00:23:02,644 --> 00:23:05,135  X1:327 X2:394 Y1:390 Y2:413
+Pears.
+
+439
+00:23:05,213 --> 00:23:06,976  X1:265 X2:456 Y1:390 Y2:414
+Pears. Good. OK.
+
+440
+00:23:07,048 --> 00:23:07,980  X1:303 X2:419 Y1:390 Y2:419
+Let's say--
+
+441
+00:23:08,049 --> 00:23:10,074  X1:287 X2:432 Y1:390 Y2:417
+Oh, no, wait.
+
+442
+00:23:10,151 --> 00:23:11,584  X1:316 X2:403 Y1:390 Y2:420
+Apples.
+
+443
+00:23:11,653 --> 00:23:12,984  X1:316 X2:403 Y1:390 Y2:420
+Apples.
+
+444
+00:23:13,054 --> 00:23:14,021  X1:334 X2:388 Y1:390 Y2:413
+Fine.
+
+445
+00:23:14,088 --> 00:23:17,489  X1:225 X2:495 Y1:358 Y2:420
+Let's say all you
+ever knew were apples.
+
+446
+00:23:17,559 --> 00:23:20,494  X1:195 X2:524 Y1:390 Y2:420
+Apples, apples, more apples.
+
+447
+00:23:20,562 --> 00:23:22,496  X1:224 X2:494 Y1:358 Y2:420
+You might think apples
+were pretty good,
+
+448
+00:23:22,564 --> 00:23:25,499  X1:225 X2:494 Y1:358 Y2:414
+even ifyou got a rotten
+one once in a while.
+
+449
+00:23:25,567 --> 00:23:27,000  X1:254 X2:467 Y1:390 Y2:420
+But then one day...
+
+450
+00:23:27,068 --> 00:23:28,501  X1:256 X2:464 Y1:390 Y2:420
+there's an orange.
+
+451
+00:23:28,570 --> 00:23:30,504  X1:259 X2:459 Y1:358 Y2:414
+And nowyou can
+make a decision.
+
+452
+00:23:30,572 --> 00:23:32,005  X1:237 X2:486 Y1:390 Y2:420
+Doyou want an apple
+
+453
+00:23:32,073 --> 00:23:34,007  X1:206 X2:514 Y1:390 Y2:420
+or doyou want an orange?
+
+454
+00:23:34,075 --> 00:23:35,770  X1:254 X2:465 Y1:390 Y2:420
+That's democracy.
+
+455
+00:23:35,843 --> 00:23:37,902  X1:253 X2:467 Y1:390 Y2:414
+I also like bananas.
+
+456
+00:23:37,979 --> 00:23:39,003  X1:264 X2:456 Y1:390 Y2:420
+(Class Bell Rings)
+
+457
+00:23:39,080 --> 00:23:40,945  X1:280 X2:441 Y1:390 Y2:420
+Exactly. Good.
+
+458
+00:23:41,015 --> 00:23:42,505  X1:244 X2:476 Y1:390 Y2:420
+So what doyou say?
+
+459
+00:23:42,584 --> 00:23:45,451  X1:224 X2:496 Y1:358 Y2:420
+Maybe it's time to give
+a little something back.
+
+460
+00:23:45,520 --> 00:23:47,010  X1:293 X2:429 Y1:390 Y2:414
+How's that?
+
+461
+00:23:47,088 --> 00:23:48,521  X1:279 X2:442 Y1:390 Y2:414
+I think that's...
+
+462
+00:23:48,590 --> 00:23:50,421  X1:232 X2:490 Y1:358 Y2:420
+No.Just a little higher.
+A little higher.
+
+463
+00:23:50,491 --> 00:23:51,685  X1:299 X2:422 Y1:390 Y2:414
+Is this OK?
+
+464
+00:23:51,759 --> 00:23:54,956  X1:195 X2:524 Y1:358 Y2:419
+Eric, you can't put tape
+on the outside ofthe poster.
+
+465
+00:23:55,029 --> 00:23:56,963  X1:250 X2:472 Y1:358 Y2:420
+It goes on the back
+ofthe poster.
+
+466
+00:23:57,031 --> 00:23:58,965  X1:232 X2:487 Y1:358 Y2:420
+You betterjust take
+the whole thing down
+
+467
+00:23:59,033 --> 00:24:00,466  X1:294 X2:426 Y1:390 Y2:414
+and redo it.
+
+468
+00:24:05,039 --> 00:24:08,975  X1:245 X2:476 Y1:390 Y2:419
+[ding]Aaah-a-a-aaaah [ding]
+
+469
+00:24:16,050 --> 00:24:17,381  X1:220 X2:500 Y1:390 Y2:420
+Who putyou up to this?
+
+470
+00:24:17,452 --> 00:24:18,851  X1:285 X2:435 Y1:390 Y2:420
+Oh, hi, Tracy.
+
+471
+00:24:18,920 --> 00:24:20,046  X1:220 X2:500 Y1:390 Y2:420
+Who putyou up to this?
+
+472
+00:24:20,121 --> 00:24:21,281  X1:243 X2:476 Y1:390 Y2:420
+What doyou mean?
+
+473
+00:24:21,356 --> 00:24:22,482  X1:182 X2:536 Y1:390 Y2:420
+Youjust woke up this morning
+
+474
+00:24:22,557 --> 00:24:24,855  X1:234 X2:486 Y1:358 Y2:420
+and suddenly decided
+to run for president?
+
+475
+00:24:24,926 --> 00:24:28,487  X1:224 X2:497 Y1:358 Y2:419
+No. Um, no,
+I just thought that, uh--
+
+476
+00:24:28,563 --> 00:24:29,689  X1:271 X2:449 Y1:390 Y2:420
+Thought what?
+
+477
+00:24:29,764 --> 00:24:33,029  X1:200 X2:522 Y1:358 Y2:420
+Well, I was talking to
+Mr. McAllister about my leg
+
+478
+00:24:33,101 --> 00:24:35,501  X1:180 X2:541 Y1:358 Y2:420
+and how I still want to do
+something for the school and--
+
+479
+00:24:35,570 --> 00:24:37,561  X1:259 X2:463 Y1:358 Y2:420
+So Mr. McAllister
+asked you to run.
+
+480
+00:24:37,639 --> 00:24:40,574  X1:216 X2:501 Y1:358 Y2:420
+Well, um, I talked to him
+and everything,
+
+481
+00:24:40,642 --> 00:24:42,007  X1:178 X2:543 Y1:390 Y2:420
+but hejust said that he thought
+
+482
+00:24:42,076 --> 00:24:43,509  X1:226 X2:495 Y1:390 Y2:420
+it would be a good idea
+
+483
+00:24:43,578 --> 00:24:45,876  X1:197 X2:523 Y1:358 Y2:417
+and how there's all different
+kinds offruits and, uh...
+
+484
+00:24:45,947 --> 00:24:48,245  X1:185 X2:536 Y1:390 Y2:420
+It's nothing againstyou, Tracy.
+
+485
+00:24:48,316 --> 00:24:50,011  X1:226 X2:495 Y1:390 Y2:420
+I mean, you're the best.
+
+486
+00:24:50,084 --> 00:24:52,018  X1:230 X2:492 Y1:390 Y2:420
+Uh, I just thought, uh...
+
+487
+00:24:52,086 --> 00:24:53,018  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+488
+00:24:53,087 --> 00:24:55,146  X1:226 X2:492 Y1:390 Y2:420
+You're on, Mr. Popular.
+
+489
+00:24:57,025 --> 00:24:58,959  X1:204 X2:519 Y1:358 Y2:420
+Tracy: You might think it
+upset me that Paul Metzler
+
+490
+00:24:59,027 --> 00:25:00,460  X1:182 X2:539 Y1:390 Y2:420
+had decided to run against me,
+
+491
+00:25:00,528 --> 00:25:02,962  X1:229 X2:490 Y1:358 Y2:414
+but nothing could be
+further from the truth.
+
+492
+00:25:03,031 --> 00:25:04,464  X1:183 X2:538 Y1:390 Y2:420
+He was no competition for me.
+
+493
+00:25:04,532 --> 00:25:06,466  X1:185 X2:535 Y1:390 Y2:420
+It was like apples and oranges.
+
+494
+00:25:06,534 --> 00:25:07,523  X1:264 X2:455 Y1:390 Y2:420
+(Loud Stamping)
+
+495
+00:25:07,602 --> 00:25:09,467  X1:223 X2:496 Y1:358 Y2:417
+I had to work
+a little harder, that's all.
+
+496
+00:25:09,537 --> 00:25:11,471  X1:234 X2:487 Y1:358 Y2:413
+You see,
+I believe in the voters.
+
+497
+00:25:11,539 --> 00:25:12,767  X1:178 X2:540 Y1:390 Y2:420
+They understand that elections
+
+498
+00:25:12,840 --> 00:25:14,705  X1:184 X2:536 Y1:390 Y2:420
+aren'tjust popularity contests.
+
+499
+00:25:14,776 --> 00:25:15,708  X1:319 X2:400 Y1:390 Y2:418
+(Clunk)
+
+500
+00:25:15,777 --> 00:25:17,472  X1:168 X2:551 Y1:390 Y2:420
+They know this countrywas built
+
+501
+00:25:17,545 --> 00:25:20,480  X1:235 X2:487 Y1:358 Y2:420
+by peoplejust like me
+who workvery hard
+
+502
+00:25:20,548 --> 00:25:22,482  X1:210 X2:510 Y1:358 Y2:414
+and don't have everything
+handed to them
+
+503
+00:25:22,550 --> 00:25:23,881  X1:260 X2:459 Y1:390 Y2:420
+on a silver spoon.
+
+504
+00:25:25,520 --> 00:25:27,988  X1:228 X2:493 Y1:358 Y2:420
+Not like some rich kids
+who everybody likes
+
+505
+00:25:28,056 --> 00:25:29,990  X1:238 X2:483 Y1:358 Y2:414
+because their fathers
+own Metzler Cement
+
+506
+00:25:30,058 --> 00:25:31,992  X1:231 X2:491 Y1:358 Y2:420
+and give them trucks
+on their 1 6th birthday
+
+507
+00:25:32,060 --> 00:25:34,085  X1:202 X2:518 Y1:358 Y2:414
+and throw them big parties
+all the time.
+
+508
+00:25:34,162 --> 00:25:36,357  X1:209 X2:511 Y1:358 Y2:420
+No. They don't ever
+have to work for anything.
+
+509
+00:25:36,431 --> 00:25:37,989  X1:218 X2:500 Y1:358 Y2:417
+They think they canjust,
+all ofa sudden,
+
+510
+00:25:38,066 --> 00:25:40,000  X1:226 X2:494 Y1:358 Y2:420
+one day out ofthe blue
+waltz right in
+
+511
+00:25:40,068 --> 00:25:41,501  X1:164 X2:557 Y1:390 Y2:420
+with no qualifiications whatsoever
+
+512
+00:25:41,569 --> 00:25:43,002  X1:243 X2:478 Y1:390 Y2:420
+and try to take away
+
+513
+00:25:43,071 --> 00:25:44,504  X1:155 X2:565 Y1:390 Y2:420
+what other people have worked for
+
+514
+00:25:44,572 --> 00:25:47,507  X1:175 X2:544 Y1:390 Y2:420
+very, very hard their entire lives!
+
+515
+00:25:47,575 --> 00:25:48,507  X1:341 X2:381 Y1:390 Y2:413
+No!
+
+516
+00:25:48,576 --> 00:25:50,510  X1:228 X2:494 Y1:390 Y2:414
+Didn't bother me at all!
+
+517
+00:25:50,578 --> 00:25:51,442  X1:199 X2:520 Y1:390 Y2:420
+(Stereo Playing Rock Music)
+
+518
+00:25:52,080 --> 00:25:53,513  X1:334 X2:388 Y1:390 Y2:414
+Paul.
+
+519
+00:25:53,581 --> 00:25:54,946  X1:294 X2:428 Y1:390 Y2:420
+Paul power.
+
+520
+00:25:57,018 --> 00:25:57,950  X1:328 X2:394 Y1:390 Y2:414
+Paul...
+
+521
+00:25:58,019 --> 00:25:59,953  X1:256 X2:466 Y1:390 Y2:420
+Paul for president.
+
+522
+00:26:00,021 --> 00:26:01,454  X1:256 X2:466 Y1:390 Y2:420
+Paul for president.
+
+523
+00:26:01,522 --> 00:26:02,955  X1:311 X2:410 Y1:390 Y2:413
+Promise.
+
+524
+00:26:03,024 --> 00:26:04,958  X1:308 X2:413 Y1:390 Y2:419
+Progress.
+
+525
+00:26:05,026 --> 00:26:07,089  X1:318 X2:404 Y1:390 Y2:413
+Peanut.
+
+526
+00:26:26,008 --> 00:26:28,670  X1:208 X2:513 Y1:390 Y2:420
+[ding]There's a place I know [ding]
+
+527
+00:26:31,047 --> 00:26:34,574  X1:185 X2:536 Y1:390 Y2:420
+[ding]Whereyou can look down [ding]
+
+528
+00:26:36,952 --> 00:26:40,945  X1:177 X2:544 Y1:390 Y2:420
+[ding]The air makes you feel light [ding]
+
+529
+00:26:43,025 --> 00:26:44,959  X1:175 X2:545 Y1:390 Y2:420
+[ding]The air makes you feel right [ding]
+
+530
+00:26:45,027 --> 00:26:45,959  X1:321 X2:399 Y1:390 Y2:414
+What?
+
+531
+00:26:46,028 --> 00:26:48,462  X1:262 X2:459 Y1:390 Y2:420
+I told you. I can't.
+
+532
+00:26:48,531 --> 00:26:50,965  X1:250 X2:470 Y1:358 Y2:420
+Itjust doesn't
+feel right anymore.
+
+533
+00:26:53,035 --> 00:26:54,468  X1:280 X2:441 Y1:390 Y2:420
+But I loveyou.
+
+534
+00:26:57,206 --> 00:26:58,503  X1:310 X2:411 Y1:390 Y2:414
+I said no.
+
+535
+00:26:58,574 --> 00:26:59,506  X1:263 X2:457 Y1:390 Y2:418
+(Knock On Door)
+
+536
+00:26:59,575 --> 00:27:02,408  X1:230 X2:488 Y1:358 Y2:419
+Hey, Tammy, guess
+what happened today.
+
+537
+00:27:02,478 --> 00:27:04,412  X1:214 X2:508 Y1:390 Y2:420
+Don'tyou fucking knock?
+
+538
+00:27:04,480 --> 00:27:06,675  X1:258 X2:460 Y1:390 Y2:417
+Yeah. Oh, hi, Lisa.
+
+539
+00:27:06,749 --> 00:27:07,909  X1:282 X2:438 Y1:390 Y2:417
+Get out, Paul!
+
+540
+00:27:07,983 --> 00:27:09,245  X1:216 X2:505 Y1:390 Y2:417
+Listen. So Mr. McAllister,
+
+541
+00:27:09,318 --> 00:27:10,478  X1:262 X2:459 Y1:358 Y2:414
+he calls me in,
+and he tells me--
+
+542
+00:27:10,553 --> 00:27:11,918  X1:301 X2:419 Y1:390 Y2:419
+I gotta go.
+
+543
+00:27:14,323 --> 00:27:15,255  X1:272 X2:447 Y1:390 Y2:414
+You dumb shit!
+
+544
+00:27:15,324 --> 00:27:16,916  X1:285 X2:434 Y1:390 Y2:414
+What'd I do?
+
+545
+00:27:16,992 --> 00:27:19,927  X1:216 X2:504 Y1:358 Y2:420
+Tammy: It's not like
+I'm a lesbian or anything.
+
+546
+00:27:19,995 --> 00:27:21,428  X1:201 X2:519 Y1:390 Y2:420
+I'm attracted to the person.
+
+547
+00:27:21,497 --> 00:27:24,432  X1:208 X2:513 Y1:358 Y2:414
+It'sjust that all the people
+I've ever been attracted to
+
+548
+00:27:24,500 --> 00:27:25,933  X1:253 X2:467 Y1:390 Y2:420
+happen to be girls.
+
+549
+00:27:27,503 --> 00:27:28,936  X1:305 X2:416 Y1:390 Y2:416
+Lisa, wait!
+
+550
+00:27:32,007 --> 00:27:32,939  X1:330 X2:390 Y1:390 Y2:419
+Stop!
+
+551
+00:27:37,012 --> 00:27:37,944  X1:321 X2:399 Y1:390 Y2:414
+What?
+
+552
+00:27:38,013 --> 00:27:39,446  X1:253 X2:467 Y1:390 Y2:420
+Whereyou going?
+
+553
+00:27:39,515 --> 00:27:41,949  X1:241 X2:481 Y1:390 Y2:420
+I'm not likeyou, OK?
+
+554
+00:27:42,017 --> 00:27:43,882  X1:243 X2:476 Y1:390 Y2:420
+What doyou mean?
+
+555
+00:27:43,953 --> 00:27:45,443  X1:276 X2:444 Y1:390 Y2:420
+I'm not a dyke.
+
+556
+00:27:45,521 --> 00:27:47,455  X1:233 X2:486 Y1:390 Y2:414
+And we're not in love.
+
+557
+00:27:47,523 --> 00:27:49,457  X1:274 X2:445 Y1:390 Y2:419
+We werejust...
+
+558
+00:27:49,525 --> 00:27:51,152  X1:271 X2:449 Y1:390 Y2:419
+experimenting.
+
+559
+00:27:51,227 --> 00:27:53,957  X1:276 X2:444 Y1:390 Y2:420
+(Engine Starts)
+
+560
+00:28:03,973 --> 00:28:07,409  X1:194 X2:525 Y1:358 Y2:414
+Tammy: How can something
+that seemed so true
+
+561
+00:28:07,476 --> 00:28:10,411  X1:216 X2:504 Y1:390 Y2:414
+turn out to be such a lie?
+
+562
+00:28:15,985 --> 00:28:18,852  X1:222 X2:499 Y1:358 Y2:420
+Lisa and I were destined
+to be together.
+
+563
+00:28:18,921 --> 00:28:21,412  X1:187 X2:533 Y1:358 Y2:417
+Ofall the people in the planet
+who had ever lived,
+
+564
+00:28:21,490 --> 00:28:23,424  X1:167 X2:552 Y1:390 Y2:414
+somehow we'd found each other.
+
+565
+00:28:23,492 --> 00:28:25,426  X1:244 X2:477 Y1:390 Y2:414
+It was like a miracle.
+
+566
+00:28:28,497 --> 00:28:30,431  X1:183 X2:536 Y1:390 Y2:420
+We had so much fun together,
+
+567
+00:28:30,499 --> 00:28:32,433  X1:238 X2:481 Y1:358 Y2:420
+like the time we ate
+a bunch ofasparagus
+
+568
+00:28:32,501 --> 00:28:34,833  X1:191 X2:529 Y1:358 Y2:420
+to see how long it takes
+beforeyour pee smells funny.
+
+569
+00:28:34,904 --> 00:28:36,337  X1:325 X2:395 Y1:390 Y2:420
+(Ding)
+
+570
+00:28:36,405 --> 00:28:37,929  X1:241 X2:479 Y1:390 Y2:420
+It was very scientifiic.
+
+571
+00:28:38,007 --> 00:28:39,599  X1:209 X2:513 Y1:390 Y2:416
+For me, it was 1 1 minutes.
+
+572
+00:28:39,675 --> 00:28:41,768  X1:258 X2:463 Y1:390 Y2:417
+For her, it was 1 7.
+
+573
+00:28:43,012 --> 00:28:45,776  X1:201 X2:522 Y1:358 Y2:414
+Every day I found a new way
+to tell Lisa
+
+574
+00:28:45,848 --> 00:28:48,442  X1:233 X2:488 Y1:390 Y2:414
+how much I loved her.
+
+575
+00:28:48,517 --> 00:28:50,007  X1:237 X2:490 Y1:390 Y2:420
+''Ifyoudiedrightnow,
+
+576
+00:28:50,085 --> 00:28:53,020  X1:185 X2:541 Y1:358 Y2:420
+I would throwmyselfunder
+one ofmy dad's cement trucks
+
+577
+00:28:53,088 --> 00:28:55,886  X1:173 X2:553 Y1:390 Y2:420
+andgetpouredintoyourtomb. ''
+
+578
+00:28:58,460 --> 00:29:00,894  X1:233 X2:487 Y1:358 Y2:420
+But itjust seemed
+like the closerwe got,
+
+579
+00:29:00,963 --> 00:29:02,863  X1:209 X2:511 Y1:390 Y2:420
+the more she pulled away.
+
+580
+00:29:02,932 --> 00:29:04,593  X1:275 X2:444 Y1:390 Y2:419
+Areyou crazy?
+
+581
+00:29:04,667 --> 00:29:05,599  X1:321 X2:399 Y1:390 Y2:414
+What?
+
+582
+00:29:05,668 --> 00:29:06,896  X1:256 X2:462 Y1:358 Y2:414
+These are private.
+These are for us.
+
+583
+00:29:06,969 --> 00:29:07,958  X1:339 X2:381 Y1:390 Y2:413
+So?
+
+584
+00:29:08,037 --> 00:29:09,800  X1:254 X2:466 Y1:358 Y2:417
+But other people
+can see them, too.
+
+585
+00:29:09,872 --> 00:29:11,237  X1:292 X2:428 Y1:390 Y2:414
+I don't care.
+
+586
+00:29:11,307 --> 00:29:12,899  X1:301 X2:418 Y1:390 Y2:417
+Well, I do.
+
+587
+00:29:15,978 --> 00:29:18,913  X1:231 X2:488 Y1:358 Y2:420
+Tammy: What did I do
+to make her change?
+
+588
+00:29:20,482 --> 00:29:21,915  X1:221 X2:498 Y1:390 Y2:420
+What's wrong with me?
+
+589
+00:29:24,987 --> 00:29:26,921  X1:212 X2:507 Y1:390 Y2:417
+Sometimes when I'm sad,
+
+590
+00:29:26,989 --> 00:29:29,924  X1:254 X2:466 Y1:358 Y2:420
+I sit and watch
+the power station.
+
+591
+00:29:29,992 --> 00:29:33,428  X1:204 X2:514 Y1:358 Y2:417
+They say ifyou lie between
+2 ofthe main wires,
+
+592
+00:29:33,495 --> 00:29:35,429  X1:208 X2:511 Y1:390 Y2:420
+your bodyjust evaporates.
+
+593
+00:29:35,497 --> 00:29:37,431  X1:251 X2:467 Y1:390 Y2:420
+You become a gas.
+
+594
+00:29:37,499 --> 00:29:40,434  X1:250 X2:471 Y1:358 Y2:414
+I wonderwhat that
+would feel like.
+
+595
+00:29:47,509 --> 00:29:49,443  X1:259 X2:462 Y1:390 Y2:420
+I don't know why,
+
+596
+00:29:49,511 --> 00:29:52,446  X1:225 X2:494 Y1:358 Y2:414
+but Lisa decided
+she wanted to hurt me.
+
+597
+00:29:52,514 --> 00:29:55,449  X1:165 X2:554 Y1:390 Y2:420
+And she knew exactlywhat to do.
+
+598
+00:29:57,653 --> 00:29:59,951  X1:217 X2:505 Y1:358 Y2:420
+Paul: I sure was surprised
+the day Lisa Flanagan
+
+599
+00:30:00,022 --> 00:30:03,321  X1:206 X2:513 Y1:358 Y2:420
+asked me for a ride home
+and ended up blowing me.
+
+600
+00:30:04,526 --> 00:30:06,960  X1:202 X2:518 Y1:390 Y2:420
+I've wanted this for so long.
+
+601
+00:30:08,230 --> 00:30:10,630  X1:230 X2:490 Y1:390 Y2:417
+I mean, life is so weird.
+
+602
+00:30:10,699 --> 00:30:13,463  X1:223 X2:499 Y1:358 Y2:420
+First, Lisa has a big fiight
+with my sister,
+
+603
+00:30:13,535 --> 00:30:17,301  X1:191 X2:529 Y1:358 Y2:420
+and the next thing you know,
+she's my girlfriend.
+
+604
+00:30:17,373 --> 00:30:19,967  X1:214 X2:506 Y1:358 Y2:420
+Since Lisa knew all about
+public relations and stuff,
+
+605
+00:30:20,042 --> 00:30:22,510  X1:229 X2:491 Y1:358 Y2:420
+she offered to help me
+with my campaign.
+
+606
+00:30:22,578 --> 00:30:24,478  X1:224 X2:495 Y1:390 Y2:420
+We made a great team.
+
+607
+00:30:24,546 --> 00:30:27,481  X1:227 X2:493 Y1:358 Y2:420
+It seemed so natural,
+the two ofus together.
+
+608
+00:30:27,549 --> 00:30:29,483  X1:244 X2:477 Y1:390 Y2:414
+It was like a miracle.
+
+609
+00:30:31,954 --> 00:30:34,479  X1:150 X2:571 Y1:390 Y2:420
+My leg wasn't bugging me too much
+
+610
+00:30:34,556 --> 00:30:35,989  X1:193 X2:526 Y1:390 Y2:414
+and the weatherwas so nice.
+
+611
+00:30:36,058 --> 00:30:37,491  X1:206 X2:511 Y1:390 Y2:420
+And every day after school
+
+612
+00:30:37,559 --> 00:30:41,495  X1:175 X2:548 Y1:358 Y2:414
+Lisa and I would go to her house
+to fuck and have a hot tub.
+
+613
+00:31:01,016 --> 00:31:02,950  X1:218 X2:502 Y1:358 Y2:420
+Tammy: Ifthat's the way
+theywanted it,
+
+614
+00:31:03,018 --> 00:31:04,815  X1:249 X2:472 Y1:358 Y2:420
+then that's the way
+it was gonna be.
+
+615
+00:31:04,887 --> 00:31:07,447  X1:222 X2:500 Y1:358 Y2:420
+But I wasn't going down
+without a fiight.
+
+616
+00:31:07,523 --> 00:31:08,956  X1:308 X2:411 Y1:390 Y2:420
+(Jingling)
+
+617
+00:31:14,029 --> 00:31:14,961  X1:282 X2:441 Y1:390 Y2:420
+Paul: Tammy?
+
+618
+00:31:17,032 --> 00:31:19,364  X1:193 X2:527 Y1:390 Y2:420
+Tammy, what areyou doing?
+
+619
+00:31:19,435 --> 00:31:21,460  X1:240 X2:478 Y1:358 Y2:420
+You're the advisor.
+You should stop her.
+
+620
+00:31:21,537 --> 00:31:23,402  X1:224 X2:496 Y1:358 Y2:420
+She's not qualifiied.
+She'sjust a sophomore.
+
+621
+00:31:23,472 --> 00:31:24,461  X1:249 X2:473 Y1:390 Y2:420
+Did you know that?
+
+622
+00:31:24,540 --> 00:31:26,269  X1:254 X2:465 Y1:358 Y2:420
+Calm down, Tracy.
+Just calm down.
+
+623
+00:31:26,342 --> 00:31:27,969  X1:201 X2:518 Y1:390 Y2:417
+We can't both run, can we?
+
+624
+00:31:28,043 --> 00:31:29,340  X1:174 X2:547 Y1:390 Y2:417
+I mean, we're brother and sister.
+
+625
+00:31:29,411 --> 00:31:30,503  X1:312 X2:409 Y1:390 Y2:413
+Can we?
+
+626
+00:31:30,579 --> 00:31:32,547  X1:221 X2:500 Y1:358 Y2:414
+It's a conflict ofinterest,
+and Paul was fiirst.
+
+627
+00:31:32,614 --> 00:31:34,980  X1:188 X2:530 Y1:358 Y2:417
+Anybodywho gets signatures
+in on time can run,
+
+628
+00:31:35,050 --> 00:31:36,984  X1:246 X2:472 Y1:358 Y2:420
+and she got in
+just under the wire.
+
+629
+00:31:39,054 --> 00:31:41,284  X1:180 X2:538 Y1:390 Y2:414
+These are a bunch ofburnouts.
+
+630
+00:31:41,357 --> 00:31:43,484  X1:239 X2:481 Y1:358 Y2:420
+And what's this one?
+It's illegible.
+
+631
+00:31:43,559 --> 00:31:44,890  X1:236 X2:485 Y1:390 Y2:414
+I can't even read that.
+
+632
+00:31:44,960 --> 00:31:46,985  X1:251 X2:467 Y1:390 Y2:414
+That's Tim...Cobsa.
+
+633
+00:31:47,062 --> 00:31:49,496  X1:255 X2:464 Y1:358 Y2:420
+She's doing this
+to get back at me.
+
+634
+00:31:49,565 --> 00:31:50,497  X1:304 X2:418 Y1:390 Y2:414
+Forwhat?
+
+635
+00:31:50,566 --> 00:31:53,000  X1:277 X2:444 Y1:390 Y2:419
+I mean, atyou.
+
+636
+00:31:53,068 --> 00:31:54,501  X1:304 X2:418 Y1:390 Y2:414
+Forwhat?
+
+637
+00:31:54,570 --> 00:31:56,435  X1:292 X2:427 Y1:390 Y2:414
+Tim Cobsa?
+
+638
+00:31:56,505 --> 00:31:59,531  X1:195 X2:525 Y1:358 Y2:414
+Tim Cobsa? Who's he?
+I've never even heard ofhim.
+
+639
+00:31:59,608 --> 00:32:01,439  X1:210 X2:510 Y1:358 Y2:420
+Look, why don't we
+just forget about Tammy?
+
+640
+00:32:01,510 --> 00:32:02,943  X1:155 X2:563 Y1:390 Y2:420
+We'll have the assembly tomorrow.
+
+641
+00:32:03,012 --> 00:32:04,445  X1:153 X2:568 Y1:390 Y2:420
+Everybody can make their speeches,
+
+642
+00:32:04,513 --> 00:32:06,947  X1:215 X2:504 Y1:358 Y2:420
+and I'm sure everything's
+gonna bejust fiine.
+
+643
+00:32:07,149 --> 00:32:07,945  X1:268 X2:451 Y1:390 Y2:420
+Jim: Hey! Whee!
+
+644
+00:32:08,017 --> 00:32:10,451  X1:248 X2:471 Y1:358 Y2:420
+Diane:Jim, don't.
+You're scaring him.
+
+645
+00:32:10,519 --> 00:32:12,419  X1:271 X2:451 Y1:390 Y2:414
+Nah. He likes it.
+
+646
+00:32:12,488 --> 00:32:13,455  X1:273 X2:449 Y1:390 Y2:414
+Not that much.
+
+647
+00:32:13,522 --> 00:32:14,955  X1:230 X2:489 Y1:390 Y2:420
+Jim: Around that time,
+
+648
+00:32:15,024 --> 00:32:16,958  X1:262 X2:460 Y1:358 Y2:420
+Diane and I were
+hanging out a lot
+
+649
+00:32:17,026 --> 00:32:18,254  X1:211 X2:509 Y1:390 Y2:420
+at Linda Novotny's house,
+
+650
+00:32:18,327 --> 00:32:20,454  X1:179 X2:542 Y1:390 Y2:420
+giving her our love and support
+
+651
+00:32:20,529 --> 00:32:24,056  X1:222 X2:498 Y1:358 Y2:420
+and helping her make it
+through a diffiicult time.
+
+652
+00:32:24,133 --> 00:32:26,465  X1:284 X2:435 Y1:390 Y2:420
+(Baby Crying)
+
+653
+00:32:29,038 --> 00:32:31,472  X1:172 X2:550 Y1:390 Y2:420
+Diane reallywanted to have kids,
+
+654
+00:32:31,540 --> 00:32:32,837  X1:291 X2:429 Y1:390 Y2:417
+and so did I,
+
+655
+00:32:32,908 --> 00:32:35,433  X1:198 X2:521 Y1:358 Y2:420
+but it seemed like there
+was always a reason to wait:
+
+656
+00:32:35,511 --> 00:32:37,445  X1:264 X2:456 Y1:358 Y2:420
+She had to fiinish
+nursing school,
+
+657
+00:32:37,513 --> 00:32:38,980  X1:219 X2:502 Y1:390 Y2:420
+I had to get my master's,
+
+658
+00:32:39,048 --> 00:32:41,983  X1:216 X2:503 Y1:358 Y2:420
+we needed a new house,
+we needed more money.
+
+659
+00:32:42,051 --> 00:32:44,295  X1:228 X2:494 Y1:358 Y2:420
+Finally, wejust decided
+to go for it.
+
+660
+00:32:44,429 --> 00:32:45,726  X1:261 X2:458 Y1:390 Y2:420
+You gonna do it?
+
+661
+00:32:45,797 --> 00:32:47,230  X1:261 X2:458 Y1:390 Y2:420
+You gonna do it?
+
+662
+00:32:47,298 --> 00:32:50,461  X1:222 X2:497 Y1:358 Y2:420
+Jim: And for over a year,
+we hadn't had any luck.
+
+663
+00:32:50,535 --> 00:32:52,969  X1:236 X2:484 Y1:390 Y2:413
+Come on. Do it. Do it.
+
+664
+00:32:53,037 --> 00:32:54,902  X1:244 X2:478 Y1:390 Y2:420
+Fill me up. Come on.
+
+665
+00:32:54,973 --> 00:32:56,907  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+666
+00:32:56,975 --> 00:32:58,408  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+667
+00:32:58,476 --> 00:32:59,408  X1:299 X2:421 Y1:390 Y2:420
+(Groaning)
+
+668
+00:33:06,484 --> 00:33:07,416  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+669
+00:33:12,991 --> 00:33:13,923  X1:304 X2:415 Y1:390 Y2:420
+Goodjob.
+
+670
+00:33:22,000 --> 00:33:23,160  X1:273 X2:449 Y1:390 Y2:420
+Linda: Say,Jim?
+
+671
+00:33:23,234 --> 00:33:24,667  X1:293 X2:427 Y1:390 Y2:420
+(Baby Cries)
+
+672
+00:33:24,736 --> 00:33:26,203  X1:236 X2:483 Y1:390 Y2:420
+Jim, can you get this?
+
+673
+00:33:26,271 --> 00:33:27,431  X1:322 X2:398 Y1:390 Y2:413
+I can't.
+
+674
+00:33:27,505 --> 00:33:28,938  X1:275 X2:444 Y1:390 Y2:420
+Oh, yeah, sure.
+
+675
+00:33:29,007 --> 00:33:30,941  X1:226 X2:492 Y1:390 Y2:420
+Just put it on the table.
+
+676
+00:33:31,009 --> 00:33:31,941  X1:308 X2:410 Y1:390 Y2:420
+All right.
+
+677
+00:33:35,013 --> 00:33:36,378  X1:330 X2:389 Y1:390 Y2:420
+(Pop)
+
+678
+00:33:36,447 --> 00:33:37,471  X1:205 X2:513 Y1:390 Y2:420
+Jim: Without Dave around,
+
+679
+00:33:37,548 --> 00:33:39,448  X1:212 X2:511 Y1:358 Y2:414
+Linda needed a lot ofhelp
+around the house.
+
+680
+00:33:39,517 --> 00:33:41,109  X1:195 X2:524 Y1:390 Y2:420
+Where doyou want it, here?
+
+681
+00:33:41,185 --> 00:33:42,117  X1:341 X2:381 Y1:390 Y2:413
+No.
+
+682
+00:33:43,521 --> 00:33:44,954  X1:277 X2:444 Y1:390 Y2:420
+More this way.
+
+683
+00:33:46,524 --> 00:33:48,116  X1:327 X2:395 Y1:390 Y2:413
+Here?
+
+684
+00:33:48,192 --> 00:33:50,524  X1:234 X2:487 Y1:390 Y2:420
+Uh, yeah. That's good.
+
+685
+00:33:53,564 --> 00:33:56,897  X1:195 X2:525 Y1:358 Y2:414
+Jim: I had always liked Linda,
+but we'd never had a chance
+
+686
+00:33:56,968 --> 00:33:59,459  X1:256 X2:464 Y1:358 Y2:420
+to spend any time
+alone together.
+
+687
+00:33:59,537 --> 00:34:01,562  X1:176 X2:544 Y1:390 Y2:420
+Oughta warm you up a little bit.
+
+688
+00:34:01,639 --> 00:34:02,901  X1:255 X2:465 Y1:358 Y2:420
+Now with Dave
+out ofthe picture,
+
+689
+00:34:02,974 --> 00:34:04,908  X1:232 X2:489 Y1:358 Y2:420
+I began to see what
+an incredibly sensitive
+
+690
+00:34:04,976 --> 00:34:08,139  X1:206 X2:514 Y1:390 Y2:420
+and giving person she was.
+
+691
+00:34:08,212 --> 00:34:10,680  X1:245 X2:476 Y1:358 Y2:414
+We got to be
+kind oflike buddies.
+
+692
+00:34:10,748 --> 00:34:11,908  X1:208 X2:512 Y1:358 Y2:414
+I even took her to the mall
+one time
+
+693
+00:34:11,983 --> 00:34:14,008  X1:188 X2:530 Y1:390 Y2:420
+while her carwas in the shop.
+
+694
+00:34:16,988 --> 00:34:18,512  X1:245 X2:474 Y1:390 Y2:420
+What doyou think?
+
+695
+00:34:19,991 --> 00:34:21,686  X1:271 X2:448 Y1:390 Y2:420
+You look great.
+
+696
+00:34:21,759 --> 00:34:24,421  X1:172 X2:549 Y1:390 Y2:420
+I can't afford this stuffright now.
+
+697
+00:34:24,495 --> 00:34:26,326  X1:226 X2:492 Y1:358 Y2:420
+Ah, come on.
+You've had a hard year.
+
+698
+00:34:26,397 --> 00:34:28,422  X1:218 X2:501 Y1:358 Y2:414
+You're cooped up
+all the time with the kid.
+
+699
+00:34:28,499 --> 00:34:29,898  X1:252 X2:469 Y1:390 Y2:420
+Let go. Live a little.
+
+700
+00:34:29,968 --> 00:34:30,900  X1:302 X2:417 Y1:390 Y2:413
+You sure?
+
+701
+00:34:30,969 --> 00:34:31,901  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+702
+00:34:34,505 --> 00:34:36,439  X1:232 X2:489 Y1:390 Y2:420
+So what doyou think?
+
+703
+00:34:36,507 --> 00:34:37,940  X1:227 X2:494 Y1:390 Y2:420
+Should we get a room?
+
+704
+00:34:38,009 --> 00:34:39,442  X1:229 X2:491 Y1:390 Y2:420
+Should we get a what?
+
+705
+00:34:52,523 --> 00:34:53,922  X1:262 X2:456 Y1:390 Y2:420
+That's not funny.
+
+706
+00:34:53,992 --> 00:34:57,928  X1:154 X2:566 Y1:390 Y2:418
+(Music Soundtrack Slows To A Halt)
+
+707
+00:34:57,996 --> 00:34:58,928  X1:286 X2:433 Y1:390 Y2:418
+(Door Slams)
+
+708
+00:35:01,966 --> 00:35:03,900  X1:289 X2:434 Y1:390 Y2:420
+How'd it go?
+
+709
+00:35:03,968 --> 00:35:04,900  X1:334 X2:388 Y1:390 Y2:413
+Fine.
+
+710
+00:35:04,969 --> 00:35:05,901  X1:292 X2:426 Y1:390 Y2:414
+You know...
+
+711
+00:35:05,970 --> 00:35:07,904  X1:223 X2:495 Y1:390 Y2:420
+just went to Westerly's.
+
+712
+00:35:07,972 --> 00:35:09,837  X1:230 X2:493 Y1:390 Y2:420
+Did you guys have fun?
+
+713
+00:35:11,476 --> 00:35:12,909  X1:331 X2:390 Y1:390 Y2:413
+Um...
+
+714
+00:35:12,977 --> 00:35:13,909  X1:329 X2:390 Y1:390 Y2:420
+yeah.
+
+715
+00:35:13,978 --> 00:35:16,572  X1:230 X2:491 Y1:390 Y2:420
+No, I mean...you know.
+
+716
+00:35:16,647 --> 00:35:19,047  X1:321 X2:399 Y1:390 Y2:414
+What?
+
+717
+00:35:19,117 --> 00:35:21,415  X1:248 X2:470 Y1:390 Y2:420
+Well, Linda's great,
+
+718
+00:35:21,486 --> 00:35:24,284  X1:198 X2:522 Y1:358 Y2:414
+but she can be
+a little bit much sometimes.
+
+719
+00:35:26,491 --> 00:35:27,822  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+720
+00:35:27,892 --> 00:35:30,417  X1:261 X2:458 Y1:358 Y2:420
+Oh, God.
+Oh,just like that.
+
+721
+00:35:30,495 --> 00:35:31,462  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+722
+00:35:31,529 --> 00:35:32,962  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+723
+00:35:33,031 --> 00:35:34,965  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+724
+00:35:35,033 --> 00:35:37,934  X1:303 X2:416 Y1:390 Y2:420
+Oh...yeah.
+
+725
+00:35:38,002 --> 00:35:38,934  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+726
+00:35:40,505 --> 00:35:41,437  X1:309 X2:410 Y1:390 Y2:417
+Oh, God.
+
+727
+00:35:41,506 --> 00:35:42,939  X1:283 X2:436 Y1:390 Y2:420
+Just like that.
+
+728
+00:35:43,007 --> 00:35:44,235  X1:306 X2:413 Y1:390 Y2:420
+Oh, yeah.
+
+729
+00:35:44,308 --> 00:35:45,434  X1:302 X2:420 Y1:390 Y2:420
+Fill me up.
+
+730
+00:35:45,510 --> 00:35:47,671  X1:241 X2:480 Y1:390 Y2:417
+Diane: God. Oh, God!
+
+731
+00:35:47,745 --> 00:35:49,940  X1:230 X2:489 Y1:390 Y2:420
+Oh, God.Just like that.
+
+732
+00:35:50,014 --> 00:35:52,448  X1:250 X2:472 Y1:390 Y2:420
+Do it,Jim. Fuck me.
+
+733
+00:35:52,517 --> 00:35:53,449  X1:305 X2:416 Y1:390 Y2:419
+Do it,Jim.
+
+734
+00:35:53,518 --> 00:35:55,008  X1:283 X2:436 Y1:390 Y2:420
+Just like that.
+
+735
+00:35:55,086 --> 00:35:57,850  X1:242 X2:479 Y1:390 Y2:420
+Do it,Jim. Fill me up.
+
+736
+00:35:57,922 --> 00:36:00,390  X1:283 X2:436 Y1:358 Y2:417
+Just like that.
+Do it, Mr. M.
+
+737
+00:36:00,458 --> 00:36:03,188  X1:234 X2:488 Y1:358 Y2:414
+Do it. Fuck me, Mr. M.
+Fuck me!
+
+738
+00:36:03,261 --> 00:36:05,388  X1:190 X2:531 Y1:390 Y2:417
+Fuck me hard, Mr. McAllister.
+
+739
+00:36:05,463 --> 00:36:06,395  X1:272 X2:450 Y1:390 Y2:414
+Harder! Harder!
+
+740
+00:36:06,464 --> 00:36:09,399  X1:220 X2:502 Y1:358 Y2:414
+Fuck me, Mr. McAllister.
+Fuck me hard!
+
+741
+00:36:09,467 --> 00:36:11,901  X1:220 X2:502 Y1:390 Y2:414
+Harder! Fuck me! Please!
+
+742
+00:36:13,471 --> 00:36:14,904  X1:221 X2:498 Y1:390 Y2:420
+Jim: So like I was saying,
+
+743
+00:36:14,972 --> 00:36:16,940  X1:240 X2:481 Y1:358 Y2:420
+things were going
+prettywell in my life.
+
+744
+00:36:17,075 --> 00:36:19,407  X1:217 X2:504 Y1:358 Y2:420
+That is, until things
+started going all haywire
+
+745
+00:36:19,477 --> 00:36:20,910  X1:216 X2:502 Y1:390 Y2:414
+with that damn election.
+
+746
+00:36:20,978 --> 00:36:23,913  X1:255 X2:465 Y1:358 Y2:420
+Boy, Haltingly:
+I love Carver High.
+
+747
+00:36:23,981 --> 00:36:27,417  X1:216 X2:502 Y1:358 Y2:420
+And I will be a dedicated
+vice president.
+
+748
+00:36:27,485 --> 00:36:30,921  X1:195 X2:525 Y1:358 Y2:420
+A vote forJerry Slavin is
+a vote for good government.
+
+749
+00:36:30,988 --> 00:36:34,924  X1:221 X2:500 Y1:358 Y2:420
+And even ifI can't really
+stand up foryou, I will.
+
+750
+00:36:34,992 --> 00:36:36,425  X1:300 X2:420 Y1:390 Y2:420
+(Laughter)
+
+751
+00:36:36,494 --> 00:36:37,620  X1:296 X2:423 Y1:390 Y2:420
+Thankyou.
+
+752
+00:36:37,695 --> 00:36:39,925  X1:299 X2:421 Y1:390 Y2:420
+(Applause)
+
+753
+00:36:43,000 --> 00:36:44,433  X1:263 X2:456 Y1:390 Y2:420
+Thankyou,Jerry.
+
+754
+00:36:44,502 --> 00:36:45,935  X1:211 X2:508 Y1:390 Y2:420
+Thankyou and good luck.
+
+755
+00:36:46,003 --> 00:36:49,370  X1:189 X2:532 Y1:358 Y2:419
+Again,Jerry is running
+unopposed forvice president.
+
+756
+00:36:49,440 --> 00:36:52,932  X1:225 X2:496 Y1:358 Y2:420
+So, we'll move on now
+to the presidential race
+
+757
+00:36:53,010 --> 00:36:54,443  X1:204 X2:515 Y1:390 Y2:420
+with 3 candidates running.
+
+758
+00:36:54,512 --> 00:36:56,878  X1:238 X2:483 Y1:358 Y2:420
+The fiirst,
+in alphabetical order,
+
+759
+00:36:56,948 --> 00:36:58,882  X1:284 X2:437 Y1:390 Y2:420
+is Tracy Flick.
+
+760
+00:36:58,950 --> 00:36:59,882  X1:321 X2:398 Y1:390 Y2:419
+Tracy?
+
+761
+00:37:07,058 --> 00:37:10,391  X1:209 X2:512 Y1:358 Y2:417
+Poet Henry David Thoreau
+once wrote,
+
+762
+00:37:10,461 --> 00:37:12,725  X1:179 X2:541 Y1:390 Y2:420
+''I cannot make my days longer,
+
+763
+00:37:12,797 --> 00:37:14,822  X1:172 X2:547 Y1:390 Y2:414
+so I strive to make them better.''
+
+764
+00:37:14,899 --> 00:37:17,390  X1:252 X2:467 Y1:358 Y2:414
+With this election,
+we here at Carver
+
+765
+00:37:17,468 --> 00:37:18,901  X1:217 X2:504 Y1:390 Y2:420
+also have an opportunity
+
+766
+00:37:18,970 --> 00:37:21,029  X1:223 X2:498 Y1:358 Y2:420
+to make our
+high school days better.
+
+767
+00:37:21,105 --> 00:37:24,404  X1:194 X2:527 Y1:358 Y2:420
+During this campaign,
+I've spoken with many ofyou
+
+768
+00:37:24,475 --> 00:37:25,908  X1:203 X2:516 Y1:390 Y2:420
+aboutyour many concerns.
+
+769
+00:37:25,977 --> 00:37:28,411  X1:208 X2:512 Y1:390 Y2:420
+I spoke with Eliza Ramirez,
+
+770
+00:37:28,479 --> 00:37:30,913  X1:242 X2:478 Y1:358 Y2:414
+a freshman who said
+she feels alienated
+
+771
+00:37:30,982 --> 00:37:32,506  X1:207 X2:512 Y1:390 Y2:414
+from her own home room.
+
+772
+00:37:32,583 --> 00:37:34,414  X1:140 X2:581 Y1:390 Y2:420
+I spoke with sophomore Reggie Banks
+
+773
+00:37:34,485 --> 00:37:36,919  X1:204 X2:515 Y1:358 Y2:414
+who said his motherworks
+in the cafeteria
+
+774
+00:37:36,988 --> 00:37:38,888  X1:204 X2:514 Y1:358 Y2:420
+and can't afford to buy him
+enough spiral notebooks
+
+775
+00:37:38,956 --> 00:37:39,888  X1:278 X2:442 Y1:390 Y2:414
+for his classes.
+
+776
+00:37:39,957 --> 00:37:40,924  X1:319 X2:403 Y1:390 Y2:413
+Eat me!
+
+777
+00:37:40,992 --> 00:37:42,459  X1:294 X2:427 Y1:390 Y2:413
+Eat me raw!
+
+778
+00:37:42,527 --> 00:37:43,926  X1:300 X2:420 Y1:390 Y2:420
+(Laughter)
+
+779
+00:37:47,498 --> 00:37:48,931  X1:277 X2:441 Y1:390 Y2:420
+All right, now.
+
+780
+00:37:49,000 --> 00:37:51,434  X1:214 X2:507 Y1:390 Y2:420
+Hey, ifyou can't be adults
+
+781
+00:37:51,502 --> 00:37:54,437  X1:208 X2:512 Y1:358 Y2:420
+and give these candidates
+the courtesy they deserve,
+
+782
+00:37:54,505 --> 00:37:57,372  X1:194 X2:526 Y1:358 Y2:414
+then you don't deserve to be
+called adults but children
+
+783
+00:37:57,441 --> 00:37:58,874  X1:170 X2:550 Y1:390 Y2:417
+because that's what children are,
+
+784
+00:37:58,943 --> 00:38:00,877  X1:163 X2:557 Y1:390 Y2:420
+and you'll be treated like children.
+
+785
+00:38:00,945 --> 00:38:03,379  X1:214 X2:506 Y1:390 Y2:420
+So let's all listen up, huh?
+
+786
+00:38:07,451 --> 00:38:09,385  X1:209 X2:510 Y1:390 Y2:420
+Tracy: I care about Carver,
+
+787
+00:38:09,453 --> 00:38:11,387  X1:236 X2:484 Y1:358 Y2:420
+and I care about each
+and every one ofyou.
+
+788
+00:38:11,455 --> 00:38:13,980  X1:217 X2:500 Y1:358 Y2:414
+And together, we can all
+make a difference.
+
+789
+00:38:14,058 --> 00:38:17,391  X1:212 X2:507 Y1:358 Y2:420
+When you castyourvote
+forTracy Flick next week,
+
+790
+00:38:17,461 --> 00:38:19,895  X1:176 X2:542 Y1:390 Y2:420
+you won'tjust be voting for me.
+
+791
+00:38:19,964 --> 00:38:22,057  X1:200 X2:522 Y1:390 Y2:420
+You'll be voting foryourself
+
+792
+00:38:22,133 --> 00:38:24,897  X1:202 X2:519 Y1:358 Y2:414
+and for every other student
+here at Carver.
+
+793
+00:38:24,969 --> 00:38:27,403  X1:163 X2:556 Y1:390 Y2:420
+Our days might not be any longer,
+
+794
+00:38:27,471 --> 00:38:29,564  X1:201 X2:520 Y1:390 Y2:420
+but they can sure be better.
+
+795
+00:38:29,640 --> 00:38:30,607  X1:296 X2:423 Y1:390 Y2:420
+Thankyou.
+
+796
+00:38:30,675 --> 00:38:32,905  X1:299 X2:421 Y1:390 Y2:420
+(Applause)
+
+797
+00:38:37,982 --> 00:38:41,418  X1:205 X2:515 Y1:358 Y2:420
+The--The next candidate
+for student body president
+
+798
+00:38:41,485 --> 00:38:42,918  X1:273 X2:448 Y1:390 Y2:414
+is Paul Metzler.
+
+799
+00:38:42,987 --> 00:38:43,919  X1:331 X2:392 Y1:390 Y2:414
+Paul?
+
+800
+00:38:43,988 --> 00:38:46,422  X1:248 X2:472 Y1:390 Y2:420
+(Raucous Cheering)
+
+801
+00:38:46,490 --> 00:38:48,981  X1:231 X2:492 Y1:358 Y2:414
+Woofwoofwoofwoof
+woofwoofwoofwoof!.
+
+802
+00:38:52,496 --> 00:38:54,293  X1:295 X2:424 Y1:358 Y2:420
+- Whoo!
+- Hey, Paul!
+
+803
+00:38:54,365 --> 00:38:55,593  X1:334 X2:388 Y1:390 Y2:414
+Paul!
+
+804
+00:38:58,002 --> 00:38:59,765  X1:261 X2:458 Y1:390 Y2:420
+(Girls Screaming)
+
+805
+00:39:14,952 --> 00:39:16,886  X1:229 X2:491 Y1:358 Y2:420
+(Monotone)
+''As many ofyou know,
+
+806
+00:39:16,954 --> 00:39:18,888  X1:160 X2:560 Y1:390 Y2:420
+I broke my leg pretty bad this year,
+
+807
+00:39:18,956 --> 00:39:20,890  X1:220 X2:501 Y1:358 Y2:414
+and the experience
+has made me reevaluate
+
+808
+00:39:20,958 --> 00:39:22,391  X1:184 X2:535 Y1:390 Y2:420
+what I want to do with my life,
+
+809
+00:39:22,460 --> 00:39:23,893  X1:225 X2:495 Y1:390 Y2:420
+and that is help people.
+
+810
+00:39:23,961 --> 00:39:25,394  X1:215 X2:504 Y1:390 Y2:420
+When you think about it,
+
+811
+00:39:25,463 --> 00:39:27,021  X1:183 X2:536 Y1:390 Y2:414
+a school is more than a school.
+
+812
+00:39:27,098 --> 00:39:28,895  X1:195 X2:525 Y1:358 Y2:420
+It's our second home,
+where we spend all our time
+
+813
+00:39:28,966 --> 00:39:31,901  X1:225 X2:494 Y1:358 Y2:420
+and grow as individuals
+in the community.
+
+814
+00:39:31,969 --> 00:39:33,903  X1:227 X2:493 Y1:358 Y2:420
+But is our school
+everything it could be?
+
+815
+00:39:33,971 --> 00:39:36,906  X1:210 X2:511 Y1:358 Y2:420
+I want our school to reach
+its true potential.
+
+816
+00:39:36,974 --> 00:39:38,407  X1:146 X2:573 Y1:390 Y2:420
+That's why I'm running for president.
+
+817
+00:39:38,476 --> 00:39:40,410  X1:236 X2:484 Y1:358 Y2:420
+I know what it is
+to fiight hard and win,
+
+818
+00:39:40,478 --> 00:39:42,412  X1:210 X2:512 Y1:358 Y2:414
+like when we almost went
+to State last fall
+
+819
+00:39:42,480 --> 00:39:45,415  X1:185 X2:536 Y1:358 Y2:420
+and I threw the fourth quarter
+pass against Westside
+
+820
+00:39:45,483 --> 00:39:47,417  X1:206 X2:513 Y1:358 Y2:420
+for the touchdown that
+won the game by 3 points.
+
+821
+00:39:47,485 --> 00:39:49,419  X1:243 X2:478 Y1:358 Y2:417
+I won't letyou down
+like I didn't then,
+
+822
+00:39:49,487 --> 00:39:52,923  X1:176 X2:543 Y1:358 Y2:420
+and I promise we can all score
+a winning touchdown together.
+
+823
+00:39:52,990 --> 00:39:54,924  X1:255 X2:466 Y1:358 Y2:420
+Vote Paul Metzler
+for president.
+
+824
+00:39:54,992 --> 00:39:55,924  X1:290 X2:428 Y1:390 Y2:420
+Thankyou.''
+
+825
+00:39:58,360 --> 00:40:00,453  X1:311 X2:409 Y1:390 Y2:418
+(Silence)
+
+826
+00:40:03,165 --> 00:40:06,191  X1:299 X2:421 Y1:390 Y2:420
+(Applause)
+
+827
+00:40:09,471 --> 00:40:10,904  X1:307 X2:412 Y1:390 Y2:417
+OK, Paul.
+
+828
+00:40:10,972 --> 00:40:14,408  X1:211 X2:510 Y1:358 Y2:420
+The fiinal candidate for
+student council president
+
+829
+00:40:14,476 --> 00:40:16,910  X1:248 X2:472 Y1:358 Y2:417
+is another one
+ofthe Metzler clan,
+
+830
+00:40:16,978 --> 00:40:18,411  X1:196 X2:523 Y1:390 Y2:420
+sophomore Tammy Metzler.
+
+831
+00:40:18,480 --> 00:40:19,447  X1:313 X2:406 Y1:390 Y2:419
+Tammy.
+
+832
+00:40:21,483 --> 00:40:22,415  X1:265 X2:454 Y1:390 Y2:420
+(Light Applause)
+
+833
+00:40:22,484 --> 00:40:23,917  X1:282 X2:438 Y1:390 Y2:420
+(Boy Retches)
+
+834
+00:40:23,985 --> 00:40:25,418  X1:300 X2:420 Y1:390 Y2:420
+(Laughter)
+
+835
+00:40:25,487 --> 00:40:27,352  X1:224 X2:496 Y1:390 Y2:420
+(Hissing And Whistling)
+
+836
+00:40:27,422 --> 00:40:29,253  X1:311 X2:408 Y1:390 Y2:420
+(Jeering)
+
+837
+00:40:29,324 --> 00:40:31,519  X1:311 X2:408 Y1:390 Y2:420
+(Booing)
+
+838
+00:40:31,593 --> 00:40:33,322  X1:292 X2:430 Y1:390 Y2:414
+Ha ha ha ha!
+
+839
+00:40:33,395 --> 00:40:35,863  X1:273 X2:449 Y1:390 Y2:420
+People! People!
+
+840
+00:40:37,799 --> 00:40:39,926  X1:286 X2:434 Y1:390 Y2:420
+(Murmuring)
+
+841
+00:40:40,001 --> 00:40:44,097  X1:242 X2:478 Y1:358 Y2:420
+Who cares about
+this stupid election?
+
+842
+00:40:44,172 --> 00:40:45,332  X1:208 X2:511 Y1:390 Y2:420
+(Murmuring,Jeering Stop)
+
+843
+00:40:49,244 --> 00:40:51,439  X1:187 X2:534 Y1:390 Y2:414
+We all know it doesn't matter
+
+844
+00:40:51,513 --> 00:40:53,947  X1:247 X2:473 Y1:358 Y2:420
+who gets elected
+president ofCarver.
+
+845
+00:40:54,015 --> 00:40:57,382  X1:186 X2:533 Y1:358 Y2:420
+Doyou really think it's gonna
+change anything around here,
+
+846
+00:40:57,452 --> 00:41:01,889  X1:223 X2:497 Y1:358 Y2:420
+make one single person
+smarter or happier
+
+847
+00:41:01,957 --> 00:41:03,891  X1:309 X2:412 Y1:390 Y2:413
+or nicer?
+
+848
+00:41:03,959 --> 00:41:06,393  X1:263 X2:458 Y1:358 Y2:414
+The only person
+it does matter to
+
+849
+00:41:06,461 --> 00:41:08,395  X1:199 X2:522 Y1:390 Y2:420
+is the one who gets elected.
+
+850
+00:41:08,463 --> 00:41:12,900  X1:202 X2:517 Y1:358 Y2:420
+The same pathetic charade
+happens everyyear,
+
+851
+00:41:12,968 --> 00:41:15,903  X1:199 X2:520 Y1:358 Y2:420
+and everyone makes
+the same pathetic promises
+
+852
+00:41:15,971 --> 00:41:17,905  X1:223 X2:496 Y1:358 Y2:420
+just so they could put it
+on their transcripts
+
+853
+00:41:17,973 --> 00:41:19,907  X1:250 X2:470 Y1:390 Y2:420
+to get into college.
+
+854
+00:41:19,975 --> 00:41:21,408  X1:276 X2:445 Y1:390 Y2:414
+So vote for me
+
+855
+00:41:21,476 --> 00:41:23,910  X1:239 X2:480 Y1:358 Y2:420
+because I don't even
+wanna go to college,
+
+856
+00:41:23,979 --> 00:41:25,412  X1:267 X2:453 Y1:390 Y2:414
+and I don't care.
+
+857
+00:41:25,480 --> 00:41:28,415  X1:246 X2:475 Y1:358 Y2:420
+And as president,
+I won't do anything.
+
+858
+00:41:28,483 --> 00:41:32,419  X1:193 X2:526 Y1:358 Y2:417
+The only promise I will make
+is that, ifelected,
+
+859
+00:41:32,487 --> 00:41:35,422  X1:197 X2:524 Y1:358 Y2:420
+I will immediately dismantle
+the student government
+
+860
+00:41:35,490 --> 00:41:37,424  X1:222 X2:498 Y1:358 Y2:420
+so that none ofus will
+ever have to sit through
+
+861
+00:41:37,492 --> 00:41:39,585  X1:220 X2:500 Y1:358 Y2:420
+one ofthese
+stupid assemblies again!
+
+862
+00:41:39,661 --> 00:41:42,289  X1:267 X2:452 Y1:390 Y2:420
+(Loud Cheering)
+
+863
+00:41:44,032 --> 00:41:45,294  X1:320 X2:398 Y1:390 Y2:414
+Whoo!
+
+864
+00:41:45,367 --> 00:41:46,629  X1:327 X2:391 Y1:390 Y2:414
+Yeah!
+
+865
+00:41:46,701 --> 00:41:53,231  X1:166 X2:553 Y1:358 Y2:419
+Tammy! Tammy! Tammy! Tammy!
+Tammy! Tammy! Tammy! Tammy!
+
+866
+00:41:53,308 --> 00:41:54,605  X1:264 X2:455 Y1:390 Y2:419
+Tammy! Tammy!
+
+867
+00:41:54,676 --> 00:41:57,543  X1:239 X2:481 Y1:358 Y2:414
+Or don't vote for me!
+Who cares?!
+
+868
+00:41:57,612 --> 00:41:58,943  X1:267 X2:455 Y1:390 Y2:414
+Don't vote at all!
+
+869
+00:41:59,014 --> 00:42:01,608  X1:300 X2:420 Y1:390 Y2:420
+(Cheering)
+
+870
+00:42:17,666 --> 00:42:19,190  X1:272 X2:447 Y1:390 Y2:414
+Close the door.
+
+871
+00:42:20,402 --> 00:42:23,030  X1:217 X2:503 Y1:390 Y2:420
+I tell you, that little bitch
+
+872
+00:42:23,104 --> 00:42:24,298  X1:237 X2:484 Y1:390 Y2:414
+made a fool out ofus.
+
+873
+00:42:24,372 --> 00:42:26,897  X1:187 X2:534 Y1:390 Y2:414
+I want her out ofthis election.
+
+874
+00:42:26,975 --> 00:42:29,000  X1:210 X2:513 Y1:358 Y2:420
+I mean, getting everybody
+all riled up like that.
+
+875
+00:42:29,077 --> 00:42:30,772  X1:241 X2:479 Y1:358 Y2:420
+She is washed up,
+you understand me?
+
+876
+00:42:30,845 --> 00:42:31,869  X1:278 X2:442 Y1:390 Y2:414
+She's fiinished.
+
+877
+00:42:31,947 --> 00:42:33,608  X1:231 X2:490 Y1:358 Y2:414
+Well, we can't throw
+her out ofthe election
+
+878
+00:42:33,682 --> 00:42:35,411  X1:236 X2:484 Y1:358 Y2:420
+just because we
+don't like her speech.
+
+879
+00:42:35,483 --> 00:42:38,816  X1:221 X2:499 Y1:358 Y2:420
+That's not what student
+government is about.
+
+880
+00:42:38,887 --> 00:42:40,912  X1:234 X2:484 Y1:390 Y2:420
+Yeah, yeah, whatever.
+
+881
+00:42:40,989 --> 00:42:42,456  X1:259 X2:462 Y1:390 Y2:417
+Look, all I know is
+
+882
+00:42:42,524 --> 00:42:44,651  X1:236 X2:484 Y1:358 Y2:420
+she's a troublemaker,
+she's on my list.
+
+883
+00:42:44,726 --> 00:42:46,421  X1:255 X2:465 Y1:358 Y2:420
+All we need to do
+is send a message.
+
+884
+00:42:46,494 --> 00:42:50,590  X1:218 X2:502 Y1:358 Y2:420
+So maybe, uh, we should
+just suspend her.
+
+885
+00:42:52,300 --> 00:42:56,532  X1:204 X2:516 Y1:358 Y2:420
+That's it. 3 days,
+she's suspended for 3 days.
+
+886
+00:43:00,408 --> 00:43:02,638  X1:199 X2:520 Y1:358 Y2:420
+Tammy: Being suspended is
+like getting a paid vacation.
+
+887
+00:43:02,711 --> 00:43:04,941  X1:252 X2:468 Y1:358 Y2:420
+Why do they think
+it's a punishment?
+
+888
+00:43:05,013 --> 00:43:07,004  X1:253 X2:469 Y1:358 Y2:420
+It's likeyour dog
+pees on the carpet
+
+889
+00:43:07,082 --> 00:43:08,811  X1:218 X2:502 Y1:390 Y2:420
+and you give him a treat.
+
+890
+00:43:08,883 --> 00:43:10,783  X1:223 X2:497 Y1:358 Y2:420
+Then you get in trouble
+for skipping school.
+
+891
+00:43:10,852 --> 00:43:12,581  X1:285 X2:436 Y1:390 Y2:420
+It's so stupid.
+
+892
+00:43:12,654 --> 00:43:14,679  X1:252 X2:470 Y1:358 Y2:414
+Hendricks told me,
+''One more time''
+
+893
+00:43:14,756 --> 00:43:18,157  X1:235 X2:484 Y1:358 Y2:420
+and I'd be expelled.
+Sounded good to me.
+
+894
+00:43:36,044 --> 00:43:37,204  X1:270 X2:449 Y1:390 Y2:418
+(Whistle Blows)
+
+895
+00:43:43,051 --> 00:43:47,078  X1:300 X2:419 Y1:390 Y2:418
+(Bell Tolls)
+
+896
+00:44:17,986 --> 00:44:20,750  X1:273 X2:446 Y1:390 Y2:420
+Oh, hi, Tammy.
+
+897
+00:44:22,590 --> 00:44:23,921  X1:247 X2:473 Y1:390 Y2:420
+What doyou want?
+
+898
+00:44:23,992 --> 00:44:26,017  X1:175 X2:543 Y1:390 Y2:420
+Well, I went to all your teachers
+
+899
+00:44:26,094 --> 00:44:27,459  X1:164 X2:555 Y1:390 Y2:420
+and gotyour assignments foryou.
+
+900
+00:44:27,529 --> 00:44:29,963  X1:203 X2:517 Y1:390 Y2:420
+I--I just thought, you know,
+
+901
+00:44:30,031 --> 00:44:30,998  X1:198 X2:523 Y1:390 Y2:420
+last timeyou got suspended
+
+902
+00:44:31,066 --> 00:44:31,998  X1:236 X2:483 Y1:390 Y2:420
+you fell so far behind,
+
+903
+00:44:32,067 --> 00:44:32,999  X1:238 X2:482 Y1:390 Y2:420
+and I just didn't want
+
+904
+00:44:33,068 --> 00:44:34,467  X1:214 X2:506 Y1:390 Y2:420
+to see that happen again.
+
+905
+00:44:34,536 --> 00:44:36,504  X1:207 X2:511 Y1:390 Y2:417
+Thanks, Paul. Thanks a lot.
+
+906
+00:44:36,571 --> 00:44:38,471  X1:279 X2:440 Y1:390 Y2:414
+Sure. You bet.
+
+907
+00:44:40,208 --> 00:44:41,766  X1:179 X2:544 Y1:390 Y2:420
+Now could you leave me alone?
+
+908
+00:44:41,843 --> 00:44:44,209  X1:279 X2:441 Y1:390 Y2:420
+Oh, yeah. Um,
+
+909
+00:44:44,279 --> 00:44:47,009  X1:246 X2:474 Y1:358 Y2:420
+Tammy, there'sjust
+one other thing.
+
+910
+00:44:47,082 --> 00:44:49,448  X1:256 X2:464 Y1:358 Y2:417
+You know all
+this election stuff,
+
+911
+00:44:49,517 --> 00:44:51,451  X1:233 X2:487 Y1:358 Y2:420
+'cause everybody's
+saying it's reallyweird
+
+912
+00:44:51,519 --> 00:44:52,486  X1:181 X2:539 Y1:390 Y2:420
+thatyou're running against me
+
+913
+00:44:52,554 --> 00:44:54,249  X1:233 X2:487 Y1:358 Y2:414
+and everything,
+and it is kind ofweird.
+
+914
+00:44:54,322 --> 00:44:56,756  X1:208 X2:511 Y1:358 Y2:420
+You haven't really told me
+whyyou're doing it
+
+915
+00:44:56,825 --> 00:44:58,349  X1:252 X2:468 Y1:358 Y2:417
+and you didn't
+tell me in advance,
+
+916
+00:44:58,426 --> 00:45:01,486  X1:234 X2:486 Y1:358 Y2:420
+but that's OK.
+I respectyour privacy,
+
+917
+00:45:01,563 --> 00:45:03,963  X1:250 X2:471 Y1:358 Y2:419
+it'sjust...
+I wantyou to know
+
+918
+00:45:04,032 --> 00:45:05,329  X1:214 X2:505 Y1:390 Y2:417
+that no matterwho wins,
+
+919
+00:45:05,400 --> 00:45:07,595  X1:221 X2:499 Y1:364 Y2:420
+you or me,
+there's no hard feelings.
+
+920
+00:45:07,669 --> 00:45:10,103  X1:252 X2:468 Y1:358 Y2:417
+We're still brother
+and sister, OK,
+
+921
+00:45:10,171 --> 00:45:11,160  X1:193 X2:526 Y1:390 Y2:420
+even though you're adopted,
+
+922
+00:45:11,239 --> 00:45:15,005  X1:177 X2:543 Y1:390 Y2:420
+'cause I hopeyou feel the same.
+
+923
+00:45:18,847 --> 00:45:20,712  X1:228 X2:490 Y1:358 Y2:420
+Tracy: What happened
+at the speeches
+
+924
+00:45:20,782 --> 00:45:22,977  X1:173 X2:545 Y1:390 Y2:420
+was an unconscionable travesty.
+
+925
+00:45:23,051 --> 00:45:24,780  X1:175 X2:546 Y1:390 Y2:420
+That little bitch Tammy Metzler
+
+926
+00:45:24,853 --> 00:45:26,184  X1:168 X2:551 Y1:390 Y2:414
+wanted to make a fool out ofme.
+
+927
+00:45:26,254 --> 00:45:28,779  X1:202 X2:517 Y1:390 Y2:420
+Well, it wasn't gonna work.
+
+928
+00:45:28,857 --> 00:45:31,519  X1:170 X2:551 Y1:358 Y2:420
+Ifall those students
+who cheered forTammy Metzler
+
+929
+00:45:31,593 --> 00:45:33,754  X1:243 X2:476 Y1:358 Y2:417
+only knew how hard
+I worked for Carver,
+
+930
+00:45:33,828 --> 00:45:36,160  X1:189 X2:532 Y1:358 Y2:420
+like all the late nights
+I spend at theyearbook offiice
+
+931
+00:45:36,231 --> 00:45:38,290  X1:217 X2:502 Y1:358 Y2:420
+just to give them
+their stinking memories.
+
+932
+00:45:43,705 --> 00:45:46,435  X1:188 X2:531 Y1:358 Y2:420
+One ofmy duties was
+to clean up the group photos.
+
+933
+00:45:46,508 --> 00:45:50,000  X1:226 X2:493 Y1:358 Y2:414
+It was a cinch
+with our new software.
+
+934
+00:45:51,679 --> 00:45:54,978  X1:217 X2:504 Y1:390 Y2:420
+People are so ungrateful.
+
+935
+00:47:04,219 --> 00:47:08,747  X1:175 X2:545 Y1:390 Y2:419
+[ding]Ahh-a-a-aah, aaah-a-a-aaah [ding]
+
+936
+00:47:18,800 --> 00:47:23,430  X1:241 X2:479 Y1:390 Y2:420
+(Rock Music Playing)
+
+937
+00:47:26,941 --> 00:47:29,136  X1:276 X2:443 Y1:390 Y2:420
+Aaagh! Aaagh!
+
+938
+00:47:29,210 --> 00:47:32,611  X1:319 X2:400 Y1:390 Y2:420
+Aaagh!
+
+939
+00:47:38,419 --> 00:47:40,216  X1:308 X2:412 Y1:390 Y2:420
+(Panting)
+
+940
+00:48:19,488 --> 00:48:21,683  X1:275 X2:445 Y1:390 Y2:418
+(Tires Screech)
+
+941
+00:49:18,480 --> 00:49:20,539  X1:263 X2:457 Y1:390 Y2:420
+(Engine Starting)
+
+942
+00:49:24,453 --> 00:49:26,318  X1:175 X2:544 Y1:390 Y2:420
+Jim: The day before the election
+
+943
+00:49:26,388 --> 00:49:30,017  X1:212 X2:508 Y1:358 Y2:420
+was when things started
+to get really complicated.
+
+944
+00:49:30,092 --> 00:49:31,616  X1:243 X2:476 Y1:390 Y2:420
+There's your culprit.
+
+945
+00:49:31,693 --> 00:49:35,094  X1:187 X2:537 Y1:358 Y2:420
+Linda had asked me to stop by
+on myway to school
+
+946
+00:49:35,164 --> 00:49:38,759  X1:208 X2:511 Y1:358 Y2:420
+to help her out with
+a little plumbing problem.
+
+947
+00:49:38,834 --> 00:49:41,598  X1:157 X2:565 Y1:390 Y2:420
+Did you know Dave's a bed-wetter?
+
+948
+00:49:41,670 --> 00:49:45,299  X1:194 X2:528 Y1:390 Y2:417
+No. No, I--I didn't know that.
+
+949
+00:49:45,374 --> 00:49:47,501  X1:238 X2:484 Y1:358 Y2:420
+All his life.
+He's tried everything.
+
+950
+00:49:51,146 --> 00:49:53,842  X1:214 X2:508 Y1:390 Y2:420
+Is that still running clear?
+
+951
+00:49:53,916 --> 00:49:54,940  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+952
+00:49:55,017 --> 00:49:56,780  X1:205 X2:516 Y1:390 Y2:414
+Better let it run for a while.
+
+953
+00:49:56,852 --> 00:49:58,786  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+954
+00:49:58,854 --> 00:50:01,152  X1:308 X2:411 Y1:390 Y2:417
+Oh, wait.
+
+955
+00:50:01,223 --> 00:50:04,522  X1:233 X2:489 Y1:390 Y2:414
+Here. This one's clean.
+
+956
+00:50:08,163 --> 00:50:10,131  X1:257 X2:465 Y1:358 Y2:420
+I guess you better
+get to work, huh?
+
+957
+00:50:10,199 --> 00:50:11,791  X1:236 X2:482 Y1:390 Y2:420
+You're gonna be late.
+
+958
+00:50:11,867 --> 00:50:14,358  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+959
+00:50:24,446 --> 00:50:27,006  X1:271 X2:448 Y1:358 Y2:420
+(Whispering)
+Thankyou,Jim.
+
+960
+00:50:39,928 --> 00:50:42,294  X1:234 X2:484 Y1:358 Y2:420
+Jim: It was something
+thatjust happened.
+
+961
+00:50:42,364 --> 00:50:44,355  X1:214 X2:507 Y1:390 Y2:420
+Neither ofus expected it.
+
+962
+00:50:44,433 --> 00:50:46,162  X1:221 X2:500 Y1:390 Y2:420
+Neither ofus planned it.
+
+963
+00:50:46,235 --> 00:50:49,762  X1:188 X2:535 Y1:358 Y2:420
+But once we started, we knew
+there was no turning back.
+
+964
+00:50:49,838 --> 00:50:53,535  X1:268 X2:453 Y1:390 Y2:414
+It was a miracle.
+
+965
+00:50:53,609 --> 00:50:55,474  X1:314 X2:405 Y1:390 Y2:420
+Oh,Jim.
+
+966
+00:51:06,421 --> 00:51:09,049  X1:203 X2:518 Y1:390 Y2:420
+Hey, take me to that motel,
+
+967
+00:51:09,124 --> 00:51:10,250  X1:266 X2:454 Y1:390 Y2:420
+likeyou wanted.
+
+968
+00:51:10,325 --> 00:51:12,020  X1:328 X2:395 Y1:390 Y2:413
+Now?
+
+969
+00:51:12,094 --> 00:51:13,857  X1:211 X2:511 Y1:390 Y2:420
+Um, come by after school.
+
+970
+00:51:13,929 --> 00:51:15,396  X1:200 X2:521 Y1:390 Y2:420
+I'll leave Darryl with a sitter.
+
+971
+00:51:15,464 --> 00:51:18,365  X1:306 X2:413 Y1:390 Y2:414
+Oh. 3:25.
+
+972
+00:51:18,433 --> 00:51:20,458  X1:305 X2:414 Y1:390 Y2:416
+OK, 3:25.
+
+973
+00:51:20,535 --> 00:51:22,366  X1:276 X2:444 Y1:390 Y2:420
+(Engine Starts)
+
+974
+00:51:29,711 --> 00:51:30,803  X1:211 X2:507 Y1:390 Y2:420
+Jim: What had blossomed
+
+975
+00:51:30,879 --> 00:51:32,744  X1:229 X2:493 Y1:358 Y2:417
+between Linda and me
+was too real,
+
+976
+00:51:32,814 --> 00:51:34,679  X1:235 X2:484 Y1:390 Y2:420
+too powerful to deny.
+
+977
+00:51:34,750 --> 00:51:36,411  X1:214 X2:508 Y1:390 Y2:420
+For the fiirst time in years,
+
+978
+00:51:36,485 --> 00:51:39,113  X1:251 X2:469 Y1:390 Y2:414
+I felt free and alive.
+
+979
+00:51:44,192 --> 00:51:45,124  X1:253 X2:465 Y1:390 Y2:419
+Woman: Hiya,Jim.
+
+980
+00:51:45,193 --> 00:51:46,990  X1:245 X2:474 Y1:390 Y2:420
+(Speaking In Italian)
+
+981
+00:52:07,949 --> 00:52:10,611  X1:272 X2:449 Y1:358 Y2:420
+It's not fair,
+it'sjust not fair.
+
+982
+00:52:10,686 --> 00:52:12,153  X1:203 X2:520 Y1:390 Y2:420
+I just don't think somebody
+
+983
+00:52:12,220 --> 00:52:13,983  X1:239 X2:479 Y1:358 Y2:420
+would do something
+like that on purpose.
+
+984
+00:52:14,056 --> 00:52:16,354  X1:267 X2:454 Y1:358 Y2:417
+It must be some
+sort ofmistake,
+
+985
+00:52:16,425 --> 00:52:18,416  X1:214 X2:506 Y1:390 Y2:420
+like a maintenance thing.
+
+986
+00:52:18,493 --> 00:52:21,519  X1:250 X2:467 Y1:358 Y2:420
+Jim, where the hell
+haveyou been?
+
+987
+00:52:21,596 --> 00:52:24,997  X1:250 X2:473 Y1:358 Y2:420
+Nowhere. I--I don't
+have any classes
+
+988
+00:52:25,067 --> 00:52:25,999  X1:256 X2:464 Y1:390 Y2:420
+till second period.
+
+989
+00:52:26,068 --> 00:52:27,194  X1:213 X2:506 Y1:390 Y2:420
+Well, I tried you at home,
+
+990
+00:52:27,269 --> 00:52:29,100  X1:183 X2:537 Y1:390 Y2:420
+and we've got a situation here.
+
+991
+00:52:29,171 --> 00:52:30,536  X1:223 X2:497 Y1:358 Y2:417
+If Paul loses
+this election tomorrow,
+
+992
+00:52:30,605 --> 00:52:31,799  X1:199 X2:522 Y1:390 Y2:414
+there has to be another one
+
+993
+00:52:31,873 --> 00:52:33,101  X1:284 X2:435 Y1:390 Y2:420
+with posters.
+
+994
+00:52:33,175 --> 00:52:35,109  X1:155 X2:564 Y1:390 Y2:420
+Somebody tore down their posters.
+
+995
+00:52:35,177 --> 00:52:36,735  X1:250 X2:469 Y1:358 Y2:420
+Those posters cost
+us a lot ofmoney,
+
+996
+00:52:36,812 --> 00:52:37,972  X1:247 X2:473 Y1:358 Y2:420
+and there's no time
+to make any more.
+
+997
+00:52:38,046 --> 00:52:39,479  X1:249 X2:471 Y1:358 Y2:414
+All right, we'll get
+to the bottom ofit.
+
+998
+00:52:39,548 --> 00:52:41,311  X1:184 X2:535 Y1:358 Y2:414
+We still have some extra ones,
+don't we?
+
+999
+00:52:41,383 --> 00:52:42,714  X1:182 X2:540 Y1:390 Y2:420
+Maybe we couldjust use those.
+
+1000
+00:52:42,784 --> 00:52:43,716  X1:278 X2:443 Y1:390 Y2:419
+It was Tammy.
+
+1001
+00:52:43,785 --> 00:52:44,717  X1:256 X2:462 Y1:390 Y2:414
+That's who it was.
+
+1002
+00:52:44,786 --> 00:52:46,777  X1:230 X2:490 Y1:390 Y2:420
+Oh, no. Hey, like I said,
+
+1003
+00:52:46,855 --> 00:52:48,413  X1:243 X2:477 Y1:358 Y2:420
+shejust wouldn't do
+something like that.
+
+1004
+00:52:48,490 --> 00:52:50,117  X1:175 X2:544 Y1:390 Y2:420
+Well, that speech that she gave,
+
+1005
+00:52:50,192 --> 00:52:51,489  X1:215 X2:505 Y1:390 Y2:420
+you know, it was pretty--
+
+1006
+00:52:51,560 --> 00:52:53,653  X1:266 X2:454 Y1:390 Y2:414
+It was out there.
+
+1007
+00:52:53,729 --> 00:52:55,026  X1:249 X2:471 Y1:358 Y2:414
+But we'll get
+to the bottom ofit.
+
+1008
+00:52:55,097 --> 00:52:57,497  X1:208 X2:512 Y1:390 Y2:420
+I wantyou two to go back,
+
+1009
+00:52:57,566 --> 00:52:59,500  X1:157 X2:564 Y1:390 Y2:420
+I wantyou to focus on your studies.
+
+1010
+00:52:59,568 --> 00:53:02,401  X1:212 X2:510 Y1:358 Y2:420
+Mr. McAllisterwill handle
+the whole thing.
+
+1011
+00:53:02,471 --> 00:53:04,496  X1:299 X2:423 Y1:390 Y2:420
+Right,Jim?
+
+1012
+00:53:04,573 --> 00:53:08,532  X1:229 X2:490 Y1:358 Y2:420
+What's that? Oh, yeah.
+Sure, yeah, you bet.
+
+1013
+00:53:17,152 --> 00:53:19,211  X1:324 X2:394 Y1:390 Y2:419
+Tracy.
+
+1014
+00:53:22,491 --> 00:53:25,483  X1:254 X2:465 Y1:390 Y2:419
+Tracy, come on in.
+
+1015
+00:53:25,560 --> 00:53:27,994  X1:205 X2:515 Y1:390 Y2:420
+Close the door behind you.
+
+1016
+00:53:33,835 --> 00:53:35,962  X1:293 X2:428 Y1:390 Y2:413
+Have a seat.
+
+1017
+00:53:39,775 --> 00:53:43,302  X1:262 X2:460 Y1:358 Y2:420
+I guess you know
+whyyou're here.
+
+1018
+00:53:45,680 --> 00:53:46,908  X1:224 X2:496 Y1:390 Y2:420
+Ifit's about the posters,
+
+1019
+00:53:46,982 --> 00:53:48,176  X1:266 X2:455 Y1:390 Y2:414
+I think it's awful.
+
+1020
+00:53:48,250 --> 00:53:50,115  X1:242 X2:479 Y1:390 Y2:420
+I think it's a travesty.
+
+1021
+00:53:50,185 --> 00:53:51,584  X1:276 X2:444 Y1:390 Y2:420
+Travesty, huh?
+
+1022
+00:53:51,653 --> 00:53:54,918  X1:223 X2:495 Y1:390 Y2:420
+Well, that's interesting,
+
+1023
+00:53:54,990 --> 00:53:57,254  X1:213 X2:508 Y1:390 Y2:420
+because I thinkyou did it.
+
+1024
+00:53:57,325 --> 00:53:59,520  X1:321 X2:399 Y1:390 Y2:414
+What?
+
+1025
+00:54:01,062 --> 00:54:03,121  X1:232 X2:487 Y1:390 Y2:419
+Areyou accusing me?
+
+1026
+00:54:03,198 --> 00:54:04,722  X1:251 X2:468 Y1:390 Y2:413
+You're not serious.
+
+1027
+00:54:04,800 --> 00:54:06,631  X1:224 X2:496 Y1:358 Y2:420
+Mr. McAllister,
+we've worked together
+
+1028
+00:54:06,701 --> 00:54:08,965  X1:188 X2:531 Y1:390 Y2:420
+on the S.G.A. for 3 solid years.
+
+1029
+00:54:09,037 --> 00:54:11,062  X1:194 X2:529 Y1:358 Y2:414
+Besides, my own best banner
+was torn down.
+
+1030
+00:54:11,139 --> 00:54:12,470  X1:257 X2:465 Y1:390 Y2:417
+Did I do that, too?
+
+1031
+00:54:12,541 --> 00:54:13,940  X1:208 X2:511 Y1:390 Y2:419
+Wereyou orwereyou not
+
+1032
+00:54:14,009 --> 00:54:15,943  X1:153 X2:567 Y1:390 Y2:420
+working in the Looking Glass Offiice
+
+1033
+00:54:16,011 --> 00:54:16,943  X1:250 X2:471 Y1:390 Y2:414
+over the weekend?
+
+1034
+00:54:17,012 --> 00:54:20,743  X1:236 X2:486 Y1:358 Y2:413
+I was. So?
+Mr. Paterno let me in.
+
+1035
+00:54:20,816 --> 00:54:23,114  X1:233 X2:488 Y1:358 Y2:420
+As you know, with my
+many responsibilities,
+
+1036
+00:54:23,185 --> 00:54:24,652  X1:228 X2:493 Y1:358 Y2:414
+I often have to come in
+on the weekend.
+
+1037
+00:54:24,719 --> 00:54:26,744  X1:178 X2:540 Y1:390 Y2:420
+And I have permission to do so.
+
+1038
+00:54:26,822 --> 00:54:29,552  X1:251 X2:471 Y1:358 Y2:414
+But I left very early,
+around 6:30.
+
+1039
+00:54:30,792 --> 00:54:34,558  X1:295 X2:427 Y1:390 Y2:413
+6:30. 6:30?
+
+1040
+00:54:34,629 --> 00:54:37,223  X1:193 X2:528 Y1:358 Y2:420
+How doyou know what time
+the posters were torn down?
+
+1041
+00:54:37,299 --> 00:54:39,961  X1:254 X2:467 Y1:390 Y2:420
+I don't. I just know
+
+1042
+00:54:40,035 --> 00:54:41,559  X1:173 X2:546 Y1:390 Y2:420
+that theywere there when I left.
+
+1043
+00:54:41,636 --> 00:54:44,036  X1:234 X2:487 Y1:358 Y2:417
+I'm giving you helpful
+information, that's all.
+
+1044
+00:54:44,105 --> 00:54:45,094  X1:241 X2:480 Y1:358 Y2:420
+You know, instead
+ofwasting your time
+
+1045
+00:54:45,173 --> 00:54:46,162  X1:258 X2:462 Y1:390 Y2:419
+interrogating me,
+
+1046
+00:54:47,501 --> 00:54:48,297  X1:225 X2:495 Y1:390 Y2:414
+we should be out there
+
+1047
+00:54:48,368 --> 00:54:49,528  X1:249 X2:471 Y1:358 Y2:414
+trying to fiigure out
+who did this.
+
+1048
+00:54:49,603 --> 00:54:51,798  X1:301 X2:419 Y1:390 Y2:419
+OK, Tracy.
+
+1049
+00:54:51,872 --> 00:54:53,499  X1:216 X2:503 Y1:390 Y2:420
+Who doyou think did it?
+
+1050
+00:54:53,573 --> 00:54:55,473  X1:182 X2:538 Y1:390 Y2:420
+Whom should we interrogate?
+
+1051
+00:54:55,542 --> 00:54:57,271  X1:250 X2:468 Y1:390 Y2:417
+Well, I don't know.
+
+1052
+00:54:57,344 --> 00:54:58,777  X1:247 X2:473 Y1:358 Y2:420
+You know, it could
+have been anybody.
+
+1053
+00:54:58,845 --> 00:55:01,245  X1:210 X2:510 Y1:358 Y2:417
+There's a lot ofsubversive
+elements here at Carver,
+
+1054
+00:55:01,315 --> 00:55:04,944  X1:172 X2:549 Y1:358 Y2:420
+like RickThiessen or
+Kevin Speck and those burnouts.
+
+1055
+00:55:05,018 --> 00:55:06,110  X1:176 X2:545 Y1:390 Y2:420
+Orwhat about Tammy Metzler?
+
+1056
+00:55:06,186 --> 00:55:07,153  X1:223 X2:497 Y1:390 Y2:420
+I mean, herwhole thing
+
+1057
+00:55:07,220 --> 00:55:09,484  X1:182 X2:539 Y1:390 Y2:420
+is being anti-this and anti-that.
+
+1058
+00:55:10,991 --> 00:55:14,188  X1:237 X2:482 Y1:358 Y2:419
+Tracy, you're
+a very intelligent girl.
+
+1059
+00:55:14,261 --> 00:55:17,162  X1:246 X2:474 Y1:358 Y2:420
+You have a lot of
+admirable qualities.
+
+1060
+00:55:17,230 --> 00:55:19,130  X1:185 X2:536 Y1:390 Y2:420
+But one day maybeyou'll learn
+
+1061
+00:55:19,199 --> 00:55:20,257  X1:263 X2:457 Y1:390 Y2:420
+that being smart
+
+1062
+00:55:20,334 --> 00:55:22,962  X1:221 X2:499 Y1:358 Y2:420
+and doing whateveryou
+need to do to get ahead
+
+1063
+00:55:23,036 --> 00:55:24,628  X1:257 X2:463 Y1:358 Y2:420
+and, yes, stepping
+on other people
+
+1064
+00:55:24,705 --> 00:55:26,002  X1:287 X2:432 Y1:390 Y2:420
+to get there,
+
+1065
+00:55:26,073 --> 00:55:29,804  X1:222 X2:498 Y1:358 Y2:414
+well, there's a whole lot
+more to life than that.
+
+1066
+00:55:29,876 --> 00:55:32,504  X1:228 X2:491 Y1:358 Y2:420
+And, in the end, you're
+only cheating yourself.
+
+1067
+00:55:33,714 --> 00:55:35,909  X1:203 X2:516 Y1:390 Y2:420
+Why areyou lecturing me?
+
+1068
+00:55:35,983 --> 00:55:40,579  X1:227 X2:492 Y1:358 Y2:420
+This isn't the time or
+the place to get into it.
+
+1069
+00:55:40,654 --> 00:55:42,952  X1:239 X2:481 Y1:358 Y2:420
+But there is,
+forjust one example,
+
+1070
+00:55:43,023 --> 00:55:45,014  X1:160 X2:561 Y1:390 Y2:420
+a certain former colleague ofmine
+
+1071
+00:55:45,092 --> 00:55:48,789  X1:188 X2:530 Y1:358 Y2:414
+who made a very big mistake,
+a life mistake.
+
+1072
+00:55:48,862 --> 00:55:50,295  X1:229 X2:490 Y1:358 Y2:417
+Now, I think
+the lesson here is that,
+
+1073
+00:55:50,364 --> 00:55:54,095  X1:233 X2:486 Y1:358 Y2:414
+old oryoung,
+we all make mistakes.
+
+1074
+00:55:54,167 --> 00:55:56,032  X1:237 X2:482 Y1:358 Y2:417
+And we have to learn
+that our actions,
+
+1075
+00:55:56,103 --> 00:56:01,200  X1:230 X2:490 Y1:358 Y2:420
+all ofthem, can carry
+serious consequences.
+
+1076
+00:56:01,274 --> 00:56:04,539  X1:218 X2:501 Y1:358 Y2:420
+Mm-hmm. I don't know
+whatyou're referring to,
+
+1077
+00:56:04,611 --> 00:56:07,307  X1:245 X2:476 Y1:358 Y2:420
+but maybe ifcertain
+older, wiser people
+
+1078
+00:56:07,381 --> 00:56:09,372  X1:163 X2:557 Y1:390 Y2:414
+hadn't acted like such little babies
+
+1079
+00:56:09,449 --> 00:56:10,609  X1:236 X2:484 Y1:390 Y2:420
+and gotten so mushy,
+
+1080
+00:56:10,684 --> 00:56:12,709  X1:187 X2:533 Y1:390 Y2:420
+then everything would be OK.
+
+1081
+00:56:12,786 --> 00:56:15,277  X1:227 X2:496 Y1:390 Y2:420
+I agree, and I also think
+
+1082
+00:56:15,355 --> 00:56:17,186  X1:152 X2:569 Y1:390 Y2:420
+that certain young and naive people
+
+1083
+00:56:17,257 --> 00:56:19,248  X1:185 X2:536 Y1:390 Y2:420
+need to thank their lucky stars
+
+1084
+00:56:19,326 --> 00:56:21,089  X1:215 X2:504 Y1:390 Y2:420
+and be very, very grateful
+
+1085
+00:56:21,161 --> 00:56:23,322  X1:176 X2:545 Y1:390 Y2:414
+the entire school didn't fiind out
+
+1086
+00:56:23,397 --> 00:56:24,796  X1:204 X2:516 Y1:390 Y2:414
+about certain indiscretions
+
+1087
+00:56:24,865 --> 00:56:27,333  X1:243 X2:476 Y1:358 Y2:420
+that could've ruined
+their reputations
+
+1088
+00:56:27,401 --> 00:56:30,461  X1:220 X2:499 Y1:358 Y2:414
+and their chances
+to win certain elections.
+
+1089
+00:56:30,537 --> 00:56:32,402  X1:239 X2:480 Y1:358 Y2:420
+And I think
+certain older people,
+
+1090
+00:56:32,472 --> 00:56:34,406  X1:200 X2:521 Y1:390 Y2:420
+likeyou and your colleague,
+
+1091
+00:56:34,474 --> 00:56:36,408  X1:237 X2:483 Y1:358 Y2:417
+shouldn't be letching
+after their students,
+
+1092
+00:56:36,476 --> 00:56:37,465  X1:185 X2:533 Y1:390 Y2:420
+especiallywhen some ofthem
+
+1093
+00:56:37,544 --> 00:56:39,375  X1:209 X2:510 Y1:358 Y2:419
+can't even get
+their own wives pregnant,
+
+1094
+00:56:39,446 --> 00:56:41,175  X1:181 X2:539 Y1:390 Y2:420
+and they certainly shouldn't be
+
+1095
+00:56:41,248 --> 00:56:43,682  X1:177 X2:543 Y1:390 Y2:420
+making slanderous accusations,
+
+1096
+00:56:43,750 --> 00:56:45,911  X1:183 X2:536 Y1:358 Y2:420
+especiallywhen certain
+young, naive people's mothers
+
+1097
+00:56:45,986 --> 00:56:47,317  X1:218 X2:501 Y1:390 Y2:420
+are paralegal secretaries
+
+1098
+00:56:47,387 --> 00:56:48,581  X1:197 X2:522 Y1:390 Y2:420
+at the city's biggest law fiirm
+
+1099
+00:56:48,655 --> 00:56:50,953  X1:246 X2:476 Y1:358 Y2:414
+and have won many
+successful lawsuits.
+
+1100
+00:56:51,024 --> 00:56:53,492  X1:217 X2:502 Y1:358 Y2:420
+And ifyou want to keep
+questioning me like this,
+
+1101
+00:56:53,560 --> 00:56:56,688  X1:189 X2:529 Y1:358 Y2:419
+I won't continue
+without my attorney present.
+
+1102
+00:56:59,166 --> 00:57:00,531  X1:263 X2:457 Y1:390 Y2:418
+(Knock On Door)
+
+1103
+00:57:01,668 --> 00:57:03,898  X1:227 X2:491 Y1:358 Y2:414
+You wanted to see me,
+Mr. McAllister?
+
+1104
+00:57:03,970 --> 00:57:06,234  X1:210 X2:508 Y1:390 Y2:420
+Just wait outside, Tammy.
+
+1105
+00:57:06,306 --> 00:57:09,241  X1:251 X2:469 Y1:358 Y2:420
+OK, but is this
+about the posters?
+
+1106
+00:57:09,309 --> 00:57:11,937  X1:260 X2:458 Y1:358 Y2:420
+Possibly. Please,
+just wait outside.
+
+1107
+00:57:12,012 --> 00:57:15,277  X1:182 X2:538 Y1:390 Y2:417
+OK, because I know who did it.
+
+1108
+00:57:15,348 --> 00:57:18,181  X1:234 X2:485 Y1:390 Y2:420
+So, I'll just be outside.
+
+1109
+00:57:21,721 --> 00:57:23,052  X1:211 X2:510 Y1:390 Y2:420
+Don't go anywhere, Tracy.
+
+1110
+00:57:23,123 --> 00:57:25,318  X1:213 X2:506 Y1:390 Y2:420
+Tammy, come on in here.
+
+1111
+00:57:26,827 --> 00:57:29,091  X1:228 X2:491 Y1:390 Y2:420
+This ought to be good.
+
+1112
+00:57:31,965 --> 00:57:34,126  X1:238 X2:482 Y1:358 Y2:420
+So, what doyou have
+to tell me, Tammy?
+
+1113
+00:57:34,201 --> 00:57:36,533  X1:219 X2:500 Y1:390 Y2:417
+Well, this is hard for me,
+
+1114
+00:57:36,603 --> 00:57:38,730  X1:223 X2:498 Y1:358 Y2:420
+but I think it's
+important to be honest,
+
+1115
+00:57:38,805 --> 00:57:39,931  X1:299 X2:421 Y1:390 Y2:420
+don'tyou?
+
+1116
+00:57:40,006 --> 00:57:41,735  X1:214 X2:506 Y1:390 Y2:420
+Yeah. What is it, Tammy?
+
+1117
+00:57:41,808 --> 00:57:46,939  X1:185 X2:533 Y1:358 Y2:420
+I did it. I'm the one
+who tore down Paul's posters.
+
+1118
+00:57:47,013 --> 00:57:49,481  X1:321 X2:400 Y1:390 Y2:414
+I did it.
+
+1119
+00:57:49,549 --> 00:57:50,948  X1:243 X2:477 Y1:390 Y2:420
+When did you do it?
+
+1120
+00:57:51,017 --> 00:57:53,747  X1:251 X2:468 Y1:358 Y2:420
+I don't know--
+Yesterday, Sunday.
+
+1121
+00:57:53,820 --> 00:57:56,345  X1:182 X2:541 Y1:390 Y2:420
+How'd you get into the school?
+
+1122
+00:57:57,691 --> 00:57:59,056  X1:272 X2:450 Y1:390 Y2:419
+Doorwas open.
+
+1123
+00:57:59,126 --> 00:58:00,957  X1:284 X2:435 Y1:390 Y2:414
+Which door?
+
+1124
+00:58:01,027 --> 00:58:03,655  X1:246 X2:473 Y1:358 Y2:414
+I don't know.
+All I know is I did it.
+
+1125
+00:58:03,730 --> 00:58:05,664  X1:217 X2:502 Y1:390 Y2:420
+Well, I don't believeyou.
+
+1126
+00:58:05,732 --> 00:58:07,393  X1:289 X2:431 Y1:390 Y2:420
+I have proof.
+
+1127
+00:58:20,180 --> 00:58:23,616  X1:251 X2:469 Y1:390 Y2:419
+[ding]Aaah-a-a-aaah [ding]
+
+1128
+00:58:23,683 --> 00:58:27,517  X1:245 X2:476 Y1:390 Y2:419
+[ding]Aaah-a-a-aaaah [ding]
+
+1129
+00:58:28,622 --> 00:58:31,216  X1:233 X2:487 Y1:390 Y2:419
+[ding]Aaah-a-a-a-aaaah [ding]
+
+1130
+00:58:34,127 --> 00:58:35,059  X1:321 X2:398 Y1:390 Y2:419
+Tracy?
+
+1131
+00:58:35,128 --> 00:58:36,561  X1:333 X2:387 Y1:390 Y2:413
+Yes?
+
+1132
+00:58:36,630 --> 00:58:38,655  X1:171 X2:551 Y1:390 Y2:420
+Looks like today's your lucky day.
+
+1133
+00:58:38,732 --> 00:58:39,994  X1:245 X2:474 Y1:390 Y2:414
+You're offthe hook.
+
+1134
+00:58:40,066 --> 00:58:42,830  X1:200 X2:519 Y1:390 Y2:420
+Tammy here has confessed.
+
+1135
+00:58:53,547 --> 00:58:56,243  X1:303 X2:417 Y1:390 Y2:420
+I told you.
+
+1136
+00:58:56,316 --> 00:58:57,374  X1:303 X2:417 Y1:390 Y2:420
+I told you.
+
+1137
+00:58:57,450 --> 00:58:59,577  X1:175 X2:543 Y1:390 Y2:420
+You're gonna pay for my poster!
+
+1138
+00:58:59,653 --> 00:59:00,779  X1:245 X2:474 Y1:390 Y2:419
+OK, easy, now, now,
+
+1139
+00:59:00,854 --> 00:59:01,786  X1:222 X2:498 Y1:390 Y2:420
+quit whileyou're ahead,
+
+1140
+00:59:01,855 --> 00:59:03,379  X1:271 X2:449 Y1:358 Y2:420
+will you, Tracy?
+Just run along.
+
+1141
+00:59:03,456 --> 00:59:04,923  X1:285 X2:437 Y1:390 Y2:414
+Back to class.
+
+1142
+00:59:04,991 --> 00:59:07,186  X1:221 X2:499 Y1:358 Y2:420
+Jim: The rest of
+the daywas unbearable.
+
+1143
+00:59:07,260 --> 00:59:10,696  X1:188 X2:532 Y1:358 Y2:420
+I kept smelling Linda
+on my clothes and my fiingers,
+
+1144
+00:59:10,764 --> 00:59:13,392  X1:228 X2:492 Y1:358 Y2:420
+and I just couldn't wait
+to get out ofthere.
+
+1145
+00:59:15,635 --> 00:59:17,933  X1:167 X2:554 Y1:390 Y2:420
+I wanted everything to be perfect
+
+1146
+00:59:18,004 --> 00:59:19,528  X1:198 X2:522 Y1:390 Y2:414
+that afternoon at the motel.
+
+1147
+00:59:19,606 --> 00:59:21,039  X1:206 X2:518 Y1:390 Y2:420
+So I decided to give myself
+
+1148
+00:59:21,107 --> 00:59:23,439  X1:229 X2:492 Y1:358 Y2:420
+a little time to prepare
+during eighth period.
+
+1149
+00:59:23,510 --> 00:59:25,171  X1:244 X2:478 Y1:390 Y2:420
+Pop quiz, everybody.
+
+1150
+00:59:25,245 --> 00:59:26,735  X1:280 X2:440 Y1:390 Y2:418
+(Class Groans)
+
+1151
+00:59:26,813 --> 00:59:29,281  X1:234 X2:486 Y1:358 Y2:420
+Putyour stuffaway.
+Come on, no whining.
+
+1152
+00:59:29,349 --> 00:59:31,442  X1:201 X2:520 Y1:358 Y2:420
+Ifyou've doneyour reading,
+this should be an easy one.
+
+1153
+00:59:33,253 --> 00:59:35,278  X1:176 X2:543 Y1:390 Y2:420
+Jim: I'd have exactly 48 minutes
+
+1154
+00:59:35,355 --> 00:59:36,447  X1:186 X2:534 Y1:390 Y2:420
+to make all the arrangements.
+
+1155
+00:59:36,523 --> 00:59:37,717  X1:260 X2:460 Y1:358 Y2:420
+Ifyou fiinish early,
+just sit quietly
+
+1156
+00:59:37,791 --> 00:59:40,487  X1:236 X2:483 Y1:358 Y2:420
+and checkyourwork.
+I'll be right back.
+
+1157
+01:00:47,193 --> 01:00:48,956  X1:275 X2:445 Y1:390 Y2:418
+(Tires Screech)
+
+1158
+01:00:58,471 --> 01:01:00,996  X1:261 X2:461 Y1:358 Y2:414
+OK, everybody.
+Pass 'em forward.
+
+1159
+01:01:01,074 --> 01:01:03,565  X1:236 X2:482 Y1:358 Y2:420
+Stephanie, put
+your pen down. Stop.
+
+1160
+01:01:03,643 --> 01:01:04,667  X1:296 X2:424 Y1:390 Y2:420
+(Bell Rings)
+
+1161
+01:01:04,744 --> 01:01:06,609  X1:255 X2:465 Y1:358 Y2:420
+All right, seeyou
+all on Wednesday.
+
+1162
+01:01:06,680 --> 01:01:08,511  X1:181 X2:540 Y1:390 Y2:420
+Don't forget to vote tomorrow.
+
+1163
+01:01:31,771 --> 01:01:33,068  X1:267 X2:453 Y1:390 Y2:420
+(Doorbell Rings)
+
+1164
+01:01:38,311 --> 01:01:40,472  X1:302 X2:417 Y1:390 Y2:418
+(Whistles)
+
+1165
+01:01:40,547 --> 01:01:42,981  X1:267 X2:453 Y1:390 Y2:420
+(Doorbell Rings)
+
+1166
+01:01:48,988 --> 01:01:50,888  X1:327 X2:395 Y1:390 Y2:414
+Linda.
+
+1167
+01:01:53,259 --> 01:01:55,056  X1:327 X2:395 Y1:390 Y2:414
+Linda.
+
+1168
+01:01:59,199 --> 01:02:01,599  X1:327 X2:395 Y1:390 Y2:414
+Linda!
+
+1169
+01:02:10,176 --> 01:02:11,803  X1:327 X2:395 Y1:390 Y2:414
+Linda!
+
+1170
+01:02:13,113 --> 01:02:15,206  X1:327 X2:395 Y1:390 Y2:414
+Linda.
+
+1171
+01:02:19,285 --> 01:02:20,252  X1:289 X2:431 Y1:390 Y2:418
+(Bee Buzzes)
+
+1172
+01:02:22,422 --> 01:02:24,652  X1:337 X2:383 Y1:390 Y2:413
+Ow!
+
+1173
+01:02:25,759 --> 01:02:30,162  X1:301 X2:418 Y1:390 Y2:419
+Ow.Jesus.
+
+1174
+01:02:30,230 --> 01:02:33,149  X1:308 X2:411 Y1:390 Y2:417
+Oh, fuck.
+
+1175
+01:02:41,224 --> 01:02:42,851  X1:170 X2:551 Y1:358 Y2:420
+Linda On Machine:
+Hi. You've reached the Novotnys.
+
+1176
+01:02:42,926 --> 01:02:44,894  X1:195 X2:523 Y1:358 Y2:420
+We're not around, but
+we'll call you back real soon.
+
+1177
+01:02:44,961 --> 01:02:46,952  X1:270 X2:452 Y1:358 Y2:420
+Have a nice day.
+(Beep)
+
+1178
+01:02:47,030 --> 01:02:49,396  X1:254 X2:468 Y1:390 Y2:420
+Hey, Linda, it's me.
+
+1179
+01:02:49,466 --> 01:02:50,933  X1:225 X2:494 Y1:390 Y2:420
+Areyou there? Pick up.
+
+1180
+01:02:51,000 --> 01:02:55,801  X1:267 X2:454 Y1:358 Y2:417
+Um, OK, well,
+it's, uh, it's 4:32,
+
+1181
+01:02:55,872 --> 01:03:01,139  X1:209 X2:511 Y1:358 Y2:417
+and, uh, I came by at 3:25,
+like we said,
+
+1182
+01:03:01,211 --> 01:03:04,271  X1:265 X2:455 Y1:358 Y2:417
+and, uh, I waited
+there, but, um,
+
+1183
+01:03:04,347 --> 01:03:08,010  X1:190 X2:530 Y1:390 Y2:420
+you weren't there, so, so now
+
+1184
+01:03:08,084 --> 01:03:11,053  X1:236 X2:483 Y1:358 Y2:417
+I'm at--at the place
+that we talked about,
+
+1185
+01:03:11,121 --> 01:03:14,147  X1:301 X2:418 Y1:390 Y2:416
+suite 246,
+
+1186
+01:03:14,224 --> 01:03:18,923  X1:251 X2:470 Y1:358 Y2:420
+and I'm here.
+Everything's all set,
+
+1187
+01:03:18,995 --> 01:03:22,453  X1:180 X2:539 Y1:390 Y2:420
+so, uh, hopeyou get here soon.
+
+1188
+01:03:22,532 --> 01:03:24,830  X1:286 X2:434 Y1:390 Y2:420
+OK. Bye-bye.
+
+1189
+01:03:30,540 --> 01:03:33,566  X1:262 X2:458 Y1:358 Y2:420
+I don't get it.
+I just don't get it.
+
+1190
+01:03:33,643 --> 01:03:36,111  X1:228 X2:492 Y1:358 Y2:420
+Whatyou have against
+your mother and me,
+
+1191
+01:03:36,179 --> 01:03:39,706  X1:210 X2:509 Y1:358 Y2:420
+againstyour brother Paul,
+is completely beyond me.
+
+1192
+01:03:39,783 --> 01:03:41,751  X1:176 X2:542 Y1:390 Y2:420
+Your mother's extremely upset,
+
+1193
+01:03:41,818 --> 01:03:43,752  X1:199 X2:520 Y1:390 Y2:420
+she's at the end ofher rope.
+
+1194
+01:03:43,820 --> 01:03:46,380  X1:208 X2:513 Y1:358 Y2:420
+Your behavior keeps
+getting crazier and crazier
+
+1195
+01:03:46,456 --> 01:03:48,321  X1:232 X2:488 Y1:390 Y2:414
+and wilder and wilder.
+
+1196
+01:03:48,391 --> 01:03:50,120  X1:185 X2:534 Y1:358 Y2:420
+Who knows what the hell else
+you're doing out there
+
+1197
+01:03:50,193 --> 01:03:53,128  X1:177 X2:543 Y1:390 Y2:414
+that we don't even know about.
+
+1198
+01:03:53,196 --> 01:03:55,357  X1:174 X2:545 Y1:390 Y2:420
+Wejust had a long conversation
+
+1199
+01:03:55,431 --> 01:03:57,331  X1:237 X2:482 Y1:390 Y2:414
+with Walt Hendricks.
+
+1200
+01:03:57,400 --> 01:04:00,392  X1:233 X2:487 Y1:358 Y2:414
+Just got offthe phone
+with him at his home.
+
+1201
+01:04:00,470 --> 01:04:02,665  X1:217 X2:501 Y1:358 Y2:420
+You know he doesn't
+wantyou back at Carver.
+
+1202
+01:04:02,739 --> 01:04:05,902  X1:241 X2:480 Y1:358 Y2:420
+He's fed up with you.
+Fed up,
+
+1203
+01:04:05,975 --> 01:04:06,907  X1:230 X2:489 Y1:390 Y2:414
+and I don't blame him.
+
+1204
+01:04:06,976 --> 01:04:09,206  X1:290 X2:430 Y1:358 Y2:414
+- Dick, Dick.
+- What?
+
+1205
+01:04:09,279 --> 01:04:10,644  X1:214 X2:502 Y1:390 Y2:420
+Tammy, your father and I
+
+1206
+01:04:10,713 --> 01:04:11,645  X1:255 X2:465 Y1:390 Y2:420
+have been talking,
+
+1207
+01:04:11,714 --> 01:04:13,579  X1:245 X2:476 Y1:358 Y2:414
+and we've come to
+a decision that we--
+
+1208
+01:04:13,650 --> 01:04:15,982  X1:236 X2:484 Y1:358 Y2:413
+You're going
+to Immaculate Heart.
+
+1209
+01:04:16,052 --> 01:04:17,917  X1:214 X2:505 Y1:390 Y2:420
+That's whereyou belong.
+
+1210
+01:04:17,987 --> 01:04:21,684  X1:201 X2:522 Y1:358 Y2:420
+Maybe the nuns will be able
+to straighten you out.
+
+1211
+01:04:21,758 --> 01:04:24,818  X1:241 X2:478 Y1:358 Y2:420
+Is that funny?
+You think it's funny?
+
+1212
+01:05:14,811 --> 01:05:16,278  X1:265 X2:454 Y1:390 Y2:420
+(Baby Coughing)
+
+1213
+01:05:17,981 --> 01:05:20,882  X1:311 X2:408 Y1:390 Y2:420
+(Cooing)
+
+1214
+01:05:31,160 --> 01:05:33,094  X1:289 X2:431 Y1:390 Y2:420
+(Soft Crying)
+
+1215
+01:05:55,952 --> 01:05:57,817  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+1216
+01:06:48,771 --> 01:06:50,329  X1:228 X2:491 Y1:390 Y2:420
+Tracy: Dear LordJesus,
+
+1217
+01:06:50,406 --> 01:06:53,102  X1:191 X2:530 Y1:358 Y2:420
+I do not often speakwith You
+and ask for things,
+
+1218
+01:06:53,176 --> 01:06:54,803  X1:205 X2:516 Y1:390 Y2:420
+but now I really must insist
+
+1219
+01:06:54,877 --> 01:06:56,777  X1:200 X2:519 Y1:358 Y2:417
+that You help me
+win the election tomorrow,
+
+1220
+01:06:56,846 --> 01:06:59,280  X1:213 X2:506 Y1:358 Y2:417
+because I deserve it
+and Paul Metzler doesn't,
+
+1221
+01:06:59,349 --> 01:07:01,317  X1:257 X2:462 Y1:390 Y2:414
+as You well know.
+
+1222
+01:07:01,384 --> 01:07:03,215  X1:227 X2:494 Y1:358 Y2:414
+I realize that
+it was Your divine hand
+
+1223
+01:07:03,286 --> 01:07:04,844  X1:169 X2:551 Y1:390 Y2:420
+that disqualifiied Tammy Metzler,
+
+1224
+01:07:04,921 --> 01:07:07,822  X1:188 X2:532 Y1:358 Y2:420
+and now I'm asking
+that You go that one last mile
+
+1225
+01:07:07,890 --> 01:07:10,415  X1:215 X2:505 Y1:358 Y2:420
+and make sure to put me
+in offiice where I belong
+
+1226
+01:07:10,493 --> 01:07:12,427  X1:231 X2:490 Y1:358 Y2:414
+so that I may carry out
+Yourwill on Earth
+
+1227
+01:07:12,495 --> 01:07:15,589  X1:222 X2:498 Y1:390 Y2:414
+as it is in heaven. Amen.
+
+1228
+01:07:15,665 --> 01:07:16,757  X1:252 X2:467 Y1:390 Y2:420
+Tammy: Dear God,
+
+1229
+01:07:16,833 --> 01:07:18,323  X1:194 X2:526 Y1:390 Y2:417
+I know I don't believe in You,
+
+1230
+01:07:18,401 --> 01:07:20,164  X1:225 X2:496 Y1:358 Y2:417
+but since I'll be starting
+Catholic school soon,
+
+1231
+01:07:20,236 --> 01:07:22,295  X1:257 X2:463 Y1:358 Y2:420
+I thought I should
+at least practice.
+
+1232
+01:07:22,372 --> 01:07:24,863  X1:214 X2:509 Y1:390 Y2:417
+Let's see, what do I want?
+
+1233
+01:07:24,941 --> 01:07:27,375  X1:243 X2:479 Y1:358 Y2:414
+I want Lisa to realize
+what a bitch she is
+
+1234
+01:07:27,443 --> 01:07:29,240  X1:172 X2:550 Y1:390 Y2:420
+and feel really bad and apologize
+
+1235
+01:07:29,312 --> 01:07:30,540  X1:243 X2:478 Y1:390 Y2:414
+for how she hurt me
+
+1236
+01:07:30,613 --> 01:07:32,672  X1:239 X2:480 Y1:358 Y2:414
+and know how much
+I still love her.
+
+1237
+01:07:32,749 --> 01:07:35,274  X1:235 X2:485 Y1:358 Y2:414
+In spite ofeverything,
+I still want Paul
+
+1238
+01:07:35,351 --> 01:07:36,409  X1:185 X2:534 Y1:390 Y2:417
+to win the election tomorrow,
+
+1239
+01:07:36,486 --> 01:07:39,922  X1:247 X2:474 Y1:358 Y2:417
+not that cunt Tracy.
+Oh, and I also want
+
+1240
+01:07:39,989 --> 01:07:41,980  X1:241 X2:479 Y1:358 Y2:420
+a really expensive
+pair ofleather pants,
+
+1241
+01:07:42,058 --> 01:07:43,525  X1:212 X2:509 Y1:390 Y2:420
+and someday I want to be
+
+1242
+01:07:43,593 --> 01:07:47,723  X1:189 X2:529 Y1:358 Y2:420
+really good friends
+with Madonna. Love, Tammy.
+
+1243
+01:07:47,797 --> 01:07:49,424  X1:211 X2:511 Y1:390 Y2:417
+Paul: Dear God, thankYou
+
+1244
+01:07:49,499 --> 01:07:50,727  X1:237 X2:482 Y1:390 Y2:420
+for all Your blessings.
+
+1245
+01:07:50,800 --> 01:07:52,290  X1:171 X2:547 Y1:390 Y2:420
+You've given me so many things,
+
+1246
+01:07:52,368 --> 01:07:55,929  X1:212 X2:508 Y1:358 Y2:420
+like good health,
+nice parents, a nice truck,
+
+1247
+01:07:56,005 --> 01:07:57,939  X1:258 X2:461 Y1:358 Y2:420
+and what I'm told
+is a large penis,
+
+1248
+01:07:58,007 --> 01:07:59,702  X1:238 X2:482 Y1:390 Y2:420
+and I'm very grateful.
+
+1249
+01:07:59,776 --> 01:08:01,903  X1:237 X2:485 Y1:358 Y2:420
+But I sure am worried
+about Tammy.
+
+1250
+01:08:01,978 --> 01:08:03,707  X1:257 X2:465 Y1:358 Y2:414
+In my heart
+I still can't believe
+
+1251
+01:08:03,780 --> 01:08:05,179  X1:207 X2:512 Y1:390 Y2:420
+she tore down my posters,
+
+1252
+01:08:05,248 --> 01:08:08,149  X1:220 X2:500 Y1:358 Y2:420
+but sometimes she does
+get so weird and angry.
+
+1253
+01:08:08,217 --> 01:08:10,617  X1:246 X2:474 Y1:358 Y2:420
+Please help her
+be a happier person
+
+1254
+01:08:10,686 --> 01:08:12,381  X1:232 X2:488 Y1:358 Y2:414
+because she's
+so smart and sensitive
+
+1255
+01:08:12,455 --> 01:08:14,480  X1:227 X2:493 Y1:390 Y2:414
+and I love her so much.
+
+1256
+01:08:14,557 --> 01:08:17,617  X1:191 X2:530 Y1:358 Y2:414
+Also, I'm nervous
+about the election tomorrow
+
+1257
+01:08:17,693 --> 01:08:19,752  X1:241 X2:479 Y1:358 Y2:417
+and I guess
+I want to win and all,
+
+1258
+01:08:19,829 --> 01:08:22,093  X1:261 X2:459 Y1:358 Y2:420
+but I know that's
+totally up to You.
+
+1259
+01:08:22,165 --> 01:08:24,065  X1:228 X2:490 Y1:358 Y2:420
+You'll decide
+who the best person is
+
+1260
+01:08:24,133 --> 01:08:27,364  X1:205 X2:514 Y1:358 Y2:420
+and I'll accept it,
+and forgive me for my sins,
+
+1261
+01:08:27,437 --> 01:08:30,929  X1:188 X2:531 Y1:390 Y2:420
+whatever they may be. Amen.
+
+1262
+01:08:36,846 --> 01:08:39,178  X1:228 X2:492 Y1:358 Y2:420
+Jim: Linda never
+came home that night.
+
+1263
+01:08:39,248 --> 01:08:42,081  X1:266 X2:454 Y1:358 Y2:420
+I know, because
+I spent 1 0 hours
+
+1264
+01:08:42,151 --> 01:08:44,415  X1:205 X2:513 Y1:390 Y2:420
+waiting outside her house.
+
+1265
+01:08:44,487 --> 01:08:47,422  X1:299 X2:421 Y1:390 Y2:420
+(Groaning)
+
+1266
+01:08:59,335 --> 01:09:01,132  X1:309 X2:410 Y1:390 Y2:417
+Oh, God.
+
+1267
+01:09:32,668 --> 01:09:34,158  X1:227 X2:491 Y1:390 Y2:420
+Tracy: On election day,
+
+1268
+01:09:34,237 --> 01:09:36,000  X1:169 X2:552 Y1:390 Y2:420
+my mom and I got up really early,
+
+1269
+01:09:36,072 --> 01:09:39,769  X1:206 X2:514 Y1:358 Y2:420
+and togetherwe
+customized 480 cupcakes.
+
+1270
+01:09:45,681 --> 01:09:47,581  X1:231 X2:488 Y1:390 Y2:420
+Good morning, Mr. M.
+
+1271
+01:09:51,320 --> 01:09:54,084  X1:244 X2:478 Y1:358 Y2:420
+Looks likeyou could
+use a cupcake.
+
+1272
+01:10:02,198 --> 01:10:03,859  X1:170 X2:553 Y1:390 Y2:420
+Hey, what happened toyour eye?
+
+1273
+01:10:08,704 --> 01:10:10,137  X1:286 X2:433 Y1:390 Y2:419
+Areyou OK?
+
+1274
+01:10:10,239 --> 01:10:11,228  X1:268 X2:452 Y1:390 Y2:417
+'' Mr. McAllister,
+
+1275
+01:10:12,561 --> 01:10:14,791  X1:212 X2:511 Y1:358 Y2:420
+Mr. McAllister, somebody
+tore down my posters.
+
+1276
+01:10:14,863 --> 01:10:17,127  X1:227 X2:493 Y1:390 Y2:417
+It's not fair, it's not fair.
+
+1277
+01:10:17,199 --> 01:10:20,168  X1:181 X2:539 Y1:358 Y2:414
+Can I have an 'A'?
+Can I have a recommendation?
+
+1278
+01:10:20,235 --> 01:10:22,362  X1:286 X2:434 Y1:390 Y2:416
+Can I, can I?''
+
+1279
+01:10:22,437 --> 01:10:24,428  X1:297 X2:425 Y1:390 Y2:414
+Fuck them.
+
+1280
+01:10:41,957 --> 01:10:45,415  X1:326 X2:393 Y1:390 Y2:420
+(Ring)
+
+1281
+01:10:45,494 --> 01:10:47,086  X1:170 X2:551 Y1:358 Y2:420
+Linda On Machine:
+Hi. You've reached the Novotnys.
+
+1282
+01:10:47,162 --> 01:10:49,153  X1:200 X2:517 Y1:358 Y2:420
+We're not around, but we'll
+call you back real soon.
+
+1283
+01:10:49,231 --> 01:10:51,529  X1:270 X2:452 Y1:358 Y2:420
+Have a nice day.
+(Beep)
+
+1284
+01:10:51,600 --> 01:10:55,297  X1:216 X2:504 Y1:358 Y2:420
+Why did you do that?
+I trusted you completely.
+
+1285
+01:10:55,370 --> 01:10:57,361  X1:225 X2:493 Y1:358 Y2:420
+And you ruined my life,
+doyou know that?
+
+1286
+01:10:57,439 --> 01:11:00,408  X1:247 X2:476 Y1:358 Y2:420
+Doyou realize that?
+Huh? Doyou?
+
+1287
+01:11:00,475 --> 01:11:02,841  X1:219 X2:501 Y1:358 Y2:420
+You ruined Diane's life--
+You ruined my life,
+
+1288
+01:11:02,911 --> 01:11:05,641  X1:216 X2:505 Y1:390 Y2:420
+is that whatyou wanted?
+
+1289
+01:11:05,714 --> 01:11:09,912  X1:192 X2:528 Y1:358 Y2:419
+I'm sorry--I'm sorry,
+I'm just--I'm going nuts here,
+
+1290
+01:11:09,985 --> 01:11:13,284  X1:173 X2:546 Y1:390 Y2:420
+and I really thinkwe should talk.
+
+1291
+01:11:13,355 --> 01:11:16,882  X1:257 X2:463 Y1:390 Y2:420
+It'sJim. I loveyou.
+
+1292
+01:11:23,432 --> 01:11:25,161  X1:240 X2:479 Y1:390 Y2:419
+Attention, everyone.
+
+1293
+01:11:25,233 --> 01:11:26,700  X1:138 X2:581 Y1:390 Y2:420
+We have an important announcement
+
+1294
+01:11:26,768 --> 01:11:30,067  X1:252 X2:468 Y1:358 Y2:414
+from our principal,
+Dr. Hendricks.
+
+1295
+01:11:30,138 --> 01:11:32,299  X1:309 X2:410 Y1:390 Y2:420
+(Coughs)
+
+1296
+01:11:32,374 --> 01:11:34,706  X1:216 X2:504 Y1:390 Y2:420
+Good morning, students.
+
+1297
+01:11:34,776 --> 01:11:37,540  X1:166 X2:554 Y1:390 Y2:420
+It, uh, behooves me to inform you
+
+1298
+01:11:37,612 --> 01:11:39,705  X1:224 X2:497 Y1:358 Y2:420
+ofan important change
+in today's election.
+
+1299
+01:11:39,781 --> 01:11:42,113  X1:199 X2:522 Y1:358 Y2:420
+Effective this morning
+sophomore Tammy Metzler
+
+1300
+01:11:42,184 --> 01:11:44,049  X1:197 X2:524 Y1:390 Y2:414
+has been-- Metzler has been
+
+1301
+01:11:44,119 --> 01:11:46,644  X1:231 X2:488 Y1:358 Y2:420
+determined ineligible,
+I repeat, ineligible
+
+1302
+01:11:46,721 --> 01:11:48,313  X1:245 X2:475 Y1:390 Y2:420
+for S.G.A. president.
+
+1303
+01:11:48,390 --> 01:11:50,153  X1:242 X2:477 Y1:358 Y2:420
+All other candidates
+are eligible.
+
+1304
+01:11:50,225 --> 01:11:53,422  X1:238 X2:481 Y1:358 Y2:420
+You may, uh,
+vote for any ofthose,
+
+1305
+01:11:53,495 --> 01:11:55,588  X1:221 X2:500 Y1:390 Y2:420
+but not Tammy Metzler.
+
+1306
+01:11:56,965 --> 01:11:58,990  X1:226 X2:493 Y1:358 Y2:417
+Tracy: When the time
+came to cast ourvotes,
+
+1307
+01:11:59,067 --> 01:12:01,365  X1:229 X2:490 Y1:358 Y2:420
+I stood in line
+just like everyone else.
+
+1308
+01:12:01,436 --> 01:12:02,368  X1:308 X2:413 Y1:390 Y2:419
+Hi, Tracy.
+
+1309
+01:12:02,437 --> 01:12:04,302  X1:265 X2:453 Y1:390 Y2:420
+Tracy Enid Flick.
+
+1310
+01:12:04,372 --> 01:12:05,396  X1:319 X2:402 Y1:390 Y2:414
+I know.
+
+1311
+01:12:06,575 --> 01:12:08,372  X1:296 X2:423 Y1:390 Y2:420
+Thankyou.
+
+1312
+01:12:19,754 --> 01:12:21,312  X1:293 X2:430 Y1:390 Y2:420
+Ready, Phil?
+
+1313
+01:12:21,389 --> 01:12:22,651  X1:264 X2:457 Y1:390 Y2:420
+Phil: Yeah, ready.
+
+1314
+01:12:30,732 --> 01:12:32,324  X1:286 X2:432 Y1:390 Y2:417
+Thanks, Phil.
+
+1315
+01:12:36,438 --> 01:12:38,201  X1:275 X2:444 Y1:390 Y2:420
+Oh, hey, Tracy.
+
+1316
+01:12:38,273 --> 01:12:39,501  X1:315 X2:407 Y1:390 Y2:417
+Hi, Paul.
+
+1317
+01:12:39,574 --> 01:12:41,565  X1:255 X2:466 Y1:390 Y2:420
+Isn't this exciting?
+
+1318
+01:12:41,643 --> 01:12:42,735  X1:300 X2:422 Y1:390 Y2:414
+Mm-hmm.
+
+1319
+01:12:42,811 --> 01:12:45,302  X1:265 X2:453 Y1:390 Y2:420
+Well, good luck.
+
+1320
+01:12:45,380 --> 01:12:47,848  X1:229 X2:490 Y1:390 Y2:417
+Thanks, Paul. You, too.
+
+1321
+01:12:47,916 --> 01:12:50,316  X1:294 X2:425 Y1:390 Y2:417
+Oh, thanks!
+
+1322
+01:12:56,358 --> 01:12:58,019  X1:258 X2:463 Y1:390 Y2:414
+Paul: It's so weird.
+
+1323
+01:12:58,093 --> 01:13:00,493  X1:237 X2:486 Y1:358 Y2:414
+Do people alwaysjust
+vote for themselves?
+
+1324
+01:13:00,562 --> 01:13:03,588  X1:203 X2:519 Y1:358 Y2:420
+'Cause looking at
+my own name on the ballot
+
+1325
+01:13:03,665 --> 01:13:06,099  X1:248 X2:472 Y1:390 Y2:420
+I just...I don't know,
+
+1326
+01:13:06,168 --> 01:13:09,365  X1:212 X2:510 Y1:358 Y2:420
+I just felt like it's not right
+to vote foryourself.
+
+1327
+01:13:24,486 --> 01:13:26,113  X1:283 X2:437 Y1:390 Y2:420
+(Door Opens)
+
+1328
+01:13:27,622 --> 01:13:28,816  X1:299 X2:421 Y1:390 Y2:417
+Ok, Mr. M.
+
+1329
+01:13:30,058 --> 01:13:33,084  X1:282 X2:437 Y1:390 Y2:420
+All right. So...
+
+1330
+01:13:33,161 --> 01:13:34,594  X1:248 X2:472 Y1:390 Y2:420
+let's start counting.
+
+1331
+01:13:34,663 --> 01:13:38,121  X1:220 X2:499 Y1:358 Y2:417
+OK, well, as the election
+committee chairman,
+
+1332
+01:13:38,200 --> 01:13:39,258  X1:240 X2:480 Y1:390 Y2:414
+I'll do the fiirst count.
+
+1333
+01:13:39,334 --> 01:13:40,926  X1:239 X2:480 Y1:358 Y2:417
+And then you can do
+the second count,
+
+1334
+01:13:41,002 --> 01:13:42,469  X1:206 X2:513 Y1:358 Y2:420
+you know, for
+the 2 independent counts.
+
+1335
+01:13:42,537 --> 01:13:45,131  X1:229 X2:492 Y1:390 Y2:420
+Fine. So doyour count.
+
+1336
+01:13:45,207 --> 01:13:47,607  X1:239 X2:481 Y1:358 Y2:420
+Start with president,
+and I'll be right back.
+
+1337
+01:13:47,676 --> 01:13:50,668  X1:168 X2:550 Y1:390 Y2:420
+You have the key, Mr. McAllister.
+
+1338
+01:13:53,782 --> 01:13:56,216  X1:327 X2:394 Y1:390 Y2:420
+Right.
+
+1339
+01:14:08,863 --> 01:14:11,491  X1:197 X2:523 Y1:390 Y2:420
+Areyou OK, Mr. McAllister?
+
+1340
+01:14:11,566 --> 01:14:13,761  X1:158 X2:562 Y1:390 Y2:420
+Yeah. What happened toyour eye?
+
+1341
+01:14:13,835 --> 01:14:16,531  X1:250 X2:470 Y1:358 Y2:420
+I'm fiine!
+It'sjust a bee sting.
+
+1342
+01:14:16,605 --> 01:14:19,005  X1:249 X2:470 Y1:358 Y2:420
+A simple little
+everyday bee sting.
+
+1343
+01:14:19,074 --> 01:14:22,043  X1:199 X2:521 Y1:358 Y2:420
+Some people can get stung,
+it's no big deal.
+
+1344
+01:14:22,110 --> 01:14:24,135  X1:275 X2:446 Y1:390 Y2:420
+Me--I swell up.
+
+1345
+01:14:24,212 --> 01:14:26,806  X1:205 X2:515 Y1:358 Y2:420
+There's not much time left
+until eighth period.
+
+1346
+01:14:26,881 --> 01:14:29,441  X1:217 X2:502 Y1:358 Y2:420
+I have other things
+going on, too, you know.
+
+1347
+01:14:29,517 --> 01:14:33,681  X1:242 X2:477 Y1:390 Y2:414
+Yeah. OK. We know.
+
+1348
+01:14:33,755 --> 01:14:35,882  X1:264 X2:456 Y1:358 Y2:420
+All right.
+I'll be right back.
+
+1349
+01:14:39,828 --> 01:14:41,989  X1:170 X2:551 Y1:358 Y2:420
+Answering Machine:
+Hi. You've reached the Novotnys.
+
+1350
+01:14:42,063 --> 01:14:43,860  X1:200 X2:517 Y1:358 Y2:420
+We're not around, but we'll
+call you back real soon.
+
+1351
+01:14:43,932 --> 01:14:45,092  X1:270 X2:452 Y1:390 Y2:420
+Have a nice day.
+
+1352
+01:14:45,166 --> 01:14:46,463  X1:323 X2:396 Y1:390 Y2:420
+(Beep)
+
+1353
+01:14:46,534 --> 01:14:48,126  X1:262 X2:459 Y1:390 Y2:420
+Uh, it's me again.
+
+1354
+01:14:48,203 --> 01:14:51,434  X1:225 X2:494 Y1:358 Y2:420
+I'm sorry for all
+the messages, but, uh...
+
+1355
+01:14:51,506 --> 01:14:53,064  X1:243 X2:475 Y1:358 Y2:420
+Linda, ifI could
+just hearyourvoice.
+
+1356
+01:14:53,141 --> 01:14:55,109  X1:166 X2:555 Y1:390 Y2:420
+Ifyou'd only acknowledge that I--
+
+1357
+01:14:55,176 --> 01:14:56,108  X1:241 X2:479 Y1:390 Y2:420
+(Phone Is Picked Up)
+
+1358
+01:14:56,177 --> 01:14:57,109  X1:187 X2:536 Y1:390 Y2:420
+Linda: What doyou want,Jim?
+
+1359
+01:14:57,178 --> 01:14:58,770  X1:284 X2:435 Y1:390 Y2:414
+You're there.
+
+1360
+01:14:58,847 --> 01:15:02,180  X1:273 X2:445 Y1:390 Y2:417
+Yeah, I'm here.
+
+1361
+01:15:02,250 --> 01:15:03,182  X1:266 X2:456 Y1:390 Y2:420
+Linda, I loveyou.
+
+1362
+01:15:03,251 --> 01:15:04,218  X1:287 X2:433 Y1:390 Y2:420
+(Linda Sighs)
+
+1363
+01:15:04,286 --> 01:15:07,016  X1:228 X2:491 Y1:358 Y2:414
+Don't say that.
+You know it's not true.
+
+1364
+01:15:07,088 --> 01:15:09,249  X1:232 X2:489 Y1:358 Y2:420
+It's the only true thing
+I know anymore.
+
+1365
+01:15:09,324 --> 01:15:12,350  X1:224 X2:498 Y1:358 Y2:414
+We made a mistake.
+Let's not make it worse.
+
+1366
+01:15:12,427 --> 01:15:15,089  X1:237 X2:481 Y1:358 Y2:414
+A mistake?
+That was no mistake!
+
+1367
+01:15:15,163 --> 01:15:17,893  X1:240 X2:478 Y1:358 Y2:420
+I was lonely.
+You took advantage.
+
+1368
+01:15:17,966 --> 01:15:22,335  X1:189 X2:533 Y1:390 Y2:420
+Me?! I took advantage ofyou?
+
+1369
+01:15:22,404 --> 01:15:24,838  X1:175 X2:543 Y1:358 Y2:414
+You hugged me! You kissed me!
+You're the one who--
+
+1370
+01:15:24,906 --> 01:15:27,431  X1:261 X2:459 Y1:390 Y2:420
+(Linda Hangs Up)
+
+1371
+01:15:32,347 --> 01:15:34,008  X1:216 X2:506 Y1:390 Y2:420
+Hey, Mr. M, big day, huh?
+
+1372
+01:15:34,082 --> 01:15:35,947  X1:277 X2:445 Y1:390 Y2:417
+Not now, Paul.
+
+1373
+01:15:41,122 --> 01:15:42,054  X1:244 X2:476 Y1:390 Y2:420
+What haveyou got?
+
+1374
+01:15:42,123 --> 01:15:44,614  X1:185 X2:533 Y1:390 Y2:420
+Well, I'm not supposed to tell.
+
+1375
+01:15:44,693 --> 01:15:46,627  X1:188 X2:533 Y1:390 Y2:420
+Not until you've counted, too.
+
+1376
+01:15:46,695 --> 01:15:47,719  X1:184 X2:535 Y1:390 Y2:420
+We're each supposed to make
+
+1377
+01:15:47,796 --> 01:15:48,888  X1:228 X2:491 Y1:390 Y2:420
+an independent count.
+
+1378
+01:15:48,963 --> 01:15:50,362  X1:234 X2:486 Y1:390 Y2:420
+You're kidding, right?
+
+1379
+01:15:50,432 --> 01:15:52,127  X1:238 X2:481 Y1:358 Y2:417
+Well, I thought
+those were the rules,
+
+1380
+01:15:52,200 --> 01:15:53,132  X1:275 X2:446 Y1:390 Y2:414
+Mr. McAllister.
+
+1381
+01:15:53,201 --> 01:15:55,101  X1:255 X2:465 Y1:358 Y2:420
+Ifthey've changed
+in anyway, I can--
+
+1382
+01:15:55,170 --> 01:15:56,899  X1:221 X2:501 Y1:358 Y2:420
+Larry, we're not electing
+the fucking pope here.
+
+1383
+01:15:56,971 --> 01:15:58,734  X1:234 X2:484 Y1:390 Y2:420
+Just tell me who won.
+
+1384
+01:16:04,412 --> 01:16:05,879  X1:234 X2:487 Y1:390 Y2:420
+It's a squeaker, Mr. M.
+
+1385
+01:16:05,947 --> 01:16:08,916  X1:226 X2:495 Y1:390 Y2:420
+I've got Tracy by a vote.
+
+1386
+01:16:08,983 --> 01:16:10,416  X1:280 X2:438 Y1:390 Y2:419
+Just one vote.
+
+1387
+01:16:18,493 --> 01:16:19,960  X1:321 X2:402 Y1:390 Y2:413
+Mr. M?
+
+1388
+01:16:22,330 --> 01:16:23,354  X1:308 X2:410 Y1:390 Y2:420
+All right.
+
+1389
+01:16:25,266 --> 01:16:26,198  X1:338 X2:381 Y1:390 Y2:413
+OK.
+
+1390
+01:16:26,267 --> 01:16:30,931  X1:168 X2:551 Y1:390 Y2:420
+Well, guess I better do my count.
+
+1391
+01:17:27,571 --> 01:17:29,505  X1:336 X2:383 Y1:390 Y2:419
+Yay!
+
+1392
+01:17:29,573 --> 01:17:32,041  X1:336 X2:383 Y1:390 Y2:419
+Yay!
+
+1393
+01:17:36,680 --> 01:17:38,341  X1:336 X2:383 Y1:390 Y2:419
+Yay!
+
+1394
+01:17:41,752 --> 01:17:44,687  X1:196 X2:525 Y1:358 Y2:420
+Jim: I was at the end of
+my count when it happened.
+
+1395
+01:17:44,755 --> 01:17:48,691  X1:202 X2:518 Y1:358 Y2:420
+I'd come up with exactly
+the same numbers as Larry:
+
+1396
+01:17:48,759 --> 01:17:51,489  X1:291 X2:429 Y1:390 Y2:413
+256 to 257.
+
+1397
+01:17:51,562 --> 01:17:54,326  X1:202 X2:517 Y1:358 Y2:420
+Tracy had won the election
+by a single vote.
+
+1398
+01:17:55,833 --> 01:17:57,630  X1:322 X2:398 Y1:390 Y2:420
+(Sighs)
+
+1399
+01:17:57,701 --> 01:18:00,693  X1:219 X2:503 Y1:358 Y2:420
+I was about to announce
+my tallywhen...
+
+1400
+01:18:08,112 --> 01:18:11,741  X1:196 X2:524 Y1:358 Y2:414
+the sight ofTracy
+at that moment affected me
+
+1401
+01:18:11,815 --> 01:18:13,715  X1:201 X2:520 Y1:390 Y2:420
+in a way I can't fully explain.
+
+1402
+01:18:13,784 --> 01:18:16,981  X1:168 X2:553 Y1:390 Y2:420
+Part ofit was that she was spying.
+
+1403
+01:18:17,054 --> 01:18:20,182  X1:210 X2:511 Y1:390 Y2:420
+But mostly it was her face.
+
+1404
+01:18:23,427 --> 01:18:27,193  X1:224 X2:496 Y1:358 Y2:414
+Who knew how high
+she would climb in life?
+
+1405
+01:18:27,264 --> 01:18:30,665  X1:182 X2:541 Y1:358 Y2:414
+How many people would suffer
+because ofher?
+
+1406
+01:18:30,734 --> 01:18:32,964  X1:257 X2:464 Y1:390 Y2:420
+I had to stop her...
+
+1407
+01:18:33,037 --> 01:18:35,232  X1:333 X2:388 Y1:396 Y2:414
+now.
+
+1408
+01:18:56,327 --> 01:19:00,423  X1:309 X2:410 Y1:390 Y2:420
+(Coughs)
+
+1409
+01:19:06,737 --> 01:19:08,136  X1:326 X2:396 Y1:390 Y2:419
+Larry?
+
+1410
+01:19:08,205 --> 01:19:10,264  X1:324 X2:395 Y1:390 Y2:414
+Yeah?
+
+1411
+01:19:10,341 --> 01:19:12,673  X1:208 X2:512 Y1:390 Y2:420
+I thinkwe have a problem.
+
+1412
+01:19:12,743 --> 01:19:16,110  X1:249 X2:471 Y1:390 Y2:417
+253, 254, and 255.
+
+1413
+01:19:16,180 --> 01:19:17,738  X1:181 X2:537 Y1:390 Y2:420
+Yep, I get the same as you,Jim.
+
+1414
+01:19:17,815 --> 01:19:19,680  X1:249 X2:470 Y1:358 Y2:420
+Looks like Paul's
+our next president.
+
+1415
+01:19:19,750 --> 01:19:21,308  X1:280 X2:442 Y1:390 Y2:419
+Larry: No way!
+
+1416
+01:19:21,385 --> 01:19:22,784  X1:214 X2:506 Y1:390 Y2:414
+I-I-It doesn't make sense.
+
+1417
+01:19:22,853 --> 01:19:25,344  X1:222 X2:500 Y1:358 Y2:420
+Well, sorry, Larry,
+but my fiigures work out
+
+1418
+01:19:25,422 --> 01:19:26,946  X1:250 X2:470 Y1:358 Y2:414
+exactly the same
+as Mr. McAllister's.
+
+1419
+01:19:27,024 --> 01:19:31,518  X1:233 X2:488 Y1:358 Y2:420
+I get, uh, 256 for Paul,
+255 forTracy.
+
+1420
+01:19:31,595 --> 01:19:34,758  X1:204 X2:516 Y1:390 Y2:420
+And 290 disregards, right?
+
+1421
+01:19:34,832 --> 01:19:35,856  X1:289 X2:432 Y1:390 Y2:420
+Ifyou say so.
+
+1422
+01:19:35,933 --> 01:19:37,867  X1:247 X2:475 Y1:358 Y2:420
+MostlyTammy fans,
+ifyou can believe it.
+
+1423
+01:19:37,935 --> 01:19:39,368  X1:229 X2:490 Y1:390 Y2:420
+See? It doesn't add up.
+
+1424
+01:19:39,436 --> 01:19:42,837  X1:221 X2:498 Y1:358 Y2:420
+There were 801 ballots,
+but 803 people voted.
+
+1425
+01:19:42,906 --> 01:19:44,100  X1:251 X2:470 Y1:358 Y2:420
+Well, there must
+be 2 votes missing.
+
+1426
+01:19:44,174 --> 01:19:45,368  X1:250 X2:470 Y1:390 Y2:420
+Check the register.
+
+1427
+01:19:45,442 --> 01:19:47,535  X1:200 X2:521 Y1:358 Y2:420
+He's right. 2 people must
+have pocketed their ballots.
+
+1428
+01:19:47,611 --> 01:19:49,203  X1:239 X2:482 Y1:390 Y2:420
+Usually there's more.
+
+1429
+01:19:49,279 --> 01:19:53,079  X1:241 X2:479 Y1:358 Y2:414
+But theywere there.
+I counted 803 votes.
+
+1430
+01:19:53,150 --> 01:19:55,516  X1:229 X2:492 Y1:358 Y2:420
+It happens, Larry.
+People make mistakes.
+
+1431
+01:19:55,586 --> 01:19:57,178  X1:223 X2:497 Y1:390 Y2:414
+I didn't make a mistake.
+
+1432
+01:19:57,254 --> 01:19:59,484  X1:243 X2:480 Y1:358 Y2:420
+Everyvote was there
+when you sat down.
+
+1433
+01:19:59,556 --> 01:20:02,218  X1:222 X2:499 Y1:358 Y2:420
+Easy, Falch. I don't
+like whereyou're going.
+
+1434
+01:20:02,292 --> 01:20:03,623  X1:222 X2:499 Y1:390 Y2:420
+I'm sorry, Dr. Hendricks,
+
+1435
+01:20:03,694 --> 01:20:05,821  X1:250 X2:469 Y1:358 Y2:414
+but everyvote
+was accounted for.
+
+1436
+01:20:05,896 --> 01:20:07,363  X1:242 X2:480 Y1:390 Y2:420
+Falch, that's enough.
+
+1437
+01:20:07,431 --> 01:20:09,695  X1:290 X2:431 Y1:390 Y2:420
+End ofstory.
+
+1438
+01:20:09,767 --> 01:20:11,359  X1:255 X2:464 Y1:390 Y2:420
+(Trumpet Fanfare)
+
+1439
+01:20:30,688 --> 01:20:31,916  X1:331 X2:392 Y1:390 Y2:414
+Paul?
+
+1440
+01:20:31,989 --> 01:20:35,117  X1:191 X2:529 Y1:358 Y2:420
+I just want to letyou know
+that no matterwhat happens
+
+1441
+01:20:35,192 --> 01:20:36,181  X1:226 X2:493 Y1:390 Y2:417
+and how this turns out,
+
+1442
+01:20:36,260 --> 01:20:38,455  X1:158 X2:561 Y1:390 Y2:420
+you've run a really great campaign.
+
+1443
+01:20:38,529 --> 01:20:40,053  X1:298 X2:422 Y1:390 Y2:414
+Good luck.
+
+1444
+01:20:40,130 --> 01:20:42,792  X1:246 X2:472 Y1:358 Y2:417
+Well, thanks, Tracy.
+You, too.
+
+1445
+01:20:42,866 --> 01:20:45,027  X1:239 X2:482 Y1:390 Y2:420
+I'm just glad it's over.
+
+1446
+01:20:46,904 --> 01:20:48,394  X1:215 X2:505 Y1:358 Y2:419
+Jim:
+Ifwe canjust get started.
+
+1447
+01:20:48,472 --> 01:20:51,100  X1:273 X2:449 Y1:390 Y2:420
+People. People.
+
+1448
+01:20:51,175 --> 01:20:52,767  X1:227 X2:492 Y1:358 Y2:417
+As soon as the winners
+are announced,
+
+1449
+01:20:52,843 --> 01:20:54,572  X1:217 X2:503 Y1:390 Y2:420
+we can all go home, OK?
+
+1450
+01:20:54,645 --> 01:20:57,705  X1:244 X2:476 Y1:390 Y2:413
+Some contests are...
+
+1451
+01:20:57,781 --> 01:21:01,012  X1:248 X2:474 Y1:358 Y2:414
+are so well-fought
+that it seems unfair
+
+1452
+01:21:01,085 --> 01:21:02,211  X1:238 X2:481 Y1:390 Y2:414
+for someone to win...
+
+1453
+01:21:02,286 --> 01:21:05,744  X1:201 X2:518 Y1:358 Y2:420
+(Thinks) Act surprised.
+Walk slowly to the podium.
+
+1454
+01:21:05,823 --> 01:21:09,315  X1:216 X2:503 Y1:358 Y2:414
+Be modest. Thank them
+for this incredible honor.
+
+1455
+01:21:09,393 --> 01:21:11,657  X1:207 X2:511 Y1:390 Y2:420
+They're all highly qualifiied
+
+1456
+01:21:11,729 --> 01:21:16,359  X1:221 X2:500 Y1:358 Y2:420
+and embody the, uh,
+integrity that we expect
+
+1457
+01:21:16,433 --> 01:21:18,731  X1:202 X2:518 Y1:390 Y2:420
+from the school leadership.
+
+1458
+01:21:18,802 --> 01:21:20,633  X1:208 X2:511 Y1:358 Y2:414
+That said, the whole point
+ofan election
+
+1459
+01:21:20,704 --> 01:21:23,264  X1:222 X2:498 Y1:358 Y2:420
+is to chose a winner,
+and thatyou have done.
+
+1460
+01:21:23,340 --> 01:21:25,774  X1:202 X2:516 Y1:390 Y2:420
+We'll begin with president.
+
+1461
+01:21:25,843 --> 01:21:27,902  X1:258 X2:462 Y1:390 Y2:420
+I'djust like to add
+
+1462
+01:21:27,978 --> 01:21:30,139  X1:193 X2:526 Y1:358 Y2:420
+that this was
+an extraordinarily close race.
+
+1463
+01:21:32,149 --> 01:21:34,777  X1:177 X2:544 Y1:358 Y2:420
+It is my pleasure
+to announce the next president
+
+1464
+01:21:34,852 --> 01:21:37,343  X1:188 X2:534 Y1:358 Y2:420
+ofGeorge Washington Carver
+High School...
+
+1465
+01:21:37,421 --> 01:21:39,946  X1:286 X2:436 Y1:390 Y2:414
+Paul Metzler.
+
+1466
+01:21:40,023 --> 01:21:41,854  X1:229 X2:491 Y1:390 Y2:420
+(Cheers And Applause)
+
+1467
+01:21:53,036 --> 01:21:54,936  X1:231 X2:488 Y1:390 Y2:420
+Jeez, you guys, thanks.
+
+1468
+01:21:56,740 --> 01:21:59,140  X1:278 X2:441 Y1:390 Y2:414
+Wow! Thanks.
+
+1469
+01:21:59,209 --> 01:22:00,938  X1:224 X2:497 Y1:390 Y2:420
+I promise to do my best
+
+1470
+01:22:01,011 --> 01:22:05,277  X1:217 X2:503 Y1:358 Y2:420
+and do a really goodjob
+and be a good president.
+
+1471
+01:22:05,349 --> 01:22:07,613  X1:246 X2:475 Y1:358 Y2:420
+I just want to thank,
+uh, Lisa Flanagan
+
+1472
+01:22:07,684 --> 01:22:09,015  X1:146 X2:576 Y1:390 Y2:420
+for being a super campaign manager.
+
+1473
+01:22:09,086 --> 01:22:12,146  X1:251 X2:470 Y1:390 Y2:420
+I'd also like to say...
+
+1474
+01:22:12,222 --> 01:22:14,520  X1:298 X2:421 Y1:390 Y2:418
+(Inaudible)
+
+1475
+01:22:51,895 --> 01:22:53,692  X1:302 X2:418 Y1:390 Y2:413
+It's Mr. M.
+
+1476
+01:22:53,764 --> 01:22:56,824  X1:179 X2:540 Y1:390 Y2:417
+Yes, over there. Yeah, come on.
+
+1477
+01:23:00,370 --> 01:23:02,736  X1:256 X2:465 Y1:358 Y2:414
+Paul: Wow, Mr. M.
+This is so wild.
+
+1478
+01:23:02,806 --> 01:23:04,433  X1:167 X2:551 Y1:390 Y2:420
+We werejust here, uh, you know,
+
+1479
+01:23:04,508 --> 01:23:05,907  X1:227 X2:492 Y1:358 Y2:420
+celebrating myvictory,
+and you're here.
+
+1480
+01:23:05,976 --> 01:23:07,443  X1:258 X2:460 Y1:358 Y2:420
+This is incredible.
+This is great.
+
+1481
+01:23:07,511 --> 01:23:08,910  X1:202 X2:517 Y1:390 Y2:420
+Well, these are my parents.
+
+1482
+01:23:08,979 --> 01:23:10,173  X1:265 X2:456 Y1:390 Y2:417
+Hi, Dick Metzler.
+
+1483
+01:23:10,247 --> 01:23:11,179  X1:273 X2:445 Y1:390 Y2:420
+Jim McAllister.
+
+1484
+01:23:11,248 --> 01:23:12,613  X1:259 X2:462 Y1:358 Y2:420
+-Jo Metzler.
+- How doyou do?
+
+1485
+01:23:12,683 --> 01:23:14,207  X1:262 X2:457 Y1:358 Y2:420
+Paul just thinks
+the world ofyou.
+
+1486
+01:23:14,284 --> 01:23:15,251  X1:195 X2:526 Y1:390 Y2:420
+I mean, you should hear him.
+
+1487
+01:23:15,319 --> 01:23:16,581  X1:209 X2:513 Y1:390 Y2:420
+He goes on and on and on.
+
+1488
+01:23:16,653 --> 01:23:17,620  X1:262 X2:458 Y1:358 Y2:420
+Yeah, apparently
+you've really
+
+1489
+01:23:17,688 --> 01:23:18,950  X1:238 X2:484 Y1:358 Y2:420
+come behind him,
+really helped him out
+
+1490
+01:23:19,022 --> 01:23:20,182  X1:239 X2:480 Y1:358 Y2:420
+with that student
+council thing and all.
+
+1491
+01:23:20,257 --> 01:23:22,817  X1:178 X2:542 Y1:358 Y2:420
+Oh, well--well, Paul
+doesn't need any help from me.
+
+1492
+01:23:22,893 --> 01:23:25,123  X1:209 X2:510 Y1:358 Y2:420
+He's--He's going places.
+You should be very proud.
+
+1493
+01:23:25,195 --> 01:23:26,127  X1:276 X2:442 Y1:390 Y2:420
+Jo: Oh, we are.
+
+1494
+01:23:26,196 --> 01:23:27,959  X1:211 X2:510 Y1:390 Y2:420
+Hey, look, you're all alone.
+
+1495
+01:23:28,031 --> 01:23:29,430  X1:239 X2:480 Y1:358 Y2:420
+Why don'tyou come
+over andjoin us?
+
+1496
+01:23:29,499 --> 01:23:30,431  X1:207 X2:515 Y1:390 Y2:417
+Dick: Yeah. Yeah, come on.
+
+1497
+01:23:30,500 --> 01:23:32,161  X1:190 X2:529 Y1:390 Y2:420
+Oh, I'm just fiinishing up here.
+
+1498
+01:23:32,236 --> 01:23:33,634  X1:244 X2:476 Y1:390 Y2:420
+I've gotta get home.
+
+1499
+01:23:33,768 --> 01:23:35,030  X1:288 X2:431 Y1:390 Y2:417
+Oh, well, uh,
+
+1500
+01:23:35,102 --> 01:23:38,333  X1:235 X2:485 Y1:358 Y2:420
+why don'tyou guys
+go sit down, and, uh...
+
+1501
+01:23:38,406 --> 01:23:40,237  X1:230 X2:490 Y1:358 Y2:420
+you know, I'll catch up
+with you in a minute.
+
+1502
+01:23:40,308 --> 01:23:42,242  X1:197 X2:522 Y1:358 Y2:420
+I'm going to talk to Mr. M
+about some important stuff,
+
+1503
+01:23:42,310 --> 01:23:43,242  X1:309 X2:412 Y1:390 Y2:420
+all right?
+
+1504
+01:23:43,311 --> 01:23:44,608  X1:251 X2:467 Y1:358 Y2:420
+Dick: All right.
+That sounds great.
+
+1505
+01:23:44,679 --> 01:23:46,613  X1:195 X2:525 Y1:358 Y2:419
+- Hey, sure nice to meetyou.
+- Great to meetyou.
+
+1506
+01:23:46,681 --> 01:23:48,273  X1:219 X2:501 Y1:358 Y2:420
+- Pleasure.
+- So nice, and thankyou.
+
+1507
+01:23:48,349 --> 01:23:49,714  X1:286 X2:433 Y1:390 Y2:420
+Jim: You bet.
+
+1508
+01:23:53,754 --> 01:23:55,449  X1:221 X2:499 Y1:358 Y2:416
+So, Mr. M, I was starting
+to think about,
+
+1509
+01:23:55,523 --> 01:23:57,650  X1:232 X2:486 Y1:358 Y2:414
+you know, some ideas
+forwhat we could do.
+
+1510
+01:23:57,725 --> 01:23:59,454  X1:268 X2:452 Y1:358 Y2:414
+I was thinking
+it would be cool
+
+1511
+01:23:59,527 --> 01:24:00,459  X1:257 X2:463 Y1:390 Y2:414
+to have a carnival.
+
+1512
+01:24:00,528 --> 01:24:02,155  X1:181 X2:537 Y1:390 Y2:417
+You know, with rides and stuff.
+
+1513
+01:24:02,230 --> 01:24:04,391  X1:217 X2:504 Y1:358 Y2:420
+And it could be for,
+like, muscular dystrophy.
+
+1514
+01:24:04,465 --> 01:24:07,696  X1:219 X2:500 Y1:358 Y2:414
+And then on Halloween,
+a haunted house.
+
+1515
+01:24:07,768 --> 01:24:09,531  X1:237 X2:482 Y1:358 Y2:420
+You know, a really
+good haunted house,
+
+1516
+01:24:09,604 --> 01:24:10,901  X1:205 X2:516 Y1:390 Y2:420
+not those cheesy bad ones.
+
+1517
+01:24:10,972 --> 01:24:12,064  X1:253 X2:466 Y1:390 Y2:417
+You know, I mean,
+
+1518
+01:24:12,139 --> 01:24:14,039  X1:184 X2:536 Y1:390 Y2:420
+this one would be super-scary.
+
+1519
+01:24:14,108 --> 01:24:15,905  X1:202 X2:517 Y1:390 Y2:420
+And then for homecoming,
+
+1520
+01:24:15,977 --> 01:24:17,604  X1:235 X2:486 Y1:358 Y2:420
+well, you know
+how lastyear's theme
+
+1521
+01:24:17,678 --> 01:24:20,169  X1:218 X2:502 Y1:358 Y2:420
+was '' Heaven On Earth''?
+Well, this year--
+
+1522
+01:24:20,248 --> 01:24:23,979  X1:198 X2:522 Y1:358 Y2:414
+Paul, we'll have plenty of
+time to talk about this later.
+
+1523
+01:24:24,051 --> 01:24:26,713  X1:239 X2:480 Y1:390 Y2:420
+A wholeyear, in fact.
+
+1524
+01:24:26,787 --> 01:24:29,255  X1:228 X2:493 Y1:390 Y2:420
+But right now, I'djust...
+
+1525
+01:24:29,323 --> 01:24:31,553  X1:230 X2:490 Y1:390 Y2:420
+I need to fiinish my pie,
+
+1526
+01:24:31,626 --> 01:24:33,594  X1:287 X2:432 Y1:390 Y2:420
+go on home.
+
+1527
+01:24:33,661 --> 01:24:36,960  X1:266 X2:452 Y1:390 Y2:420
+Yeah, OK. Sorry.
+
+1528
+01:24:37,031 --> 01:24:40,023  X1:242 X2:477 Y1:358 Y2:420
+Uh, Mr. M,
+just one more thing.
+
+1529
+01:24:40,101 --> 01:24:43,730  X1:234 X2:485 Y1:358 Y2:420
+So, uh, doyou think
+Tracy's gonna be OK?
+
+1530
+01:24:43,804 --> 01:24:46,238  X1:237 X2:485 Y1:358 Y2:420
+I mean, I saw her face
+after the assembly.
+
+1531
+01:24:46,307 --> 01:24:48,605  X1:237 X2:484 Y1:358 Y2:420
+It looked like she was
+taking it pretty hard.
+
+1532
+01:24:48,676 --> 01:24:51,167  X1:218 X2:503 Y1:390 Y2:420
+Don't worry about Tracy.
+
+1533
+01:24:51,245 --> 01:24:54,078  X1:283 X2:437 Y1:390 Y2:414
+She'll be fiine.
+
+1534
+01:25:07,561 --> 01:25:09,392  X1:268 X2:452 Y1:390 Y2:417
+Oh, sweetheart.
+
+1535
+01:25:12,233 --> 01:25:15,259  X1:272 X2:448 Y1:390 Y2:420
+Oh, baby. Baby.
+
+1536
+01:25:15,336 --> 01:25:17,133  X1:306 X2:414 Y1:390 Y2:420
+Oh, baby.
+
+1537
+01:25:17,204 --> 01:25:19,434  X1:241 X2:477 Y1:390 Y2:420
+Take one ofmy pills.
+
+1538
+01:25:19,507 --> 01:25:22,442  X1:259 X2:459 Y1:390 Y2:414
+You'll feel better.
+
+1539
+01:25:22,510 --> 01:25:24,569  X1:330 X2:391 Y1:390 Y2:413
+Here.
+
+1540
+01:25:27,815 --> 01:25:31,546  X1:213 X2:506 Y1:390 Y2:420
+Come on, baby. Come on.
+
+1541
+01:25:31,619 --> 01:25:35,385  X1:247 X2:475 Y1:390 Y2:414
+Lie down. Lie down.
+
+1542
+01:25:35,456 --> 01:25:38,755  X1:256 X2:463 Y1:358 Y2:414
+That's a good girl.
+Lie down.
+
+1543
+01:25:38,826 --> 01:25:41,556  X1:303 X2:417 Y1:390 Y2:420
+Good girl.
+
+1544
+01:25:41,629 --> 01:25:43,563  X1:264 X2:454 Y1:390 Y2:414
+That's--That's it.
+
+1545
+01:25:43,631 --> 01:25:45,360  X1:276 X2:443 Y1:390 Y2:420
+That's it, baby.
+
+1546
+01:25:45,433 --> 01:25:47,765  X1:268 X2:451 Y1:390 Y2:420
+That's it, honey.
+
+1547
+01:25:52,306 --> 01:25:55,503  X1:239 X2:481 Y1:358 Y2:420
+Maybeyou needed
+more posters, honey.
+
+1548
+01:25:55,576 --> 01:25:58,841  X1:234 X2:486 Y1:358 Y2:420
+Or ifyou'djust
+taken my suggestions
+
+1549
+01:25:58,913 --> 01:26:00,710  X1:250 X2:470 Y1:390 Y2:420
+aboutyour speech.
+
+1550
+01:26:00,781 --> 01:26:03,181  X1:285 X2:435 Y1:390 Y2:414
+I don't know.
+
+1551
+01:26:03,250 --> 01:26:05,184  X1:254 X2:465 Y1:390 Y2:420
+We'll fiigure it out.
+
+1552
+01:26:16,897 --> 01:26:18,831  X1:325 X2:397 Y1:390 Y2:413
+Diane.
+
+1553
+01:26:18,899 --> 01:26:22,266  X1:208 X2:512 Y1:390 Y2:414
+I--I made a mistake and I...
+
+1554
+01:26:30,144 --> 01:26:32,339  X1:189 X2:534 Y1:390 Y2:420
+Did you want the same room?
+
+1555
+01:26:34,248 --> 01:26:35,977  X1:303 X2:416 Y1:390 Y2:417
+Yeah, OK.
+
+1556
+01:26:37,351 --> 01:26:40,411  X1:288 X2:431 Y1:390 Y2:420
+(Coins Drop)
+
+1557
+01:27:03,644 --> 01:27:05,635  X1:231 X2:490 Y1:390 Y2:420
+[ding] It's a beautiful day[ding]
+
+1558
+01:27:05,713 --> 01:27:07,647  X1:222 X2:497 Y1:358 Y2:419
+Jim:
+The next day, I woke up
+
+1559
+01:27:07,715 --> 01:27:09,876  X1:238 X2:483 Y1:358 Y2:420
+resolved to get
+my life back on track.
+
+1560
+01:27:09,950 --> 01:27:12,976  X1:199 X2:523 Y1:358 Y2:420
+The way I saw it, Diane's
+kicking me out ofthe house
+
+1561
+01:27:13,053 --> 01:27:14,179  X1:228 X2:493 Y1:390 Y2:420
+had been a good thing,
+
+1562
+01:27:14,255 --> 01:27:15,586  X1:274 X2:446 Y1:390 Y2:420
+a wake-up call.
+
+1563
+01:27:15,656 --> 01:27:18,784  X1:234 X2:486 Y1:358 Y2:420
+It wasn't a setback.
+It was an opportunity.
+
+1564
+01:27:18,859 --> 01:27:20,884  X1:247 X2:474 Y1:358 Y2:414
+I fiigured wejust
+needed a little time
+
+1565
+01:27:20,961 --> 01:27:22,724  X1:249 X2:470 Y1:390 Y2:420
+to work things out.
+
+1566
+01:27:22,797 --> 01:27:25,061  X1:193 X2:525 Y1:390 Y2:417
+The election was behind me,
+
+1567
+01:27:25,132 --> 01:27:27,396  X1:223 X2:496 Y1:390 Y2:414
+and the worst was over.
+
+1568
+01:27:27,468 --> 01:27:29,629  X1:234 X2:487 Y1:358 Y2:420
+After all, what harm
+had really been done?
+
+1569
+01:27:29,703 --> 01:27:31,568  X1:256 X2:466 Y1:390 Y2:420
+Nobodywas dead.
+
+1570
+01:27:37,044 --> 01:27:37,976  X1:271 X2:449 Y1:358 Y2:419
+Jim?
+(Whistles)Jim?!
+
+1571
+01:27:38,045 --> 01:27:38,977  X1:327 X2:391 Y1:390 Y2:414
+Yeah.
+
+1572
+01:27:39,046 --> 01:27:40,570  X1:228 X2:490 Y1:390 Y2:420
+Walt wants to seeyou.
+
+1573
+01:27:40,648 --> 01:27:42,775  X1:293 X2:426 Y1:390 Y2:417
+OK, thanks.
+
+1574
+01:27:54,228 --> 01:27:56,128  X1:283 X2:437 Y1:390 Y2:419
+You r-- rang?
+
+1575
+01:27:59,366 --> 01:28:00,799  X1:275 X2:446 Y1:390 Y2:417
+Mr. McAllister,
+
+1576
+01:28:00,868 --> 01:28:03,462  X1:232 X2:488 Y1:358 Y2:420
+I hopeyou can help us
+clear something up.
+
+1577
+01:28:42,376 --> 01:28:43,673  X1:271 X2:458 Y1:358 Y2:414
+-(Woman).Yo?
+- Pierdo.
+
+1578
+01:28:43,744 --> 01:28:45,644  X1:309 X2:415 Y1:358 Y2:413
+-.Tu?
+- Pierdes.
+
+1579
+01:28:45,713 --> 01:28:47,510  X1:275 X2:456 Y1:390 Y2:420
+.El, ella, usted?
+
+1580
+01:28:47,581 --> 01:28:48,513  X1:324 X2:404 Y1:390 Y2:414
+Pierde.
+
+1581
+01:28:48,582 --> 01:28:49,810  X1:297 X2:435 Y1:390 Y2:419
+.Nosotros?
+
+1582
+01:28:49,884 --> 01:28:51,476  X1:300 X2:429 Y1:390 Y2:414
+Pierdemos.
+
+1583
+01:28:51,552 --> 01:28:52,917  X1:320 X2:409 Y1:390 Y2:413
+Gracias.
+
+1584
+01:28:55,589 --> 01:28:57,557  X1:203 X2:516 Y1:390 Y2:414
+Teacher: Se[n~]orPresidente.
+
+1585
+01:28:57,625 --> 01:29:01,356  X1:210 X2:520 Y1:390 Y2:420
+Quieren verte enla ofiicina.
+
+1586
+01:29:01,428 --> 01:29:03,453  X1:331 X2:391 Y1:390 Y2:414
+Huh?
+
+1587
+01:29:03,531 --> 01:29:04,463  X1:263 X2:457 Y1:390 Y2:418
+(Knock On Door)
+
+1588
+01:29:04,532 --> 01:29:05,931  X1:276 X2:446 Y1:390 Y2:414
+Dr. Hendricks?
+
+1589
+01:29:09,503 --> 01:29:11,437  X1:234 X2:484 Y1:358 Y2:420
+Uh, come on in, son.
+We have something...
+
+1590
+01:29:11,505 --> 01:29:14,736  X1:220 X2:501 Y1:390 Y2:420
+hard we have to tell you.
+
+1591
+01:29:14,808 --> 01:29:15,740  X1:251 X2:471 Y1:390 Y2:420
+Is it about Tammy?
+
+1592
+01:29:15,809 --> 01:29:17,208  X1:230 X2:490 Y1:390 Y2:414
+It's about the election.
+
+1593
+01:29:20,848 --> 01:29:23,783  X1:257 X2:463 Y1:358 Y2:420
+Jim: After Paul
+got the bad news,
+
+1594
+01:29:23,851 --> 01:29:25,910  X1:191 X2:528 Y1:358 Y2:414
+Walt asked for a few minutes
+alone with me.
+
+1595
+01:29:25,986 --> 01:29:28,580  X1:218 X2:503 Y1:390 Y2:420
+It was very simple, really.
+
+1596
+01:29:28,656 --> 01:29:30,624  X1:219 X2:501 Y1:390 Y2:420
+I offered my resignation,
+
+1597
+01:29:30,691 --> 01:29:33,285  X1:261 X2:458 Y1:390 Y2:420
+and he accepted.
+
+1598
+01:29:33,360 --> 01:29:36,921  X1:213 X2:509 Y1:358 Y2:420
+Very quietly, it was
+all over forJim McAllister
+
+1599
+01:29:36,997 --> 01:29:38,464  X1:274 X2:446 Y1:390 Y2:420
+at Carver High.
+
+1600
+01:29:42,336 --> 01:29:44,861  X1:146 X2:575 Y1:390 Y2:420
+Suddenly everyone knew who I was--
+
+1601
+01:29:44,939 --> 01:29:46,406  X1:241 X2:480 Y1:390 Y2:420
+that corrupt teacher
+
+1602
+01:29:46,473 --> 01:29:49,203  X1:182 X2:537 Y1:358 Y2:420
+who had tried to crush
+the dreams ofan innocent girl.
+
+1603
+01:29:49,276 --> 01:29:52,302  X1:186 X2:533 Y1:358 Y2:420
+Overnight, all the good things
+I had ever done in my life
+
+1604
+01:29:52,379 --> 01:29:54,745  X1:291 X2:428 Y1:390 Y2:420
+evaporated.
+
+1605
+01:29:54,815 --> 01:29:57,443  X1:228 X2:492 Y1:358 Y2:420
+Soon the wire services
+picked up on the story.
+
+1606
+01:29:57,518 --> 01:30:00,976  X1:156 X2:564 Y1:358 Y2:420
+It was the kind ofabsurd news item
+people E-mail each other
+
+1607
+01:30:01,055 --> 01:30:04,149  X1:230 X2:489 Y1:358 Y2:414
+or post on the bulletin
+board at work.
+
+1608
+01:30:04,224 --> 01:30:08,251  X1:194 X2:525 Y1:358 Y2:420
+To top it all off, Diane had
+started divorce proceedings.
+
+1609
+01:30:08,329 --> 01:30:11,423  X1:175 X2:544 Y1:358 Y2:420
+She was completely unforgiving
+about the thing with Linda.
+
+1610
+01:30:11,498 --> 01:30:14,194  X1:246 X2:477 Y1:358 Y2:420
+In the end, she took
+almost everything,
+
+1611
+01:30:14,268 --> 01:30:16,065  X1:243 X2:478 Y1:390 Y2:420
+including the house.
+
+1612
+01:30:16,136 --> 01:30:18,229  X1:287 X2:433 Y1:390 Y2:420
+I got the car.
+
+1613
+01:30:34,421 --> 01:30:36,321  X1:278 X2:440 Y1:390 Y2:420
+Then one day,
+
+1614
+01:30:36,390 --> 01:30:38,483  X1:242 X2:480 Y1:358 Y2:420
+I realized it was time
+to get out ofOmaha
+
+1615
+01:30:38,559 --> 01:30:40,254  X1:282 X2:437 Y1:390 Y2:414
+and move on.
+
+1616
+01:30:46,500 --> 01:30:47,933  X1:233 X2:487 Y1:358 Y2:420
+Paul:
+Senioryearwas great.
+
+1617
+01:30:48,002 --> 01:30:51,995  X1:219 X2:502 Y1:054 Y2:116
+Sure, I didn't get to
+play ball or be president,
+
+1618
+01:30:52,072 --> 01:30:55,371  X1:164 X2:556 Y1:358 Y2:420
+but I got elected
+homecoming king and prom king.
+
+1619
+01:30:55,442 --> 01:30:57,910  X1:246 X2:475 Y1:358 Y2:417
+I got into Nebraska,
+like I wanted,
+
+1620
+01:30:57,978 --> 01:30:59,343  X1:206 X2:514 Y1:390 Y2:420
+and early rushed PhiDelts.
+
+1621
+01:30:59,413 --> 01:31:01,278  X1:205 X2:513 Y1:358 Y2:420
+And at the end oftheyear,
+me and my buddies
+
+1622
+01:31:01,348 --> 01:31:04,647  X1:183 X2:538 Y1:358 Y2:420
+threw a bitchin' Mexican party
+down at the cement plant.
+
+1623
+01:31:04,718 --> 01:31:07,035  X1:203 X2:516 Y1:390 Y2:420
+Shit, that was a good party.
+
+1624
+01:31:07,169 --> 01:31:10,730  X1:206 X2:514 Y1:358 Y2:420
+The only really bad thing
+about senioryearwas Lisa.
+
+1625
+01:31:10,806 --> 01:31:12,467  X1:225 X2:496 Y1:358 Y2:420
+Right before Christmas,
+she dumped me.
+
+1626
+01:31:12,541 --> 01:31:14,839  X1:228 X2:491 Y1:358 Y2:420
+One minute, she's
+totally in love with me,
+
+1627
+01:31:14,910 --> 01:31:18,846  X1:184 X2:537 Y1:358 Y2:420
+and then boom, she goes after
+my football buddy Randy.
+
+1628
+01:31:18,914 --> 01:31:21,314  X1:200 X2:519 Y1:358 Y2:420
+Sometimes I wonder
+what would have happened
+
+1629
+01:31:21,383 --> 01:31:23,248  X1:246 X2:475 Y1:358 Y2:414
+ifI had actuallywon
+the election.
+
+1630
+01:31:23,318 --> 01:31:24,979  X1:243 X2:480 Y1:358 Y2:414
+Maybe mywhole life
+would be different.
+
+1631
+01:31:25,053 --> 01:31:27,988  X1:228 X2:493 Y1:358 Y2:420
+Like I might never
+have gone to Yosemite
+
+1632
+01:31:28,056 --> 01:31:29,785  X1:237 X2:482 Y1:390 Y2:420
+with Greg and Travis.
+
+1633
+01:31:29,858 --> 01:31:31,883  X1:234 X2:486 Y1:390 Y2:420
+Or maybe I'd be dead.
+
+1634
+01:31:31,960 --> 01:31:34,952  X1:292 X2:429 Y1:390 Y2:419
+[ding]Alleluia [ding]
+
+1635
+01:31:35,030 --> 01:31:37,021  X1:221 X2:497 Y1:358 Y2:420
+Tammy: Catholic school
+was great.
+
+1636
+01:31:38,900 --> 01:31:42,301  X1:243 X2:478 Y1:358 Y2:417
+I mean, the teachers
+kind ofsucked,
+
+1637
+01:31:42,371 --> 01:31:44,839  X1:210 X2:512 Y1:358 Y2:420
+and theywere supposedly
+way more strict.
+
+1638
+01:31:44,906 --> 01:31:47,374  X1:227 X2:496 Y1:358 Y2:414
+Butyou could get away
+with murder.
+
+1639
+01:31:47,442 --> 01:31:50,377  X1:217 X2:503 Y1:358 Y2:414
+The best thing
+about Immaculate Heart
+
+1640
+01:31:50,445 --> 01:31:52,640  X1:233 X2:485 Y1:390 Y2:420
+was meetingJennifer.
+
+1641
+01:31:52,714 --> 01:31:56,650  X1:245 X2:475 Y1:390 Y2:420
+[ding]JenniferJuniper[ding]
+
+1642
+01:31:56,718 --> 01:31:59,915  X1:227 X2:493 Y1:390 Y2:420
+[ding] Lives up on the hill [ding]
+
+1643
+01:31:59,988 --> 01:32:04,049  X1:245 X2:475 Y1:390 Y2:420
+[ding]JenniferJuniper[ding]
+
+1644
+01:32:04,126 --> 01:32:06,424  X1:246 X2:475 Y1:390 Y2:420
+[ding] Sitting very still [ding]
+
+1645
+01:32:07,562 --> 01:32:09,496  X1:251 X2:469 Y1:390 Y2:420
+[ding] Is she sleeping [ding]
+
+1646
+01:32:09,564 --> 01:32:11,031  X1:233 X2:484 Y1:358 Y2:414
+Tammy:Jennifer and I
+are soul mates
+
+1647
+01:32:11,099 --> 01:32:14,296  X1:229 X2:491 Y1:358 Y2:420
+and we're never, ever,
+ever going to be apart.
+
+1648
+01:32:14,369 --> 01:32:18,669  X1:245 X2:475 Y1:390 Y2:420
+[ding]JenniferJuniper[ding]
+
+1649
+01:32:18,740 --> 01:32:22,073  X1:241 X2:478 Y1:390 Y2:414
+Order! Order. Order!
+
+1650
+01:32:22,144 --> 01:32:23,873  X1:225 X2:494 Y1:358 Y2:419
+Tracy: Senioryearwas
+very productive for me.
+
+1651
+01:32:23,945 --> 01:32:25,537  X1:228 X2:493 Y1:390 Y2:414
+Let's vote on this issue.
+
+1652
+01:32:25,614 --> 01:32:27,445  X1:206 X2:512 Y1:358 Y2:420
+On top ofa very successful
+student council year,
+
+1653
+01:32:27,516 --> 01:32:29,746  X1:252 X2:469 Y1:358 Y2:420
+I was in the top
+seventh percentile
+
+1654
+01:32:29,818 --> 01:32:31,012  X1:227 X2:492 Y1:390 Y2:420
+ofmy graduating class.
+
+1655
+01:32:31,086 --> 01:32:32,212  X1:301 X2:419 Y1:390 Y2:420
+Opposed?
+
+1656
+01:32:32,287 --> 01:32:33,515  X1:199 X2:519 Y1:358 Y2:417
+And I got into Georgetown,
+like I wanted,
+
+1657
+01:32:33,588 --> 01:32:36,056  X1:255 X2:463 Y1:390 Y2:420
+with scholarships.
+
+1658
+01:32:36,124 --> 01:32:37,557  X1:299 X2:420 Y1:390 Y2:420
+Approved.
+
+1659
+01:32:39,327 --> 01:32:42,524  X1:203 X2:518 Y1:358 Y2:414
+But sometimes I got lonely,
+and I'd think about Dave.
+
+1660
+01:32:42,597 --> 01:32:44,121  X1:257 X2:464 Y1:390 Y2:414
+I missed our talks.
+
+1661
+01:32:44,199 --> 01:32:46,667  X1:219 X2:500 Y1:358 Y2:414
+Maybe it could have
+worked out between us.
+
+1662
+01:32:46,735 --> 01:32:47,895  X1:285 X2:435 Y1:390 Y2:414
+I don't know.
+
+1663
+01:32:47,969 --> 01:32:50,938  X1:184 X2:537 Y1:390 Y2:420
+I wonderwhat he's doing now.
+
+1664
+01:32:51,006 --> 01:32:55,102  X1:257 X2:463 Y1:358 Y2:414
+Maybe he fiinally
+fiinished his novel.
+
+1665
+01:32:55,177 --> 01:32:59,614  X1:177 X2:542 Y1:358 Y2:420
+Butyou know, even with
+all my myriad accomplishments
+
+1666
+01:32:59,681 --> 01:33:01,308  X1:257 X2:462 Y1:390 Y2:420
+and bright future,
+
+1667
+01:33:01,383 --> 01:33:04,284  X1:174 X2:545 Y1:358 Y2:420
+somehow I just didn't feel
+the wayyou're supposed to feel.
+
+1668
+01:33:04,352 --> 01:33:06,343  X1:171 X2:551 Y1:390 Y2:420
+Everybody else seemed so happy,
+
+1669
+01:33:06,421 --> 01:33:10,915  X1:178 X2:542 Y1:358 Y2:420
+planning big parties and
+signing each other's yearbooks.
+
+1670
+01:33:10,992 --> 01:33:13,119  X1:195 X2:526 Y1:390 Y2:420
+Hardly anybody signed mine.
+
+1671
+01:33:13,195 --> 01:33:15,129  X1:222 X2:498 Y1:358 Y2:420
+You'd think as
+student body president,
+
+1672
+01:33:15,197 --> 01:33:16,789  X1:230 X2:490 Y1:358 Y2:420
+I'd be the one
+surrounded by friends.
+
+1673
+01:33:16,865 --> 01:33:19,231  X1:204 X2:517 Y1:390 Y2:414
+But it wasn't like that at all.
+
+1674
+01:33:23,071 --> 01:33:25,938  X1:226 X2:496 Y1:358 Y2:419
+Man:
+Brittany Blake Fillmore.
+
+1675
+01:33:26,007 --> 01:33:27,804  X1:185 X2:536 Y1:358 Y2:417
+Tracy: As far as
+Mr. McAllisterwas concerned,
+
+1676
+01:33:27,876 --> 01:33:30,674  X1:182 X2:538 Y1:358 Y2:420
+you might be surprised,
+but I hardly thought about him
+
+1677
+01:33:30,746 --> 01:33:31,872  X1:275 X2:445 Y1:390 Y2:420
+at all anymore.
+
+1678
+01:33:31,947 --> 01:33:34,848  X1:207 X2:514 Y1:358 Y2:420
+Besides, nobody had heard
+from him in a long time.
+
+1679
+01:33:34,916 --> 01:33:38,408  X1:197 X2:526 Y1:358 Y2:420
+It was almost like he'd never
+existed in the fiirst place.
+
+1680
+01:33:38,487 --> 01:33:41,183  X1:236 X2:485 Y1:390 Y2:420
+Man: Tracy Enid Flick.
+
+1681
+01:33:43,258 --> 01:33:45,726  X1:162 X2:557 Y1:390 Y2:420
+Tracy: When I got to Georgetown,
+
+1682
+01:33:45,794 --> 01:33:48,319  X1:168 X2:552 Y1:358 Y2:420
+I thought I'd fiinally be
+among people who were like me.
+
+1683
+01:33:48,396 --> 01:33:50,762  X1:223 X2:498 Y1:358 Y2:420
+You know, smarter,
+more ambitious people.
+
+1684
+01:33:50,832 --> 01:33:53,528  X1:203 X2:517 Y1:358 Y2:414
+I was sure that fiinally
+I'd make some true friends.
+
+1685
+01:33:53,602 --> 01:33:54,967  X1:240 X2:480 Y1:390 Y2:420
+(All Talking At Once)
+
+1686
+01:33:55,036 --> 01:33:56,867  X1:297 X2:424 Y1:390 Y2:413
+Excuse me!
+
+1687
+01:33:56,938 --> 01:33:59,031  X1:196 X2:523 Y1:390 Y2:420
+Would you please be quiet?!
+
+1688
+01:33:59,107 --> 01:34:01,234  X1:226 X2:494 Y1:358 Y2:413
+Tracy:
+It wasn't like that at all.
+
+1689
+01:34:01,309 --> 01:34:03,174  X1:226 X2:493 Y1:358 Y2:420
+A lot ofthem werejust
+spoiled little rich kids
+
+1690
+01:34:03,245 --> 01:34:05,873  X1:235 X2:486 Y1:358 Y2:420
+who didn't know
+how lucky they had it.
+
+1691
+01:34:05,947 --> 01:34:09,246  X1:200 X2:521 Y1:358 Y2:420
+That's OK. I've come to
+accept that very few people
+
+1692
+01:34:09,317 --> 01:34:11,080  X1:179 X2:541 Y1:390 Y2:420
+are truly destined to be special,
+
+1693
+01:34:11,153 --> 01:34:12,950  X1:242 X2:478 Y1:390 Y2:414
+and we're solo fliers.
+
+1694
+01:34:13,021 --> 01:34:15,251  X1:263 X2:458 Y1:358 Y2:417
+I guess it really is
+like Dave said,
+
+1695
+01:34:15,323 --> 01:34:18,520  X1:214 X2:507 Y1:358 Y2:420
+''Ifyou're gonna be great,
+you've got to be lonely.''
+
+1696
+01:34:18,593 --> 01:34:20,618  X1:277 X2:442 Y1:390 Y2:420
+(Loud Talking)
+
+1697
+01:34:22,998 --> 01:34:27,298  X1:196 X2:522 Y1:358 Y2:420
+Jim: What happens to a man
+when he loses everything?
+
+1698
+01:34:27,369 --> 01:34:29,701  X1:204 X2:517 Y1:390 Y2:420
+Everything he's worked for.
+
+1699
+01:34:29,771 --> 01:34:33,901  X1:215 X2:506 Y1:390 Y2:420
+Everything he believes in.
+
+1700
+01:34:33,975 --> 01:34:36,205  X1:233 X2:488 Y1:390 Y2:417
+Driven from his home,
+
+1701
+01:34:36,278 --> 01:34:38,712  X1:252 X2:468 Y1:390 Y2:420
+cast out ofsociety,
+
+1702
+01:34:38,780 --> 01:34:40,771  X1:245 X2:476 Y1:390 Y2:414
+how can he survive?
+
+1703
+01:34:40,849 --> 01:34:42,282  X1:254 X2:465 Y1:390 Y2:420
+Where can he go?
+
+1704
+01:34:42,350 --> 01:34:45,376  X1:277 X2:444 Y1:390 Y2:420
+Right this way.
+
+1705
+01:34:45,453 --> 01:34:47,114  X1:248 X2:471 Y1:390 Y2:420
+Jim: New York City.
+
+1706
+01:34:56,464 --> 01:34:59,558  X1:222 X2:500 Y1:358 Y2:414
+For centuries, people
+have come to New York
+
+1707
+01:34:59,634 --> 01:35:03,126  X1:243 X2:476 Y1:358 Y2:414
+seeking refuge from
+their troubled lives.
+
+1708
+01:35:03,205 --> 01:35:06,834  X1:229 X2:492 Y1:390 Y2:414
+Now I am one ofthem.
+
+1709
+01:35:06,908 --> 01:35:08,899  X1:201 X2:520 Y1:358 Y2:420
+Besides, I'd always dreamed
+ofliving in New York.
+
+1710
+01:35:08,977 --> 01:35:11,104  X1:174 X2:545 Y1:390 Y2:414
+All that excitement and culture.
+
+1711
+01:35:11,179 --> 01:35:14,046  X1:227 X2:495 Y1:358 Y2:420
+Living in the city brings
+surprises all the time.
+
+1712
+01:35:14,115 --> 01:35:16,845  X1:193 X2:528 Y1:358 Y2:414
+Once in a while, I even bump
+into former students ofmine
+
+1713
+01:35:16,918 --> 01:35:18,943  X1:288 X2:431 Y1:390 Y2:414
+from Carver.
+
+1714
+01:35:19,020 --> 01:35:21,614  X1:215 X2:505 Y1:358 Y2:414
+Oh, sure, my apartment's
+a little smaller
+
+1715
+01:35:21,690 --> 01:35:23,385  X1:223 X2:497 Y1:358 Y2:417
+than what I was used to
+back in Omaha,
+
+1716
+01:35:23,458 --> 01:35:25,323  X1:174 X2:546 Y1:390 Y2:420
+and the rent's pretty darn steep,
+
+1717
+01:35:25,393 --> 01:35:26,951  X1:193 X2:527 Y1:390 Y2:420
+but it's got a lot ofcharacter.
+
+1718
+01:35:27,028 --> 01:35:28,893  X1:234 X2:484 Y1:390 Y2:420
+And I'm cozy enough.
+
+1719
+01:35:31,967 --> 01:35:34,026  X1:257 X2:464 Y1:358 Y2:420
+Besides, it's great
+not needing a car.
+
+1720
+01:35:34,102 --> 01:35:37,128  X1:215 X2:504 Y1:358 Y2:420
+And I get a lot ofreading
+done on the subway.
+
+1721
+01:35:37,205 --> 01:35:39,400  X1:180 X2:540 Y1:390 Y2:420
+Some days I even walk to work.
+
+1722
+01:35:41,710 --> 01:35:44,679  X1:216 X2:504 Y1:358 Y2:420
+Thejob market is
+pretty tight in New York,
+
+1723
+01:35:44,746 --> 01:35:47,044  X1:217 X2:504 Y1:358 Y2:417
+but after hunting around
+for a while,
+
+1724
+01:35:47,115 --> 01:35:49,549  X1:193 X2:528 Y1:358 Y2:420
+I fiinally landed a position
+in the education department
+
+1725
+01:35:49,618 --> 01:35:51,848  X1:162 X2:558 Y1:390 Y2:420
+at the Museum of Natural History.
+
+1726
+01:35:51,920 --> 01:35:54,946  X1:251 X2:470 Y1:358 Y2:420
+That's right.
+I'm teaching again.
+
+1727
+01:35:55,023 --> 01:35:58,459  X1:202 X2:518 Y1:358 Y2:414
+When a school brings
+its students to the museum
+
+1728
+01:35:58,526 --> 01:35:59,515  X1:280 X2:440 Y1:390 Y2:420
+on a fiield trip,
+
+1729
+01:35:59,594 --> 01:36:01,585  X1:225 X2:496 Y1:358 Y2:414
+there's a staffof
+both volunteer docents
+
+1730
+01:36:01,663 --> 01:36:03,597  X1:159 X2:561 Y1:390 Y2:420
+and trained educators like myself...
+
+1731
+01:36:03,665 --> 01:36:06,998  X1:220 X2:499 Y1:358 Y2:414
+who pick up where
+the classwork leaves off.
+
+1732
+01:36:07,068 --> 01:36:09,298  X1:235 X2:485 Y1:358 Y2:420
+And I've started
+seeing someone new.
+
+1733
+01:36:09,371 --> 01:36:11,362  X1:255 X2:467 Y1:390 Y2:420
+Her name isJillian.
+
+1734
+01:36:11,439 --> 01:36:14,237  X1:181 X2:539 Y1:358 Y2:420
+She works at the museum, too,
+in Signs and Signage.
+
+1735
+01:36:14,309 --> 01:36:17,005  X1:186 X2:534 Y1:358 Y2:417
+She's really different
+from Diane, and, I don't know,
+
+1736
+01:36:17,078 --> 01:36:19,478  X1:234 X2:488 Y1:358 Y2:419
+I've never met anyone
+quite like her.
+
+1737
+01:36:19,547 --> 01:36:22,311  X1:223 X2:497 Y1:358 Y2:420
+Shejust got out of
+a long relationship, too,
+
+1738
+01:36:22,384 --> 01:36:24,045  X1:274 X2:445 Y1:358 Y2:413
+so we're trying
+to take it slow.
+
+1739
+01:36:28,023 --> 01:36:30,583  X1:231 X2:490 Y1:358 Y2:420
+You might ask ifI ever
+saw Tracy Flick again.
+
+1740
+01:36:30,659 --> 01:36:32,388  X1:297 X2:421 Y1:390 Y2:417
+Well, I did.
+
+1741
+01:36:32,460 --> 01:36:34,519  X1:302 X2:416 Y1:390 Y2:419
+Just once.
+
+1742
+01:36:34,596 --> 01:36:39,795  X1:164 X2:555 Y1:358 Y2:417
+I was down in Washington for
+a museum educator's conference,
+
+1743
+01:36:39,868 --> 01:36:42,200  X1:218 X2:504 Y1:358 Y2:420
+and I stayed an extra day
+to do some sightseeing.
+
+1744
+01:36:44,873 --> 01:36:47,933  X1:205 X2:514 Y1:358 Y2:417
+After an inspiring morning
+on the Mall,
+
+1745
+01:36:48,009 --> 01:36:51,843  X1:180 X2:539 Y1:358 Y2:413
+I was on myway to
+the Holocaust Museum when...
+
+1746
+01:37:26,614 --> 01:37:28,809  X1:193 X2:527 Y1:390 Y2:414
+I'll never know ifshe saw me.
+
+1747
+01:37:28,883 --> 01:37:30,510  X1:285 X2:437 Y1:390 Y2:420
+Probably not.
+
+1748
+01:37:30,585 --> 01:37:33,053  X1:235 X2:485 Y1:358 Y2:417
+But in that moment,
+all the bad memories,
+
+1749
+01:37:33,121 --> 01:37:36,113  X1:238 X2:483 Y1:358 Y2:420
+all the things I'd ever
+wanted to say to her,
+
+1750
+01:37:36,191 --> 01:37:38,455  X1:216 X2:504 Y1:390 Y2:420
+it all came flooding back.
+
+1751
+01:37:41,229 --> 01:37:43,356  X1:232 X2:486 Y1:358 Y2:417
+My fiirst impulse
+was to run over there,
+
+1752
+01:37:43,431 --> 01:37:44,693  X1:231 X2:490 Y1:390 Y2:420
+pound on herwindow,
+
+1753
+01:37:44,766 --> 01:37:47,132  X1:195 X2:524 Y1:358 Y2:420
+and demand that she admit
+she tore down those posters
+
+1754
+01:37:47,202 --> 01:37:50,535  X1:191 X2:530 Y1:358 Y2:420
+and lied and cheated herway
+into winning that election.
+
+1755
+01:37:50,605 --> 01:37:55,736  X1:259 X2:461 Y1:358 Y2:420
+But, instead,
+I just stood there.
+
+1756
+01:37:55,810 --> 01:38:00,440  X1:187 X2:534 Y1:358 Y2:420
+And I suddenly realized
+I wasn't angry at her anymore.
+
+1757
+01:38:00,515 --> 01:38:03,382  X1:233 X2:487 Y1:390 Y2:420
+I just felt sorry for her.
+
+1758
+01:38:03,451 --> 01:38:05,578  X1:243 X2:480 Y1:358 Y2:420
+I mean, when I think
+about my new life
+
+1759
+01:38:05,653 --> 01:38:07,985  X1:249 X2:470 Y1:358 Y2:420
+and all the exciting
+things I'm doing,
+
+1760
+01:38:08,056 --> 01:38:10,923  X1:202 X2:517 Y1:358 Y2:414
+and then I think about
+what her life must be like--
+
+1761
+01:38:10,992 --> 01:38:13,620  X1:222 X2:500 Y1:358 Y2:420
+probably still getting up
+at 5:00 in the morning
+
+1762
+01:38:13,695 --> 01:38:16,061  X1:230 X2:490 Y1:358 Y2:414
+to pursue her pathetic
+little dreams--
+
+1763
+01:38:16,131 --> 01:38:18,759  X1:241 X2:480 Y1:390 Y2:420
+itjust makes me sad.
+
+1764
+01:38:18,833 --> 01:38:22,291  X1:212 X2:510 Y1:358 Y2:420
+I mean where is she really
+trying to get to anyway?
+
+1765
+01:38:22,370 --> 01:38:25,134  X1:179 X2:540 Y1:390 Y2:420
+What is she doing in that limo?
+
+1766
+01:38:25,206 --> 01:38:28,539  X1:250 X2:469 Y1:358 Y2:414
+Who the fuck does
+she think she is?!
+
+1767
+01:38:31,579 --> 01:38:33,103  X1:275 X2:445 Y1:390 Y2:418
+(Tires Screech)
+
+1768
+01:38:37,318 --> 01:38:40,651  X1:249 X2:473 Y1:390 Y2:419
+Man: Hey, you! Hey!
+
+1769
+01:38:40,722 --> 01:38:42,883  X1:287 X2:431 Y1:390 Y2:414
+You asshole!
+
+1770
+01:38:42,957 --> 01:38:45,289  X1:242 X2:477 Y1:358 Y2:420
+Jim: But that's all
+ancient history now.
+
+1771
+01:38:45,360 --> 01:38:47,828  X1:218 X2:502 Y1:390 Y2:420
+I've got a whole new life.
+
+1772
+01:38:47,896 --> 01:38:50,296  X1:237 X2:483 Y1:358 Y2:420
+I mean, that's what's
+great about America.
+
+1773
+01:38:50,365 --> 01:38:51,730  X1:210 X2:508 Y1:390 Y2:420
+You can always start over.
+
+1774
+01:38:51,800 --> 01:38:54,064  X1:220 X2:500 Y1:358 Y2:420
+So would that make this
+an igneous rock
+
+1775
+01:38:54,135 --> 01:38:56,365  X1:228 X2:493 Y1:390 Y2:420
+or a sedimentary rock?
+
+1776
+01:38:56,438 --> 01:38:58,235  X1:234 X2:486 Y1:358 Y2:420
+What's the difference
+between igneous
+
+1777
+01:38:58,306 --> 01:38:59,739  X1:212 X2:509 Y1:390 Y2:420
+and sedimentary anyway?
+
+1778
+01:39:09,984 --> 01:39:12,524  X1:277 X2:443 Y1:390 Y2:420
+Jim: Anybody?
+
+1779
+01:39:15,561 --> 01:39:18,325  X1:258 X2:464 Y1:358 Y2:420
+[ding] I want to know
+how love began [ding]
+
+1780
+01:39:18,397 --> 01:39:21,332  X1:260 X2:461 Y1:358 Y2:419
+[ding] I want to go
+to school again [ding]
+
+1781
+01:39:21,400 --> 01:39:24,699  X1:276 X2:444 Y1:390 Y2:420
+[ding] Ifyou'll be [ding]
+
+1782
+01:39:24,770 --> 01:39:27,796  X1:266 X2:454 Y1:390 Y2:419
+[ding]The teacher[ding]
+
+1783
+01:39:27,873 --> 01:39:30,865  X1:219 X2:503 Y1:358 Y2:419
+[ding] Long before
+the school bells chime [ding]
+
+1784
+01:39:30,943 --> 01:39:34,572  X1:269 X2:453 Y1:358 Y2:419
+[ding] I'll be there
+ahead oftime [ding]
+
+1785
+01:39:34,646 --> 01:39:39,447  X1:208 X2:513 Y1:390 Y2:420
+[ding]Just to see my teacher[ding]
+
+1786
+01:39:39,518 --> 01:39:42,851  X1:246 X2:476 Y1:358 Y2:419
+[ding] Start right
+from the fiirst ofit [ding]
+
+1787
+01:39:42,921 --> 01:39:44,889  X1:231 X2:490 Y1:390 Y2:420
+[ding] Don't miss a thing [ding]
+
+1788
+01:39:44,957 --> 01:39:46,185  X1:262 X2:459 Y1:390 Y2:419
+[ding] I want to get [ding]
+
+1789
+01:39:46,258 --> 01:39:51,161  X1:235 X2:488 Y1:358 Y2:419
+[ding]All the facts, then
+I'll know what to do [ding]
+
+1790
+01:39:51,230 --> 01:39:55,792  X1:234 X2:485 Y1:358 Y2:420
+[ding]When we graduate,
+I'll hold you tight [ding]
+
+1791
+01:39:55,868 --> 01:39:58,166  X1:231 X2:489 Y1:358 Y2:420
+[ding]Then you'll know
+you taught me right [ding]
+
+1792
+01:39:58,237 --> 01:40:03,038  X1:237 X2:486 Y1:358 Y2:420
+[ding]Teacher, teacher,
+I'm in love with you [ding]
+
+1793
+01:40:10,482 --> 01:40:13,076  X1:276 X2:444 Y1:390 Y2:420
+[ding] Ifyou'll be [ding]
+
+1794
+01:40:13,152 --> 01:40:16,053  X1:266 X2:454 Y1:390 Y2:419
+[ding]The teacher[ding]
+
+1795
+01:40:21,527 --> 01:40:25,486  X1:276 X2:444 Y1:390 Y2:420
+[ding] Ifyou'll be [ding]
+
+1796
+01:40:25,564 --> 01:40:28,124  X1:266 X2:454 Y1:390 Y2:419
+[ding]The teacher[ding]
+
+1797
+01:40:28,200 --> 01:40:31,727  X1:246 X2:476 Y1:358 Y2:419
+[ding] Start right
+from the fiirst ofit [ding]
+
+1798
+01:40:31,803 --> 01:40:33,293  X1:231 X2:490 Y1:390 Y2:420
+[ding] Don't miss a thing [ding]
+
+1799
+01:40:33,372 --> 01:40:34,600  X1:262 X2:459 Y1:390 Y2:419
+[ding] I want to get [ding]
+
+1800
+01:40:34,673 --> 01:40:39,736  X1:235 X2:488 Y1:358 Y2:419
+[ding]All the facts, then
+I'll know what to do [ding]
+
+1801
+01:40:39,811 --> 01:40:44,510  X1:234 X2:485 Y1:358 Y2:420
+[ding]When we graduate,
+I'll hold you tight [ding]
+
+1802
+01:40:44,583 --> 01:40:46,744  X1:231 X2:489 Y1:358 Y2:420
+[ding]Then you'll know
+you taught me right [ding]
+
+1803
+01:40:46,818 --> 01:40:48,445  X1:238 X2:482 Y1:390 Y2:419
+[ding]Teacher, teacher[ding]
+
+1804
+01:40:48,520 --> 01:40:51,318  X1:223 X2:497 Y1:390 Y2:420
+[ding] I'm in love with you [ding]
+

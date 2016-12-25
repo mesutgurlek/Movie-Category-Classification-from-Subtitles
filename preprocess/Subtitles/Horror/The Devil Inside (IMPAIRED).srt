@@ -1,0 +1,5572 @@
+﻿1
+00:00:51,134 --> 00:00:53,728
+DISPATCHER: <i>South Hartford 911.
+What is your emergency?</i>
+
+2
+00:01:21,123 --> 00:01:22,796
+(LINE DISCONNECTS)
+
+3
+00:01:27,921 --> 00:01:29,093
+(DISTORTED)
+<i>This is Lieutenant Dreyfus,</i>
+
+4
+00:01:29,172 --> 00:01:32,517
+<i>badge number 3525, at 174 Willow Lane.</i>
+
+5
+00:01:34,511 --> 00:01:37,856
+Now entering what appears to be
+the living room.
+
+6
+00:01:38,682 --> 00:01:41,606
+Living conditions are best described as
+
+7
+00:01:41,852 --> 00:01:44,275
+being in a state of disarray.
+Watch your step.
+
+8
+00:01:47,899 --> 00:01:50,402
+Kitchen also in a state of disarray.
+
+9
+00:01:51,236 --> 00:01:54,240
+Approaching the stairwell
+where first victim was found.
+
+10
+00:01:54,489 --> 00:01:56,912
+Note the instrument on the floor.
+
+11
+00:02:01,747 --> 00:02:05,422
+Victim number one is facing north.
+
+12
+00:02:06,585 --> 00:02:09,930
+Male, approximately 160 pounds.
+
+13
+00:02:10,547 --> 00:02:13,767
+Sustained injury to the left temple.
+
+14
+00:02:16,887 --> 00:02:17,934
+Now entering the basement
+
+15
+00:02:18,013 --> 00:02:20,812
+where victims number two and three
+were found.
+
+16
+00:02:27,689 --> 00:02:30,533
+Entered the basement of the house.
+
+17
+00:02:32,527 --> 00:02:34,871
+We find victim number two.
+
+18
+00:02:35,113 --> 00:02:38,868
+Female, approximately 120 pounds.
+
+19
+00:02:39,368 --> 00:02:40,711
+Facing west.
+
+20
+00:02:40,952 --> 00:02:44,798
+In the victim's right hand,
+we have religious paraphernalia,
+
+21
+00:02:45,207 --> 00:02:46,709
+apparently is clutching.
+
+22
+00:02:49,461 --> 00:02:51,304
+Heading south
+
+23
+00:02:52,464 --> 00:02:56,139
+we find another instrument on the floor.
+
+24
+00:03:01,640 --> 00:03:04,314
+We find victim number three.
+
+25
+00:03:04,643 --> 00:03:08,318
+Male, approximately 210 pounds.
+
+26
+00:03:09,815 --> 00:03:12,489
+We have trauma to the head.
+
+27
+00:03:13,318 --> 00:03:16,822
+Apparent strangulation with rope,
+
+28
+00:03:17,155 --> 00:03:20,830
+which is broken or torn away.
+
+29
+00:03:21,159 --> 00:03:24,834
+We have blood splattering
+against the door.
+
+30
+00:03:29,167 --> 00:03:32,762
+In the center of the room,
+we have a chair.
+
+31
+00:03:33,422 --> 00:03:36,517
+The right armrest of the chair is broken
+
+32
+00:03:36,758 --> 00:03:40,353
+with apparent claw marks
+from a struggle.
+
+33
+00:03:41,012 --> 00:03:44,687
+Various straps used for restraint.
+
+34
+00:03:48,729 --> 00:03:50,106
+(THUDDING)
+
+35
+00:04:02,367 --> 00:04:03,414
+(CRASHING)
+
+36
+00:04:06,037 --> 00:04:08,290
+ANNOUNCER: <i>WJBP, Channel 11.</i>
+
+37
+00:04:08,457 --> 00:04:09,754
+A quiet South Hartford community
+
+38
+00:04:09,833 --> 00:04:13,428
+was leveled by tragedy as
+three clergy members were found dead.
+
+39
+00:04:13,503 --> 00:04:16,256
+At about 11:47 p.m.
+on Sunday evening, the 20th,
+
+40
+00:04:16,339 --> 00:04:19,684
+we received an emergency call
+on our 911 line.
+
+41
+00:04:19,760 --> 00:04:22,434
+REPORTER: <i>At least three bodies
+were taken out of this house,</i>
+
+42
+00:04:22,512 --> 00:04:24,105
+<i>two local priests and a nun.</i>
+
+43
+00:04:24,181 --> 00:04:26,934
+We checked the location for any
+other victims and have not found any.
+
+44
+00:04:27,184 --> 00:04:28,982
+REPORTER: <i>Apparently,
+Maria Rossi was hosting</i>
+
+45
+00:04:29,060 --> 00:04:30,778
+<i>a church group meeting at her home.</i>
+
+46
+00:04:30,854 --> 00:04:33,482
+Our homicide detectives
+and our lab people
+
+47
+00:04:33,565 --> 00:04:34,657
+<i>are conducting their investigation.</i>
+
+48
+00:04:34,733 --> 00:04:37,236
+REPORTER: <i>Mrs. Rossi was found
+by police in a crawl space.</i>
+
+49
+00:04:37,402 --> 00:04:39,404
+We can't speculate <i>as</i> to what
+
+50
+00:04:39,654 --> 00:04:41,156
+<i>the cause or the motive may have been.</i>
+
+51
+00:04:41,239 --> 00:04:43,082
+They are not ruling out any possibilities.
+
+52
+00:04:44,034 --> 00:04:46,412
+<i>However, at this time,
+we don't want to speculate</i>
+
+53
+00:04:46,495 --> 00:04:49,374
+<i>on what may or may not have been
+the cause.</i>
+
+54
+00:04:53,251 --> 00:04:55,925
+<i>My name is Isabella Rossi</i>
+
+55
+00:04:56,588 --> 00:04:58,386
+and that was my mother.
+
+56
+00:04:59,758 --> 00:05:02,386
+<i>The thing you have to understand
+about my mother</i>
+
+57
+00:05:02,719 --> 00:05:04,392
+is that she just had a huge heart.
+
+58
+00:05:04,930 --> 00:05:08,935
+(SINGING) <i>Down came the rain
+and washed the spider out</i>
+
+59
+00:05:09,267 --> 00:05:12,111
+<i>Out came the sun
+and dried up all the rain</i>
+
+60
+00:05:13,063 --> 00:05:16,613
+And there we are.
+That was actually on my...
+
+61
+00:05:16,942 --> 00:05:18,285
+Can you see that?
+
+62
+00:05:19,903 --> 00:05:21,951
+That was my first birthday party.
+
+63
+00:05:22,280 --> 00:05:24,123
+<i>And I don't think it was until I was</i>
+
+64
+00:05:24,449 --> 00:05:28,170
+about six years old that
+I actually started to notice, you know,
+
+65
+00:05:28,245 --> 00:05:30,668
+<i>something was different,
+her moods were changing.</i>
+
+66
+00:05:30,747 --> 00:05:32,215
+<i>Then, she went away for a little bit</i>
+
+67
+00:05:32,290 --> 00:05:34,258
+<i>and when she came back
+they said she was better.</i>
+
+68
+00:05:35,794 --> 00:05:37,171
+But she wasn't.
+
+69
+00:05:37,629 --> 00:05:39,631
+<i>We couldn't understand
+what was happening.</i>
+
+70
+00:05:39,714 --> 00:05:41,136
+<i>No one had answers.</i>
+
+71
+00:05:41,466 --> 00:05:43,639
+MICHAEL SCHAEFER:
+So why are you doing this film?
+
+72
+00:05:44,302 --> 00:05:46,805
+Because I really need to
+
+73
+00:05:47,973 --> 00:05:51,318
+understand what happened.
+
+74
+00:05:57,148 --> 00:05:59,321
+What Maria Rossi did,
+and her subsequent life,
+
+75
+00:05:59,484 --> 00:06:02,784
+was incredibly tragic and clouded.
+
+76
+00:06:03,113 --> 00:06:07,493
+And caught in the middle of it
+is a daughter who is just now learning
+
+77
+00:06:07,701 --> 00:06:09,374
+<i>the circumstances of that tragedy.</i>
+
+78
+00:06:09,661 --> 00:06:12,005
+MARIA: <i>Isabella,
+look at the camera, honey.</i>
+
+79
+00:06:12,664 --> 00:06:15,213
+<i>If someone had asked me</i>
+
+80
+00:06:15,292 --> 00:06:19,718
+how is it possible for Mrs. Rossi
+to have done what she did,
+
+81
+00:06:19,796 --> 00:06:23,517
+I would have gone through the list
+of things that cause human aggression.
+
+82
+00:06:23,633 --> 00:06:27,012
+Something like major depression,
+or schizophrenia,
+
+83
+00:06:27,095 --> 00:06:29,393
+<i>or dissociative identity disorder.</i>
+
+84
+00:06:29,472 --> 00:06:30,724
+<i>It's my understanding</i>
+
+85
+00:06:30,807 --> 00:06:33,856
+that her current psychiatric diagnosis
+has been D.I.D.
+
+86
+00:06:34,603 --> 00:06:38,653
+But this is her seventh different
+diagnosis since 1987.
+
+87
+00:06:39,149 --> 00:06:42,574
+ISABELLA: <i>You start wondering,
+is it in my genes?</i>
+
+88
+00:06:43,862 --> 00:06:46,661
+You know,
+am I going to flip out one day?
+
+89
+00:06:47,198 --> 00:06:48,541
+<i>Just a matter of time?</i>
+
+90
+00:06:50,535 --> 00:06:53,880
+Two years after she brutally murdered
+three people in her home,
+
+91
+00:06:53,955 --> 00:06:55,172
+a South Hartford jury
+
+92
+00:06:55,248 --> 00:06:58,343
+<i>found Maria Rossi not guilty
+by reason of insanity.</i>
+
+93
+00:06:58,585 --> 00:07:01,464
+Rossi was committed
+to the South Hartford State Asylum.
+
+94
+00:07:01,546 --> 00:07:03,173
+ISABELLA: <i>And then in September
+of that year,</i>
+
+95
+00:07:03,423 --> 00:07:04,424
+<i>my mother was transferred</i>
+
+96
+00:07:04,507 --> 00:07:08,262
+to the Centrino Mental Hospital
+for the Criminally Insane in Rome, Italy.
+
+97
+00:07:08,345 --> 00:07:11,690
+<i>I never really questioned why Italy.</i>
+
+98
+00:07:12,057 --> 00:07:14,901
+MICHAEL: When did your father tell you
+what really happened?
+
+99
+00:07:18,063 --> 00:07:22,409
+May 23, 2009. I was 25 years old.
+
+100
+00:07:23,401 --> 00:07:25,699
+<i>He just said it. He said,</i>
+
+101
+00:07:26,112 --> 00:07:30,208
+"Mom attacked those people
+during an exorcism."
+
+102
+00:07:31,076 --> 00:07:33,750
+An exorcism performed on her.
+
+103
+00:07:33,912 --> 00:07:35,960
+It's the job of science to try to sort out
+
+104
+00:07:36,039 --> 00:07:38,508
+what is a reasonable,
+plausible explanation.
+
+105
+00:07:38,792 --> 00:07:40,794
+But science can't explain everything,
+
+106
+00:07:40,877 --> 00:07:42,003
+such as a person
+
+107
+00:07:42,087 --> 00:07:44,806
+levitating two feet off the ground
+during an exorcism.
+
+108
+00:07:46,675 --> 00:07:50,020
+I asked my dad if he thought
+she was possessed.
+
+109
+00:07:50,720 --> 00:07:52,267
+He said he didn't know.
+
+110
+00:07:52,597 --> 00:07:55,601
+That she was gone. It didn't matter.
+
+111
+00:07:56,101 --> 00:07:57,444
+Not any more.
+
+112
+00:08:00,397 --> 00:08:02,399
+He died three days later.
+
+113
+00:08:06,569 --> 00:08:09,368
+<i>I called the church
+where the priests had come from.</i>
+
+114
+00:08:09,447 --> 00:08:10,664
+<i>And they wouldn't talk about it.</i>
+
+115
+00:08:10,740 --> 00:08:13,789
+<i>They said they don't have
+an ordained exorcist and never did.</i>
+
+116
+00:08:14,119 --> 00:08:18,124
+So we're on our way to see
+the Vatican School for Exorcism.
+
+117
+00:08:18,748 --> 00:08:20,466
+And to see my mother.
+
+118
+00:08:21,793 --> 00:08:23,136
+MICHAEL: Are you nervous?
+
+119
+00:08:24,796 --> 00:08:28,141
+Yeah, I'm nervous.
+Twenty years is a long time, you know?
+
+120
+00:08:29,592 --> 00:08:32,471
+<i>So, later, I was contacted
+by the Diocese of Rome.</i>
+
+121
+00:08:32,554 --> 00:08:36,309
+<i>They told me they never authorized
+my mother's exorcism.</i>
+
+122
+00:08:36,641 --> 00:08:39,815
+<i>That's when I knew I had to go to Italy.</i>
+
+123
+00:08:48,778 --> 00:08:52,624
+I wonder how seriously they take
+the exorcism school, you know.
+
+124
+00:08:55,118 --> 00:08:56,961
+I hope it's not a joke.
+
+125
+00:09:00,707 --> 00:09:02,380
+(BLOWING WHISTLE)
+
+126
+00:09:04,294 --> 00:09:05,466
+Oh, wow.
+
+127
+00:09:09,632 --> 00:09:12,476
+There it is, St. Peter's Square.
+
+128
+00:09:13,845 --> 00:09:15,643
+(SPEAKING IN ITALIAN)
+
+129
+00:09:17,807 --> 00:09:19,150
+Something like that.
+
+130
+00:09:25,648 --> 00:09:29,448
+ISABELLA: <i>This school has drawn
+a lot of interest from all over the world.</i>
+
+131
+00:09:31,196 --> 00:09:34,166
+<i>Maybe it can help me understand
+my mother's situation a little better.</i>
+
+132
+00:09:34,532 --> 00:09:37,411
+FATHER ROBERT GALLO: From
+post-traumatic shock to serious injury,
+
+133
+00:09:37,494 --> 00:09:38,837
+death even.
+
+134
+00:09:39,162 --> 00:09:41,836
+And not just for the victim.
+
+135
+00:09:42,749 --> 00:09:46,925
+Also for the family members,
+for anyone in the vicinity,
+
+136
+00:09:47,003 --> 00:09:49,005
+especially the priest.
+
+137
+00:09:50,006 --> 00:09:52,350
+Sometimes a person
+
+138
+00:09:52,759 --> 00:09:56,354
+can be tormented
+by more than one demon
+
+139
+00:09:56,429 --> 00:09:59,524
+in what we call
+multiple demonic possession.
+
+140
+00:10:00,016 --> 00:10:03,520
+These cases are extremely
+volatile and dangerous,
+
+141
+00:10:04,020 --> 00:10:07,524
+and they sometimes
+lead to transference,
+
+142
+00:10:08,191 --> 00:10:11,536
+which means
+the demon jumps from one person
+
+143
+00:10:11,778 --> 00:10:13,280
+to another.
+
+144
+00:10:15,115 --> 00:10:19,040
+The purpose of the class
+is to educate priests
+
+145
+00:10:19,119 --> 00:10:20,416
+and, of course, laypeople,
+
+146
+00:10:20,495 --> 00:10:23,749
+about the Devil's presence in their lives,
+in modern society.
+
+147
+00:10:24,165 --> 00:10:25,963
+<i>For example, in Italy alone</i>
+
+148
+00:10:26,042 --> 00:10:28,966
+<i>there are over 800 satanic cults
+We had a problem.</i>
+
+149
+00:10:29,045 --> 00:10:31,013
+We needed more exorcists.
+
+150
+00:10:31,089 --> 00:10:33,592
+<i>If it is possession,
+then first and foremost</i>
+
+151
+00:10:33,675 --> 00:10:35,518
+<i>we must rule out mental illness.</i>
+
+152
+00:10:35,593 --> 00:10:37,641
+<i>Schizophrenia. Bipolar disorder.</i>
+
+153
+00:10:37,929 --> 00:10:41,183
+<i>The course is designed
+to explore all these conditions.</i>
+
+154
+00:10:41,432 --> 00:10:43,150
+(SHOUTING ON TAPE)
+
+155
+00:10:48,523 --> 00:10:49,649
+(IN ITALIAN)
+
+156
+00:10:49,732 --> 00:10:50,984
+(MRS. SORLINI SPEAKING IN ITALIAN)
+
+157
+00:10:54,821 --> 00:10:56,073
+(GAGGING)
+
+158
+00:10:58,158 --> 00:10:59,535
+(SNARLING)
+
+159
+00:11:00,743 --> 00:11:01,915
+Momma.
+
+160
+00:11:04,080 --> 00:11:05,081
+(RETCHING)
+
+161
+00:11:06,749 --> 00:11:08,501
+(LAUGHING IN SQUEAKY VOICE)
+
+162
+00:11:08,585 --> 00:11:10,007
+(MRS. SORLINI SPEAKING IN ITALIAN)
+
+163
+00:11:10,086 --> 00:11:11,508
+(IN ENGLISH)
+
+164
+00:11:16,009 --> 00:11:17,181
+(CRASHING)
+
+165
+00:11:18,803 --> 00:11:21,477
+Okay, anyone, any thoughts on that?
+
+166
+00:11:21,973 --> 00:11:24,271
+I believe the subject
+was clearly possessed.
+
+167
+00:11:24,350 --> 00:11:26,148
+The subject
+spoke in multiple languages.
+
+168
+00:11:26,436 --> 00:11:29,781
+Come on. Speaking in tongues? Maybe.
+
+169
+00:11:30,607 --> 00:11:35,534
+Incoherent babbling from
+a mentally-disturbed person, certainly.
+
+170
+00:11:35,778 --> 00:11:36,904
+I'm sorry, Father.
+
+171
+00:11:36,988 --> 00:11:38,911
+And the subject displayed
+abnormal strength
+
+172
+00:11:38,990 --> 00:11:41,994
+when confronted with holy water,
+and while heavily sedated.
+
+173
+00:11:42,076 --> 00:11:44,750
+The delusional mind
+of a paranoid schizophrenic
+
+174
+00:11:45,038 --> 00:11:48,212
+may actually react to holy water
+as if it were,
+
+175
+00:11:48,291 --> 00:11:50,885
+I don't know, acid, urine.
+
+176
+00:11:50,960 --> 00:11:53,304
+I'm sorry, I'm gonna have to disagree.
+
+177
+00:11:53,630 --> 00:11:56,304
+The girl fractured her own femur.
+
+178
+00:11:56,633 --> 00:12:00,479
+Her strength might have been abnormal,
+but not impossible.
+
+179
+00:12:00,678 --> 00:12:03,022
+It's very well known that
+
+180
+00:12:03,139 --> 00:12:07,815
+some epileptics do break their bones
+during a seizure. It's a fact.
+
+181
+00:12:08,311 --> 00:12:11,656
+GALLO: As I said, we must be sure
+to rule out mental illness.
+
+182
+00:12:11,981 --> 00:12:16,327
+In the end, this case
+could not be proved as possession.
+
+183
+00:12:16,861 --> 00:12:19,330
+ISABELLA: <i>- The diversity of the class
+was comforting.</i>
+
+184
+00:12:19,405 --> 00:12:22,750
+<i>It wasn't just priests or nuns,
+but regular people,</i>
+
+185
+00:12:22,825 --> 00:12:25,499
+<i>people who are facing
+the same things I'm facing.</i>
+
+186
+00:12:25,828 --> 00:12:28,832
+<i>People like me,
+looking to help someone.</i>
+
+187
+00:12:29,666 --> 00:12:31,009
+ISABELLA: So why are you here?
+
+188
+00:12:32,669 --> 00:12:35,047
+All this knowledge, you all agree on this,
+
+189
+00:12:35,129 --> 00:12:38,133
+all this knowledge
+is invaluable for us, no?
+
+190
+00:12:38,549 --> 00:12:41,302
+David, what would you say
+drew you to this school?
+
+191
+00:12:41,386 --> 00:12:43,559
+In particular, to exorcism?
+
+192
+00:12:44,555 --> 00:12:48,731
+The combination
+of science and religion.
+
+193
+00:12:49,060 --> 00:12:51,609
+I think,
+based on my background in medicine,
+
+194
+00:12:51,688 --> 00:12:53,736
+it gave me a greater sense of purpose.
+
+195
+00:12:53,815 --> 00:12:57,820
+We all talk so definitively
+about God and about the Devil
+
+196
+00:12:57,902 --> 00:13:03,875
+but we can all agree that there's
+no real facts, right? No proofs?
+
+197
+00:13:04,534 --> 00:13:07,754
+God has never helped me.
+What about you?
+
+198
+00:13:10,915 --> 00:13:12,417
+Sure. Yeah.
+
+199
+00:13:12,875 --> 00:13:17,221
+So when do you actually witness
+an exorcism in class?
+
+200
+00:13:17,422 --> 00:13:19,424
+This class is all theory.
+
+201
+00:13:19,757 --> 00:13:22,101
+This is a school of exorcism, is it not?
+
+202
+00:13:22,427 --> 00:13:24,725
+It's not reality.
+
+203
+00:13:25,930 --> 00:13:28,934
+Look at the tape we watched today.
+
+204
+00:13:29,225 --> 00:13:34,072
+That girl fit every criteria for possession
+except she wasn't.
+
+205
+00:13:34,272 --> 00:13:35,524
+It's a mental disorder.
+
+206
+00:13:35,606 --> 00:13:38,576
+No. When you witness
+someone possessed,
+
+207
+00:13:38,651 --> 00:13:40,153
+you'll know the difference.
+
+208
+00:13:40,236 --> 00:13:42,330
+You say that like you have.
+
+209
+00:13:42,405 --> 00:13:45,375
+Have you witnessed a real exorcism,
+Father?
+
+210
+00:13:46,909 --> 00:13:51,585
+Yeah. Right after he saw
+the Easter Bunny.
+
+211
+00:13:51,789 --> 00:13:54,508
+I may have.
+Can I ask you something, Isabella?
+
+212
+00:13:54,584 --> 00:13:56,052
+- Sure.
+- I'm curious.
+
+213
+00:13:57,086 --> 00:13:59,259
+Why are you doing this documentary?
+
+214
+00:14:02,300 --> 00:14:04,803
+I will be honest. My mom.
+
+215
+00:14:05,803 --> 00:14:09,307
+When I was about eight years old
+
+216
+00:14:10,099 --> 00:14:12,272
+she murdered three people.
+
+217
+00:14:12,643 --> 00:14:14,611
+Members of her church.
+
+218
+00:14:15,646 --> 00:14:20,322
+I found out that she had committed
+these murders during an exorcism.
+
+219
+00:14:20,651 --> 00:14:23,655
+An exorcism on her.
+
+220
+00:14:25,406 --> 00:14:26,828
+- See you.
+- It was nice meeting you.
+
+221
+00:14:28,117 --> 00:14:29,869
+Your mother must be at Centrino, right?
+
+222
+00:14:30,119 --> 00:14:32,793
+- Have you seen her yet?
+- Tomorrow.
+
+223
+00:14:33,039 --> 00:14:37,260
+Okay, well, the class
+won't give you the answers you need.
+
+224
+00:14:37,335 --> 00:14:39,383
+You need to see a real one.
+
+225
+00:14:40,463 --> 00:14:42,215
+How do you know when it's real?
+
+226
+00:14:42,465 --> 00:14:43,637
+You know.
+
+227
+00:14:44,050 --> 00:14:45,222
+Good luck.
+
+228
+00:14:45,676 --> 00:14:47,019
+Thanks.
+
+229
+00:14:48,346 --> 00:14:49,598
+(SIGHS)
+
+230
+00:14:52,558 --> 00:14:54,481
+That was interesting.
+
+231
+00:15:00,650 --> 00:15:02,493
+- Hey.
+MICHAEL: - What are you looking at?
+
+232
+00:15:02,944 --> 00:15:06,289
+My mother's hospital instruction manual.
+
+233
+00:15:06,614 --> 00:15:08,491
+Look at this thing, it's huge.
+
+234
+00:15:08,574 --> 00:15:09,826
+Okay.
+
+235
+00:15:10,451 --> 00:15:13,796
+So, camera one, two and three.
+
+236
+00:15:14,497 --> 00:15:15,498
+Which one do I look at?
+
+237
+00:15:15,581 --> 00:15:17,049
+MICHAEL: You don't have to look
+directly at the camera.
+
+238
+00:15:17,125 --> 00:15:18,468
+Right. I knew that.
+
+239
+00:15:18,709 --> 00:15:21,462
+MICHAEL: Remember, the cameras
+are always running when the car's on.
+
+240
+00:15:21,546 --> 00:15:22,593
+Let's go.
+
+241
+00:15:22,797 --> 00:15:26,973
+You know,
+my father received a letter from Rome.
+
+242
+00:15:27,385 --> 00:15:31,731
+I guess because priests were involved.
+The Holy Church got involved <i>as</i> well.
+
+243
+00:15:31,973 --> 00:15:34,647
+And they said that they wanted to
+treat my mother at Centrino.
+
+244
+00:15:34,725 --> 00:15:35,897
+They called it
+
+245
+00:15:36,811 --> 00:15:38,438
+an "offering of forgiveness."
+
+246
+00:15:38,521 --> 00:15:42,151
+And I remember thinking that meant
+God was forgiving my mother.
+
+247
+00:15:44,652 --> 00:15:46,245
+I was young.
+
+248
+00:15:49,198 --> 00:15:50,199
+Okay.
+
+249
+00:16:05,131 --> 00:16:07,259
+(SPEAKING IN ITALIAN)
+
+250
+00:16:08,426 --> 00:16:11,100
+- No camera.
+MICHAEL: - Show him the media pass.
+
+251
+00:16:16,476 --> 00:16:18,274
+(THAN KING IN ITALIAN)
+
+252
+00:16:38,706 --> 00:16:40,299
+ISABELLA: <i>It felt like a prison.</i>
+
+253
+00:16:40,374 --> 00:16:43,218
+An old prison, really.
+
+254
+00:16:43,503 --> 00:16:47,553
+But Dr. Costa seemed concerned,
+so that was good.
+
+255
+00:16:48,591 --> 00:16:50,468
+Uh... Follow me.
+
+256
+00:16:55,556 --> 00:16:59,186
+I only show you this because your
+mother has not had a violent outburst
+
+257
+00:16:59,268 --> 00:17:01,020
+in over 7 years.
+
+258
+00:17:07,818 --> 00:17:09,491
+(GRUNTING)
+
+259
+00:17:12,240 --> 00:17:15,835
+She's extraordinarily anti-religious.
+
+260
+00:17:15,952 --> 00:17:19,627
+We refrain from religious items
+and discussion at all times.
+
+261
+00:17:19,997 --> 00:17:21,340
+They can make her hostile.
+
+262
+00:17:21,582 --> 00:17:23,255
+But I want to put...
+
+263
+00:17:24,210 --> 00:17:25,462
+(GROANS)
+
+264
+00:17:27,004 --> 00:17:28,802
+(LAUGHING MANIACALLY)
+
+265
+00:17:30,383 --> 00:17:31,384
+(GRUNTING)
+
+266
+00:17:32,093 --> 00:17:34,221
+(INDISTINCT TALKING ON TAPE)
+
+267
+00:17:41,352 --> 00:17:42,399
+That's enough.
+
+268
+00:17:42,520 --> 00:17:43,942
+I'm not sure if you knew this, doctor,
+
+269
+00:17:44,063 --> 00:17:45,565
+but my mother was involved
+in an exorcism
+
+270
+00:17:45,648 --> 00:17:47,195
+while she committed those murders.
+
+271
+00:17:47,275 --> 00:17:48,322
+Did you know that?
+
+272
+00:17:48,776 --> 00:17:52,280
+Isabella, your mother's case,
+although unique,
+
+273
+00:17:52,613 --> 00:17:55,116
+<i>is not a matter of demonic possession.</i>
+
+274
+00:17:55,199 --> 00:17:57,873
+It's a matter of brain function.
+
+275
+00:17:57,952 --> 00:18:01,798
+So why do you think she was transferred
+all the way from the States to Rome?
+
+276
+00:18:02,290 --> 00:18:06,136
+I don't know.
+It was before I arrived here.
+
+277
+00:18:13,050 --> 00:18:16,145
+DR. COSTA: Unfortunately,
+we've had to keep her heavily medicated.
+
+278
+00:18:16,470 --> 00:18:20,316
+An exhaustive amount of meds,
+to be honest.
+
+279
+00:18:20,641 --> 00:18:22,484
+Anti psychotics.
+
+280
+00:18:22,810 --> 00:18:25,484
+Sedatives. Anti-anxiety.
+
+281
+00:18:25,813 --> 00:18:27,486
+It constantly changes.
+
+282
+00:18:27,815 --> 00:18:30,819
+She is a very, very complex patient.
+
+283
+00:18:31,235 --> 00:18:33,408
+(PATIENT SINGING)
+
+284
+00:18:51,922 --> 00:18:53,674
+Miss Rossi, let's keep moving.
+
+285
+00:18:54,008 --> 00:18:58,013
+She is having a very good day today.
+But there still are rules.
+
+286
+00:18:58,346 --> 00:19:02,271
+Don't talk about faith or God.
+And stay passive.
+
+287
+00:19:02,600 --> 00:19:07,276
+Hostility and aggression are...
+Well, they've provoked her in the past.
+
+288
+00:19:07,355 --> 00:19:08,857
+(DOOR BUZZING)
+
+289
+00:19:11,776 --> 00:19:14,450
+Just precautions. It will be fine.
+
+290
+00:19:14,695 --> 00:19:18,541
+In fact, there is a very good chance
+she won't even recognize you.
+
+291
+00:19:20,785 --> 00:19:22,128
+Maria?
+
+292
+00:19:24,789 --> 00:19:26,462
+You have a visitor.
+
+293
+00:19:37,385 --> 00:19:38,728
+Come. Come.
+
+294
+00:20:10,918 --> 00:20:12,261
+Hi, Mom.
+
+295
+00:20:17,675 --> 00:20:19,848
+I like your drawings.
+
+296
+00:20:24,014 --> 00:20:28,611
+Maria, I'd like to speak with you
+if you'd let me, please.
+
+297
+00:20:30,938 --> 00:20:32,940
+My name is Isabella.
+
+298
+00:20:33,607 --> 00:20:35,450
+Isabella Rossi.
+
+299
+00:20:41,031 --> 00:20:42,704
+I'm your daughter.
+
+300
+00:20:51,292 --> 00:20:54,136
+I just haven't seen you in a long time.
+
+301
+00:20:56,547 --> 00:20:58,140
+Connect the cuts.
+
+302
+00:20:59,300 --> 00:21:03,305
+Connect the cuts. Connect the cuts.
+Connect the cuts.
+
+303
+00:21:03,637 --> 00:21:05,310
+Connect the cuts. Connect the cuts.
+
+304
+00:21:05,639 --> 00:21:08,313
+Connect the cuts. Connect the cuts.
+
+305
+00:21:10,144 --> 00:21:11,566
+Connect the cuts. Connect the cuts.
+
+306
+00:21:16,650 --> 00:21:19,824
+Connect the cuts. Connect the cuts.
+
+307
+00:21:24,658 --> 00:21:26,660
+Do you recognize this?
+
+308
+00:21:29,079 --> 00:21:31,502
+MARIA: Do you know
+how to connect the cuts?
+
+309
+00:21:33,334 --> 00:21:35,428
+I don't know what that means.
+
+310
+00:21:38,339 --> 00:21:40,842
+Connect the cuts.
+
+311
+00:21:42,843 --> 00:21:44,845
+Did you do that to yourself?
+
+312
+00:21:49,016 --> 00:21:50,142
+Please stop.
+
+313
+00:21:53,103 --> 00:21:57,108
+Maria, I came a very long way
+to see you.
+
+314
+00:21:58,150 --> 00:22:01,074
+Do you want to see my painting?
+
+315
+00:22:01,737 --> 00:22:04,536
+Yes. I'd like that. I'd love that.
+
+316
+00:22:14,917 --> 00:22:19,593
+Yes, yes. Maria, he was your husband.
+You loved him very much.
+
+317
+00:22:21,507 --> 00:22:23,009
+Do you remember?
+
+318
+00:22:25,094 --> 00:22:26,596
+Who are you?
+
+319
+00:22:26,846 --> 00:22:30,316
+I'm Isabella. I'm your daughter.
+
+320
+00:22:30,391 --> 00:22:33,440
+- I don't have a daughter.
+- Yes, yes, you do.
+
+321
+00:22:33,519 --> 00:22:35,647
+We just haven't seen each other
+in a very long time.
+
+322
+00:22:35,729 --> 00:22:38,232
+I don't have a daughter.
+
+323
+00:22:40,734 --> 00:22:42,077
+Do I?
+
+324
+00:22:43,946 --> 00:22:45,619
+(ISABELLA CRYING)
+
+325
+00:22:45,906 --> 00:22:48,079
+Why? Why?
+
+326
+00:22:49,326 --> 00:22:50,919
+Why not?
+
+327
+00:22:51,704 --> 00:22:52,956
+(GASPS)
+
+328
+00:22:53,247 --> 00:22:57,593
+Well, thank you for coming.
+Please say hello to your family from me.
+
+329
+00:22:57,918 --> 00:23:01,889
+Have a nice day. Thank you for coming.
+I have to go. I have to go.
+
+330
+00:23:02,423 --> 00:23:04,676
+I have to get ready. I have to get ready.
+
+331
+00:23:05,593 --> 00:23:08,346
+I have to get ready. Get ready.
+
+332
+00:23:08,596 --> 00:23:11,440
+Get ready.
+
+333
+00:23:16,687 --> 00:23:19,361
+You shouldn't have killed.
+
+334
+00:23:19,773 --> 00:23:21,195
+What did you say?
+
+335
+00:23:22,443 --> 00:23:26,448
+Maria, please. I don't have a lot of time.
+Please, tell me something.
+
+336
+00:23:30,159 --> 00:23:33,163
+You shouldn't have killed your child.
+
+337
+00:23:42,671 --> 00:23:44,218
+What?
+
+338
+00:24:01,565 --> 00:24:04,990
+It's against God's will, you know.
+
+339
+00:24:07,863 --> 00:24:09,615
+(SCREAMING)
+
+340
+00:24:09,698 --> 00:24:11,075
+(INDISTINCT)
+
+341
+00:24:17,748 --> 00:24:19,750
+DR. COSTA: Out, out, out!
+
+342
+00:24:21,835 --> 00:24:24,679
+MICHAEL: Shit, that was great.
+That was great stuff.
+
+343
+00:24:26,590 --> 00:24:28,183
+Are you all right?
+
+344
+00:24:30,844 --> 00:24:32,187
+Isabella?
+
+345
+00:24:32,846 --> 00:24:33,847
+Isabella, I...
+
+346
+00:24:52,491 --> 00:24:53,788
+(SOBBING)
+
+347
+00:25:00,708 --> 00:25:03,461
+ISABELLA: <i>What's it like,
+losing both parents?</i>
+
+348
+00:25:05,713 --> 00:25:08,717
+<i>It feels empty.</i>
+
+349
+00:25:10,759 --> 00:25:13,433
+<i>Like there's no safety net
+to fallback on.</i>
+
+350
+00:25:13,887 --> 00:25:16,060
+<i>And it forces you to be resilient.</i>
+
+351
+00:25:16,223 --> 00:25:19,602
+<i>Possession and exorcism
+have dictated my life.</i>
+
+352
+00:25:20,060 --> 00:25:23,234
+<i>It took my mom
+and it basically killed my dad.</i>
+
+353
+00:25:23,564 --> 00:25:25,316
+<i>It defines me now.</i>
+
+354
+00:25:25,899 --> 00:25:28,197
+<i>I mean, here I am</i>
+
+355
+00:25:28,277 --> 00:25:31,827
+<i>I flew halfway across...
+You know, halfway across the world</i>
+
+356
+00:25:31,905 --> 00:25:34,499
+<i>to see this woman
+who I never thought I'd see again.</i>
+
+357
+00:25:35,242 --> 00:25:37,085
+<i>I don't like that it defines me.</i>
+
+358
+00:25:38,203 --> 00:25:41,753
+ISABELLA: <i>I contacted
+Father Ben Rawlings and David Keane</i>
+
+359
+00:25:41,832 --> 00:25:45,132
+<i>in hopes that they would review
+the footage of my mother.</i>
+
+360
+00:25:46,378 --> 00:25:48,801
+Luckily, they agreed
+and invited me to their loft.
+
+361
+00:26:02,394 --> 00:26:03,737
+Isabella, hi, welcome.
+
+362
+00:26:03,979 --> 00:26:06,073
+- How are you?
+- Good. Come in.
+
+363
+00:26:09,151 --> 00:26:13,406
+It's hard to say
+why I wanted to be a priest.
+
+364
+00:26:13,489 --> 00:26:15,742
+<i>Maybe I was drawn to helping people.</i>
+
+365
+00:26:16,408 --> 00:26:21,710
+<i>I think that duality exists within all of
+us and, occasionally, it can take form.</i>
+
+366
+00:26:22,331 --> 00:26:26,837
+<i>Science can no longer help,
+and religion has to take over.</i>
+
+367
+00:26:27,336 --> 00:26:29,964
+Which can be really difficult
+for people to accept.
+
+368
+00:26:30,130 --> 00:26:33,225
+Isabella, nice to see you again.
+How are you? You okay? Okay, great.
+
+369
+00:26:33,467 --> 00:26:36,061
+- Can I get you a cup of tea or anything?
+- Sure.
+
+370
+00:26:36,136 --> 00:26:38,480
+I'm sorry, I forgot your...
+
+371
+00:26:38,806 --> 00:26:40,183
+- Michael.
+- Michael.
+
+372
+00:26:41,892 --> 00:26:44,771
+My family were always very religious.
+
+373
+00:26:44,853 --> 00:26:46,821
+My mother and father,
+they were teachers,
+
+374
+00:26:46,897 --> 00:26:50,367
+but I was closest to my uncle.
+He was a priest.
+
+375
+00:26:51,735 --> 00:26:55,740
+<i>By the time I was 13,
+he told me that he was an exorcist.</i>
+
+376
+00:26:55,989 --> 00:26:57,662
+<i>And, well,</i>
+
+377
+00:26:59,326 --> 00:27:00,999
+if you can imagine...
+
+378
+00:27:01,995 --> 00:27:05,670
+It's like, I suppose, you know,
+you being told that
+
+379
+00:27:06,333 --> 00:27:08,176
+your dad is Superman.
+
+380
+00:27:08,502 --> 00:27:11,676
+That's what it felt like to me.
+That he was in direct,
+
+381
+00:27:12,673 --> 00:27:15,597
+you know, war, I suppose,
+with the Devil.
+
+382
+00:27:18,345 --> 00:27:20,723
+And, I don't know,
+it blew me away, really.
+
+383
+00:27:21,598 --> 00:27:26,229
+<i>And so, he took me along with him
+and by the time I was 18,</i>
+
+384
+00:27:26,311 --> 00:27:29,360
+I'd seen four exorcisms.
+I'd even assisted on one.
+
+385
+00:27:29,648 --> 00:27:31,821
+And it just changes you.
+
+386
+00:27:33,193 --> 00:27:35,992
+<i>Unfortunately, he passed away
+a couple years ago.</i>
+
+387
+00:27:36,238 --> 00:27:39,993
+Anyway, when I was 23,
+I went into the priesthood.
+
+388
+00:27:40,659 --> 00:27:43,754
+And by the time I was 27,
+I was an ordained exorcist.
+
+389
+00:27:47,249 --> 00:27:49,672
+<i>But I'll tell you this.</i>
+
+390
+00:27:50,252 --> 00:27:52,926
+After all the years
+that I've been in the Church
+
+391
+00:27:53,172 --> 00:27:55,846
+I've seen the Devil
+way more than I've seen God.
+
+392
+00:27:56,175 --> 00:27:58,473
+That's just not the way
+it's supposed to be.
+
+393
+00:28:01,138 --> 00:28:03,516
+There, what did she say to you there?
+
+394
+00:28:03,807 --> 00:28:04,979
+Oh, uh...
+
+395
+00:28:05,058 --> 00:28:07,777
+Yeah, at the end there,
+she started remembering things,
+
+396
+00:28:07,853 --> 00:28:10,697
+specific things,
+and she said something to me.
+
+397
+00:28:10,939 --> 00:28:12,941
+But I'm not sure if she said...
+
+398
+00:28:13,192 --> 00:28:14,694
+What? What was it?
+
+399
+00:28:17,196 --> 00:28:19,870
+I terminated a pregnancy
+about four years ago.
+
+400
+00:28:20,115 --> 00:28:22,459
+The doctor said
+I couldn't carry it to term, so...
+
+401
+00:28:22,701 --> 00:28:25,705
+Anyway, she knew about it,
+and she said that...
+
+402
+00:28:26,038 --> 00:28:31,044
+Something about
+being against God's will or something.
+
+403
+00:28:31,376 --> 00:28:33,299
+Hang on. Let's just look at that.
+
+404
+00:28:33,712 --> 00:28:36,556
+It's against God's will, you know.
+
+405
+00:28:36,798 --> 00:28:37,845
+ISABELLA:
+That means something, right?
+
+406
+00:28:37,925 --> 00:28:40,144
+DAVID: Possibly. You said you had
+a copy of her medical charts?
+
+407
+00:28:40,219 --> 00:28:41,345
+Wait, wait, wait.
+
+408
+00:28:41,595 --> 00:28:42,892
+What are those?
+
+409
+00:28:43,639 --> 00:28:46,062
+ISABELLA: Oh! She cuts herself.
+
+410
+00:28:46,141 --> 00:28:48,485
+DAVID: Those are crosses, Ben.
+
+411
+00:28:49,561 --> 00:28:52,405
+Crosses? Wait, wouldn't she
+not want crosses if she's possessed?
+
+412
+00:28:52,481 --> 00:28:54,233
+- Not necessarily.
+- Look at them. Look at them.
+
+413
+00:28:54,316 --> 00:28:56,819
+The way that she's seeing them,
+they're upside down.
+
+414
+00:28:56,902 --> 00:29:01,078
+They're inverted crosses.
+They're typically used in Satanic rituals.
+
+415
+00:29:01,573 --> 00:29:03,075
+I don't have a daughter.
+
+416
+00:29:03,158 --> 00:29:04,410
+DAVID: Wait, is she speaking
+with an accent?
+
+417
+00:29:04,493 --> 00:29:06,245
+ISABELLA: Yeah,
+she did that some. Why?
+
+418
+00:29:06,328 --> 00:29:08,330
+DAVID: Different accents can be like
+speaking in tongues.
+
+419
+00:29:08,497 --> 00:29:11,546
+The pregnancy,
+did you tell her about that at all?
+
+420
+00:29:11,625 --> 00:29:12,672
+ISABELLA: No.
+
+421
+00:29:12,751 --> 00:29:13,752
+DAVID: And you're absolutely sure
+
+422
+00:29:13,835 --> 00:29:16,008
+there's no other way
+she could have found out?
+
+423
+00:29:16,088 --> 00:29:18,182
+I mean, there's no way.
+
+424
+00:29:18,507 --> 00:29:22,057
+See, there are basically four factors
+
+425
+00:29:22,135 --> 00:29:25,935
+when it comes to
+determining demonic possession.
+
+426
+00:29:26,014 --> 00:29:28,187
+One, unnatural strength.
+
+427
+00:29:28,517 --> 00:29:31,191
+You got aversion to holy objects.
+
+428
+00:29:31,520 --> 00:29:34,239
+Languages or events
+that they could not have known.
+
+429
+00:29:34,314 --> 00:29:36,191
+And preternatural movement,
+
+430
+00:29:36,441 --> 00:29:40,992
+which is basically
+objects moving around the room.
+
+431
+00:29:42,406 --> 00:29:46,206
+So, strength? No. Languages, no.
+
+432
+00:29:46,285 --> 00:29:48,959
+Preternatural movement, no.
+Aversion to holy objects, maybe.
+
+433
+00:29:49,037 --> 00:29:51,711
+Yeah, but there are accents
+and, Ben, she knew that information.
+
+434
+00:29:51,790 --> 00:29:53,633
+Yeah, that interests me.
+
+435
+00:29:58,463 --> 00:30:00,716
+We need to show you something.
+
+436
+00:30:02,342 --> 00:30:04,720
+Okay. Can I bring the camera?
+
+437
+00:30:08,473 --> 00:30:10,350
+- Sure.
+- All right.
+
+438
+00:30:10,559 --> 00:30:11,560
+Okay.
+
+439
+00:30:12,227 --> 00:30:15,071
+- Can I bring this?
+- Yeah, of course. Come on through.
+
+440
+00:30:16,732 --> 00:30:18,985
+MICHAEL: I'm good. I'm right behind you.
+Keep going.
+
+441
+00:30:24,239 --> 00:30:27,243
+ISABELLA: What is all this?
+Who are these people?
+
+442
+00:30:27,576 --> 00:30:30,500
+BEN: These are people
+the Church turned down for exorcism.
+
+443
+00:30:30,746 --> 00:30:35,252
+- And they're all possessed?
+BEN: - We believe they are.
+
+444
+00:30:35,334 --> 00:30:38,258
+These two cases are resolved.
+Those two are open
+
+445
+00:30:38,503 --> 00:30:40,756
+and we're almost done with this one.
+
+446
+00:30:41,006 --> 00:30:44,681
+This is the girl, Rosa, right?
+From the video we saw in Gallo's class?
+
+447
+00:30:44,760 --> 00:30:46,387
+You both thought she was possessed.
+
+448
+00:30:46,470 --> 00:30:49,440
+BEN: She is.
+We think the Church made a mistake.
+
+449
+00:30:52,476 --> 00:30:54,478
+So correct me if I'm wrong,
+
+450
+00:30:55,437 --> 00:30:59,783
+but you guys are performing
+these exorcisms yourselves,
+
+451
+00:31:00,108 --> 00:31:02,202
+without the Church's permission?
+
+452
+00:31:02,778 --> 00:31:06,783
+That's right. We have to. Otherwise,
+these people would continue to suffer.
+
+453
+00:31:09,242 --> 00:31:10,585
+What is all that?
+
+454
+00:31:10,744 --> 00:31:13,167
+DAVID: We monitor everything.
+Heart rate, blood pressure.
+
+455
+00:31:13,246 --> 00:31:14,418
+Yeah, go ahead.
+
+456
+00:31:14,498 --> 00:31:17,342
+That's a camera we use
+to determine pupil dilation,
+
+457
+00:31:17,417 --> 00:31:20,091
+which is very important
+in cases of possession.
+
+458
+00:31:20,337 --> 00:31:23,432
+Nine millimeters
+is as large as the average pupil gets.
+
+459
+00:31:23,673 --> 00:31:25,596
+Maybe 10 or 11
+under certain substances
+
+460
+00:31:25,675 --> 00:31:28,019
+like cocaine, psilocybin,
+methamphetamines.
+
+461
+00:31:28,261 --> 00:31:30,684
+Anything above 11
+is considered preternatural.
+
+462
+00:31:30,931 --> 00:31:32,683
+Why doesn't the Church
+help these people?
+
+463
+00:31:32,766 --> 00:31:34,063
+You see, that's just it.
+
+464
+00:31:34,142 --> 00:31:36,941
+The Church isn't in the business
+of healing people.
+
+465
+00:31:37,187 --> 00:31:38,530
+The bureaucracy won't allow it.
+
+466
+00:31:38,772 --> 00:31:41,901
+Their hands are tied. In 1999,
+the Church changed the exorcism rites
+
+467
+00:31:41,983 --> 00:31:44,361
+for the first time in almost 400 years.
+
+468
+00:31:44,444 --> 00:31:46,321
+Now a priest has to be
+absolutely certain
+
+469
+00:31:46,405 --> 00:31:49,625
+that there's an evil presence
+in order to even attempt an exorcism.
+
+470
+00:31:49,699 --> 00:31:52,373
+And that's a near impossible task,
+because a lot of the time
+
+471
+00:31:52,619 --> 00:31:55,964
+it takes an exorcism
+for a demon to reveal itself.
+
+472
+00:31:56,039 --> 00:31:58,838
+But rather than get distracted
+by the Church's hypocrisy,
+
+473
+00:31:58,959 --> 00:32:00,882
+we're going to
+continue to care for these people.
+
+474
+00:32:01,002 --> 00:32:02,970
+So that means that my mother's case
+can actually be something...
+
+475
+00:32:03,046 --> 00:32:04,343
+DAVID: No, no. Isabella, you...
+
+476
+00:32:04,714 --> 00:32:07,012
+The Church will never pursue
+your mother's case
+
+477
+00:32:07,092 --> 00:32:08,844
+because the last time someone did,
+people died.
+
+478
+00:32:09,261 --> 00:32:10,854
+What do you suggest?
+
+479
+00:32:11,096 --> 00:32:12,689
+If you really want to help your mother,
+
+480
+00:32:12,764 --> 00:32:15,017
+you need a better understanding
+of exorcism.
+
+481
+00:32:15,267 --> 00:32:17,190
+A real understanding.
+
+482
+00:32:18,103 --> 00:32:22,358
+Okay. So take more classes
+and maybe show Gallo the tape?
+
+483
+00:32:22,441 --> 00:32:27,618
+Isabella, you'll learn more
+in five minutes of an exorcism
+
+484
+00:32:27,696 --> 00:32:30,620
+than you will
+in three months in some class.
+
+485
+00:32:30,782 --> 00:32:32,204
+Plus, you'll get to know
+the real difference
+
+486
+00:32:32,284 --> 00:32:34,912
+between possession and mental illness.
+
+487
+00:32:39,291 --> 00:32:42,135
+So witness a real exorcism?
+
+488
+00:32:43,962 --> 00:32:45,214
+With you?
+
+489
+00:32:45,797 --> 00:32:47,140
+If you want.
+
+490
+00:32:54,431 --> 00:32:57,560
+So the exorcism rites,
+when they were updated,
+
+491
+00:32:58,351 --> 00:33:00,103
+what exactly changed?
+
+492
+00:33:00,395 --> 00:33:03,740
+Well, for one, all media coverage
+of exorcisms were banned.
+
+493
+00:33:03,982 --> 00:33:06,155
+Not that they were filmed much anyway.
+
+494
+00:33:06,401 --> 00:33:09,154
+Exorcisms can take minutes
+or they can take years.
+
+495
+00:33:09,237 --> 00:33:10,580
+No two are the same.
+
+496
+00:33:13,074 --> 00:33:15,418
+Is this thing we're doing even legal?
+
+497
+00:33:16,244 --> 00:33:18,167
+No. Not exactly.
+
+498
+00:33:21,750 --> 00:33:23,969
+You never know what's going to happen.
+
+499
+00:33:24,044 --> 00:33:25,546
+(CROWS CAWING)
+
+500
+00:33:25,629 --> 00:33:27,506
+(CHURCH BELLS DINGING)
+
+501
+00:33:39,935 --> 00:33:42,279
+So do you still get nervous or...
+
+502
+00:33:44,439 --> 00:33:45,531
+(BARKING)
+
+503
+00:33:45,607 --> 00:33:47,200
+No, not really.
+
+504
+00:33:48,401 --> 00:33:49,869
+Demons, like angels, have orders,
+
+505
+00:33:49,945 --> 00:33:51,993
+or spheres, to be more specific.
+A hierarchy, basically.
+
+506
+00:33:52,781 --> 00:33:56,035
+<i>Now, it's imperative you get the demon
+to reveal itself so you can deduce</i>
+
+507
+00:33:56,117 --> 00:33:57,664
+its rank in that hierarchy.
+
+508
+00:33:58,620 --> 00:33:59,963
+<i>In our last session</i>
+
+509
+00:34:00,205 --> 00:34:01,923
+we were able to hone in
+on our demon's identity.
+
+510
+00:34:01,998 --> 00:34:03,090
+His name is Berith.
+
+511
+00:34:03,792 --> 00:34:05,965
+Look, I know we went over this before.
+
+512
+00:34:06,044 --> 00:34:08,092
+Keep us between you and her, okay.
+I'm not kidding.
+
+513
+00:34:08,171 --> 00:34:09,468
+MICHAEL: All right, all right.
+
+514
+00:34:10,674 --> 00:34:12,722
+(BEN SPEAKING IN ITALIAN)
+
+515
+00:34:20,976 --> 00:34:23,195
+- Father.
+- How is she?
+
+516
+00:34:24,854 --> 00:34:26,322
+(IN ITALIAN)
+
+517
+00:34:27,065 --> 00:34:30,410
+- She's worse? Okay, let me see.
+- No, no.
+
+518
+00:34:31,319 --> 00:34:35,825
+We had to move her downstairs.
+To the basement.
+
+519
+00:34:36,408 --> 00:34:37,751
+The basement?
+
+520
+00:34:41,121 --> 00:34:42,464
+This is it.
+
+521
+00:34:43,206 --> 00:34:47,006
+We're actually going to see a person
+who is supposedly possessed.
+
+522
+00:34:47,544 --> 00:34:50,593
+So I guess now we'll see
+if it's bullshit or not.
+
+523
+00:34:59,556 --> 00:35:00,899
+BEN: She's in here.
+
+524
+00:35:02,058 --> 00:35:03,401
+Michael, come in.
+
+525
+00:35:04,561 --> 00:35:06,404
+Everyone, bow their heads.
+
+526
+00:35:08,565 --> 00:35:12,570
+May the Lord bless us and keep us.
+May the Lord let His face shine upon us.
+
+527
+00:35:12,777 --> 00:35:15,530
+May the Lord lift up His countenance
+onto us and give us peace.
+
+528
+00:35:15,905 --> 00:35:17,873
+- Amen.
+- Amen.
+
+529
+00:35:57,864 --> 00:36:00,208
+This really is no place for her,
+Mrs. Sorlini.
+
+530
+00:36:00,450 --> 00:36:03,294
+I'm sorry, I'm sorry.
+We don't know what to do.
+
+531
+00:36:03,370 --> 00:36:06,169
+Please, please, it's going to be okay.
+It's going to be okay.
+
+532
+00:36:07,290 --> 00:36:08,462
+Rosa?
+
+533
+00:36:08,541 --> 00:36:10,418
+(MRS. SORLINI SOBBING)
+
+534
+00:36:25,475 --> 00:36:30,481
+Bless you for your prayers.
+You must leave her to us now. All right?
+
+535
+00:36:30,730 --> 00:36:31,731
+MRS. SORLINI: Yes, Father.
+
+536
+00:36:31,981 --> 00:36:34,985
+DAVID: This is to help loosen her limbs,
+keep her calm.
+
+537
+00:36:35,068 --> 00:36:37,867
+It's very similar to a muscle relaxant.
+
+538
+00:36:37,946 --> 00:36:39,914
+(MOANING SOFTLY)
+
+539
+00:36:43,076 --> 00:36:44,578
+MICHAEL: She's looking right at me.
+
+540
+00:37:01,803 --> 00:37:03,646
+(MICHAEL SHUDDERING)
+
+541
+00:37:05,265 --> 00:37:06,767
+(BONES CRACK)
+
+542
+00:37:19,863 --> 00:37:20,864
+Okay.
+
+543
+00:37:22,949 --> 00:37:23,950
+Okay.
+
+544
+00:37:24,617 --> 00:37:26,210
+Let's get set up.
+
+545
+00:37:27,662 --> 00:37:29,790
+(RECITING PRAYERS IN LATIN)
+
+546
+00:37:44,721 --> 00:37:46,519
+(DEVICE POWERING ON)
+
+547
+00:37:51,561 --> 00:37:54,155
+It's best just to stay close
+to Michael, okay?
+
+548
+00:37:55,565 --> 00:37:58,409
+- A little to the right.
+- No, no. It's set.
+
+549
+00:38:06,993 --> 00:38:09,166
+DAVID: It is Thursday,
+December 3, 2009.
+
+550
+00:38:09,412 --> 00:38:11,414
+Subject, Rosa Sorlini.
+
+551
+00:38:11,664 --> 00:38:14,838
+Last session, November 13, 2009.
+
+552
+00:38:15,168 --> 00:38:18,843
+Rosa's appearance has worsened,
+skin color and weight.
+
+553
+00:38:19,255 --> 00:38:21,508
+Temperament appears stable.
+
+554
+00:38:21,841 --> 00:38:25,846
+Vitals are slightly elevated,
+but basically normal.
+
+555
+00:38:26,679 --> 00:38:30,855
+Her pupils are dilated
+to approximately nine millimeters.
+
+556
+00:38:33,019 --> 00:38:34,020
+BEN: Okay.
+
+557
+00:38:35,855 --> 00:38:37,198
+Let's begin.
+
+558
+00:38:37,565 --> 00:38:39,784
+(RECITING PRAYERS IN LATIN)
+
+559
+00:38:44,197 --> 00:38:45,540
+DAVID: Pupils still normal.
+
+560
+00:38:45,782 --> 00:38:48,376
+BEN: Rosa, are you in there?
+Can you hear me?
+
+561
+00:38:48,868 --> 00:38:51,291
+I want to know
+how you're feeling today, Rosa.
+
+562
+00:38:52,580 --> 00:38:54,002
+(IN ITALIAN)
+
+563
+00:38:57,794 --> 00:39:01,549
+BEN: I remember last time, Rosa,
+you were strong. You spoke to me.
+
+564
+00:39:05,426 --> 00:39:06,894
+(IN ITALIAN)
+
+565
+00:39:08,221 --> 00:39:10,690
+No, no, she's strong.
+And getting stronger than...
+
+566
+00:39:10,849 --> 00:39:12,271
+(IN ITALIAN)
+
+567
+00:39:13,434 --> 00:39:14,777
+You don't want this one any more.
+
+568
+00:39:14,936 --> 00:39:16,609
+It's no good for you.
+
+569
+00:39:17,438 --> 00:39:18,860
+(IN GERMAN)
+
+570
+00:39:22,569 --> 00:39:24,697
+ISABELLA: She said my name.
+She said my name.
+
+571
+00:39:24,779 --> 00:39:26,372
+- How did she know my name?
+- Stay back. Don't listen to her.
+
+572
+00:39:26,447 --> 00:39:27,448
+(IN ITALIAN)
+
+573
+00:39:28,324 --> 00:39:32,795
+Five minutes alone with her,
+I promise you, her cunt will know me.
+
+574
+00:39:34,163 --> 00:39:36,165
+BEN: I want you to leave the girl
+out of this.
+
+575
+00:39:36,249 --> 00:39:38,343
+(ROSA SHOUTING IN ITALIAN)
+(MONITOR BEEPING RAPIDLY)
+
+576
+00:39:38,418 --> 00:39:41,797
+I know who you are, demon!
+Your name is Berith!
+
+577
+00:39:41,880 --> 00:39:43,132
+(IN ITALIAN)
+
+578
+00:39:43,756 --> 00:39:45,758
+Behold the Cross of the Lord.
+
+579
+00:39:46,426 --> 00:39:48,099
+- Lord, have mercy.
+- Lord, have mercy.
+
+580
+00:39:48,428 --> 00:39:49,930
+- Christ, have mercy.
+- Christ, have mercy.
+
+581
+00:39:50,013 --> 00:39:51,936
+God, the Father of
+our Lord Jesus Christ,
+
+582
+00:39:52,015 --> 00:39:53,232
+I appeal to Your Holy Name
+
+583
+00:39:53,308 --> 00:39:55,436
+that you graciously
+grant me help against...
+
+584
+00:39:55,518 --> 00:39:58,146
+(IN ITALIAN)
+(MONITOR BEEP STABILIZING)
+
+585
+00:40:05,194 --> 00:40:07,037
+- That you graciously grant me help
+(SCREAMING)
+
+586
+00:40:07,113 --> 00:40:09,332
+against this unclean spirit
+that's tormenting this creature of Yours!
+
+587
+00:40:09,407 --> 00:40:11,000
+- Ben, she's hemorrhaging!
+(MONITOR BEEPING RAPIDLY)
+
+588
+00:40:11,075 --> 00:40:13,203
+God, creator and defender
+of the human race,
+
+589
+00:40:13,286 --> 00:40:14,629
+who made man in Your own image,
+
+590
+00:40:14,704 --> 00:40:17,002
+look down in pity on this, Your servant!
+
+591
+00:40:17,081 --> 00:40:18,082
+(CONTINUES SCREAMING)
+
+592
+00:40:18,166 --> 00:40:19,918
+Help me hold her down, Ben.
+Ben, help me hold her down.
+
+593
+00:40:20,001 --> 00:40:23,722
+Taste it, bitch!
+Come taste your mother's sweet milk!
+
+594
+00:40:23,796 --> 00:40:24,888
+Stay back.
+
+595
+00:40:24,964 --> 00:40:27,058
+(SPEAKING IN ITALIAN)
+
+596
+00:40:28,301 --> 00:40:29,644
+Inserting anti-coagulant.
+
+597
+00:40:29,969 --> 00:40:32,142
+...overwhelms it with fear and panic.
+
+598
+00:40:32,639 --> 00:40:34,232
+Repel, O Lord, the Devil's power.
+
+599
+00:40:34,307 --> 00:40:35,524
+(SPEAKING FOREIGN LANGUAGE)
+
+600
+00:40:35,600 --> 00:40:38,274
+Break asunder his snares.
+You can't hide, Berith!
+
+601
+00:40:38,353 --> 00:40:40,401
+(SCREECHING)
+
+602
+00:40:42,231 --> 00:40:44,654
+The Mystery of the Cross
+commands you!
+
+603
+00:40:44,984 --> 00:40:48,488
+Blood pressure's way up, 190 over 110!
+Come on, hang in there!
+
+604
+00:40:49,322 --> 00:40:53,577
+Heart rate's up. So is blood pressure.
+190 over 110. Hang in there.
+
+605
+00:40:53,743 --> 00:40:55,211
+(IN ITALIAN)
+
+606
+00:41:02,961 --> 00:41:06,340
+Blood pressure's going crazy!
+It's 220 over 110! Say it, Ben!
+
+607
+00:41:06,506 --> 00:41:08,600
+St. Barnabas commands you!
+
+608
+00:41:09,175 --> 00:41:11,394
+- Ben?
+- Just keep hold of her!
+
+609
+00:41:11,552 --> 00:41:13,930
+(IN ITALIAN)
+(BEN RECITING PRAYER)
+
+610
+00:41:15,181 --> 00:41:16,649
+Ben, I can't hold her!
+
+611
+00:41:16,724 --> 00:41:17,896
+(SNARLING)
+(CLANGING)
+
+612
+00:41:19,185 --> 00:41:21,358
+ISABELLA: Oh, my God! Where is she?
+MICHAEL: David! David!
+
+613
+00:41:21,604 --> 00:41:23,026
+DAVID: I can't see!
+I need light! I need light.
+
+614
+00:41:23,106 --> 00:41:24,653
+(ROSA LAUGHING)
+
+615
+00:41:28,611 --> 00:41:30,033
+ISABELLA: Do something!
+
+616
+00:41:30,697 --> 00:41:32,165
+DAVID: Get her back on the bed! Ben!
+
+617
+00:41:33,866 --> 00:41:35,664
+- Get her legs.
+DAVID: - Michael, get away.
+
+618
+00:41:35,743 --> 00:41:38,622
+(STRUGGLING)
+(BEN RECITING PRAYER)
+
+619
+00:41:38,705 --> 00:41:43,211
+I'll carve out your diseased heart
+and eat it!
+
+620
+00:41:43,459 --> 00:41:47,805
+I have a whole army of angels
+and the Lord Almighty by my side!
+
+621
+00:41:50,550 --> 00:41:53,053
+You want pain? I'll give you pain!
+
+622
+00:41:53,386 --> 00:41:55,559
+St. Barnabas commands you!
+
+623
+00:41:55,805 --> 00:41:58,649
+From whose sight you are not hidden!
+
+624
+00:41:58,725 --> 00:42:00,693
+- St. Barnabas commands you!
+(SQUEALING)
+
+625
+00:42:01,060 --> 00:42:03,233
+St. Barnabas commands you!
+
+626
+00:42:03,813 --> 00:42:06,066
+You foul, treacherous beast!
+
+627
+00:42:06,399 --> 00:42:10,074
+Give way to Christ,
+in whom you found none of your works!
+
+628
+00:42:10,403 --> 00:42:12,906
+Bow down before God!
+
+629
+00:42:13,990 --> 00:42:15,458
+(RASPING)
+
+630
+00:42:19,579 --> 00:42:21,126
+BEN: Okay, bring her back on her legs.
+
+631
+00:42:25,168 --> 00:42:26,590
+(PANTING) She's stabilizing.
+
+632
+00:42:27,587 --> 00:42:29,180
+She's stabilizing.
+
+633
+00:42:39,265 --> 00:42:40,767
+ISABELLA: Turn that off. Yeah.
+
+634
+00:42:51,986 --> 00:42:53,704
+(SIGHS HEAVILY)
+
+635
+00:42:55,865 --> 00:42:57,538
+I don't know what to say.
+
+636
+00:43:02,872 --> 00:43:05,216
+DAVID: Right there, right there,
+you see how her pupil is normal again?
+
+637
+00:43:05,291 --> 00:43:06,463
+That indicates that she's clean.
+
+638
+00:43:06,542 --> 00:43:08,510
+Now that you have this,
+now you can tell the Church, right,
+
+639
+00:43:08,628 --> 00:43:10,050
+that you saved her?
+BEN: - No.
+
+640
+00:43:10,129 --> 00:43:12,803
+DAVID: Yeah, it worked. But that
+doesn't mean the Church will support it.
+
+641
+00:43:13,049 --> 00:43:15,222
+That doesn't make any sense. Why not?
+
+642
+00:43:15,468 --> 00:43:16,811
+Because...
+
+643
+00:43:17,887 --> 00:43:21,061
+Because the Church would have us
+arrested and deported.
+
+644
+00:43:21,140 --> 00:43:23,313
+What we're doing in the eyes of
+the Church is very wrong.
+
+645
+00:43:23,392 --> 00:43:25,235
+That's why we know it's so right.
+
+646
+00:43:25,436 --> 00:43:27,029
+(MOBILE RINGING)
+
+647
+00:43:29,565 --> 00:43:31,943
+BEN: Look, her appearance
+is completely normal,
+
+648
+00:43:32,026 --> 00:43:33,278
+and so quickly after the exorcism.
+
+649
+00:43:33,361 --> 00:43:36,331
+Hello? This is she. Excuse me.
+
+650
+00:43:36,989 --> 00:43:38,332
+R-O-S-S-I.
+
+651
+00:43:38,574 --> 00:43:39,996
+- What's that?
+MICHAEL: - I don't know.
+
+652
+00:43:41,994 --> 00:43:44,497
+I'm her daughter.
+I just got here from America.
+
+653
+00:43:44,997 --> 00:43:48,922
+I think that's a big mistake. We could
+go back to the charts, you'll see that...
+
+654
+00:43:49,001 --> 00:43:50,344
+BEN: This is amazing.
+
+655
+00:43:50,503 --> 00:43:51,846
+Thank you.
+
+656
+00:43:55,675 --> 00:44:00,522
+That was the Diocese of Rome.
+I asked for a reevaluation of my mother.
+
+657
+00:44:00,763 --> 00:44:01,764
+MICHAEL: What did they say?
+
+658
+00:44:02,014 --> 00:44:03,687
+They thanked me for my concerns
+
+659
+00:44:03,766 --> 00:44:08,442
+and said that any interference would
+probably jeopardize her well-being.
+
+660
+00:44:09,272 --> 00:44:12,776
+Oh! And that God would be watching us
+over these trying times.
+
+661
+00:44:13,025 --> 00:44:14,368
+DAVID: Are you all right?
+
+662
+00:44:16,529 --> 00:44:17,872
+Fine.
+
+663
+00:44:19,532 --> 00:44:21,375
+MICHAEL: I can't believe
+the Church turned her down.
+
+664
+00:44:21,617 --> 00:44:23,119
+BEN: Of course
+they're gonna turn it down.
+
+665
+00:44:23,369 --> 00:44:26,543
+...go straight to Dr. Costa
+with my own doctor, like David.
+
+666
+00:44:26,789 --> 00:44:29,087
+The hospital
+is outside Vatican City walls,
+
+667
+00:44:29,167 --> 00:44:31,215
+and I think that means
+it's out of their jurisdiction.
+
+668
+00:44:31,460 --> 00:44:32,712
+MICHAEL: What are you two
+talking about?
+
+669
+00:44:32,795 --> 00:44:33,796
+What's that?
+
+670
+00:44:34,130 --> 00:44:36,132
+What are you talking about?
+
+671
+00:44:36,799 --> 00:44:39,143
+- Okay. Okay.
+- We need to talk.
+
+672
+00:44:39,468 --> 00:44:41,641
+- David? Do you have a sec? Okay.
+- Yeah.
+
+673
+00:44:42,471 --> 00:44:44,348
+BEN: We don't know what's wrong
+with Isabella's mother.
+
+674
+00:44:44,432 --> 00:44:47,606
+Nobody does because she hasn't been
+evaluated in over 15 years.
+
+675
+00:44:47,810 --> 00:44:49,812
+She deserves a second opinion.
+
+676
+00:44:50,062 --> 00:44:51,188
+A second opinion?
+
+677
+00:44:51,272 --> 00:44:52,990
+It would give us enough time
+to determine her condition.
+
+678
+00:44:53,065 --> 00:44:55,409
+No, you want to give an exorcism
+to Isabella's mother.
+
+679
+00:44:55,484 --> 00:44:56,576
+That's not what we're saying.
+
+680
+00:44:56,652 --> 00:44:59,201
+We just need time and we need to know
+that she's actually possessed.
+
+681
+00:44:59,280 --> 00:45:01,078
+MICHAEL: Yeah, then she can get
+the proper attention.
+
+682
+00:45:01,157 --> 00:45:02,704
+Look, okay, that's not how this works.
+
+683
+00:45:02,783 --> 00:45:04,831
+You're here to document,
+you're not here to get involved.
+
+684
+00:45:04,911 --> 00:45:06,458
+- First of all, it's illegal.
+- No, it's not illegal.
+
+685
+00:45:06,579 --> 00:45:08,581
+Yes, Ben, it is!
+And in the eyes of the Church...
+
+686
+00:45:08,664 --> 00:45:10,041
+You know, forget about the Church,
+David!
+
+687
+00:45:10,124 --> 00:45:11,751
+Why does it always come down to that?
+
+688
+00:45:11,834 --> 00:45:14,713
+What if this works?
+What if we find out that it's not D.I.D.?
+
+689
+00:45:14,921 --> 00:45:16,343
+MICHAEL: Yeah, think about it, David.
+This could work.
+
+690
+00:45:16,422 --> 00:45:17,674
+Michael, I know what you're doing.
+
+691
+00:45:17,757 --> 00:45:20,055
+I know it would be provocative
+for your film, but we will be arrested.
+
+692
+00:45:20,134 --> 00:45:21,306
+(SIGHS)
+
+693
+00:45:23,763 --> 00:45:25,561
+How would it even work?
+
+694
+00:45:25,640 --> 00:45:28,109
+As soon as they found out what we
+were doing, they'd shut us down.
+
+695
+00:45:28,226 --> 00:45:30,854
+The staff won't be allowed with us
+in the room.
+
+696
+00:45:30,937 --> 00:45:35,113
+Yeah, we should have that right
+to privacy on her behalf, right?
+
+697
+00:45:36,442 --> 00:45:38,444
+Yeah, you're right.
+
+698
+00:45:43,449 --> 00:45:44,871
+David, just...
+
+699
+00:45:46,452 --> 00:45:48,796
+What if it was your own mother?
+
+700
+00:45:55,044 --> 00:45:56,387
+I'm really nervous.
+
+701
+00:45:56,671 --> 00:46:00,016
+I'm an active priest
+in good standing with the Holy See.
+
+702
+00:46:00,216 --> 00:46:03,595
+And regardless of the outcome,
+the Church will find out,
+
+703
+00:46:03,678 --> 00:46:05,601
+and it will put my job in jeopardy.
+
+704
+00:46:05,846 --> 00:46:06,847
+Father Ben Rawlings.
+
+705
+00:46:07,014 --> 00:46:08,015
+<i>But at the same time,</i>
+
+706
+00:46:08,224 --> 00:46:09,601
+there are problems
+within this institution.
+
+707
+00:46:09,684 --> 00:46:11,027
+There are things that I don't agree with.
+
+708
+00:46:11,352 --> 00:46:13,195
+<i>In the case of Maria Rossi,</i>
+
+709
+00:46:13,396 --> 00:46:16,070
+<i>I think we should take the time
+to actively deduce whether or not</i>
+
+710
+00:46:16,148 --> 00:46:18,651
+she's being tormented
+by an evil presence.
+
+711
+00:46:20,903 --> 00:46:22,246
+I think.
+
+712
+00:46:23,364 --> 00:46:26,163
+BEN: <i>What's the Church's stance
+on Maria Rossi?</i>
+
+713
+00:46:26,325 --> 00:46:28,748
+Well, she's faded into the system.
+
+714
+00:46:28,828 --> 00:46:30,751
+She's pumped full of drugs
+and forgotten.
+
+715
+00:46:31,205 --> 00:46:36,211
+If she becomes too difficult,
+there's a panic button on the wall.
+
+716
+00:46:36,377 --> 00:46:38,220
+- Yeah?
+- Yes, I saw that. Thank you.
+
+717
+00:46:38,379 --> 00:46:42,429
+The bottom line here is that something
+horrible happened back in 1989.
+
+718
+00:46:42,717 --> 00:46:44,390
+And it wasn't Maria Rossi's fault.
+
+719
+00:46:44,468 --> 00:46:48,268
+You'll be screening her using SCID-D?
+Two hours?
+
+720
+00:46:48,347 --> 00:46:50,770
+DAVID: More or less two hours, yeah.
+I'd say so.
+
+721
+00:46:50,975 --> 00:46:53,069
+I feel the Church needs to change.
+
+722
+00:46:53,311 --> 00:46:58,442
+<i>We're so eager to just brush things
+under the carpet as if they don't exist.</i>
+
+723
+00:46:58,524 --> 00:47:01,653
+<i>I don't fit in this Church,
+in this guise of the Church.</i>
+
+724
+00:47:01,902 --> 00:47:04,155
+And I have to do what I believe.
+
+725
+00:47:04,488 --> 00:47:05,660
+DR. COSTA: <i>I'll see you soon, Maria.</i>
+
+726
+00:47:09,910 --> 00:47:11,787
+ISABELLA: <i>I know it's dangerous,
+and it might not even work.</i>
+
+727
+00:47:12,288 --> 00:47:15,292
+But I can't just sit back and do nothing.
+
+728
+00:47:23,132 --> 00:47:24,679
+Okay, not a problem.
+
+729
+00:47:25,301 --> 00:47:27,349
+(MONITOR BEEP STABILIZING)
+
+730
+00:47:28,929 --> 00:47:34,151
+DAVID: The time is 8:32 a.m.
+on Monday, December 7, 2009.
+
+731
+00:47:34,226 --> 00:47:37,446
+Subject is Maria Rossi. Session one.
+
+732
+00:47:38,606 --> 00:47:40,859
+Subject appears docile.
+
+733
+00:47:41,108 --> 00:47:42,951
+Heavily medicated.
+
+734
+00:47:45,446 --> 00:47:49,826
+Pupils are mildly dilated
+due to the medication.
+
+735
+00:47:50,451 --> 00:47:52,328
+BEN: Okay. Let's wake her up.
+
+736
+00:47:52,870 --> 00:47:56,545
+When she wakes up,
+we'll see if she gets a reaction.
+
+737
+00:47:58,125 --> 00:47:59,798
+DAVID: Counteracting medication.
+
+738
+00:48:01,295 --> 00:48:04,048
+Medication should take effect
+in 20 seconds.
+
+739
+00:48:04,548 --> 00:48:05,845
+ISABELLA: So this is
+when you provoke her?
+
+740
+00:48:05,925 --> 00:48:07,142
+BEN: Exactly.
+
+741
+00:48:08,052 --> 00:48:09,725
+DAVID: Ten seconds.
+
+742
+00:48:12,556 --> 00:48:16,151
+Five, four, three,
+
+743
+00:48:16,560 --> 00:48:19,404
+two, time.
+
+744
+00:48:21,148 --> 00:48:22,195
+Maria?
+
+745
+00:48:25,736 --> 00:48:27,579
+Maria, do you know what this is?
+
+746
+00:48:31,409 --> 00:48:33,753
+Maria, is there someone
+in there with you?
+
+747
+00:48:34,829 --> 00:48:36,251
+I don't know.
+
+748
+00:48:36,747 --> 00:48:38,920
+BEN: Yes, you do, Maria.
+
+749
+00:48:39,500 --> 00:48:40,843
+Who's in there?
+
+750
+00:48:41,085 --> 00:48:43,588
+We can help you.
+We can free you from it.
+
+751
+00:48:43,921 --> 00:48:45,514
+EKG is normal.
+
+752
+00:48:46,424 --> 00:48:48,097
+They'll be angry.
+
+753
+00:48:48,592 --> 00:48:50,185
+There's more than one?
+
+754
+00:48:59,687 --> 00:49:01,189
+Maybe she's clean.
+
+755
+00:49:02,857 --> 00:49:04,109
+(MONITOR BEEPING RAPIDLY)
+
+756
+00:49:04,191 --> 00:49:05,568
+What was that?
+
+757
+00:49:05,901 --> 00:49:07,244
+Yeah, we got something.
+
+758
+00:49:08,863 --> 00:49:10,206
+(BEEP STABILIZING)
+
+759
+00:49:10,281 --> 00:49:11,703
+Her pupil's still normal.
+
+760
+00:49:14,952 --> 00:49:16,295
+It's nothing.
+
+761
+00:49:20,916 --> 00:49:22,259
+ISABELLA: Is she all right?
+
+762
+00:49:22,585 --> 00:49:23,928
+BEN: Yeah, she...
+
+763
+00:49:26,422 --> 00:49:28,095
+She's sleeping.
+
+764
+00:49:28,382 --> 00:49:32,057
+That's the first time
+I've seen a possessed person
+
+765
+00:49:32,803 --> 00:49:36,148
+fall asleep when confronted by
+a priest and holy water.
+
+766
+00:49:36,474 --> 00:49:38,067
+ISABELLA: What does that mean?
+
+767
+00:49:39,643 --> 00:49:41,737
+(SIGHING) I don't know. I think...
+
+768
+00:49:43,564 --> 00:49:44,986
+I think we might be wasting our time.
+
+769
+00:49:45,065 --> 00:49:48,239
+ISABELLA: I came here for her and I'm
+going to do everything I can to help her.
+
+770
+00:49:48,319 --> 00:49:51,914
+This isn't consistent with any form
+of possession that I've ever seen.
+
+771
+00:49:51,989 --> 00:49:53,457
+I'm sorry, Isabella. This...
+
+772
+00:49:53,532 --> 00:49:55,910
+(SCREAMING)
+
+773
+00:49:59,121 --> 00:50:00,168
+(MONITOR BEEPING RAPIDLY)
+
+774
+00:50:00,247 --> 00:50:01,715
+DAVID: Her pupils are
+almost fully dilated!
+
+775
+00:50:01,790 --> 00:50:03,758
+Lord, have mercy! Christ, have mercy!
+
+776
+00:50:03,834 --> 00:50:05,427
+- What are you doing?
+- We're helping her, David!
+
+777
+00:50:05,503 --> 00:50:06,629
+We need to help her!
+
+778
+00:50:06,712 --> 00:50:08,931
+- Ben, this is not the time or the place!
+- Stay back.
+
+779
+00:50:09,048 --> 00:50:10,174
+I need you to calm down.
+
+780
+00:50:10,633 --> 00:50:12,306
+- Christ, have mercy.
+- Christ, have mercy.
+
+781
+00:50:12,593 --> 00:50:14,015
+- Christ, hear us.
+- Christ, please hear us.
+
+782
+00:50:14,261 --> 00:50:16,309
+- God, the Father in Heaven.
+(SCREAMS)
+
+783
+00:50:17,431 --> 00:50:20,355
+I know you! I know you, little girl!
+
+784
+00:50:20,434 --> 00:50:21,686
+- God, the Father in Heaven.
+(MARIA LAUGHING EVILLY)
+
+785
+00:50:21,769 --> 00:50:22,861
+DAVID: God, the Father in Heaven,
+most merciful.
+
+786
+00:50:22,937 --> 00:50:24,530
+BEN: God, the Father of
+our Lord Jesus Christ,
+
+787
+00:50:24,605 --> 00:50:25,948
+I appeal to Your Holy Name
+
+788
+00:50:26,190 --> 00:50:28,409
+against this unclean spirit!
+- I know you!
+
+789
+00:50:28,484 --> 00:50:30,282
+(SPEAKING IN FOREIGN LANGUAGE)
+
+790
+00:50:31,195 --> 00:50:32,822
+(MARIA GRUNTING)
+
+791
+00:50:34,490 --> 00:50:38,836
+Shove that needle in your fucking eye,
+you faggot!
+
+792
+00:50:39,537 --> 00:50:40,914
+(LAUGHING)
+
+793
+00:50:41,205 --> 00:50:44,129
+I adjure you, ancient serpent
+
+794
+00:50:45,960 --> 00:50:48,964
+by the judge of the living
+and of the dead.
+
+795
+00:50:49,088 --> 00:50:50,886
+ISABELLA: - Don't get too close.
+- By your Creator...
+
+796
+00:50:50,965 --> 00:50:53,218
+DAVID: Ben? Ben?
+ISABELLA: Michael!
+
+797
+00:50:53,551 --> 00:50:55,974
+The faith of the holy apostles
+and of all the saints commands you,
+
+798
+00:50:56,053 --> 00:50:57,976
+reveal yourself before the Creator!
+ISABELLA: - Watch it!
+
+799
+00:50:58,472 --> 00:50:59,519
+(GROANS)
+
+800
+00:50:59,598 --> 00:51:00,645
+David!
+
+801
+00:51:00,724 --> 00:51:03,819
+BEN: The devout prayers of holy men...
+
+802
+00:51:04,144 --> 00:51:06,146
+God the Father commands you!
+
+803
+00:51:06,313 --> 00:51:09,487
+(DISTORTED) Oh, you can't get back
+in your God's good graces, priest.
+
+804
+00:51:09,817 --> 00:51:12,195
+Not after what you did.
+
+805
+00:51:16,490 --> 00:51:19,164
+- Ben, what are you doing?
+DAVID: - Her vitals are going crazy.
+
+806
+00:51:21,829 --> 00:51:22,830
+(SCREECHING)
+
+807
+00:51:24,206 --> 00:51:25,378
+BEN: Get back. Get back.
+
+808
+00:51:25,874 --> 00:51:27,717
+DAVID: Michael, put the camera down
+and help!
+
+809
+00:51:28,002 --> 00:51:29,003
+ISABELLA: I want to help her!
+
+810
+00:51:29,336 --> 00:51:30,963
+DAVID: Get her leg! Get her leg!
+
+811
+00:51:31,046 --> 00:51:32,889
+(MONITOR BEEPING RAPIDLY)
+
+812
+00:51:32,965 --> 00:51:34,842
+Careful. Grab her leg!
+
+813
+00:51:35,217 --> 00:51:37,015
+I got her. Get her arm.
+
+814
+00:51:39,054 --> 00:51:40,727
+Isabella, is it locked?
+
+815
+00:51:41,015 --> 00:51:43,234
+BEN: - Close the bolt!
+- Yes! Yes!
+
+816
+00:51:43,309 --> 00:51:45,528
+(SPEAKING IN GERMAN)
+
+817
+00:51:46,854 --> 00:51:48,026
+Tell me your name, coward!
+
+818
+00:51:48,230 --> 00:51:49,231
+Asbeel!
+
+819
+00:51:51,692 --> 00:51:55,117
+Come that close to me one more time
+and I'll use your tongue
+
+820
+00:51:55,195 --> 00:51:59,792
+to skull fuck the baby killer over there!
+
+821
+00:52:01,243 --> 00:52:06,044
+(SINGING) <i>The itsy bitsy spider
+came down the water spout</i>
+
+822
+00:52:06,123 --> 00:52:07,340
+(MONITOR BEEP STABILIZING)
+
+823
+00:52:07,416 --> 00:52:12,422
+BOTH: <i>Down came the rain
+and washed the spider out</i>
+
+824
+00:52:12,880 --> 00:52:14,257
+<i>Out came the sun...</i>
+
+825
+00:52:14,340 --> 00:52:17,344
+BEN: Isabella, don't listen to it.
+It's not your mother.
+
+826
+00:52:17,760 --> 00:52:19,728
+- Come on, baby.
+- Isabella, it's not your mother!
+
+827
+00:52:19,803 --> 00:52:21,225
+You know the words.
+
+828
+00:52:21,430 --> 00:52:23,103
+MICHAEL: Isabella, snap out of it!
+
+829
+00:52:23,599 --> 00:52:24,976
+- Do it!
+- Demons!
+
+830
+00:52:25,309 --> 00:52:27,232
+(IN GERMAN)
+
+831
+00:52:28,062 --> 00:52:31,566
+You are guilty
+before our Lord Jesus Christ
+
+832
+00:52:31,774 --> 00:52:34,072
+whom you dared to nail upon the cross.
+
+833
+00:52:34,276 --> 00:52:37,450
+DAVID: Pulse is 284. Rhythm is way off.
+
+834
+00:52:37,529 --> 00:52:39,202
+(SPEAKING IN SHRILL TONE)
+
+835
+00:52:39,281 --> 00:52:40,749
+I'm not like the others, demon!
+
+836
+00:52:40,908 --> 00:52:42,251
+Do you hear me, transgressor?
+
+837
+00:52:42,409 --> 00:52:43,956
+- I hear you, priest.
+- Seducer!
+
+838
+00:52:44,119 --> 00:52:46,213
+All you fucking do is talk!
+
+839
+00:52:46,288 --> 00:52:47,289
+(SPITS)
+
+840
+00:52:47,373 --> 00:52:48,920
+(BANGING ON DOOR)
+(GUARD SHOUTING IN ITALIAN)
+
+841
+00:52:48,999 --> 00:52:51,548
+The holy apostles Peter and Paul
+and all the saints command you.
+
+842
+00:52:51,627 --> 00:52:55,632
+Give way to Christ,
+in whom you found none of your works!
+
+843
+00:52:55,964 --> 00:52:58,968
+For it is not He who condemns you,
+
+844
+00:52:59,051 --> 00:53:01,975
+but rather He
+who rules the living and the dead.
+
+845
+00:53:02,262 --> 00:53:04,310
+Our Father, who art in heaven...
+
+846
+00:53:04,598 --> 00:53:08,273
+ISABELLA: No, it's gonna kill her!
+BEN: Just stay there, Isabella.
+
+847
+00:53:10,938 --> 00:53:11,939
+No, no, no.
+
+848
+00:53:13,440 --> 00:53:16,034
+BEN: For thine is the kingdom,
+and the power, and the glory,
+
+849
+00:53:16,318 --> 00:53:17,865
+for ever and ever. Amen.
+
+850
+00:53:18,404 --> 00:53:21,032
+Let my mother go.
+
+851
+00:53:23,951 --> 00:53:25,294
+(IN HOARSE VOICE) You'll burn.
+
+852
+00:53:26,829 --> 00:53:28,831
+You'll burn eternal.
+
+853
+00:53:30,624 --> 00:53:32,467
+Poor child.
+
+854
+00:53:40,634 --> 00:53:42,602
+GUARD: - Please, open this door now!
+(CONTINUES BANGING ON DOOR)
+
+855
+00:53:42,678 --> 00:53:44,225
+Pulse is dropping.
+
+856
+00:53:44,638 --> 00:53:47,016
+Maria? Maria, can you hear us?
+
+857
+00:53:47,307 --> 00:53:49,059
+DAVID: Starting to regain
+consciousness.
+
+858
+00:53:49,143 --> 00:53:51,987
+Temp is returning to normal.
+
+859
+00:53:57,484 --> 00:53:58,485
+Over.
+
+860
+00:54:02,364 --> 00:54:04,458
+BEN: <i>Tell me your name, coward!</i>
+MARIA: <i>Asbeel!</i>
+
+861
+00:54:07,202 --> 00:54:09,045
+I'll be feeling that tomorrow.
+
+862
+00:54:09,246 --> 00:54:12,125
+See, this is preternatural movement
+right here.
+
+863
+00:54:12,207 --> 00:54:13,880
+I've seen it before,
+but I've never captured it on tape.
+
+864
+00:54:14,168 --> 00:54:15,670
+So, what does that mean?
+
+865
+00:54:15,878 --> 00:54:19,678
+It means we've got
+everything that we need right here.
+
+866
+00:54:20,007 --> 00:54:21,850
+This is huge, Isabella.
+
+867
+00:54:23,385 --> 00:54:24,511
+Let's play it again.
+
+868
+00:54:25,220 --> 00:54:27,393
+BEN: Do you realize how big this is?
+
+869
+00:54:27,681 --> 00:54:28,648
+With the evidence we've got,
+
+870
+00:54:28,724 --> 00:54:30,692
+the Holy See has to see us.
+They have to.
+
+871
+00:54:30,893 --> 00:54:32,520
+We can go to the press with this
+
+872
+00:54:32,603 --> 00:54:35,573
+and in an instant, we'd have
+1,000 people standing out there.
+
+873
+00:54:35,856 --> 00:54:39,030
+DAVID: Our priority right now
+should be getting her back to the States.
+
+874
+00:54:39,526 --> 00:54:41,528
+The endorsement of Dr. Costa is vital.
+
+875
+00:54:41,737 --> 00:54:45,082
+But after the results that he saw,
+there's no way that he can't agree.
+
+876
+00:54:45,365 --> 00:54:47,834
+Dr. Costa doesn't believe
+that she was possessed or anything.
+
+877
+00:54:47,910 --> 00:54:51,084
+He thinks it was an exercise
+that shocked her system.
+
+878
+00:54:51,538 --> 00:54:53,506
+Anyway, it doesn't matter
+what he believes
+
+879
+00:54:53,582 --> 00:54:56,381
+because his referral's actually gonna
+help us get her back to the States.
+
+880
+00:54:56,543 --> 00:55:01,219
+(DISTORTED) <i>Oh, you can't get back
+in your God's good graces, priest.</i>
+
+881
+00:55:01,381 --> 00:55:02,724
+MICHAEL: What are you doing?
+
+882
+00:55:04,593 --> 00:55:06,266
+I'm just...
+
+883
+00:55:07,387 --> 00:55:11,187
+I'm just analyzing Maria's audio.
+
+884
+00:55:11,266 --> 00:55:15,897
+I'm just trying to work out if there is
+more than one voice inside her.
+
+885
+00:55:16,897 --> 00:55:18,240
+See, there can...
+
+886
+00:55:20,108 --> 00:55:21,155
+(DISTORTED VOICES
+TALKING INDISTINCTLY)
+
+887
+00:55:21,235 --> 00:55:24,739
+See? See? Right there. You hear that?
+
+888
+00:55:27,574 --> 00:55:30,418
+- She's speaking in tongues, right?
+- No, no.
+
+889
+00:55:30,911 --> 00:55:35,417
+It's one sentence, spoken in
+more than one language, I think.
+
+890
+00:55:35,624 --> 00:55:37,626
+I'm just trying to isolate how many.
+
+891
+00:55:37,709 --> 00:55:39,632
+(VOICES DISTORTING)
+
+892
+00:55:43,924 --> 00:55:47,303
+MARIA: <i>You wanted him to die,
+didn't you?</i>
+
+893
+00:55:47,636 --> 00:55:48,979
+Ben, what is she talking about?
+
+894
+00:55:49,096 --> 00:55:51,440
+<i>You wanted him to die, didn't you?</i>
+
+895
+00:55:51,807 --> 00:55:54,651
+Is she talking about your uncle?
+
+896
+00:56:00,482 --> 00:56:03,861
+I found four voices on the recording.
+I found four voices on the recording.
+
+897
+00:56:03,944 --> 00:56:06,072
+DAVID: You found four?
+ISABELLA: Wait, what does that mean?
+
+898
+00:56:06,154 --> 00:56:09,784
+It means that the entity
+in your mother had disciples.
+
+899
+00:56:09,992 --> 00:56:11,710
+We call it multiple demonic possession.
+
+900
+00:56:11,785 --> 00:56:14,880
+You might have heard
+Gallo talking about it in class.
+
+901
+00:56:14,955 --> 00:56:17,299
+ISABELLA: Wait,
+so it's a powerful demon.
+
+902
+00:56:17,624 --> 00:56:19,626
+BEN: Yeah. It's a beast.
+
+903
+00:56:20,460 --> 00:56:21,928
+(SIGHS DEEPLY)
+
+904
+00:56:22,004 --> 00:56:24,132
+- What?
+- You know how lucky we are?
+
+905
+00:56:24,464 --> 00:56:29,265
+Look, we're gonna deliver all our
+findings to the Holy See next Friday.
+
+906
+00:56:29,344 --> 00:56:30,721
+Yeah, maybe.
+He hasn't agreed to see us.
+
+907
+00:56:30,804 --> 00:56:33,023
+Yeah, well, have you told him that
+the press might be interested?
+
+908
+00:56:33,098 --> 00:56:34,566
+DAVID: That's not very diplomatic.
+
+909
+00:56:34,641 --> 00:56:36,689
+Can't we just wait a little bit
+till my mother's case is resolved?
+
+910
+00:56:36,768 --> 00:56:37,894
+I mean, the press?
+
+911
+00:56:37,978 --> 00:56:40,606
+Hang on a minute. Just because
+you've got what you want now,
+
+912
+00:56:40,689 --> 00:56:43,613
+you're expecting us just to keep quiet?
+Michael, please, just get...
+
+913
+00:56:43,692 --> 00:56:45,410
+Stop! Stop! That's not what I meant!
+
+914
+00:56:45,485 --> 00:56:47,738
+Because there are lot more
+people to help
+
+915
+00:56:47,821 --> 00:56:49,289
+rather than just your mother, okay?
+
+916
+00:56:49,364 --> 00:56:52,914
+DAVID: Wait, did Father Gallo call you?
+ISABELLA: What's your problem?
+
+917
+00:56:52,993 --> 00:56:54,336
+No. You?
+
+918
+00:56:54,536 --> 00:56:56,163
+Yeah, he called me twice.
+
+919
+00:56:59,207 --> 00:57:00,504
+What did he say?
+
+920
+00:57:00,584 --> 00:57:02,962
+He wants to help us
+make the right decision.
+
+921
+00:57:03,045 --> 00:57:05,468
+He's worried about us.
+Especially, he's worried about me.
+
+922
+00:57:05,547 --> 00:57:07,891
+- You? Why?
+- Because of my job, Ben.
+
+923
+00:57:09,509 --> 00:57:11,682
+David, what are you doing
+with the papers? Are you okay?
+
+924
+00:57:11,887 --> 00:57:14,640
+I'm fine. The conversation's just
+giving me a little bit of a headache.
+
+925
+00:57:14,723 --> 00:57:17,021
+David, he's just trying to scare you.
+That's all.
+
+926
+00:57:17,100 --> 00:57:18,101
+ISABELLA: - Is that blood?
+- He's a moral man.
+
+927
+00:57:18,185 --> 00:57:20,028
+And he's toeing the company line
+on this one and you know it.
+
+928
+00:57:20,103 --> 00:57:21,776
+ISABELLA: Is your nose bleeding?
+
+929
+00:57:22,064 --> 00:57:24,738
+David, you got something.
+Are you okay?
+
+930
+00:57:25,233 --> 00:57:28,407
+BEN: - Are you okay?
+- I'm sorry. I'm fine.
+
+931
+00:57:34,743 --> 00:57:35,915
+Look.
+
+932
+00:57:36,578 --> 00:57:37,750
+I'm sorry.
+
+933
+00:57:39,247 --> 00:57:41,124
+It's probably stress.
+
+934
+00:57:41,208 --> 00:57:43,882
+- It's a lot of work to do for Friday.
+- Yeah.
+
+935
+00:57:48,882 --> 00:57:50,008
+MICHAEL: Are you all right?
+
+936
+00:57:57,057 --> 00:57:58,525
+- They won't release her.
+- MICHAEL: What?
+
+937
+00:57:58,767 --> 00:58:00,895
+- Why not?
+- I don't know. They won't say.
+
+938
+00:58:01,144 --> 00:58:03,988
+They can't or won't believe
+that she's better.
+
+939
+00:58:10,070 --> 00:58:11,492
+- Where are my keys?
+- I don't...
+
+940
+00:58:13,407 --> 00:58:15,375
+Where are my fucking keys?
+They were right here.
+
+941
+00:58:15,450 --> 00:58:17,623
+- I don't know. Relax.
+- Where are my fucking keys, Michael?
+
+942
+00:58:18,120 --> 00:58:20,794
+I don't know.
+It feels like they'll never release her.
+
+943
+00:58:23,834 --> 00:58:27,179
+There's no way
+the Church can't see this.
+
+944
+00:58:27,254 --> 00:58:30,804
+I can look them in the eye and tell them
+that it was the right thing to do.
+
+945
+00:58:30,882 --> 00:58:33,601
+(BAGPIPES PLAYING)
+
+946
+00:58:45,355 --> 00:58:48,154
+This is what they do.
+They cover things up, they ignore it,
+
+947
+00:58:48,608 --> 00:58:50,360
+no matter who it hurts or destroys.
+
+948
+00:58:50,444 --> 00:58:52,538
+Well, not this time.
+Not this fucking time.
+
+949
+00:58:52,612 --> 00:58:55,707
+This was supposed to be
+about my mother. Not anybody else.
+
+950
+00:58:55,782 --> 00:58:59,036
+Not about Ben's ego, or David's job.
+
+951
+00:58:59,119 --> 00:59:03,966
+I have a sinking feeling I'm going to be
+excommunicated for all this. I think.
+
+952
+00:59:05,000 --> 00:59:07,253
+- For what we did.
+- David's inner coward
+
+953
+00:59:07,335 --> 00:59:08,427
+is really coming out.
+(FOOTSTEPS APPROACHING)
+
+954
+00:59:08,503 --> 00:59:10,756
+Ben and David, maybe I get them.
+
+955
+00:59:11,131 --> 00:59:14,635
+They have their own thing going on,
+but Isabella,
+
+956
+00:59:15,302 --> 00:59:16,303
+we started this together.
+
+957
+00:59:16,511 --> 00:59:19,014
+Michael just has to stop.
+
+958
+00:59:19,514 --> 00:59:20,857
+- He just wants to...
+(CLATTERING)
+
+959
+00:59:21,141 --> 00:59:24,190
+They have this group of three
+
+960
+00:59:24,269 --> 00:59:27,614
+and I'm like
+the annoying guy with the camera.
+
+961
+00:59:36,865 --> 00:59:39,539
+David, what the fuck are you doing?
+
+962
+00:59:41,078 --> 00:59:42,500
+If it weren't for me
+
+963
+00:59:42,746 --> 00:59:45,295
+no one would know anything
+about what the hell they're doing
+
+964
+00:59:45,373 --> 00:59:48,923
+in their Church and in their basements.
+
+965
+00:59:49,753 --> 00:59:53,178
+ISABELLA: Look, I really think
+we need to talk about some stuff.
+
+966
+00:59:59,387 --> 01:00:00,730
+(MUNCHING)
+
+967
+01:00:11,358 --> 01:00:14,282
+- What's wrong with the camera?
+- I don't know. Just...
+
+968
+01:00:14,611 --> 01:00:15,612
+What's wrong?
+
+969
+01:00:15,695 --> 01:00:17,993
+- Not then. Before she hit you.
+- Michael, did you see anything?
+
+970
+01:00:18,073 --> 01:00:19,199
+No, I didn't see anything.
+
+971
+01:00:19,449 --> 01:00:21,872
+BEN: Okay, we'll just try another...
+ISABELLA: This is something else.
+
+972
+01:00:21,952 --> 01:00:23,454
+Yeah, but it's at the exact same time.
+
+973
+01:00:23,537 --> 01:00:27,713
+It must have been just a power surge
+through the hospital.
+
+974
+01:00:27,791 --> 01:00:29,008
+It's the only thing I can think of.
+
+975
+01:00:29,084 --> 01:00:31,303
+For all the cameras?
+It could be something else.
+
+976
+01:00:31,378 --> 01:00:33,472
+BEN: - Hey, we're filming.
+- I'm sorry.
+
+977
+01:00:33,547 --> 01:00:35,390
+ISABELLA: - David, you have to see this.
+- I have to go.
+
+978
+01:00:35,632 --> 01:00:38,977
+BEN: - I said we're filming.
+- I know. I heard you. I got to go.
+
+979
+01:00:39,219 --> 01:00:40,391
+BEN: What's the matter?
+
+980
+01:00:40,470 --> 01:00:43,599
+- The bishop denied our request.
+BEN: - What?
+
+981
+01:00:43,974 --> 01:00:48,480
+It's just a bloody meeting.
+What was the reason?
+
+982
+01:00:49,396 --> 01:00:51,569
+The incident's under investigation.
+
+983
+01:00:51,815 --> 01:00:53,943
+BEN: Well, of course it is.
+ISABELLA: David...
+
+984
+01:00:54,109 --> 01:00:56,032
+BEN: - David.
+- Yeah?
+
+985
+01:00:56,278 --> 01:00:58,451
+- It's going to be okay. All right?
+- I hope so.
+
+986
+01:00:59,614 --> 01:01:01,537
+- I hope so.
+MICHAEL: - David, wait, wait.
+
+987
+01:01:01,616 --> 01:01:03,664
+I'm coming with you, remember?
+The baptism?
+
+988
+01:01:03,743 --> 01:01:05,120
+Come on. Let's go.
+
+989
+01:01:06,705 --> 01:01:08,878
+- Michael, how long is this going to take?
+- Just a second.
+
+990
+01:01:08,957 --> 01:01:11,130
+- Do we really need this?
+- Yep.
+
+991
+01:01:11,793 --> 01:01:14,763
+- Are you okay with that, David?
+- I'm fine. You ready?
+
+992
+01:01:15,922 --> 01:01:18,425
+DAVID: <i>Baptism, baptism.</i>
+
+993
+01:01:18,800 --> 01:01:22,600
+Baptism is the transferal of sins,
+
+994
+01:01:23,430 --> 01:01:25,603
+<i>both original and personal.</i>
+
+995
+01:01:26,266 --> 01:01:27,609
+<i>Now, for example,</i>
+
+996
+01:01:27,976 --> 01:01:31,697
+<i>if a baby were to die
+after being baptized</i>
+
+997
+01:01:31,938 --> 01:01:33,440
+it would go to Heaven.
+
+998
+01:01:34,441 --> 01:01:36,114
+And if before
+
+999
+01:01:36,526 --> 01:01:37,948
+it would go to Hell.
+
+1000
+01:01:41,615 --> 01:01:44,619
+DAVID: <i>In the name of the Father
+and of the Son and of the Holy Spirit.</i>
+
+1001
+01:01:44,701 --> 01:01:46,169
+(BABY COOING)
+ALL: - Amen.
+
+1002
+01:01:46,620 --> 01:01:49,339
+Brethren, our fair Father Christ
+in His great loving kindness
+
+1003
+01:01:49,414 --> 01:01:52,588
+hath ordained that His mystic bride,
+the Holy Mother of the Church,
+
+1004
+01:01:53,210 --> 01:01:56,054
+to protect her children at every stage
+from the cradle to the grave.
+
+1005
+01:01:56,296 --> 01:01:59,300
+And to this end is the Sacrament
+of Holy Baptism ordained.
+
+1006
+01:01:59,549 --> 01:02:00,892
+ALL: Amen.
+
+1007
+01:02:06,723 --> 01:02:09,567
+John Thomas,
+in the name of Christ our Lord
+
+1008
+01:02:09,809 --> 01:02:12,733
+I anoint thee with oil for thy safekeeping.
+
+1009
+01:02:32,082 --> 01:02:33,755
+John Thomas,
+
+1010
+01:02:34,251 --> 01:02:35,924
+I baptize you
+
+1011
+01:02:36,253 --> 01:02:40,258
+in the name of the Father,
+and of the Son
+
+1012
+01:02:41,091 --> 01:02:42,764
+and of the Holy Spirit.
+
+1013
+01:02:43,176 --> 01:02:44,894
+(BABY COUGHING)
+
+1014
+01:02:46,888 --> 01:02:48,982
+MICHAEL: David? What's he doing?
+
+1015
+01:02:51,434 --> 01:02:52,481
+David!
+
+1016
+01:02:52,644 --> 01:02:53,987
+- Father, stop.
+- Please stop!
+
+1017
+01:02:54,229 --> 01:02:55,822
+What are you doing, David?
+
+1018
+01:02:56,439 --> 01:02:58,316
+David, stop, stop!
+
+1019
+01:02:59,818 --> 01:03:01,161
+David! For God's sake!
+
+1020
+01:03:01,486 --> 01:03:03,033
+Somebody, stop him!
+
+1021
+01:03:03,113 --> 01:03:03,989
+(ALL CLAMORING)
+
+1022
+01:03:07,826 --> 01:03:10,079
+You know what I'd like to do?
+
+1023
+01:03:12,414 --> 01:03:15,167
+I'd like to take this fucking camera,
+
+1024
+01:03:16,167 --> 01:03:19,262
+turn it around
+and stick it in Michael's face.
+
+1025
+01:03:21,506 --> 01:03:24,851
+I'd like to ask him,
+"What was it like, Michael?"
+
+1026
+01:03:27,012 --> 01:03:28,855
+"What was it like when"
+
+1027
+01:03:30,098 --> 01:03:33,193
+"your mom fucked
+your father's best friend?"
+
+1028
+01:03:35,020 --> 01:03:36,522
+(DOOR OPENING)
+
+1029
+01:03:36,604 --> 01:03:37,947
+(CHUCKLES)
+
+1030
+01:03:41,359 --> 01:03:42,531
+BEN: David?
+
+1031
+01:03:43,903 --> 01:03:45,746
+Hey, David!
+
+1032
+01:03:49,576 --> 01:03:50,998
+(DOOR SHUTS)
+
+1033
+01:03:52,370 --> 01:03:55,465
+Michael, what's wrong with David?
+What's happened?
+
+1034
+01:03:59,878 --> 01:04:01,380
+What's going on?
+
+1035
+01:04:07,927 --> 01:04:08,974
+(MICHAEL SIGHS)
+
+1036
+01:04:09,054 --> 01:04:10,226
+The...
+
+1037
+01:04:11,222 --> 01:04:12,895
+The kid almost died.
+
+1038
+01:04:13,224 --> 01:04:14,396
+What?
+
+1039
+01:04:15,226 --> 01:04:17,854
+What happened? What did you say?
+
+1040
+01:04:19,064 --> 01:04:22,409
+The baby he was baptizing,
+he almost drowned it.
+
+1041
+01:04:24,069 --> 01:04:27,073
+BEN: - What are you doing?
+- Setting up the camera.
+
+1042
+01:04:27,155 --> 01:04:29,999
+BEN: No, wait. Just leave the camera.
+ISABELLA: Is the baby okay?
+
+1043
+01:04:30,575 --> 01:04:31,747
+Yeah, I think so.
+
+1044
+01:04:31,993 --> 01:04:34,087
+ISABELLA: You think so? Did you see it?
+Were you there or not?
+
+1045
+01:04:34,162 --> 01:04:35,755
+MICHAEL: Do I think the baby's okay?
+Yeah.
+
+1046
+01:04:35,830 --> 01:04:37,503
+BEN: Is he in trouble?
+
+1047
+01:04:37,999 --> 01:04:40,297
+I don't know.
+They called the police and he just left.
+
+1048
+01:04:40,377 --> 01:04:42,675
+- David!
+BEN: - Okay, just come back when you...
+
+1049
+01:04:42,754 --> 01:04:47,760
+Well, he's been acting strange all day.
+Did you see it happen?
+
+1050
+01:04:48,593 --> 01:04:52,598
+See it? I filmed it! It
+was like he lost it!
+
+1051
+01:04:53,264 --> 01:04:57,440
+He's been under a lot of stress lately,
+so maybe that contributed to...
+
+1052
+01:04:57,769 --> 01:04:59,362
+I don't know.
+You should have been there.
+
+1053
+01:04:59,437 --> 01:05:01,439
+It was like he was crazy!
+
+1054
+01:05:02,190 --> 01:05:03,237
+Has anything like this
+ever happened before?
+
+1055
+01:05:03,316 --> 01:05:04,283
+No, of course not!
+
+1056
+01:05:04,359 --> 01:05:05,906
+(LOUD CRASHING)
+
+1057
+01:05:06,277 --> 01:05:07,449
+ISABELLA: David!
+BEN: David?
+
+1058
+01:05:07,529 --> 01:05:08,576
+ISABELLA: What the hell's going on?
+
+1059
+01:05:08,655 --> 01:05:10,373
+BEN: Michael, get the camera.
+We need the light.
+
+1060
+01:05:11,533 --> 01:05:13,831
+MICHAEL: Ben?
+BEN: David?
+
+1061
+01:05:15,036 --> 01:05:16,629
+(LOUD THUDDING)
+
+1062
+01:05:16,996 --> 01:05:18,373
+(DAVID SHOUTING INDISTINCTLY)
+
+1063
+01:05:18,456 --> 01:05:19,628
+David?
+
+1064
+01:05:19,916 --> 01:05:21,463
+(DRAGGING BED)
+
+1065
+01:05:22,627 --> 01:05:24,629
+MICHAEL: (WHISPERING)
+What's he doing up there?
+
+1066
+01:05:36,641 --> 01:05:38,314
+Watch. Careful.
+
+1067
+01:05:46,484 --> 01:05:48,532
+ISABELLA: What the hell is all this?
+BEN: I don't know.
+
+1068
+01:05:48,736 --> 01:05:50,909
+Ben, are those Bible pages?
+
+1069
+01:05:51,656 --> 01:05:53,454
+MICHAEL: Oh, Jesus.
+BEN: David!
+
+1070
+01:05:53,700 --> 01:05:54,872
+Come here. What have you done?
+
+1071
+01:05:54,951 --> 01:05:56,453
+Oh, my God, Ben.
+He's bleeding all over.
+
+1072
+01:05:56,536 --> 01:05:58,959
+Get his arms up.
+Put them up. Put them up.
+
+1073
+01:05:59,038 --> 01:06:00,085
+(SHUSHING)
+
+1074
+01:06:00,165 --> 01:06:01,417
+- No, no, no.
+- What is it?
+
+1075
+01:06:01,499 --> 01:06:02,466
+(MUTTERING AND WHEEZING)
+
+1076
+01:06:02,542 --> 01:06:03,714
+ISABELLA: No, no, no.
+
+1077
+01:06:06,838 --> 01:06:09,307
+- What do we do, Ben?
+(STUTTERING) - I don't know!
+
+1078
+01:06:09,382 --> 01:06:10,804
+- What do you mean, you don't know?
+- I don't know.
+
+1079
+01:06:10,884 --> 01:06:12,261
+I don't know what to do!
+
+1080
+01:06:13,803 --> 01:06:14,804
+Where's...
+
+1081
+01:06:19,601 --> 01:06:20,773
+(ISABELLA SCREAMING)
+
+1082
+01:06:20,852 --> 01:06:23,526
+Go, go, go! Get out! Stay out!
+
+1083
+01:06:23,646 --> 01:06:25,774
+Stay downstairs!
+Don't come back upstairs again!
+
+1084
+01:06:25,899 --> 01:06:26,946
+Just stay down there!
+
+1085
+01:06:27,025 --> 01:06:28,823
+- Okay, okay.
+BEN: - Look at me. Look in my eyes.
+
+1086
+01:06:28,902 --> 01:06:31,030
+Michael, did you see his eyes?
+Did you see his eyes?
+
+1087
+01:06:31,112 --> 01:06:32,614
+(DOOR BANGS OPEN)
+- Shit!
+
+1088
+01:06:32,697 --> 01:06:33,789
+<i>Polizia! Polizia!</i>
+
+1089
+01:06:33,865 --> 01:06:34,832
+No, no.
+
+1090
+01:06:34,908 --> 01:06:36,125
+(SPEAKING IN ITALIAN)
+
+1091
+01:06:36,201 --> 01:06:38,545
+Father Keane?
+Where is Father David Keane?
+
+1092
+01:06:38,703 --> 01:06:40,580
+MICHAEL: - He's upstairs.
+- He's very, very sick.
+
+1093
+01:06:41,080 --> 01:06:43,003
+- Turn on the lights.
+- I can't.
+
+1094
+01:06:43,082 --> 01:06:44,925
+MICHAEL: This is the only light we have.
+
+1095
+01:06:45,668 --> 01:06:47,170
+- OFFICER: Are you David Keane?
+- No, no.
+
+1096
+01:06:47,420 --> 01:06:50,549
+He's upstairs, he's upstairs,
+but it's not safe to go up there!
+
+1097
+01:06:50,632 --> 01:06:52,009
+Stay down here, please!
+
+1098
+01:06:52,091 --> 01:06:53,764
+MICHAEL: Holy shit.
+
+1099
+01:06:54,928 --> 01:06:56,271
+BEN: Do you need the light?
+
+1100
+01:07:04,395 --> 01:07:06,022
+(OFFICER SPEAKING IN ITALIAN)
+
+1101
+01:07:06,105 --> 01:07:07,231
+(LOUD THUD)
+BEN: - David!
+
+1102
+01:07:07,315 --> 01:07:09,113
+(BOTH STRUGGLING)
+
+1103
+01:07:11,444 --> 01:07:12,912
+(DOOR OPENS)
+
+1104
+01:07:13,863 --> 01:07:15,581
+(SPEAKING IN ITALIAN)
+
+1105
+01:07:17,367 --> 01:07:19,745
+- BEN: He took your gun?
+- Yes, he took my gun!
+
+1106
+01:07:19,827 --> 01:07:20,828
+We need to get out right now.
+
+1107
+01:07:20,912 --> 01:07:22,789
+All of us need to get out. We need to...
+
+1108
+01:07:23,206 --> 01:07:24,549
+David? David?
+
+1109
+01:07:25,333 --> 01:07:26,334
+David?
+
+1110
+01:07:26,543 --> 01:07:28,295
+He's my friend!
+
+1111
+01:07:29,796 --> 01:07:33,471
+David? David, listen to me.
+Put down the gun.
+
+1112
+01:07:34,634 --> 01:07:37,387
+- Just put down the gun, yeah?
+ISABELLA: - David...
+
+1113
+01:07:37,470 --> 01:07:40,815
+Listen to me. It's Ben, okay?
+It's your friend.
+
+1114
+01:07:41,432 --> 01:07:43,855
+ISABELLA: (SHOUTING) - No, no!
+- Be quiet, Isabella.
+
+1115
+01:07:43,935 --> 01:07:46,905
+David, listen to me, all right?
+
+1116
+01:07:46,980 --> 01:07:50,530
+This isn't you.
+Just listen to my voice, okay?
+
+1117
+01:07:51,150 --> 01:07:53,152
+This is your friend, Ben.
+
+1118
+01:07:54,320 --> 01:07:55,822
+This isn't you.
+
+1119
+01:07:56,406 --> 01:07:58,408
+Something else
+has taken control of you.
+
+1120
+01:07:58,491 --> 01:08:00,914
+You know this. You know this.
+
+1121
+01:08:02,495 --> 01:08:03,542
+Okay?
+
+1122
+01:08:03,621 --> 01:08:07,296
+Focus on my voice.
+You need to trust me, David. Okay?
+
+1123
+01:08:08,126 --> 01:08:09,628
+Just stay calm.
+
+1124
+01:08:11,087 --> 01:08:14,637
+(SOBBING) I can't stop.
+I can't stop it, Ben!
+
+1125
+01:08:14,882 --> 01:08:18,352
+You can, you can fight it.
+Just fight it! Fight it, David.
+
+1126
+01:08:18,845 --> 01:08:22,019
+Our Father, who art in Heaven,
+
+1127
+01:08:22,348 --> 01:08:24,021
+hallowed be Thy name.
+
+1128
+01:08:24,350 --> 01:08:28,025
+Thy kingdom come,
+Thy will be done on earth...
+
+1129
+01:08:35,486 --> 01:08:36,487
+I forgot it.
+
+1130
+01:08:36,696 --> 01:08:39,040
+- Just give me the gun.
+- I forgot it.
+
+1131
+01:08:39,365 --> 01:08:40,992
+He says to say, "Thank you".
+
+1132
+01:08:41,075 --> 01:08:42,372
+(GUNSHOT)
+
+1133
+01:08:43,161 --> 01:08:44,538
+MICHAEL: Jesus!
+
+1134
+01:08:45,038 --> 01:08:46,506
+BEN: (SCREAMING) The light!
+
+1135
+01:08:46,581 --> 01:08:48,800
+(OFFICER SPEAKING IN ITALIAN)
+
+1136
+01:08:50,960 --> 01:08:52,633
+Come here, come here. Oh, shit.
+
+1137
+01:08:52,712 --> 01:08:54,305
+(SHUDDERING)
+
+1138
+01:08:56,883 --> 01:08:58,009
+Fuck!
+
+1139
+01:08:58,092 --> 01:08:59,469
+(SCREAMING)
+
+1140
+01:09:00,887 --> 01:09:02,560
+I need an ambulance now!
+
+1141
+01:09:02,805 --> 01:09:04,398
+MICHAEL: What's wrong with her?
+
+1142
+01:09:05,224 --> 01:09:07,522
+She's having a seizure. Come here.
+
+1143
+01:09:07,852 --> 01:09:09,479
+(SIREN WAILING)
+
+1144
+01:09:09,562 --> 01:09:11,064
+You saw his eyes, right?
+
+1145
+01:09:13,066 --> 01:09:15,239
+- Ben!
+- I saw his eyes!
+
+1146
+01:09:15,318 --> 01:09:16,695
+- Tell me what's happening, Ben!
+- I don't want to...
+
+1147
+01:09:16,778 --> 01:09:17,995
+I got to know what's happening, Ben!
+
+1148
+01:09:18,404 --> 01:09:19,997
+Maybe there's some
+
+1149
+01:09:21,157 --> 01:09:22,329
+transference.
+
+1150
+01:09:22,575 --> 01:09:24,077
+Demonic transference?
+
+1151
+01:09:24,160 --> 01:09:27,255
+Of course I mean demonic transference,
+Michael!
+
+1152
+01:09:27,497 --> 01:09:28,840
+- Transference like?
+- Just fucking...
+
+1153
+01:09:29,040 --> 01:09:31,714
+- Michael, please just shut the fuck up!
+- Don't you fucking yell at me, Ben!
+
+1154
+01:09:31,918 --> 01:09:33,591
+Of course I'm gonna fucking yell at you!
+
+1155
+01:09:33,670 --> 01:09:35,513
+You've been here
+the whole fucking time!
+
+1156
+01:09:35,755 --> 01:09:37,428
+Have you not listened to me?
+
+1157
+01:09:38,091 --> 01:09:39,388
+Jesus.
+
+1158
+01:09:39,467 --> 01:09:42,220
+(FACULTY TALKING INDISTINCTLY
+IN ITALIAN)
+
+1159
+01:09:42,762 --> 01:09:46,107
+No, no! Please, wait here.
+Wait out there! Yes, please.
+
+1160
+01:09:48,309 --> 01:09:50,152
+(ISABELLA SHUDDERING)
+
+1161
+01:10:10,915 --> 01:10:12,417
+MICHAEL: Her name is Isabella Rossi.
+
+1162
+01:10:13,501 --> 01:10:14,923
+Can we see her yet?
+
+1163
+01:10:30,601 --> 01:10:32,979
+(TALKING INDISTINCTLY IN ITALIAN)
+
+1164
+01:10:42,864 --> 01:10:44,866
+I believe there's transference.
+
+1165
+01:10:46,451 --> 01:10:50,172
+- I don't know. Not for certain.
+- MICHAEL: Who are you talking to?
+
+1166
+01:10:53,708 --> 01:10:56,052
+More than one. Four, possibly.
+
+1167
+01:10:59,714 --> 01:11:03,469
+Okay, okay. I'll bring her to you
+as soon as I can, Father Gallo.
+
+1168
+01:11:03,801 --> 01:11:04,893
+Thank you.
+
+1169
+01:11:07,138 --> 01:11:10,483
+Yeah, I know. It's David's fault.
+
+1170
+01:11:11,225 --> 01:11:15,401
+The doctor asked me to talk to you, yes.
+She's doing much better, your friend.
+
+1171
+01:11:15,730 --> 01:11:17,858
+She's stable and she's resting,
+so I suggest you go.
+
+1172
+01:11:17,940 --> 01:11:19,317
+When can we see her?
+
+1173
+01:11:19,567 --> 01:11:21,945
+She's gonna be here overnight,
+so you can see her tomorrow.
+
+1174
+01:11:22,028 --> 01:11:23,245
+Overnight? That's not possible.
+
+1175
+01:11:23,321 --> 01:11:24,664
+Why is that?
+
+1176
+01:11:24,864 --> 01:11:27,913
+There's something wrong with her.
+It's not safe here.
+
+1177
+01:11:28,493 --> 01:11:29,995
+No, this is very safe, I assure you.
+
+1178
+01:11:30,077 --> 01:11:31,124
+Something's wrong with her.
+
+1179
+01:11:31,204 --> 01:11:32,751
+We need to get her
+out of here right now.
+
+1180
+01:11:32,830 --> 01:11:33,922
+No, gentlemen, we are extremely...
+
+1181
+01:11:33,998 --> 01:11:37,172
+Do you know
+who Father Robert Gallo is?
+
+1182
+01:11:37,251 --> 01:11:39,925
+Father Gallo, yes, I know him,
+but I don't understand...
+
+1183
+01:11:40,004 --> 01:11:42,006
+(CLANGING)
+(MONITOR BEEPING RAPIDLY)
+
+1184
+01:11:42,089 --> 01:11:43,261
+BEN: Isabella?
+
+1185
+01:11:43,341 --> 01:11:44,934
+(ISABELLA SCREAMING)
+
+1186
+01:11:45,009 --> 01:11:45,976
+Isabella?
+
+1187
+01:11:46,052 --> 01:11:47,725
+(CLANGING)
+
+1188
+01:11:54,852 --> 01:11:56,274
+MICHAEL: What do we do, Ben?
+
+1189
+01:11:58,689 --> 01:12:00,691
+BEN: Isabella, listen to me!
+
+1190
+01:12:01,400 --> 01:12:03,152
+(SCREAMING)
+
+1191
+01:12:04,779 --> 01:12:06,827
+We need to get her out of here now!
+
+1192
+01:12:08,449 --> 01:12:10,747
+(FACULTY CLAMORING IN ITALIAN)
+
+1193
+01:12:11,327 --> 01:12:13,170
+(SPEAKING IN ITALIAN)
+
+1194
+01:12:17,458 --> 01:12:18,710
+Michael!
+
+1195
+01:12:19,544 --> 01:12:22,218
+I've got her now!
+
+1196
+01:12:23,130 --> 01:12:25,053
+We need to get her under control!
+
+1197
+01:12:25,591 --> 01:12:26,592
+(BONES CRACKING)
+
+1198
+01:12:26,676 --> 01:12:29,350
+(SCREECHING) Help me, please!
+
+1199
+01:12:30,137 --> 01:12:33,732
+I know this woman.
+She needs to be sedated. Do it, now!
+
+1200
+01:12:34,559 --> 01:12:38,564
+Jesus will bring your plans to nothing.
+Christ will have none of your plans.
+
+1201
+01:12:39,647 --> 01:12:41,240
+Let's take this outside.
+
+1202
+01:12:41,315 --> 01:12:42,316
+(ISABELLA SCREAMING)
+
+1203
+01:12:42,400 --> 01:12:44,073
+Michael, put the camera down!
+
+1204
+01:12:48,739 --> 01:12:52,334
+Listen to me. I'm a priest.
+Please, go and help those people.
+
+1205
+01:12:52,410 --> 01:12:54,583
+- Keep her here.
+- DOCTOR: Thank you, Father.
+
+1206
+01:12:55,746 --> 01:12:58,420
+Okay, let's go, let's go, let's go.
+
+1207
+01:13:01,252 --> 01:13:02,879
+- Come on.
+- MICHAEL: She just killed that woman.
+
+1208
+01:13:03,254 --> 01:13:04,972
+BEN: We need to end this.
+
+1209
+01:13:05,673 --> 01:13:09,348
+Grab her legs. Help me grab her legs!
+We're going to Father Gallo's.
+
+1210
+01:13:09,594 --> 01:13:10,766
+MICHAEL: What's he going to do?
+
+1211
+01:13:10,928 --> 01:13:13,522
+BEN: I need help with the exorcism.
+
+1212
+01:13:14,599 --> 01:13:16,442
+Get the door. Get the door.
+
+1213
+01:13:16,851 --> 01:13:18,023
+BEN: Oh, my God. What have I done?
+
+1214
+01:13:18,185 --> 01:13:19,778
+You really think Gallo's going to help?
+
+1215
+01:13:20,021 --> 01:13:21,443
+Yeah, I need help.
+
+1216
+01:13:22,023 --> 01:13:24,196
+- I need to fix this.
+(GASPING)
+
+1217
+01:13:24,275 --> 01:13:26,198
+Oh, shit. Oh, shit. She's waking up.
+
+1218
+01:13:26,527 --> 01:13:28,029
+She's waking up.
+
+1219
+01:13:28,613 --> 01:13:31,287
+We haven't got much time, Michael.
+We haven't got much time.
+
+1220
+01:13:31,616 --> 01:13:33,710
+Stay with me. Don't let it get to you.
+
+1221
+01:13:34,952 --> 01:13:38,456
+When I was 13,
+my uncle told me he was an exorcist.
+
+1222
+01:13:39,457 --> 01:13:42,006
+You can't get back
+into God's good graces, priest.
+
+1223
+01:13:42,084 --> 01:13:43,711
+(WHISPERING) Not after what you did.
+
+1224
+01:13:44,420 --> 01:13:45,467
+Ben?
+
+1225
+01:13:45,713 --> 01:13:47,511
+(DISTORTED) You wanted him to die,
+didn't you?
+
+1226
+01:13:48,007 --> 01:13:49,179
+What is she doing?
+
+1227
+01:13:49,508 --> 01:13:51,806
+(IN MALE VOICE)
+He says to say, "Thank you."
+
+1228
+01:13:52,303 --> 01:13:53,805
+Who are you?
+
+1229
+01:13:54,305 --> 01:13:57,309
+You know me. Everyone knows me.
+
+1230
+01:13:57,642 --> 01:14:00,065
+- Lord, have mercy! Christ, have mercy!
+(SCREAMING)
+
+1231
+01:14:00,144 --> 01:14:01,270
+Jesus.
+
+1232
+01:14:01,354 --> 01:14:02,480
+God the Father!
+
+1233
+01:14:03,105 --> 01:14:04,322
+(SCREECHING)
+
+1234
+01:14:04,398 --> 01:14:05,399
+Oh, my God!
+
+1235
+01:14:06,817 --> 01:14:07,818
+Oh, shit!
+
+1236
+01:14:07,902 --> 01:14:09,279
+(SCREAMING)
+(TIRES SCREECHING)
+
+1237
+01:14:09,654 --> 01:14:12,032
+BEN: Your place is in solitude!
+
+1238
+01:14:12,531 --> 01:14:15,159
+Your abode is in the nest of serpents!
+
+1239
+01:14:15,242 --> 01:14:17,370
+Be gone forthwith
+from this servant of God!
+
+1240
+01:14:17,745 --> 01:14:20,214
+Get out of her! Get out of her!
+
+1241
+01:14:20,289 --> 01:14:22,542
+(BEN RECITING PRAYERS IN LATIN)
+
+1242
+01:14:28,047 --> 01:14:29,390
+It's working, right?
+
+1243
+01:14:29,632 --> 01:14:31,634
+I have got her under control,
+but I don't know for how long.
+
+1244
+01:14:31,717 --> 01:14:33,060
+You've got to hurry up.
+
+1245
+01:14:37,932 --> 01:14:38,933
+(PANTING) It's okay.
+
+1246
+01:14:40,351 --> 01:14:42,479
+It's going to be okay. I'm sorry.
+
+1247
+01:14:42,561 --> 01:14:43,608
+(ALARM BLEEPING)
+
+1248
+01:14:43,688 --> 01:14:45,281
+Just be strong.
+
+1249
+01:14:45,856 --> 01:14:47,199
+- Be strong.
+(ENGINE REWING)
+
+1250
+01:14:48,693 --> 01:14:49,990
+Just be strong.
+
+1251
+01:14:50,069 --> 01:14:51,036
+(VEHICLE HONKING)
+
+1252
+01:14:51,112 --> 01:14:52,204
+Michael!
+
+1253
+01:14:54,573 --> 01:14:56,075
+(CRASHING)

@@ -1,0 +1,3736 @@
+1
+00:01:40,760 --> 00:01:43,399
+2130, day 547.
+
+2
+00:01:43,480 --> 00:01:46,950
+Unscheduled course correction
+due at 2200.
+
+3
+00:01:47,040 --> 00:01:51,238
+Pre-correction check:
+Rotation axis plus three degrees.
+
+4
+00:01:51,320 --> 00:01:56,189
+Nitrous oxide pressure:
+4,100, rising to 5,000.
+
+5
+00:01:56,280 --> 00:01:59,033
+Quad jets C and D
+on pre-select.
+
+6
+00:01:59,120 --> 00:02:02,351
+Rotor ignition sequence
+beginning in 3-0.
+
+7
+00:02:02,440 --> 00:02:04,908
+Thruster line reactors
+on standby.
+
+8
+00:02:05,000 --> 00:02:07,150
+Vincent, notify me with 15 to go.
+
+9
+00:02:07,240 --> 00:02:08,559
+- Alex?
+- Yes, Dan.
+
+10
+00:02:08,640 --> 00:02:11,916
+Have you determined the difference
+in ETAs with and without our correction?
+
+11
+00:02:12,000 --> 00:02:15,788
+Working on it. You know, we shouldn't
+be needing a direction at this time.
+
+12
+00:02:15,880 --> 00:02:19,156
+Vincent, run a confirmation
+on the last inertial fix...
+
+13
+00:02:19,240 --> 00:02:21,310
+and check it
+with another celestial, please.
+
+14
+00:02:21,400 --> 00:02:23,516
+I have.
+It is correct...
+
+15
+00:02:23,600 --> 00:02:27,036
+but I think I've found the reason
+for our present variation.
+
+16
+00:02:27,120 --> 00:02:29,270
+- Mr Pizer.
+- Yes, Vincent.
+
+17
+00:02:29,360 --> 00:02:31,920
+Mr Pizer, I think
+you should come up here.
+
+18
+00:02:36,680 --> 00:02:37,908
+What's up, Vincent?
+
+19
+00:02:38,000 --> 00:02:42,039
+The largest black hole
+I have ever encountered, Mr Pizer.
+
+20
+00:02:42,120 --> 00:02:44,111
+Hmm. Let's have a look at it
+on the holograph.
+
+21
+00:03:05,720 --> 00:03:07,676
+My God!
+
+22
+00:03:07,760 --> 00:03:10,672
+Right out of Dante's <i>Inferno.</i>
+
+23
+00:03:10,760 --> 00:03:14,753
+Yes. The most destructive force
+in the universe, Harry.
+
+24
+00:03:14,840 --> 00:03:17,070
+Nothing can escape it,
+not even light.
+
+25
+00:03:17,160 --> 00:03:19,674
+I had a professor who predicted
+that eventually black holes...
+
+26
+00:03:19,760 --> 00:03:22,672
+would devour
+the entire universe.
+
+27
+00:03:22,760 --> 00:03:27,231
+Why not, when you can see giant suns
+sucked in and disappear without a trace?
+
+28
+00:03:28,320 --> 00:03:31,357
+- Give us the magnification, Vincent.
+- Polarizing image.
+
+29
+00:03:31,440 --> 00:03:35,877
+Every time I see one of those things,
+I expect to spot some guy in red
+with horns and a pitchfork.
+
+30
+00:03:35,960 --> 00:03:37,109
+It's a monster, all right.
+
+31
+00:03:37,200 --> 00:03:39,953
+A rip in the very fabric
+of space and time...
+
+32
+00:03:40,040 --> 00:03:41,951
+but I picked up
+something else of interest.
+
+33
+00:03:42,040 --> 00:03:45,157
+- Let's see it.
+- It hasn't moved
+since I first picked it up.
+
+34
+00:03:45,240 --> 00:03:47,708
+- It seems to be some kind of ship.
+- Do you copy, Alex?
+
+35
+00:03:47,800 --> 00:03:51,998
+- <i>Roger, Dan.</i>
+- Enlarge again, Vincent,
+and let's try to identify it.
+
+36
+00:03:56,280 --> 00:03:59,795
+But how could anybody
+be out here ahead of us?
+
+37
+00:03:59,880 --> 00:04:02,189
+Arcturius-10, <i>United Kingdom.</i>
+
+38
+00:04:04,320 --> 00:04:06,117
+Liberty-7, <i>United States.</i>
+
+39
+00:04:07,840 --> 00:04:10,195
+<i>Russian experimental space station,</i>
+<i>series five.</i>
+
+40
+00:04:11,760 --> 00:04:14,149
+<i>France,</i> Sahara Module 5-3.
+
+41
+00:04:14,240 --> 00:04:15,753
+Pluto-4, <i>Japan.</i>
+
+42
+00:04:16,920 --> 00:04:18,956
+<i>United States,</i>
+Space Probe One.
+
+43
+00:04:19,040 --> 00:04:21,554
+- That's it.
+- USS Cygnus.
+
+44
+00:04:21,640 --> 00:04:24,552
+<i>Dr Kate, wasn't that the ship</i>
+<i>your father was on?</i>
+
+45
+00:04:24,640 --> 00:04:26,551
+<i>USS Cygnus.</i>
+
+46
+00:04:26,640 --> 00:04:31,714
+Its mission: To discover habitable
+life in outer space. Same as ours.
+
+47
+00:04:31,800 --> 00:04:33,711
+Signal that ship, Vincent.
+
+48
+00:04:35,720 --> 00:04:38,154
+- Activate the sensors, Charlie.
+- You bet.
+
+49
+00:04:43,320 --> 00:04:45,311
+They were recalled to Earth
+20 years ago...
+
+50
+00:04:45,400 --> 00:04:47,914
+their mission
+considered a failure.
+
+51
+00:04:48,000 --> 00:04:50,958
+How that must have galled
+Dr Hans Reinhardt.
+
+52
+00:04:51,040 --> 00:04:53,474
+Did you ever meet
+Commander Reinhardt?
+
+53
+00:04:54,680 --> 00:04:57,478
+Collided with him would be
+a more accurate description.
+
+54
+00:04:57,560 --> 00:05:00,028
+- A legend.
+- So he believed.
+
+55
+00:05:01,280 --> 00:05:03,589
+Reinhardt had the knack
+of making his own ambitions...
+
+56
+00:05:03,680 --> 00:05:06,877
+seem like a matter
+of national pride.
+
+57
+00:05:06,960 --> 00:05:09,155
+Why, he talked
+the space appropriations committee...
+
+58
+00:05:09,240 --> 00:05:11,708
+into the costliest fiasco
+of all time...
+
+59
+00:05:11,800 --> 00:05:13,711
+and refused to admit failure.
+
+60
+00:05:13,800 --> 00:05:15,552
+He ignored his recall.
+
+61
+00:05:15,640 --> 00:05:18,393
+Maybe not.
+Maybe it never got through.
+
+62
+00:05:18,480 --> 00:05:20,675
+That ship just...
+just disappeared.
+
+63
+00:05:21,920 --> 00:05:24,070
+They've never been seen again.
+
+64
+00:05:24,160 --> 00:05:28,233
+Dan, get us in close enough. Vincent
+and I could get aboard on tethers.
+
+65
+00:05:28,320 --> 00:05:31,278
+To quote Cicero, "Rashness is
+the characteristic of youth...
+
+66
+00:05:31,360 --> 00:05:35,592
+prudence that of mellowed age and
+discretion the better part of valour."
+
+67
+00:05:35,680 --> 00:05:39,719
+No sense leaving the story
+of a lifetime untold, Captain.
+
+68
+00:05:39,800 --> 00:05:41,870
+<i>I believe there is, Harry...</i>
+
+69
+00:05:41,960 --> 00:05:44,155
+and it's looking
+straight at us.
+
+70
+00:05:44,240 --> 00:05:45,832
+Picking up anything
+on the sensors, Charlie?
+
+71
+00:05:45,920 --> 00:05:47,512
+Negative, but with all
+that turbulence...
+
+72
+00:05:47,600 --> 00:05:50,034
+<i>out there, our signal</i>
+<i>might not be getting through.</i>
+
+73
+00:05:50,120 --> 00:05:52,350
+According to my instruments,
+it hasn't moved a centimetre...
+
+74
+00:05:52,440 --> 00:05:54,431
+since we first spotted it.
+
+75
+00:05:54,520 --> 00:05:58,195
+But, Alex, how can a lifeless derelict
+defy that kind of gravity?
+
+76
+00:05:58,280 --> 00:06:00,794
+I don't know, but it's
+certainly worth investigating.
+
+77
+00:06:00,880 --> 00:06:02,552
+<i>My instincts</i>
+<i>are against it, Alex...</i>
+
+78
+00:06:02,640 --> 00:06:05,029
+but we'll go in
+for a closer look.
+
+79
+00:06:06,120 --> 00:06:08,918
+Fix a coordinate approach, Charlie.
+Full power on the thrusters, Vincent.
+
+80
+00:06:18,920 --> 00:06:21,957
+Strap yourselves in. We'll be feeling
+the gravitational force...
+
+81
+00:06:23,240 --> 00:06:25,231
+right now.
+
+82
+00:06:49,600 --> 00:06:51,716
+Range: 29551 and closing.
+
+83
+00:06:53,640 --> 00:06:55,551
+What's your reading
+on <i>Cygnus,</i> Vincent?
+
+84
+00:06:55,640 --> 00:06:58,552
+Triangulation shows
+it's still holding steady, sir.
+
+85
+00:06:58,640 --> 00:07:03,156
+- Gravity pull?
+- .02450 and rising.
+
+86
+00:07:03,240 --> 00:07:07,631
+Puts us in an escape attitude of
+8-5 degrees. Cut power by two-thirds.
+
+87
+00:07:15,000 --> 00:07:18,754
+- 8-5 degrees.
+She's bucking like a bronco.
+- Gravity?
+
+88
+00:07:19,840 --> 00:07:22,035
+.46960, still climbing.
+
+89
+00:07:22,120 --> 00:07:24,190
+Switching to manual.
+
+90
+00:07:24,280 --> 00:07:26,999
+Captain, I'm not sure how long
+the engines will remain operable...
+
+91
+00:07:27,080 --> 00:07:29,150
+against that much force
+when we turn back.
+
+92
+00:07:29,240 --> 00:07:31,151
+Alex, gravity's close to maximum.
+
+93
+00:07:31,240 --> 00:07:33,629
+We can afford one pass, and then we're
+gonna have to get the hell out.
+
+94
+00:07:51,080 --> 00:07:53,913
+- Zero gravity.
+- Cut the power.
+
+95
+00:08:02,920 --> 00:08:04,831
+Smooth as glass.
+
+96
+00:08:10,120 --> 00:08:12,156
+It's like being
+in the eye of a hurricane.
+
+97
+00:08:13,400 --> 00:08:17,075
+- What happened?
+- Natural phenomenon.
+
+98
+00:08:18,800 --> 00:08:21,712
+Or something from that ship.
+
+99
+00:08:48,160 --> 00:08:49,912
+Activating the microbeam.
+
+100
+00:09:13,160 --> 00:09:15,276
+Picking up anything, Charlie?
+
+101
+00:09:17,400 --> 00:09:20,153
+Negative, Alex. No way our signals
+can't get through this time.
+
+102
+00:09:44,400 --> 00:09:47,233
+- Gravity's at maximum, Dan.
+- My God, I think it's got us.
+
+103
+00:09:47,320 --> 00:09:50,232
+We're starting to tumble.
+Hundred percent on the roll jet quads.
+
+104
+00:09:54,840 --> 00:09:56,751
+Roll jet quads, full capacity.
+
+105
+00:10:07,200 --> 00:10:10,078
+- Air break at midship. Losing oxygen.
+- Charlie...
+
+106
+00:10:10,160 --> 00:10:12,799
+give me a full burst
+at 180 degrees, main thrusters.
+
+107
+00:10:20,840 --> 00:10:23,149
+We got a break here too!
+
+108
+00:10:23,240 --> 00:10:26,437
+Emergency readouts show the primary
+and secondary air lines ruptured!
+
+109
+00:10:27,640 --> 00:10:30,074
+Never rains.
+
+110
+00:10:30,160 --> 00:10:32,469
+Full-pitch attitude thrusters,
+A and B rings.
+
+111
+00:10:32,560 --> 00:10:34,471
+The black hole
+is pulling us in.
+
+112
+00:10:34,560 --> 00:10:36,551
+Going to manual.
+
+113
+00:10:48,040 --> 00:10:51,828
+The number four hatch blew outward,
+Captain. I'll go out and secure it.
+
+114
+00:10:51,920 --> 00:10:55,708
+Watch yourself out there, Vincent.
+There's more gravity pull
+than we've ever encountered.
+
+115
+00:10:55,800 --> 00:10:57,313
+Yes, sir.
+
+116
+00:11:15,160 --> 00:11:18,596
+Alex, we'd better check out
+the damage below!
+
+117
+00:11:36,360 --> 00:11:40,512
+Vincent, do you read me?
+Come in, Vincent.
+
+118
+00:11:40,600 --> 00:11:42,830
+Kate, either we have
+a malfunction here...
+
+119
+00:11:42,920 --> 00:11:44,911
+or there's too much interference
+on the outside.
+
+120
+00:11:45,000 --> 00:11:46,911
+See if you can get through
+to Vincent with your ESP.
+
+121
+00:11:57,000 --> 00:11:58,911
+I got through to Vincent.
+
+122
+00:11:59,840 --> 00:12:02,479
+He said there are old pilots
+and there are bold pilots...
+
+123
+00:12:02,560 --> 00:12:05,518
+but there are very few
+old, bold pilots.
+
+124
+00:12:06,400 --> 00:12:08,630
+She's tuned in on Vincent,
+all right.
+
+125
+00:12:11,240 --> 00:12:13,708
+Grab my leg! My leg!
+
+126
+00:12:15,280 --> 00:12:17,191
+- You okay?
+- Yeah, yeah.
+
+127
+00:12:18,920 --> 00:12:21,229
+And that's got it!
+
+128
+00:12:21,320 --> 00:12:23,914
+Hit the boosters, Charlie. We gotta
+make a run for that zero gravity.
+
+129
+00:12:46,320 --> 00:12:48,356
+He secured the hatch!
+
+130
+00:12:48,440 --> 00:12:49,793
+Good.
+
+131
+00:12:49,880 --> 00:12:54,556
+<i>We can only make temporary repairs</i>
+<i>here, Dan, and that's only</i>
+<i>to the secondary line.</i>
+
+132
+00:12:54,640 --> 00:12:57,154
+Unless we can replace the damaged parts
+in the main regulator...
+
+133
+00:12:57,240 --> 00:12:59,549
+we're gonna lose
+our oxygen supply.
+
+134
+00:12:59,640 --> 00:13:01,551
+Damn!
+
+135
+00:13:06,640 --> 00:13:10,076
+Dan, the tether's broken.
+
+136
+00:13:10,160 --> 00:13:12,993
+- I'm going after him.
+- Stay at your post, Charlie.
+
+137
+00:13:14,080 --> 00:13:17,197
+What the hell are you made of?
+
+138
+00:13:17,280 --> 00:13:20,795
+- What if it were one of us out there?
+- Vincent is one of us.
+
+139
+00:13:43,160 --> 00:13:45,993
+Reverse thrusters
+and look for a place to set down.
+
+140
+00:14:23,400 --> 00:14:26,915
+- What's going on?
+- That's what I'd like to know.
+
+141
+00:14:27,000 --> 00:14:28,911
+Like a tree
+on Christmas morning.
+
+142
+00:14:29,000 --> 00:14:31,434
+Locking warheads
+into firing position.
+
+143
+00:14:31,520 --> 00:14:35,274
+Hold it, Dan. They've got
+to be friendly. They could have
+blasted us right out of the sky.
+
+144
+00:14:53,840 --> 00:14:55,751
+Your side, Dan.
+
+145
+00:14:57,200 --> 00:14:59,111
+<i>You got a picture down there?</i>
+
+146
+00:15:01,000 --> 00:15:03,958
+- There are people on board.
+- Just a shadow, Kate.
+
+147
+00:15:04,040 --> 00:15:06,031
+Enlarge, please.
+
+148
+00:15:08,360 --> 00:15:11,716
+There are people, Alex.
+I know it. I feel it.
+
+149
+00:15:18,440 --> 00:15:20,795
+Docking elevator coming up.
+
+150
+00:15:23,280 --> 00:15:25,589
+Wonder why they didn't roll out
+the red carpet earlier.
+
+151
+00:15:25,680 --> 00:15:27,591
+I don't know,
+and I don't like it.
+
+152
+00:15:27,680 --> 00:15:30,752
+But they're calling the shots,
+and we've got to repair this craft.
+
+153
+00:15:30,840 --> 00:15:33,673
+Dan, I'm sorry I blew my stack.
+
+154
+00:15:33,760 --> 00:15:37,469
+I guess we all have a soft spot
+for the little guy, Charlie.
+
+155
+00:15:38,360 --> 00:15:40,920
+- Yeah.
+- All right, let's bring her in.
+
+156
+00:15:41,000 --> 00:15:42,672
+Okay.
+
+157
+00:16:12,160 --> 00:16:14,515
+Bingo.
+
+158
+00:16:18,760 --> 00:16:19,875
+We have gravity.
+
+159
+00:17:02,240 --> 00:17:03,673
+Nice work, Vincent.
+
+160
+00:17:03,760 --> 00:17:06,957
+Out of the frying pan;
+hopefully, not into the fire.
+
+161
+00:17:08,160 --> 00:17:12,597
+- Are you all right, Vincent?
+- Nothing a hammer and a little
+metal polish can't fix. Thank you.
+
+162
+00:17:21,760 --> 00:17:23,796
+Looks like
+we'll have to go to them.
+
+163
+00:17:25,040 --> 00:17:27,600
+- Charlie, you'll stay with the <i>Palomino.</i>
+- But you need everyone that's got...
+
+164
+00:17:27,680 --> 00:17:29,591
+- Charlie.
+- Don't worry, Mr Pizer.
+
+165
+00:17:29,680 --> 00:17:31,716
+They also serve
+who only stand and wait.
+
+166
+00:17:31,800 --> 00:17:33,711
+Vincent, were you programmed
+to bug me?
+
+167
+00:17:33,800 --> 00:17:35,711
+No, sir, to educate you.
+
+168
+00:17:36,800 --> 00:17:41,715
+When I volunteered for this mission,
+I never thought I'd end up playing
+straight man to a tin can.
+
+169
+00:17:52,920 --> 00:17:56,276
+This place looks as if
+it hasn't been used for years.
+
+170
+00:17:56,360 --> 00:17:59,909
+It's eerie. I feel like
+a thousand eyes are watching us.
+
+171
+00:18:11,920 --> 00:18:13,194
+Vincent!
+
+172
+00:18:13,280 --> 00:18:15,919
+- Charlie, do you read me?
+- Vincent, are you all right?
+
+173
+00:18:16,000 --> 00:18:19,709
+Weapons destroyed by laser fire.
+No injuries. Hold your position.
+
+174
+00:18:19,800 --> 00:18:21,791
+Vincent.
+
+175
+00:18:24,160 --> 00:18:28,676
+- Are you sure you're all right?
+- Down, but never for
+the full count, Dr Kate.
+
+176
+00:18:28,760 --> 00:18:33,390
+- So much for the friendship theory.
+- Come on, Harry. They could have
+killed us if they'd wanted to.
+
+177
+00:18:33,480 --> 00:18:35,391
+Yeah, sure.
+
+178
+00:20:23,760 --> 00:20:27,435
+I don't like it when somebody else
+pulls the strings, Captain.
+
+179
+00:20:27,520 --> 00:20:31,991
+Neither do I, Vincent.
+Whoever's up in that control tower
+is calling the shots right now.
+
+180
+00:20:32,080 --> 00:20:34,992
+Whoever or whatever, Captain.
+
+181
+00:20:44,800 --> 00:20:48,110
+- Easy, Kate.
+- I know I shouldn't get my hopes up,
+but it's hard not to.
+
+182
+00:20:48,200 --> 00:20:50,111
+I know.
+
+183
+00:20:51,200 --> 00:20:54,909
+I don't mind telling you,
+I'm a little concerned.
+
+184
+00:20:55,000 --> 00:20:58,436
+Some of my brother robots
+were assigned to Project Black Hole...
+
+185
+00:20:58,520 --> 00:21:02,035
+programmed to send ESP messages
+back from space probes.
+
+186
+00:21:02,120 --> 00:21:05,237
+Oh, a grand experiment,
+the scientists thought.
+
+187
+00:21:05,320 --> 00:21:07,231
+Also ancient history, Vincent.
+
+188
+00:21:07,320 --> 00:21:10,517
+Not to me, Mr Booth.
+Not this close.
+
+189
+00:21:10,600 --> 00:21:13,637
+The heat in there
+melts types like me rather quickly.
+
+190
+00:21:55,080 --> 00:21:57,753
+Hello? I'm Kate McCrae.
+
+191
+00:21:59,720 --> 00:22:02,075
+Is Officer Frank McCrae aboard?
+
+192
+00:22:03,400 --> 00:22:05,709
+They appear to be
+some sort of robot, Dr Kate.
+
+193
+00:22:07,320 --> 00:22:09,231
+Look over here.
+
+194
+00:22:15,160 --> 00:22:17,435
+Incredible.
+
+195
+00:22:17,520 --> 00:22:20,159
+It oughta be.
+Sure cost the taxpayers enough.
+
+196
+00:22:25,160 --> 00:22:27,276
+Kate.
+
+197
+00:22:27,360 --> 00:22:29,271
+There's someone else with us.
+
+198
+00:22:40,360 --> 00:22:42,316
+Identify yourself.
+
+199
+00:22:43,680 --> 00:22:45,671
+What is your type and model?
+
+200
+00:22:54,560 --> 00:22:57,233
+- A mystery monster.
+- Don't move.
+
+201
+00:22:57,320 --> 00:23:00,278
+Charlie, do you read me?
+Charlie Pizer. Come in, Charlie.
+
+202
+00:23:02,760 --> 00:23:05,433
+This is the story
+to end all stories, Harry.
+
+203
+00:23:05,520 --> 00:23:10,275
+A ship of robots and computers
+with this thing in charge?
+
+204
+00:23:10,360 --> 00:23:12,112
+Not quite, Dr Durant.
+
+205
+00:23:13,440 --> 00:23:17,911
+Maximilian and my robots only run
+this ship the way I wish it run.
+
+206
+00:23:19,000 --> 00:23:20,752
+How do you know my name?
+
+207
+00:23:20,840 --> 00:23:24,310
+You were monitored ever since
+our sensors first detected you.
+
+208
+00:23:25,320 --> 00:23:27,470
+Now, now, Maximilian.
+Calm down.
+
+209
+00:23:27,560 --> 00:23:29,471
+Don't pick on small people.
+
+210
+00:23:32,520 --> 00:23:34,954
+Such a nice little robot.
+He's harmless.
+
+211
+00:23:36,040 --> 00:23:39,555
+Miss McCrae,
+you might come closer.
+
+212
+00:23:48,680 --> 00:23:51,478
+Welcome aboard the <i>Cygnus.</i>
+
+213
+00:23:51,560 --> 00:23:54,472
+Hans Reinhardt.
+
+214
+00:23:54,560 --> 00:23:56,471
+It can't be.
+
+215
+00:23:56,560 --> 00:24:00,109
+You always did have a flair
+for theatrical entrances, Doctor.
+
+216
+00:24:00,200 --> 00:24:02,111
+Dr Reinhardt.
+
+217
+00:24:03,280 --> 00:24:06,909
+My father, where is he?
+
+218
+00:24:09,200 --> 00:24:11,475
+My dear child,
+I'm sorry to dash your hopes...
+
+219
+00:24:11,560 --> 00:24:13,676
+but your father's
+not with us any more.
+
+220
+00:24:14,440 --> 00:24:16,431
+He's dead.
+
+221
+00:24:18,840 --> 00:24:20,751
+A man to be proud of.
+
+222
+00:24:20,840 --> 00:24:23,274
+A grave personal loss to me.
+
+223
+00:24:23,360 --> 00:24:25,749
+He was a trusted and loyal friend.
+
+224
+00:24:27,520 --> 00:24:29,476
+And you are his daughter.
+
+225
+00:24:30,440 --> 00:24:33,955
+Yes. The same eyes.
+
+226
+00:24:34,040 --> 00:24:36,554
+The same eyes.
+
+227
+00:24:36,640 --> 00:24:38,551
+And the rest of the crew?
+
+228
+00:24:39,440 --> 00:24:42,876
+- They didn't make it back?
+- They did not.
+
+229
+00:24:44,120 --> 00:24:46,634
+Pity, for such a good crew.
+
+230
+00:24:46,720 --> 00:24:49,234
+What happened when your mission
+was recalled, Doctor?
+
+231
+00:24:49,320 --> 00:24:52,153
+Is this going to be
+an interview, Mr Booth?
+
+232
+00:24:52,240 --> 00:24:54,390
+I haven't had that for a long time,
+but if you want to...
+
+233
+00:24:55,280 --> 00:24:56,838
+I will answer.
+
+234
+00:24:56,920 --> 00:25:00,071
+Now, don't be frightened.
+Nobody's going to harm you.
+
+235
+00:25:03,480 --> 00:25:05,835
+The <i>Cygnus</i> encountered
+a field of meteorites...
+
+236
+00:25:05,920 --> 00:25:08,309
+and was disabled...
+
+237
+00:25:08,400 --> 00:25:13,155
+our main and auxiliary
+communication systems smashed.
+
+238
+00:25:13,240 --> 00:25:17,552
+We were adrift.
+I told the crew to abandon ship...
+
+239
+00:25:18,760 --> 00:25:20,671
+to return home as ordered.
+
+240
+00:25:20,760 --> 00:25:26,471
+Perhaps it was another of what you term
+my "theatrical gestures," Mr Booth...
+
+241
+00:25:26,560 --> 00:25:28,630
+but I chose to remain aboard.
+
+242
+00:25:31,440 --> 00:25:34,352
+Your dear father
+chose to remain with me.
+
+243
+00:25:35,880 --> 00:25:38,075
+We never knew
+what happened to the others.
+
+244
+00:25:38,160 --> 00:25:42,711
+You've lived out here
+for 20 years? Alone?
+
+245
+00:25:42,800 --> 00:25:45,109
+Twenty years?
+
+246
+00:25:45,200 --> 00:25:47,475
+Twenty Earth years, but...
+
+247
+00:25:48,760 --> 00:25:51,149
+I didn't live exactly alone.
+
+248
+00:25:51,240 --> 00:25:54,357
+I've created companions
+of a sort.
+
+249
+00:25:55,920 --> 00:25:58,150
+They look a bit medieval...
+
+250
+00:25:58,240 --> 00:26:00,151
+but I'm a romantic.
+
+251
+00:26:04,600 --> 00:26:07,990
+Ah, Mr Pizer!
+Come in. Join us.
+
+252
+00:26:08,080 --> 00:26:10,230
+Thank you.
+Have you met the goon squad?
+
+253
+00:26:11,880 --> 00:26:15,429
+"Goon squad." Nice.
+I'm Hans Reinhardt.
+
+254
+00:26:15,520 --> 00:26:19,832
+Forgive this little incident, but you
+were disarmed for your own safety.
+
+255
+00:26:19,920 --> 00:26:21,956
+Dismissed.
+
+256
+00:26:22,040 --> 00:26:26,909
+My robots are programmed to react
+against any act of aggression.
+
+257
+00:26:27,000 --> 00:26:29,195
+I assure you, none was intended.
+
+258
+00:26:29,280 --> 00:26:34,559
+I am glad to hear that. Please.
+Consider yourselves my guests.
+
+259
+00:26:34,640 --> 00:26:37,757
+We won't impose
+on your hospitality, Doctor.
+
+260
+00:26:37,840 --> 00:26:40,308
+Just long enough
+to repair our ship.
+
+261
+00:26:40,400 --> 00:26:43,153
+And then we can offer you the means
+of returning to Earth, Doctor.
+
+262
+00:26:43,240 --> 00:26:45,754
+What makes you think
+I want to return?
+
+263
+00:26:45,840 --> 00:26:49,196
+The <i>Cygnus</i> is in danger
+of being destroyed here.
+
+264
+00:26:49,280 --> 00:26:52,750
+Yes! Your captain
+was worried about that too.
+
+265
+00:26:52,840 --> 00:26:54,751
+One step too far...
+
+266
+00:26:55,880 --> 00:26:57,871
+and we are done.
+
+267
+00:26:57,960 --> 00:27:00,599
+But there's no cause for alarm.
+
+268
+00:27:00,680 --> 00:27:05,913
+We developed antigravity forces
+to maintain our position.
+
+269
+00:27:06,000 --> 00:27:08,560
+It's what you might call
+a Mexican stand-off.
+
+270
+00:27:08,640 --> 00:27:12,349
+If you were monitoring us,
+you must have picked up our signals.
+
+271
+00:27:12,440 --> 00:27:14,795
+- That's right.
+- You failed to reply.
+
+272
+00:27:14,880 --> 00:27:16,791
+Did I have to reply?
+
+273
+00:27:18,080 --> 00:27:19,479
+Charlie, Charlie.
+
+274
+00:27:21,320 --> 00:27:23,788
+Slight communications problem.
+
+275
+00:27:23,880 --> 00:27:27,714
+Maximilian will take you to requisition
+whatever you need to repair your ship.
+
+276
+00:27:27,800 --> 00:27:32,396
+In the meantime, you and Dr McCrae
+will get enough information...
+
+277
+00:27:32,480 --> 00:27:35,552
+to make your mission
+of historic importance.
+
+278
+00:27:43,240 --> 00:27:45,913
+- Back off, Vincent.
+- Not until he does.
+
+279
+00:27:47,400 --> 00:27:49,960
+When you're nose to nose
+with a trash compactor, you cool it.
+
+280
+00:27:51,600 --> 00:27:53,989
+Now, what does that remind me of?
+
+281
+00:27:54,080 --> 00:27:58,039
+Oh, yes. David and Goliath.
+
+282
+00:27:58,120 --> 00:28:00,190
+A classic confrontation.
+
+283
+00:28:00,280 --> 00:28:03,352
+Only this time,
+David is overmatched.
+
+284
+00:28:05,240 --> 00:28:07,231
+Call him off, Reinhardt.
+
+285
+00:28:10,760 --> 00:28:13,433
+I said call him off!
+
+286
+00:28:15,080 --> 00:28:18,868
+On my ship, you ask, Captain.
+
+287
+00:28:18,960 --> 00:28:23,875
+Indeed.
+Please, call him off, Doctor.
+
+288
+00:28:28,600 --> 00:28:31,068
+Maximilian?
+
+289
+00:28:31,160 --> 00:28:33,993
+Remember, these are our guests.
+
+290
+00:28:35,480 --> 00:28:37,391
+Now, let him in.
+
+291
+00:28:38,640 --> 00:28:42,428
+Show that you've good manners.
+That's a good robot.
+
+292
+00:28:42,520 --> 00:28:46,195
+Communication problems aside, he took
+an awful long time to show any lights.
+
+293
+00:28:46,280 --> 00:28:48,316
+- Be careful.
+- I know.
+
+294
+00:28:49,200 --> 00:28:52,078
+Those other robots aren't any friendlier
+than Dr Frankenstein's monster.
+
+295
+00:28:52,160 --> 00:28:55,391
+The bigger they are,
+the harder they fall.
+
+296
+00:28:58,600 --> 00:29:00,989
+Maybe you should've smiled
+when you said it, Vincent.
+
+297
+00:29:07,080 --> 00:29:09,389
+Doctor, this ship
+doesn't appear to be crippled.
+
+298
+00:29:09,480 --> 00:29:13,712
+Of course not. We repaired the damage
+and became operable again.
+
+299
+00:29:13,800 --> 00:29:16,633
+But you never obeyed the order
+to return to Earth.
+
+300
+00:29:16,720 --> 00:29:19,234
+That's right.
+I refused this order.
+
+301
+00:29:19,320 --> 00:29:21,788
+There were larger considerations...
+
+302
+00:29:21,880 --> 00:29:23,996
+other worlds
+yet to be explored...
+
+303
+00:29:24,080 --> 00:29:26,640
+life dreams unrealized.
+
+304
+00:29:27,960 --> 00:29:31,794
+The authorities would still consider
+that an act of piracy, Doctor.
+
+305
+00:29:31,880 --> 00:29:34,110
+What would you have said, Mr Booth,
+if the authorities...
+
+306
+00:29:34,200 --> 00:29:37,749
+would have called back Columbus just
+before he discovered the New World?
+
+307
+00:29:40,320 --> 00:29:42,231
+You wouldn't even exist.
+
+308
+00:29:43,120 --> 00:29:47,875
+I'm about to prove to you
+that the end justifies the means.
+
+309
+00:30:08,320 --> 00:30:11,392
+Pretty busy around here, Max.
+What are you gearing up for?
+
+310
+00:30:34,240 --> 00:30:36,754
+Tell you what, Charlie.
+
+311
+00:30:36,840 --> 00:30:40,753
+You'll take care of business here,
+and I'll go back to the ship
+and start working on that regulator.
+
+312
+00:30:42,200 --> 00:30:45,954
+Don't bother to point the way, Max.
+I'll find it by myself.
+
+313
+00:30:46,040 --> 00:30:48,952
+Well, we need primary and secondary
+demand oxygen pressure regulators...
+
+314
+00:30:49,040 --> 00:30:51,838
+and an ECS proportion
+flow valve controller.
+
+315
+00:30:53,200 --> 00:30:54,952
+Max.
+
+316
+00:30:58,040 --> 00:31:00,952
+Dr Reinhardt told you
+to requisition the parts for us.
+
+317
+00:31:01,040 --> 00:31:03,031
+Let's get cracking.
+
+318
+00:31:06,440 --> 00:31:08,874
+Way to go, Max.
+Way to go.
+
+319
+00:31:08,960 --> 00:31:11,793
+Vincent. Vital Information
+Necessary Centralized.
+
+320
+00:31:11,880 --> 00:31:14,030
+Labour force. The 396.
+
+321
+00:31:14,120 --> 00:31:16,998
+I see by your markings
+you're from the old 2-8.
+
+322
+00:31:17,080 --> 00:31:18,991
+Programmed in Houston.
+
+323
+00:31:35,920 --> 00:31:39,913
+There is enough instant energy
+down there to supply all of Earth.
+
+324
+00:31:40,000 --> 00:31:42,673
+The first step
+to colonizing the galaxy.
+
+325
+00:31:42,760 --> 00:31:46,275
+You will be remembered as one of the
+greatest space scientists of all time.
+
+326
+00:31:47,800 --> 00:31:50,314
+I have never doubted that.
+
+327
+00:31:50,400 --> 00:31:54,951
+It's about time that people learn
+about their failures and my successes.
+
+328
+00:31:56,040 --> 00:31:58,998
+You should come back with us
+and enjoy the glory of that success.
+
+329
+00:31:59,080 --> 00:32:02,959
+I don't want to go back,
+and I don't enjoy successes any more.
+
+330
+00:32:03,040 --> 00:32:05,793
+There is too much at stake
+to pull back.
+
+331
+00:32:05,880 --> 00:32:08,189
+I'm on the brink
+of a great achievement.
+
+332
+00:32:08,280 --> 00:32:10,999
+All this is just the beginning.
+
+333
+00:32:11,080 --> 00:32:14,072
+- The beginning? Of what?
+- You will know in due time.
+
+334
+00:32:14,160 --> 00:32:16,071
+Dr Reinhardt, could we have
+a demonstration...
+
+335
+00:32:16,160 --> 00:32:18,355
+- of this incredible
+new power source.
+- Harry?
+
+336
+00:32:18,440 --> 00:32:21,113
+Come with me,
+and I'll show you everything.
+
+337
+00:32:21,200 --> 00:32:23,760
+I call it "Cygnium,"
+after my ship.
+
+338
+00:34:32,600 --> 00:34:34,511
+Must've made a wrong turn, Max.
+
+339
+00:35:17,680 --> 00:35:19,591
+Quite a layout.
+
+340
+00:35:21,960 --> 00:35:23,916
+I said it's quite
+a layout you got here.
+
+341
+00:35:30,240 --> 00:35:32,231
+Can you speak?
+
+342
+00:35:33,800 --> 00:35:36,439
+Are you programmed to speak?
+
+343
+00:35:46,000 --> 00:35:47,558
+No, I guess not.
+
+344
+00:35:50,960 --> 00:35:54,316
+No, I guess that'd make you
+a little bit too real, wouldn't it?
+
+345
+00:35:58,080 --> 00:36:00,913
+That Reinhardt sure loves
+to play God, doesn't he?
+
+346
+00:36:20,200 --> 00:36:21,679
+Hey, wait a minute!
+
+347
+00:36:24,400 --> 00:36:26,311
+Hey!
+
+348
+00:36:44,320 --> 00:36:47,551
+- I know what I saw, Charlie.
+- Dan, nobody buries a robot.
+
+349
+00:36:47,640 --> 00:36:50,313
+- I didn't say it was a robot.
+- Then what?
+
+350
+00:36:50,400 --> 00:36:54,871
+I don't know what they shot out
+into space, but they did it with all the
+reverence and honour of a human funeral.
+
+351
+00:36:55,800 --> 00:36:58,189
+Huh. Maybe Reinhardt lied.
+
+352
+00:36:58,280 --> 00:37:01,716
+Maybe there are some survivors still
+alive. What do you think he's up to?
+
+353
+00:37:02,800 --> 00:37:04,711
+- Haven't got a clue.
+- Well, whatever it is...
+
+354
+00:37:04,800 --> 00:37:06,791
+he seems cooperative enough
+about getting us operable.
+
+355
+00:37:06,880 --> 00:37:08,950
+A wolf remains a wolf...
+
+356
+00:37:09,040 --> 00:37:11,190
+even if it has not eaten
+your sheep.
+
+357
+00:37:11,280 --> 00:37:14,272
+Correct, Vincent. The sooner
+we blast out of here, the better.
+
+358
+00:37:14,360 --> 00:37:16,271
+Whatever you say.
+Let's snap it up, Vincent.
+
+359
+00:37:16,360 --> 00:37:19,636
+A pint cannot hold a quart,
+Mr Pizer.
+
+360
+00:37:19,720 --> 00:37:21,790
+If it holds the pint,
+it's doing the best it can.
+
+361
+00:37:25,120 --> 00:37:27,031
+Thank you, Vincent.
+
+362
+00:37:31,800 --> 00:37:33,791
+- Fascinating.
+- From a distance.
+
+363
+00:37:34,760 --> 00:37:37,399
+Are you interested
+in black holes?
+
+364
+00:37:38,400 --> 00:37:42,029
+How can one not be overwhelmed
+by the deadliest force in the universe?
+
+365
+00:37:42,120 --> 00:37:44,111
+That long, dark tunnel to nowhere.
+
+366
+00:37:45,320 --> 00:37:46,799
+Or somewhere.
+
+367
+00:37:46,880 --> 00:37:50,634
+These are exactly answers
+yet to be explored.
+
+368
+00:37:50,720 --> 00:37:53,871
+You've defined the power
+of the black hole with your
+antigravity calculations.
+
+369
+00:37:53,960 --> 00:37:55,871
+A stunning achievement, sir.
+
+370
+00:37:57,680 --> 00:38:00,831
+- You think so?
+- Yes. I do.
+
+371
+00:38:00,920 --> 00:38:01,909
+Thank you.
+
+372
+00:38:03,360 --> 00:38:05,874
+I think, Dr Durant...
+
+373
+00:38:05,960 --> 00:38:08,758
+that you are a man
+who longs for a sense...
+
+374
+00:38:08,840 --> 00:38:11,513
+of his own greatness...
+
+375
+00:38:11,600 --> 00:38:14,273
+but has not yet found
+his true direction.
+
+376
+00:38:14,360 --> 00:38:16,715
+Right?
+
+377
+00:38:16,800 --> 00:38:18,916
+Perhaps I could find it here...
+
+378
+00:38:19,000 --> 00:38:21,116
+if you're in no hurry
+for us to leave.
+
+379
+00:38:22,520 --> 00:38:24,909
+Shall we discuss that
+over dinner?
+
+380
+00:38:30,960 --> 00:38:34,270
+- It's only dinner.
+- "Said the spider to the fly."
+I should be with you.
+
+381
+00:38:34,360 --> 00:38:36,874
+Yeah, we'll be safer without you
+and Max trying to knock heads.
+
+382
+00:38:36,960 --> 00:38:38,871
+I can handle that thing.
+
+383
+00:38:38,960 --> 00:38:41,679
+Well, far be it from you to admit
+there isn't anything you can't handle.
+
+384
+00:38:41,760 --> 00:38:44,479
+There are three basic types,
+Mr Pizer. The wills,
+the won'ts and the can'ts.
+
+385
+00:38:44,560 --> 00:38:47,120
+The wills accomplish everything,
+the won'ts oppose everything...
+
+386
+00:38:47,200 --> 00:38:49,111
+and the can'ts
+won't try anything.
+
+387
+00:38:49,200 --> 00:38:51,270
+Well, do us all a favour, Vincent,
+and try to be a can't...
+
+388
+00:38:51,360 --> 00:38:53,271
+especially where
+that monster's concerned.
+
+389
+00:38:53,360 --> 00:38:55,510
+We need you,
+not another corkscrew.
+
+390
+00:38:56,600 --> 00:38:59,831
+Hey, hey, hey. Look at that.
+
+391
+00:38:59,920 --> 00:39:01,831
+Vincent, you're gonna have
+the time of your life in there.
+
+392
+00:39:01,920 --> 00:39:04,912
+I don't mean to sound superior,
+but I hate the company of robots.
+
+393
+00:39:05,000 --> 00:39:06,991
+So try and relax.
+Have some fun.
+
+394
+00:39:07,080 --> 00:39:09,230
+Remember what they say:
+"All work and no play"?
+
+395
+00:39:09,320 --> 00:39:11,550
+"All sunshine makes a desert,"
+so the Arabs say.
+
+396
+00:39:11,640 --> 00:39:13,551
+You'll alert me
+if you're in trouble, Captain?
+
+397
+00:39:14,560 --> 00:39:16,710
+Why don't you go on in there
+and have some laughs, Vincent.
+
+398
+00:39:16,800 --> 00:39:20,588
+We've been in some scrapes before,
+and we're gonna get out of this one.
+
+399
+00:39:23,440 --> 00:39:25,351
+As you were.
+
+400
+00:39:44,240 --> 00:39:47,755
+- Who's the flashy black hat?
+- S-T-A-R.
+
+401
+00:39:47,840 --> 00:39:49,990
+Special Troops Arms Regiment.
+
+402
+00:39:50,080 --> 00:39:52,753
+Reinhardt's prototype
+for the sentry robots.
+
+403
+00:39:52,840 --> 00:39:55,274
+He was number one
+until Reinhardt built Maximilian.
+
+404
+00:40:01,000 --> 00:40:04,072
+He's sharp, but we're sharper.
+Do you ever go up against him?
+
+405
+00:40:04,160 --> 00:40:06,435
+- Once.
+- What happened?
+
+406
+00:40:06,520 --> 00:40:09,830
+I beat him. He got so upset,
+he blew a fuse.
+
+407
+00:40:09,920 --> 00:40:14,311
+He had his revenge, though.
+He did things to me that I sure
+don't like to think about.
+
+408
+00:40:14,400 --> 00:40:18,552
+A great many experiments are in progress
+aboard the <i>Cygnus,</i> gentlemen...
+
+409
+00:40:18,640 --> 00:40:20,551
+some of them dangerous.
+
+410
+00:40:20,640 --> 00:40:22,551
+I suggest in the interest
+of your own safety...
+
+411
+00:40:22,640 --> 00:40:27,191
+that there are no more
+unescorted excursions
+for the duration of your stay.
+
+412
+00:40:27,280 --> 00:40:29,271
+- Agreed?
+- Sure, sure.
+
+413
+00:40:30,440 --> 00:40:33,512
+Good. Please, sit down.
+
+414
+00:40:33,600 --> 00:40:35,511
+Captain.
+
+415
+00:40:36,400 --> 00:40:38,789
+Well, Mr Booth,
+what's new on Earth?
+
+416
+00:40:39,800 --> 00:40:42,519
+Well, I don't think it's changed
+very much since you left, Doctor.
+
+417
+00:40:42,600 --> 00:40:45,558
+Nothing much ever changes.
+
+418
+00:40:45,640 --> 00:40:47,551
+Same news, different names.
+
+419
+00:40:49,920 --> 00:40:52,070
+- You still writing for the same paper?
+- The same.
+
+420
+00:40:52,160 --> 00:40:53,912
+Still on strike?
+
+421
+00:40:56,800 --> 00:40:59,598
+Ah, fresh mushroom soup.
+
+422
+00:40:59,680 --> 00:41:02,148
+Prepared from my own personal garden.
+
+423
+00:41:02,240 --> 00:41:06,518
+I remember writing about
+the extensive agricultural station.
+
+424
+00:41:06,600 --> 00:41:09,876
+Large enough to supply the needs
+of the entire crew, wasn't it, Doctor?
+
+425
+00:41:09,960 --> 00:41:12,349
+These days it's tiny.
+
+426
+00:41:12,440 --> 00:41:14,351
+Just enough for one person.
+
+427
+00:41:14,440 --> 00:41:16,351
+Ah. Naturally.
+
+428
+00:41:18,400 --> 00:41:21,710
+Our wine and our spare parts
+are vintage, Captain.
+
+429
+00:41:21,800 --> 00:41:23,631
+I hope they're satisfactory.
+
+430
+00:41:23,720 --> 00:41:26,075
+We've had to modify
+a few of the parts, Doctor...
+
+431
+00:41:26,160 --> 00:41:28,276
+but, uh, that shouldn't take long.
+
+432
+00:41:28,360 --> 00:41:31,591
+- We'll be ready to leave soon.
+- Speak for yourself, Dan.
+
+433
+00:41:31,680 --> 00:41:35,639
+I, for one, believe I have a great deal
+to learn from Dr Reinhardt.
+
+434
+00:41:35,720 --> 00:41:37,756
+Thank you.
+
+435
+00:41:37,840 --> 00:41:39,637
+Our mission's finished, Alex.
+
+436
+00:41:44,640 --> 00:41:46,631
+A toast.
+
+437
+00:41:46,720 --> 00:41:49,792
+To you and your companions,
+Dr Durant...
+
+438
+00:41:49,880 --> 00:41:53,156
+on the occasion
+of your visit to the <i>Cygnus.</i>
+
+439
+00:41:53,240 --> 00:41:55,196
+Welcome aboard, Miss Kate.
+
+440
+00:41:57,000 --> 00:42:00,675
+The only Earth people to know
+of my existence.
+
+441
+00:42:00,760 --> 00:42:03,957
+And to you, sir,
+and your magnificent accomplishments.
+
+442
+00:42:09,360 --> 00:42:11,316
+Tonight, my friends...
+
+443
+00:42:12,680 --> 00:42:14,591
+we stand on the brink...
+
+444
+00:42:14,680 --> 00:42:17,797
+of a feat unparalleled
+in space exploration.
+
+445
+00:42:19,600 --> 00:42:24,071
+If the data on my returning probe ship
+matches my computerized calculations...
+
+446
+00:42:24,160 --> 00:42:27,311
+I will travel
+where no man has dared to go.
+
+447
+00:42:28,840 --> 00:42:31,115
+Into the black hole?
+
+448
+00:42:31,200 --> 00:42:32,713
+In...
+
+449
+00:42:33,800 --> 00:42:35,119
+through...
+
+450
+00:42:36,520 --> 00:42:38,431
+and beyond.
+
+451
+00:42:42,200 --> 00:42:44,236
+Why, that's crazy.
+
+452
+00:42:44,320 --> 00:42:46,709
+Ha! Impossible!
+
+453
+00:42:46,800 --> 00:42:49,394
+The word "impossible,"
+Mr Booth...
+
+454
+00:42:49,480 --> 00:42:52,517
+is only found
+in a dictionary of fools.
+
+455
+00:42:53,680 --> 00:42:55,796
+Are there any more like us
+left on board?
+
+456
+00:42:55,880 --> 00:43:00,271
+I'm the last one. These upstarts
+think I'm some old freak.
+
+457
+00:43:00,360 --> 00:43:04,558
+They still haven't improved
+on our model. Oh, you can't modify
+perfection. We are the best.
+
+458
+00:43:08,480 --> 00:43:11,040
+Oh, lordy.
+He wants a rematch.
+
+459
+00:43:11,920 --> 00:43:16,391
+As an old navy hero once said,
+"Damn the torpedoes. Full speed ahead!"
+
+460
+00:43:16,480 --> 00:43:19,677
+He also said something about
+goin' in harm's way.
+
+461
+00:43:24,960 --> 00:43:26,951
+Nice shooting, Bob.
+
+462
+00:43:43,040 --> 00:43:45,235
+You'd have beat him again
+if he hadn't bumped you.
+
+463
+00:43:45,320 --> 00:43:47,788
+Nah, I'd have missed on purpose.
+
+464
+00:43:52,960 --> 00:43:56,430
+Don't worry. I'll uphold
+the honour of the old outfit.
+
+465
+00:44:01,080 --> 00:44:05,312
+STAR, Vincent's my name.
+Sharpshooting is my game.
+
+466
+00:44:05,400 --> 00:44:07,550
+Try me.
+
+467
+00:44:38,040 --> 00:44:40,634
+Your probe ship has only gone
+to the event horizon, Doctor...
+
+468
+00:44:40,720 --> 00:44:43,075
+not into the black hole itself.
+
+469
+00:44:43,160 --> 00:44:47,358
+How do you expect the <i>Cygnus</i> to escape
+being crushed by the force in there?
+
+470
+00:44:47,440 --> 00:44:51,399
+I would assume
+that Dr Reinhardt has created
+an antigravitational force field...
+
+471
+00:44:51,480 --> 00:44:53,471
+capable of withstanding that stress.
+
+472
+00:44:53,560 --> 00:44:58,998
+Indeed, and I know you will say,
+Captain, that one mistake
+in navigation can be fatal.
+
+473
+00:44:59,080 --> 00:45:02,356
+But I know exactly what I'm doing.
+The course I have chosen...
+
+474
+00:45:02,440 --> 00:45:06,319
+will take the <i>Cygnus</i> through
+at its optimum angle of rotation.
+
+475
+00:45:06,400 --> 00:45:10,837
+The vortex will cause us to move
+at incredible speed...
+
+476
+00:45:10,920 --> 00:45:14,913
+and that angle
+will slingshot us through.
+
+477
+00:45:24,400 --> 00:45:26,914
+Nice shot, STAR.
+Simple, but nice.
+
+478
+00:45:41,920 --> 00:45:43,956
+Tricky. Here, try this.
+
+479
+00:45:57,760 --> 00:46:00,672
+If one dances,
+one must pay the piper.
+
+480
+00:46:14,400 --> 00:46:18,678
+If there's anything I cannot stand,
+it's a sore loser.
+
+481
+00:46:20,280 --> 00:46:22,236
+Meet me in parts storage.
+
+482
+00:46:36,040 --> 00:46:40,909
+So, as I understand it, you want
+the <i>Palomino</i> to monitor your journey.
+
+483
+00:46:41,000 --> 00:46:45,516
+That's right. I need you to go
+to another place and another time...
+
+484
+00:46:45,600 --> 00:46:48,433
+a place where,
+if you're lucky...
+
+485
+00:46:48,520 --> 00:46:52,149
+I'll have the possibility to find
+what we call "the ultimate knowledge."
+
+486
+00:46:52,240 --> 00:46:54,151
+Yes, Maximilian?
+
+487
+00:46:55,720 --> 00:46:58,871
+The probe ship is about to dock.
+Continue your meal, gentlemen.
+
+488
+00:47:08,840 --> 00:47:10,751
+Cuckoo as a Swiss clock.
+
+489
+00:47:21,200 --> 00:47:23,839
+My name's Bob,
+Bio-sanitation Battalion.
+
+490
+00:47:23,920 --> 00:47:27,117
+I couldn't talk freely before,
+but I have a whole lot to tell you.
+
+491
+00:47:27,200 --> 00:47:30,670
+If Maximilian knew you were here, why,
+it'd be the end for the both of us.
+
+492
+00:47:30,760 --> 00:47:33,115
+Can you permanently rearm my lasers?
+
+493
+00:47:33,200 --> 00:47:38,558
+Yeah, I can. Vincent, you and
+your friends are in grave danger.
+
+494
+00:47:38,640 --> 00:47:42,110
+Reinhardt only turned the lights on
+to prevent any damage to the <i>Cygnus.</i>
+
+495
+00:47:42,200 --> 00:47:44,111
+This is a death ship.
+
+496
+00:47:44,200 --> 00:47:46,111
+What does your intuition
+tell you, Kate?
+
+497
+00:47:46,200 --> 00:47:51,399
+That Dr Reinhardt is walking a tightrope
+between genius and insanity.
+
+498
+00:47:51,480 --> 00:47:54,119
+- I think the guy's nuts.
+- I don't buy that.
+
+499
+00:47:54,200 --> 00:47:56,714
+Well, whatever he is,
+he's an out-and-out liar.
+
+500
+00:47:56,800 --> 00:48:01,032
+That tiny little one-man garden of his
+is big enough to feed an army.
+
+501
+00:48:01,120 --> 00:48:03,031
+Nothing strange about that.
+It purifies the air.
+
+502
+00:48:03,120 --> 00:48:05,554
+- Oh.
+- Tell them about the funeral, Dan.
+
+503
+00:48:05,640 --> 00:48:09,349
+A robot funeral, Alex.
+It was almost human.
+
+504
+00:48:09,440 --> 00:48:11,874
+Look. Granted, the 20 years
+out of contact with people...
+
+505
+00:48:11,960 --> 00:48:14,679
+has made this man a little eccentric,
+but you can't ask me to believe...
+
+506
+00:48:14,760 --> 00:48:16,830
+that he's programmed his robots
+to feel emotions.
+
+507
+00:48:16,920 --> 00:48:19,832
+- Come on.
+- I know what I saw, Alex...
+
+508
+00:48:19,920 --> 00:48:22,593
+and we only have Reinhardt's word
+for what happened to his crew.
+
+509
+00:48:22,680 --> 00:48:26,593
+All I know is that that robot gardener
+was almost human too.
+
+510
+00:48:26,680 --> 00:48:29,035
+Ha! He even walked with a limp.
+
+511
+00:48:29,120 --> 00:48:32,271
+What spooks you
+about a malfunctioning robot, Harry?
+
+512
+00:48:32,360 --> 00:48:34,271
+I wasn't spooked, old buddy.
+
+513
+00:48:34,360 --> 00:48:37,557
+I'm just telling you
+that I had a gut feeling that...
+
+514
+00:48:37,640 --> 00:48:39,676
+that I was looking at
+some kind of...
+
+515
+00:48:41,920 --> 00:48:43,433
+some kind of person.
+
+516
+00:48:43,520 --> 00:48:46,717
+- What are you getting at?
+- That we make our apologies,
+say our goodbyes...
+
+517
+00:48:46,800 --> 00:48:48,836
+and get off this ship
+as quick as we can.
+
+518
+00:48:48,920 --> 00:48:50,876
+Oh, now, wait a minute, Dan.
+Now, hold it, hold it.
+
+519
+00:48:50,960 --> 00:48:53,428
+Now, now, now, l-let's stop
+and figure this thing out.
+
+520
+00:48:53,520 --> 00:48:58,230
+If Reinhardt has antigravity
+strong enough to hold him here...
+
+521
+00:48:58,320 --> 00:49:00,231
+I figure he's got enough
+to pull away.
+
+522
+00:49:00,320 --> 00:49:02,436
+- So?
+- "So"?
+
+523
+00:49:02,520 --> 00:49:05,637
+So why not take this ship
+and Reinhardt back home?
+
+524
+00:49:06,960 --> 00:49:09,394
+That's a long shot
+you're talking about, Harry.
+
+525
+00:49:09,480 --> 00:49:13,155
+Aw, come on. You've got
+two scientific wizards here...
+
+526
+00:49:13,240 --> 00:49:17,518
+to figure out the computers, a-and they
+can even reprogram the robots.
+
+527
+00:49:17,600 --> 00:49:20,831
+And the three of us can handle Reinhardt
+and that pet monster of his.
+
+528
+00:49:23,680 --> 00:49:26,990
+I'm tellin' you,
+we could all be heroes.
+
+529
+00:49:27,080 --> 00:49:29,150
+We could also be dead.
+
+530
+00:49:50,520 --> 00:49:53,432
+These poor creatures are
+what's left of the crew.
+
+531
+00:49:53,520 --> 00:49:57,638
+Kept alive by means
+I don't pretend to understand.
+
+532
+00:49:57,720 --> 00:50:00,109
+Humans?
+
+533
+00:50:00,200 --> 00:50:02,589
+They're more robot than human.
+
+534
+00:50:02,680 --> 00:50:05,194
+Let's get outta here
+before we're discovered.
+
+535
+00:50:05,280 --> 00:50:07,669
+Too late. Watch it!
+
+536
+00:50:16,160 --> 00:50:18,833
+Think there are any more?
+
+537
+00:50:18,920 --> 00:50:21,070
+All clear.
+
+538
+00:50:22,120 --> 00:50:24,634
+Let's get rid of the evidence.
+
+539
+00:50:41,640 --> 00:50:43,596
+Maximilian will take you
+to Debriefing.
+
+540
+00:50:43,680 --> 00:50:46,592
+I will check out
+your computers personally.
+
+541
+00:50:49,160 --> 00:50:51,310
+How long before they'll start
+searching for these two?
+
+542
+00:50:51,400 --> 00:50:54,278
+It depends on their duty schedule.
+Could be anytime.
+
+543
+00:50:54,360 --> 00:50:57,033
+Then we have to move fast.
+
+544
+00:51:02,520 --> 00:51:06,195
+So, he neglected his duty
+to his country for a higher ideal.
+
+545
+00:51:06,280 --> 00:51:10,831
+So what? What basis in fact do you have
+for these macabre speculations?
+
+546
+00:51:10,920 --> 00:51:13,673
+I agree that his style
+is somewhat unconventional...
+
+547
+00:51:13,760 --> 00:51:15,830
+but he's willing and eager
+to share his knowledge with us.
+
+548
+00:51:15,920 --> 00:51:20,038
+- Doesn't that mean anything to you?
+- We're not staying aboard this ship
+any longer than we have to, Alex.
+
+549
+00:51:20,120 --> 00:51:22,680
+- I think that's up
+to Reinhardt to decide.
+- Dan.
+
+550
+00:51:22,760 --> 00:51:26,594
+Vincent wants you aboard
+the <i>Palomino</i> right away.
+
+551
+00:51:26,680 --> 00:51:30,309
+Let's go, Charlie.
+
+552
+00:51:30,400 --> 00:51:32,994
+I think I'll tag along.
+
+553
+00:51:45,280 --> 00:51:48,590
+This isn't our party.
+Let's get outta here.
+
+554
+00:51:51,040 --> 00:51:55,591
+Reinhardt will solve the one final
+mystery that has eluded mankind.
+
+555
+00:51:57,200 --> 00:51:59,634
+Or he'll die in the attempt.
+
+556
+00:51:59,720 --> 00:52:04,271
+Alex, I'm beginning to feel
+you want to go with him.
+
+557
+00:52:04,360 --> 00:52:09,388
+On a glorious pilgrimage, straight
+into what may be the mind of God?
+
+558
+00:52:09,480 --> 00:52:13,268
+I do. I do.
+
+559
+00:52:13,360 --> 00:52:16,955
+"And darkness was upon
+the face of the deep.
+
+560
+00:52:17,040 --> 00:52:22,068
+And the spirit of God moved
+upon the face of the waters."
+
+561
+00:52:26,680 --> 00:52:30,116
+What an incredible sight.
+
+562
+00:52:30,200 --> 00:52:33,237
+I still haven't got used to it.
+Where are the others?
+
+563
+00:52:33,320 --> 00:52:36,676
+- They were recalled to the ship.
+- Recalled?
+
+564
+00:52:36,760 --> 00:52:40,833
+Didn't I say no more
+unescorted excursions?
+
+565
+00:52:40,920 --> 00:52:42,911
+Where was your communication?
+
+566
+00:52:43,000 --> 00:52:47,039
+Ah, the ESP you share
+with the robot.
+
+567
+00:52:47,120 --> 00:52:50,510
+Extraordinary.
+
+568
+00:52:50,600 --> 00:52:53,797
+Dr Durant.
+
+569
+00:52:53,880 --> 00:52:59,000
+- Yes, Doctor?
+- These are all my formulas
+I've compiled over the years.
+
+570
+00:52:59,080 --> 00:53:01,514
+I want you to take them
+back with you...
+
+571
+00:53:01,600 --> 00:53:06,196
+and pass them on to others
+in case something might happen to me.
+
+572
+00:53:06,280 --> 00:53:08,191
+You can depend on me.
+
+573
+00:53:08,280 --> 00:53:11,590
+I also want you
+to monitor my flight.
+
+574
+00:53:11,680 --> 00:53:15,116
+Stay as long as you can
+at the event horizon.
+
+575
+00:53:15,200 --> 00:53:18,431
+There might be an Einstein-Rosen
+bridge to consider.
+
+576
+00:53:18,520 --> 00:53:21,432
+I will.
+
+577
+00:53:21,520 --> 00:53:25,195
+Believe me, I've been
+waiting a long time...
+
+578
+00:53:25,280 --> 00:53:28,317
+for someone like you
+to record this moment.
+
+579
+00:53:28,400 --> 00:53:31,073
+Thank you, Doctor.
+
+580
+00:53:31,160 --> 00:53:34,152
+Then I'm ready.
+
+581
+00:53:34,240 --> 00:53:37,710
+Ready to embark on
+man's greatest journey.
+
+582
+00:53:37,800 --> 00:53:40,519
+Certainly his riskiest.
+
+583
+00:53:40,600 --> 00:53:43,956
+The risk is incidental
+compared to the possibility...
+
+584
+00:53:44,040 --> 00:53:47,510
+to possess the great truth
+of the unknown.
+
+585
+00:53:47,600 --> 00:53:52,116
+There, long-cherished
+laws of nature...
+
+586
+00:53:52,200 --> 00:53:54,509
+simply do not apply.
+
+587
+00:53:54,600 --> 00:53:57,034
+They vanish.
+
+588
+00:53:57,120 --> 00:53:59,156
+And life?
+
+589
+00:54:00,640 --> 00:54:03,029
+Life?
+
+590
+00:54:04,680 --> 00:54:06,636
+Life forever.
+
+591
+00:54:11,560 --> 00:54:14,791
+The officer the men trusted most
+was Frank McCrae.
+
+592
+00:54:14,880 --> 00:54:20,000
+- Kate's father.
+- They turned to him when Dr Reinhardt
+ignored the orders to return home.
+
+593
+00:54:20,080 --> 00:54:22,230
+He tried to take control
+of the <i>Cygnus.</i>
+
+594
+00:54:22,320 --> 00:54:25,278
+Reinhardt called it mutiny
+and killed Mr McCrae.
+
+595
+00:54:25,360 --> 00:54:29,956
+- What became of the crew?
+- They were captured by the sentry
+robots and are still on board.
+
+596
+00:54:30,040 --> 00:54:31,871
+- What?
+- Where?
+
+597
+00:54:31,960 --> 00:54:34,599
+In the command tower,
+the power centre.
+
+598
+00:54:34,680 --> 00:54:38,389
+Robots, Mr Pizer, humanoid robots.
+
+599
+00:54:38,480 --> 00:54:40,710
+The most valuable thing
+in the universe...
+
+600
+00:54:40,800 --> 00:54:43,837
+intelligent life, means
+nothing to Dr Reinhardt.
+
+601
+00:54:43,920 --> 00:54:47,196
+Without their wills, the crew
+became things he could command.
+
+602
+00:54:47,280 --> 00:54:49,236
+- That explains the funeral.
+- Right.
+
+603
+00:54:49,320 --> 00:54:53,154
+And the limping robot you spotted.
+
+604
+00:54:53,240 --> 00:54:57,472
+Do you mean to tell me that
+there's actually a human body
+under that clothing?
+
+605
+00:54:57,560 --> 00:54:59,755
+Exactly, Mr Booth.
+
+606
+00:54:59,840 --> 00:55:04,072
+We can't just take off and leave
+these poor devils behind.
+
+607
+00:55:04,160 --> 00:55:06,355
+Harry, looks like we're
+gonna have to try your plan.
+
+608
+00:55:06,440 --> 00:55:10,228
+What? And end up just like
+the rest of the crew?
+
+609
+00:55:10,320 --> 00:55:12,914
+Why, if they couldn't pull it off,
+what chance do we have?
+
+610
+00:55:13,000 --> 00:55:16,549
+Captain, the damage is irreversible.
+
+611
+00:55:16,640 --> 00:55:18,835
+Death is their only release.
+
+612
+00:55:18,920 --> 00:55:22,833
+That's right. For God's sakes, Dan,
+we can't take on that mechanical army.
+
+613
+00:55:22,920 --> 00:55:25,798
+Captain, I was forced
+to destroy two sentry robots.
+
+614
+00:55:25,880 --> 00:55:28,474
+The others are searching now.
+If they're found...
+
+615
+00:55:28,560 --> 00:55:30,835
+- Gotcha, Vincent.
+Charlie, start the countdown.
+- Right.
+
+616
+00:55:30,920 --> 00:55:34,833
+Vincent, tell Kate I want her
+and Alex back here on the double.
+
+617
+00:55:47,200 --> 00:55:49,111
+Fix navigational course.
+
+618
+00:55:52,360 --> 00:55:56,114
+You have achieved all this
+on your own, Dr Reinhardt...
+
+619
+00:55:56,200 --> 00:56:00,512
+and you would have every right
+to reject the request of
+a comparative stranger, but...
+
+620
+00:56:00,600 --> 00:56:04,639
+What are you hoping for, Alex?
+Immortality?
+
+621
+00:56:04,720 --> 00:56:07,109
+No, scientific truth.
+
+622
+00:56:07,200 --> 00:56:11,352
+Alex, we have to board right away.
+They're waiting to blast off.
+
+623
+00:56:18,400 --> 00:56:21,710
+Prepare reactors!
+
+624
+00:56:21,800 --> 00:56:23,836
+Maximilian!
+
+625
+00:56:26,520 --> 00:56:30,513
+- How are your readings, Vincent?
+- All systems are go, Mr Pizer.
+
+626
+00:56:32,480 --> 00:56:35,358
+Alex, I will not have you
+throwing your life away for this.
+
+627
+00:56:35,440 --> 00:56:40,389
+- He can do it. I know he can.
+- Oh, God, Alex!
+
+628
+00:56:40,480 --> 00:56:43,836
+There's an entirely different world
+beyond that black hole...
+
+629
+00:56:43,920 --> 00:56:48,198
+a point where time and space
+as we understand it no longer exists.
+
+630
+00:56:48,280 --> 00:56:53,195
+We will be the first to see it,
+to explore it, to experience it.
+
+631
+00:56:53,280 --> 00:56:57,114
+Damn it all, Dan! If we wait
+for Alex, we may be too late.
+
+632
+00:56:57,200 --> 00:57:00,397
+Don't you see?
+He's hypnotized by that man.
+
+633
+00:57:02,880 --> 00:57:04,791
+- Vincent.
+- Yes, Captain?
+
+634
+00:57:04,880 --> 00:57:09,192
+Tell Kate we want her back here fast,
+with or without Alex. Tell her why.
+
+635
+00:57:28,280 --> 00:57:30,794
+Reactors on.
+
+636
+00:57:41,520 --> 00:57:43,909
+He's going to do it.
+
+637
+00:57:44,000 --> 00:57:45,991
+He's going to do it!
+
+638
+00:57:47,600 --> 00:57:49,795
+He's really going to do it.
+
+639
+00:57:49,880 --> 00:57:52,314
+He'll kill us all if you don't get us
+outta here now, Holland.
+
+640
+00:57:52,400 --> 00:57:55,073
+He wants us out there to monitor
+his flight. We still have time.
+
+641
+00:57:55,160 --> 00:57:57,720
+You're gambling with our lives,
+but you're not gonna gamble with mine!
+
+642
+00:57:57,800 --> 00:57:59,631
+Shut up, Harry!
+
+643
+00:57:59,720 --> 00:58:03,030
+- Alex.
+- R squared.
+
+644
+00:58:03,120 --> 00:58:05,873
+- Alex! Could I have a word with you?
+- B plus...
+
+645
+00:58:05,960 --> 00:58:08,599
+B squared...
+
+646
+00:58:08,680 --> 00:58:12,912
+over A squared,
+sine squared, data...
+
+647
+00:58:13,000 --> 00:58:15,912
+Do you remember what we were
+talking about the other day?
+
+648
+00:58:16,000 --> 00:58:19,390
+- We've gotta get out of here.
+- I'm staying.
+- Shh!
+
+649
+00:58:20,960 --> 00:58:23,235
+- Reinhardt is a murderer.
+- What?
+
+650
+00:58:23,320 --> 00:58:26,517
+Yes. Those creatures...
+
+651
+00:58:26,600 --> 00:58:29,034
+Those aren't robots. They're...
+
+652
+00:58:29,120 --> 00:58:32,556
+They're humanoids. They're... They're
+what's left of the original crew.
+
+653
+00:58:32,640 --> 00:58:34,596
+What's wrong, Miss Kate?
+
+654
+00:58:36,440 --> 00:58:38,351
+You look ill.
+
+655
+00:58:38,440 --> 00:58:41,830
+Kate's upset because I've elected
+to stay with the <i>Cygnus.</i>
+
+656
+00:58:41,920 --> 00:58:46,357
+- I hope she's electing
+also to stay with us.
+- No, I...
+
+657
+00:58:46,440 --> 00:58:49,557
+- What changed your mind?
+- I'm not. I, uh...
+
+658
+00:58:49,640 --> 00:58:53,349
+The right moment to go
+into the black hole is now.
+
+659
+00:59:11,320 --> 00:59:14,312
+What are you doing?
+
+660
+00:59:19,240 --> 00:59:21,629
+He would be dead by now.
+
+661
+00:59:21,720 --> 00:59:24,029
+They all would be dead.
+
+662
+00:59:24,120 --> 00:59:27,351
+It was the only way
+to keep them alive.
+
+663
+00:59:27,440 --> 00:59:29,556
+One of my greatest achievements.
+
+664
+00:59:29,640 --> 00:59:33,918
+But you told us the crew
+had left the ship.
+
+665
+00:59:34,000 --> 00:59:38,312
+Some cause must have
+created all this.
+
+666
+00:59:38,400 --> 00:59:41,597
+But what caused that cause?
+
+667
+00:59:43,000 --> 00:59:45,389
+Come on, Kate.
+Let's get you out of here.
+
+668
+00:59:50,760 --> 00:59:53,069
+Maximilian!
+
+669
+01:00:00,000 --> 01:00:01,991
+Alex!
+
+670
+01:00:14,880 --> 01:00:17,189
+You shouldn't have done that!
+
+671
+01:00:19,240 --> 01:00:21,674
+He was a good man.
+
+672
+01:00:30,440 --> 01:00:33,671
+Protect me from Maximilian.
+
+673
+01:00:33,760 --> 01:00:38,788
+If there's any justice at all,
+the black hole will be your grave.
+
+674
+01:00:49,040 --> 01:00:51,634
+Take the young lady to the hospital.
+
+675
+01:00:58,680 --> 01:01:01,194
+<i>You're cleared for take-off, Captain.</i>
+
+676
+01:01:01,280 --> 01:01:04,078
+<i>Dr Durant and Dr McCrae</i>
+<i>chose to remain aboard.</i>
+
+677
+01:01:04,160 --> 01:01:07,357
+I told you! Alex bought Reinhardt's
+theory hook, line and sinker.
+
+678
+01:01:07,440 --> 01:01:11,911
+Dr Durant is dead.
+Maximilian killed him. They are
+taking Dr Kate to the hospital.
+
+679
+01:01:12,000 --> 01:01:15,436
+Vincent, get old Bob to show us
+the quickest way there.
+
+680
+01:01:18,120 --> 01:01:20,680
+Maximilian?
+
+681
+01:01:20,760 --> 01:01:22,796
+Bring us about.
+
+682
+01:01:37,360 --> 01:01:39,635
+All right. We may have just enough time.
+Don't wait too long.
+
+683
+01:01:39,720 --> 01:01:42,234
+Get off before the gravity pull
+is too strong, no matter what.
+
+684
+01:01:42,320 --> 01:01:44,231
+- Look, Dan, what if...
+- No matter what, Charlie!
+
+685
+01:01:44,320 --> 01:01:47,437
+I wish you a safe
+voyage home, Mr Pizer.
+
+686
+01:01:47,520 --> 01:01:51,035
+Yeah, well, just make sure
+you get aboard in one piece!
+
+687
+01:02:23,240 --> 01:02:27,756
+The time has come
+to liquidate our guests.
+
+688
+01:02:47,000 --> 01:02:49,468
+Go, go.
+
+689
+01:02:50,680 --> 01:02:54,275
+- Keep coming, old-timer.
+- You don't have to wait for me.
+
+690
+01:02:56,040 --> 01:02:58,031
+Fire thrusters.
+
+691
+01:03:11,760 --> 01:03:14,718
+That madman is headed
+straight for the black hole.
+
+692
+01:03:14,800 --> 01:03:18,679
+- What'll we do?
+- We wait.
+
+693
+01:04:12,440 --> 01:04:15,238
+Hurry.
+
+694
+01:04:40,240 --> 01:04:43,152
+<i>Charlie, Kate's okay.</i>
+<i>We're on our way.</i>
+
+695
+01:04:43,240 --> 01:04:46,471
+Well, it's about time.
+How close can we cut it?
+
+696
+01:05:12,240 --> 01:05:17,439
+Tell the sentries to fire on any
+humanoids between Medical and <i>Palomino.</i>
+
+697
+01:05:31,200 --> 01:05:34,749
+- They're on to us.
+- Well, at least it got us this far.
+
+698
+01:05:34,840 --> 01:05:37,149
+Start down.
+
+699
+01:05:59,400 --> 01:06:01,675
+All right, Vincent.
+Let's make this one an end run.
+
+700
+01:06:01,760 --> 01:06:04,228
+We'll catch them in a crossfire.
+
+701
+01:06:41,920 --> 01:06:43,911
+Way to go, old Bob!
+
+702
+01:07:04,480 --> 01:07:07,995
+- Are you all right?
+- The first fightin'
+I've done in 30 years.
+
+703
+01:07:08,080 --> 01:07:10,674
+I only wish it'd been Reinhardt
+and Maximilian out there.
+
+704
+01:07:21,360 --> 01:07:24,636
+Your crack unit,
+outwitted and outfought...
+
+705
+01:07:24,720 --> 01:07:28,633
+by some Earth robot
+and that antique from storage!
+
+706
+01:07:33,600 --> 01:07:38,116
+We cannot endanger the <i>Cygnus</i>
+by exploding them too soon.
+
+707
+01:07:40,800 --> 01:07:44,793
+Give them distance.
+Then blow them out of the sky!
+
+708
+01:08:05,880 --> 01:08:08,189
+- <i>Charlie, do you read me?</i>
+- Loud and clear, Dan.
+
+709
+01:08:08,280 --> 01:08:12,512
+<i>Man the controls. Post Harry at the</i>
+<i>hatch and give us exactly 60 seconds.</i>
+
+710
+01:08:12,600 --> 01:08:14,318
+- <i>Where are you?</i>
+- Side corridor near reception.
+
+711
+01:08:14,400 --> 01:08:18,598
+They got us pinned down, but we're
+gonna raise hell here in a second.
+Start countin', Charlie.
+
+712
+01:08:23,680 --> 01:08:26,399
+<i>Dan! Dan, are you all right?</i>
+
+713
+01:08:29,200 --> 01:08:33,751
+Charlie, reversing last order.
+Take her up now. Repeat, lift off.
+
+714
+01:08:35,360 --> 01:08:40,229
+- You heard the captain.
+- You're pretty big on talking
+heroics, Harry. Let's see some.
+
+715
+01:08:54,920 --> 01:08:56,911
+- Oh, damn!
+- Harry?
+
+716
+01:08:57,000 --> 01:08:58,718
+- Damn.
+- You hit?
+- My leg.
+
+717
+01:08:58,800 --> 01:09:02,509
+- How bad?
+- Oh, uh... I-I think it's broken.
+
+718
+01:09:02,600 --> 01:09:04,636
+- Can you make it back to the ship?
+- I think so.
+
+719
+01:09:04,720 --> 01:09:07,553
+All right, then. Harry,
+we're counting on you to make
+sure they don't get aboard.
+
+720
+01:09:07,640 --> 01:09:09,631
+- Right.
+- Good.
+
+721
+01:09:34,240 --> 01:09:37,550
+- Way to go, Charlie.
+- Hyah!
+
+722
+01:10:07,480 --> 01:10:10,597
+What's that idiot
+trying to do? Harry!
+
+723
+01:10:13,920 --> 01:10:17,117
+Oh, no.
+
+724
+01:10:36,200 --> 01:10:38,919
+Blow it apart before
+it hits us! Fire!
+
+725
+01:10:54,960 --> 01:10:58,236
+I should've known he was all talk,
+no guts, and locked him up.
+
+726
+01:10:58,320 --> 01:11:01,278
+- He may have done us a favour,
+Charlie. At least we're alive.
+- And where there's life...
+
+727
+01:11:01,360 --> 01:11:03,954
+I'm sure that's not what he had in mind.
+He was trying to save his own skin.
+
+728
+01:11:04,040 --> 01:11:06,349
+There is a saying that
+you can't unscramble eggs.
+
+729
+01:11:06,440 --> 01:11:09,716
+A penny's worth of philosophy
+right now isn't gonna buy us
+out of this now, Vincent.
+
+730
+01:11:09,800 --> 01:11:12,519
+- A good offence is the best defence.
+- And what?
+
+731
+01:11:12,600 --> 01:11:16,036
+Go after Reinhardt and turn the ship
+around? It's too late for all that.
+
+732
+01:11:16,120 --> 01:11:19,510
+- There is an alternative.
+- The probe ship.
+Vincent, you're a genius.
+
+733
+01:11:37,680 --> 01:11:42,196
+- A meteorite struck the ship, Captain.
+- Let's go, let's go. Come on.
+- Go.
+
+734
+01:11:57,280 --> 01:12:00,875
+A whole storm of them, Captain.
+The black hole's dragging them in too.
+
+735
+01:12:14,880 --> 01:12:17,997
+We'll have to try the main corridor!
+
+736
+01:13:05,400 --> 01:13:08,631
+Get down!
+
+737
+01:13:34,800 --> 01:13:38,315
+Hang on, Kate.
+
+738
+01:13:38,400 --> 01:13:40,914
+Get down, Charlie!
+
+739
+01:13:59,520 --> 01:14:03,718
+- I got you, Bob.
+- Let go, Captain! Save yourself!
+
+740
+01:14:47,200 --> 01:14:49,714
+- We've gotta keep moving!
+- He's frozen.
+
+741
+01:14:55,920 --> 01:14:58,229
+- Come on! Hurry!
+- All right, Charlie! Move it!
+
+742
+01:14:58,320 --> 01:15:00,550
+Keep going!
+
+743
+01:15:09,840 --> 01:15:14,834
+Increase power to maximum!
+We are going through!
+
+744
+01:15:26,440 --> 01:15:29,796
+It's over. The storm's over.
+
+745
+01:16:38,160 --> 01:16:40,276
+Maximilian!
+
+746
+01:16:47,120 --> 01:16:49,554
+Prepare the probe ship.
+
+747
+01:17:07,280 --> 01:17:09,919
+Maximilian!
+
+748
+01:17:10,000 --> 01:17:13,595
+Help me! H-Help me!
+
+749
+01:17:17,600 --> 01:17:20,194
+Fools!
+
+750
+01:17:20,280 --> 01:17:22,919
+Listen to me!
+
+751
+01:17:23,000 --> 01:17:25,560
+Listen to me!
+
+752
+01:17:25,640 --> 01:17:27,835
+Help!
+
+753
+01:17:27,920 --> 01:17:30,912
+Listen, somebody!
+
+754
+01:17:31,000 --> 01:17:34,993
+H-Help me. Help. Help.
+
+755
+01:17:46,800 --> 01:17:48,916
+Vincent!
+
+756
+01:20:14,520 --> 01:20:17,592
+All light.
+
+757
+01:20:21,600 --> 01:20:25,309
+- We have to go.
+- No. No, I can't make it.
+
+758
+01:20:25,400 --> 01:20:27,755
+My hover stabilization's gone.
+
+759
+01:20:27,840 --> 01:20:31,674
+My main circuit's blown,
+and both back-ups are failin'.
+
+760
+01:20:31,760 --> 01:20:33,751
+You can make it.
+
+761
+01:20:33,840 --> 01:20:37,833
+It's no use, Vincent.
+My useful days are finished.
+
+762
+01:20:37,920 --> 01:20:40,434
+But part of me goes with ya.
+
+763
+01:20:40,520 --> 01:20:42,988
+We'll never be obsolete.
+
+764
+01:20:43,080 --> 01:20:45,674
+Carry on the tradition.
+
+765
+01:20:45,760 --> 01:20:48,069
+We're the best.
+
+766
+01:21:16,360 --> 01:21:19,557
+- Charlie!
+- Help!
+
+767
+01:21:19,640 --> 01:21:23,474
+- No!
+- Help!
+
+768
+01:21:56,520 --> 01:22:01,036
+- We better get the hell off!
+The whole ship's breaking up!
+- Everybody, sit tight.
+
+769
+01:22:10,360 --> 01:22:13,670
+Hang on! Lift-off!
+
+770
+01:23:00,000 --> 01:23:02,514
+Gravity force field is on!
+
+771
+01:23:02,600 --> 01:23:04,352
+Controls not responding.
+
+772
+01:23:04,440 --> 01:23:07,512
+Captain, the ship
+has been programmed.
+
+773
+01:23:09,680 --> 01:23:11,591
+To Reinhardt's course.
+
+774
+01:23:12,880 --> 01:23:15,030
+You mean we're going
+into the black hole?
+
+775
+01:23:17,360 --> 01:23:21,353
+- Yep.
+- Let's pray he was a genius.
+
+776
+01:23:35,240 --> 01:23:38,152
+In, in, in, through,
+through, through...
+
+777
+01:23:38,240 --> 01:23:40,549
+and beyond.
+
+778
+01:23:40,640 --> 01:23:43,871
+In, in, through, through,
+through and beyond.
+
+779
+01:23:48,720 --> 01:23:51,234
+Help me! Help me! Help me!
+
+780
+01:23:51,320 --> 01:23:54,551
+Help, help, help, help me, me!
+
+781
+01:23:57,840 --> 01:24:00,638
+Life? Life? Life? Life?
+Life forever.
+
+782
+01:24:00,720 --> 01:24:04,918
+Reinhardt murdered my father,
+my father, father.
+
+783
+01:24:05,000 --> 01:24:08,675
+Where is he? Reinhardt
+murdered, murdered, murdered...
+
+784
+01:24:08,760 --> 01:24:10,478
+murdered, murdered,
+murdered, murdered...
+
+785
+01:24:10,560 --> 01:24:13,438
+The black hole is pulling us in,
+pulling us in, pulling us in.
+
+786
+01:24:13,520 --> 01:24:17,308
+We could also be dead,
+could also be dead...
+
+787
+01:24:17,400 --> 01:24:20,392
+Be dead, be dead, be dead,
+be dead, be dead, be dead.
+
+788
+01:24:20,480 --> 01:24:23,074
+We're the best. We're the best.
+We're the best. We're the best.
+
+789
+01:24:23,160 --> 01:24:27,950
+Vincent. The best,
+best, best, best, best.
+
+790
+01:24:28,040 --> 01:24:30,918
+We're the best. The best.
+The best, the best.
+
+791
+01:24:31,000 --> 01:24:33,434
+- Christmas morning, Christmas morning.
+- Our mission's finished.
+
+792
+01:24:35,800 --> 01:24:38,030
+- It's pulling us in, pulling us in.
+- Christmas morning. Christmas...
+
+793
+01:24:38,120 --> 01:24:41,908
+- We are the best.
+- Help me! Help me! Help me! Help me!
+

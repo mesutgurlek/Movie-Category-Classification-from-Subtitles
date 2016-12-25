@@ -1,0 +1,3109 @@
+1
+00:00:02,211 --> 00:00:06,091
+<i>PICARD:
+Captain's log, stardate 41697.9.</i>
+
+2
+00:00:06,298 --> 00:00:09,598
+<i>We're en route to Sarona VIII
+for a much-needed shore leave.</i>
+
+3
+00:00:09,801 --> 00:00:12,179
+<i>The entire crew is looking forward
+to the diversion.</i>
+
+4
+00:00:12,387 --> 00:00:18,315
+<i>On a personal note, I have allowed
+myself the luxury of a head start.</i>
+
+5
+00:00:22,189 --> 00:00:23,941
+[DEVICE BEEPING]
+
+6
+00:00:28,362 --> 00:00:29,579
+I took advantage.
+
+7
+00:00:29,780 --> 00:00:33,375
+No, no, lieutenant,
+the advantage was yours.
+
+8
+00:00:33,784 --> 00:00:34,910
+Come again.
+
+9
+00:00:40,582 --> 00:00:42,004
+En garde.
+
+10
+00:01:07,693 --> 00:01:09,115
+[PICARD YELLS & DEVICE BEEPS]
+
+11
+00:01:15,409 --> 00:01:16,752
+Interesting move, sir.
+
+12
+00:01:16,952 --> 00:01:18,204
+But what technique was that?
+
+13
+00:01:18,412 --> 00:01:21,165
+The technique of a desperate man.
+
+14
+00:01:22,958 --> 00:01:24,335
+Interesting move, sir.
+
+15
+00:01:24,543 --> 00:01:25,795
+But what technique was that?
+
+16
+00:01:26,003 --> 00:01:28,756
+The technique of a desperate man.
+
+17
+00:01:30,132 --> 00:01:33,636
+Captain, what was that?
+
+18
+00:01:39,308 --> 00:01:41,481
+- Picard to Bridge.
+RIKER [OVER INTERCOM]: Captain.
+
+19
+00:01:41,685 --> 00:01:45,280
+Number One, did something unusual
+just occur on the Bridge?
+
+20
+00:01:45,480 --> 00:01:46,527
+RIKER:
+Yes, sir.
+
+21
+00:01:46,690 --> 00:01:50,740
+<i>We experienced some kind of loop
+where everything repeats itself.</i>
+
+22
+00:01:51,278 --> 00:01:52,825
+Here too.
+
+23
+00:01:53,030 --> 00:01:54,953
+Hm o n m <i>Y</i> way
+
+24
+00:02:03,248 --> 00:02:05,000
+Report, Mr. Data.
+
+25
+00:02:05,208 --> 00:02:06,710
+Sensors show nothing, sir.
+
+26
+00:02:06,918 --> 00:02:11,014
+But it appears a moment in time
+repeated itself exactly. For everyone.
+
+27
+00:02:11,214 --> 00:02:12,841
+It was like a feeling of déjà vu.
+
+28
+00:02:13,050 --> 00:02:14,848
+Reports coming in from all decks, sir.
+
+29
+00:02:15,052 --> 00:02:16,520
+Computers were also affected, sir,
+
+30
+00:02:16,720 --> 00:02:19,018
+which would indicate the phenomenon
+was not an illusion,
+
+31
+00:02:19,222 --> 00:02:21,270
+but occurred in real time.
+
+32
+00:02:21,475 --> 00:02:23,694
+PICARD: Number One,
+find out if anything similar happened
+
+33
+00:02:23,852 --> 00:02:25,479
+in this sector.
+
+34
+00:02:26,104 --> 00:02:28,948
+Sir, I am receiving
+an emergency transmission
+
+35
+00:02:29,149 --> 00:02:30,696
+from the Pages Minor system.
+
+36
+00:02:30,901 --> 00:02:31,948
+Put it on.
+
+37
+00:02:32,110 --> 00:02:33,157
+[STATIC CRACKLES]
+
+38
+00:02:33,320 --> 00:02:35,789
+MAN [OVER RADIO]:
+--542.2.
+
+39
+00:02:35,989 --> 00:02:40,119
+<i>I repeat, this is Dr. Paul Manheim.</i>
+
+40
+00:02:40,327 --> 00:02:43,080
+<i>We are in need of help. Urgent.</i>
+
+41
+00:02:43,288 --> 00:02:46,758
+<i>All ships, please respond.</i>
+
+42
+00:02:46,958 --> 00:02:48,005
+<i>I repeat,</i>
+
+43
+00:02:48,210 --> 00:02:57,767
+<i>coordinates are 66728.9 by 7075...</i>
+
+44
+00:02:57,969 --> 00:02:59,562
+It is an automated signal, sir.
+
+45
+00:02:59,763 --> 00:03:01,765
+I am unable to establish contact.
+
+46
+00:03:01,932 --> 00:03:04,731
+MAN: This is Dr. Paul Manheim...
+- Shut it off.
+
+47
+00:03:05,352 --> 00:03:07,354
+Mr. La Forge, lay in a course
+on those coordinates.
+
+48
+00:03:07,562 --> 00:03:08,734
+Aye, sir.
+
+49
+00:03:08,939 --> 00:03:11,158
+Captain,
+you act as if there's a connection
+
+50
+00:03:11,358 --> 00:03:14,032
+between the time distortion
+and the distress signal.
+
+51
+00:03:14,236 --> 00:03:15,909
+There is.
+
+52
+00:03:16,947 --> 00:03:19,166
+Paul Manheim.
+
+53
+00:03:20,117 --> 00:03:21,585
+Fifteen years ago, he went off
+
+54
+00:03:21,743 --> 00:03:26,249
+to work on experiments
+relating to nonlinear time.
+
+55
+00:03:26,456 --> 00:03:28,754
+It appears he may have achieved
+some measure of success.
+
+56
+00:03:28,959 --> 00:03:30,927
+- Speed warp 8.
+- Aye, sir, warp 8.
+
+57
+00:03:31,128 --> 00:03:32,550
+Engage.
+
+58
+00:03:55,110 --> 00:03:59,206
+PICARD:
+Space, the final frontier.
+
+59
+00:03:59,865 --> 00:04:03,836
+<i>These are the voyages
+of the starship Enterprise.</i>
+
+60
+00:04:04,035 --> 00:04:09,212
+<i>Its continuing mission:
+to explore strange new worlds,</i>
+
+61
+00:04:09,833 --> 00:04:13,963
+<i>to seek out new life
+and new civilizations,</i>
+
+62
+00:04:14,421 --> 00:04:18,801
+<i>to boldly go where no one
+has gone before.</i>
+
+63
+00:05:25,575 --> 00:05:30,376
+Estimated arrival Pegos Minor,
+four hours 35 minutes 17 seconds.
+
+64
+00:05:30,580 --> 00:05:32,457
+I've never heard of Paul Manheim.
+
+65
+00:05:32,666 --> 00:05:33,713
+Mr. Data?
+
+66
+00:05:34,167 --> 00:05:37,512
+A highly respected scientist,
+considered a visionary.
+
+67
+00:05:37,712 --> 00:05:39,589
+He advanced
+several time-related theories.
+
+68
+00:05:39,798 --> 00:05:43,348
+One regarding the relationships between
+time and gravity was quite intriguing.
+
+69
+00:05:43,552 --> 00:05:46,601
+But neither that theory nor any other
+received wide acceptance.
+
+70
+00:05:47,305 --> 00:05:50,024
+Fifteen years ago,
+he assembled a team of scientists
+
+71
+00:05:50,183 --> 00:05:53,153
+to expand that research.
+
+72
+00:05:53,353 --> 00:05:56,027
+They disappeared.
+Haven't been heard from since.
+
+73
+00:05:56,231 --> 00:05:58,404
+RIKER:
+Did you know him, captain?
+
+74
+00:05:58,608 --> 00:05:59,655
+I knew of him.
+
+75
+00:05:59,860 --> 00:06:03,490
+He was teaching at the university
+when I was in Paris, but I, uh,
+
+76
+00:06:04,823 --> 00:06:07,076
+didn't have the pleasure.
+I must change.
+
+77
+00:06:07,617 --> 00:06:11,292
+Number One, inform me half an hour
+before we reach those coordinates,
+
+78
+00:06:11,496 --> 00:06:13,498
+and keep trying to determine
+
+79
+00:06:13,707 --> 00:06:17,587
+if the time distortion was specifically
+located on the Enterprise.
+
+80
+00:06:17,794 --> 00:06:20,422
+RIKER: Yes, sir.
+- Captain.
+
+81
+00:06:20,630 --> 00:06:23,600
+- Excuse me.
+PICARD: Yes, what is it, counselor?
+
+82
+00:06:23,800 --> 00:06:26,895
+I think you would prefer
+to discuss this in private.
+
+83
+00:06:27,095 --> 00:06:29,189
+No, that's not necessary. Go on.
+
+84
+00:06:30,223 --> 00:06:32,726
+When Professor Manheim's name
+was mentioned,
+
+85
+00:06:32,934 --> 00:06:35,153
+you reacted with intense emotion.
+
+86
+00:06:36,354 --> 00:06:37,981
+Yes. Please, get to the point.
+
+87
+00:06:38,815 --> 00:06:41,864
+I don't want to interfere
+with your personal life,
+
+88
+00:06:42,068 --> 00:06:45,493
+but unresolved, strong emotion
+can affect judgment.
+
+89
+00:06:46,323 --> 00:06:48,166
+[DOOR OPENS]
+
+90
+00:06:48,325 --> 00:06:50,419
+Well, thank you for your concern.
+
+91
+00:06:50,619 --> 00:06:53,793
+As ship's counselor,
+I offer my assistance.
+
+92
+00:06:55,040 --> 00:06:56,667
+What do you suggest?
+
+93
+00:06:58,335 --> 00:07:02,135
+Confronting deep personal issues
+is not easy for you.
+
+94
+00:07:02,339 --> 00:07:03,841
+You tend to suppress them.
+
+95
+00:07:04,925 --> 00:07:07,223
+There are a few hours
+until we arrive.
+
+96
+00:07:07,427 --> 00:07:09,100
+Perhaps you should use this time
+
+97
+00:07:09,304 --> 00:07:13,354
+to analyze your feelings
+and put them into perspective.
+
+98
+00:07:13,558 --> 00:07:15,060
+Thank you, counselor.
+
+99
+00:07:15,268 --> 00:07:17,942
+If I should need you further,
+<i>I'll</i> let you know.
+
+100
+00:07:49,386 --> 00:07:50,638
+Bridge.
+
+101
+00:07:50,845 --> 00:07:51,892
+Belay that.
+
+102
+00:07:52,055 --> 00:07:53,307
+[COMPUTER BEEPING]
+
+103
+00:07:56,226 --> 00:07:59,856
+Computer,
+estimated arrival at Pegos Minor.
+
+104
+00:08:00,063 --> 00:08:03,158
+<i>COMPUTER:
+Two hours, nine minutes.</i>
+
+105
+00:08:03,566 --> 00:08:05,568
+[SIGHS]
+
+106
+00:08:05,735 --> 00:08:07,737
+Holodeck 3.
+
+107
+00:08:16,246 --> 00:08:17,668
+Computer, this is Captain Picard.
+
+108
+00:08:17,872 --> 00:08:20,546
+<i>COMPUTER:
+Holodeck 3 is clear.</i>
+
+109
+00:08:21,126 --> 00:08:22,673
+Location, Paris.
+
+110
+00:08:22,877 --> 00:08:30,352
+Café des Artistes
+as it appeared 22 years ago.
+
+111
+00:08:31,177 --> 00:08:35,057
+April the 9th, 1,500 hours, 3:00.
+
+112
+00:08:36,224 --> 00:08:38,397
+Warm spring day.
+
+113
+00:08:39,352 --> 00:08:41,025
+<i>COMPUTER:
+Program complete.</i>
+
+114
+00:08:41,187 --> 00:08:43,189
+[BAL-MUSETTE MUSIC PLAYING]
+
+115
+00:08:49,946 --> 00:08:51,948
+[SPEAKING IN FRENCH]
+
+116
+00:08:54,909 --> 00:08:58,163
+Monsieur,
+welcome to the Café des Artistes.
+
+117
+00:08:58,371 --> 00:09:02,877
+- Is this your first time in Paris?
+- No.
+
+118
+00:09:03,084 --> 00:09:04,711
+This way.
+
+119
+00:09:06,504 --> 00:09:07,551
+That table.
+
+120
+00:09:07,714 --> 00:09:09,716
+[SPEAKING IN FRENCH]
+
+121
+00:09:09,883 --> 00:09:12,136
+We are here to please you.
+
+122
+00:09:26,983 --> 00:09:29,611
+I've been away far too long.
+
+123
+00:09:30,403 --> 00:09:32,997
+Some wine? Some cheese?
+
+124
+00:09:33,198 --> 00:09:35,621
+I'm not very hungry.
+
+125
+00:09:35,825 --> 00:09:38,203
+I really came for the view.
+
+126
+00:09:38,536 --> 00:09:42,791
+Perhaps what you hunger for
+is not on the menu.
+
+127
+00:09:43,166 --> 00:09:45,009
+Perhaps not.
+
+128
+00:09:45,877 --> 00:09:47,094
+It was many years ago.
+
+129
+00:09:47,295 --> 00:09:49,673
+I had a rendezvous.
+
+130
+00:09:50,465 --> 00:09:52,183
+I was to meet someone.
+
+131
+00:09:53,718 --> 00:09:57,814
+Someone here, at that very table.
+
+132
+00:09:59,766 --> 00:10:02,315
+Your young lady, she did not come?
+
+133
+00:10:04,479 --> 00:10:06,447
+Actually, I don't know.
+
+134
+00:10:06,648 --> 00:10:09,242
+I always imagined that she did.
+
+135
+00:10:10,485 --> 00:10:12,829
+Oh, you, however, did not.
+
+136
+00:10:15,323 --> 00:10:16,575
+Ah.
+
+137
+00:10:19,369 --> 00:10:22,498
+Well, trust Edourd.
+
+138
+00:10:22,705 --> 00:10:26,960
+I will bring something very special
+just for you.
+
+139
+00:10:29,587 --> 00:10:31,806
+Let's go, ah?
+We've waited long enough.
+
+140
+00:10:32,006 --> 00:10:34,850
+Fine, you go. I'll stay a little longer.
+
+141
+00:10:35,051 --> 00:10:36,803
+FRANCINE:
+He's not coming, Gabrielle.
+
+142
+00:10:37,011 --> 00:10:40,231
+No. After last night, I know he will.
+I just know it.
+
+143
+00:10:40,431 --> 00:10:42,058
+FRANCINE:
+Then he would be here.
+
+144
+00:10:42,225 --> 00:10:45,274
+You are making a fool out of yourself,
+and I will not watch.
+
+145
+00:10:52,110 --> 00:10:54,704
+- Do we know each other?
+- No.
+
+146
+00:10:54,904 --> 00:10:58,249
+Well, the way you look at me.
+Do I remind you of someone?
+
+147
+00:10:58,449 --> 00:11:00,042
+No.
+
+148
+00:11:01,494 --> 00:11:04,247
+Yes. You do, somewhat.
+
+149
+00:11:07,500 --> 00:11:09,673
+He's not coming.
+
+150
+00:11:10,211 --> 00:11:13,511
+Why? What did I do
+to drive him away?
+
+151
+00:11:14,924 --> 00:11:18,474
+Maybe you did nothing.
+Maybe he had no choice.
+
+152
+00:11:19,179 --> 00:11:21,227
+Maybe he was afraid.
+
+153
+00:11:21,431 --> 00:11:23,525
+Of what? Of me?
+
+154
+00:11:24,517 --> 00:11:29,398
+Oh, of being connected, rooted.
+
+155
+00:11:30,523 --> 00:11:32,025
+Perhaps if he's as young as you are,
+
+156
+00:11:32,233 --> 00:11:35,612
+he doesn't know yet exactly
+what it is he wants to do.
+
+157
+00:11:36,654 --> 00:11:38,327
+Maybe...
+
+158
+00:11:43,620 --> 00:11:45,588
+Enough of this self-indulgence.
+
+159
+00:11:46,998 --> 00:11:48,671
+Exit.
+
+160
+00:12:07,185 --> 00:12:09,904
+Captain, we received communication
+from the freighter Lalo
+
+161
+00:12:10,104 --> 00:12:12,448
+as well as from a farming colony
+on Coltar IV.
+
+162
+00:12:12,649 --> 00:12:14,697
+Both described
+the same time distortion.
+
+163
+00:12:14,901 --> 00:12:17,700
+The captain of the Lalo described it
+as a hiccup.
+
+164
+00:12:17,904 --> 00:12:19,030
+- Hiccup?
+DATA: Actually, sir,
+
+165
+00:12:19,197 --> 00:12:20,915
+that may be an incorrect analogy.
+
+166
+00:12:21,115 --> 00:12:22,162
+PICARD:
+How so, Data?
+
+167
+00:12:22,367 --> 00:12:25,337
+A hiccup is a spasmodic inhalation
+with closure of the glottis,
+
+168
+00:12:25,536 --> 00:12:27,379
+accompanied by a peculiar sound.
+
+169
+00:12:27,580 --> 00:12:30,299
+If we were to continue this analogy
+to a body function,
+
+170
+00:12:30,500 --> 00:12:32,719
+- what occurred would be best--
+- Enough, Data.
+
+171
+00:12:33,378 --> 00:12:36,473
+Have you been able to learn any more
+specifics about the Manheim project?
+
+172
+00:12:36,673 --> 00:12:38,550
+All I have found, sir,
+is what you already know.
+
+173
+00:12:38,758 --> 00:12:41,602
+Manheim was concentrating on
+time/gravity experiments when he left.
+
+174
+00:12:41,803 --> 00:12:45,398
+Captain, we've reached
+the coordinates specified.
+
+175
+00:12:45,598 --> 00:12:47,020
+There's nothing here.
+
+176
+00:12:47,225 --> 00:12:49,899
+I'm receiving new coordinates.
+
+177
+00:12:50,103 --> 00:12:52,481
+It's a relay signal.
+Same source as the first one.
+
+178
+00:12:52,689 --> 00:12:54,407
+LA FORGE:
+What are they, Worf'?
+
+179
+00:12:54,607 --> 00:13:00,330
+664.8 by 1323.7 by 4949.9.
+
+180
+00:13:00,738 --> 00:13:02,365
+Very remote area, sir.
+
+181
+00:13:02,573 --> 00:13:05,201
+It's in the middle of the Render system
+a binary star system.
+
+182
+00:13:05,410 --> 00:13:08,960
+The main star is a B-class giant,
+the companion star is a pulsar.
+
+183
+00:13:09,163 --> 00:13:11,165
+Set course for the new coordinates,
+Mr. La Forge.
+
+184
+00:13:11,374 --> 00:13:12,751
+LA FORGE:
+Aye, sir.
+
+185
+00:13:13,710 --> 00:13:16,930
+Why is he making it this difficult
+to find him?
+
+186
+00:13:17,422 --> 00:13:19,766
+Hopefully, he'll tell us, Number One.
+
+187
+00:13:26,514 --> 00:13:29,063
+We have reached the coordinates,
+captain.
+
+188
+00:13:29,267 --> 00:13:31,690
+Sensors indicate it is Vandor IV,
+
+189
+00:13:31,894 --> 00:13:34,522
+a planetoid in elliptical orbit
+around the binary system.
+
+190
+00:13:34,731 --> 00:13:37,200
+- Standard orbit, Mr. La Forge.
+LA FORGE: Aye, sir.
+
+191
+00:13:37,400 --> 00:13:38,652
+Give me a visual.
+
+192
+00:13:38,860 --> 00:13:40,828
+Viewscreen on.
+
+193
+00:13:41,029 --> 00:13:43,657
+There's a small force field
+on the planet.
+
+194
+00:13:43,865 --> 00:13:46,835
+Latitude 20 degrees,
+nine minutes north,
+
+195
+00:13:47,035 --> 00:13:51,040
+longitude 40 degrees, two minutes
+east of the present terminator.
+
+196
+00:13:51,247 --> 00:13:53,750
+- Penetrable?
+- No, sir.
+
+197
+00:13:53,958 --> 00:13:55,210
+Open hailing frequencies.
+
+198
+00:13:55,418 --> 00:13:57,762
+Hailing frequencies open, sir.
+
+199
+00:13:57,962 --> 00:14:01,512
+This is Captain-- This is the captain
+of the USS Enterprise
+
+200
+00:14:01,716 --> 00:14:04,515
+responding to your call for help.
+
+201
+00:14:04,719 --> 00:14:07,097
+WOMAN [OVER RADIO]:
+Enterprise, thank you for hearing us.
+
+202
+00:14:07,305 --> 00:14:08,932
+<i>Where are you?</i>
+
+203
+00:14:09,140 --> 00:14:11,689
+We're in orbit around Vandor now.
+
+204
+00:14:11,893 --> 00:14:13,190
+<i>WOMAN:
+Then you can help me.</i>
+
+205
+00:14:13,394 --> 00:14:14,691
+<i>I don't know what to do.</i>
+
+206
+00:14:14,896 --> 00:14:16,864
+<i>It's only the two of us left.</i>
+
+207
+00:14:17,065 --> 00:14:18,612
+<i>He's having convulsions.</i>
+
+208
+00:14:19,192 --> 00:14:20,614
+<i>Please.</i>
+
+209
+00:14:22,028 --> 00:14:23,780
+Can you lock on to her coordinates?
+
+210
+00:14:23,988 --> 00:14:27,663
+No, sir, the force field is preventing
+any kind of contact other than audio.
+
+211
+00:14:28,326 --> 00:14:31,455
+- There is a force field at your location.
+WOMAN: Yes. <i>I</i> know.
+
+212
+00:14:31,662 --> 00:14:35,007
+Good. But it is preventing us
+from helping you.
+
+213
+00:14:35,208 --> 00:14:38,428
+Now, you must try to find some way
+to shut it down.
+
+214
+00:14:38,628 --> 00:14:40,175
+WOMAN:
+I'll try.
+
+215
+00:14:43,633 --> 00:14:44,725
+[COMPUTER BEEPING]
+
+216
+00:14:44,884 --> 00:14:45,931
+Force field is off.
+
+217
+00:14:46,135 --> 00:14:49,435
+Good. Lock on to their coordinates,
+beam them up directly to Sickbay.
+
+218
+00:14:49,639 --> 00:14:51,607
+Dr. Crusher,
+prepare for a medical emergency.
+
+219
+00:14:51,808 --> 00:14:53,185
+Two to beam directly up to Sickbay.
+
+220
+00:14:53,393 --> 00:14:55,487
+CRUSHER [OVER INTERCOM]:
+We'll be <i>ready,</i> captain.
+
+221
+00:14:55,686 --> 00:14:57,609
+That's where I'll be.
+
+222
+00:15:01,234 --> 00:15:03,282
+Number One, Mr. Data.
+
+223
+00:15:12,954 --> 00:15:14,956
+[PAUL GRUNTING]
+
+224
+00:15:16,457 --> 00:15:18,255
+<i>I'll</i> help.
+
+225
+00:15:19,794 --> 00:15:22,217
+Easy. Easy.
+
+226
+00:15:22,422 --> 00:15:24,550
+I've got his legs.
+
+227
+00:15:28,386 --> 00:15:31,765
+- How long has he been like this?
+JENICE: Several hours. Al least.
+
+228
+00:15:32,348 --> 00:15:35,227
+He was in his lab, so I can't be sure.
+
+229
+00:15:35,435 --> 00:15:37,984
+I need to do some tests.
+
+230
+00:15:47,405 --> 00:15:49,032
+I, um...
+
+231
+00:15:51,742 --> 00:15:53,870
+Jean-Luc.
+
+232
+00:15:54,745 --> 00:15:58,124
+I thought the voice sounded familiar.
+
+233
+00:16:00,543 --> 00:16:01,840
+Hello.
+
+234
+00:16:02,044 --> 00:16:03,637
+[CHUCKLES]
+
+235
+00:16:03,796 --> 00:16:06,049
+I should have known.
+
+236
+00:16:06,466 --> 00:16:09,766
+Who else would have charged
+to my rescue?
+
+237
+00:16:17,059 --> 00:16:20,063
+This is my first officer,
+Commander William Riker.
+
+238
+00:16:20,563 --> 00:16:22,861
+Lieutenant Commander Data.
+
+239
+00:16:23,858 --> 00:16:27,579
+This is Jenice Manheim.
+
+240
+00:16:27,778 --> 00:16:30,748
+- A pleasure, Mrs. Manheim.
+JENICE: Thank you.
+
+241
+00:16:31,991 --> 00:16:34,494
+I have a number of questions for you.
+
+242
+00:16:34,702 --> 00:16:37,080
+I hope I can be of some help.
+
+243
+00:16:37,580 --> 00:16:39,503
+Why don't we sit down here?
+
+244
+00:16:41,501 --> 00:16:44,801
+You said there were only two of you left.
+What happened to the rest of the crew?
+
+245
+00:16:45,004 --> 00:16:47,052
+They were working at the second lab.
+
+246
+00:16:47,256 --> 00:16:49,475
+Something happened there
+a few weeks ago.
+
+247
+00:16:49,675 --> 00:16:51,598
+They were all killed.
+
+248
+00:16:51,761 --> 00:16:52,808
+[JENICE SIGHS]
+
+249
+00:16:52,970 --> 00:16:56,065
+It was a terrible accident.
+I don't know exactly what happened.
+
+250
+00:16:56,265 --> 00:17:00,862
+So many brilliant, wonderful minds
+just gone.
+
+251
+00:17:01,562 --> 00:17:04,315
+Do you know the nature
+of Dr. Manheim's work?
+
+252
+00:17:04,524 --> 00:17:06,572
+Paul's always been interested in time.
+
+253
+00:17:07,318 --> 00:17:09,036
+He's never believed
+that it was immutable
+
+254
+00:17:09,195 --> 00:17:11,664
+any more than space is immutable.
+
+255
+00:17:11,864 --> 00:17:14,117
+Over the last decade,
+he came to believe
+
+256
+00:17:14,325 --> 00:17:17,295
+that we reside
+in one of infinite dimensions,
+
+257
+00:17:17,495 --> 00:17:20,544
+and what holds us here
+is the constancy of time.
+
+258
+00:17:20,748 --> 00:17:24,218
+Change that, and it would be
+what he called “opening the window"
+
+259
+00:17:24,418 --> 00:17:25,795
+to those other dimensions.
+
+260
+00:17:26,003 --> 00:17:28,552
+Which begins
+to explain what happened.
+
+261
+00:17:29,465 --> 00:17:32,059
+Have you been experiencing
+something up here'?
+
+262
+00:17:32,260 --> 00:17:36,265
+Yes. What is emanating here is
+having repercussions light years away.
+
+263
+00:17:36,472 --> 00:17:38,065
+Maybe even further.
+
+264
+00:17:38,266 --> 00:17:40,564
+That would explain his anxiety.
+
+265
+00:17:40,768 --> 00:17:43,897
+I had no idea it had gone so far
+beyond Vandor.
+
+266
+00:17:44,105 --> 00:17:46,028
+Why this place? Why Vandor?
+
+267
+00:17:46,232 --> 00:17:49,156
+All I can tell you about that
+is that Paul and the rest of the team
+
+268
+00:17:49,360 --> 00:17:51,112
+searched for two years to find it.
+
+269
+00:17:51,320 --> 00:17:53,618
+Vandors exactly what they needed.
+
+270
+00:17:53,823 --> 00:17:55,450
+A planetoid around a binary star.
+
+271
+00:17:55,658 --> 00:17:57,626
+Because of the dense gravity
+of the pulsar?
+
+272
+00:17:57,827 --> 00:18:01,673
+Did your husband ever attempt
+to define these dimensions
+
+273
+00:18:01,872 --> 00:18:03,715
+to give you an idea
+of what he expected?
+
+274
+00:18:03,916 --> 00:18:09,969
+No. But he did say that he was
+very close to proving his theories.
+
+275
+00:18:10,381 --> 00:18:12,008
+And then the accident.
+
+276
+00:18:12,758 --> 00:18:15,978
+Did he anticipate that these
+experiments might be dangerous?
+
+277
+00:18:16,178 --> 00:18:17,896
+I didn't think so.
+
+278
+00:18:18,097 --> 00:18:22,318
+But now, in retrospect,
+he probably did.
+
+279
+00:18:23,060 --> 00:18:27,236
+That would explain the unusual
+precautions he began taking.
+
+280
+00:18:27,440 --> 00:18:29,238
+Even before the accident.
+
+281
+00:18:29,817 --> 00:18:33,822
+The force field,
+the elaborate security system.
+
+282
+00:18:34,030 --> 00:18:36,032
+And every time
+he started a new experiment,
+
+283
+00:18:36,240 --> 00:18:39,835
+he insisted that I stay
+in what he called "a protected room."
+
+284
+00:18:39,994 --> 00:18:41,996
+Aha. And that's why
+you weren't affected.
+
+285
+00:18:42,204 --> 00:18:46,584
+Jean-Luc, he would never knowingly
+do anything to hurt anyone.
+
+286
+00:18:46,792 --> 00:18:48,169
+Yes, I believe that.
+
+287
+00:18:48,377 --> 00:18:52,348
+But as he saw his goal getting closer,
+seeming possible,
+
+288
+00:18:52,548 --> 00:18:54,801
+he became
+more and more obsessive.
+
+289
+00:18:55,384 --> 00:18:58,103
+Maybe that clouded his judgment.
+
+290
+00:19:03,434 --> 00:19:06,608
+This is not howl imagined
+seeing you again.
+
+291
+00:19:07,104 --> 00:19:08,856
+PICARD:
+Nor I you.
+
+292
+00:19:09,815 --> 00:19:11,488
+JENICE:
+You've done well.
+
+293
+00:19:11,692 --> 00:19:15,117
+A great starship
+on the far reaches of the galaxy.
+
+294
+00:19:15,696 --> 00:19:17,494
+It's everything you'd hoped.
+
+295
+00:19:17,698 --> 00:19:18,745
+[CHUCKLES]
+
+296
+00:19:18,908 --> 00:19:20,660
+Not exactly.
+
+297
+00:19:20,868 --> 00:19:23,792
+Nothing works just as you hope.
+
+298
+00:19:23,996 --> 00:19:28,502
+If you can't tell us any more,
+I need to send a team down to the lab.
+
+299
+00:19:28,709 --> 00:19:30,382
+You can't. it's protected.
+
+300
+00:19:31,170 --> 00:19:34,925
+One of the young scientists
+made sure no one could get in.
+
+301
+00:19:35,091 --> 00:19:37,185
+CRUSHER:
+Uh, excuse me.
+
+302
+00:19:38,219 --> 00:19:39,971
+<i>-</i> Is he worse?
+CRUSHER: He's resting.
+
+303
+00:19:40,179 --> 00:19:42,227
+But I'd like you
+to undergo some tests yourself.
+
+304
+00:19:42,431 --> 00:19:44,183
+My nurse will start them.
+
+305
+00:19:44,392 --> 00:19:46,895
+Thank you for your kindness, doctor.
+
+306
+00:19:56,112 --> 00:19:58,365
+- She's an old friend.
+- I gathered that.
+
+307
+00:19:58,572 --> 00:20:00,745
+It's her husband I'm more concerned
+with at the moment.
+
+308
+00:20:00,950 --> 00:20:03,749
+- What's the prognosis?
+- I believe he's dying.
+
+309
+00:20:03,953 --> 00:20:06,627
+His neurochemistry's been affected,
+but I don't know how or why.
+
+310
+00:20:06,789 --> 00:20:08,666
+I've never encountered
+anything like it before.
+
+311
+00:20:08,874 --> 00:20:10,922
+- How long does he have?
+- Maybe a couple of days.
+
+312
+00:20:11,127 --> 00:20:12,219
+It's hard to predict.
+
+313
+00:20:12,420 --> 00:20:14,923
+All I can do is maintain him,
+or attempt to maintain him,
+
+314
+00:20:15,131 --> 00:20:16,804
+until I find out
+what's causing the damage.
+
+315
+00:20:17,007 --> 00:20:20,728
+- Can we talk to him?
+- Not now. Not yet.
+
+316
+00:20:23,597 --> 00:20:25,315
+DATA:
+Incidentally, captain,
+
+317
+00:20:25,516 --> 00:20:30,192
+the effects of the time distortions are
+now being felt in the llecom system.
+
+318
+00:20:34,734 --> 00:20:36,281
+PICARD:
+Bridge.
+
+319
+00:20:36,777 --> 00:20:39,371
+In the past decade, Manheim
+has turned some vague theories
+
+320
+00:20:39,572 --> 00:20:41,074
+into a practical application.
+
+321
+00:20:41,282 --> 00:20:43,910
+Yes. But without his help,
+I'm not sure we'll be able
+
+322
+00:20:44,118 --> 00:20:48,123
+to pose any intelligent questions,
+let alone come up with any solutions.
+
+323
+00:20:48,330 --> 00:20:49,832
+DATA:
+Incidentally, captain,
+
+324
+00:20:50,040 --> 00:20:54,216
+the effects of the time distortions are
+now being felt in the llecom system.
+
+325
+00:20:55,045 --> 00:20:57,298
+It's us
+before we stepped into the turbolift.
+
+326
+00:20:57,506 --> 00:20:59,383
+It's happening again.
+
+327
+00:20:59,633 --> 00:21:01,727
+I feel no disorientation.
+
+328
+00:21:02,094 --> 00:21:03,892
+Nor do I.
+
+329
+00:21:05,264 --> 00:21:06,641
+What was that?
+
+330
+00:21:06,849 --> 00:21:08,977
+I believe what could be termed
+as the Manheim Effect
+
+331
+00:21:09,185 --> 00:21:10,653
+is becoming more pronounced.
+
+332
+00:21:11,312 --> 00:21:13,485
+RIKER:
+This is where we started.
+
+333
+00:21:13,689 --> 00:21:14,781
+If we are us.
+
+334
+00:21:14,982 --> 00:21:17,656
+Oh, we are us, sir.
+But they are also us.
+
+335
+00:21:17,860 --> 00:21:20,329
+So, indeed, we are both us.
+
+336
+00:21:20,529 --> 00:21:23,328
+At different points
+along the same time continuum.
+
+337
+00:21:23,532 --> 00:21:25,125
+[DOOR OPENS]
+
+338
+00:21:33,751 --> 00:21:35,378
+Bridge.
+
+339
+00:21:42,301 --> 00:21:43,473
+PICARD:
+What have you learned?
+
+340
+00:21:43,636 --> 00:21:45,764
+We have completed a scan
+of the planet's surface, sir.
+
+341
+00:21:45,971 --> 00:21:47,188
+We've discovered the second lab
+
+342
+00:21:47,389 --> 00:21:49,562
+is on the far side of the planet,
+completely destroyed.
+
+343
+00:21:49,767 --> 00:21:51,235
+Unable to determine what caused it.
+
+344
+00:21:51,435 --> 00:21:54,234
+Otherwise,
+very little to clarify this situation.
+
+345
+00:21:54,438 --> 00:21:56,486
+Our sensors
+show an immense volume of energy
+
+346
+00:21:56,690 --> 00:21:58,112
+emanating deep within the planet
+
+347
+00:21:58,317 --> 00:22:00,945
+and concentrated
+near Manheim's remaining laboratory.
+
+348
+00:22:01,153 --> 00:22:03,030
+- How is the energy being used?
+- No idea.
+
+349
+00:22:03,239 --> 00:22:05,367
+PICARD: What's its source?
+- I cannot be sure, sir.
+
+350
+00:22:05,574 --> 00:22:07,372
+But I believe Manheim
+has developed a method
+
+351
+00:22:07,576 --> 00:22:09,294
+for harnessing energy
+from the pulsar.
+
+352
+00:22:09,495 --> 00:22:10,621
+RIKER:
+It comes down to this.
+
+353
+00:22:10,788 --> 00:22:12,415
+We've learned everything we can
+from here,
+
+354
+00:22:12,623 --> 00:22:15,672
+and we are no closer to understanding
+it than we were 12 hours ago.
+
+355
+00:22:15,876 --> 00:22:17,423
+Manheim is unable to help us,
+
+356
+00:22:17,628 --> 00:22:20,848
+but hopefully, having been
+a good scientist, he kept notes.
+
+357
+00:22:21,048 --> 00:22:22,595
+I would need
+to study Manheim's records.
+
+358
+00:22:22,800 --> 00:22:24,723
+To do that, we're going to have
+to go down there.
+
+359
+00:22:24,927 --> 00:22:26,929
+What about the defense system
+Mrs. Manheim spoke of?
+
+360
+00:22:27,096 --> 00:22:28,894
+It may have been connected
+to the main system.
+
+361
+00:22:29,056 --> 00:22:31,730
+When she lowered the shield,
+she may have turned that off as well.
+
+362
+00:22:31,934 --> 00:22:33,982
+If not,
+we'll deal with it as best we can.
+
+363
+00:22:34,186 --> 00:22:36,280
+Prepare your team
+Aye, sir.
+
+364
+00:22:43,904 --> 00:22:46,578
+RIKER: Coordinates set?
+HERBERT: Yes, sir.
+
+365
+00:22:49,243 --> 00:22:51,086
+Energize.
+
+366
+00:23:02,590 --> 00:23:04,467
+There's a lack of integrity
+at the landing point.
+
+367
+00:23:05,384 --> 00:23:07,102
+[OVER INTERCOM]
+I'm losing them.
+
+368
+00:23:07,303 --> 00:23:09,681
+Bring them back. Now.
+
+369
+00:23:18,480 --> 00:23:20,107
+Chief Herbert, what's going on?
+
+370
+00:23:20,316 --> 00:23:23,820
+There seems to be some kind
+of strange bouncing effect.
+
+371
+00:23:24,695 --> 00:23:26,948
+<i>I can'! get them to materialize.</i>
+
+372
+00:23:27,156 --> 00:23:28,954
+<i>My readings aren't complete.</i>
+
+373
+00:23:29,158 --> 00:23:30,535
+Keep trying-
+
+374
+00:23:46,967 --> 00:23:48,344
+What are we doing back here?
+
+375
+00:23:48,844 --> 00:23:50,892
+You're lucky
+you made it back at all, sir.
+
+376
+00:23:57,603 --> 00:23:59,105
+Where am I?
+
+377
+00:23:59,313 --> 00:24:00,781
+Paul.
+
+378
+00:24:04,109 --> 00:24:05,736
+Thank God.
+
+379
+00:24:05,945 --> 00:24:07,913
+<i>You're on the USS Enterprise.</i>
+
+380
+00:24:08,113 --> 00:24:10,286
+They answered your distress signal.
+
+381
+00:24:10,491 --> 00:24:11,913
+I sent one?
+
+382
+00:24:12,117 --> 00:24:14,370
+Oh, Paul, you're gonna be just fine.
+
+383
+00:24:14,578 --> 00:24:18,879
+No. I'm not fine, Jenice.
+I'm not even close to fine.
+
+384
+00:24:19,083 --> 00:24:21,962
+Bridge, this is Dr. Crusher.
+Professor Manheim is conscious.
+
+385
+00:24:22,169 --> 00:24:24,547
+PAUL: Remember, it was worth it,
+what happened.
+
+386
+00:24:24,755 --> 00:24:27,975
+What will happen, all of it,
+it was all worth it.
+
+387
+00:24:28,842 --> 00:24:31,516
+Again. it's changing again.
+
+388
+00:24:31,720 --> 00:24:33,597
+What is? What do you see?
+
+389
+00:24:33,806 --> 00:24:35,353
+PAUL:
+I'm having difficulty...
+
+390
+00:24:35,557 --> 00:24:37,434
+With what? Are you in pain?
+
+391
+00:24:37,643 --> 00:24:40,066
+I have been on the other side.
+
+392
+00:24:40,270 --> 00:24:42,944
+I have touched another dimension.
+
+393
+00:24:43,148 --> 00:24:45,992
+Part of me is still there.
+
+394
+00:24:46,402 --> 00:24:47,699
+Help him.
+
+395
+00:24:47,903 --> 00:24:49,280
+Try to stay calm, Dr. Manheim.
+
+396
+00:24:49,446 --> 00:24:51,869
+I don't think it's going to help,
+your struggling against it.
+
+397
+00:24:52,074 --> 00:24:54,953
+My mind is ﬂoating
+between two places.
+
+398
+00:24:55,160 --> 00:24:58,380
+It is difficult to know which is which.
+
+399
+00:24:58,872 --> 00:25:01,842
+There is no way to explain it.
+
+400
+00:25:03,168 --> 00:25:06,047
+Dr. Manheim, I'm Captain Picard.
+
+401
+00:25:07,756 --> 00:25:09,133
+The same one?
+
+402
+00:25:12,344 --> 00:25:14,392
+She has told me about you.
+
+403
+00:25:14,596 --> 00:25:17,315
+Not all, but enough.
+
+404
+00:25:17,766 --> 00:25:20,485
+We need your help.
+This situation is not good.
+
+405
+00:25:20,686 --> 00:25:22,154
+It will get worse.
+
+406
+00:25:22,354 --> 00:25:24,231
+What do we do? How do we stop it?
+
+407
+00:25:24,440 --> 00:25:27,785
+I'm having difficulty
+holding the moment.
+
+408
+00:25:27,985 --> 00:25:30,784
+Doctor,
+this is Lieutenant Commander Data.
+
+409
+00:25:30,988 --> 00:25:32,911
+Will you explain the situation to him?
+
+410
+00:25:33,115 --> 00:25:36,710
+I am fully versed, sir, on all your
+theories regarding time and gravity.
+
+411
+00:25:36,910 --> 00:25:39,038
+How is that possible?
+
+412
+00:25:39,246 --> 00:25:42,591
+I am not even fully versed
+on all of my theories.
+
+413
+00:25:42,791 --> 00:25:44,043
+I am an android.
+
+414
+00:25:45,044 --> 00:25:46,796
+Android?
+
+415
+00:25:47,004 --> 00:25:48,506
+On a Starﬂeet vessel?
+
+416
+00:25:49,465 --> 00:25:50,762
+I am the only one, sir.
+
+417
+00:25:50,966 --> 00:25:52,218
+PAUL:
+Your knowledge is useless
+
+418
+00:25:52,384 --> 00:25:56,355
+because the work we have done has
+made most of those theories obsolete.
+
+419
+00:25:56,555 --> 00:25:59,274
+Then you have harnessed
+a dynamic energy source.
+
+420
+00:25:59,475 --> 00:26:01,978
+PAUL:
+Then you do understand, yes.
+
+421
+00:26:02,227 --> 00:26:06,277
+We were able to locate an energy
+source in the center of this planetoid.
+
+422
+00:26:06,774 --> 00:26:10,244
+We learned to enhance it, to focus it.
+
+423
+00:26:11,111 --> 00:26:12,863
+Everything worked too well.
+
+424
+00:26:13,072 --> 00:26:17,248
+The energy from the pulsar,
+the energy from the planetoid...
+
+425
+00:26:17,493 --> 00:26:19,996
+We opened a crack.
+
+426
+00:26:20,204 --> 00:26:23,128
+A window into another dimension.
+
+427
+00:26:23,332 --> 00:26:25,300
+The time distortion we felt.
+
+428
+00:26:25,501 --> 00:26:26,548
+Felt?
+
+429
+00:26:26,752 --> 00:26:29,426
+Then it is not confined
+to the planetoid?
+
+430
+00:26:29,630 --> 00:26:33,260
+The range is at least
+several thousand light years.
+
+431
+00:26:33,467 --> 00:26:35,265
+Captain, it must be stopped.
+
+432
+00:26:35,469 --> 00:26:38,564
+You must help me
+to execute a controlled shutdown
+
+433
+00:26:38,722 --> 00:26:40,144
+of this experiment.
+
+434
+00:26:40,349 --> 00:26:42,397
+Get my notes. They are in the lab.
+
+435
+00:26:43,268 --> 00:26:45,896
+How do we bypass
+the security system?
+
+436
+00:26:46,105 --> 00:26:49,325
+<i>I'll</i> give you the correct coordinates
+to beam safely down to Vandor
+
+437
+00:26:49,525 --> 00:26:55,032
+and the codes you'll need to bypass
+security systems to get into my lab.
+
+438
+00:26:55,239 --> 00:26:56,957
+[GASPS THEN WHIMPERS]
+
+439
+00:26:58,408 --> 00:26:59,955
+[PAUL WHIMPERING]
+
+440
+00:27:04,206 --> 00:27:06,379
+If what the professor has given me
+is accurate,
+
+441
+00:27:06,583 --> 00:27:08,711
+it is possible to repair the damage.
+
+442
+00:27:08,919 --> 00:27:12,674
+But it must be perfectly timed to coincide
+with another time-distortion episode.
+
+443
+00:27:12,881 --> 00:27:14,849
+- Can we predict the timing?
+- I believe so, sir.
+
+444
+00:27:15,050 --> 00:27:17,144
+We have to.
+If we don't seal that hole,
+
+445
+00:27:17,344 --> 00:27:20,518
+this other dimension he's opened
+will rip into the fabric of the galaxy.
+
+446
+00:27:20,722 --> 00:27:23,271
+Reality as we perceive it
+will not be the same.
+
+447
+00:27:23,475 --> 00:27:25,227
+- Lieutenant Worf.
+WORF: Yes, sir?
+
+448
+00:27:25,435 --> 00:27:27,608
+I want those codes
+that Manheim gave Mr. Data
+
+449
+00:27:27,813 --> 00:27:29,440
+rechecked and then checked again.
+
+450
+00:27:29,606 --> 00:27:30,858
+No one is beaming down to Vandor
+
+451
+00:27:31,024 --> 00:27:33,152
+unless we can be reasonably sure
+they can get through.
+
+452
+00:27:33,318 --> 00:27:34,365
+WORF:
+Aye, sir.
+
+453
+00:27:34,528 --> 00:27:36,280
+[DOOR OPENS]
+
+454
+00:27:36,446 --> 00:27:37,823
+I'm sorry for intruding.
+
+455
+00:27:38,031 --> 00:27:39,829
+I was told I'd find you here.
+
+456
+00:27:40,033 --> 00:27:41,876
+You're not intruding.
+We've just finished.
+
+457
+00:27:42,077 --> 00:27:44,205
+Come in. Thank--
+
+458
+00:27:49,710 --> 00:27:51,383
+[DOOR CLOSES]
+
+459
+00:27:53,172 --> 00:27:55,800
+Uh, I knew you wouldn't come to me.
+
+460
+00:27:56,592 --> 00:27:59,186
+No. Not under these circumstances.
+
+461
+00:28:01,305 --> 00:28:03,854
+We have unfinished business.
+
+462
+00:28:04,808 --> 00:28:06,936
+PICARD:
+Yes, we do.
+
+463
+00:28:07,686 --> 00:28:10,485
+Why didn't you come to meet me
+that last day in Paris?
+
+464
+00:28:13,817 --> 00:28:16,866
+- I was afraid.
+- Oh. I didn't want this.
+
+465
+00:28:17,070 --> 00:28:18,868
+- What?
+- The truth.
+
+466
+00:28:19,072 --> 00:28:21,746
+- Oh, you want me to lie?
+- Of course.
+
+467
+00:28:21,950 --> 00:28:23,202
+[CHUCKLES]
+
+468
+00:28:23,368 --> 00:28:26,918
+A nice, soft, painless lie.
+
+469
+00:28:27,122 --> 00:28:30,296
+Oh, I got the days confused. I thought it
+was Tuesday when it was Wednesday.
+
+470
+00:28:30,500 --> 00:28:33,003
+I went to the Café Moulin
+instead of the Cafe des Artistes.
+
+471
+00:28:33,170 --> 00:28:35,889
+Ah. That's better.
+
+472
+00:28:36,548 --> 00:28:38,676
+It was raining
+and you couldn't find <i>a</i> cab.
+
+473
+00:28:38,884 --> 00:28:40,557
+Mm-hm.
+
+474
+00:28:44,056 --> 00:28:46,184
+I waited all day.
+
+475
+00:28:47,392 --> 00:28:49,110
+And it was raining.
+
+476
+00:28:49,311 --> 00:28:50,563
+It rained the rest of the week.
+
+477
+00:28:51,521 --> 00:28:53,444
+I went to Starﬂeet headquarters
+looking for you,
+
+478
+00:28:53,607 --> 00:28:55,860
+but you had already shipped out.
+
+479
+00:28:57,319 --> 00:28:58,946
+So...
+
+480
+00:29:00,280 --> 00:29:02,533
+Come on, Jean-Luc.
+
+481
+00:29:03,742 --> 00:29:05,836
+Let's hear the truth.
+
+482
+00:29:06,453 --> 00:29:08,296
+It was fear.
+
+483
+00:29:10,540 --> 00:29:12,963
+Fear of seeing you
+and losing my resolve.
+
+484
+00:29:13,168 --> 00:29:15,546
+Fear of staying.
+
+485
+00:29:16,421 --> 00:29:18,640
+Losing myself.
+
+486
+00:29:19,591 --> 00:29:23,141
+Fear that neither of these choices
+was right and that...
+
+487
+00:29:24,137 --> 00:29:26,811
+And that either would have...
+
+488
+00:29:26,974 --> 00:29:28,226
+[SIGHS]
+
+489
+00:29:28,642 --> 00:29:34,649
+For a long time, not a day went by
+that I didn't look up into the sky
+
+490
+00:29:35,357 --> 00:29:37,075
+and wonder.
+
+491
+00:29:42,864 --> 00:29:47,244
+Each time that I returned to Earth,
+my thoughts were filled with you.
+
+492
+00:29:47,953 --> 00:29:50,957
+I've thought a lot about this
+over the years,
+
+493
+00:29:51,540 --> 00:29:54,669
+and perhaps you're leaving out
+your greatest fear.
+
+494
+00:29:56,378 --> 00:29:58,380
+The real reason you left.
+
+495
+00:29:58,588 --> 00:29:59,635
+Which was?
+
+496
+00:29:59,840 --> 00:30:06,724
+That life with me would have somehow
+made you ordinary.
+
+497
+00:30:13,020 --> 00:30:14,738
+[SIGHS]
+
+498
+00:30:16,606 --> 00:30:18,608
+[CHUCKLING]
+
+499
+00:30:21,570 --> 00:30:23,618
+You're wonderful.
+
+500
+00:30:23,822 --> 00:30:26,371
+And am I that transparent?
+
+501
+00:30:27,826 --> 00:30:29,669
+Only to me.
+
+502
+00:30:55,270 --> 00:30:58,695
+I wish I could talk to you,
+Professor Manheim.
+
+503
+00:30:59,107 --> 00:31:01,701
+I bet you were really something.
+
+504
+00:31:01,902 --> 00:31:03,904
+[GRUNTING]
+
+505
+00:31:10,994 --> 00:31:12,416
+Deanna.
+
+506
+00:31:12,621 --> 00:31:15,374
+I wanted to see how he was doing.
+
+507
+00:31:16,166 --> 00:31:18,043
+The same.
+
+508
+00:31:19,002 --> 00:31:22,597
+Nothing I do seems
+to make any difference.
+
+509
+00:31:25,592 --> 00:31:28,061
+That's not why you're here.
+
+510
+00:31:29,471 --> 00:31:32,350
+I thought I was the empath.
+
+511
+00:31:39,147 --> 00:31:40,444
+Are you all right?
+
+512
+00:31:40,649 --> 00:31:41,821
+Why wouldn't I be?
+
+513
+00:31:42,025 --> 00:31:46,496
+I've got one of the medical wonders
+of the galaxy dying in my Sickbay.
+
+514
+00:31:46,696 --> 00:31:49,040
+That's not what I meant.
+
+515
+00:31:49,241 --> 00:31:53,337
+I don't think I want to talk
+about what I think you mean.
+
+516
+00:31:53,537 --> 00:31:55,255
+- Captain Picard--
+- I can't compete
+
+517
+00:31:55,455 --> 00:31:58,299
+with a ghost from his past.
+No one could.
+
+518
+00:31:59,000 --> 00:32:00,843
+She's not a ghost.
+
+519
+00:32:01,044 --> 00:32:02,466
+She's here right now.
+
+520
+00:32:02,671 --> 00:32:07,177
+She may be in the here and now,
+but it's the ghost he sees.
+
+521
+00:32:07,759 --> 00:32:11,605
+Excuse me,
+I have to get back to my patient.
+
+522
+00:32:16,017 --> 00:32:17,940
+How soon, Mr. Data?
+
+523
+00:32:18,145 --> 00:32:20,318
+If Dr. Manheim's information
+is correct,
+
+524
+00:32:20,522 --> 00:32:23,275
+by my calculations, the next time,
+distortion should occur
+
+525
+00:32:23,442 --> 00:32:26,070
+between 28 to 47 minutes.
+
+526
+00:32:26,236 --> 00:32:28,159
+CRUSHER [OVER <i>INTERCOM]:
+Bridge, this is Sickbay.</i>
+
+527
+00:32:28,363 --> 00:32:31,492
+Dr. Manheim is awake
+and asking to speak to you, captain.
+
+528
+00:32:31,700 --> 00:32:32,747
+Alone.
+
+529
+00:32:32,951 --> 00:32:35,079
+On my way, doctor.
+
+530
+00:32:41,585 --> 00:32:43,462
+You asked for me.
+
+531
+00:32:45,797 --> 00:32:50,553
+I am not sure that I remembered all
+of the codes for the security system.
+
+532
+00:32:50,760 --> 00:32:53,138
+You should warn anyone
+going down there.
+
+533
+00:32:53,346 --> 00:32:55,269
+Thank you.
+I'll tell them to be cautious.
+
+534
+00:32:56,475 --> 00:33:01,026
+What I really wanted to talk
+to you about is Jenice.
+
+535
+00:33:02,147 --> 00:33:04,616
+Dr. Manheim, I did not come here
+to discuss your wife.
+
+536
+00:33:04,816 --> 00:33:06,363
+It is only this.
+
+537
+00:33:07,861 --> 00:33:11,911
+If anything should go wrong, please,
+
+538
+00:33:13,033 --> 00:33:14,876
+take care of her for me.
+
+539
+00:33:22,459 --> 00:33:24,302
+Of course.
+
+540
+00:33:27,422 --> 00:33:30,175
+She never would admit this,
+
+541
+00:33:31,134 --> 00:33:33,557
+but she has had a terrible time
+these last years.
+
+542
+00:33:34,679 --> 00:33:36,852
+Had we not been so isolated,
+she might have left me
+
+543
+00:33:37,057 --> 00:33:38,559
+and I never would have known.
+
+544
+00:33:38,767 --> 00:33:41,486
+At least, not right away.
+
+545
+00:33:41,686 --> 00:33:45,782
+Perhaps I am not a man
+who should have a woman like her.
+
+546
+00:33:47,859 --> 00:33:50,453
+She deserves better.
+
+547
+00:33:53,031 --> 00:33:55,250
+You underestimate her.
+
+548
+00:33:55,534 --> 00:33:59,414
+I know because I once did.
+
+549
+00:34:06,002 --> 00:34:08,380
+In both cases,
+the time distortions occurred
+
+550
+00:34:08,588 --> 00:34:12,218
+along the same continuum
+as a preview, or a reprise,
+
+551
+00:34:12,384 --> 00:34:14,261
+of a specific point in time.
+
+552
+00:34:14,469 --> 00:34:17,222
+Where we are, where we were,
+and where we will be.
+
+553
+00:34:17,430 --> 00:34:22,277
+Data, I want this
+to be an away team of one. You.
+
+554
+00:34:22,477 --> 00:34:25,321
+I don't think there's any reason
+to risk anyone else.
+
+555
+00:34:25,522 --> 00:34:30,403
+It is reasonable, sir. After all,
+I am a machine and dispensable.
+
+556
+00:34:31,027 --> 00:34:33,780
+"Indispensable"
+is the appropriate word.
+
+557
+00:34:33,989 --> 00:34:35,161
+I think it should be only you
+
+558
+00:34:35,365 --> 00:34:39,495
+because you seem more able to
+control the effects of a time distortion.
+
+559
+00:34:39,703 --> 00:34:42,456
+Oh, I see, sir. That is quite true, sir.
+
+560
+00:34:42,664 --> 00:34:47,044
+I see time as a constant, whereas
+humans perceive time as flexible.
+
+561
+00:34:47,252 --> 00:34:50,552
+Hence the expression
+"Time flies when you're having fun."
+
+562
+00:34:50,755 --> 00:34:53,554
+Which until now
+has always confused me.
+
+563
+00:34:53,800 --> 00:34:59,933
+Well, I want you to put a stitch in time
+and, uh, save much more than nine.
+
+564
+00:35:00,140 --> 00:35:01,767
+Sir?
+
+565
+00:35:01,933 --> 00:35:05,358
+If other members of the away team
+became disoriented,
+
+566
+00:35:05,562 --> 00:35:10,534
+it could create additional problems
+and perhaps increase the danger.
+
+567
+00:35:11,192 --> 00:35:12,819
+I will go immediately, sir.
+
+568
+00:35:14,404 --> 00:35:16,156
+Good luck, Data.
+
+569
+00:35:19,951 --> 00:35:24,548
+All right. We have the coordinates
+exactly <i>as</i> the professor specified.
+
+570
+00:35:45,602 --> 00:35:48,025
+- Enterprise.
+PICARD [OVER RADIO]: Picard.
+
+571
+00:35:48,480 --> 00:35:50,574
+I am proceeding to the lab, sir.
+
+572
+00:35:50,774 --> 00:35:52,947
+<i>PICARD: Maintain an open frequency,
+Mr. Data.</i>
+
+573
+00:35:53,109 --> 00:35:54,702
+Aye, sir.
+
+574
+00:35:57,155 --> 00:35:58,407
+[LASER POWERS UP]
+
+575
+00:36:05,830 --> 00:36:07,832
+[LASERS FIRING OVER RADIO]
+
+576
+00:36:18,301 --> 00:36:20,224
+Mr. Data, what's going on?
+
+577
+00:36:20,470 --> 00:36:24,646
+Dr. Manheim forgot to mention
+one of his security precautions, sir.
+
+578
+00:36:24,849 --> 00:36:27,693
+I am proceeding into the laboratory.
+
+579
+00:37:00,719 --> 00:37:02,972
+<i>PICARD: Mr. Data,
+this channel will remain open.</i>
+
+580
+00:37:03,138 --> 00:37:05,561
+<i>Please continue to report.</i>
+
+581
+00:37:09,352 --> 00:37:12,526
+This appears to be the instrument
+Dr. Manheim described.
+
+582
+00:37:12,731 --> 00:37:15,405
+It should confirm
+when the next time effect will occur.
+
+583
+00:37:15,608 --> 00:37:16,655
+RIKER [OVER RADIO]:
+<i>Data,</i>
+
+584
+00:37:16,860 --> 00:37:18,407
+did Manheim give you
+enough information
+
+585
+00:37:18,570 --> 00:37:19,867
+to decipher the security code?
+
+586
+00:37:20,071 --> 00:37:22,165
+I will know in a moment, sir.
+
+587
+00:37:24,367 --> 00:37:26,870
+According to calculations,
+the next time effect will occur
+
+588
+00:37:27,078 --> 00:37:29,080
+in one minute 30 seconds.
+
+589
+00:37:30,749 --> 00:37:32,547
+What's the next step, Mr. Data?
+
+590
+00:37:32,751 --> 00:37:35,755
+I will need to add a specific amount
+of antimatter
+
+591
+00:37:35,962 --> 00:37:37,964
+to rebalance and align the system.
+
+592
+00:37:38,173 --> 00:37:42,019
+<i>PICARD: Will that plug the hole?
+- Theoretically, yes.</i>
+
+593
+00:37:42,218 --> 00:37:46,223
+In reality, I do not know.
+
+594
+00:37:53,354 --> 00:37:57,234
+When the effect hits,
+the force fields will align,
+
+595
+00:37:57,442 --> 00:38:01,037
+opening a clean, straight path
+to the other dimension.
+
+596
+00:38:01,571 --> 00:38:03,448
+Whatever the time distortion,
+
+597
+00:38:03,615 --> 00:38:07,586
+I must add the antimatter
+at the appropriate moment.
+
+598
+00:38:07,911 --> 00:38:11,290
+Geordi, if the professor was right,
+I will need a 27-second countdown.
+
+599
+00:38:11,498 --> 00:38:13,626
+LA FORGE [OVER RADIO]:
+You've got it, Data.
+
+600
+00:38:14,000 --> 00:38:17,755
+Captain, I now have the antimatter
+
+601
+00:38:17,962 --> 00:38:21,762
+and am moving towards the opening
+at the end of the lab.
+
+602
+00:38:23,134 --> 00:38:27,014
+The next time distortion
+should occur within seconds.
+
+603
+00:38:27,222 --> 00:38:28,849
+Geordi.
+
+604
+00:38:29,432 --> 00:38:32,276
+Begin countdown on my mark.
+
+605
+00:38:36,606 --> 00:38:37,732
+Now!
+
+606
+00:38:37,941 --> 00:38:40,569
+LA FORGE:
+<i>Twenty-seven, 26, 25,</i>
+
+607
+00:38:40,735 --> 00:38:45,411
+<i>- 24, 23, 22,21...
+LA FORGE: Twenty-four, 23, 22, 21...</i>
+
+608
+00:38:45,573 --> 00:38:48,827
+Captain,
+there appear to be three of us.
+
+609
+00:38:49,035 --> 00:38:52,460
+Should I drop the antimatter
+or wait for one of you?
+
+610
+00:38:52,664 --> 00:38:55,713
+Only one of us
+is in the correct time continuum.
+
+611
+00:38:55,917 --> 00:38:57,590
+Which one?
+
+612
+00:38:57,794 --> 00:38:59,512
+Me. it's me.
+
+613
+00:38:59,712 --> 00:39:02,716
+<i>LA FORGE: --six, five, five, five,
+four, four, four, three, three, three,</i>
+
+614
+00:39:02,882 --> 00:39:05,510
+<i>two, two, two, one, one, one.</i>
+
+615
+00:39:08,805 --> 00:39:10,398
+PICARD:
+Data?
+
+616
+00:39:10,765 --> 00:39:13,564
+<i>- Report. Are you all right?
+- Yes, sir.</i>
+
+617
+00:39:13,768 --> 00:39:14,860
+<i>PICARD:
+Is it closed?</i>
+
+618
+00:39:16,896 --> 00:39:18,569
+It is well patched, sir.
+
+619
+00:39:18,773 --> 00:39:22,073
+Closed indicates a permanent
+condition which I cannot guarantee.
+
+620
+00:39:23,403 --> 00:39:26,452
+Patched is good enough. Well done.
+
+621
+00:39:26,656 --> 00:39:28,078
+Beam back immediately.
+
+622
+00:39:29,868 --> 00:39:31,836
+With pleasure, sir.
+
+623
+00:39:35,707 --> 00:39:37,505
+This is amazing.
+
+624
+00:39:37,709 --> 00:39:41,179
+All your readings
+are completely normal.
+
+625
+00:39:42,630 --> 00:39:44,223
+PAUL:
+Where is my wife? Is she all right?
+
+626
+00:39:44,382 --> 00:39:45,804
+She's right here.
+
+627
+00:39:46,009 --> 00:39:48,478
+- Jenice.
+- Paul.
+
+628
+00:39:48,678 --> 00:39:51,898
+The effect has been reversed.
+I can feel it.
+
+629
+00:39:52,098 --> 00:39:53,975
+We're safe.
+
+630
+00:39:54,183 --> 00:39:55,935
+- How is he?
+- He needs rest.
+
+631
+00:39:56,144 --> 00:40:00,741
+There might be some residual effects.
+But other than that, he'll be all right.
+
+632
+00:40:00,940 --> 00:40:04,410
+I feel like I'm coming out
+of a long tunnel.
+
+633
+00:40:04,611 --> 00:40:06,454
+It's there.
+
+634
+00:40:06,654 --> 00:40:09,248
+Not at all like I thought it would be.
+Different.
+
+635
+00:40:10,366 --> 00:40:11,583
+Describe it.
+
+636
+00:40:11,784 --> 00:40:14,708
+I can't. Not yet.
+
+637
+00:40:14,996 --> 00:40:20,344
+The only words that fit are too pale
+because the images are so vibrant.
+
+638
+00:40:20,543 --> 00:40:24,468
+It's not like anything
+anyone has ever experienced before.
+
+639
+00:40:24,672 --> 00:40:29,803
+There was--
+No, no, there is this kind of life.
+
+640
+00:40:30,011 --> 00:40:33,140
+Not like us. Not like this.
+
+641
+00:40:35,600 --> 00:40:37,853
+What's the condition of my lab?
+
+642
+00:40:38,269 --> 00:40:40,988
+Intact, for the most part.
+
+643
+00:40:41,731 --> 00:40:44,325
+Don't tell me we-'re going back.
+
+644
+00:40:44,525 --> 00:40:46,653
+Oh, Jenice, we are so close.
+
+645
+00:40:46,861 --> 00:40:49,364
+We have learned so much
+to walk away.
+
+646
+00:40:49,572 --> 00:40:52,496
+Besides, we owe it to the others,
+our friends.
+
+647
+00:40:52,700 --> 00:40:58,673
+There have been so many sacrifices
+by so many good people.
+
+648
+00:41:01,292 --> 00:41:02,714
+We'll be going back.
+
+649
+00:41:02,877 --> 00:41:05,801
+Mm-hm. Yes, I can see that.
+
+650
+00:41:06,172 --> 00:41:09,642
+I'm sure the Federation will want
+to help in any way that it can.
+
+651
+00:41:10,385 --> 00:41:12,058
+Thank you.
+
+652
+00:41:13,888 --> 00:41:17,313
+This time it will be different.
+
+653
+00:41:17,767 --> 00:41:18,814
+I promise.
+
+654
+00:41:18,977 --> 00:41:20,479
+[JENICE LAUGHS]
+
+655
+00:41:20,645 --> 00:41:22,943
+JENICE:
+It always is, my love.
+
+656
+00:41:23,147 --> 00:41:26,242
+You said my life would never be dull,
+
+657
+00:41:26,567 --> 00:41:28,615
+and it never has been.
+
+658
+00:41:29,821 --> 00:41:30,913
+Thank you.
+
+659
+00:41:42,417 --> 00:41:45,011
+Computer, this is Counselor Troi.
+Request access.
+
+660
+00:41:45,211 --> 00:41:47,384
+<i>COMPUTER: Do you wish
+to terminate the current program?</i>
+
+661
+00:41:47,547 --> 00:41:48,719
+No, continue the program.
+
+662
+00:41:48,923 --> 00:41:50,891
+<i>COMPUTER:
+Enter when ready.</i>
+
+663
+00:41:52,176 --> 00:41:54,395
+The captain is waiting for you inside.
+
+664
+00:42:00,810 --> 00:42:02,153
+How is this possible?
+
+665
+00:42:02,895 --> 00:42:05,068
+It's Paris.
+
+666
+00:42:05,773 --> 00:42:07,821
+Unbelievable.
+
+667
+00:42:09,777 --> 00:42:13,782
+Madame, this way.
+The captain is waiting for you.
+
+668
+00:42:16,868 --> 00:42:18,541
+This is so real.
+
+669
+00:42:18,703 --> 00:42:20,671
+[SPEAKING IN FRENCH]
+
+670
+00:42:20,830 --> 00:42:22,207
+[EDOUARD CHUCKLES]
+
+671
+00:42:23,458 --> 00:42:28,339
+Jean-Luc, don't tell me how you did it.
+I don't care.
+
+672
+00:42:29,047 --> 00:42:31,220
+It's perfect.
+
+673
+00:42:31,799 --> 00:42:34,598
+It's as if we were really there.
+
+674
+00:42:38,931 --> 00:42:42,606
+I wanted to say goodbye properly
+this time.
+
+675
+00:42:49,067 --> 00:42:51,490
+I shall always picture you here.
+
+676
+00:42:58,159 --> 00:43:01,629
+I expect you to always come charging
+to my rescue.
+
+677
+00:43:02,330 --> 00:43:04,082
+I'll do my best.
+
+678
+00:43:07,001 --> 00:43:08,719
+Goodbye, Jean-Luc.
+
+679
+00:43:10,171 --> 00:43:11,798
+Be well.
+
+680
+00:43:12,548 --> 00:43:14,095
+And you.
+
+681
+00:43:14,300 --> 00:43:16,302
+Thank you for Paris.
+
+682
+00:43:25,686 --> 00:43:29,657
+Well, so much
+for my dramatically romantic exit.
+
+683
+00:43:55,383 --> 00:43:57,886
+- Is anything wrong?
+- No, sir.
+
+684
+00:43:58,678 --> 00:44:00,646
+PICARD:
+Then set course for Sarona VIII.
+
+685
+00:44:02,223 --> 00:44:06,103
+As I remember, we were on our way
+for some much-needed shore leave.
+
+686
+00:44:06,769 --> 00:44:08,612
+Course plotted and laid in, sir.
+
+687
+00:44:08,813 --> 00:44:10,781
+Warp 5.
+
+688
+00:44:11,190 --> 00:44:13,033
+Engage.
+
+689
+00:44:13,734 --> 00:44:16,112
+I've only been there once,
+but they've got this great club.
+
+690
+00:44:16,320 --> 00:44:19,039
+I don't remember the name of it.
+They serve those blue concoctions.
+
+691
+00:44:19,490 --> 00:44:22,243
+It's across the square
+from the Zanza Men's Dance Palace.
+
+692
+00:44:24,495 --> 00:44:28,875
+It's called the Blue Parrot Café,
+and you're buying.
+

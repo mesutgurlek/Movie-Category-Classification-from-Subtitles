@@ -1,0 +1,2323 @@
+﻿1
+00:00:00,357 --> 00:00:03,436
+<i>(Announcer) Previously on
+AMC's "The Walking Dead..."</i>
+
+2
+00:00:03,603 --> 00:00:05,729
+You're well-equipped,
+but your provisions are low.
+
+3
+00:00:05,849 --> 00:00:07,569
+<i>I'm from a place that's
+a lot like this one.</i>
+
+4
+00:00:07,634 --> 00:00:09,851
+<i>We might be in a position
+to help each other.</i>
+
+5
+00:00:09,937 --> 00:00:11,219
+<i>This is Gregory.</i>
+
+6
+00:00:11,305 --> 00:00:12,804
+I'm the boss.
+
+7
+00:00:12,890 --> 00:00:13,972
+They still have Craig.
+
+8
+00:00:14,091 --> 00:00:14,806
+Negan?
+
+9
+00:00:14,892 --> 00:00:15,941
+They said they'd
+return him to us,
+
+10
+00:00:16,059 --> 00:00:17,058
+if I delivered a message to you.
+
+11
+00:00:17,194 --> 00:00:19,060
+<i>You give us supplies,</i>
+
+12
+00:00:19,146 --> 00:00:20,346
+we'll save Craig and take care
+
+13
+00:00:20,397 --> 00:00:21,563
+of Negan and the saviors.
+
+14
+00:00:21,698 --> 00:00:22,898
+Done.
+
+15
+00:00:22,983 --> 00:00:25,150
+We need to know what you
+know about Negan's compound.
+
+16
+00:00:25,235 --> 00:00:26,235
+We need you to come.
+
+17
+00:00:26,286 --> 00:00:26,902
+It's gonna be a fight.
+
+18
+00:00:27,037 --> 00:00:35,037
+Oh, well.
+<i>( Music playing )</i>
+
+19
+00:00:45,689 --> 00:00:49,524
+<i>♪ Well, I came along to find
+a little peace of mind ♪</i>
+
+20
+00:00:49,526 --> 00:00:51,359
+<i>♪ Neglected all my duties ♪</i>
+
+21
+00:00:51,361 --> 00:00:52,761
+<i>♪ Stepping off
+that straightened line ♪</i>
+
+22
+00:00:52,763 --> 00:00:55,063
+<i>♪ Now I just sit
+by my front door ♪</i>
+
+23
+00:00:55,065 --> 00:00:56,798
+<i>♪ Filled with indolence
+and sounds ♪</i>
+
+24
+00:00:56,800 --> 00:01:00,368
+<i>♪ It's like I'm watching
+the weeds grow on my brow ♪</i>
+
+25
+00:01:00,370 --> 00:01:04,139
+<i>♪ And I had a pure potential
+and a soiled white shirt ♪</i>
+
+26
+00:01:04,141 --> 00:01:07,542
+<i>♪ With love enough to kill me,
+but was unsure of its worth... ♪</i>
+
+27
+00:01:07,544 --> 00:01:09,678
+<i>- ( walker snarling )
+- ♪ And though the night is sweetened ♪</i>
+
+28
+00:01:09,680 --> 00:01:11,012
+<i>♪ By some rising
+of the moon ♪</i>
+
+29
+00:01:11,014 --> 00:01:12,847
+<i>♪ I've lived enough
+to know ♪</i>
+
+30
+00:01:12,849 --> 00:01:14,065
+<i>♪ The battle's
+never through... ♪</i>
+
+31
+00:01:14,067 --> 00:01:16,401
+( snarling )
+
+32
+00:01:16,403 --> 00:01:18,853
+<i>♪ You pass something down,
+no matter where or how ♪</i>
+
+33
+00:01:18,855 --> 00:01:22,440
+<i>♪ Will there be weeds or wildflowers
+affixed upon your bows ♪</i>
+
+34
+00:01:22,442 --> 00:01:25,994
+<i>♪ And there's a crooked burning
+cigarette rolling on your tongue ♪</i>
+
+35
+00:01:25,996 --> 00:01:29,247
+<i>♪ Will there be weeds or
+wildflowers when you're done? ♪</i>
+
+36
+00:01:44,681 --> 00:01:46,881
+<i>♪ Remember, you travel
+through the desert ♪</i>
+
+37
+00:01:46,883 --> 00:01:48,767
+<i>♪ You travel to the sea ♪</i>
+
+38
+00:01:48,769 --> 00:01:52,220
+<i>♪ Looking out on some horizon,
+asking what you made of me ♪</i>
+
+39
+00:01:52,222 --> 00:01:55,957
+<i>♪ And we all hang around
+with a free untold mind ♪</i>
+
+40
+00:01:55,959 --> 00:01:59,361
+<i>♪ While all
+of our branches entwine ♪</i>
+
+41
+00:01:59,363 --> 00:02:03,298
+<i>♪ And as I watch the brick
+erode within a day ♪</i>
+
+42
+00:02:03,300 --> 00:02:06,951
+<i>♪ The leaves changing colors
+and the loft fills with hay ♪</i>
+
+43
+00:02:06,953 --> 00:02:10,739
+<i>♪ And as a blade of sunshine
+cuts across my chest ♪</i>
+
+44
+00:02:10,741 --> 00:02:14,609
+<i>♪ The blood beneath
+boils with unrest ♪</i>
+
+45
+00:02:14,611 --> 00:02:17,912
+<i>♪ You pass something down,
+no matter where or how ♪</i>
+
+46
+00:02:17,914 --> 00:02:21,633
+<i>♪ Will there be weeds or wildflowers
+affixed upon your bows ♪</i>
+
+47
+00:02:21,635 --> 00:02:25,320
+<i>♪ And there's a crooked burning
+cigarette rolling on your tongue ♪</i>
+
+48
+00:02:25,322 --> 00:02:29,891
+<i>♪ Will there be weeds or
+wildflowers when you're done? ♪</i>
+
+49
+00:02:29,893 --> 00:02:32,293
+<i>( knocks )</i>
+
+50
+00:02:34,923 --> 00:02:37,098
+- Hey, Carol.
+- Tobin.
+
+51
+00:02:37,100 --> 00:02:40,201
+You deserve some cookies.
+
+52
+00:02:40,203 --> 00:02:42,570
+Oh, no, not with
+the kids as hungry--
+
+53
+00:02:42,572 --> 00:02:45,940
+No, there's plenty.
+I foraged a lot of acorns.
+
+54
+00:02:51,548 --> 00:02:54,115
+- They're pink.
+- Beets.
+
+55
+00:02:54,117 --> 00:02:56,167
+- Beets?
+- It's what makes them sweet.
+
+56
+00:02:56,169 --> 00:02:58,870
+Oh.
+
+57
+00:02:58,872 --> 00:03:01,623
+I never was much
+of a beet kind of guy.
+
+58
+00:03:01,625 --> 00:03:03,591
+Will you just put it
+in your mouth, jerk.
+
+59
+00:03:14,656 --> 00:03:19,974
+They're the best beet and acorn
+cookies I've ever eaten.
+
+60
+00:03:21,645 --> 00:03:22,977
+Are you screwing with me?
+
+61
+00:03:22,979 --> 00:03:25,146
+No.
+
+62
+00:03:25,148 --> 00:03:27,816
+Seriously.
+
+63
+00:03:27,818 --> 00:03:29,284
+They're amazing.
+
+64
+00:03:29,286 --> 00:03:31,069
+Sasha:
+<i>They're back!</i>
+
+65
+00:03:48,338 --> 00:03:50,338
+- ( engine stops )
+- Get Olivia.
+
+66
+00:03:50,340 --> 00:03:52,340
+She should inventory
+what we have.
+
+67
+00:03:52,342 --> 00:03:53,612
+We'll meet her at the pantry.
+
+68
+00:03:53,739 --> 00:03:55,973
+- You have food?
+- Yeah.
+
+69
+00:03:55,975 --> 00:03:59,293
+Enough for another month.
+
+70
+00:03:59,295 --> 00:04:01,662
+Rick: <i>I need everybody in
+the church in an hour.</i>
+
+71
+00:04:01,664 --> 00:04:02,847
+What is it?
+
+72
+00:04:02,849 --> 00:04:05,249
+We'll talk about it.
+
+73
+00:04:05,251 --> 00:04:07,501
+<i>( engine starts )</i>
+
+74
+00:04:09,388 --> 00:04:12,139
+Rick, what's going on?
+
+75
+00:04:13,759 --> 00:04:15,392
+We're gonna have to fight.
+
+76
+00:04:35,531 --> 00:04:38,582
+<i>( thunder rumbling )</i>
+
+77
+00:04:52,265 --> 00:04:54,682
+It's been a while.
+
+78
+00:04:54,684 --> 00:04:56,467
+Weeks.
+
+79
+00:04:56,469 --> 00:04:59,803
+- Since what?
+- Since we talked.
+
+80
+00:04:59,805 --> 00:05:02,189
+That's what we did in that cell?
+We talked.
+
+81
+00:05:07,013 --> 00:05:09,980
+Why didn't you tell Rick?
+
+82
+00:05:09,982 --> 00:05:13,317
+Tara, Rosita, Eugene?
+
+83
+00:05:13,319 --> 00:05:17,588
+- Why didn't they...?
+- I told them to keep quiet about it.
+
+84
+00:05:17,590 --> 00:05:19,456
+Why?
+
+85
+00:05:19,458 --> 00:05:21,992
+Can we just forget it,
+move past it?
+
+86
+00:05:24,163 --> 00:05:25,746
+You don't have to carry that.
+
+87
+00:05:25,748 --> 00:05:27,331
+Carry what?
+
+88
+00:05:27,333 --> 00:05:30,000
+You know what I did.
+
+89
+00:05:30,002 --> 00:05:31,669
+You don't want
+to tell anyone, it--
+
+90
+00:05:35,224 --> 00:05:37,241
+it's kind of like
+you did it, too.
+
+91
+00:05:37,243 --> 00:05:39,727
+No, it's not.
+
+92
+00:05:43,182 --> 00:05:45,816
+Just go.
+
+93
+00:06:10,910 --> 00:06:13,794
+<i>( theme music playing )</i>
+
+94
+00:06:35,262 --> 00:06:45,262
+Sync & corrections by honeybunny
+www.addic7ed.com
+
+95
+00:06:48,780 --> 00:06:51,360
+Rick: <i>And we can work
+with the Hilltop.</i>
+
+96
+00:06:51,360 --> 00:06:53,650
+<i>Maggie hammered out a deal.</i>
+
+97
+00:06:53,650 --> 00:06:55,720
+<i>We're getting food--</i>
+
+98
+00:06:55,720 --> 00:06:58,790
+<i>eggs, butter, fresh vegetables.</i>
+
+99
+00:06:58,790 --> 00:07:02,090
+<i>But they're not
+just giving it away.</i>
+
+100
+00:07:02,090 --> 00:07:04,680
+<i>These Saviors,</i>
+
+101
+00:07:04,680 --> 00:07:07,930
+<i>they almost killed Sasha,
+Daryl, and Abraham on the road.</i>
+
+102
+00:07:07,930 --> 00:07:10,550
+<i>Now, sooner or later,
+they would've found us,</i>
+
+103
+00:07:10,550 --> 00:07:12,470
+<i>just like those Wolves did,</i>
+
+104
+00:07:12,470 --> 00:07:14,300
+<i>just like Jesus did.</i>
+
+105
+00:07:14,300 --> 00:07:17,940
+<i>They woulda killed someone
+or some of us.</i>
+
+106
+00:07:17,940 --> 00:07:20,730
+And then they
+would try to own us.
+
+107
+00:07:20,730 --> 00:07:23,980
+And we would try to stop them.
+
+108
+00:07:23,980 --> 00:07:26,650
+<i>But by then,
+in that kind of fight,</i>
+
+109
+00:07:26,650 --> 00:07:30,790
+<i>low on food, we could lose.</i>
+
+110
+00:07:30,790 --> 00:07:32,740
+<i>This is the only way to be sure,</i>
+
+111
+00:07:32,740 --> 00:07:35,290
+<i>as sure as we can get,
+that we win.</i>
+
+112
+00:07:35,290 --> 00:07:37,740
+<i>And we have to win.</i>
+
+113
+00:07:39,630 --> 00:07:41,500
+<i>We do this for the Hilltop,</i>
+
+114
+00:07:41,500 --> 00:07:43,910
+it's how we keep this place.
+
+115
+00:07:43,920 --> 00:07:46,420
+It's how we feed this place.
+
+116
+00:07:47,670 --> 00:07:49,670
+<i>This needs to be
+a group decision.</i>
+
+117
+00:07:51,670 --> 00:07:56,310
+If anybody objects, here's
+your chance to say your piece.
+
+118
+00:08:05,190 --> 00:08:07,020
+You're sure we can do it?
+
+119
+00:08:11,440 --> 00:08:12,690
+We can beat them?
+
+120
+00:08:14,500 --> 00:08:17,080
+What this group has done,
+what we've learned,
+
+121
+00:08:17,080 --> 00:08:19,200
+what we've become,
+all of us--
+
+122
+00:08:19,200 --> 00:08:21,500
+yes, I'm sure.
+
+123
+00:08:21,500 --> 00:08:23,700
+Then all we have to do
+is just tell them that.
+
+124
+00:08:23,710 --> 00:08:25,370
+<i>Well, they don't compromise.</i>
+
+125
+00:08:25,380 --> 00:08:29,180
+This isn't a compromise.
+
+126
+00:08:29,180 --> 00:08:31,460
+It's a choice you give them.
+
+127
+00:08:31,460 --> 00:08:33,580
+It's a way out,
+for them and for us.
+
+128
+00:08:33,580 --> 00:08:35,350
+Rick: <i>We try and
+talk to the Saviors,</i>
+
+129
+00:08:35,350 --> 00:08:37,650
+<i>we give up our advantage,
+our safety.</i>
+
+130
+00:08:37,650 --> 00:08:42,390
+No, we have to come for them
+before they come for us.
+
+131
+00:08:42,390 --> 00:08:44,810
+We can't leave them alive.
+
+132
+00:08:44,810 --> 00:08:47,650
+Where there's life,
+there's possibility.
+
+133
+00:08:47,650 --> 00:08:48,980
+Of them hitting us.
+
+134
+00:08:48,980 --> 00:08:50,700
+Morgan:
+<i>We're not trapped in this.</i>
+
+135
+00:08:50,700 --> 00:08:52,780
+None of you are trapped in this.
+
+136
+00:08:55,340 --> 00:08:56,840
+Rick:
+<i>Morgan...</i>
+
+137
+00:08:56,840 --> 00:09:00,120
+they always come back.
+
+138
+00:09:00,130 --> 00:09:02,580
+Come back
+when they're dead, too.
+
+139
+00:09:02,580 --> 00:09:04,580
+Yeah, we'll stop them.
+We have before.
+
+140
+00:09:04,580 --> 00:09:08,550
+I'm not talking
+about the walkers.
+
+141
+00:09:08,550 --> 00:09:12,000
+Morgan wants
+to talk to them first.
+
+142
+00:09:12,000 --> 00:09:14,590
+I think that would be a mistake,
+
+143
+00:09:14,590 --> 00:09:16,170
+<i>but it's not up to me.</i>
+
+144
+00:09:16,180 --> 00:09:17,930
+<i>I'll talk to the people
+still at home.</i>
+
+145
+00:09:17,930 --> 00:09:20,330
+<i>I'll discuss it
+with the people on guard now, too,</i>
+
+146
+00:09:20,330 --> 00:09:25,070
+but who else wants to approach
+the Saviors, talk to them first?
+
+147
+00:09:25,070 --> 00:09:27,770
+What happened here,
+
+148
+00:09:27,770 --> 00:09:29,520
+<i>we won't let that happen again.</i>
+
+149
+00:09:32,020 --> 00:09:33,370
+I won't.
+
+150
+00:09:46,660 --> 00:09:48,320
+Looks like it's settled.
+
+151
+00:09:50,330 --> 00:09:52,130
+<i>We know exactly what this is.</i>
+
+152
+00:09:52,130 --> 00:09:55,850
+We don't shy from it, we live.
+
+153
+00:09:57,770 --> 00:09:59,300
+We kill them all.
+
+154
+00:10:07,140 --> 00:10:09,980
+<i>We don't all have to kill.</i>
+
+155
+00:10:09,980 --> 00:10:12,860
+But if people
+are gonna stay here...
+
+156
+00:10:15,230 --> 00:10:16,730
+they do have to accept it.
+
+157
+00:10:31,970 --> 00:10:33,670
+( sighs )
+
+158
+00:11:08,640 --> 00:11:11,440
+We need someone on the
+perimeter keeping watch.
+
+159
+00:11:11,440 --> 00:11:13,940
+That could be me.
+
+160
+00:11:13,940 --> 00:11:16,040
+- That would be safe.
+- ( scoffs )
+
+161
+00:11:16,050 --> 00:11:17,340
+Safer.
+
+162
+00:11:22,250 --> 00:11:24,270
+Whatever safer looks like now.
+
+163
+00:11:24,270 --> 00:11:25,690
+Yeah.
+
+164
+00:11:26,970 --> 00:11:29,220
+I made that deal.
+
+165
+00:11:29,230 --> 00:11:32,810
+It wasn't my idea,
+but I led us into this.
+
+166
+00:11:35,820 --> 00:11:37,200
+I have to come.
+
+167
+00:11:40,570 --> 00:11:43,990
+<i>( crickets chirping )</i>
+
+168
+00:11:43,990 --> 00:11:46,820
+Those things'll kill you.
+
+169
+00:11:46,830 --> 00:11:49,710
+You got another one?
+
+170
+00:11:49,710 --> 00:11:51,710
+Not for you.
+
+171
+00:11:51,710 --> 00:11:53,250
+And why is that?
+
+172
+00:11:53,250 --> 00:11:55,220
+'Cause, asshole.
+
+173
+00:11:55,220 --> 00:11:57,920
+( chuckles )
+Okay.
+
+174
+00:11:59,340 --> 00:12:01,560
+Couldn't sleep either?
+
+175
+00:12:01,560 --> 00:12:03,510
+I never could sleep.
+
+176
+00:12:10,900 --> 00:12:12,930
+Worried about tomorrow.
+
+177
+00:12:12,940 --> 00:12:14,990
+You going?
+
+178
+00:12:14,990 --> 00:12:17,400
+No.
+
+179
+00:12:17,410 --> 00:12:18,660
+You are.
+
+180
+00:12:22,580 --> 00:12:25,650
+You can
+do things that--
+
+181
+00:12:27,050 --> 00:12:29,320
+that just terrify me.
+
+182
+00:12:34,710 --> 00:12:36,290
+How?
+
+183
+00:12:39,460 --> 00:12:42,380
+How do you think
+I do those things?
+
+184
+00:12:45,690 --> 00:12:47,970
+You're a mom.
+
+185
+00:12:47,970 --> 00:12:49,640
+I was.
+
+186
+00:12:51,470 --> 00:12:54,110
+You<i> are.</i>
+
+187
+00:12:54,110 --> 00:12:56,060
+It-- it--
+
+188
+00:12:56,060 --> 00:12:59,950
+it's not the cookies
+or the smiles.
+
+189
+00:12:59,950 --> 00:13:01,780
+It's--
+
+190
+00:13:01,780 --> 00:13:04,280
+it's the hard stuff.
+
+191
+00:13:05,710 --> 00:13:08,570
+The scary stuff.
+
+192
+00:13:08,570 --> 00:13:11,990
+It's how you can do it.
+
+193
+00:13:14,050 --> 00:13:15,580
+It's strength.
+
+194
+00:13:17,470 --> 00:13:21,670
+You're a mom to most
+of the people here.
+
+195
+00:13:27,480 --> 00:13:29,060
+To you, too?
+
+196
+00:13:32,580 --> 00:13:33,980
+No.
+
+197
+00:13:36,690 --> 00:13:38,850
+You're something else to me.
+
+198
+00:13:57,870 --> 00:13:59,870
+Well, it's not tomorrow yet.
+
+199
+00:14:03,760 --> 00:14:05,960
+Packing your stilettos?
+
+200
+00:14:05,970 --> 00:14:07,300
+We'll only be gone a night.
+
+201
+00:14:07,300 --> 00:14:08,600
+I'm going.
+
+202
+00:14:08,600 --> 00:14:10,550
+I am, too, but tomorrow.
+
+203
+00:14:13,140 --> 00:14:15,440
+I'm leaving.
+
+204
+00:14:22,870 --> 00:14:24,230
+Why?
+
+205
+00:14:24,230 --> 00:14:25,980
+<i>It happens.</i>
+
+206
+00:14:29,460 --> 00:14:31,070
+Are you serious?
+
+207
+00:14:31,070 --> 00:14:32,770
+This is how I want it.
+
+208
+00:14:34,740 --> 00:14:37,410
+- Why?
+- Why are dingleberries brown?
+
+209
+00:14:37,410 --> 00:14:39,580
+It's just the way shit is.
+
+210
+00:14:39,580 --> 00:14:41,580
+No, no. After everything
+we've been through,
+
+211
+00:14:41,580 --> 00:14:44,420
+you are not walking out that
+door unless you can tell me why.
+
+212
+00:14:44,420 --> 00:14:46,140
+Tell me!
+
+213
+00:14:46,140 --> 00:14:48,220
+Tell me why!
+
+214
+00:14:48,220 --> 00:14:50,140
+When I first met you,
+
+215
+00:14:50,140 --> 00:14:52,980
+I thought you were
+the last woman on Earth.
+
+216
+00:14:54,560 --> 00:14:56,260
+You're not.
+
+217
+00:15:00,440 --> 00:15:03,270
+( sobbing )
+
+218
+00:15:21,120 --> 00:15:24,120
+You try one of these?
+They're chewy.
+
+219
+00:15:24,130 --> 00:15:26,460
+They, uh...
+
+220
+00:15:26,460 --> 00:15:27,930
+got some fight in them.
+
+221
+00:15:34,970 --> 00:15:36,440
+Rick:
+<i>Describe it.</i>
+
+222
+00:15:36,440 --> 00:15:39,360
+Andy: Rectangular building,
+big satellites on it.
+
+223
+00:15:39,360 --> 00:15:42,140
+- Rick:<i> Any windows?</i>
+- I don't remember any.
+
+224
+00:15:42,140 --> 00:15:44,140
+I think they made it
+so there's only one way in.
+
+225
+00:15:44,150 --> 00:15:46,480
+Rick:
+<i>Guards outside?</i>
+
+226
+00:15:46,480 --> 00:15:48,820
+Yeah, two of them, at least.
+
+227
+00:15:48,820 --> 00:15:51,030
+Michonne: <i>And you don't know
+how many people they have?</i>
+
+228
+00:15:51,040 --> 00:15:52,490
+No.
+
+229
+00:15:54,410 --> 00:15:57,240
+Uh, I mean, no. I saw a place
+where they stored food.
+
+230
+00:15:57,240 --> 00:15:58,880
+It wasn't that big, so...
+
+231
+00:15:58,880 --> 00:16:01,960
+- Rick:<i> You've been inside?</i>
+- Yeah.
+
+232
+00:16:01,960 --> 00:16:03,830
+They had us load in
+supplies one time.
+
+233
+00:16:03,830 --> 00:16:06,330
+Glenn: Hmm.
+What do you remember?
+
+234
+00:16:08,300 --> 00:16:10,000
+Are you worried?
+
+235
+00:16:10,010 --> 00:16:11,670
+No.
+
+236
+00:16:13,760 --> 00:16:15,890
+No, it's just...
+
+237
+00:16:15,900 --> 00:16:20,180
+I love you, and I just
+wanted to say it before--
+
+238
+00:16:20,180 --> 00:16:22,680
+you don't have to say it back.
+
+239
+00:16:22,690 --> 00:16:24,150
+It's--
+
+240
+00:16:24,150 --> 00:16:27,020
+I'll say it when you come back.
+
+241
+00:16:27,020 --> 00:16:29,360
+Heath and I are still
+going on that two-weeker.
+
+242
+00:16:29,360 --> 00:16:32,860
+We're gonna leave from there.
+
+243
+00:16:32,860 --> 00:16:34,530
+Do you want to come?
+
+244
+00:16:34,530 --> 00:16:38,080
+I mean, I can change it so we
+don't leave from the compound.
+
+245
+00:16:38,080 --> 00:16:39,620
+We could come back and we
+could leave from here.
+
+246
+00:16:39,620 --> 00:16:42,200
+- You know, we're gonna get meds, so...
+- I can't.
+
+247
+00:16:42,200 --> 00:16:45,210
+- No, I didn't-- I'm-- I just-- I need to be here.
+- Yeah.
+
+248
+00:16:45,210 --> 00:16:47,260
+I'm the only doctor now.
+
+249
+00:16:47,260 --> 00:16:48,790
+So I can't.
+
+250
+00:16:48,790 --> 00:16:50,460
+Yeah.
+
+251
+00:16:55,800 --> 00:16:57,300
+But I want to.
+
+252
+00:16:57,300 --> 00:16:59,300
+( soft laugh )
+
+253
+00:17:01,270 --> 00:17:03,060
+I'll tell you
+when you come back.
+
+254
+00:17:03,060 --> 00:17:05,730
+( both laugh )
+
+255
+00:17:05,730 --> 00:17:07,140
+Yeah.
+
+256
+00:17:15,400 --> 00:17:17,320
+Maggie: <i>And you didn't
+see any other rooms?</i>
+
+257
+00:17:17,320 --> 00:17:20,410
+Andy:
+No, it's a big place.
+
+258
+00:17:20,410 --> 00:17:22,410
+This is the hallway I saw.
+
+259
+00:17:22,410 --> 00:17:24,080
+There is more.
+
+260
+00:17:24,080 --> 00:17:27,880
+And every time, they had you
+bring things into here?
+
+261
+00:17:27,880 --> 00:17:30,330
+Jesus.
+
+262
+00:17:30,340 --> 00:17:31,890
+We brought a couple
+spears for them.
+
+263
+00:17:31,890 --> 00:17:34,390
+Two of the Saviors took
+them down this hallway.
+
+264
+00:17:34,390 --> 00:17:36,340
+Now, they must've
+done something with them
+
+265
+00:17:36,340 --> 00:17:38,180
+because they didn't
+come back with them.
+
+266
+00:17:38,180 --> 00:17:41,090
+Jesus: <i>Maybe a weapons
+locker, an armory.</i>
+
+267
+00:17:41,100 --> 00:17:42,260
+Okay.
+
+268
+00:17:42,260 --> 00:17:45,230
+We get in there,
+secure the armory,
+
+269
+00:17:45,230 --> 00:17:47,100
+that's how we end it.
+
+270
+00:17:47,100 --> 00:17:49,600
+That's how Carol ended it here.
+
+271
+00:17:52,780 --> 00:17:56,410
+But we don't know if they have
+an armory or where it even is.
+
+272
+00:17:56,410 --> 00:17:59,500
+Well, we've got
+a lot of good guesses.
+
+273
+00:17:59,500 --> 00:18:01,200
+We've done more with less.
+
+274
+00:18:01,200 --> 00:18:03,500
+We go in at night
+while they're sleeping.
+
+275
+00:18:03,500 --> 00:18:06,290
+The guards won't be sleeping.
+
+276
+00:18:06,290 --> 00:18:09,120
+Like I said, I think
+there's only one way in
+
+277
+00:18:09,120 --> 00:18:10,340
+and there's no way
+to bust through that door
+
+278
+00:18:10,340 --> 00:18:11,840
+<i>without waking up
+the rest of them.</i>
+
+279
+00:18:11,840 --> 00:18:14,010
+We don't need to.
+
+280
+00:18:14,010 --> 00:18:17,100
+They're going to open it for
+us, let us walk right in.
+
+281
+00:18:18,430 --> 00:18:20,680
+They want Gregory's head, right?
+
+282
+00:18:24,190 --> 00:18:26,060
+We're gonna give it to them.
+
+283
+00:18:33,280 --> 00:18:35,580
+<i>( brakes squealing )</i>
+
+284
+00:18:41,540 --> 00:18:43,710
+( engine stops )
+
+285
+00:18:43,710 --> 00:18:47,800
+( horns honk )
+
+286
+00:18:52,240 --> 00:18:55,390
+Aaron, Rosita.
+
+287
+00:18:55,390 --> 00:18:58,640
+You start here.
+
+288
+00:18:58,640 --> 00:19:01,080
+We'll peel off
+every quarter mile,
+
+289
+00:19:01,080 --> 00:19:04,150
+meet back here
+in a couple of hours.
+
+290
+00:19:04,150 --> 00:19:05,980
+See what we got.
+
+291
+00:19:09,990 --> 00:19:12,960
+There's no turning back now.
+
+292
+00:19:12,960 --> 00:19:15,490
+I could walk.
+
+293
+00:19:15,490 --> 00:19:18,830
+Maybe run a little, maybe a lot.
+
+294
+00:19:18,830 --> 00:19:20,800
+I'm not going anywhere.
+
+295
+00:19:20,800 --> 00:19:23,250
+I wanted to learn and you
+taught me for a reason.
+
+296
+00:19:26,870 --> 00:19:29,300
+Why are you still wearing that?
+
+297
+00:19:32,390 --> 00:19:34,680
+It's still who I was.
+
+298
+00:19:34,680 --> 00:19:36,680
+I think.
+
+299
+00:19:38,400 --> 00:19:40,850
+And it'll be harder for
+them to see me in the dark.
+
+300
+00:19:40,850 --> 00:19:42,680
+( chuckles )
+
+301
+00:19:54,530 --> 00:19:57,030
+I almost told everyone
+at the meeting.
+
+302
+00:19:57,030 --> 00:19:59,540
+We're not telling them.
+
+303
+00:19:59,540 --> 00:20:02,570
+Morgan stood up in that church and
+tried to talk us out of this.
+
+304
+00:20:02,570 --> 00:20:04,570
+What's wrong with that?
+
+305
+00:20:04,580 --> 00:20:07,380
+Maybe that he didn't know what
+the hell he's talking about?
+
+306
+00:20:07,380 --> 00:20:09,280
+That he should take the win
+
+307
+00:20:09,280 --> 00:20:11,010
+that we didn't kick his ass out
+for hiding that psychopath.
+
+308
+00:20:11,020 --> 00:20:13,800
+If we told everyone, they'd find
+out about Denise, you know that.
+
+309
+00:20:15,520 --> 00:20:17,640
+That<i> hijo de puta</i>
+tried to stand there
+
+310
+00:20:17,640 --> 00:20:20,290
+and act like we didn't
+know what we were--
+
+311
+00:20:20,290 --> 00:20:21,860
+He doesn't want to kill.
+
+312
+00:20:21,860 --> 00:20:24,640
+We don't want to kill.
+We don't like it.
+
+313
+00:20:24,650 --> 00:20:26,830
+It happens.
+
+314
+00:20:32,870 --> 00:20:34,470
+I'm not telling anyone.
+
+315
+00:20:53,420 --> 00:20:55,590
+( snarling )
+
+316
+00:21:17,250 --> 00:21:18,580
+What do you think?
+
+317
+00:21:18,580 --> 00:21:20,350
+Maybe.
+
+318
+00:21:21,550 --> 00:21:24,670
+If we, um, cut the hair...
+
+319
+00:21:25,720 --> 00:21:28,620
+<i>trim the beard.</i>
+
+320
+00:21:28,630 --> 00:21:30,460
+<i>If it's dark.</i>
+
+321
+00:21:34,880 --> 00:21:37,600
+We're gonna kill those people.
+
+322
+00:21:37,600 --> 00:21:39,020
+Tonight.
+
+323
+00:21:41,020 --> 00:21:42,940
+Look, I've been lucky.
+
+324
+00:21:42,940 --> 00:21:46,240
+I haven't had to do it before.
+
+325
+00:21:46,240 --> 00:21:48,140
+Have you?
+
+326
+00:21:48,150 --> 00:21:51,150
+I've been lucky, too.
+
+327
+00:21:51,150 --> 00:21:52,410
+You nervous?
+
+328
+00:21:56,650 --> 00:22:00,710
+Have you ever seen
+something that, um...
+
+329
+00:22:00,710 --> 00:22:03,990
+afterwards, you--
+
+330
+00:22:03,990 --> 00:22:06,960
+you didn't want to sleep
+
+331
+00:22:06,960 --> 00:22:10,000
+and you weren't hungry because
+when you close your eyes
+
+332
+00:22:10,000 --> 00:22:11,830
+you could see it?
+
+333
+00:22:13,750 --> 00:22:16,470
+- And when you try to eat--
+- Yeah.
+
+334
+00:22:18,280 --> 00:22:20,060
+Me, too.
+
+335
+00:22:25,100 --> 00:22:27,880
+Killing somebody has gotta
+be worse than that.
+
+336
+00:22:27,890 --> 00:22:29,720
+It has to be.
+
+337
+00:22:32,290 --> 00:22:34,660
+So, yeah...
+
+338
+00:22:34,660 --> 00:22:36,940
+I'm nervous.
+
+339
+00:22:36,940 --> 00:22:39,110
+For the whole thing, man.
+
+340
+00:22:40,860 --> 00:22:42,160
+For the whole thing.
+
+341
+00:22:56,380 --> 00:22:58,180
+Rick: We're gonna
+take a look around,
+
+342
+00:22:58,180 --> 00:23:01,050
+try to get a feel for how
+many people are in there.
+
+343
+00:23:02,950 --> 00:23:07,360
+We like how it looks, we go in.
+
+344
+00:23:07,360 --> 00:23:10,810
+A couple of hours before dawn.
+
+345
+00:23:10,810 --> 00:23:13,280
+The guards outside'll be tired.
+
+346
+00:23:13,280 --> 00:23:15,730
+<i>Everyone inside'll be sleeping.</i>
+
+347
+00:23:18,040 --> 00:23:21,200
+We don't like what we see, we
+head back, make a new plan.
+
+348
+00:23:21,210 --> 00:23:23,910
+They don't know who we are.
+
+349
+00:23:23,910 --> 00:23:27,040
+<i>We'll keep Jesus in the shadows.</i>
+
+350
+00:23:27,040 --> 00:23:28,610
+This is how we eat.
+
+351
+00:23:30,610 --> 00:23:32,660
+This is how we eat.
+
+352
+00:23:35,590 --> 00:23:37,640
+We roll out at midnight.
+
+353
+00:23:48,930 --> 00:23:50,470
+Why is Maggie here?
+
+354
+00:23:50,470 --> 00:23:52,630
+She's guarding the perimeter.
+
+355
+00:23:52,640 --> 00:23:55,100
+Yeah, but why is she here?
+
+356
+00:23:55,110 --> 00:23:57,740
+'Cause it's her choice.
+
+357
+00:23:57,740 --> 00:23:59,190
+I want to stay
+out there with her.
+
+358
+00:23:59,190 --> 00:24:01,530
+Well, this whole thing's
+a race to the armory.
+
+359
+00:24:01,530 --> 00:24:03,950
+We need as many people
+inside as we can get.
+
+360
+00:24:03,950 --> 00:24:05,280
+She shouldn't
+be out there alone.
+
+361
+00:24:05,280 --> 00:24:07,620
+She shouldn't be out here
+in the first place.
+
+362
+00:24:12,960 --> 00:24:15,020
+Okay.
+
+363
+00:24:15,030 --> 00:24:16,460
+Good.
+
+364
+00:24:21,350 --> 00:24:23,600
+She's done with the hair?
+
+365
+00:24:23,600 --> 00:24:24,970
+What've we got?
+
+366
+00:24:24,970 --> 00:24:27,300
+- That one.
+- Yeah, that's it.
+
+367
+00:24:29,310 --> 00:24:31,560
+Rick:
+<i>All right.</i>
+
+368
+00:24:31,560 --> 00:24:34,280
+Though, it's probably good
+we're doing this at night.
+
+369
+00:24:36,060 --> 00:24:38,060
+Something wrong with it?
+
+370
+00:24:38,070 --> 00:24:41,700
+The nose. Gregory's
+is a different shape.
+
+371
+00:24:52,430 --> 00:24:54,330
+He fought back.
+
+372
+00:24:54,330 --> 00:24:57,500
+He broke your hand, right?
+
+373
+00:24:57,500 --> 00:24:59,670
+Guess there's no reason
+to be subtle about it.
+
+374
+00:25:04,590 --> 00:25:05,890
+What?
+
+375
+00:25:05,890 --> 00:25:08,730
+The Saviors, they're scary,
+
+376
+00:25:08,730 --> 00:25:10,750
+but those pricks
+got nothing on you.
+
+377
+00:25:37,090 --> 00:25:39,680
+Man:
+<i>Stop right there!</i>
+
+378
+00:25:39,680 --> 00:25:41,880
+<i>Announce yourself, asshole!</i>
+
+379
+00:25:41,880 --> 00:25:43,970
+It's Eddie from Hilltop!
+
+380
+00:25:43,970 --> 00:25:45,470
+It's done!
+
+381
+00:25:45,470 --> 00:25:47,550
+Man:
+<i>Step out!</i>
+
+382
+00:25:52,140 --> 00:25:53,890
+( engine stops )
+
+383
+00:25:59,730 --> 00:26:01,320
+Man:
+<i>Is that it?</i>
+
+384
+00:26:01,320 --> 00:26:03,990
+Yeah!
+
+385
+00:26:03,990 --> 00:26:06,120
+Man: <i>Bring it here, shit brain!</i>
+
+386
+00:26:06,120 --> 00:26:08,570
+( door opens )
+
+387
+00:26:21,470 --> 00:26:24,010
+I don't want the bag,
+needle dick.
+
+388
+00:26:36,940 --> 00:26:42,610
+Will you look at this shit?
+
+389
+00:26:57,340 --> 00:27:01,130
+He broke my hand.
+I broke his nose.
+
+390
+00:27:01,130 --> 00:27:03,130
+That's why he looks that way.
+
+391
+00:27:24,230 --> 00:27:26,070
+( nasal voice )
+Little bitch broke my nose.
+
+392
+00:27:26,070 --> 00:27:28,740
+-<i> ( man laughing )</i>
+- Wah.
+
+393
+00:27:32,790 --> 00:27:34,240
+<i>( head thuds )</i>
+
+394
+00:27:36,000 --> 00:27:40,170
+( normal voice )
+Okay, looks like you learned.
+
+395
+00:27:40,170 --> 00:27:42,380
+I'll get your guy,
+you'll go home,
+
+396
+00:27:42,390 --> 00:27:45,000
+and you bring us more
+stuff next week, hmm?
+
+397
+00:27:50,840 --> 00:27:54,150
+( whistling "Happy Birthday" )
+
+398
+00:28:02,610 --> 00:28:04,520
+( gurgles )
+
+399
+00:28:29,720 --> 00:28:31,850
+Well, well, well.
+Look who it is.
+
+400
+00:28:34,100 --> 00:28:36,140
+- ( knife slices )
+- Ahh!
+
+401
+00:28:36,140 --> 00:28:38,390
+- ( gasps )
+- It's okay, it's okay.
+
+402
+00:28:38,390 --> 00:28:40,310
+<i>We're bringing you back.
+We're bringing you back.</i>
+
+403
+00:29:01,550 --> 00:29:03,920
+Check the doors.
+Find the arsenal.
+
+404
+00:29:03,920 --> 00:29:05,470
+We take them out.
+
+405
+00:29:34,030 --> 00:29:36,410
+( door creaks )
+
+406
+00:29:58,640 --> 00:30:00,560
+<i>( squelches )</i>
+
+407
+00:30:31,470 --> 00:30:33,760
+( door creaks )
+
+408
+00:31:05,710 --> 00:31:08,590
+- ( sharp inhale )
+-<i> ( squelches )</i>
+
+409
+00:31:12,600 --> 00:31:15,180
+( shivering )
+
+410
+00:31:40,570 --> 00:31:42,620
+<i>( squelches )</i>
+
+411
+00:32:32,010 --> 00:32:33,930
+You still a priest?
+
+412
+00:32:38,630 --> 00:32:41,300
+Rick and Carl
+taught me about guns,
+
+413
+00:32:41,300 --> 00:32:44,970
+other weapons.
+
+414
+00:32:44,970 --> 00:32:46,720
+How to contribute.
+
+415
+00:32:51,810 --> 00:32:53,860
+I'm still a priest.
+
+416
+00:33:00,150 --> 00:33:02,040
+I lied to my girlfriend
+this morning.
+
+417
+00:33:04,460 --> 00:33:08,990
+I, um-- she caught me
+thinking about something,
+
+418
+00:33:09,000 --> 00:33:11,050
+so I told her that I loved her.
+
+419
+00:33:12,420 --> 00:33:15,670
+For the first time.
+
+420
+00:33:15,670 --> 00:33:18,590
+That's how I told her,
+covering something up.
+
+421
+00:33:21,730 --> 00:33:24,340
+What were you covering?
+
+422
+00:33:25,930 --> 00:33:28,560
+That I'd done something
+like this before.
+
+423
+00:33:29,600 --> 00:33:31,680
+That I didn't like it.
+
+424
+00:33:33,990 --> 00:33:35,740
+Do you?
+
+425
+00:33:39,690 --> 00:33:41,940
+Do you love her?
+
+426
+00:33:43,000 --> 00:33:46,780
+Yeah.
+
+427
+00:33:46,780 --> 00:33:49,420
+So, you know what
+you're fighting for.
+
+428
+00:34:10,360 --> 00:34:11,940
+Hmm.
+
+429
+00:34:11,940 --> 00:34:13,140
+Honeypot.
+
+430
+00:34:26,160 --> 00:34:27,820
+- ( grunts )
+- ( groans )
+
+431
+00:34:27,820 --> 00:34:30,830
+( both grunting )
+
+432
+00:34:30,830 --> 00:34:33,380
+( groans )
+
+433
+00:34:35,580 --> 00:34:38,130
+<i>( alarm blaring )</i>
+
+434
+00:34:38,130 --> 00:34:39,550
+They're in trouble.
+Stay here.
+
+435
+00:34:39,550 --> 00:34:41,090
+- I'm going with you.
+- I said stay here.
+
+436
+00:34:41,090 --> 00:34:42,300
+No.
+
+437
+00:34:42,310 --> 00:34:44,010
+Damn it, Maggie.
+
+438
+00:34:44,010 --> 00:34:46,980
+- I have to.
+- No, you don't. You don't have to.
+
+439
+00:34:46,980 --> 00:34:48,260
+Yes, I do.
+
+440
+00:34:48,260 --> 00:34:50,090
+<i>What the hell
+are you doing here?</i>
+
+441
+00:34:50,100 --> 00:34:51,680
+What am I supposed to do?
+
+442
+00:34:51,680 --> 00:34:53,430
+You're supposed
+to be someone else.
+
+443
+00:34:54,480 --> 00:34:58,070
+<i>( alarm continues )</i>
+
+444
+00:34:58,070 --> 00:34:59,320
+They need our help.
+
+445
+00:34:59,320 --> 00:35:01,190
+( walker growls )
+
+446
+00:35:09,120 --> 00:35:11,250
+<i>( alarm continues )</i>
+
+447
+00:35:12,790 --> 00:35:14,840
+You are staying here.
+
+448
+00:35:19,650 --> 00:35:21,510
+<i>( alarm blaring )</i>
+
+449
+00:35:24,020 --> 00:35:26,350
+We need to go. Get them
+back to the Hilltop.
+
+450
+00:35:26,350 --> 00:35:28,890
+What? Your people
+could be in trouble.
+
+451
+00:35:28,890 --> 00:35:30,690
+If you get them back,
+the deal's still on, right?
+
+452
+00:35:30,690 --> 00:35:32,360
+Right?
+
+453
+00:35:32,360 --> 00:35:33,690
+If they get themselves back.
+
+454
+00:35:33,690 --> 00:35:36,530
+Andy, drive him
+back to the Hilltop.
+
+455
+00:35:36,530 --> 00:35:38,560
+<i>- ( car door closes )
+- ( engine starts )</i>
+
+456
+00:35:42,400 --> 00:35:44,070
+Look, if they see you
+and we don't make it--
+
+457
+00:35:44,070 --> 00:35:46,370
+We're gonna make it. And
+they're not gonna see me.
+
+458
+00:35:48,580 --> 00:35:49,740
+Are you kidding?
+
+459
+00:35:56,330 --> 00:35:58,380
+Go!
+
+460
+00:35:58,390 --> 00:36:00,470
+<i>( machine-gun fire )</i>
+
+461
+00:36:09,760 --> 00:36:11,600
+<i>( footsteps running )</i>
+
+462
+00:36:17,270 --> 00:36:19,770
+( grunts )
+
+463
+00:36:19,770 --> 00:36:22,020
+Ah!
+
+464
+00:36:24,780 --> 00:36:27,410
+If it wasn't us,
+it was gonna be you.
+
+465
+00:36:29,000 --> 00:36:30,830
+<i>( machine-gun fire )</i>
+
+466
+00:36:33,790 --> 00:36:35,450
+- The hell?
+- ( gunshot )
+
+467
+00:36:39,380 --> 00:36:41,460
+<i>( machine-gun fire )</i>
+
+468
+00:36:47,880 --> 00:36:50,170
+That's one of the locked ones.
+I'm gonna cover you. Do it.
+
+469
+00:36:52,940 --> 00:36:55,140
+<i>( gunfire )</i>
+
+470
+00:37:05,070 --> 00:37:06,790
+Come on!
+
+471
+00:37:34,980 --> 00:37:37,150
+( screaming )
+
+472
+00:37:37,150 --> 00:37:39,350
+<i>( gunfire )</i>
+
+473
+00:37:53,120 --> 00:37:55,500
+( both panting )
+
+474
+00:38:27,070 --> 00:38:29,230
+<i>( gunshot echoes )</i>
+
+475
+00:38:35,410 --> 00:38:38,160
+So, this is the next world.
+
+476
+00:38:43,920 --> 00:38:47,420
+<i>- ( man panting )
+- ( bullet casings tinkling )</i>
+
+477
+00:38:47,420 --> 00:38:49,140
+Drop it.
+
+478
+00:38:49,140 --> 00:38:52,060
+<i>Drop it.</i>
+
+479
+00:38:52,060 --> 00:38:54,590
+You, uh--
+
+480
+00:38:54,590 --> 00:38:56,230
+you gonna kill me, Padre?
+
+481
+00:38:58,400 --> 00:39:01,520
+<i>Padre?</i>
+
+482
+00:39:01,520 --> 00:39:03,770
+"Let not your heart
+be troubled."
+
+483
+00:39:06,270 --> 00:39:07,940
+You're just as dead as me.
+
+484
+00:39:07,940 --> 00:39:11,610
+"In my father's house
+are many mansions.
+
+485
+00:39:11,610 --> 00:39:13,440
+If it were not so,
+I would've told you."
+
+486
+00:39:13,450 --> 00:39:15,780
+You're all dead.
+
+487
+00:39:15,780 --> 00:39:18,920
+- "I go prepare a place for you."
+- Blood's coming.
+
+488
+00:39:20,450 --> 00:39:22,620
+( gunshot echoes )
+
+489
+00:39:25,630 --> 00:39:27,630
+Amen.
+
+490
+00:39:42,550 --> 00:39:44,300
+( whistles )
+
+491
+00:39:49,330 --> 00:39:54,030
+Hey, you want to just
+come back with us?
+
+492
+00:39:54,030 --> 00:39:56,730
+Take a couple days before
+you and Tara go out again?
+
+493
+00:39:56,730 --> 00:40:00,150
+No, man. I just want
+to get out of here.
+
+494
+00:40:02,620 --> 00:40:06,710
+<i>♪ When I was a child,
+I heard voices ♪</i>
+
+495
+00:40:09,080 --> 00:40:11,880
+<i>♪ Some would sing
+and some would scream ♪</i>
+
+496
+00:40:14,920 --> 00:40:20,620
+<i>♪ You soon find
+you have few choices ♪</i>
+
+497
+00:40:20,620 --> 00:40:24,660
+<i>♪ I learned the voices
+died with me ♪</i>
+
+498
+00:40:27,000 --> 00:40:31,100
+<i>♪ When I was a child,
+I'd sit for hours ♪</i>
+
+499
+00:40:33,490 --> 00:40:36,600
+<i>♪ Staring into open flame ♪</i>
+
+500
+00:40:39,140 --> 00:40:42,990
+<i>♪ Something in it
+had a power ♪</i>
+
+501
+00:40:45,120 --> 00:40:49,250
+<i>♪ Could barely tear
+my eyes away ♪</i>
+
+502
+00:40:51,670 --> 00:40:55,170
+<i>♪ All you have
+is your fire ♪</i>
+
+503
+00:40:57,710 --> 00:41:00,960
+<i>♪ And the place
+you need to reach ♪</i>
+
+504
+00:41:03,930 --> 00:41:09,800
+<i>♪ Don't you ever
+tame your demons ♪</i>
+
+505
+00:41:09,810 --> 00:41:13,060
+<i>♪ But always keep them
+on a leash ♪</i>
+
+506
+00:41:16,080 --> 00:41:19,910
+<i>♪ Mm-mm-mm-mm... ♪</i>
+
+507
+00:41:21,680 --> 00:41:23,050
+What is it?
+
+508
+00:41:24,490 --> 00:41:25,990
+Just--
+
+509
+00:41:28,040 --> 00:41:30,790
+just want to know which
+one of them was Negan.
+
+510
+00:41:30,790 --> 00:41:34,100
+<i>( engine roaring )</i>
+
+511
+00:41:35,830 --> 00:41:37,370
+Son of a bitch!
+
+512
+00:41:37,370 --> 00:41:39,900
+( grunts )
+
+513
+00:41:48,760 --> 00:41:50,110
+Where'd you get the bike?
+
+514
+00:41:50,110 --> 00:41:52,180
+( hammer clicks )
+
+515
+00:41:52,180 --> 00:41:54,550
+Just do it!
+
+516
+00:41:54,550 --> 00:41:56,570
+Like you did
+everyone else, right?
+
+517
+00:41:58,350 --> 00:42:02,070
+Woman on walkie-talkie:
+<i>Lower your gun, prick.</i>
+
+518
+00:42:02,080 --> 00:42:04,590
+<i>You, with the Colt Python.</i>
+
+519
+00:42:04,590 --> 00:42:06,910
+<i>All of you, lower your
+weapons right now.</i>
+
+520
+00:42:15,420 --> 00:42:18,340
+Come on out.
+
+521
+00:42:18,340 --> 00:42:20,760
+Let's talk.
+
+522
+00:42:20,760 --> 00:42:23,210
+Woman: <i>We're not coming
+out, but we will talk.</i>
+
+523
+00:42:26,880 --> 00:42:29,220
+Woman: <i>We've got a
+Carol and a Maggie.</i>
+
+524
+00:42:29,220 --> 00:42:31,700
+<i>I'm thinking that's something
+you want to chat about.</i>
+
+525
+00:42:33,660 --> 00:42:41,930
+Sync & corrections by honeybunny
+www.addic7ed.com
+

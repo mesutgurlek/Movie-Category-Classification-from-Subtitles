@@ -1,0 +1,3037 @@
+﻿1
+00:00:44,899 --> 00:00:48,739
+<i>That spring, we were all</i>
+<i>watching the events of space</i>
+
+2
+00:00:48,739 --> 00:00:51,619
+<i>and wondering what</i>
+<i>the final effect would be.</i>
+
+3
+00:00:51,619 --> 00:00:54,019
+<i>Astronomers argued over theory</i>
+
+4
+00:00:54,020 --> 00:00:56,419
+<i>while engineers got</i>
+<i>pretty excited about variables</i>
+
+5
+00:00:56,419 --> 00:00:59,299
+<i>and magnetic fields.</i>
+
+6
+00:00:59,299 --> 00:01:00,739
+<i>Mystics predicted earthquakes</i>
+
+7
+00:01:00,740 --> 00:01:05,539
+<i>and the end of life</i>
+<i>as we knew it.</i>
+
+8
+00:01:29,540 --> 00:01:31,459
+<i>When the effect came</i>
+
+9
+00:01:31,460 --> 00:01:34,818
+<i>it was almost unnoticed</i>
+
+10
+00:01:34,819 --> 00:01:36,738
+<i>because it happened</i>
+<i>to such a small</i>
+
+11
+00:01:36,739 --> 00:01:40,578
+<i>and insignificant form of life.</i>
+
+12
+00:01:52,580 --> 00:01:56,419
+<i>One biologist,</i>
+<i>an English man, Ernest Hubbs</i>
+
+13
+00:01:56,420 --> 00:02:02,658
+<i>saw something, got nervous</i>
+<i>and started investigating.</i>
+
+14
+00:02:02,659 --> 00:02:06,498
+<i>While I was playing around with</i>
+<i>number theory at the university</i>
+
+15
+00:02:06,499 --> 00:02:10,338
+<i>Hubbs was already on</i>
+<i>to something.</i>
+
+16
+00:02:11,299 --> 00:02:14,178
+<i>Ordinary ants</i>
+<i>of different species</i>
+
+17
+00:02:14,179 --> 00:02:17,058
+<i>were doing things</i>
+<i>ants don't do.</i>
+
+18
+00:02:17,059 --> 00:02:21,858
+<i>Meeting, communicating.</i>
+
+19
+00:02:21,859 --> 00:02:25,698
+<i>Apparently making decisions.</i>
+
+20
+00:02:26,180 --> 00:02:30,979
+<i>By summer the rest of the world</i>
+<i>had moved on to other things</i>
+
+21
+00:02:30,980 --> 00:02:32,899
+<i>but Hubbs kept making notes.</i>
+
+22
+00:02:32,900 --> 00:02:37,218
+<i>While the threat grew.</i>
+
+23
+00:02:40,580 --> 00:02:43,459
+<i>Only fragments</i>
+<i>of what he knew got out</i>
+
+24
+00:02:43,460 --> 00:02:45,858
+<i>he kept most of it to himself.</i>
+
+25
+00:02:45,859 --> 00:02:51,618
+<i>So when I got into it,</i>
+<i>I didn't know a damn thing.</i>
+
+26
+00:06:18,500 --> 00:06:21,379
+<i>"Memorandum to alf</i>
+<i>launder smith"</i>
+
+27
+00:06:21,380 --> 00:06:23,778
+<i>"secretary,</i>
+<i>national science foundation"</i>
+
+28
+00:06:23,779 --> 00:06:26,179
+<i>"committee on</i>
+<i>biological controls."</i>
+
+29
+00:06:26,180 --> 00:06:30,498
+<i>"From E.D. Hubbs, senior fellow</i>
+<i>coronado institute"</i>
+
+30
+00:06:30,499 --> 00:06:36,738
+<i>"subject - biological imbalance</i>
+<i>in an upland Arizona Valley."</i>
+
+31
+00:06:36,740 --> 00:06:40,579
+<i>"Facts on hand -</i>
+<i>traditional antagonisms,"</i>
+
+32
+00:06:40,580 --> 00:06:46,339
+<i>"amongst several ants species</i>
+<i>have come to a dramatic halt."</i>
+
+33
+00:06:46,340 --> 00:06:49,219
+<i>"At the same time there has</i>
+<i>been an apparent disappearance"</i>
+
+34
+00:06:49,220 --> 00:06:51,618
+<i>"of those insects</i>
+<i>which prey on ants"</i>
+
+35
+00:06:51,619 --> 00:06:54,019
+<i>"specifically mantises,</i>
+<i>beetles,</i>
+
+36
+00:06:54,020 --> 00:06:56,418
+<i>"millipedes and spiders."</i>
+
+37
+00:06:56,419 --> 00:07:00,258
+<i>"If these conditions persist</i>
+<i>they must inevitably"</i>
+
+38
+00:07:00,259 --> 00:07:05,538
+<i>"lead to increases</i>
+<i>in ant population."</i>
+
+39
+00:07:22,915 --> 00:07:26,754
+<i>"Proposal - an immediate</i>
+<i>full scale attack"</i>
+
+40
+00:07:26,755 --> 00:07:30,594
+<i>"on the threat of biological</i>
+<i>imbalance to other life forms"</i>
+
+41
+00:07:30,595 --> 00:07:33,474
+<i>"in the subject area."</i>
+
+42
+00:07:33,475 --> 00:07:36,834
+<i>"Mode of operation -</i>
+<i>an experiment station"</i>
+
+43
+00:07:36,835 --> 00:07:39,714
+<i>"to be built and maintained</i>
+<i>with equipment"</i>
+
+44
+00:07:39,715 --> 00:07:43,074
+<i>"sophisticated enough</i>
+<i>to control the problem"</i>
+
+45
+00:07:43,075 --> 00:07:46,914
+<i>"and any potential</i>
+<i>consequences."</i>
+
+46
+00:07:47,395 --> 00:07:51,234
+<i>"Personnel - one senior</i>
+<i>scientist, myself."</i>
+
+47
+00:07:51,235 --> 00:07:52,674
+<i>"Plus one associate"</i>
+
+48
+00:07:52,675 --> 00:07:55,074
+<i>"a qualified information</i>
+<i>specialist"</i>
+
+49
+00:07:55,075 --> 00:07:57,474
+<i>"with cryptological</i>
+<i>background."</i>
+
+50
+00:07:57,475 --> 00:07:59,394
+<i>"In this connection</i>
+<i>I have been impressed"</i>
+
+51
+00:07:59,395 --> 00:08:01,314
+<i>"with the recent work</i>
+<i>of J. R. Lesko"</i>
+
+52
+00:08:01,315 --> 00:08:05,634
+<i>"at the naval under sea</i>
+<i>centre of San Diego."</i>
+
+53
+00:08:10,915 --> 00:08:13,794
+<i>"Location of installation -"</i>
+
+54
+00:08:13,795 --> 00:08:15,714
+<i>"it is suggested</i>
+<i>the experiment station"</i>
+
+55
+00:08:15,715 --> 00:08:17,154
+<i>"be placed in the locale"</i>
+
+56
+00:08:17,155 --> 00:08:21,473
+<i>"of the most recently observed</i>
+<i>phenomena."</i>
+
+57
+00:08:24,835 --> 00:08:27,714
+<i>"Conclusions and</i>
+<i>recommendations -"</i>
+
+58
+00:08:27,715 --> 00:08:31,073
+<i>"speed is of the essence."</i>
+
+59
+00:09:58,435 --> 00:10:02,274
+This is the place.
+
+60
+00:10:02,275 --> 00:10:04,194
+This is the place.
+
+61
+00:10:04,195 --> 00:10:07,554
+This is it.
+
+62
+00:10:22,435 --> 00:10:24,354
+No bodies I hope.
+
+63
+00:10:24,355 --> 00:10:29,154
+The population moved itself out
+some days ago.
+
+64
+00:10:31,075 --> 00:10:34,914
+We've got some pretty powerful
+friends.
+
+65
+00:10:34,915 --> 00:10:36,834
+Just another
+desert development
+
+66
+00:10:36,835 --> 00:10:40,194
+which did not develop.
+
+67
+00:10:41,155 --> 00:10:43,074
+You did your major work
+
+68
+00:10:43,075 --> 00:10:46,434
+applying game theory to
+the language of killer whales.
+
+69
+00:10:46,435 --> 00:10:49,314
+Well, it seemed cheaper
+than applying it to real air.
+
+70
+00:10:49,315 --> 00:10:52,194
+Did you actually succeed
+in making positive contact
+
+71
+00:10:52,195 --> 00:10:53,154
+with the whales?
+
+72
+00:10:53,155 --> 00:10:56,034
+Only with
+the emotionally disturbed.
+
+73
+00:10:56,035 --> 00:10:57,954
+How were you able
+to determine that?
+
+74
+00:10:57,955 --> 00:11:00,834
+We talked.
+
+75
+00:11:00,835 --> 00:11:03,714
+Is that a joke?
+
+76
+00:11:04,195 --> 00:11:07,074
+Look, I'm sorry, I'm strictly
+a pencil and paper guy
+
+77
+00:11:07,075 --> 00:11:08,034
+I wouldn't know the front end
+of a whale
+
+78
+00:11:08,035 --> 00:11:11,874
+from...
+A hole in the ground.
+
+79
+00:11:17,155 --> 00:11:20,034
+I know that game's
+your business, James,
+
+80
+00:11:20,035 --> 00:11:24,834
+you play them very well.
+That's why you're here.
+
+81
+00:11:25,315 --> 00:11:27,234
+But this is a serious game.
+
+82
+00:11:27,235 --> 00:11:31,074
+Well, that's the best kind,
+isn't it?
+
+83
+00:12:13,795 --> 00:12:16,674
+<i>Wednesday, three o'clock,</i>
+
+84
+00:12:16,675 --> 00:12:18,114
+<i>further discoveries</i>
+<i>this afternoon</i>
+
+85
+00:12:18,115 --> 00:12:20,034
+<i>on a nearby farm.</i>
+
+86
+00:12:20,035 --> 00:12:23,393
+<i>To be added to those</i>
+<i>observed earlier.</i>
+
+87
+00:12:23,875 --> 00:12:26,274
+<i>I might have pointed them out</i>
+<i>to Lesko.</i>
+
+88
+00:12:26,275 --> 00:12:31,074
+<i>But it would be better to</i>
+<i>let him learn at his own pace.</i>
+
+89
+00:13:26,275 --> 00:13:27,714
+There are certain
+equatorial ants
+
+90
+00:13:27,715 --> 00:13:29,634
+that would attack anything -
+insects, mammals -
+
+91
+00:13:29,635 --> 00:13:34,434
+anything at all that threatens
+their food supply.
+
+92
+00:13:34,915 --> 00:13:37,794
+The smell
+triggers their behavior.
+
+93
+00:13:37,795 --> 00:13:40,674
+Yeah.
+
+94
+00:13:41,155 --> 00:13:45,474
+They are picky eaters.
+
+95
+00:14:00,066 --> 00:14:01,985
+Now this thing here.
+
+96
+00:14:01,986 --> 00:14:03,905
+You see what we're doing,
+
+97
+00:14:03,906 --> 00:14:06,785
+we're running lines
+from these fuel tanks
+
+98
+00:14:06,786 --> 00:14:09,665
+and if those ants get over
+that water trap
+
+99
+00:14:09,666 --> 00:14:12,066
+we're gonna set fire
+to this here ditch
+
+100
+00:14:12,067 --> 00:14:15,425
+and watch 'em all burn.
+
+101
+00:14:15,907 --> 00:14:19,265
+What do you think?
+
+102
+00:14:19,266 --> 00:14:22,625
+Done a lot of good work.
+
+103
+00:14:27,906 --> 00:14:31,745
+I'd say they started pulling out
+three, four weeks ago
+
+104
+00:14:31,746 --> 00:14:34,625
+a couple of families at a time.
+
+105
+00:14:34,626 --> 00:14:36,066
+What else?
+
+106
+00:14:36,067 --> 00:14:37,986
+That's about the size of it.
+
+107
+00:14:37,987 --> 00:14:40,866
+I guess it must have been
+some kind of infestation
+
+108
+00:14:40,867 --> 00:14:42,786
+but...Well, I couldn't say
+for sure.
+
+109
+00:14:42,787 --> 00:14:45,666
+Maybe the heat
+got too much for 'em.
+
+110
+00:14:45,667 --> 00:14:47,105
+There's a collapsed house
+down there.
+
+111
+00:14:47,106 --> 00:14:49,506
+Well, I wouldn't know
+about that.
+
+112
+00:14:49,507 --> 00:14:50,945
+I didn't really get to know
+those people
+
+113
+00:14:50,946 --> 00:14:54,306
+they were...
+They were city folk mainly.
+
+114
+00:14:54,307 --> 00:14:56,705
+Tell me about the towers.
+
+115
+00:14:56,706 --> 00:14:59,585
+Don't know,
+wasn't there.
+
+116
+00:14:59,586 --> 00:15:01,986
+Of course
+it's been a dry year.
+
+117
+00:15:01,987 --> 00:15:03,906
+You know we do get ants
+in dry years.
+
+118
+00:15:03,907 --> 00:15:04,866
+Hmm.
+
+119
+00:15:04,867 --> 00:15:06,786
+I talked to an entomologist
+
+120
+00:15:06,787 --> 00:15:09,185
+up at the state department
+of agriculture at one time,
+
+121
+00:15:09,186 --> 00:15:12,065
+he said these things
+were cyclical.
+
+122
+00:15:12,066 --> 00:15:15,425
+They weren't talking about
+those ants.
+
+123
+00:15:15,427 --> 00:15:17,825
+Mildred, come on out here.
+
+124
+00:15:17,826 --> 00:15:19,745
+That's alright.
+It isn't alright.
+
+125
+00:15:19,746 --> 00:15:20,705
+These people will think
+
+126
+00:15:20,706 --> 00:15:24,545
+I've got you chained up
+in there.
+
+127
+00:15:25,987 --> 00:15:28,385
+These gentlemen are from
+the university,
+
+128
+00:15:28,386 --> 00:15:31,265
+they're gonna develop
+a new spray for those ants.
+
+129
+00:15:31,266 --> 00:15:32,706
+You know what I think.
+
+130
+00:15:32,707 --> 00:15:35,586
+Ha! You know if she didn't have
+something to worry about,
+
+131
+00:15:35,587 --> 00:15:37,506
+she wouldn't know what to do
+with herself.
+
+132
+00:15:37,507 --> 00:15:39,905
+I'm afraid you're gonna have to
+leave for a few days
+
+133
+00:15:39,906 --> 00:15:43,745
+Mr. Eldridge.
+
+134
+00:15:46,147 --> 00:15:48,545
+Evacuation?
+
+135
+00:15:48,546 --> 00:15:49,986
+Look I...
+Mr. Eldridge.
+
+136
+00:15:49,987 --> 00:15:52,866
+I--I--I don't understand this.
+It's for your own protection.
+
+137
+00:15:52,867 --> 00:15:57,666
+Evacuation?
+What's this all about anyway?
+
+138
+00:15:57,667 --> 00:15:59,586
+Why this isn't right.
+They can't just push us off--
+
+139
+00:15:59,587 --> 00:16:01,985
+didn't you hear
+what the man said?
+
+140
+00:16:01,986 --> 00:16:05,345
+It's for our protection.
+
+141
+00:16:12,546 --> 00:16:15,906
+When do they get
+their farm back?
+
+142
+00:16:15,907 --> 00:16:18,786
+That depends.
+
+143
+00:16:35,586 --> 00:16:39,425
+<i>Friday, eight o'clock,</i>
+
+144
+00:16:39,426 --> 00:16:43,746
+<i>the zone should now be clear</i>
+<i>of population,</i>
+
+145
+00:16:43,747 --> 00:16:47,586
+<i>we can proceed</i>
+<i>with the next step.</i>
+
+146
+00:16:47,874 --> 00:16:51,234
+<i>The facility is completely</i>
+<i>self contained,</i>
+
+147
+00:16:51,235 --> 00:16:54,114
+<i>except for</i>
+<i>a primary power source</i>
+
+148
+00:16:54,115 --> 00:16:57,954
+<i>and the generator in our trucks</i>
+<i>supplies this,</i>
+
+149
+00:16:57,955 --> 00:17:01,313
+<i>the experiment has begun.</i>
+
+150
+00:18:15,715 --> 00:18:18,113
+What's wrong?
+
+151
+00:18:18,114 --> 00:18:22,433
+Well, I guess they're not ready
+to play yet.
+
+152
+00:18:48,834 --> 00:18:50,274
+<i>Dr. Hubbs,</i>
+
+153
+00:18:50,275 --> 00:18:52,194
+<i>there's already been</i>
+<i>a twelve day over run</i>
+
+154
+00:18:52,195 --> 00:18:54,593
+<i>which averages out at 36%</i>
+
+155
+00:18:54,594 --> 00:18:57,473
+<i>when projected over the course</i>
+<i>of the total program.</i>
+
+156
+00:18:57,474 --> 00:18:58,914
+<i>The controller would like</i>
+<i>to get the final figure</i>
+
+157
+00:18:58,915 --> 00:19:01,794
+<i>before the fiscal period ends</i>
+<i>on the 14th.</i>
+
+158
+00:19:01,795 --> 00:19:04,674
+<i>Shall we put you down</i>
+<i>for one more week?</i>
+
+159
+00:19:04,675 --> 00:19:07,554
+I'm sorry,
+this is not a precise business.
+
+160
+00:19:07,555 --> 00:19:08,993
+<i>Well, can you give us</i>
+<i>an estimate?</i>
+
+161
+00:19:08,994 --> 00:19:11,873
+We cannot study the ants
+until they make an appearance.
+
+162
+00:19:11,874 --> 00:19:14,274
+<i>Can we put you down</i>
+<i>for ten more days?</i>
+
+163
+00:19:14,275 --> 00:19:17,154
+This is not
+a controlled experiment,
+
+164
+00:19:17,155 --> 00:19:20,513
+in our judgment another
+occurrence in this area
+
+165
+00:19:20,514 --> 00:19:21,954
+is highly probable.
+
+166
+00:19:21,955 --> 00:19:24,353
+But we cannot command
+the ants to appear.
+
+167
+00:19:24,354 --> 00:19:28,193
+<i>Well is there something</i>
+<i>you could do to hurry them up?</i>
+
+168
+00:19:28,194 --> 00:19:32,033
+We have been thinking
+about that.
+
+169
+00:19:32,034 --> 00:19:32,993
+<i>You know, of course,</i>
+<i>there is concern</i>
+
+170
+00:19:32,994 --> 00:19:35,873
+<i>over possible outbreaks</i>
+<i>in other areas?</i>
+
+171
+00:19:35,874 --> 00:19:37,793
+Ah, I share that concern.
+
+172
+00:19:37,794 --> 00:19:41,633
+My associate, Mr. Lesko,
+has something to say.
+
+173
+00:19:41,634 --> 00:19:43,074
+Listen, I want you
+to do me a favor -
+
+174
+00:19:43,075 --> 00:19:46,433
+I want you to call Miss Dobson,
+d-o-b-s-o-n.
+
+175
+00:19:46,434 --> 00:19:50,273
+6-6-2-0-7-9-9 in Los Angeles.
+
+176
+00:19:50,274 --> 00:19:54,594
+Tell her not to take
+the plane to Vegas on thursday.
+
+177
+00:19:54,595 --> 00:19:56,033
+Tell her it'll be
+a couple more weeks and...
+
+178
+00:19:56,034 --> 00:19:57,953
+She'll hear from me, okay?
+
+179
+00:19:57,954 --> 00:19:59,394
+<i>Did you say</i>
+<i>a couple of weeks?</i>
+
+180
+00:19:59,395 --> 00:20:00,833
+That's right.
+
+181
+00:20:00,834 --> 00:20:03,234
+<i>Mr. Lesko, that's not</i>
+<i>going to be possible,</i>
+
+182
+00:20:03,235 --> 00:20:07,553
+<i>accord--</i>
+
+183
+00:20:39,715 --> 00:20:43,554
+let's see some activity.
+
+184
+00:21:10,914 --> 00:21:13,793
+Hi, there?
+
+185
+00:22:03,235 --> 00:22:05,154
+Clete!
+
+186
+00:22:05,155 --> 00:22:06,593
+Ants.
+
+187
+00:22:06,594 --> 00:22:09,473
+They got the horse,
+clete, light the fire.
+
+188
+00:22:09,474 --> 00:22:14,273
+Kendra. Oh, my god.
+
+189
+00:22:14,755 --> 00:22:19,554
+Grandpa,
+can't you something?
+
+190
+00:22:22,914 --> 00:22:25,793
+Oh, my god.
+
+191
+00:22:25,794 --> 00:22:28,194
+Clete, get over here.
+
+192
+00:22:28,195 --> 00:22:30,593
+Can't you do something?
+
+193
+00:22:30,594 --> 00:22:33,473
+Give me the gun.
+
+194
+00:22:34,915 --> 00:22:37,313
+No, no, no.
+Let me go.
+
+195
+00:22:37,314 --> 00:22:40,674
+Clete, get her in the house,
+get her in the house.
+
+196
+00:22:40,675 --> 00:22:42,594
+Don't kill him.
+
+197
+00:22:42,595 --> 00:22:45,953
+Don't kill him.
+
+198
+00:23:09,475 --> 00:23:11,394
+All set?
+
+199
+00:23:11,395 --> 00:23:16,194
+Keep down now.
+That's right. Hang on.
+
+200
+00:23:17,634 --> 00:23:19,074
+Now this is really interesting.
+
+201
+00:23:19,075 --> 00:23:20,994
+You see what I do is I get to
+the parameters of the problem
+
+202
+00:23:20,995 --> 00:23:24,834
+by breaking down the movement of
+a vector of a single anthill.
+
+203
+00:23:24,834 --> 00:23:27,233
+Now, I don't know what
+they're doing, I don't care,
+
+204
+00:23:27,234 --> 00:23:31,073
+I'm just breaking down
+their simple basic move.
+
+205
+00:23:31,074 --> 00:23:34,913
+Stop, go.
+
+206
+00:23:36,834 --> 00:23:39,713
+Turn,
+
+207
+00:23:39,714 --> 00:23:43,074
+duration.
+That's it period, okay?
+
+208
+00:23:43,074 --> 00:23:44,513
+Now I take my ant signals,
+
+209
+00:23:44,514 --> 00:23:45,954
+I run them through
+the digitizer,
+
+210
+00:23:45,954 --> 00:23:47,393
+I record them on tape,
+
+211
+00:23:47,394 --> 00:23:49,794
+I write them down and
+I search for a correlation
+
+212
+00:23:49,794 --> 00:23:52,674
+between what they say
+and what they do.
+
+213
+00:23:52,674 --> 00:23:54,113
+Now assumption.
+
+214
+00:23:54,114 --> 00:23:56,993
+What we're seeing and hearing
+are commands
+
+215
+00:23:56,994 --> 00:23:59,393
+being directed
+at the central mass.
+
+216
+00:24:04,194 --> 00:24:07,073
+They warned us.
+
+217
+00:24:07,074 --> 00:24:10,433
+Relax.
+
+218
+00:24:16,674 --> 00:24:21,473
+I forgot to turn out the light.
+
+219
+00:24:26,274 --> 00:24:30,113
+Stop! Cut it out!
+What's the matter?
+
+220
+00:24:30,114 --> 00:24:32,033
+Cut it out!
+
+221
+00:24:32,034 --> 00:24:34,433
+Come back here.
+
+222
+00:24:34,434 --> 00:24:38,753
+Goddamn it, will you sit...
+
+223
+00:24:42,114 --> 00:24:45,953
+They're all over the place.
+
+224
+00:24:45,954 --> 00:24:48,353
+Clete, take care of the women.
+Get some help.
+
+225
+00:24:48,354 --> 00:24:50,753
+Now I make various adjustments,
+
+226
+00:24:50,754 --> 00:24:52,673
+make up for time lag
+and a couple of other things
+
+227
+00:24:52,674 --> 00:24:54,113
+don't worry about it.
+
+228
+00:24:54,114 --> 00:24:56,513
+Then I come up with...
+
+229
+00:24:56,514 --> 00:24:58,913
+Ha, are you ready for this?
+
+230
+00:24:58,914 --> 00:25:02,273
+I come up with a positive
+correlation on the order of 80%
+
+231
+00:25:02,274 --> 00:25:03,713
+between this little squiggle
+
+232
+00:25:03,714 --> 00:25:07,073
+and the command we commonly
+know as stop.
+
+233
+00:25:07,074 --> 00:25:09,953
+And a positive correlation
+between that little squiggle
+
+234
+00:25:09,954 --> 00:25:11,393
+and go.
+
+235
+00:25:11,394 --> 00:25:12,833
+And that means
+these little mothers
+
+236
+00:25:12,834 --> 00:25:14,273
+talk to each other.
+
+237
+00:25:14,274 --> 00:25:18,593
+Now I think if I--
+hey, the lights.
+
+238
+00:25:18,594 --> 00:25:20,513
+They've got into
+the generator. Don't move,
+
+239
+00:25:20,514 --> 00:25:23,393
+the back up unit
+cuts in automatically.
+
+240
+00:25:23,394 --> 00:25:28,193
+I'm going to counter
+with 100% yellow.
+
+241
+00:26:10,914 --> 00:26:14,273
+You're letting some get away.
+
+242
+00:26:14,274 --> 00:26:18,113
+Maybe they've learnt something.
+
+243
+00:28:05,922 --> 00:28:08,321
+Come over here, James,
+
+244
+00:28:08,322 --> 00:28:12,640
+this is really fascinating.
+
+245
+00:28:19,842 --> 00:28:22,721
+People are dead
+back there.
+
+246
+00:28:22,722 --> 00:28:25,601
+Yes, a tragedy.
+
+247
+00:28:25,602 --> 00:28:28,961
+I don't understand it,
+they accepted the order,
+
+248
+00:28:28,962 --> 00:28:31,361
+why should they come here?
+
+249
+00:28:31,362 --> 00:28:35,201
+Irrational behavior,
+very sad.
+
+250
+00:28:35,202 --> 00:28:39,041
+Now just look at this, James.
+
+251
+00:28:39,042 --> 00:28:41,921
+Consider the execution
+of this maneuver,
+
+252
+00:28:41,922 --> 00:28:43,841
+in order to explode
+the generator,
+
+253
+00:28:43,842 --> 00:28:45,761
+they had to create
+a living chain--
+
+254
+00:28:45,762 --> 00:28:51,040
+listen, Hubbs, those people
+are dead, don't you understand?
+
+255
+00:28:56,802 --> 00:29:01,601
+People get killed sometimes.
+
+256
+00:29:04,002 --> 00:29:06,881
+I think this yellow
+should hold it's potency
+
+257
+00:29:06,882 --> 00:29:10,240
+for three or four days.
+
+258
+00:30:08,802 --> 00:30:12,641
+We can
+start collecting now.
+
+259
+00:31:01,602 --> 00:31:04,481
+Little sons of bitches.
+
+260
+00:31:04,482 --> 00:31:06,881
+No, no, no.
+
+261
+00:31:06,882 --> 00:31:10,241
+They're not individuals,
+they are individual cells.
+
+262
+00:31:10,242 --> 00:31:13,121
+Tiny functioning parts
+of the whole.
+
+263
+00:31:13,122 --> 00:31:16,961
+Think of a society, james,
+with perfect harmony,
+
+264
+00:31:16,962 --> 00:31:19,841
+perfect altruism
+and self sacrifice,
+
+265
+00:31:19,842 --> 00:31:25,121
+perfect division of labor,
+organized for preordained roles.
+
+266
+00:31:25,122 --> 00:31:28,961
+Think of the building,
+elaborate and complex structures
+
+267
+00:31:28,962 --> 00:31:31,361
+according to plans
+that they know nothing of,
+
+268
+00:31:31,362 --> 00:31:33,761
+but can execute perfectly.
+
+269
+00:31:33,762 --> 00:31:39,041
+Think of their ability to evolve
+and adapt
+
+270
+00:31:39,042 --> 00:31:42,401
+in ways that are so beautiful,
+
+271
+00:31:42,402 --> 00:31:44,321
+and still so unknown
+
+272
+00:31:44,322 --> 00:31:49,601
+and all contained
+in one simple form.
+
+273
+00:31:49,602 --> 00:31:53,441
+So defenseless
+in the individual,
+
+274
+00:31:53,442 --> 00:31:56,801
+and so powerful in the mass.
+
+275
+00:31:59,682 --> 00:32:01,601
+Well...
+
+276
+00:32:01,602 --> 00:32:06,881
+Let's begin with
+the first behavioral series,
+
+277
+00:32:06,882 --> 00:32:13,121
+heat, cold, isolations,
+starvation,
+
+278
+00:32:13,602 --> 00:32:16,481
+slow pressure,
+
+279
+00:32:19,842 --> 00:32:22,721
+and threat.
+
+280
+00:32:23,202 --> 00:32:27,521
+Mantises prey on ants,
+as you know.
+
+281
+00:32:27,522 --> 00:32:29,921
+Now if--
+
+282
+00:32:29,922 --> 00:32:33,761
+if you're still with us, James.
+
+283
+00:32:33,762 --> 00:32:37,601
+When are we gonna
+get her out of here?
+
+284
+00:32:37,602 --> 00:32:39,521
+That's going to be
+a little difficult, I'm afraid.
+
+285
+00:32:39,522 --> 00:32:43,841
+Um... turn on the microphone,
+please?
+
+286
+00:32:43,842 --> 00:32:46,721
+Call in and have them send out
+a helicopter.
+
+287
+00:32:46,722 --> 00:32:52,481
+I'm afraid the bureaucrats
+will be rather unhappy
+
+288
+00:32:52,482 --> 00:32:55,840
+with all of our casualties.
+
+289
+00:32:57,762 --> 00:32:59,681
+Now...
+
+290
+00:32:59,682 --> 00:33:03,041
+Mantises,
+at this end of the maze,
+
+291
+00:33:03,042 --> 00:33:04,481
+the ants are at the other.
+
+292
+00:33:04,482 --> 00:33:07,841
+What are we gonna do
+with the girl?
+
+293
+00:33:07,842 --> 00:33:09,761
+What is your concern with her?
+
+294
+00:33:09,762 --> 00:33:13,121
+She's in shock,
+we can't just... she's a kid.
+
+295
+00:33:13,122 --> 00:33:16,481
+Don't shout.
+
+296
+00:33:16,482 --> 00:33:19,361
+This is a problem that
+will have to be dealt with
+
+297
+00:33:19,362 --> 00:33:23,681
+over the next few days
+until we're finished.
+
+298
+00:33:23,682 --> 00:33:26,081
+If you won't call the base,
+I will.
+
+299
+00:33:26,082 --> 00:33:28,481
+I'm very much afraid that that
+will end our mission.
+
+300
+00:33:28,482 --> 00:33:31,361
+Screw our mission.
+
+301
+00:33:33,762 --> 00:33:35,681
+I've finished eating.
+
+302
+00:33:35,682 --> 00:33:38,561
+You know,
+I don't know your name.
+
+303
+00:33:38,562 --> 00:33:40,481
+Oh, Kendra.
+I'm Jim.
+
+304
+00:33:40,482 --> 00:33:42,401
+That's Dr. Hubbs.
+
+305
+00:33:42,402 --> 00:33:44,801
+Come in, come on.
+
+306
+00:33:44,802 --> 00:33:46,721
+You sort of had a close call
+out there, didn't you?
+
+307
+00:33:46,722 --> 00:33:51,521
+How do you feel?
+Well, I'm ready to go home now.
+
+308
+00:33:51,522 --> 00:33:52,961
+Um... I'll send
+a message today.
+
+309
+00:33:52,962 --> 00:33:55,841
+Somebody will come along
+and pick you up tomorrow,
+
+310
+00:33:55,842 --> 00:33:58,721
+if that's convenient.
+
+311
+00:34:04,962 --> 00:34:08,321
+They killed my horse.
+
+312
+00:34:08,322 --> 00:34:11,681
+Kendra, I'm sorry.
+
+313
+00:34:11,682 --> 00:34:13,121
+Kendra!
+
+314
+00:34:13,122 --> 00:34:14,561
+Stop it, stop it.
+
+315
+00:34:14,562 --> 00:34:15,521
+Back away.
+
+316
+00:34:15,522 --> 00:34:17,441
+Don't touch anything.
+
+317
+00:34:17,442 --> 00:34:20,321
+It's alright.
+
+318
+00:34:28,482 --> 00:34:31,361
+That should do it.
+
+319
+00:34:31,362 --> 00:34:33,760
+You've been bitten.
+
+320
+00:36:18,786 --> 00:36:21,184
+<i>So we thought if you</i>
+<i>knocked down one of the towers,</i>
+
+321
+00:36:21,185 --> 00:36:23,585
+<i>taking proper precautions</i>
+<i>of course,</i>
+
+322
+00:36:23,586 --> 00:36:26,465
+<i>you might get</i>
+<i>an interesting reaction.</i>
+
+323
+00:36:26,466 --> 00:36:27,904
+We'll consider it.
+
+324
+00:36:27,905 --> 00:36:30,305
+<i>Just an idea doctor.</i>
+Appreciated.
+
+325
+00:36:30,306 --> 00:36:33,664
+<i>Oh, one other thing.</i>
+Yes?
+
+326
+00:36:33,665 --> 00:36:36,544
+<i>We got a report about a family</i>
+<i>in your vicinity;</i>
+
+327
+00:36:36,545 --> 00:36:40,864
+<i>you haven't contacted</i>
+<i>any civilians, have you?</i>
+
+328
+00:36:41,826 --> 00:36:43,745
+No.
+
+329
+00:38:03,905 --> 00:38:06,784
+<i>Monday, 2:00 a.m.</i>
+
+330
+00:38:06,785 --> 00:38:10,144
+<i>Lesko continues</i>
+<i>to make progress,</i>
+
+331
+00:38:10,145 --> 00:38:12,544
+<i>deciphering the ant language</i>
+
+332
+00:38:12,545 --> 00:38:16,864
+<i>from the tapes recorded</i>
+<i>during the first skirmish.</i>
+
+333
+00:38:16,865 --> 00:38:19,744
+<i>If he maintains this pace,</i>
+
+334
+00:38:19,745 --> 00:38:23,104
+<i>we should be ready</i>
+<i>for their next move.</i>
+
+335
+00:38:34,145 --> 00:38:37,984
+It's a rather crude language,
+
+336
+00:38:37,985 --> 00:38:39,904
+I think if I keep building up
+my library of sound words
+
+337
+00:38:39,905 --> 00:38:41,824
+I might even...
+
+338
+00:38:41,825 --> 00:38:45,184
+Strike up a conversation
+with them.
+
+339
+00:38:46,145 --> 00:38:49,504
+Of course then the ants
+would have to come back.
+
+340
+00:38:49,505 --> 00:38:52,864
+We'd have to be here
+for a while.
+
+341
+00:38:52,865 --> 00:38:54,304
+When's the helicopter coming?
+
+342
+00:38:54,305 --> 00:38:57,184
+Oh, it'll be here.
+
+343
+00:38:57,185 --> 00:39:01,984
+I'm sorry about that.
+Oh, not your fault.
+
+344
+00:39:03,425 --> 00:39:05,824
+Listen, you really wanna see
+something?
+
+345
+00:39:05,825 --> 00:39:08,224
+Another way of visualizing
+their signals.
+
+346
+00:39:08,225 --> 00:39:11,104
+Watch this.
+
+347
+00:39:21,185 --> 00:39:25,984
+I don't have the faintest idea
+what it means.
+
+348
+00:41:02,369 --> 00:41:04,288
+Hey?
+
+349
+00:41:04,289 --> 00:41:06,208
+Remember me?
+
+350
+00:41:06,209 --> 00:41:07,648
+Oh, y--y--yeah!
+
+351
+00:41:07,649 --> 00:41:10,048
+How do you feel?
+
+352
+00:41:10,049 --> 00:41:14,367
+Oh...Better.
+That's good.
+
+353
+00:41:14,369 --> 00:41:15,328
+H--h--how is um...
+
+354
+00:41:15,329 --> 00:41:16,768
+dr. hubbs?
+Yeah.
+
+355
+00:41:16,769 --> 00:41:20,608
+Oh, he'll survive.
+
+356
+00:41:20,609 --> 00:41:22,048
+I'm really sorry about that I...
+
+357
+00:41:22,049 --> 00:41:23,968
+Listen, if I were you
+I'd have popped those ants
+
+358
+00:41:23,969 --> 00:41:25,408
+pretty good myself.
+
+359
+00:41:25,409 --> 00:41:29,248
+You know
+you've got a mean swing.
+
+360
+00:41:29,249 --> 00:41:32,128
+Well, the main thing is
+you're alright.
+
+361
+00:41:32,129 --> 00:41:35,968
+We'll get you out of here today.
+
+362
+00:41:36,449 --> 00:41:37,888
+What's the matter?
+
+363
+00:41:37,889 --> 00:41:41,728
+Don't tell me
+you like this place?
+
+364
+00:41:43,649 --> 00:41:47,967
+My grandparents are dead,
+aren't they?
+
+365
+00:41:47,969 --> 00:41:50,848
+Yeah, they are.
+
+366
+00:41:51,809 --> 00:41:55,648
+What?
+Don't you have parents?
+
+367
+00:41:56,609 --> 00:41:58,528
+Well, you must be hungry.
+
+368
+00:41:58,529 --> 00:42:02,848
+Come on,
+I'll get you some breakfast.
+
+369
+00:42:02,849 --> 00:42:04,288
+Okay.
+
+370
+00:42:04,289 --> 00:42:08,128
+Follow me through
+the hardware department.
+
+371
+00:42:16,289 --> 00:42:20,608
+Can I ask you a question?
+Yeah, sure, go ahead.
+
+372
+00:42:20,609 --> 00:42:23,488
+What do you do here?
+
+373
+00:42:23,489 --> 00:42:28,288
+Just a little research into
+statistical probabilities.
+
+374
+00:42:28,289 --> 00:42:32,608
+Really?
+It must be interesting.
+
+375
+00:42:35,489 --> 00:42:38,368
+Well, we've got powdered eggs,
+powdered milk,
+
+376
+00:42:38,369 --> 00:42:42,208
+powdered juice,
+dehydrated bacon,
+
+377
+00:42:42,209 --> 00:42:45,088
+just like home.
+
+378
+00:42:45,089 --> 00:42:46,528
+James?
+
+379
+00:42:46,529 --> 00:42:48,448
+Are you alright?
+Oh, yeah.
+
+380
+00:42:48,449 --> 00:42:52,288
+See you in a little while.
+Okay.
+
+381
+00:43:00,449 --> 00:43:03,328
+Good morningJames.
+
+382
+00:43:03,329 --> 00:43:06,688
+As you can see
+we're under siege.
+
+383
+00:43:06,689 --> 00:43:08,128
+What the hell's that?
+
+384
+00:43:08,129 --> 00:43:09,568
+It's more than
+reflected sunlight.
+
+385
+00:43:09,569 --> 00:43:11,488
+Our temperature is already up
+five degrees.
+
+386
+00:43:11,489 --> 00:43:13,888
+There's another
+interesting detail.
+
+387
+00:43:13,889 --> 00:43:17,248
+How do you suppose those ants
+managed to build
+
+388
+00:43:17,249 --> 00:43:21,568
+on a poisonous strip where they
+absolutely cannot live?
+
+389
+00:43:21,569 --> 00:43:23,008
+Did you say five degrees?
+Hmm.
+
+390
+00:43:23,009 --> 00:43:24,448
+In an hour and a half.
+
+391
+00:43:24,449 --> 00:43:27,328
+And of course the sun's
+not yet at full strength.
+
+392
+00:43:27,329 --> 00:43:30,688
+Now watch this.
+An hour and a half?
+
+393
+00:43:30,689 --> 00:43:35,488
+Oh, you must watch this,
+this is fascinating, there.
+
+394
+00:43:35,489 --> 00:43:37,888
+Beautiful adaptation,
+isn't it?
+
+395
+00:43:37,889 --> 00:43:39,808
+We challenge with
+yellow chemistry,
+
+396
+00:43:39,809 --> 00:43:41,728
+they respond with
+yellow creatures.
+
+397
+00:43:41,729 --> 00:43:43,648
+We're gonna fry in here.
+
+398
+00:43:43,649 --> 00:43:47,488
+Question,
+what do they want?
+
+399
+00:43:47,969 --> 00:43:50,848
+What are their goals?
+They have no goals.
+
+400
+00:43:50,849 --> 00:43:54,688
+Well, you saw how
+they disabled the truck.
+
+401
+00:43:54,689 --> 00:43:56,128
+Listen, Hubbs,
+I came down here
+
+402
+00:43:56,129 --> 00:43:59,008
+to get in a couple of weeks
+of science in the sun,
+
+403
+00:43:59,009 --> 00:44:01,888
+I did not sign up for a war
+against a bunch of goddamn ants.
+
+404
+00:44:01,889 --> 00:44:03,328
+And furthermore, why the hell
+
+405
+00:44:03,329 --> 00:44:07,168
+did you leave the truck
+out there in the first place?
+
+406
+00:44:07,169 --> 00:44:09,088
+Bait.
+
+407
+00:44:09,089 --> 00:44:10,528
+Bait?
+
+408
+00:44:10,529 --> 00:44:12,448
+Well, I had to get them
+to attack us, didn't I?
+
+409
+00:44:12,449 --> 00:44:14,368
+They're rather intelligent,
+you know.
+
+410
+00:44:14,369 --> 00:44:19,168
+I thought you'd observed that
+geometric pattern in the field?
+
+411
+00:44:19,169 --> 00:44:20,128
+You mean you saw it?
+
+412
+00:44:20,129 --> 00:44:23,008
+Of course I did.
+
+413
+00:44:23,009 --> 00:44:25,408
+Why didn't you say something?
+Why didn't you?
+
+414
+00:44:25,409 --> 00:44:28,288
+Well, I didn't think you were
+smart enough to appreciate it.
+
+415
+00:44:28,289 --> 00:44:31,168
+With all your high class
+bug talk.
+
+416
+00:44:31,169 --> 00:44:35,968
+I was afraid that
+you'd be terrified and run away,
+
+417
+00:44:35,969 --> 00:44:37,408
+and I need you.
+
+418
+00:44:37,409 --> 00:44:42,208
+Well, you're right about that.
+When's the helicopter coming?
+
+419
+00:44:42,209 --> 00:44:46,048
+James,
+we are faced with a power
+
+420
+00:44:46,049 --> 00:44:47,968
+that has appeared
+and is exerting itself.
+
+421
+00:44:47,969 --> 00:44:50,368
+We have the opportunity
+to study it,
+
+422
+00:44:50,369 --> 00:44:53,248
+to learn from it, to teach it
+its limitations.
+
+423
+00:44:53,249 --> 00:44:56,608
+We can, in a word,
+educate it.
+
+424
+00:44:56,609 --> 00:44:59,488
+You said you called.
+
+425
+00:44:59,489 --> 00:45:02,368
+We can try the blue, of course,
+but they'd only readapt again.
+
+426
+00:45:02,369 --> 00:45:05,248
+So we have to consider
+other alternatives.
+
+427
+00:45:05,249 --> 00:45:07,648
+You mean you didn't call?
+
+428
+00:45:07,649 --> 00:45:11,008
+It is absolutely vital that
+we give them the opportunity
+
+429
+00:45:11,009 --> 00:45:13,408
+to try their strength
+against ours,
+
+430
+00:45:13,409 --> 00:45:15,328
+and learn from its consequences.
+
+431
+00:45:15,329 --> 00:45:17,248
+I'm gonna call in, hubbs.
+
+432
+00:45:17,249 --> 00:45:19,648
+And I'm gonna tell them not only
+to take that girl out of here,
+
+433
+00:45:19,649 --> 00:45:24,448
+I'm gonna tell them to take me
+out of here too.
+
+434
+00:45:24,449 --> 00:45:25,888
+You wanna call?
+
+435
+00:45:25,889 --> 00:45:30,208
+You're just as fascinated
+by this challenge as I am.
+
+436
+00:45:30,209 --> 00:45:32,607
+Ah!
+
+437
+00:45:35,009 --> 00:45:36,928
+We're cut off.
+
+438
+00:45:36,929 --> 00:45:41,247
+Then our success
+will be all the sweeter.
+
+439
+00:45:53,344 --> 00:45:54,784
+<i>Sunday, one o'clock,</i>
+
+440
+00:45:54,785 --> 00:45:57,184
+<i>the battle is on,</i>
+
+441
+00:45:57,184 --> 00:45:59,104
+<i>lesko is preparing</i>
+<i>the counteraction</i>
+
+442
+00:45:59,104 --> 00:46:01,024
+<i>I have indicated.</i>
+
+443
+00:46:01,024 --> 00:46:03,424
+<i>The air conditioner</i>
+<i>is being adjusted</i>
+
+444
+00:46:03,425 --> 00:46:07,264
+<i>to take account</i>
+<i>of the temperature rise.</i>
+
+445
+00:46:07,265 --> 00:46:10,624
+<i>Human beings can exist</i>
+<i>in temperatures of 120 degrees</i>
+
+446
+00:46:10,624 --> 00:46:12,064
+<i>or higher.</i>
+
+447
+00:46:12,065 --> 00:46:16,383
+<i>But our computer shuts down</i>
+<i>at 90.</i>
+
+448
+00:46:21,665 --> 00:46:24,544
+Kendra?
+
+449
+00:46:25,024 --> 00:46:28,383
+You wanna see
+what we're doing?
+
+450
+00:46:29,824 --> 00:46:33,183
+Come on, I'll show you,
+it's interesting.
+
+451
+00:46:36,544 --> 00:46:38,944
+The name of the game today
+is king of the hill.
+
+452
+00:46:38,945 --> 00:46:42,303
+You see over there?
+
+453
+00:46:42,304 --> 00:46:47,103
+Now we wanna knock them down
+before they burn us out, okay?
+
+454
+00:47:35,104 --> 00:47:37,023
+What's that?
+
+455
+00:47:37,024 --> 00:47:38,464
+White sound.
+
+456
+00:47:38,465 --> 00:47:39,903
+That's every sound in the world
+all pushed together
+
+457
+00:47:39,904 --> 00:47:41,823
+to make one really
+terrific noise
+
+458
+00:47:41,824 --> 00:47:45,183
+which we're broadcasting
+to those mounds out there.
+
+459
+00:47:48,544 --> 00:47:50,944
+And that's what it looks like
+as we send it out.
+
+460
+00:47:50,945 --> 00:47:53,824
+Okay?
+
+461
+00:47:53,825 --> 00:47:55,744
+Now when that sound
+gets out to those mounds,
+
+462
+00:47:55,745 --> 00:48:01,504
+it bounces right back here
+and winds up down there.
+
+463
+00:48:01,505 --> 00:48:03,903
+Good.
+Something's missing.
+
+464
+00:48:03,904 --> 00:48:08,224
+One of the sounds we sent out
+didn't come back.
+
+465
+00:48:08,225 --> 00:48:13,984
+Now let's just see if we can
+find out what that sound is.
+
+466
+00:48:19,264 --> 00:48:21,183
+There it is.
+
+467
+00:48:21,184 --> 00:48:24,544
+Now that's the sound we're gonna
+broadcast to those mounds.
+
+468
+00:48:24,545 --> 00:48:28,863
+And when we do, interesting
+things better happen.
+
+469
+00:48:32,704 --> 00:48:33,663
+If you think that's loud for us
+
+470
+00:48:33,664 --> 00:48:37,503
+think about how those ants
+are gonna feel.
+
+471
+00:48:44,705 --> 00:48:47,584
+That'll do it.
+
+472
+00:49:30,785 --> 00:49:33,183
+They're going crazy.
+
+473
+00:51:36,545 --> 00:51:39,424
+James?
+
+474
+00:51:39,425 --> 00:51:40,863
+James?
+
+475
+00:51:40,864 --> 00:51:44,223
+Damn air conditioner.
+
+476
+00:51:44,704 --> 00:51:48,543
+I'm afraid I'm feeling rather--
+ow!
+
+477
+00:51:52,384 --> 00:51:53,343
+It's on fire.
+Get away from it.
+
+478
+00:51:53,344 --> 00:51:56,703
+Get out of the way.
+
+479
+00:53:29,344 --> 00:53:33,183
+I just... I can't believe it.
+
+480
+00:53:33,184 --> 00:53:34,624
+To know our plans,
+
+481
+00:53:34,624 --> 00:53:36,063
+our strength,
+our weaknesses.
+
+482
+00:53:36,064 --> 00:53:41,344
+Even the one machine
+that everything else depends on.
+
+483
+00:53:41,344 --> 00:53:43,743
+How could they know?
+
+484
+00:53:43,744 --> 00:53:47,104
+This is impossible.
+
+485
+00:53:47,104 --> 00:53:49,503
+They knew.
+
+486
+00:56:01,984 --> 00:56:05,823
+<i>I am choosing one of</i>
+<i>my less painful moments</i>
+
+487
+00:56:05,824 --> 00:56:09,182
+<i>to record these notes.</i>
+
+488
+00:56:11,104 --> 00:56:15,423
+<i>Our equipment</i>
+<i>only functions now</i>
+
+489
+00:56:15,424 --> 00:56:18,303
+<i>for a few hours at night.</i>
+
+490
+00:56:18,304 --> 00:56:21,663
+<i>Lesko believes</i>
+<i>we're being allowed this time</i>
+
+491
+00:56:21,664 --> 00:56:23,583
+<i>for some purpose.</i>
+
+492
+00:56:23,584 --> 00:56:27,423
+<i>A hypothesis, I do not share.</i>
+
+493
+00:56:27,424 --> 00:56:29,823
+<i>If this were so</i>
+
+494
+00:56:29,824 --> 00:56:32,703
+<i>it would raise questions</i>
+
+495
+00:56:32,704 --> 00:56:36,062
+<i>I had not considered.</i>
+
+496
+00:56:37,984 --> 00:56:43,263
+"Transfer to..."
+
+497
+00:56:43,264 --> 00:56:49,503
+"Nag tape unit three."
+
+498
+00:56:49,504 --> 00:56:54,303
+"Go straight six units."
+
+499
+00:56:54,304 --> 00:57:00,063
+"Right 120 degrees"
+
+500
+00:57:00,064 --> 00:57:02,943
+"four units."
+
+501
+00:57:02,944 --> 00:57:05,343
+"Right 60 degrees"
+
+502
+00:57:05,344 --> 00:57:08,223
+"four units."
+
+503
+00:57:08,224 --> 00:57:11,103
+"Right 120 degrees"
+
+504
+00:57:11,104 --> 00:57:14,462
+"six units."
+
+505
+00:57:32,224 --> 00:57:35,582
+What are you doing?
+
+506
+00:57:36,544 --> 00:57:38,463
+What are you doing?
+
+507
+00:57:38,464 --> 00:57:41,823
+I'm doing something my way.
+
+508
+00:57:41,824 --> 00:57:45,183
+I'm sending a message
+to the ants.
+
+509
+00:57:45,184 --> 00:57:48,063
+Yes, I've been thinking
+about that.
+
+510
+00:57:48,064 --> 00:57:51,423
+The conditioning process
+must be working.
+
+511
+00:57:51,424 --> 00:57:55,263
+But they're not all affected
+as yet.
+
+512
+00:57:55,264 --> 00:57:58,143
+They must be informed
+of their losses
+
+513
+00:57:58,144 --> 00:58:00,063
+and their suffering
+
+514
+00:58:00,064 --> 00:58:03,903
+so they can draw
+the appropriate conclusions.
+
+515
+00:58:03,904 --> 00:58:06,303
+Where is your message?
+
+516
+00:58:06,304 --> 00:58:08,703
+On the plotter.
+
+517
+00:58:18,784 --> 00:58:20,223
+This is no message.
+
+518
+00:58:20,224 --> 00:58:22,143
+Mathematics is
+the universal language
+
+519
+00:58:22,144 --> 00:58:24,063
+among intelligent creatures.
+
+520
+00:58:24,064 --> 00:58:25,983
+If there's an intelligence there
+
+521
+00:58:25,984 --> 00:58:29,823
+I want it to know
+there's an intelligence here.
+
+522
+00:59:29,824 --> 00:59:32,223
+Go away.
+
+523
+00:59:32,224 --> 00:59:37,023
+Please go away.
+
+524
+00:59:55,744 --> 00:59:57,663
+Hubbs: We're reviewing data.
+
+525
+00:59:57,664 --> 01:00:01,791
+Previous analysis show...
+
+526
+01:00:04,192 --> 01:00:07,071
+Do you wanna drink this?
+Analysis...
+
+527
+01:00:07,072 --> 01:00:08,031
+What?
+
+528
+01:00:08,032 --> 01:00:12,831
+Clear, they failed to achieve
+a...
+
+529
+01:00:13,312 --> 01:00:17,631
+They will learn
+we've made up our mind.
+
+530
+01:00:17,632 --> 01:00:21,951
+How did they know?
+How did they know?
+
+531
+01:00:23,392 --> 01:00:25,791
+You!
+
+532
+01:00:44,992 --> 01:00:47,391
+Kendra: Jim! Jim!
+
+533
+01:00:47,392 --> 01:00:51,231
+Jim: What's going on
+back there?
+
+534
+01:00:53,632 --> 01:00:56,991
+Hubbs. Hubbs.
+Come on, come on.
+
+535
+01:00:56,992 --> 01:01:02,271
+I am not helpless,
+I will not be humiliated.
+
+536
+01:01:43,072 --> 01:01:45,951
+Got him!
+
+537
+01:01:50,272 --> 01:01:53,151
+I'm sorry.
+
+538
+01:01:54,112 --> 01:01:56,991
+Come on, come on.
+
+539
+01:02:23,392 --> 01:02:26,751
+Could you hold me
+for a minute?
+
+540
+01:03:24,832 --> 01:03:27,711
+James?
+
+541
+01:03:29,152 --> 01:03:32,031
+James?
+
+542
+01:03:34,432 --> 01:03:41,151
+If I was irrational during
+the heat of the day,
+
+543
+01:03:41,152 --> 01:03:44,031
+I apologize.
+
+544
+01:03:48,832 --> 01:03:51,711
+Why don't they kill us?
+
+545
+01:03:52,192 --> 01:03:57,951
+Why roast us in here all day,
+dare us to come out at night?
+
+546
+01:03:59,872 --> 01:04:03,230
+Why play these games?
+
+547
+01:04:04,192 --> 01:04:07,551
+What do they want?
+
+548
+01:04:08,032 --> 01:04:10,911
+I've been thinking about
+specialization
+
+549
+01:04:10,912 --> 01:04:14,271
+among certain insects.
+
+550
+01:04:15,232 --> 01:04:18,111
+Take it easy.
+
+551
+01:04:18,112 --> 01:04:20,991
+Try to get some sleep.
+
+552
+01:04:20,992 --> 01:04:26,751
+In every ant colony...
+
+553
+01:04:26,752 --> 01:04:33,471
+Workers, winged males
+and the queen.
+
+554
+01:04:33,472 --> 01:04:39,231
+Ants are organized
+by the queen.
+
+555
+01:04:39,232 --> 01:04:44,031
+Keeping her alive.
+
+556
+01:04:44,032 --> 01:04:49,310
+She's the heart and soul
+of their lives.
+
+557
+01:04:51,232 --> 01:04:57,471
+She's at the centre.
+It is she who speaks.
+
+558
+01:04:57,472 --> 01:05:00,831
+If she died,
+
+559
+01:05:00,832 --> 01:05:05,435
+discipline, organization
+would crumble.
+
+560
+01:05:09,472 --> 01:05:11,391
+The war's over, hubbs.
+
+561
+01:05:11,392 --> 01:05:15,231
+They have the power.
+
+562
+01:05:15,232 --> 01:05:19,551
+Only hope now is if they answer
+our message in the morning.
+
+563
+01:05:19,552 --> 01:05:21,951
+Convince them
+we're worth keeping alive.
+
+564
+01:05:21,952 --> 01:05:28,191
+I think I could locate the queen
+and kill her.
+
+565
+01:05:32,031 --> 01:05:38,270
+Lock the tracker onto her voice
+when she speaks.
+
+566
+01:05:38,751 --> 01:05:43,551
+What makes you think
+she'd speak to you?
+
+567
+01:05:53,632 --> 01:05:56,031
+What is it?
+
+568
+01:05:56,991 --> 01:05:59,391
+Th--the--the--
+
+569
+01:05:59,392 --> 01:06:02,271
+lights.
+
+570
+01:06:02,272 --> 01:06:06,108
+Ha-ha, it's just a...
+
+571
+01:06:27,711 --> 01:06:31,550
+Bare in mind
+we still have our hard suits.
+
+572
+01:06:31,551 --> 01:06:35,390
+Yeah, two of them.
+
+573
+01:06:46,432 --> 01:06:49,790
+They're sending back my message.
+
+574
+01:06:51,232 --> 01:06:54,590
+Hubbs, there's more.
+
+575
+01:07:08,991 --> 01:07:11,870
+What does it mean?
+
+576
+01:07:12,352 --> 01:07:15,710
+What the hell does it mean?
+
+577
+01:07:15,711 --> 01:07:20,031
+A circle with a dot.
+
+578
+01:07:20,032 --> 01:07:24,831
+Now I know how a rat feels
+in a maze.
+
+579
+01:07:28,672 --> 01:07:32,030
+Rats in a maze.
+
+580
+01:07:32,031 --> 01:07:34,431
+It's almost like
+a controlled experiment
+
+581
+01:07:34,432 --> 01:07:40,191
+in which we are the subjects.
+
+582
+01:07:40,192 --> 01:07:45,470
+Find out which rat
+is the smartest.
+
+583
+01:07:45,471 --> 01:07:48,350
+The strongest.
+
+584
+01:07:53,632 --> 01:07:56,511
+An intelligence test.
+
+585
+01:08:06,591 --> 01:08:10,910
+Could the circle be this place?
+
+586
+01:08:13,792 --> 01:08:17,631
+And what does the dot represent?
+
+587
+01:08:19,552 --> 01:08:22,431
+Could the dot be a person?
+
+588
+01:08:22,432 --> 01:08:24,351
+Someone they want.
+
+589
+01:08:24,352 --> 01:08:27,710
+Who could they want?
+
+590
+01:08:27,711 --> 01:08:31,550
+They want somebody?
+
+591
+01:08:32,032 --> 01:08:34,430
+I think so.
+
+592
+01:08:34,431 --> 01:08:37,791
+But why would they want
+somebody?
+
+593
+01:08:37,792 --> 01:08:41,150
+To talk to them.
+
+594
+01:08:41,151 --> 01:08:43,070
+You mean they...
+
+595
+01:08:43,071 --> 01:08:47,391
+They might be angry at someone
+who did them some harm?
+
+596
+01:08:47,392 --> 01:08:50,271
+What would they do
+with that person?
+
+597
+01:08:50,272 --> 01:08:51,710
+I don't know.
+
+598
+01:08:51,711 --> 01:08:55,550
+Would they let the others
+go free?
+
+599
+01:08:55,551 --> 01:08:56,991
+James.
+
+600
+01:08:56,992 --> 01:08:59,871
+Come here.
+
+601
+01:09:10,432 --> 01:09:16,670
+I believe
+I've located the queen.
+
+602
+01:09:22,431 --> 01:09:25,790
+She's in there.
+
+603
+01:10:01,599 --> 01:10:04,383
+♪ Oh, sweet to walk ♪
+
+604
+01:10:04,479 --> 01:10:10,719
+♪ In the pilgrims way ♪
+
+605
+01:10:10,720 --> 01:10:16,768
+♪ Leaning on
+the everlasting arms ♪
+
+606
+01:10:17,919 --> 01:10:24,159
+♪ Oh, how bright the path ♪
+
+607
+01:10:24,160 --> 01:10:30,879
+♪ Grows from day to day ♪
+
+608
+01:10:31,840 --> 01:10:36,543
+♪ Leaning on the everla--♪
+
+609
+01:11:03,039 --> 01:11:04,958
+Where are the grenades?
+
+610
+01:11:04,959 --> 01:11:08,319
+Used up when you destroyed
+the towers.
+
+611
+01:11:08,320 --> 01:11:10,718
+All of them?
+
+612
+01:11:12,639 --> 01:11:17,438
+Then we must devise
+something else.
+
+613
+01:11:37,599 --> 01:11:39,999
+James, please I...
+
+614
+01:11:40,000 --> 01:11:41,438
+My boots I...
+
+615
+01:11:41,439 --> 01:11:44,318
+Would you please,
+I can't...
+
+616
+01:11:44,319 --> 01:11:45,759
+You're gonna walk out of here?
+
+617
+01:11:45,760 --> 01:11:48,639
+Trek miles through the desert?
+
+618
+01:11:48,640 --> 01:11:50,078
+Destroy a colony full of
+poisonous ants
+
+619
+01:11:50,079 --> 01:11:51,998
+and a deadly queen?
+
+620
+01:11:51,999 --> 01:11:54,399
+You can't even
+get your boots on.
+
+621
+01:11:54,400 --> 01:11:56,798
+Come on,Hubbs, sit down.
+
+622
+01:11:56,799 --> 01:12:01,118
+What we're gonna do
+is send another message.
+
+623
+01:12:03,519 --> 01:12:05,918
+You must go!
+
+624
+01:12:07,359 --> 01:12:10,238
+You must show them
+
+625
+01:12:10,239 --> 01:12:11,679
+we will not...
+
+626
+01:12:11,680 --> 01:12:16,479
+Man will not give in.
+
+627
+01:12:24,160 --> 01:12:27,999
+Did I tell you I figured out
+their first message?
+
+628
+01:12:28,000 --> 01:12:30,879
+The dot is you.
+
+629
+01:12:32,800 --> 01:12:35,198
+They want you.
+
+630
+01:12:35,199 --> 01:12:38,558
+And they shall soon have me.
+
+631
+01:12:51,040 --> 01:12:52,959
+I'm sorry,Hubbs,
+
+632
+01:12:52,960 --> 01:12:56,318
+it's not gonna happen your way.
+
+633
+01:13:08,320 --> 01:13:11,678
+Kendra.
+
+634
+01:13:34,240 --> 01:13:36,638
+Stop!
+She's there.
+
+635
+01:13:36,639 --> 01:13:39,039
+That hill, the queen.
+
+636
+01:13:39,040 --> 01:13:40,959
+Hubbs, you can't do it.
+Now come on, come on!
+
+637
+01:13:40,960 --> 01:13:43,358
+Queen!
+
+638
+01:14:08,800 --> 01:14:09,759
+Hubbs!
+
+639
+01:14:09,760 --> 01:14:10,719
+Hubbs!
+
+640
+01:14:10,720 --> 01:14:14,559
+Hubbs!
+
+641
+01:14:14,560 --> 01:14:16,479
+Hubbs!
+
+642
+01:14:16,480 --> 01:14:19,359
+Goddamn you.
+
+643
+01:14:19,360 --> 01:14:21,758
+Hubbs!
+
+644
+01:14:46,719 --> 01:14:49,598
+<i>I would still like</i>
+<i>to believe that given time</i>
+
+645
+01:14:49,599 --> 01:14:53,438
+<i>we could have come</i>
+<i>to an understanding.</i>
+
+646
+01:14:53,439 --> 01:14:56,318
+<i>Some rational accommodation</i>
+<i>of interests,</i>
+
+647
+01:14:56,319 --> 01:15:00,638
+<i>some agreement.</i>
+
+648
+01:15:01,119 --> 01:15:05,438
+<i>But that's not the way</i>
+<i>it's going to be.</i>
+
+649
+01:15:10,240 --> 01:15:14,079
+<i>I've made some calculations</i>
+<i>about their rate of expansion</i>
+
+650
+01:15:14,080 --> 01:15:17,919
+<i>using their intelligence and</i>
+<i>their powers of organization,</i>
+
+651
+01:15:17,920 --> 01:15:20,318
+<i>and their network</i>
+<i>of communications,</i>
+
+652
+01:15:20,319 --> 01:15:22,238
+<i>their poisons.</i>
+
+653
+01:15:22,239 --> 01:15:24,158
+<i>Their ability to adapt</i>
+<i>genetically.</i>
+
+654
+01:15:24,159 --> 01:15:27,038
+<i>I believe that after</i>
+<i>this test run now</i>
+
+655
+01:15:27,039 --> 01:15:29,439
+<i>they'll move rather quickly</i>
+<i>into desert areas.</i>
+
+656
+01:15:29,440 --> 01:15:32,319
+<i>Taking over the countryside</i>
+<i>first</i>
+
+657
+01:15:32,320 --> 01:15:35,678
+<i>then laying siege to towns</i>
+<i>and cities.</i>
+
+658
+01:15:35,679 --> 01:15:38,079
+<i>I believe they will learn</i>
+<i>as they advance,</i>
+
+659
+01:15:38,080 --> 01:15:43,358
+<i>anticipating our moves and</i>
+<i>continue to stay a move ahead.</i>
+
+660
+01:15:43,359 --> 01:15:46,238
+<i>We have only one chance,</i>
+
+661
+01:15:46,239 --> 01:15:49,599
+<i>the counter attack</i>
+<i>suggested by doctor Hubbs.</i>
+
+662
+01:15:49,600 --> 01:15:52,958
+<i>A direct assault</i>
+<i>on their queen.</i>
+
+663
+01:15:52,959 --> 01:15:56,798
+<i>Jesus, I wish it wasn't me.</i>
+
+664
+01:16:05,439 --> 01:16:08,798
+There you are.
+
+665
+01:17:29,919 --> 01:17:31,838
+They wanted...
+
+666
+01:17:31,839 --> 01:17:34,046
+Us.
+
+667
+01:17:57,567 --> 01:18:01,406
+<i>We knew then,</i>
+<i>we were being changed</i>
+
+668
+01:18:01,407 --> 01:18:04,766
+<i>and made part of their world.</i>
+
+669
+01:18:05,727 --> 01:18:09,566
+<i>We didn't know</i>
+<i>for what purpose.</i>
+
+670
+01:18:10,047 --> 01:18:13,886
+<i>But we knew we would be told.</i>

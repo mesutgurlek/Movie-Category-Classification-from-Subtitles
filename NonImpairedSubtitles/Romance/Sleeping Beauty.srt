@@ -1,0 +1,4940 @@
+1
+00:00:30,530 --> 00:00:33,124
+<i>[Singing]</i>
+<i>I know you</i>
+
+2
+00:00:33,166 --> 00:00:38,365
+<i>I waIked with you</i>
+<i>once upon a dream</i>
+
+3
+00:00:38,405 --> 00:00:41,203
+<i>I know you</i>
+
+4
+00:00:41,241 --> 00:00:46,110
+<i>The gIeam in your eyes</i>
+<i>is so famiIiar a gIeam</i>
+
+5
+00:00:46,146 --> 00:00:49,445
+<i>Yet I know it's true</i>
+
+6
+00:00:49,482 --> 00:00:54,044
+<i>That visions</i>
+<i>are seIdom aII they seem</i>
+
+7
+00:00:54,087 --> 00:00:56,555
+<i>But if I know you</i>
+
+8
+00:00:56,589 --> 00:00:58,614
+<i>I know what you'II do</i>
+
+9
+00:00:58,658 --> 00:01:00,785
+<i>You'II Iove me at once</i>
+
+10
+00:01:00,827 --> 00:01:08,598
+<i>The way you did</i>
+<i>once upon a dream</i>
+
+11
+00:02:18,638 --> 00:02:22,267
+<i>NARRATOR: ''In a far away Iand</i>
+<i>Iong ago Iived a King...</i>
+
+12
+00:02:22,308 --> 00:02:24,333
+<i>''and his fair Queen.</i>
+
+13
+00:02:24,377 --> 00:02:27,278
+<i>''Many years had they Ionged</i>
+<i>for a chiId...</i>
+
+14
+00:02:27,313 --> 00:02:29,838
+<i>''and finaIIy</i>
+<i>their wish was granted.</i>
+
+15
+00:02:29,883 --> 00:02:34,980
+<i>''A daughter was born,</i>
+<i>and they caIIed her Aurora.''</i>
+
+16
+00:02:35,021 --> 00:02:40,516
+<i>CHORUS: Sweet Aurora</i>
+
+17
+00:02:42,228 --> 00:02:44,628
+<i>NARRATOR: 'Yes, they named her</i>
+<i>after the dawn...</i>
+
+18
+00:02:44,664 --> 00:02:48,361
+<i>'for she fiIIed their Iives</i>
+<i>with sunshine.</i>
+
+19
+00:02:48,401 --> 00:02:50,835
+<i>''Then a great hoIiday</i>
+<i>was procIaimed...</i>
+
+20
+00:02:50,870 --> 00:02:52,497
+<i>'throughout the kingdom...</i>
+
+21
+00:02:52,539 --> 00:02:54,871
+<i>''so that aII of high</i>
+<i>or Iow estate...</i>
+
+22
+00:02:54,908 --> 00:02:59,004
+<i>''might pay homage</i>
+<i>to the infant Princess.</i>
+
+23
+00:02:59,045 --> 00:03:03,448
+<i>''And our story begins</i>
+<i>on that most joyfuI day.''</i>
+
+24
+00:03:03,483 --> 00:03:06,475
+<i>CHORUS: On that joyfuI day</i>
+
+25
+00:03:06,519 --> 00:03:10,011
+<i>On that joyfuI day</i>
+
+26
+00:03:13,493 --> 00:03:17,589
+<i>JoyfuIIy now</i>
+<i>to our Princess we come</i>
+
+27
+00:03:17,630 --> 00:03:19,757
+<i>Bringing gifts</i>
+<i>and aII good wishes</i>
+
+28
+00:03:19,799 --> 00:03:22,461
+<i>To repIedge</i>
+<i>our IoyaIty anew</i>
+
+29
+00:03:22,502 --> 00:03:26,666
+<i>HaiI to the Princess Aurora</i>
+
+30
+00:03:26,706 --> 00:03:30,767
+<i>AII of her subjects</i>
+<i>adore her</i>
+
+31
+00:03:30,810 --> 00:03:32,971
+<i>HaiI to the King</i>
+
+32
+00:03:33,012 --> 00:03:34,980
+<i>HaiI to the Queen</i>
+
+33
+00:03:35,014 --> 00:03:39,542
+<i>HaiI to the Princess Aurora</i>
+
+34
+00:03:39,586 --> 00:03:43,750
+<i>HeaIth to the Princess,</i>
+<i>weaIth to the Princess</i>
+
+35
+00:03:43,790 --> 00:03:48,056
+<i>Long Iive</i>
+<i>the Princess Aurora</i>
+
+36
+00:03:48,094 --> 00:03:52,394
+<i>HaiI Aurora</i>
+
+37
+00:03:52,432 --> 00:03:56,732
+<i>HaiI Aurora</i>
+
+38
+00:03:56,769 --> 00:04:01,103
+<i>HeaIth to the Princess,</i>
+<i>weaIth to the Princess</i>
+
+39
+00:04:01,140 --> 00:04:05,406
+<i>Long Iive</i>
+<i>the Princess Aurora</i>
+
+40
+00:04:05,445 --> 00:04:07,504
+<i>HaiI to the King</i>
+
+41
+00:04:07,547 --> 00:04:09,481
+<i>HaiI to the Queen</i>
+
+42
+00:04:09,515 --> 00:04:18,947
+<i>HaiI to the Princess Aurora</i>
+
+43
+00:04:18,992 --> 00:04:21,654
+<i>NARRATOR: ''Thus,</i>
+<i>on this great and joyous day...</i>
+
+44
+00:04:21,694 --> 00:04:25,960
+<i>''did aII the kingdom ceIebrate</i>
+<i>the Iong-awaited royaI birth...</i>
+
+45
+00:04:25,999 --> 00:04:29,491
+<i>''and good King Stefan</i>
+<i>and his Queen made weIcome...</i>
+
+46
+00:04:29,535 --> 00:04:30,934
+<i>'their IifeIong friend.''</i>
+
+47
+00:04:32,005 --> 00:04:33,996
+[Playing fanfare]
+
+48
+00:04:37,944 --> 00:04:41,175
+[Loudly]
+Their Royal Highnesses...
+
+49
+00:04:41,214 --> 00:04:46,481
+<i>King Hubert</i>
+<i>and Prince PhiIIip!</i>
+
+50
+00:04:46,519 --> 00:04:49,113
+<i>NARRATOR: ''FondIy had these</i>
+<i>monarchs dreamed one day...</i>
+
+51
+00:04:49,155 --> 00:04:50,986
+<i>'their kingdoms to unite...</i>
+
+52
+00:04:51,024 --> 00:04:52,719
+<i>'thus, today wouId they</i>
+<i>announce...</i>
+
+53
+00:04:52,759 --> 00:04:55,592
+<i>'that PhiIIip,</i>
+<i>Hubert's son and heir...</i>
+
+54
+00:04:55,628 --> 00:04:58,529
+<i>'to Stefan's chiId</i>
+<i>wouId be betrothed.''</i>
+
+55
+00:05:00,533 --> 00:05:03,400
+<i>''And so, to her</i>
+<i>his gift he brought...</i>
+
+56
+00:05:03,436 --> 00:05:07,463
+<i>''and Iooked, unknowing,</i>
+<i>on his future bride.''</i>
+
+57
+00:05:10,476 --> 00:05:12,467
+[Playing fanfare]
+
+58
+00:05:21,487 --> 00:05:25,787
+<i>ANNOUNCER: Their most honored</i>
+<i>and exaIted ExceIIencies...</i>
+
+59
+00:05:25,825 --> 00:05:28,988
+<i>the three good fairies...</i>
+
+60
+00:05:31,331 --> 00:05:33,799
+<i>Mistress FIora...</i>
+
+61
+00:05:33,833 --> 00:05:36,165
+<i>Mistress Fauna...</i>
+
+62
+00:05:36,202 --> 00:05:39,467
+<i>and Mistress Merryweather!</i>
+
+63
+00:05:39,505 --> 00:05:41,405
+<i>[Trumpet fanfare]</i>
+
+64
+00:05:49,482 --> 00:05:50,972
+-Ahh.
+-Oh.
+
+65
+00:05:51,017 --> 00:05:53,781
+The little darling.
+
+66
+00:05:56,022 --> 00:05:58,081
+FAlRlES: Your Majesties.
+
+67
+00:05:58,124 --> 00:06:00,524
+Each of us
+the child may bless...
+
+68
+00:06:00,560 --> 00:06:02,221
+with a single gift...
+
+69
+00:06:02,261 --> 00:06:04,957
+no more, no less.
+
+70
+00:06:08,301 --> 00:06:11,429
+Little Princess,
+my gift shall be...
+
+71
+00:06:11,471 --> 00:06:13,962
+the gift of beauty.
+
+72
+00:06:16,976 --> 00:06:20,241
+<i>CHORUS: One gift</i>
+
+73
+00:06:20,279 --> 00:06:24,443
+<i>Beauty rare</i>
+
+74
+00:06:24,484 --> 00:06:31,390
+<i>GoId of sunshine</i>
+<i>in her hair</i>
+
+75
+00:06:31,424 --> 00:06:38,193
+<i>Lips that shame</i>
+<i>the red, red rose</i>
+
+76
+00:06:38,231 --> 00:06:46,502
+<i>She'II waIk with springtime</i>
+<i>wherever she goes</i>
+
+77
+00:06:52,345 --> 00:06:54,575
+Tiny Princess...
+
+78
+00:06:54,614 --> 00:06:58,516
+my gift shall be
+the gift of song.
+
+79
+00:07:04,957 --> 00:07:07,653
+<i>CHORUS: One gift</i>
+
+80
+00:07:07,693 --> 00:07:11,754
+<i>The gift of song</i>
+
+81
+00:07:11,798 --> 00:07:18,101
+<i>MeIody her whoIe Iife Iong</i>
+
+82
+00:07:18,137 --> 00:07:25,441
+<i>The nightingaIes</i>
+<i>her tune adore</i>
+
+83
+00:07:25,478 --> 00:07:34,978
+<i>Bringing his sweet</i>
+<i>serenade to her door</i>
+
+84
+00:07:39,492 --> 00:07:43,792
+Sweet Princess,
+my gift shall be the...
+
+85
+00:07:43,830 --> 00:07:45,957
+[Doors thump]
+
+86
+00:07:45,998 --> 00:07:48,967
+Wind howls]
+
+87
+00:07:53,906 --> 00:07:57,000
+[Thunder and lightning]
+
+88
+00:08:06,452 --> 00:08:08,181
+<i>FAUNA: Why, it's MaIeficent.</i>
+
+89
+00:08:08,221 --> 00:08:10,018
+What does she want here?
+
+90
+00:08:10,056 --> 00:08:11,114
+Shhh.
+
+91
+00:08:11,157 --> 00:08:12,749
+Well...
+
+92
+00:08:12,792 --> 00:08:15,955
+Quite a glittering
+assemblage, King Stefan.
+
+93
+00:08:15,995 --> 00:08:22,127
+Royalty, nobility,
+the gentry, and--
+
+94
+00:08:22,168 --> 00:08:25,228
+ah ha ha ha ha--
+how quaint.
+
+95
+00:08:25,271 --> 00:08:27,136
+<i>Even the rabbIe.</i>
+
+96
+00:08:27,173 --> 00:08:28,231
+Ooooh.
+
+97
+00:08:28,274 --> 00:08:30,139
+l really felt
+quite distressed...
+
+98
+00:08:30,176 --> 00:08:32,110
+at not receiving
+an invitation.
+
+99
+00:08:32,144 --> 00:08:33,236
+You weren't wanted.
+
+100
+00:08:33,279 --> 00:08:36,476
+Not wa--ah ha.
+
+101
+00:08:36,516 --> 00:08:39,576
+Oh, dear,
+what an awkward situation.
+
+102
+00:08:39,619 --> 00:08:41,746
+<i>I had hoped</i>
+<i>it was mereIy due...</i>
+
+103
+00:08:41,787 --> 00:08:43,448
+<i>to some oversight.</i>
+
+104
+00:08:43,489 --> 00:08:46,253
+Well, in that event,
+l'd best be on my way.
+
+105
+00:08:46,292 --> 00:08:47,486
+And...
+
+106
+00:08:47,527 --> 00:08:49,927
+you're not offended,
+Your Excellency?
+
+107
+00:08:49,962 --> 00:08:53,557
+Why, no, Your Majesty...
+
+108
+00:08:53,599 --> 00:08:56,193
+and to show l bear
+no ill will...
+
+109
+00:08:56,235 --> 00:09:02,037
+l, too, shall bestow
+a gift on the child.
+
+110
+00:09:02,074 --> 00:09:04,634
+Listen well, all of you.
+
+111
+00:09:04,677 --> 00:09:06,338
+[Scepter clangs]
+
+112
+00:09:06,379 --> 00:09:11,874
+The Princess shall indeed
+grow in grace and beauty...
+
+113
+00:09:11,918 --> 00:09:16,252
+beloved by all
+who know her.
+
+114
+00:09:16,289 --> 00:09:18,917
+But...
+
+115
+00:09:18,958 --> 00:09:22,189
+before the sun sets
+on her sixteenth birthday...
+
+116
+00:09:22,228 --> 00:09:24,696
+she shall prick her finger...
+
+117
+00:09:24,730 --> 00:09:27,255
+<i>on the spindIe</i>
+<i>of a spinning wheeI...</i>
+
+118
+00:09:27,300 --> 00:09:29,200
+<i>and die!</i>
+
+119
+00:09:29,235 --> 00:09:30,702
+Oh, no!
+
+120
+00:09:30,736 --> 00:09:31,896
+Ha ha ha ha ha ha ha.
+
+121
+00:09:31,938 --> 00:09:34,065
+<i>KING STEFAN:</i>
+<i>Seize that creature!</i>
+
+122
+00:09:34,106 --> 00:09:35,801
+Stand back, you fools!
+
+123
+00:09:35,841 --> 00:09:38,139
+<i>[Thunder and Iightning]</i>
+
+124
+00:09:38,177 --> 00:09:43,479
+[Laughs devilishly]
+
+125
+00:09:48,187 --> 00:09:50,087
+Don't despair,
+Your Majesties.
+
+126
+00:09:50,122 --> 00:09:52,920
+Merryweather still has
+her gift to give.
+
+127
+00:09:52,959 --> 00:09:56,656
+Then she can undo
+this fearful curse?
+
+128
+00:09:56,696 --> 00:09:58,459
+Oh, no, sire.
+
+129
+00:09:58,497 --> 00:10:01,432
+Maleficent's powers
+are far too great.
+
+130
+00:10:01,467 --> 00:10:03,992
+But she can help.
+
+131
+00:10:05,638 --> 00:10:06,764
+But...
+
+132
+00:10:06,806 --> 00:10:08,603
+<i>FAUNA: Just do</i>
+<i>your best, dear.</i>
+
+133
+00:10:08,641 --> 00:10:09,630
+<i>FLORA: Yes, go on.</i>
+
+134
+00:10:11,575 --> 00:10:13,440
+Sweet Princess...
+
+135
+00:10:13,477 --> 00:10:16,173
+<i>If through this</i>
+<i>wicked witch's trick...</i>
+
+136
+00:10:16,213 --> 00:10:18,443
+<i>a spindIe shouId</i>
+<i>your finger prick...</i>
+
+137
+00:10:18,482 --> 00:10:22,213
+<i>a ray of hope</i>
+<i>there stiII may be in this...</i>
+
+138
+00:10:22,252 --> 00:10:24,880
+<i>the gift I give to thee.</i>
+
+139
+00:10:24,922 --> 00:10:27,857
+<i>Not in death,</i>
+<i>but just in sIeep...</i>
+
+140
+00:10:27,891 --> 00:10:30,257
+<i>this fatefuI prophecy</i>
+<i>you'II keep...</i>
+
+141
+00:10:30,294 --> 00:10:32,888
+<i>and from this sIumber</i>
+<i>you shaII wake...</i>
+
+142
+00:10:32,930 --> 00:10:37,162
+<i>when true Iove's kiss</i>
+<i>the speII shaII break.</i>
+
+143
+00:10:37,201 --> 00:10:47,543
+<i>CHORUS: For true Iove</i>
+<i>conquers aII</i>
+
+144
+00:10:48,545 --> 00:10:50,513
+<i>NARRATOR: ''But King Stefan...</i>
+
+145
+00:10:50,547 --> 00:10:52,640
+<i>''stiII fearfuI</i>
+<i>of his daughter's Iife...</i>
+
+146
+00:10:52,683 --> 00:10:54,878
+<i>''did then and there decree...</i>
+
+147
+00:10:54,918 --> 00:10:57,113
+<i>'that every spinning wheeI</i>
+<i>in the kingdom...</i>
+
+148
+00:10:57,154 --> 00:11:00,021
+<i>''shouId on that very day</i>
+<i>be burned.</i>
+
+149
+00:11:00,057 --> 00:11:02,457
+<i>''So 'rwas done.''</i>
+
+150
+00:11:02,492 --> 00:11:03,982
+[Fire crackles]
+
+151
+00:11:18,008 --> 00:11:21,444
+Oh, silly...
+
+152
+00:11:23,013 --> 00:11:25,982
+Now, come have a nice
+cup of tea, dear.
+
+153
+00:11:26,016 --> 00:11:28,246
+l'm sure it will
+work out somehow.
+
+154
+00:11:28,285 --> 00:11:31,482
+Well, a bonfire won't
+stop Maleficent.
+
+155
+00:11:31,521 --> 00:11:33,785
+Of course not,
+but what will?
+
+156
+00:11:33,824 --> 00:11:35,689
+<i>Perhaps if we</i>
+<i>reason with her...</i>
+
+157
+00:11:35,726 --> 00:11:36,750
+Reason?
+
+158
+00:11:36,793 --> 00:11:37,987
+With Maleficent?
+
+159
+00:11:38,028 --> 00:11:39,723
+Well, she can't be
+all bad.
+
+160
+00:11:39,763 --> 00:11:41,697
+<i>Oh, yes, she can.</i>
+
+161
+00:11:41,732 --> 00:11:46,396
+Oooh. l'd like to turn her
+into a fat, old hop toad.
+
+162
+00:11:46,436 --> 00:11:49,667
+Now, dear, that isn't
+a very nice thing to say.
+
+163
+00:11:49,706 --> 00:11:51,037
+<i>Besides, we can't.</i>
+
+164
+00:11:51,074 --> 00:11:53,269
+You know our magic
+doesn't work that way.
+
+165
+00:11:53,310 --> 00:11:54,971
+lt can only do good, dear...
+
+166
+00:11:55,012 --> 00:11:57,003
+to bring joy and happiness.
+
+167
+00:11:57,047 --> 00:11:59,038
+Well, <i>that</i> would
+make me happy.
+
+168
+00:11:59,082 --> 00:11:59,216
+But there must be some way.
+
+169
+00:11:59,216 --> 00:12:02,777
+But there must be some way.
+
+170
+00:12:02,819 --> 00:12:04,047
+There is!
+
+171
+00:12:04,087 --> 00:12:06,612
+There is?
+What is it, Flora?
+
+172
+00:12:06,657 --> 00:12:08,454
+l'm going to...
+
+173
+00:12:08,492 --> 00:12:10,153
+Shh, shh, shh,
+shh, shh, shh.
+
+174
+00:12:10,193 --> 00:12:12,491
+[QUlETLY
+Even walls have ears.
+
+175
+00:12:16,500 --> 00:12:17,990
+Follow me.
+
+176
+00:12:31,014 --> 00:12:32,208
+[Click]
+
+177
+00:12:32,249 --> 00:12:35,514
+l'll turn her into a flower.
+
+178
+00:12:35,552 --> 00:12:36,985
+Maleficent?
+
+179
+00:12:37,020 --> 00:12:39,420
+No, no, dear, the Princess.
+
+180
+00:12:39,456 --> 00:12:41,981
+Oh, she'd make
+a lovely flower.
+
+181
+00:12:42,025 --> 00:12:42,992
+Don't you see?
+
+182
+00:12:43,026 --> 00:12:44,493
+A flower can't prick its finger.
+
+183
+00:12:44,528 --> 00:12:45,495
+lt hasn't any.
+
+184
+00:12:45,529 --> 00:12:46,757
+That's right.
+
+185
+00:12:46,797 --> 00:12:48,992
+<i>She'II be perfectIy safe.</i>
+
+186
+00:12:49,032 --> 00:12:51,398
+Until Maleficent
+sends a frost.
+
+187
+00:12:51,435 --> 00:12:53,198
+Yes. Er...
+
+188
+00:12:53,236 --> 00:12:55,067
+Oh, dear.
+
+189
+00:12:55,105 --> 00:12:58,506
+She always ruins
+your nicest flowers.
+
+190
+00:12:58,542 --> 00:13:00,100
+You're right...
+
+191
+00:13:00,143 --> 00:13:03,203
+and she'll be expecting us
+to do something like that.
+
+192
+00:13:03,246 --> 00:13:04,645
+Oooh.
+
+193
+00:13:04,681 --> 00:13:06,444
+Well, what won't she expect?
+
+194
+00:13:06,483 --> 00:13:08,144
+She knows everything.
+
+195
+00:13:08,185 --> 00:13:10,016
+Oh, but she doesn't, dear.
+
+196
+00:13:10,053 --> 00:13:12,954
+Maleficent doesn't know
+anything about love...
+
+197
+00:13:12,990 --> 00:13:16,721
+or kindness or the joy
+of helping others.
+
+198
+00:13:16,760 --> 00:13:19,456
+<i>You know, sometimes</i>
+<i>I don't think...</i>
+
+199
+00:13:19,496 --> 00:13:21,521
+<i>she's reaIIy very happy.</i>
+
+200
+00:13:21,565 --> 00:13:22,827
+That's it.
+
+201
+00:13:22,866 --> 00:13:24,424
+Of course.
+
+202
+00:13:24,468 --> 00:13:26,595
+lt's the only thing
+she can't understand...
+
+203
+00:13:26,636 --> 00:13:28,297
+and won't expect.
+
+204
+00:13:28,338 --> 00:13:29,464
+[Giggles]
+Oh!
+
+205
+00:13:29,506 --> 00:13:30,564
+Now, now, now...
+
+206
+00:13:30,607 --> 00:13:32,165
+we have to plan it carefully.
+
+207
+00:13:32,209 --> 00:13:34,473
+<i>Let's see,</i>
+<i>the woodcutter's cottage.</i>
+
+208
+00:13:34,511 --> 00:13:36,240
+<i>Yes, yes, yes,</i>
+<i>the abandoned one.</i>
+
+209
+00:13:36,279 --> 00:13:38,804
+Of course, the King and Queen
+will object...
+
+210
+00:13:38,849 --> 00:13:41,477
+<i>but when we expIain</i>
+<i>it's the onIy way--</i>
+
+211
+00:13:41,518 --> 00:13:44,487
+<i>MERRYWEATHER:</i>
+<i>ExpIain what?</i>
+
+212
+00:13:44,521 --> 00:13:48,719
+About the three peasant women
+raising a foundling child...
+
+213
+00:13:48,759 --> 00:13:50,556
+deep in the forest.
+
+214
+00:13:50,594 --> 00:13:51,993
+Oh?
+
+215
+00:13:52,029 --> 00:13:54,054
+Well, that's very nice of them.
+
+216
+00:13:54,097 --> 00:13:55,064
+Who are they?
+
+217
+00:13:55,098 --> 00:13:57,032
+Turn around.
+
+218
+00:13:58,535 --> 00:13:59,695
+[Both gasp]
+
+219
+00:13:59,736 --> 00:14:02,398
+-Why, it's us!
+-Uh-huh.
+
+220
+00:14:02,439 --> 00:14:03,929
+You mean we us?
+
+221
+00:14:03,974 --> 00:14:04,941
+Uh-huh.
+
+222
+00:14:04,975 --> 00:14:06,738
+Take care of the baby?
+
+223
+00:14:06,777 --> 00:14:07,937
+<i>Why not?</i>
+
+224
+00:14:07,978 --> 00:14:10,276
+<i>Oh, I'd Iike that!</i>
+
+225
+00:14:10,313 --> 00:14:12,713
+Well, y-yes, but we'd have
+to feed it--
+
+226
+00:14:12,749 --> 00:14:16,446
+And wash it and dress it
+and rock it to sleep.
+
+227
+00:14:16,486 --> 00:14:17,612
+Oh, l'd love it.
+
+228
+00:14:17,654 --> 00:14:19,315
+You really think we can?
+
+229
+00:14:19,356 --> 00:14:21,517
+lf humans can do it,
+so can we.
+
+230
+00:14:21,558 --> 00:14:23,958
+And we'd have
+our magic to help us.
+
+231
+00:14:23,994 --> 00:14:25,461
+<i>That's right.</i>
+
+232
+00:14:25,495 --> 00:14:26,723
+No, no, no,
+no, no, no!
+
+233
+00:14:26,763 --> 00:14:28,355
+No magic.
+
+234
+00:14:28,398 --> 00:14:30,730
+l'll take those wands
+right now.
+
+235
+00:14:30,767 --> 00:14:33,463
+Oh, better get rid
+of those wings, too.
+
+236
+00:14:33,503 --> 00:14:35,562
+You mean live like mortals?
+
+237
+00:14:35,605 --> 00:14:37,539
+For sixteen years?
+
+238
+00:14:37,574 --> 00:14:38,973
+<i>FLORA: Uh-huh.</i>
+
+239
+00:14:39,009 --> 00:14:41,273
+But now--now
+we don't know how.
+
+240
+00:14:41,311 --> 00:14:43,302
+We've never done anything
+without magic.
+
+241
+00:14:43,346 --> 00:14:45,940
+And that's why Maleficent
+will never suspect.
+
+242
+00:14:45,982 --> 00:14:48,041
+But who'll wash and cook?
+
+243
+00:14:48,085 --> 00:14:49,985
+Oh, we'll all pitch in.
+
+244
+00:14:50,020 --> 00:14:51,487
+l'll take care of the baby.
+
+245
+00:14:51,521 --> 00:14:53,716
+Let me have it, dear.
+
+246
+00:14:53,757 --> 00:14:55,622
+Come along, now.
+
+247
+00:14:55,659 --> 00:14:59,117
+We must tell
+Their Majesties at once.
+
+248
+00:15:01,898 --> 00:15:02,922
+<i>FAUNA, FAINTLY: FIora.</i>
+
+249
+00:15:02,966 --> 00:15:04,957
+<i>MERRYWEATHER, FAINTLY:</i>
+<i>FIora.</i>
+
+250
+00:15:09,973 --> 00:15:12,168
+<i>NARRATOR: ''So the King</i>
+<i>and his Queen watched...</i>
+
+251
+00:15:12,209 --> 00:15:13,733
+<i>'with heavy hearts...</i>
+
+252
+00:15:13,777 --> 00:15:17,008
+<i>''as their most precious</i>
+<i>possession, their onIy chiId...</i>
+
+253
+00:15:17,047 --> 00:15:19,515
+<i>''disappeared into the night.''</i>
+
+254
+00:15:32,162 --> 00:15:35,063
+<i>''Many sad and IoneIy years</i>
+<i>passed by...</i>
+
+255
+00:15:35,098 --> 00:15:38,067
+<i>'for King Stefan</i>
+<i>and his peopIe.</i>
+
+256
+00:15:38,101 --> 00:15:40,626
+<i>''But as the time</i>
+<i>for the Princess's...</i>
+
+257
+00:15:40,670 --> 00:15:42,467
+<i>''sixteenth birthday</i>
+<i>drew near...</i>
+
+258
+00:15:42,506 --> 00:15:46,203
+<i>'the entire kingdom</i>
+<i>began to rejoice...</i>
+
+259
+00:15:46,243 --> 00:15:48,040
+<i>'for everyone knew...</i>
+
+260
+00:15:48,078 --> 00:15:50,205
+<i>'that as Iong</i>
+<i>as MaIeficent's domain...</i>
+
+261
+00:15:50,247 --> 00:15:52,044
+<i>'the forbidden mountains...</i>
+
+262
+00:15:52,082 --> 00:15:54,550
+<i>'thundered with her wrath</i>
+<i>and frustration...</i>
+
+263
+00:15:54,584 --> 00:15:58,111
+<i>''her eviI prophecy</i>
+<i>had not yet been fuIfiIIed.''</i>
+
+264
+00:15:58,522 --> 00:16:02,014
+[Thunder and lightning]
+
+265
+00:16:04,961 --> 00:16:07,452
+[Thunder]
+
+266
+00:16:09,733 --> 00:16:11,894
+lt's incredible!
+
+267
+00:16:11,935 --> 00:16:16,429
+Sixteen years,
+and not a trace of her!
+
+268
+00:16:16,473 --> 00:16:19,442
+<i>She couIdn't have vanished</i>
+<i>into thin air!</i>
+
+269
+00:16:19,476 --> 00:16:23,606
+Are you sure
+you searched everywhere?
+
+270
+00:16:23,647 --> 00:16:25,478
+[Snorting]
+Yeah, yeah, uh...
+
+271
+00:16:25,515 --> 00:16:27,608
+Everywhere--we all did.
+
+272
+00:16:27,651 --> 00:16:28,948
+Yeah! Yeah!
+
+273
+00:16:28,985 --> 00:16:30,612
+[All cackle]
+
+274
+00:16:30,654 --> 00:16:32,019
+And what about the town?
+
+275
+00:16:32,055 --> 00:16:33,488
+The forest? The mountains?
+
+276
+00:16:33,523 --> 00:16:35,457
+Uh, we check mountains...
+
+277
+00:16:35,492 --> 00:16:36,959
+uh--uh, forest...
+
+278
+00:16:36,993 --> 00:16:37,960
+[Snorts]
+
+279
+00:16:37,994 --> 00:16:40,792
+Uh, houses and, uh,
+let me see, uh...
+
+280
+00:16:40,830 --> 00:16:42,491
+and all the cradles.
+
+281
+00:16:42,532 --> 00:16:43,829
+Cradles?
+
+282
+00:16:43,867 --> 00:16:46,165
+Uh, yep, yep.
+Ha ha ha ha.
+
+283
+00:16:46,203 --> 00:16:48,171
+Every cradle.
+
+284
+00:16:48,205 --> 00:16:50,469
+Cradle?!
+
+285
+00:16:50,507 --> 00:16:53,032
+Did you hear that, my pet?
+
+286
+00:16:53,076 --> 00:16:55,510
+All these years...
+
+287
+00:16:55,545 --> 00:16:58,241
+<i>they've been Iooking</i>
+<i>for a baby.</i>
+
+288
+00:16:58,281 --> 00:16:59,976
+Oh, ha ha ha!
+
+289
+00:17:00,016 --> 00:17:03,247
+[Cackling]
+
+290
+00:17:03,286 --> 00:17:05,914
+[Snorting and laughing]
+
+291
+00:17:05,956 --> 00:17:10,017
+[All laugh]
+
+292
+00:17:10,060 --> 00:17:11,322
+Fools!
+
+293
+00:17:11,361 --> 00:17:12,487
+[Snorts]
+
+294
+00:17:12,529 --> 00:17:13,996
+<i>Idiots!</i>
+
+295
+00:17:14,030 --> 00:17:15,657
+<i>ImbeciIes!</i>
+
+296
+00:17:15,699 --> 00:17:17,189
+-Aaah!
+-Aaah!
+
+297
+00:17:18,201 --> 00:17:20,499
+[Thunder]
+
+298
+00:17:20,537 --> 00:17:22,835
+[Howling and shrieking]
+
+299
+00:17:22,872 --> 00:17:25,500
+Ooh! Ooh!
+Ouch! Ouch!
+
+300
+00:17:25,542 --> 00:17:27,169
+Ahhh.
+
+301
+00:17:27,210 --> 00:17:29,201
+[Scepter clangs]
+
+302
+00:17:30,547 --> 00:17:32,947
+Oh, they're hopeless...
+
+303
+00:17:32,983 --> 00:17:37,181
+a disgrace
+to the forces of evil.
+
+304
+00:17:37,220 --> 00:17:40,519
+Oh, my pet.
+
+305
+00:17:40,557 --> 00:17:43,048
+You are my last hope.
+
+306
+00:17:43,093 --> 00:17:46,187
+Circle far and wide.
+
+307
+00:17:46,229 --> 00:17:51,326
+Search for a maid of sixteen,
+with hair of sunshine gold...
+
+308
+00:17:51,368 --> 00:17:53,859
+and lips red as the rose.
+
+309
+00:17:53,903 --> 00:17:57,896
+Go, and do not fail me.
+
+310
+00:18:03,046 --> 00:18:05,412
+<i>NARRATOR: ''And so,</i>
+<i>for sixteen Iong years...</i>
+
+311
+00:18:05,448 --> 00:18:07,416
+<i>'the whereabouts</i>
+<i>of the Princess...</i>
+
+312
+00:18:07,450 --> 00:18:08,917
+<i>''remained a mystery...</i>
+
+313
+00:18:08,952 --> 00:18:12,149
+<i>'whiIe deep in the forest</i>
+<i>in a woodcutter's cottage...</i>
+
+314
+00:18:12,188 --> 00:18:15,988
+<i>'the good fairies carried out</i>
+<i>their weII-Iaid pIan.</i>
+
+315
+00:18:16,026 --> 00:18:17,493
+<i>''Living Iike mortaIs...</i>
+
+316
+00:18:17,527 --> 00:18:19,552
+<i>'they had reared the chiId</i>
+<i>as their own...</i>
+
+317
+00:18:19,596 --> 00:18:22,429
+<i>''and caIIed her Briar Rose.''</i>
+
+318
+00:18:22,465 --> 00:18:24,956
+<i>[Woman sings indistinctIy]</i>
+
+319
+00:18:27,470 --> 00:18:29,904
+<i>''On this,</i>
+<i>her sixteenth birthday...</i>
+
+320
+00:18:29,939 --> 00:18:32,407
+<i>'the good fairies</i>
+<i>had pIanned a party...</i>
+
+321
+00:18:32,442 --> 00:18:36,276
+<i>''and something extra speciaI</i>
+<i>for a surprise.''</i>
+
+322
+00:18:36,313 --> 00:18:38,281
+Well, now,
+how about this one?
+
+323
+00:18:38,315 --> 00:18:39,680
+This is the one l picked.
+
+324
+00:18:39,716 --> 00:18:41,741
+Ooh, she'll look
+beautiful in that.
+
+325
+00:18:41,785 --> 00:18:43,582
+Now, l thought
+a few changes here.
+
+326
+00:18:43,620 --> 00:18:44,644
+Uh-huh.
+
+327
+00:18:44,688 --> 00:18:45,780
+Don't forget a pretty bow.
+
+328
+00:18:45,822 --> 00:18:47,915
+Yes, and raise
+the shoulder line.
+
+329
+00:18:47,957 --> 00:18:49,390
+We'll make it blue.
+
+330
+00:18:49,426 --> 00:18:50,518
+Oh, no, dear, pink.
+
+331
+00:18:50,560 --> 00:18:51,993
+Of course, we'll need
+a few pleats.
+
+332
+00:18:52,028 --> 00:18:53,757
+<i>MERRYWEATHER: Yes, but how are</i>
+<i>we going to get her...</i>
+
+333
+00:18:53,797 --> 00:18:54,889
+<i>out of the house?</i>
+
+334
+00:18:54,931 --> 00:18:56,956
+<i>FLORA: I'II think</i>
+<i>of something.</i>
+
+335
+00:18:57,000 --> 00:18:58,467
+Well.
+
+336
+00:18:58,501 --> 00:19:00,935
+<i>And what are you</i>
+<i>three dears up to?</i>
+
+337
+00:19:00,970 --> 00:19:02,403
+-Up to?
+-Up to?
+
+338
+00:19:02,439 --> 00:19:04,600
+Up to? Er, er...
+
+339
+00:19:04,641 --> 00:19:06,768
+<i>[AII stutter]</i>
+
+340
+00:19:06,810 --> 00:19:09,643
+We--we want you
+to pick some berries.
+
+341
+00:19:09,679 --> 00:19:11,772
+That's it--berries.
+
+342
+00:19:11,815 --> 00:19:13,908
+-Berries?
+-Lots of berries.
+
+343
+00:19:13,950 --> 00:19:15,918
+But l picked berries yesterday.
+
+344
+00:19:15,952 --> 00:19:18,420
+FLORA: Oh, we need more, dear.
+
+345
+00:19:18,455 --> 00:19:20,389
+FAUNA: Lots, lots more.
+
+346
+00:19:20,423 --> 00:19:21,913
+<i>FLORA: Yes.</i>
+
+347
+00:19:21,958 --> 00:19:24,392
+<i>Now, don't hurry back, dear.</i>
+
+348
+00:19:24,427 --> 00:19:25,951
+But don't go too far.
+
+349
+00:19:25,995 --> 00:19:27,326
+And don't speak to strangers.
+
+350
+00:19:27,364 --> 00:19:28,922
+<i>FAUNA: Good-bye, dear.</i>
+
+351
+00:19:28,965 --> 00:19:32,059
+<i>ALL: Good-bye!</i>
+<i>Good-bye!</i>
+
+352
+00:19:33,470 --> 00:19:35,461
+l wonder if she suspected.
+
+353
+00:19:35,505 --> 00:19:36,938
+Of course not.
+
+354
+00:19:36,973 --> 00:19:37,997
+[Giggling]
+Come on.
+
+355
+00:19:38,041 --> 00:19:40,635
+Oh, will she be surprised.
+
+356
+00:19:40,677 --> 00:19:42,611
+A real birthday party...
+
+357
+00:19:42,645 --> 00:19:44,579
+with a real birthday cake.
+
+358
+00:19:44,614 --> 00:19:47,549
+Yes, and a dress
+a Princess can be proud of.
+
+359
+00:19:47,584 --> 00:19:49,347
+l'll get the wands.
+
+360
+00:19:49,386 --> 00:19:50,683
+<i>FLORA: Yes, you g--</i>
+
+361
+00:19:50,720 --> 00:19:51,846
+the wands?
+
+362
+00:19:51,888 --> 00:19:53,048
+Oh, no!
+
+363
+00:19:53,089 --> 00:19:54,647
+<i>FLORA: No magic.</i>
+
+364
+00:19:54,691 --> 00:19:57,216
+But the sixteen years
+are almost over.
+
+365
+00:19:57,260 --> 00:19:59,285
+We're taking no chances.
+
+366
+00:19:59,329 --> 00:20:02,457
+But l've never baked
+a fancy cake.
+
+367
+00:20:02,499 --> 00:20:04,524
+Oh, you won't have to, dear.
+
+368
+00:20:04,567 --> 00:20:06,728
+l'm going to bake the cake.
+
+369
+00:20:06,770 --> 00:20:07,737
+You?
+
+370
+00:20:07,771 --> 00:20:09,671
+Oh, she's always
+wanted to, dear...
+
+371
+00:20:09,706 --> 00:20:10,968
+and this is her last chance.
+
+372
+00:20:11,007 --> 00:20:11,996
+Well...
+
+373
+00:20:12,041 --> 00:20:13,702
+l'm going to make it
+fifteen layers...
+
+374
+00:20:13,743 --> 00:20:15,870
+with pink and blue
+forget-me-nots.
+
+375
+00:20:15,912 --> 00:20:17,777
+And l'm making the dress.
+
+376
+00:20:17,814 --> 00:20:21,511
+But you can't sew,
+and she's never cooked.
+
+377
+00:20:21,551 --> 00:20:23,109
+Oh, ho, ho, it's simple.
+
+378
+00:20:23,153 --> 00:20:25,144
+All you do is follow the book.
+
+379
+00:20:25,188 --> 00:20:26,815
+Up here, dear.
+
+380
+00:20:26,856 --> 00:20:29,484
+You can be the dummy.
+
+381
+00:20:29,526 --> 00:20:32,984
+Well, l still say
+we ought to use magic.
+
+382
+00:20:33,029 --> 00:20:34,394
+[Flora chuckles]
+
+383
+00:20:34,431 --> 00:20:36,194
+<i>FAUNA: La Ia</i>
+<i>Ia da da da da</i>
+
+384
+00:20:36,232 --> 00:20:37,494
+Dee dee dee deedle um
+
+385
+00:20:37,534 --> 00:20:38,728
+La da da
+
+386
+00:20:38,768 --> 00:20:42,101
+''Flour, 3 cups.''
+
+387
+00:20:42,138 --> 00:20:45,505
+Cups, cups, cups, cups,
+cups, cups, cups.
+
+388
+00:20:45,542 --> 00:20:46,509
+Oh.
+
+389
+00:20:46,543 --> 00:20:48,067
+Dee da dee da da dum
+
+390
+00:20:48,111 --> 00:20:51,512
+1 , 2, 3.
+
+391
+00:20:51,548 --> 00:20:52,981
+What's that for?
+
+392
+00:20:53,016 --> 00:20:55,712
+Well, it's got to have
+a hole in the bottom.
+
+393
+00:20:55,752 --> 00:20:58,050
+<i>That's for the feet</i>
+<i>to go through.</i>
+
+394
+00:21:01,057 --> 00:21:02,422
+lt's pink.
+
+395
+00:21:02,459 --> 00:21:04,689
+Oh, lovely shade, isn't it?
+
+396
+00:21:04,727 --> 00:21:06,627
+But l wanted it blue.
+
+397
+00:21:06,663 --> 00:21:07,994
+Now, dear...
+
+398
+00:21:08,031 --> 00:21:10,465
+we decided pink was her color.
+
+399
+00:21:10,500 --> 00:21:12,263
+<i>You decided.</i>
+
+400
+00:21:12,302 --> 00:21:14,293
+[Flora chuckles]
+
+401
+00:21:14,337 --> 00:21:15,998
+[Muffled talking]
+
+402
+00:21:21,110 --> 00:21:22,600
+<i>[Fauna humming]</i>
+
+403
+00:21:24,514 --> 00:21:28,610
+''Two eggs, fold in gently.''
+
+404
+00:21:28,651 --> 00:21:30,209
+Fold?
+
+405
+00:21:30,253 --> 00:21:31,481
+Oh, well.
+
+406
+00:21:31,521 --> 00:21:33,716
+[Humming]
+
+407
+00:21:33,756 --> 00:21:35,417
+[Eggs cracking]
+
+408
+00:21:35,458 --> 00:21:37,585
+[Muffled]
+l can't breathe!
+
+409
+00:21:38,795 --> 00:21:40,592
+[Muffled]
+Get me out of here!
+
+410
+00:21:43,366 --> 00:21:44,765
+lt looks awful.
+
+411
+00:21:44,801 --> 00:21:46,632
+That's because
+it's on you, dear.
+
+412
+00:21:46,669 --> 00:21:49,661
+''Now yeast, 1 tsp.''
+
+413
+00:21:49,706 --> 00:21:50,673
+Tsp?
+
+414
+00:21:50,707 --> 00:21:52,504
+One teaspoon.
+
+415
+00:21:52,542 --> 00:21:54,772
+[Giggling]
+One teaspoon! Of course!
+
+416
+00:21:54,811 --> 00:21:56,904
+<i>FLORA: Hmm.</i>
+
+417
+00:21:56,946 --> 00:21:58,675
+[Humming]
+
+418
+00:22:02,151 --> 00:22:03,812
+Oh, gracious!
+
+419
+00:22:03,853 --> 00:22:05,445
+How that child has grown!
+
+420
+00:22:05,488 --> 00:22:09,356
+Oh, it seems only yesterday
+we brought her here.
+
+421
+00:22:09,392 --> 00:22:12,156
+Just a tiny baby.
+
+422
+00:22:13,796 --> 00:22:14,785
+[Sniffing]
+
+423
+00:22:14,831 --> 00:22:16,128
+Why, Merryweather!
+
+424
+00:22:16,165 --> 00:22:18,531
+Whatever is the matter, dear?
+
+425
+00:22:18,568 --> 00:22:21,366
+After today,
+she'll be a Princess...
+
+426
+00:22:21,404 --> 00:22:23,872
+and we won't have
+any Briar Rose.
+
+427
+00:22:23,907 --> 00:22:25,534
+Oh, Flora!
+
+428
+00:22:25,575 --> 00:22:26,837
+Now, now, now, now.
+
+429
+00:22:26,876 --> 00:22:30,209
+W-we--we all knew
+this day had to come.
+
+430
+00:22:30,246 --> 00:22:33,477
+But why did it have
+to come so soon?
+
+431
+00:22:33,516 --> 00:22:34,847
+After all...
+
+432
+00:22:34,884 --> 00:22:37,250
+we've had her for sixteen years.
+
+433
+00:22:37,287 --> 00:22:40,120
+Sixteen wonderful years.
+
+434
+00:22:40,156 --> 00:22:41,384
+[Sniffing]
+
+435
+00:22:41,424 --> 00:22:43,221
+[Clears throat]
+
+436
+00:22:43,259 --> 00:22:44,692
+Good gracious!
+
+437
+00:22:44,727 --> 00:22:46,888
+We're acting like
+a lot of ninnies!
+
+438
+00:22:46,930 --> 00:22:50,058
+Come on! She'll be back
+before we get started.
+
+439
+00:22:51,134 --> 00:22:53,034
+<i>[Birds rweeting]</i>
+
+440
+00:22:57,440 --> 00:22:59,032
+[Singing]
+
+441
+00:23:05,047 --> 00:23:06,071
+[Bird repeats tune]
+
+442
+00:23:10,052 --> 00:23:11,986
+<i>[Briar Rose sings]</i>
+
+443
+00:23:17,426 --> 00:23:19,485
+[Bird repeats tune]
+
+444
+00:23:22,965 --> 00:23:24,990
+<i>[Briar Rose sings]</i>
+
+445
+00:23:28,404 --> 00:23:30,497
+[Bird repeats tune]
+
+446
+00:23:35,878 --> 00:23:37,675
+[Sings]
+
+447
+00:24:01,938 --> 00:24:04,498
+[Owl hooting in harmony]
+
+448
+00:24:13,482 --> 00:24:14,972
+[Birds tweeting]
+
+449
+00:24:30,466 --> 00:24:32,491
+<i>[Briar Rose singing faintIy]</i>
+
+450
+00:24:37,139 --> 00:24:39,903
+Do you hear that, Samson?
+
+451
+00:24:39,942 --> 00:24:40,966
+Beautiful!
+
+452
+00:24:41,010 --> 00:24:41,999
+[Snorts]
+
+453
+00:24:45,748 --> 00:24:47,807
+What is it?
+
+454
+00:24:47,850 --> 00:24:49,181
+Come on. Let's find out.
+
+455
+00:24:50,553 --> 00:24:51,747
+[Snorts]
+
+456
+00:24:51,787 --> 00:24:53,778
+Aw, come on.
+
+457
+00:24:53,823 --> 00:24:56,291
+For an extra bucket of oats?
+
+458
+00:24:56,325 --> 00:24:58,657
+And a few...carrots?
+
+459
+00:24:59,829 --> 00:25:01,319
+Hup, boy!
+
+460
+00:25:11,974 --> 00:25:13,965
+<i>[Briar Rose singing]</i>
+
+461
+00:25:31,060 --> 00:25:32,084
+<i>[Leaves rustIe]</i>
+
+462
+00:25:32,128 --> 00:25:33,527
+<i>Whoa!</i>
+
+463
+00:25:33,562 --> 00:25:34,529
+[Snorts]
+
+464
+00:25:34,563 --> 00:25:36,087
+<i>[SpIash]</i>
+
+465
+00:25:46,175 --> 00:25:49,474
+No carrots.
+
+466
+00:25:49,512 --> 00:25:50,079
+[Birds tweeting]
+
+467
+00:25:50,079 --> 00:25:51,979
+[Birds tweeting]
+
+468
+00:25:52,014 --> 00:25:54,005
+[Humming]
+
+469
+00:26:00,890 --> 00:26:04,189
+<i>I wonder</i>
+
+470
+00:26:04,226 --> 00:26:07,821
+<i>I wonder</i>
+
+471
+00:26:07,863 --> 00:26:11,799
+<i>I wonder why</i>
+<i>each IittIe bird</i>
+
+472
+00:26:11,834 --> 00:26:14,962
+<i>Has a someone</i>
+
+473
+00:26:15,004 --> 00:26:17,973
+<i>To sing to</i>
+
+474
+00:26:18,007 --> 00:26:21,204
+<i>Sweet things to</i>
+
+475
+00:26:21,243 --> 00:26:28,479
+<i>A gay, IittIe Iark meIody</i>
+
+476
+00:26:28,517 --> 00:26:32,544
+<i>I wonder</i>
+
+477
+00:26:32,588 --> 00:26:35,557
+<i>I wonder</i>
+
+478
+00:26:35,591 --> 00:26:39,220
+<i>If my heart</i>
+<i>keeps singing</i>
+
+479
+00:26:39,261 --> 00:26:42,822
+<i>WiII my song</i>
+<i>go winging</i>
+
+480
+00:26:42,865 --> 00:26:46,323
+<i>To someone</i>
+
+481
+00:26:46,368 --> 00:26:50,168
+<i>Who'II find me</i>
+
+482
+00:26:50,206 --> 00:27:01,344
+<i>And bring back</i>
+<i>a Iove song to me</i>
+
+483
+00:27:04,220 --> 00:27:06,745
+[Sighing]
+Oh, dear.
+
+484
+00:27:06,789 --> 00:27:09,587
+Why do they still
+treat me like a child?
+
+485
+00:27:11,961 --> 00:27:13,019
+Whoo!
+
+486
+00:27:14,296 --> 00:27:16,992
+Aunt Flora, Aunt Fauna...
+
+487
+00:27:17,032 --> 00:27:18,522
+<i>Aunt Merryweather.</i>
+
+488
+00:27:18,567 --> 00:27:20,398
+[Birds tweeting]
+
+489
+00:27:20,436 --> 00:27:22,461
+They never want me
+to meet anyone.
+
+490
+00:27:25,608 --> 00:27:27,303
+[Giggles]
+
+491
+00:27:27,343 --> 00:27:29,470
+But you know something?
+
+492
+00:27:29,512 --> 00:27:31,980
+Whispering]
+l fooled them.
+
+493
+00:27:32,014 --> 00:27:34,710
+l have met someone.
+
+494
+00:27:34,750 --> 00:27:35,876
+Whoo!
+
+495
+00:27:38,954 --> 00:27:40,854
+Whoo! Whoo!
+
+496
+00:27:42,057 --> 00:27:45,049
+Oh...a Prince.
+
+497
+00:27:45,094 --> 00:27:46,721
+[Tweeting]
+
+498
+00:27:46,762 --> 00:27:51,199
+Well, he's tall
+and handsome and...
+
+499
+00:27:51,233 --> 00:27:53,326
+and so romantic!
+
+500
+00:27:53,369 --> 00:27:55,667
+[Tweeting]
+
+501
+00:27:55,704 --> 00:28:00,801
+Oh, we walk together
+and talk together...
+
+502
+00:28:00,843 --> 00:28:03,903
+and just before
+we say good-bye...
+
+503
+00:28:03,946 --> 00:28:06,005
+he takes me in his arms...
+
+504
+00:28:06,048 --> 00:28:07,037
+[Tweeting]
+
+505
+00:28:07,082 --> 00:28:08,310
+And then...
+
+506
+00:28:08,350 --> 00:28:10,113
+[Tweeting loudly]
+
+507
+00:28:10,152 --> 00:28:11,346
+l wake up.
+
+508
+00:28:11,387 --> 00:28:13,685
+[Sighing tweet]
+
+509
+00:28:15,291 --> 00:28:19,159
+<i>BRIAR ROSE: Yes,</i>
+<i>it's onIy in my dreams.</i>
+
+510
+00:28:19,195 --> 00:28:21,595
+<i>But they say if you dream</i>
+<i>a thing more than once...</i>
+
+511
+00:28:21,630 --> 00:28:23,860
+it's sure to come true.
+
+512
+00:28:23,899 --> 00:28:27,198
+And l've seen him
+so many times.
+
+513
+00:28:28,470 --> 00:28:30,461
+<i>[Briar Rose humming]</i>
+
+514
+00:28:49,792 --> 00:28:52,454
+[Chuckling]
+
+515
+00:28:56,298 --> 00:28:57,492
+[Tweeting]
+
+516
+00:29:06,809 --> 00:29:08,504
+[Tweeting]
+
+517
+00:29:08,544 --> 00:29:11,240
+<i>MAN: You know, Samson...</i>
+
+518
+00:29:11,280 --> 00:29:15,011
+there's something strange
+about that voice.
+
+519
+00:29:15,050 --> 00:29:16,984
+Too beautiful to be real.
+
+520
+00:29:18,287 --> 00:29:21,017
+<i>MAN: Maybe it was</i>
+<i>some mysterious being...</i>
+
+521
+00:29:21,056 --> 00:29:22,921
+a...a wood sprite or a...
+
+522
+00:29:22,958 --> 00:29:24,016
+[Snorts]
+
+523
+00:29:24,059 --> 00:29:25,583
+[Neighs]
+
+524
+00:29:25,628 --> 00:29:27,357
+<i>MAN: Here! Stop!</i>
+
+525
+00:29:32,334 --> 00:29:33,961
+[Birds tweeting]
+
+526
+00:29:50,319 --> 00:29:54,085
+[Birds tweet
+and Briar Rose hums]
+
+527
+00:29:54,123 --> 00:29:55,852
+<i>[OwI chuckIes]</i>
+
+528
+00:29:55,891 --> 00:29:57,256
+[Gasps]
+
+529
+00:29:57,293 --> 00:30:00,729
+<i>BRIAR ROSE: Why,</i>
+<i>it's my dream Prince!</i>
+
+530
+00:30:00,763 --> 00:30:04,062
+<i>[Briar Rose giggIes]</i>
+
+531
+00:30:04,099 --> 00:30:06,567
+Your Highness.
+
+532
+00:30:06,602 --> 00:30:08,502
+[Sings]
+
+533
+00:30:12,041 --> 00:30:14,032
+You know, l'm really
+not supposed...
+
+534
+00:30:14,076 --> 00:30:15,771
+to speak to strangers...
+
+535
+00:30:15,811 --> 00:30:17,745
+but we've met before.
+
+536
+00:30:17,780 --> 00:30:20,977
+<i>I know you</i>
+
+537
+00:30:21,016 --> 00:30:26,545
+<i>I waIked with you</i>
+<i>once upon a dream</i>
+
+538
+00:30:26,588 --> 00:30:29,113
+<i>I know you</i>
+
+539
+00:30:29,158 --> 00:30:34,755
+<i>The gIeam in your eyes</i>
+<i>is so famiIiar a gIeam</i>
+
+540
+00:30:34,797 --> 00:30:38,563
+<i>And I know it's true</i>
+
+541
+00:30:38,600 --> 00:30:43,264
+<i>That visions are seIdom</i>
+<i>aII they seem</i>
+
+542
+00:30:43,305 --> 00:30:46,001
+<i>But if I know you</i>
+
+543
+00:30:46,041 --> 00:30:48,475
+<i>I know what you'II do</i>
+
+544
+00:30:48,510 --> 00:30:51,741
+<i>You'II Iove me at once</i>
+
+545
+00:30:51,780 --> 00:31:00,245
+<i>The way you did once</i>
+<i>upon a dream</i>
+
+546
+00:31:00,289 --> 00:31:02,120
+[Sings]
+
+547
+00:31:07,963 --> 00:31:10,329
+<i>But if I know you</i>
+
+548
+00:31:10,366 --> 00:31:13,062
+<i>I know what you'II do</i>
+
+549
+00:31:13,102 --> 00:31:16,503
+<i>You'II Iove me at once</i>
+
+550
+00:31:16,538 --> 00:31:22,966
+<i>MAN: The way you did</i>
+<i>once upon a dream</i>
+
+551
+00:31:23,011 --> 00:31:25,912
+[Chuckles]
+BRlAR ROSE: Oh!
+
+552
+00:31:25,948 --> 00:31:27,142
+Oh!
+
+553
+00:31:27,182 --> 00:31:28,513
+l'm awfully sorry.
+
+554
+00:31:28,550 --> 00:31:30,711
+l didn't mean to frighten you.
+
+555
+00:31:30,753 --> 00:31:33,187
+Oh, it...wasn't that.
+
+556
+00:31:33,222 --> 00:31:35,952
+lt's just that
+you're a...a...
+
+557
+00:31:35,991 --> 00:31:37,424
+A stranger?
+
+558
+00:31:37,459 --> 00:31:38,483
+<i>BRIAR ROSE: Mm-hmm.</i>
+
+559
+00:31:38,527 --> 00:31:39,619
+<i>MAN: But don't you remember?</i>
+
+560
+00:31:39,661 --> 00:31:41,128
+<i>We've met before.</i>
+
+561
+00:31:41,163 --> 00:31:42,255
+We--we have?
+
+562
+00:31:42,297 --> 00:31:43,286
+Well, of course.
+
+563
+00:31:43,332 --> 00:31:44,526
+You said so yourself.
+
+564
+00:31:44,566 --> 00:31:46,761
+''Once upon a dream.''
+
+565
+00:31:46,802 --> 00:31:49,236
+<i>MAN: I know you</i>
+
+566
+00:31:49,271 --> 00:31:54,766
+<i>I waIked with you</i>
+<i>once upon a dream</i>
+
+567
+00:31:54,810 --> 00:31:57,973
+<i>I know you</i>
+
+568
+00:31:58,013 --> 00:32:00,038
+<i>The gIeam in your eyes</i>
+
+569
+00:32:00,082 --> 00:32:03,950
+<i>Is so famiIiar a gIeam</i>
+
+570
+00:32:03,986 --> 00:32:10,516
+<i>CHOIR:</i>
+<i>And I know it's true</i>
+
+571
+00:32:10,559 --> 00:32:15,997
+<i>That visions are</i>
+<i>seIdom aII they seem</i>
+
+572
+00:32:16,031 --> 00:32:19,967
+<i>But if I know you</i>
+
+573
+00:32:20,002 --> 00:32:22,903
+<i>I know what you'II do</i>
+
+574
+00:32:22,938 --> 00:32:26,135
+<i>You'II Iove me at once</i>
+
+575
+00:32:26,175 --> 00:32:29,906
+<i>The way you did once</i>
+
+576
+00:32:29,945 --> 00:32:38,944
+<i>Upon a dream</i>
+
+577
+00:32:43,459 --> 00:32:45,154
+Who are you?
+
+578
+00:32:45,194 --> 00:32:46,627
+What's your name?
+
+579
+00:32:47,796 --> 00:32:48,922
+Hmm?
+
+580
+00:32:50,232 --> 00:32:52,257
+Oh. My name.
+
+581
+00:32:52,301 --> 00:32:54,030
+Why, it's...
+
+582
+00:32:54,069 --> 00:32:55,502
+it's...
+
+583
+00:32:55,537 --> 00:32:56,868
+Oh, no, no! l can't! l--
+
+584
+00:32:58,540 --> 00:32:59,507
+Good-bye!
+
+585
+00:32:59,541 --> 00:33:00,803
+But when will l see you again?
+
+586
+00:33:00,843 --> 00:33:02,708
+Oh, never! Never!
+
+587
+00:33:02,744 --> 00:33:04,507
+<i>MAN: Never!</i>
+
+588
+00:33:04,546 --> 00:33:07,014
+Well...maybe someday.
+
+589
+00:33:07,049 --> 00:33:08,482
+When? Tomorrow?
+
+590
+00:33:08,517 --> 00:33:11,247
+<i>BRIAR ROSE:</i>
+<i>Oh, no. This evening.</i>
+
+591
+00:33:11,286 --> 00:33:12,344
+<i>MAN: Where?</i>
+
+592
+00:33:12,387 --> 00:33:14,787
+At the cottage, in the glen.
+
+593
+00:33:20,028 --> 00:33:22,462
+<i>[Fauna humming]</i>
+
+594
+00:33:22,498 --> 00:33:23,465
+<i>[BIows out match]</i>
+
+595
+00:33:23,499 --> 00:33:24,693
+There.
+
+596
+00:33:24,733 --> 00:33:25,995
+Whoop!
+
+597
+00:33:31,473 --> 00:33:33,304
+Well, what do you think of it?
+
+598
+00:33:33,342 --> 00:33:34,969
+Why, it--
+
+599
+00:33:35,010 --> 00:33:37,945
+it's a very unusual
+cake, isn't it?
+
+600
+00:33:37,980 --> 00:33:39,709
+Yes.
+
+601
+00:33:39,748 --> 00:33:42,546
+Of course, it will be
+much stiffer after it's baked.
+
+602
+00:33:42,584 --> 00:33:44,051
+<i>FLORA: Of course, dear.</i>
+
+603
+00:33:44,086 --> 00:33:46,577
+Um...what do you
+think of the dress?
+
+604
+00:33:46,622 --> 00:33:48,556
+Well, it--it's...
+
+605
+00:33:48,590 --> 00:33:50,455
+<i>FAUNA: It-it's not exactIy...</i>
+
+606
+00:33:50,492 --> 00:33:52,221
+<i>the way it is in</i>
+<i>the book, is it?</i>
+
+607
+00:33:52,261 --> 00:33:54,161
+Oh, l improved it.
+
+608
+00:33:54,196 --> 00:33:57,029
+But perhaps if l added
+a few more ruffles...
+
+609
+00:33:57,065 --> 00:33:59,124
+uh, what do you think?
+
+610
+00:33:59,167 --> 00:34:02,068
+Um...l think so.
+
+611
+00:34:02,104 --> 00:34:03,696
+What do you think,
+Merryweather?
+
+612
+00:34:03,739 --> 00:34:07,766
+l think we've had enough
+of this nonsense!
+
+613
+00:34:07,809 --> 00:34:09,640
+l think we ought
+to think of Rose
+
+614
+00:34:09,678 --> 00:34:12,772
+and what she'll
+think of this mess!
+
+615
+00:34:12,814 --> 00:34:15,442
+l still think what
+l thunk before.
+
+616
+00:34:15,484 --> 00:34:17,509
+<i>I'm going to get those wands!</i>
+
+617
+00:34:19,821 --> 00:34:22,654
+You know...l think
+she's right.
+
+618
+00:34:23,825 --> 00:34:26,225
+Here they are!
+Good as new!
+
+619
+00:34:26,261 --> 00:34:27,592
+<i>FLORA: Uh, uh, tut,</i>
+<i>tut, tut, tut--</i>
+
+620
+00:34:27,629 --> 00:34:30,427
+C-c-careful, Merryweather.
+
+621
+00:34:30,465 --> 00:34:31,454
+[Quietly]
+Quick!
+
+622
+00:34:31,500 --> 00:34:33,593
+Lock the doors.
+
+623
+00:34:33,635 --> 00:34:35,398
+<i>FLORA: Fauna,</i>
+<i>you cIose the windows.</i>
+
+624
+00:34:35,437 --> 00:34:38,406
+<i>Oh, pIug up every cranny.</i>
+
+625
+00:34:38,440 --> 00:34:40,408
+We can't take any chances.
+
+626
+00:34:40,442 --> 00:34:41,909
+[Door squeaks]
+
+627
+00:34:41,944 --> 00:34:44,469
+Now, you take care
+of the cake.
+
+628
+00:34:44,513 --> 00:34:45,480
+<i>MERRYWEATHER: WhiIe I--</i>
+
+629
+00:34:45,514 --> 00:34:46,947
+Clean the room, dear.
+
+630
+00:34:46,982 --> 00:34:49,644
+And l'll make the dress.
+
+631
+00:34:49,685 --> 00:34:50,652
+<i>FAUNA: Now, hurry!</i>
+
+632
+00:34:50,686 --> 00:34:51,778
+Ooh!
+
+633
+00:34:53,922 --> 00:34:56,083
+Come on,
+bucket, mop, broom.
+
+634
+00:34:56,124 --> 00:34:58,922
+<i>FIora says,</i>
+<i>''CIean up the room.''</i>
+
+635
+00:35:06,468 --> 00:35:08,026
+<i>[Merryweather chuckIing]</i>
+
+636
+00:35:08,070 --> 00:35:10,470
+And now, to make a lovely dress
+
+637
+00:35:10,505 --> 00:35:12,803
+fit to grace a fair Princess.
+
+638
+00:35:15,110 --> 00:35:17,203
+<i>FAUNA: Eggs, flour, Iemon</i>
+
+639
+00:35:17,245 --> 00:35:18,371
+<i>[V</i>oice cracks]
+
+640
+00:35:18,413 --> 00:35:20,881
+Just do it like it
+says here in the book.
+
+641
+00:35:20,916 --> 00:35:22,816
+l'll put on the candles.
+
+642
+00:35:51,046 --> 00:35:52,707
+[Snipping]
+
+643
+00:36:16,938 --> 00:36:17,039
+Oh, no! Not pink!
+
+644
+00:36:17,039 --> 00:36:19,007
+Oh, no! Not pink!
+
+645
+00:36:19,041 --> 00:36:20,508
+Make it blue!
+
+646
+00:36:20,542 --> 00:36:21,839
+[Gasps]
+
+647
+00:36:21,877 --> 00:36:23,504
+Merryweather!
+
+648
+00:36:23,545 --> 00:36:24,637
+Make it pink.
+
+649
+00:36:28,583 --> 00:36:29,743
+Whispering]
+Make it blue.
+
+650
+00:36:31,953 --> 00:36:34,114
+Oh! Pink!
+
+651
+00:36:35,991 --> 00:36:37,083
+Blue!
+
+652
+00:37:03,285 --> 00:37:04,843
+[Caws]
+
+653
+00:37:04,886 --> 00:37:06,444
+[Cawing]
+
+654
+00:37:14,229 --> 00:37:15,594
+[Caw caw]
+
+655
+00:37:29,644 --> 00:37:33,273
+<i>FLORA: Oh, now Iook</i>
+<i>what you've done!</i>
+
+656
+00:37:33,315 --> 00:37:34,282
+<i>[Briar Rose singing distantIy]</i>
+
+657
+00:37:34,316 --> 00:37:36,716
+Shh! Shh! Listen!
+
+658
+00:37:36,752 --> 00:37:38,185
+lt's Rose!
+
+659
+00:37:38,220 --> 00:37:39,619
+She's back!
+
+660
+00:37:39,654 --> 00:37:41,019
+Enough of this foolishness!
+
+661
+00:37:44,826 --> 00:37:45,918
+Make it pink.
+
+662
+00:37:45,961 --> 00:37:47,724
+Now hide! Quick!
+
+663
+00:37:48,830 --> 00:37:50,593
+<i>[Briar Rose singing distantIy]</i>
+
+664
+00:37:50,632 --> 00:37:52,259
+Whispering]
+Blue!
+
+665
+00:37:52,300 --> 00:37:53,961
+Aunt Flora!
+
+666
+00:37:56,037 --> 00:37:57,834
+Good gracious!
+
+667
+00:37:57,873 --> 00:38:00,103
+<i>Who Ieft the mop running?</i>
+
+668
+00:38:00,142 --> 00:38:02,474
+[Gasping]
+Stop, mop!
+
+669
+00:38:05,080 --> 00:38:06,342
+Aunt Flora!
+
+670
+00:38:06,381 --> 00:38:08,872
+Fauna! Merryweather!
+
+671
+00:38:11,953 --> 00:38:13,443
+<i>BRIAR ROSE:</i>
+<i>Where is everybody?</i>
+
+672
+00:38:13,488 --> 00:38:14,455
+[Gasps]
+
+673
+00:38:14,489 --> 00:38:16,150
+Oh!
+
+674
+00:38:16,191 --> 00:38:18,284
+<i>FAIRIES: Surprise! Surprise!</i>
+
+675
+00:38:18,326 --> 00:38:20,317
+Happy Birthday!
+
+676
+00:38:20,362 --> 00:38:21,761
+Oh, you darlings!
+
+677
+00:38:21,797 --> 00:38:24,664
+This is the happiest day
+of my life!
+
+678
+00:38:24,699 --> 00:38:27,167
+Everything's so wonderful!
+
+679
+00:38:27,202 --> 00:38:29,033
+Just wait till you meet him!
+
+680
+00:38:29,070 --> 00:38:30,298
+Him?
+
+681
+00:38:30,338 --> 00:38:31,703
+Rose!
+
+682
+00:38:31,740 --> 00:38:33,833
+You've met some stranger?
+
+683
+00:38:33,875 --> 00:38:36,275
+Oh, he's not a stranger.
+
+684
+00:38:36,311 --> 00:38:37,938
+We've met before.
+
+685
+00:38:37,979 --> 00:38:38,946
+You have?
+
+686
+00:38:38,980 --> 00:38:40,106
+Where?
+
+687
+00:38:40,148 --> 00:38:42,343
+Once upon a dream.
+
+688
+00:38:42,384 --> 00:38:45,012
+<i>I know you</i>
+
+689
+00:38:45,053 --> 00:38:50,719
+<i>I waIked with you</i>
+<i>once upon a dream</i>
+
+690
+00:38:50,759 --> 00:38:52,522
+FAUNA: She's in love!
+
+691
+00:38:52,561 --> 00:38:55,359
+-Oh, no!
+-This is terrible!
+
+692
+00:38:55,397 --> 00:38:57,262
+Why?
+
+693
+00:38:57,299 --> 00:38:58,857
+After all, l am sixteen.
+
+694
+00:38:58,900 --> 00:39:00,959
+lt isn't that, dear.
+
+695
+00:39:01,002 --> 00:39:03,027
+You're already betrothed.
+
+696
+00:39:03,071 --> 00:39:04,163
+Betrothed?
+
+697
+00:39:04,206 --> 00:39:05,901
+Since the day you were born.
+
+698
+00:39:05,941 --> 00:39:07,875
+To Prince Phillip, dear.
+
+699
+00:39:07,909 --> 00:39:10,036
+But that's impossible.
+
+700
+00:39:10,078 --> 00:39:11,739
+How could l marry a Prince?
+
+701
+00:39:11,780 --> 00:39:13,008
+<i>BRIAR ROSE:</i>
+<i>I'd have to be--</i>
+
+702
+00:39:13,048 --> 00:39:14,072
+A Princess.
+
+703
+00:39:14,115 --> 00:39:15,446
+And you are, dear.
+
+704
+00:39:15,483 --> 00:39:17,007
+Princess Aurora.
+
+705
+00:39:17,052 --> 00:39:21,648
+<i>Tonight, we're taking you back</i>
+<i>to your father, King Stefan.</i>
+
+706
+00:39:21,690 --> 00:39:24,124
+But...but l can't!
+
+707
+00:39:24,159 --> 00:39:25,888
+He's coming here tonight.
+
+708
+00:39:25,927 --> 00:39:27,189
+<i>I promised to meet him.</i>
+
+709
+00:39:27,229 --> 00:39:28,719
+<i>FLORA:</i>
+<i>I'm sorry, chiId.</i>
+
+710
+00:39:28,763 --> 00:39:32,859
+But you must never see
+that young man again.
+
+711
+00:39:32,901 --> 00:39:34,994
+Oh, no! No!
+
+712
+00:39:35,036 --> 00:39:37,334
+<i>I can't beIieve it!</i>
+
+713
+00:39:37,372 --> 00:39:40,273
+[Sobbing]
+No! No!
+
+714
+00:39:44,946 --> 00:39:48,006
+And we thought
+she'd be so happy.
+
+715
+00:39:48,050 --> 00:39:49,984
+[Sobbing]
+
+716
+00:40:00,996 --> 00:40:03,021
+[Sighs]
+
+717
+00:40:03,065 --> 00:40:05,033
+No sign of her yet, Hubert.
+
+718
+00:40:05,067 --> 00:40:08,002
+[Munching]
+Of course not.
+
+719
+00:40:08,036 --> 00:40:10,231
+lt's a good half-hour
+till sunset.
+
+720
+00:40:12,374 --> 00:40:14,433
+[Gulps and burps]
+
+721
+00:40:14,476 --> 00:40:16,103
+Ah, excellent bird.
+
+722
+00:40:16,144 --> 00:40:18,408
+Mmm!
+
+723
+00:40:18,447 --> 00:40:20,938
+Aw, now, come, man!
+
+724
+00:40:20,982 --> 00:40:22,176
+Buck up!
+
+725
+00:40:22,217 --> 00:40:23,775
+Battle's over.
+
+726
+00:40:23,819 --> 00:40:25,719
+<i>HUBERT: GirI is</i>
+<i>as good as here.</i>
+
+727
+00:40:25,754 --> 00:40:27,085
+l'm sorry, Hubert...
+
+728
+00:40:27,122 --> 00:40:30,182
+but after sixteen years
+of worrying...
+
+729
+00:40:30,225 --> 00:40:31,487
+never knowing--
+
+730
+00:40:31,526 --> 00:40:34,393
+The past! All in the past!
+
+731
+00:40:34,429 --> 00:40:36,863
+[Claps]
+
+732
+00:40:40,235 --> 00:40:44,433
+<i>HUBERT: Tonight,</i>
+<i>we toast the future...</i>
+
+733
+00:40:44,473 --> 00:40:46,805
+with something l've
+been saving for sixteen years.
+
+734
+00:40:46,842 --> 00:40:48,537
+[Chuckles]
+
+735
+00:40:50,278 --> 00:40:51,768
+Here!
+
+736
+00:40:51,813 --> 00:40:53,110
+To the future!
+
+737
+00:40:53,148 --> 00:40:54,445
+<i>STEFAN: Right, Hubert.</i>
+
+738
+00:40:54,483 --> 00:40:56,007
+<i>To the future!</i>
+
+739
+00:40:56,051 --> 00:40:57,541
+<i>[Both chuckIing]</i>
+
+740
+00:40:58,720 --> 00:41:00,654
+Skumps! Skumps!
+
+741
+00:41:00,689 --> 00:41:01,951
+Skumps!
+
+742
+00:41:01,990 --> 00:41:03,958
+<i>A toast to this night</i>
+
+743
+00:41:03,992 --> 00:41:05,892
+<i>The outIook is rosy</i>
+
+744
+00:41:05,927 --> 00:41:07,690
+<i>The future is bright</i>
+
+745
+00:41:07,729 --> 00:41:09,526
+<i>BO TH: Our chiIdren</i>
+<i>wiII marry</i>
+
+746
+00:41:09,564 --> 00:41:11,361
+<i>Our kingdoms unite</i>
+
+747
+00:41:11,399 --> 00:41:17,304
+<i>Skumps, skumps,</i>
+<i>skumps</i>
+
+748
+00:41:20,809 --> 00:41:23,403
+<i>HUBERT: Ah!</i>
+<i>ExceIIent vintage!</i>
+
+749
+00:41:23,445 --> 00:41:25,743
+<i>[Hubert chuckIes]</i>
+
+750
+00:41:25,780 --> 00:41:26,974
+[Hiccups]
+
+751
+00:41:28,416 --> 00:41:30,907
+And now, to the new home, eh?
+
+752
+00:41:30,952 --> 00:41:31,941
+New home?
+
+753
+00:41:31,987 --> 00:41:33,579
+Children need a nest
+of their own, what?
+
+754
+00:41:33,622 --> 00:41:34,850
+<i>[Hubert chuckIes]</i>
+
+755
+00:41:34,890 --> 00:41:36,983
+<i>A pIace to raise their</i>
+<i>IittIe brood, eh?</i>
+
+756
+00:41:37,025 --> 00:41:38,185
+<i>[ChuckIes]</i>
+
+757
+00:41:38,226 --> 00:41:40,353
+<i>STEFAN: WeII,</i>
+<i>I suppose, in time.</i>
+
+758
+00:41:40,395 --> 00:41:42,693
+<i>Of course! To the home!</i>
+
+759
+00:41:42,731 --> 00:41:44,722
+-Skumps!
+-Skumps!
+
+760
+00:41:44,766 --> 00:41:46,734
+<i>A toast to the home</i>
+
+761
+00:41:46,768 --> 00:41:48,235
+<i>One grander, by far</i>
+
+762
+00:41:48,270 --> 00:41:50,261
+<i>Than a paIace in Rome</i>
+
+763
+00:41:50,305 --> 00:41:52,000
+Uh, let me fill up your glass.
+
+764
+00:41:52,040 --> 00:41:54,099
+Ha! Ha! That last
+was all foam.
+
+765
+00:41:54,142 --> 00:41:59,444
+<i>Skumps, skumps, skumps</i>
+
+766
+00:41:59,481 --> 00:42:02,245
+<i>[Laughter]</i>
+
+767
+00:42:03,985 --> 00:42:04,952
+<i>[Hubert cIaps]</i>
+
+768
+00:42:04,986 --> 00:42:06,715
+[String twangs]
+
+769
+00:42:06,755 --> 00:42:08,313
+The plans!
+
+770
+00:42:13,195 --> 00:42:14,287
+[Hiccups]
+
+771
+00:42:14,329 --> 00:42:15,728
+<i>HUBERT: WeII,</i>
+<i>what do you think?</i>
+
+772
+00:42:15,764 --> 00:42:17,823
+Nothing elaborate, of course.
+
+773
+00:42:17,866 --> 00:42:19,993
+Forty bedrooms, dining hall.
+
+774
+00:42:20,035 --> 00:42:21,730
+Honeymoon cottage, really.
+
+775
+00:42:21,770 --> 00:42:22,998
+You--you mean...
+
+776
+00:42:23,038 --> 00:42:25,063
+you're building it already?
+
+777
+00:42:25,106 --> 00:42:26,971
+Built, man! Finished!
+
+778
+00:42:27,008 --> 00:42:28,839
+Lovebirds can move in tomorrow.
+
+779
+00:42:28,877 --> 00:42:30,242
+Tomorrow?
+
+780
+00:42:30,278 --> 00:42:33,042
+But, Hubert, they're
+not even married yet!
+
+781
+00:42:33,081 --> 00:42:34,946
+l'll take care of that tonight.
+
+782
+00:42:34,983 --> 00:42:36,245
+To the wedding!
+
+783
+00:42:36,284 --> 00:42:37,683
+Now, hold on, Hubert.
+
+784
+00:42:37,719 --> 00:42:40,017
+<i>I haven't even seen</i>
+<i>my daughter yet...</i>
+
+785
+00:42:40,055 --> 00:42:41,989
+<i>and you're taking her</i>
+<i>away from me.</i>
+
+786
+00:42:42,023 --> 00:42:43,422
+<i>HUBERT: Getting</i>
+<i>my PhiIIip, aren't you?</i>
+
+787
+00:42:43,458 --> 00:42:44,686
+<i>Yes, but--</i>
+
+788
+00:42:44,726 --> 00:42:46,887
+<i>Want to see our</i>
+<i>grandchiIdren, don't we?</i>
+
+789
+00:42:46,928 --> 00:42:48,088
+Of course, but--
+
+790
+00:42:48,129 --> 00:42:49,653
+Well, there's no time to lose.
+
+791
+00:42:49,698 --> 00:42:51,097
+Getting on in years.
+
+792
+00:42:51,132 --> 00:42:52,224
+Ha! Ha! Ha!
+
+793
+00:42:52,267 --> 00:42:54,098
+To the wedding!
+
+794
+00:42:54,135 --> 00:42:56,160
+<i>STEFAN: Now,</i>
+<i>be reasonabIe, Hubert.</i>
+
+795
+00:42:56,204 --> 00:43:00,300
+<i>After aII, Aurora knows</i>
+<i>nothing about aII this.</i>
+
+796
+00:43:00,342 --> 00:43:02,173
+-Well?
+-Well, it--it...
+
+797
+00:43:02,210 --> 00:43:04,770
+may come as quite a shock.
+
+798
+00:43:04,813 --> 00:43:06,007
+[Sputters]
+
+799
+00:43:06,047 --> 00:43:07,241
+Shock?!
+
+800
+00:43:07,282 --> 00:43:09,375
+My Phillip a shock?!
+
+801
+00:43:09,417 --> 00:43:12,352
+What's wrong with my Phillip?
+
+802
+00:43:12,387 --> 00:43:14,981
+Nothing, Hubert.
+l only meant--
+
+803
+00:43:15,023 --> 00:43:18,584
+Why doesn't your daughter
+like my son?
+
+804
+00:43:18,627 --> 00:43:19,753
+Now, now--
+
+805
+00:43:19,794 --> 00:43:24,060
+l'm not so sure my son
+likes your daughter!
+
+806
+00:43:24,099 --> 00:43:25,259
+Now, see here--
+
+807
+00:43:25,300 --> 00:43:27,495
+l'm not so sure
+my grandchildren...
+
+808
+00:43:27,535 --> 00:43:30,265
+want you for a grandfather!
+
+809
+00:43:30,305 --> 00:43:33,297
+Why, you--you unreasonable...
+
+810
+00:43:33,341 --> 00:43:36,333
+pompous, blustering,
+old windbag!
+
+811
+00:43:36,378 --> 00:43:38,141
+Unreasonable? Pompous?
+
+812
+00:43:38,179 --> 00:43:39,737
+En garde, sir!
+
+813
+00:43:39,781 --> 00:43:41,214
+l warn you, Hubert!
+
+814
+00:43:41,249 --> 00:43:42,375
+This means war!
+
+815
+00:43:42,417 --> 00:43:43,509
+Forward!
+
+816
+00:43:43,551 --> 00:43:45,485
+For honor! For country! For--
+
+817
+00:43:45,520 --> 00:43:47,488
+[Laughing]
+
+818
+00:43:47,522 --> 00:43:49,615
+[Laughing]
+
+819
+00:43:54,996 --> 00:43:56,691
+What's this all about, anyway?
+
+820
+00:43:56,731 --> 00:43:58,460
+Nothing, Hubert.
+
+821
+00:43:58,500 --> 00:44:00,491
+Absolutely nothing.
+
+822
+00:44:00,535 --> 00:44:03,436
+The children are bound
+to fall in love with each other.
+
+823
+00:44:03,471 --> 00:44:04,802
+Precisely.
+
+824
+00:44:04,839 --> 00:44:06,306
+And as for grandchildren...
+
+825
+00:44:06,341 --> 00:44:08,571
+l'll have
+the royal woodcarvers...
+
+826
+00:44:08,610 --> 00:44:10,510
+start work
+on the cradle tomorrow!
+
+827
+00:44:10,545 --> 00:44:11,773
+Splendid!
+
+828
+00:44:11,813 --> 00:44:13,508
+King size, of course?
+
+829
+00:44:13,548 --> 00:44:14,515
+Certainly.
+
+830
+00:44:14,549 --> 00:44:16,710
+To the Woodcarver's Guild!
+
+831
+00:44:16,751 --> 00:44:19,481
+<i>[Guitar notes ascending</i>
+<i>and descending]</i>
+
+832
+00:44:20,989 --> 00:44:22,923
+<i>[Snoring]</i>
+
+833
+00:44:24,225 --> 00:44:27,422
+[Guitar notes ascending]
+
+834
+00:44:27,462 --> 00:44:30,124
+[Strings twang]
+
+835
+00:44:30,165 --> 00:44:32,497
+<i>MAN, DISTANTLY:</i>
+<i>His RoyaI Highness...</i>
+
+836
+00:44:32,534 --> 00:44:34,559
+<i>Prince PhiIIip!</i>
+
+837
+00:44:34,602 --> 00:44:35,626
+Phillip!
+
+838
+00:44:35,670 --> 00:44:41,209
+<i>[Cheering]</i>
+
+839
+00:44:41,209 --> 00:44:43,302
+Oh, Phillip!
+
+840
+00:44:43,345 --> 00:44:44,642
+Phillip!
+
+841
+00:44:45,780 --> 00:44:47,907
+Phillip! Hold, Phillip!
+
+842
+00:44:52,253 --> 00:44:54,118
+[Panting]
+
+843
+00:44:54,155 --> 00:44:55,622
+H-hurry, boy!
+
+844
+00:44:55,657 --> 00:44:58,558
+Hurry! Change into
+something suitable!
+
+845
+00:44:58,593 --> 00:45:00,857
+Can't meet your future bride
+looking like that.
+
+846
+00:45:00,895 --> 00:45:02,522
+But l have met her, Father.
+
+847
+00:45:02,564 --> 00:45:04,429
+You have? Where?
+
+848
+00:45:04,466 --> 00:45:05,592
+Once upon a dream.
+
+849
+00:45:05,633 --> 00:45:07,191
+[Phillip humming
+<i>Once Upon a Dream]</i>
+
+850
+00:45:07,235 --> 00:45:09,465
+HUBERT: Phillip!
+Stop! Stop that!
+
+851
+00:45:09,504 --> 00:45:12,496
+Phillip! P-put me down!
+
+852
+00:45:12,540 --> 00:45:15,737
+Now...what's all
+this dream nonsense?
+
+853
+00:45:15,777 --> 00:45:17,267
+lt wasn't a dream, Father.
+
+854
+00:45:17,312 --> 00:45:18,574
+l really did meet her.
+
+855
+00:45:18,613 --> 00:45:19,944
+The Princess Aurora?
+
+856
+00:45:19,981 --> 00:45:22,108
+Good heavens!
+We must tell Stefan!
+
+857
+00:45:22,150 --> 00:45:23,174
+Why, this is the most--
+
+858
+00:45:23,218 --> 00:45:25,152
+l didn't say it was Aurora.
+
+859
+00:45:25,186 --> 00:45:27,177
+You most certainly did!
+You--you said that--
+
+860
+00:45:27,222 --> 00:45:29,417
+l said l met the girl
+l was going to marry.
+
+861
+00:45:29,457 --> 00:45:30,947
+l don't know who she was.
+
+862
+00:45:30,992 --> 00:45:32,357
+A peasant girl,
+l suppose--
+
+863
+00:45:32,394 --> 00:45:34,157
+A peasant g-girl?
+
+864
+00:45:34,195 --> 00:45:36,220
+You're--you're going
+to marry a...
+
+865
+00:45:36,264 --> 00:45:38,255
+[Chuckling]
+Why, Phillip!
+
+866
+00:45:38,299 --> 00:45:39,596
+You're joking!
+
+867
+00:45:42,637 --> 00:45:44,229
+Uh...isn't he?
+
+868
+00:45:46,074 --> 00:45:49,737
+No! Y-you can't
+do this to me!
+
+869
+00:45:49,778 --> 00:45:52,042
+Give up the throne?
+The kingdom?
+
+870
+00:45:52,080 --> 00:45:54,844
+For some...some nobody?
+
+871
+00:45:54,883 --> 00:45:57,374
+By Harry, l won't have it!
+
+872
+00:45:57,419 --> 00:45:58,750
+You're a Prince!
+
+873
+00:45:58,787 --> 00:46:01,153
+And you're going
+to marry a Princess!
+
+874
+00:46:01,189 --> 00:46:03,089
+Now, Father, you're
+living in the past.
+
+875
+00:46:03,124 --> 00:46:05,115
+This is the 1 <i>4</i>th century.
+Nowadays--
+
+876
+00:46:05,160 --> 00:46:07,685
+Nowadays,
+l'm still the King!
+
+877
+00:46:07,729 --> 00:46:09,890
+And l command you to come
+to your senses!
+
+878
+00:46:09,931 --> 00:46:11,262
+And marry the girl l love.
+
+879
+00:46:11,299 --> 00:46:12,561
+-Exactly!
+-Good-bye, Father.
+
+880
+00:46:12,600 --> 00:46:14,534
+''Good-bye, Father.
+Marry the girl you--''
+
+881
+00:46:14,569 --> 00:46:15,536
+No, no!
+
+882
+00:46:15,570 --> 00:46:17,231
+No, no, Phillip, stop!
+
+883
+00:46:17,272 --> 00:46:18,398
+Come back!
+
+884
+00:46:18,440 --> 00:46:19,600
+<i>HUBERT: Oh, PhiIIip!</i>
+
+885
+00:46:24,979 --> 00:46:27,379
+Phillip!
+
+886
+00:46:45,900 --> 00:46:47,026
+Oh!
+
+887
+00:46:47,068 --> 00:46:51,266
+Oh, how--how will
+l ever tell Stefan?
+
+888
+00:47:37,852 --> 00:47:39,479
+Whispering]
+Come along, now.
+
+889
+00:47:51,466 --> 00:47:54,492
+All right, in here, dear.
+
+890
+00:47:58,406 --> 00:47:59,566
+[Sighs]
+
+891
+00:47:59,607 --> 00:48:01,097
+<i>FLORA: BoIt the door,</i>
+<i>Merryweather!</i>
+
+892
+00:48:01,142 --> 00:48:03,076
+<i>Fauna, puII the drapes!</i>
+
+893
+00:48:04,145 --> 00:48:08,548
+And now, dear,
+if you'll just sit here.
+
+894
+00:48:08,583 --> 00:48:10,813
+This one last gift...
+
+895
+00:48:10,852 --> 00:48:12,843
+dear child for thee...
+
+896
+00:48:12,887 --> 00:48:16,448
+the symbol of thy royalty.
+
+897
+00:48:16,491 --> 00:48:20,450
+A crown to wear
+in grace and beauty,
+
+898
+00:48:20,495 --> 00:48:23,726
+as is thy right and royal duty.
+
+899
+00:48:26,134 --> 00:48:28,034
+[Crying]
+
+900
+00:48:28,069 --> 00:48:30,367
+Now, dear.
+
+901
+00:48:30,405 --> 00:48:31,565
+Whispering]
+Come.
+
+902
+00:48:33,274 --> 00:48:36,141
+Let her have
+a few moments alone.
+
+903
+00:48:37,412 --> 00:48:39,607
+lt's that boy she met.
+
+904
+00:48:39,647 --> 00:48:41,547
+Whatever are we going to do?
+
+905
+00:48:41,582 --> 00:48:43,379
+[Sobbing]
+
+906
+00:49:21,955 --> 00:49:27,325
+Oh, l don't see why she has
+to marry any old Prince.
+
+907
+00:49:27,361 --> 00:49:30,694
+Now, that's not
+for us to decide, dear.
+
+908
+00:49:42,075 --> 00:49:45,567
+Maybe we should tell King Stefan
+about the boy.
+
+909
+00:49:45,612 --> 00:49:47,045
+Well, why don't we?
+
+910
+00:49:47,080 --> 00:49:48,274
+Listen!
+
+911
+00:49:48,315 --> 00:49:51,045
+Maleficent! Rose!
+
+912
+00:49:51,084 --> 00:49:52,608
+ALL: Rose! Rose! Aah!
+
+913
+00:49:52,653 --> 00:49:55,178
+<i>FLORA: Oh, why did</i>
+<i>we Ieave her aIone?</i>
+
+914
+00:49:55,222 --> 00:49:57,247
+ALL: Rose! Rose!
+
+915
+00:50:14,875 --> 00:50:17,639
+[Grunting]
+
+916
+00:50:17,678 --> 00:50:19,339
+Here.
+
+917
+00:50:19,379 --> 00:50:21,040
+ALL: Rose! Rose!
+
+918
+00:50:21,081 --> 00:50:23,208
+Rose, where are you?
+
+919
+00:50:23,250 --> 00:50:24,842
+[Echoing]
+Where are you?
+
+920
+00:50:30,624 --> 00:50:34,617
+[Echoing]
+ALL: Rose!
+
+921
+00:50:46,373 --> 00:50:48,432
+[Echoing]
+ALL: Rose!
+
+922
+00:50:48,475 --> 00:50:49,772
+Rose!
+
+923
+00:51:00,253 --> 00:51:02,312
+ALL: Rose!
+
+924
+00:51:12,999 --> 00:51:16,730
+Rose, don't touch anything!
+
+925
+00:51:16,770 --> 00:51:18,704
+[Echoing]
+
+926
+00:51:18,739 --> 00:51:21,071
+<i>MALEFICENT:</i>
+<i>Touch the spindIe.</i>
+
+927
+00:51:21,108 --> 00:51:23,167
+<i>Touch it, I say!</i>
+
+928
+00:51:25,245 --> 00:51:26,940
+[All gasp]
+
+929
+00:51:28,014 --> 00:51:31,575
+You poor, simple fools.
+
+930
+00:51:31,618 --> 00:51:33,586
+Thinking you could defeat me.
+
+931
+00:51:33,620 --> 00:51:37,112
+<i>Me, the mistress</i>
+<i>of aII eviI!</i>
+
+932
+00:51:38,191 --> 00:51:41,752
+Well, here's your
+precious Princess.
+
+933
+00:51:41,795 --> 00:51:43,854
+<i>[Laughing eviIIy]</i>
+
+934
+00:51:48,535 --> 00:51:49,502
+Rose!
+
+935
+00:51:49,536 --> 00:51:52,130
+[Sobbing]
+Oh, Rose!
+
+936
+00:51:52,172 --> 00:51:57,007
+Oh, l'll never forgive myself.
+
+937
+00:51:57,043 --> 00:51:59,238
+<i>FAUNA: We're aII to bIame!</i>
+
+938
+00:52:08,321 --> 00:52:09,811
+Stefan, there's--
+
+939
+00:52:09,856 --> 00:52:12,450
+there's something important
+l have to tell you.
+
+940
+00:52:12,492 --> 00:52:14,619
+Not now, Hubert.
+
+941
+00:52:14,661 --> 00:52:16,788
+But it's about Phillip.
+
+942
+00:52:16,830 --> 00:52:17,797
+Phillip?
+
+943
+00:52:17,831 --> 00:52:19,856
+Oh, yes, of course, Phillip.
+
+944
+00:52:19,900 --> 00:52:21,765
+Why, where is the boy?
+
+945
+00:52:21,802 --> 00:52:24,100
+That's what l'm trying
+to tell you.
+
+946
+00:52:24,137 --> 00:52:25,695
+Well, send for him immediately!
+
+947
+00:52:25,739 --> 00:52:26,967
+-But--
+-Shh!
+
+948
+00:52:27,007 --> 00:52:29,635
+[Fanfare]
+
+949
+00:52:29,676 --> 00:52:32,304
+<i>MAN: The sun has set!</i>
+
+950
+00:52:32,345 --> 00:52:36,179
+<i>Make ready to weIcome</i>
+<i>your Princess!</i>
+
+951
+00:52:36,216 --> 00:52:38,514
+[Crowd cheers]
+
+952
+00:52:55,035 --> 00:52:56,525
+[Sobbing]
+
+953
+00:53:32,339 --> 00:53:34,307
+<i>[Crowd cheers]</i>
+
+954
+00:53:36,743 --> 00:53:39,769
+Poor King Stefan and the Queen.
+
+955
+00:53:39,813 --> 00:53:43,305
+They'll be heartbroken
+when they find out.
+
+956
+00:53:45,852 --> 00:53:47,979
+They're not going to.
+
+957
+00:53:48,021 --> 00:53:49,488
+<i>MERRYWEATHER: They aren't?</i>
+
+958
+00:53:49,522 --> 00:53:51,285
+We'll put them all to sleep...
+
+959
+00:53:51,324 --> 00:53:53,656
+until Rose awakens.
+
+960
+00:54:00,500 --> 00:54:01,524
+Come!
+
+961
+00:54:10,377 --> 00:54:17,715
+<i>CHORUS:</i>
+<i>SIeeping beauty fair</i>
+
+962
+00:54:17,751 --> 00:54:21,744
+<i>GoId of sunshine</i>
+
+963
+00:54:21,788 --> 00:54:27,090
+<i>In your hair</i>
+
+964
+00:54:27,127 --> 00:54:30,119
+<i>Lips that shame</i>
+
+965
+00:54:30,163 --> 00:54:35,499
+<i>The red, red rose</i>
+
+966
+00:54:35,535 --> 00:54:38,800
+<i>Dreaming of true Iove</i>
+
+967
+00:54:38,838 --> 00:54:44,777
+<i>In sIumber repose</i>
+
+968
+00:54:44,811 --> 00:54:53,150
+<i>One day he wiII come</i>
+
+969
+00:54:53,186 --> 00:55:01,855
+<i>Riding out of the dawn</i>
+
+970
+00:55:01,895 --> 00:55:04,887
+<i>And you'II awaken</i>
+
+971
+00:55:04,931 --> 00:55:09,925
+<i>To Iove's first kiss</i>
+
+972
+00:55:09,970 --> 00:55:15,135
+<i>TiII then,</i>
+<i>SIeeping Beauty</i>
+
+973
+00:55:15,175 --> 00:55:20,010
+<i>SIeep on</i>
+
+974
+00:55:20,046 --> 00:55:24,483
+<i>One day you'II awaken</i>
+
+975
+00:55:24,517 --> 00:55:29,386
+<i>To Iove's first kiss</i>
+
+976
+00:55:29,422 --> 00:55:37,557
+<i>TiII then,</i>
+<i>SIeeping Beauty</i>
+
+977
+00:55:37,597 --> 00:55:42,830
+<i>SIeep on</i>
+
+978
+00:55:42,869 --> 00:55:45,360
+[Yawns]
+
+979
+00:55:48,408 --> 00:55:51,138
+[Snoring]
+
+980
+00:55:51,177 --> 00:55:54,442
+Well, just been
+talking to Phillip.
+
+981
+00:55:54,481 --> 00:55:57,314
+Seems he's fallen in love
+with some...
+
+982
+00:55:57,350 --> 00:55:59,477
+[Yawns]
+Peasant girl.
+
+983
+00:55:59,519 --> 00:56:01,714
+Peasant girl?
+
+984
+00:56:01,755 --> 00:56:03,552
+Yes? Yes?
+
+985
+00:56:05,425 --> 00:56:07,416
+The peasant girl--
+who is she?
+
+986
+00:56:07,460 --> 00:56:08,927
+Where did he meet her?
+
+987
+00:56:08,962 --> 00:56:12,159
+Just some peasant girl he met.
+
+988
+00:56:12,198 --> 00:56:13,927
+Where?! Where?!
+
+989
+00:56:13,967 --> 00:56:18,370
+Once upon a dream.
+
+990
+00:56:18,405 --> 00:56:20,339
+Once upon a dr--
+
+991
+00:56:20,373 --> 00:56:22,364
+Rose! Prince Phillip!
+
+992
+00:56:22,409 --> 00:56:23,967
+Oh! Oh!
+
+993
+00:56:27,981 --> 00:56:29,243
+FLORA: Come on.
+
+994
+00:56:29,282 --> 00:56:31,307
+We've got to get back
+to the cottage.
+
+995
+00:56:48,601 --> 00:56:51,263
+Whistling
+<i>Once Upon a Dream]</i>
+
+996
+00:57:18,764 --> 00:57:19,958
+<i>MALEFICENT: Come in!</i>
+
+997
+00:57:25,237 --> 00:57:28,297
+[Growling and snarling]
+
+998
+00:57:37,650 --> 00:57:39,140
+[Cawing]
+
+999
+00:57:50,296 --> 00:57:52,491
+Well...
+
+1000
+00:57:52,531 --> 00:57:55,989
+this is a pleasant surprise.
+
+1001
+00:57:56,035 --> 00:57:59,801
+l set my trap
+for a peasant, and lo,
+
+1002
+00:57:59,838 --> 00:58:01,601
+l catch a Prince!
+
+1003
+00:58:01,640 --> 00:58:05,132
+[Laughing]
+
+1004
+00:58:05,177 --> 00:58:06,235
+Away with him.
+
+1005
+00:58:06,278 --> 00:58:07,336
+[Snarling]
+
+1006
+00:58:07,379 --> 00:58:09,040
+But gently, my pets...
+
+1007
+00:58:09,081 --> 00:58:10,548
+gently.
+
+1008
+00:58:11,984 --> 00:58:16,182
+l have plans
+for our royal guest.
+
+1009
+00:58:43,749 --> 00:58:44,841
+[Gasps]
+
+1010
+00:58:48,520 --> 00:58:50,750
+[Gasping]
+ALL: Maleficent!
+
+1011
+00:58:50,789 --> 00:58:52,450
+She's got Prince Phillip!
+
+1012
+00:58:53,592 --> 00:58:55,082
+At the forbidden mountain.
+
+1013
+00:58:55,127 --> 00:58:56,424
+[Gasps]
+
+1014
+00:58:56,462 --> 00:58:59,158
+But we can't!
+We can't go there!
+
+1015
+00:58:59,198 --> 00:59:02,565
+We can, and we must!
+
+1016
+01:00:34,493 --> 01:00:35,482
+[Snorts]
+
+1017
+01:00:45,037 --> 01:00:47,528
+<i>[SnarIing]</i>
+
+1018
+01:01:24,076 --> 01:01:26,044
+What a pity Prince Phillip...
+
+1019
+01:01:26,078 --> 01:01:29,377
+can't be here to enjoy
+the celebration.
+
+1020
+01:01:29,414 --> 01:01:31,575
+[Laughs]
+
+1021
+01:01:31,617 --> 01:01:33,551
+Come.
+
+1022
+01:01:33,585 --> 01:01:36,554
+We must go to the dungeon
+and cheer him up.
+
+1023
+01:02:30,409 --> 01:02:32,934
+Oh, come now, Prince Phillip.
+
+1024
+01:02:32,978 --> 01:02:34,946
+Why so melancholy?
+
+1025
+01:02:36,114 --> 01:02:39,208
+A wondrous future lies
+before you.
+
+1026
+01:02:39,251 --> 01:02:42,049
+You, the destined hero...
+
+1027
+01:02:42,087 --> 01:02:45,648
+of a charming fairy tale
+come true.
+
+1028
+01:02:50,028 --> 01:02:51,222
+Behold...
+
+1029
+01:02:51,263 --> 01:02:54,027
+<i>King Stefan's castIe...</i>
+
+1030
+01:02:54,066 --> 01:02:56,534
+<i>And in yonder</i>
+<i>topmost tower...</i>
+
+1031
+01:02:56,568 --> 01:02:59,537
+<i>Dreaming of her true Iove...</i>
+
+1032
+01:02:59,571 --> 01:03:03,667
+<i>the Princess Aurora.</i>
+
+1033
+01:03:03,709 --> 01:03:06,940
+<i>But see the gracious</i>
+<i>whim of fate.</i>
+
+1034
+01:03:06,979 --> 01:03:10,415
+<i>Why, 'tis the seIfsame</i>
+<i>peasant maid...</i>
+
+1035
+01:03:10,449 --> 01:03:12,747
+<i>who won the heart</i>
+<i>of our nobIe Prince...</i>
+
+1036
+01:03:12,784 --> 01:03:14,251
+<i>but yesterday.</i>
+
+1037
+01:03:17,422 --> 01:03:22,758
+<i>She is indeed</i>
+<i>most wondrous fair.</i>
+
+1038
+01:03:22,794 --> 01:03:25,695
+<i>GoId of sunshine</i>
+<i>in her hair.</i>
+
+1039
+01:03:25,731 --> 01:03:30,191
+<i>Lips that shame</i>
+<i>the red, red rose.</i>
+
+1040
+01:03:30,235 --> 01:03:32,669
+<i>In ageIess sIeep...</i>
+
+1041
+01:03:32,704 --> 01:03:34,797
+<i>she finds repose.</i>
+
+1042
+01:03:36,975 --> 01:03:39,409
+The years roll by...
+
+1043
+01:03:39,444 --> 01:03:42,607
+but a hundred years
+to a steadfast heart...
+
+1044
+01:03:42,648 --> 01:03:44,582
+are but a day.
+
+1045
+01:03:44,616 --> 01:03:48,416
+<i>And now the gates</i>
+<i>of a dungeon part...</i>
+
+1046
+01:03:48,453 --> 01:03:53,117
+<i>and our Prince</i>
+<i>is free to go his way.</i>
+
+1047
+01:03:53,158 --> 01:03:57,561
+<i>Off he rides</i>
+<i>on his nobIe steed...</i>
+
+1048
+01:03:57,596 --> 01:03:59,154
+<i>a vaIiant figure...</i>
+
+1049
+01:03:59,197 --> 01:04:01,631
+<i>straight and taII...</i>
+
+1050
+01:04:01,667 --> 01:04:03,828
+to wake his love...
+
+1051
+01:04:03,869 --> 01:04:07,566
+with love's first kiss...
+
+1052
+01:04:07,606 --> 01:04:12,771
+<i>and prove that true Iove</i>
+<i>conquers aII.</i>
+
+1053
+01:04:12,811 --> 01:04:15,746
+<i>[Laughs]</i>
+
+1054
+01:04:15,781 --> 01:04:17,772
+Why, you--you...
+
+1055
+01:04:22,321 --> 01:04:23,845
+Come, my pet.
+
+1056
+01:04:23,889 --> 01:04:26,119
+Let us leave our noble Prince...
+
+1057
+01:04:26,158 --> 01:04:28,626
+with these happy thoughts.
+
+1058
+01:04:28,660 --> 01:04:29,752
+[Chuckles]
+
+1059
+01:04:33,298 --> 01:04:36,290
+A most gratifying day.
+
+1060
+01:04:41,173 --> 01:04:44,199
+For the first time
+in sixteen years...
+
+1061
+01:04:44,242 --> 01:04:46,642
+l shall sleep well.
+
+1062
+01:05:03,161 --> 01:05:05,755
+Shh! No time to explain.
+
+1063
+01:05:14,473 --> 01:05:16,202
+Wait, Prince Phillip.
+
+1064
+01:05:16,241 --> 01:05:18,209
+The road to true love
+may be barred...
+
+1065
+01:05:18,243 --> 01:05:20,370
+by still many more dangers...
+
+1066
+01:05:20,412 --> 01:05:23,040
+<i>which you aIone</i>
+<i>wiII have to face.</i>
+
+1067
+01:05:23,081 --> 01:05:24,548
+So arm thyself...
+
+1068
+01:05:24,583 --> 01:05:27,848
+with this enchanted shield
+of virtue...
+
+1069
+01:05:27,886 --> 01:05:31,151
+<i>and this mighty sword</i>
+<i>of truth.</i>
+
+1070
+01:05:31,189 --> 01:05:33,316
+<i>For these weapons</i>
+<i>of righteousness...</i>
+
+1071
+01:05:33,358 --> 01:05:35,258
+<i>wiII triumph over eviI.</i>
+
+1072
+01:05:35,293 --> 01:05:37,284
+Now, come. We must hurry.
+
+1073
+01:05:41,700 --> 01:05:42,758
+[Cawing]
+
+1074
+01:05:55,714 --> 01:05:58,182
+[Yelling]
+
+1075
+01:06:11,730 --> 01:06:13,721
+Whinnies]
+
+1076
+01:06:25,377 --> 01:06:26,708
+FLORA: Phillip, watch out!
+
+1077
+01:06:58,510 --> 01:07:00,000
+[Cawing]
+
+1078
+01:07:23,435 --> 01:07:25,665
+Silence!
+
+1079
+01:07:25,704 --> 01:07:28,104
+You, tell those fools to...
+
+1080
+01:07:28,140 --> 01:07:30,108
+No! No!
+
+1081
+01:07:35,213 --> 01:07:37,147
+FAUNA: Watch out, Phillip!
+
+1082
+01:07:45,123 --> 01:07:46,454
+Hurry! Hurry, Phillip!
+
+1083
+01:07:59,804 --> 01:07:59,904
+A forest of thorns
+shall be his tomb.
+
+1084
+01:07:59,904 --> 01:08:03,670
+A forest of thorns
+shall be his tomb.
+
+1085
+01:08:03,707 --> 01:08:07,438
+Born through the skies
+on a fog of doom.
+
+1086
+01:08:07,478 --> 01:08:10,743
+<i>Now go with the curse</i>
+<i>and serve me weII...</i>
+
+1087
+01:08:10,781 --> 01:08:12,772
+<i>Round Stefan's castIe...</i>
+
+1088
+01:08:12,816 --> 01:08:15,011
+<i>Cast my speII!</i>
+
+1089
+01:08:32,569 --> 01:08:34,799
+Whinnies]
+
+1090
+01:08:34,838 --> 01:08:37,932
+[Laughing]
+
+1091
+01:08:49,286 --> 01:08:51,516
+Whinnies]
+
+1092
+01:09:05,369 --> 01:09:07,803
+No, it cannot be!
+
+1093
+01:09:11,809 --> 01:09:14,004
+<i>[Samson whinnies]</i>
+
+1094
+01:09:14,044 --> 01:09:17,878
+Now shall you deal
+with me, o Prince...
+
+1095
+01:09:17,915 --> 01:09:22,716
+and all the powers of hell!
+
+1096
+01:09:22,753 --> 01:09:25,347
+[Laughing]
+
+1097
+01:09:50,414 --> 01:09:51,745
+Whinnies]
+
+1098
+01:09:53,484 --> 01:09:54,974
+[Roars]
+
+1099
+01:10:06,096 --> 01:10:08,064
+Up! Up this way!
+
+1100
+01:10:22,946 --> 01:10:24,413
+[Maleficent laughs]
+
+1101
+01:10:24,448 --> 01:10:27,212
+FLORA: Now, Sword of Truth,
+fly swift and sure...
+
+1102
+01:10:27,251 --> 01:10:30,846
+that evil die and good endure!
+
+1103
+01:10:30,888 --> 01:10:33,152
+[Screaming]
+
+1104
+01:10:56,713 --> 01:10:58,374
+[Nickers]
+
+1105
+01:12:12,956 --> 01:12:16,551
+Oh, oh, uh, forgive me, Hubert.
+
+1106
+01:12:16,593 --> 01:12:17,890
+The wine.
+
+1107
+01:12:17,928 --> 01:12:21,193
+Now, uh, you were saying?
+
+1108
+01:12:21,231 --> 01:12:23,222
+Huh? l was?
+
+1109
+01:12:23,267 --> 01:12:25,360
+Oh, oh, yes.
+
+1110
+01:12:25,402 --> 01:12:28,337
+Well, after all, Stefan...
+
+1111
+01:12:28,372 --> 01:12:30,237
+this is the 1 <i>4</i>th century.
+
+1112
+01:12:30,274 --> 01:12:31,571
+Yes. You, uh--
+
+1113
+01:12:31,608 --> 01:12:33,576
+you said that a moment ago.
+
+1114
+01:12:33,610 --> 01:12:36,408
+Well, to come right
+to the point...
+
+1115
+01:12:36,446 --> 01:12:39,643
+my son Phillip says
+he's going to marry--
+
+1116
+01:12:39,683 --> 01:12:42,652
+<i>[Trumpet fanfare]</i>
+
+1117
+01:13:05,209 --> 01:13:07,643
+lt's Aurora. She's here!
+
+1118
+01:13:12,416 --> 01:13:14,316
+And--and--and Phillip!
+
+1119
+01:13:29,266 --> 01:13:31,894
+What does this mean, boy?
+
+1120
+01:13:31,935 --> 01:13:33,459
+l--l don't...
+
+1121
+01:13:37,841 --> 01:13:39,604
+But, but, but...
+
+1122
+01:13:46,450 --> 01:13:48,281
+l don't understand.
+
+1123
+01:14:13,677 --> 01:14:16,009
+Why, Fauna,
+what's the matter, dear?
+
+1124
+01:14:16,046 --> 01:14:20,608
+Oh, l just love happy endings.
+
+1125
+01:14:20,651 --> 01:14:22,846
+Yes. l do, too.
+
+1126
+01:14:22,886 --> 01:14:24,444
+[Gasps]
+
+1127
+01:14:24,488 --> 01:14:25,648
+Blue?!
+
+1128
+01:14:29,626 --> 01:14:30,957
+Pink!
+
+1129
+01:14:30,994 --> 01:14:36,330
+<i>CHORUS: I know you,</i>
+<i>I waIked with you once...</i>
+
+1130
+01:14:36,366 --> 01:14:37,355
+Blue!
+
+1131
+01:14:37,401 --> 01:14:39,460
+<i>...upon a dream</i>
+
+1132
+01:14:39,503 --> 01:14:42,097
+<i>I know you</i>
+
+1133
+01:14:42,139 --> 01:14:44,130
+<i>The gIeam in your eyes</i>
+
+1134
+01:14:44,174 --> 01:14:47,473
+<i>Is so famiIiar a gIeam</i>
+
+1135
+01:14:47,511 --> 01:14:50,674
+<i>And I know it's true</i>
+
+1136
+01:14:50,714 --> 01:14:55,447
+<i>That visions</i>
+<i>are seIdom aII they seem</i>
+
+1137
+01:14:55,485 --> 01:14:58,010
+<i>But if I know you</i>
+
+1138
+01:14:58,055 --> 01:14:59,920
+<i>I know what you'II do</i>
+
+1139
+01:14:59,956 --> 01:15:01,981
+<i>You'II Iove me at once</i>
+
+1140
+01:15:02,025 --> 01:15:04,425
+<i>The way you did once</i>
+
+1141
+01:15:04,461 --> 01:15:06,929
+<i>Upon</i>
+
+1142
+01:15:06,963 --> 01:15:08,931
+<i>A</i>
+
+1143
+01:15:08,965 --> 01:15:16,531
+<i>Dream</i>
+

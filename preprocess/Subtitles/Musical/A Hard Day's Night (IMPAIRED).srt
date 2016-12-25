@@ -1,0 +1,7209 @@
+1
+00:00:19,928 --> 00:00:23,498
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+2
+00:00:23,498 --> 00:00:26,834
+? <i>And I've been workin'</i>
+<i>Iike a dog</i> ?
+
+3
+00:00:26,834 --> 00:00:30,171
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+4
+00:00:30,171 --> 00:00:33,808
+? <i>I shouId be sIeepin'</i>
+<i>Iike a Iog</i> ?
+
+5
+00:00:33,808 --> 00:00:35,944
+? <i>But when I get home to you</i> ?
+
+6
+00:00:35,944 --> 00:00:37,345
+? <i>I find</i>
+<i>the things that you do</i> ?
+
+7
+00:00:37,345 --> 00:00:40,915
+? <i>WiII make me feel</i>
+<i>aII right</i> ?
+
+8
+00:00:40,915 --> 00:00:44,385
+? <i>You know I work aII day</i> ?
+
+9
+00:00:44,385 --> 00:00:47,889
+? <i>To get you money</i>
+<i>to buy you things</i> ?
+
+10
+00:00:47,889 --> 00:00:51,326
+? <i>And it's worth it</i>
+<i>just to hear you say</i> ?
+
+11
+00:00:51,326 --> 00:00:54,796
+? <i>You're gonna give me</i>
+<i>everything</i> ?
+
+12
+00:00:54,796 --> 00:00:56,631
+? <i>So why on earth</i>
+<i>shouId I moan?</i> ?
+
+13
+00:00:56,631 --> 00:00:58,399
+? <i>'Cause when</i>
+<i>I get you aIone</i> ?
+
+14
+00:00:58,399 --> 00:01:01,769
+? <i>You know I feeI OK</i> ?
+
+15
+00:01:01,769 --> 00:01:04,439
+? <i>When I'm home</i> ?
+
+16
+00:01:04,439 --> 00:01:07,499
+? <i>Everything</i>
+<i>seems to be right</i> ?
+
+17
+00:01:08,943 --> 00:01:11,279
+? <i>When I'm home</i> ?
+
+18
+00:01:11,279 --> 00:01:14,616
+? <i>FeeIing you</i>
+<i>hoIding me tight</i> ?
+
+19
+00:01:14,616 --> 00:01:16,217
+? <i>Tight, yeah</i> ?
+
+20
+00:01:16,217 --> 00:01:19,487
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+21
+00:01:19,487 --> 00:01:23,024
+? <i>And I've been workin'</i>
+<i>Iike a dog</i> ?
+
+22
+00:01:23,024 --> 00:01:26,527
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+23
+00:01:26,527 --> 00:01:30,098
+? <i>I shouId be sIeepin'</i>
+<i>Iike a Iog</i> ?
+
+24
+00:01:30,098 --> 00:01:31,966
+? <i>But when I get home to you</i> ?
+
+25
+00:01:31,966 --> 00:01:33,801
+? <i>I find</i>
+<i>the things that you do</i> ?
+
+26
+00:01:33,801 --> 00:01:36,471
+? <i>WiII make me</i>
+<i>feeI aII right</i> ?
+
+27
+00:01:36,471 --> 00:01:38,871
+<i>Aah!</i>
+
+28
+00:01:51,452 --> 00:01:53,087
+? <i>So why on earth</i>
+<i>shouId I moan?</i> ?
+
+29
+00:01:53,087 --> 00:01:54,922
+? <i>'Cause when</i>
+<i>I get you aIone</i> ?
+
+30
+00:01:54,922 --> 00:01:58,292
+? <i>You know I feeI OK</i> ?
+
+31
+00:01:58,292 --> 00:02:00,695
+? <i>When I'm home</i> ?
+
+32
+00:02:00,695 --> 00:02:05,099
+? <i>Everything</i>
+<i>seems to be right</i> ?
+
+33
+00:02:05,099 --> 00:02:07,902
+? <i>When I'm home</i> ?
+
+34
+00:02:07,902 --> 00:02:11,439
+? <i>FeeIing you</i>
+<i>hoIding me tight</i> ?
+
+35
+00:02:11,439 --> 00:02:12,974
+? <i>Tight, yeah</i> ?
+
+36
+00:02:12,974 --> 00:02:16,144
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+37
+00:02:16,144 --> 00:02:19,414
+? <i>And I've been workin'</i>
+<i>Iike a dog</i> ?
+
+38
+00:02:19,414 --> 00:02:23,217
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+39
+00:02:23,217 --> 00:02:26,854
+? <i>I shouId be sIeepin'</i>
+<i>Iike a Iog</i> ?
+
+40
+00:02:26,854 --> 00:02:28,456
+? <i>But when</i>
+<i>I get home to you</i> ?
+
+41
+00:02:28,456 --> 00:02:30,224
+? <i>I find</i>
+<i>the things that you do</i> ?
+
+42
+00:02:30,224 --> 00:02:33,895
+? <i>WiII make me</i>
+<i>feeI aII right</i> ?
+
+43
+00:02:33,895 --> 00:02:37,532
+? <i>You know I feeI aII right</i> ?
+
+44
+00:02:37,532 --> 00:02:40,134
+? <i>You know I feeI aII right</i> ?
+
+45
+00:02:40,134 --> 00:02:41,931
+[Crowd screaming]
+
+46
+00:03:20,675 --> 00:03:24,212
+Hey, pardon me for askin',
+but who's that little old man?
+
+47
+00:03:24,212 --> 00:03:27,048
+-What little old man?
+-That little old man.
+
+48
+00:03:27,048 --> 00:03:28,950
+Oh, that one.
+That's my grandfather.
+
+49
+00:03:28,950 --> 00:03:31,119
+-Your grandfather?
+-Yeah.
+
+50
+00:03:31,119 --> 00:03:34,689
+-That's not your grandfather.
+-lt is, you know.
+
+51
+00:03:34,689 --> 00:03:37,458
+But l've seen your grandfather.
+He lives in your house.
+
+52
+00:03:37,458 --> 00:03:40,762
+Oh, that's my other grandfather,
+but he's my grandfather as well.
+
+53
+00:03:40,762 --> 00:03:42,296
+How do you reckon that one out?
+
+54
+00:03:42,296 --> 00:03:44,132
+Well, everyone's entitled
+to two, aren't they?
+
+55
+00:03:44,132 --> 00:03:45,299
+And this is my other one.
+
+56
+00:03:45,299 --> 00:03:48,202
+We know that,
+but what's he doin' here?
+
+57
+00:03:48,202 --> 00:03:50,404
+Well, my mother thought
+the trip would do him good.
+
+58
+00:03:50,404 --> 00:03:53,508
+-How's that?
+-He's nursin' a broken heart.
+
+59
+00:03:53,508 --> 00:03:55,710
+J<i>OHN;</i>
+<i>Ah, poor oId thing.</i>
+
+60
+00:03:55,710 --> 00:03:58,178
+Hey, mister,
+are you nursin' a broken heart?
+
+61
+00:03:59,781 --> 00:04:03,818
+He's a nice old man, isn't he?
+
+62
+00:04:03,818 --> 00:04:05,843
+He's very clean.
+
+63
+00:04:12,794 --> 00:04:15,663
+-Hello, grandfather.
+-Hello.
+
+64
+00:04:15,663 --> 00:04:17,064
+He can talk then, can he?
+
+65
+00:04:17,064 --> 00:04:19,233
+Of course he can talk.
+He's a human being, isn't he?
+
+66
+00:04:19,233 --> 00:04:21,758
+Well, if he's your grandfather,
+who knows? Ha ha ha.
+
+67
+00:04:23,404 --> 00:04:25,139
+And we're lookin' after him,
+are we?
+
+68
+00:04:25,139 --> 00:04:28,176
+-l look after meself.
+-That's what l'm afraid of.
+
+69
+00:04:28,176 --> 00:04:29,477
+He's got you worried, then?
+
+70
+00:04:29,477 --> 00:04:32,413
+Him, he's a villain,
+a real mixer...
+
+71
+00:04:32,413 --> 00:04:34,682
+and he costs you a fortune
+in breach of promise cases.
+
+72
+00:04:34,682 --> 00:04:36,484
+-GEORGE: Get on.
+-No, straight up.
+
+73
+00:04:36,484 --> 00:04:37,712
+Hiya.
+
+74
+00:04:38,920 --> 00:04:40,922
+-Hello, Shake.
+-Hello, Shake.
+
+75
+00:04:40,922 --> 00:04:44,258
+-You got on all right, then?
+-No.
+
+76
+00:04:44,258 --> 00:04:46,661
+Oh? Well, we're here.
+
+77
+00:04:46,661 --> 00:04:48,329
+<i>SHAKE; Norm'II be aIong</i>
+<i>in a minute with the tickets.</i>
+
+78
+00:04:48,329 --> 00:04:50,364
+Hey, who's the little old man?
+
+79
+00:04:50,364 --> 00:04:52,958
+lt's Paul's grandfather.
+
+80
+00:04:54,202 --> 00:04:57,004
+-Oh, aye, but l thought--
+-No, that's his other one.
+
+81
+00:04:57,004 --> 00:04:59,006
+Oh, that's all right, then.
+
+82
+00:04:59,006 --> 00:05:01,776
+Clean, though, isn't he?
+
+83
+00:05:01,776 --> 00:05:03,611
+Oh, aye. He's very clean.
+
+84
+00:05:03,611 --> 00:05:06,747
+-NORM: Mornin', lads.
+-Hi, Norm.
+
+85
+00:05:06,747 --> 00:05:10,184
+Thank God you've all got here.
+Look, l've had a marvelous idea.
+
+86
+00:05:10,184 --> 00:05:12,019
+Just for once,
+let's all try to behave...
+
+87
+00:05:12,019 --> 00:05:14,021
+like ordinary
+respectable citizens.
+
+88
+00:05:14,021 --> 00:05:16,357
+<i>Let's not cause any troubIe,</i>
+<i>puII any strokes...</i>
+
+89
+00:05:16,357 --> 00:05:18,259
+or do anything
+l'm gonna be sorry for...
+
+90
+00:05:18,259 --> 00:05:20,895
+especially tomorrow in that
+television theater, because--
+
+91
+00:05:20,895 --> 00:05:24,632
+Are you listening to me,
+Lennon?
+
+92
+00:05:24,632 --> 00:05:26,634
+You're a swine.
+lsn't he, George?
+
+93
+00:05:26,634 --> 00:05:28,202
+Yeah, a swine.
+
+94
+00:05:28,202 --> 00:05:31,072
+Thanks. Hey!
+
+95
+00:05:31,072 --> 00:05:33,274
+ALL:
+Who's that little old man?
+
+96
+00:05:33,274 --> 00:05:36,711
+-Well, who is he?
+-He belongs to Paul.
+
+97
+00:05:36,711 --> 00:05:38,980
+Oh, well. l'm going down
+for a cup of coffee.
+
+98
+00:05:38,980 --> 00:05:40,748
+-Anyone coming?
+-We'll follow you down.
+
+99
+00:05:40,748 --> 00:05:42,216
+l want me coffee.
+
+100
+00:05:42,216 --> 00:05:44,151
+You can come with Shake and me,
+if you like.
+
+101
+00:05:44,151 --> 00:05:46,754
+<i>PAUL; Look after him. I don't</i>
+<i>want to find you've Iost him.</i>
+
+102
+00:05:46,754 --> 00:05:51,359
+Don't be cheeky. l'll bind him
+to me with promises.
+
+103
+00:05:51,359 --> 00:05:55,455
+Very clean, isn't he?
+Come out, granddad.
+
+104
+00:05:57,298 --> 00:05:58,925
+Make up your mind, will you?
+
+105
+00:06:21,822 --> 00:06:23,449
+Hello. Morning.
+
+106
+00:06:25,693 --> 00:06:27,285
+All right?
+
+107
+00:06:43,444 --> 00:06:44,712
+Whoa.
+
+108
+00:06:44,712 --> 00:06:46,480
+Do you mind if we have it open?
+
+109
+00:06:46,480 --> 00:06:47,982
+Yes, l do.
+
+110
+00:06:47,982 --> 00:06:49,884
+Well, there are four of us,
+and we'd like it open...
+
+111
+00:06:49,884 --> 00:06:53,621
+not if it's
+all the same to you, that is.
+
+112
+00:06:53,621 --> 00:06:56,724
+lt isn't. l travel
+on this train regularly...
+
+113
+00:06:56,724 --> 00:06:59,126
+twice a week, so l suppose
+l have some rights.
+
+114
+00:06:59,126 --> 00:07:00,423
+So have we.
+
+115
+00:07:05,700 --> 00:07:08,502
+[Playing rock and roll]
+
+116
+00:07:08,502 --> 00:07:11,072
+And we'll have that thing
+off as well. Thank you.
+
+117
+00:07:11,072 --> 00:07:12,573
+-[Turns off]
+-But--
+
+118
+00:07:12,573 --> 00:07:14,408
+An elementary knowledge
+of the Railway Acts...
+
+119
+00:07:14,408 --> 00:07:16,043
+would tell you that l am
+perfectly within my rights.
+
+120
+00:07:16,043 --> 00:07:18,312
+<i>Yeah, but we want to hear it.</i>
+<i>There's more of us than you.</i>
+
+121
+00:07:18,312 --> 00:07:20,481
+We're a community,
+a majority vote.
+
+122
+00:07:20,481 --> 00:07:21,816
+Up the workers
+and all that stuff.
+
+123
+00:07:21,816 --> 00:07:23,584
+Then l suggest
+you take that damn thing...
+
+124
+00:07:23,584 --> 00:07:25,853
+into the corridor, or
+some other part of the train...
+
+125
+00:07:25,853 --> 00:07:27,722
+where you obviously belong.
+
+126
+00:07:27,722 --> 00:07:30,191
+Give us a kiss.
+
+127
+00:07:30,191 --> 00:07:32,593
+Look, mister, we paid
+for our seats, too, you know.
+
+128
+00:07:32,593 --> 00:07:35,496
+l travel on this train
+regularly, twice a week.
+
+129
+00:07:35,496 --> 00:07:37,298
+Knock it off, Paul.
+You can't win with his sort.
+
+130
+00:07:37,298 --> 00:07:39,000
+After all, it's his train,
+isn't it, mister?
+
+131
+00:07:39,000 --> 00:07:41,202
+And don't take that tone
+with me, young man.
+
+132
+00:07:41,202 --> 00:07:43,070
+l fought the war for your sort.
+
+133
+00:07:43,070 --> 00:07:44,572
+l bet you're sorry you won.
+
+134
+00:07:44,572 --> 00:07:47,375
+-l shall call the guard.
+-Ah, but what?
+
+135
+00:07:47,375 --> 00:07:49,510
+They don't take kindly
+to insults, you know.
+
+136
+00:07:49,510 --> 00:07:53,037
+Let's go have some coffee
+and leave the kennel to Lassie.
+
+137
+00:07:55,449 --> 00:07:56,784
+[Door closes]
+
+138
+00:07:56,784 --> 00:07:58,581
+<i>PAUL; Hey, mister,</i>
+<i>can we have our baII back?</i>
+
+139
+00:08:03,057 --> 00:08:07,228
+<i>PAUL; Look, mister! Mister!</i>
+<i>Can we have our baII back?</i>
+
+140
+00:08:07,228 --> 00:08:10,220
+-J<i>OHN; Hey!</i>
+<i>-PAUL; PIease, mister!</i>
+
+141
+00:08:14,702 --> 00:08:16,871
+-You want to watch it.
+-Well, it's not my fault.
+
+142
+00:08:16,871 --> 00:08:18,105
+You stick to that story, son.
+
+143
+00:08:18,105 --> 00:08:20,641
+l can't help it.
+l'm just taller than you are.
+
+144
+00:08:20,641 --> 00:08:22,109
+They always say that.
+
+145
+00:08:22,109 --> 00:08:23,577
+Well, l've got me eye on ya.
+
+146
+00:08:23,577 --> 00:08:26,280
+l'm sorry, Norm. l can't help
+being taller than you.
+
+147
+00:08:26,280 --> 00:08:29,083
+Well, don't rub it in! l've
+a good mind to thump you, Shake.
+
+148
+00:08:29,083 --> 00:08:30,718
+lf you're gonna have a barney,
+can l hold your coat?
+
+149
+00:08:30,718 --> 00:08:33,387
+-He started it.
+-l did not. You did.
+
+150
+00:08:33,387 --> 00:08:34,555
+Well, what happened?
+
+151
+00:08:34,555 --> 00:08:35,723
+The old fella said that...
+
+152
+00:08:35,723 --> 00:08:38,092
+could he have these pictures,
+and Norm said, ''No.''
+
+153
+00:08:38,092 --> 00:08:40,461
+And all l said was,
+''Well, why not be big about it?''
+
+154
+00:08:40,461 --> 00:08:42,530
+-And?
+-Your grandfather pointed out...
+
+155
+00:08:42,530 --> 00:08:45,299
+that Shake was always being
+taller than me just to spite me.
+
+156
+00:08:45,299 --> 00:08:46,801
+l knew it. He started it.
+
+157
+00:08:46,801 --> 00:08:48,469
+<i>-PAUL; I shouId've known.</i>
+<i>-NORM; You what?</i>
+
+158
+00:08:48,469 --> 00:08:50,671
+You two have never had
+an argument in your life...
+
+159
+00:08:50,671 --> 00:08:52,807
+<i>and in two minutes fIat,</i>
+<i>he's got you at it.</i>
+
+160
+00:08:52,807 --> 00:08:54,175
+He's a king mixer.
+
+161
+00:08:54,175 --> 00:08:57,111
+<i>He hates group unity,</i>
+<i>so he gets everyone at it.</i>
+
+162
+00:08:57,111 --> 00:08:59,080
+Well, l suggest
+you just give him the photos...
+
+163
+00:08:59,080 --> 00:09:00,240
+and have done with it.
+
+164
+00:09:01,749 --> 00:09:03,808
+Oh, all right, you old devil.
+Here you are.
+
+165
+00:09:05,619 --> 00:09:08,355
+Hey, Pauly, would you ever
+sign one of them for us?
+
+166
+00:09:08,355 --> 00:09:10,721
+Ah, come out, Shake.
+
+167
+00:09:19,500 --> 00:09:22,036
+J<i>OHN; Hey, Iook at the taIent.</i>
+<i>Let's give 'em a puII.</i>
+
+168
+00:09:22,036 --> 00:09:23,871
+-Should l?
+-Aye, but don't rush.
+
+169
+00:09:23,871 --> 00:09:26,607
+None of your five bar gate
+jumps and over sort of stuff.
+
+170
+00:09:26,607 --> 00:09:28,342
+-What's that supposed to mean?
+-l don't know.
+
+171
+00:09:28,342 --> 00:09:30,411
+l thought it just sounded
+distinguished-like.
+
+172
+00:09:30,411 --> 00:09:32,980
+J<i>OHN; George Harrison,</i>
+<i>the scouse of distinction.</i>
+
+173
+00:09:32,980 --> 00:09:34,140
+Excuse me, madame.
+
+174
+00:09:36,684 --> 00:09:39,386
+Excuse me, but these young men
+l'm sitting with...
+
+175
+00:09:39,386 --> 00:09:41,789
+wondered if two of us
+could come over and join you.
+
+176
+00:09:41,789 --> 00:09:44,158
+l'd ask you myself,
+only l'm shy.
+
+177
+00:09:44,158 --> 00:09:47,027
+l'm sorry, miss. You mustn't
+fraternize with me prisoners.
+
+178
+00:09:47,027 --> 00:09:49,029
+-Prisoners?
+-Convict in transit.
+
+179
+00:09:49,029 --> 00:09:51,298
+Typical old lads,
+the lot of them.
+
+180
+00:09:51,298 --> 00:09:54,267
+<i>Get out, Iadies!</i>
+<i>Get out whiIe you can!</i>
+
+181
+00:09:59,006 --> 00:10:00,441
+He's been gone a long time.
+
+182
+00:10:00,441 --> 00:10:02,443
+-Who?
+-Paul's grandfather.
+
+183
+00:10:02,443 --> 00:10:04,278
+Oh, l didn't notice.
+Where'd he go?
+
+184
+00:10:04,278 --> 00:10:06,914
+-Down the, uh....
+-Oh, down the, uh...
+
+185
+00:10:06,914 --> 00:10:08,249
+Yeah, down the, uh...
+
+186
+00:10:08,249 --> 00:10:10,809
+Oh, well, give him
+a couple of minutes, then.
+
+187
+00:10:18,492 --> 00:10:20,861
+Hey, have you seen
+Paul's grandfather?
+
+188
+00:10:20,861 --> 00:10:23,063
+Of course.
+He's concealed about me person.
+
+189
+00:10:23,063 --> 00:10:24,932
+Now, he must've slipped off
+somewhere.
+
+190
+00:10:24,932 --> 00:10:26,634
+-Have you lost him?
+-Now, don't exaggerate.
+
+191
+00:10:26,634 --> 00:10:27,835
+You've lost him!
+
+192
+00:10:27,835 --> 00:10:30,905
+Look, put it this way, Pauly--
+he's mislaid him.
+
+193
+00:10:30,905 --> 00:10:33,007
+Honest, you can't trust you
+with anything, Norm.
+
+194
+00:10:33,007 --> 00:10:34,608
+lf you've lost him,
+l'll cripple ya.
+
+195
+00:10:34,608 --> 00:10:38,846
+-He can't have got far.
+-Let's look up the sharp end.
+
+196
+00:10:38,846 --> 00:10:40,748
+What's the matter
+with you, then?
+
+197
+00:10:40,748 --> 00:10:42,416
+lt's his grandfather.
+
+198
+00:10:42,416 --> 00:10:44,885
+l can tell he doesn't like me.
+lt's 'cause l'm little.
+
+199
+00:10:44,885 --> 00:10:47,321
+You've got an inferiority
+complex, you have.
+
+200
+00:10:47,321 --> 00:10:49,023
+Yeah, l know.
+That's why l play the drums.
+
+201
+00:10:49,023 --> 00:10:51,184
+lt's me active
+compensatory factor.
+
+202
+00:11:11,912 --> 00:11:13,347
+Goin' in, then?
+
+203
+00:11:13,347 --> 00:11:15,082
+No, she'll only
+reject me in the end...
+
+204
+00:11:15,082 --> 00:11:16,283
+and l'll be frustrated.
+
+205
+00:11:16,283 --> 00:11:18,485
+You never know.
+You may be lucky this time.
+
+206
+00:11:18,485 --> 00:11:19,987
+No, l know
+the psychological pattern.
+
+207
+00:11:19,987 --> 00:11:22,217
+lt plays havoc
+with me drum skins.
+
+208
+00:11:29,396 --> 00:11:31,565
+Excuse me. Have you seen that
+little old man we were with?
+
+209
+00:11:31,565 --> 00:11:33,567
+We've broken out--
+the blessed freedom of it all.
+
+210
+00:11:33,567 --> 00:11:36,437
+Have you got a nail file?
+These handcuffs are killing me.
+
+211
+00:11:36,437 --> 00:11:39,540
+l was framed! l'm innocent!
+l don't want to go!
+
+212
+00:11:39,540 --> 00:11:41,342
+Sorry for disturbing you,
+girls.
+
+213
+00:11:41,342 --> 00:11:44,539
+l bet you can't guess
+what l was in for.
+
+214
+00:11:47,514 --> 00:11:48,682
+Should we go in here?
+
+215
+00:11:48,682 --> 00:11:50,451
+No, it's probably
+a honeymoon couple...
+
+216
+00:11:50,451 --> 00:11:52,353
+or a company director
+or something.
+
+217
+00:11:52,353 --> 00:11:54,685
+Well, l don't care.
+l'm gonna broaden my outlook.
+
+218
+00:11:57,191 --> 00:12:00,194
+Congratulate me, boys.
+l'm engaged.
+
+219
+00:12:00,194 --> 00:12:01,929
+<i>PAUL; Oh, no, you're not.</i>
+<i>Not this time.</i>
+
+220
+00:12:01,929 --> 00:12:02,987
+<i>PAUL; Oh, no, you're not.</i>
+<i>Not this time.</i>
+
+221
+00:12:04,598 --> 00:12:06,333
+And to think me own grandson...
+
+222
+00:12:06,333 --> 00:12:08,168
+would've let them
+put me behind bars.
+
+223
+00:12:08,168 --> 00:12:10,638
+Don't dramatize. Let's face it,
+you're lucky to be here.
+
+224
+00:12:10,638 --> 00:12:11,839
+lf they'd have had
+their own way...
+
+225
+00:12:11,839 --> 00:12:14,908
+you would have been
+dropped off already.
+
+226
+00:12:14,908 --> 00:12:16,710
+Well, you've got to admit
+you upset a lot of people.
+
+227
+00:12:16,710 --> 00:12:18,178
+<i>PAUL; At Ieast I can</i>
+<i>keep my eye on you...</i>
+
+228
+00:12:18,178 --> 00:12:19,543
+<i>whiIe you're stuck in here.</i>
+
+229
+00:12:24,752 --> 00:12:26,185
+Shove up.
+
+230
+00:12:28,555 --> 00:12:30,557
+-Odds or evens?
+-Odds.
+
+231
+00:12:30,557 --> 00:12:31,759
+J<i>OHN; Don't worry, son.</i>
+
+232
+00:12:31,759 --> 00:12:34,128
+We'll get you the best la<i>wy</i>er
+green stamps can buy.
+
+233
+00:12:34,128 --> 00:12:36,130
+<i>PAUL; Oh! It's</i>
+<i>a Iaugh a Iine with Lennon.</i>
+
+234
+00:12:36,130 --> 00:12:37,298
+An<i>yw</i>ay, it's your fault.
+
+235
+00:12:37,298 --> 00:12:38,799
+-RlNGO: Why me?
+-Why not you?
+
+236
+00:12:38,799 --> 00:12:41,302
+JOHN: God, it's depressing
+in here, isn't it?
+
+237
+00:12:41,302 --> 00:12:44,872
+Funny. They usually reckon dogs
+more than people in England.
+
+238
+00:12:44,872 --> 00:12:46,931
+You'd expect something
+more palatial.
+
+239
+00:12:48,342 --> 00:12:50,978
+-Let's do somethin', then.
+-Like what?
+
+240
+00:12:50,978 --> 00:12:53,414
+Hmm.
+
+241
+00:12:53,414 --> 00:12:54,882
+OK.
+
+242
+00:12:54,882 --> 00:12:56,717
+[Girls laughing]
+
+243
+00:12:56,717 --> 00:12:59,086
+GEORGE:
+Cor, there's the girls.
+
+244
+00:12:59,086 --> 00:13:01,622
+RlNGO: l'll deal 'em.
+
+245
+00:13:01,622 --> 00:13:04,558
+J<i>OHN; Aye aye,</i>
+<i>the LiverpooI shuffIe.</i>
+
+246
+00:13:04,558 --> 00:13:07,857
+<i>Two for you, two for me,</i>
+<i>three for them.</i>
+
+247
+00:13:09,863 --> 00:13:11,899
+Cheat.
+
+248
+00:13:11,899 --> 00:13:14,468
+? <i>I...</i> ?
+
+249
+00:13:14,468 --> 00:13:18,572
+? <i>ShouId have known better</i>
+<i>with a girI Iike you</i> ?
+
+250
+00:13:18,572 --> 00:13:21,742
+? <i>That I wouId Iove</i>
+<i>everything that you do</i> ?
+
+251
+00:13:21,742 --> 00:13:24,345
+? <i>And I do</i> ?
+
+252
+00:13:24,345 --> 00:13:26,113
+? <i>Hey, hey, hey</i> ?
+
+253
+00:13:26,113 --> 00:13:27,546
+? <i>And I do</i> ?
+
+254
+00:13:29,516 --> 00:13:33,087
+<i>?</i> Whoa, whoa, l... <i>?</i>
+
+255
+00:13:33,087 --> 00:13:37,324
+<i>?</i> Never realized
+what a kiss could be <i>?</i>
+
+256
+00:13:37,324 --> 00:13:40,260
+<i>?</i> This could only
+happen to me <i>?</i>
+
+257
+00:13:40,260 --> 00:13:45,566
+<i>?</i> Can't you see,
+can't you see <i>?</i>
+
+258
+00:13:45,566 --> 00:13:50,738
+<i>?</i> That when l tell you
+that l love you <i>?</i>
+
+259
+00:13:50,738 --> 00:13:53,006
+<i>?</i> Oh <i>?</i>
+
+260
+00:13:53,006 --> 00:13:58,712
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+261
+00:13:58,712 --> 00:14:00,514
+<i>?</i> Oh <i>?</i>
+
+262
+00:14:00,514 --> 00:14:08,155
+<i>?</i> And when l ask you
+to be mine <i>?</i>
+
+263
+00:14:08,155 --> 00:14:13,627
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+264
+00:14:13,627 --> 00:14:17,765
+<i>?</i> So, oh, l... <i>?</i>
+
+265
+00:14:17,765 --> 00:14:21,802
+<i>?</i> Should have realized
+a lot of things before <i>?</i>
+
+266
+00:14:21,802 --> 00:14:25,305
+<i>?</i> lf this is love,
+you gotta give me more <i>?</i>
+
+267
+00:14:25,305 --> 00:14:28,442
+<i>?</i> Give me more,
+hey, hey, hey <i>?</i>
+
+268
+00:14:28,442 --> 00:14:30,876
+<i>?</i> Give me more <i>?</i>
+
+269
+00:14:51,098 --> 00:14:55,002
+<i>?</i> Whoa, whoa, l... <i>?</i>
+
+270
+00:14:55,002 --> 00:14:58,806
+<i>?</i> Never realized
+what a kiss could be <i>?</i>
+
+271
+00:14:58,806 --> 00:15:02,643
+<i>?</i> This could only
+happen to me <i>?</i>
+
+272
+00:15:02,643 --> 00:15:07,614
+<i>?</i> Can't you see,
+can't you see <i>?</i>
+
+273
+00:15:07,614 --> 00:15:12,319
+<i>?</i> That when l tell you
+that l love you <i>?</i>
+
+274
+00:15:12,319 --> 00:15:14,922
+<i>?</i> Oh <i>?</i>
+
+275
+00:15:14,922 --> 00:15:20,961
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+276
+00:15:20,961 --> 00:15:22,529
+<i>?</i> Oh <i>?</i>
+
+277
+00:15:22,529 --> 00:15:29,703
+<i>?</i> And when l ask you
+to be mine <i>?</i>
+
+278
+00:15:29,703 --> 00:15:34,106
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+279
+00:15:35,542 --> 00:15:38,745
+<i>?</i> You love me, too <i>?</i>
+
+280
+00:15:38,745 --> 00:15:41,714
+<i>?</i> You love me, too <i>?</i>
+
+281
+00:15:43,550 --> 00:15:45,652
+<i>?</i> You love me, too <i>?</i>
+
+282
+00:15:45,652 --> 00:15:47,888
+<i>GEORGE;</i>
+<i>He's wearin' his Iucky rings.</i>
+
+283
+00:15:47,888 --> 00:15:49,056
+All mine.
+
+284
+00:15:49,056 --> 00:15:51,825
+J<i>OHN; It won't buy you</i>
+<i>happiness, my son.</i>
+
+285
+00:15:51,825 --> 00:15:54,495
+[Screaming]
+
+286
+00:15:54,495 --> 00:15:57,598
+Hey, don't move, any of you.
+
+287
+00:15:57,598 --> 00:16:00,667
+They've gone potty out there.
+The place is surging with girls.
+
+288
+00:16:00,667 --> 00:16:02,736
+Please, sir, can l have one
+to surge me, sir, please, sir?
+
+289
+00:16:02,736 --> 00:16:04,304
+No, you can't. Now listen.
+
+290
+00:16:04,304 --> 00:16:06,607
+As soon as l tell you, get out
+through this door there...
+
+291
+00:16:06,607 --> 00:16:08,472
+<i>into that big car</i>
+<i>that's waiting.</i>
+
+292
+00:16:11,011 --> 00:16:13,002
+[Girls screaming]
+
+293
+00:16:17,618 --> 00:16:19,520
+[Screaming]
+
+294
+00:16:19,520 --> 00:16:21,511
+Come on, lads. Come on, then!
+
+295
+00:16:43,210 --> 00:16:45,201
+[Train whistle blows]
+
+296
+00:17:10,437 --> 00:17:12,428
+[Screaming]
+
+297
+00:17:16,243 --> 00:17:18,234
+[Piano playing]
+
+298
+00:17:28,021 --> 00:17:30,791
+-l don't snore.
+-You do, repeatedly.
+
+299
+00:17:30,791 --> 00:17:32,125
+Do l snore, John?
+
+300
+00:17:32,125 --> 00:17:34,795
+Yeah, you're
+a window rattler, son.
+
+301
+00:17:34,795 --> 00:17:37,965
+That's just your opinion.
+Do l snore, Paul?
+
+302
+00:17:37,965 --> 00:17:39,466
+With a trombone hooter
+like yours...
+
+303
+00:17:39,466 --> 00:17:40,867
+it would be unnatural
+if you didn't.
+
+304
+00:17:40,867 --> 00:17:43,503
+Now, Pauly,
+don't mock the afflicted.
+
+305
+00:17:43,503 --> 00:17:45,205
+Oh, come off it.
+lt's only a joke.
+
+306
+00:17:45,205 --> 00:17:47,608
+Ah, it may be a joke,
+but it's his nose.
+
+307
+00:17:47,608 --> 00:17:50,510
+<i>He can't heIp havin'</i>
+<i>a hideous great hooter...</i>
+
+308
+00:17:50,510 --> 00:17:55,115
+<i>the poor IittIe head trembIin'</i>
+<i>under the weight of it.</i>
+
+309
+00:17:55,115 --> 00:17:59,019
+John, Paul, George, come here.
+Get at it.
+
+310
+00:17:59,019 --> 00:18:01,321
+Hello, the income tax have
+caught up with us at last.
+
+311
+00:18:01,321 --> 00:18:03,255
+-None for me, then?
+-Sorry.
+
+312
+00:18:07,194 --> 00:18:08,795
+This'll keep you busy.
+
+313
+00:18:08,795 --> 00:18:11,765
+lt's your nose, you know.
+Fans are funny that way.
+
+314
+00:18:11,765 --> 00:18:13,967
+They take a dislike to things.
+They'll pick on a nose.
+
+315
+00:18:13,967 --> 00:18:16,970
+-Ah, you pick on your own.
+-Hey, here.
+
+316
+00:18:16,970 --> 00:18:19,906
+-Are those yours?
+-No, they're for Ringo.
+
+317
+00:18:19,906 --> 00:18:21,742
+Must've cost you a fortune
+in stamps, Ringo.
+
+318
+00:18:21,742 --> 00:18:23,343
+He comes from a large family.
+
+319
+00:18:23,343 --> 00:18:24,674
+Well...
+
+320
+00:18:27,014 --> 00:18:29,182
+What's Le Cirque Club?
+
+321
+00:18:29,182 --> 00:18:31,618
+''The management
+of Le Cirque Club...
+
+322
+00:18:31,618 --> 00:18:33,253
+''takes pleasure
+in requesting the company...
+
+323
+00:18:33,253 --> 00:18:35,088
+''of Mr. Richard Starkey...''
+That's you.
+
+324
+00:18:35,088 --> 00:18:36,356
+<i>''To their gaming rooms--</i>
+
+325
+00:18:36,356 --> 00:18:39,359
+''chemin de fer, baccarat,
+and champagne buffet.''
+
+326
+00:18:39,359 --> 00:18:41,428
+-They want me?
+-JOHN: You're a big spender.
+
+327
+00:18:41,428 --> 00:18:43,864
+-Well, you're not goin'.
+-Aw.
+
+328
+00:18:43,864 --> 00:18:46,033
+Quite right.
+lnvites to gamblin' dens...
+
+329
+00:18:46,033 --> 00:18:48,135
+full of easy money
+and fast women...
+
+330
+00:18:48,135 --> 00:18:50,637
+chicken sandwiches
+and cornets of caviar.
+
+331
+00:18:50,637 --> 00:18:52,372
+Disgustin'.
+
+332
+00:18:52,372 --> 00:18:53,674
+-That's mine.
+-Come on, you lot.
+
+333
+00:18:53,674 --> 00:18:55,742
+-Get your pens out.
+-Why?
+
+334
+00:18:55,742 --> 00:18:58,145
+lt's homework time for
+you load of college puddings.
+
+335
+00:18:58,145 --> 00:18:59,813
+l want this lot
+answered tonight.
+
+336
+00:18:59,813 --> 00:19:01,481
+-Yeah, right.
+-l want to go out.
+
+337
+00:19:01,481 --> 00:19:03,984
+<i>NORM;</i>
+<i>Now, I'II brook no deniaI.</i>
+
+338
+00:19:03,984 --> 00:19:06,219
+You couldn't get a pen
+in your foot, you swine.
+
+339
+00:19:06,219 --> 00:19:08,522
+Oh, chatter on, son.
+Chatter on.
+
+340
+00:19:08,522 --> 00:19:10,991
+A touch of the writer's cramp
+will soon sort you out.
+
+341
+00:19:10,991 --> 00:19:12,322
+Come on, Shake.
+
+342
+00:19:14,795 --> 00:19:16,786
+-Ta ta, then.
+-See ya.
+
+343
+00:19:18,932 --> 00:19:20,634
+[John humming and chuckling]
+
+344
+00:19:20,634 --> 00:19:23,904
+-Where are you goin', then?
+-He told us to stay, didn't he?
+
+345
+00:19:23,904 --> 00:19:26,006
+-Come, men!
+-Right.
+
+346
+00:19:26,006 --> 00:19:28,575
+[All mumbling]
+
+347
+00:19:28,575 --> 00:19:30,343
+Couldn't we get a taxi?
+
+348
+00:19:30,343 --> 00:19:32,512
+PAUL AND RlNGO:
+No, we couldn't get a taxi.
+
+349
+00:19:32,512 --> 00:19:34,047
+[Laughing]
+
+350
+00:19:34,047 --> 00:19:35,878
+-[Knock knock]
+-Come in.
+
+351
+00:19:37,417 --> 00:19:40,147
+-l'll clear up, sir.
+-Yeah.
+
+352
+00:19:52,766 --> 00:19:55,001
+? <i>I wanna be your man</i> ?
+
+353
+00:19:55,001 --> 00:19:57,504
+? <i>I wanna be your man</i> ?
+
+354
+00:19:57,504 --> 00:20:00,173
+? <i>I wanna be your man</i> ?
+
+355
+00:20:00,173 --> 00:20:03,477
+? <i>I wanna be your man</i> ?
+
+356
+00:20:03,477 --> 00:20:05,912
+? <i>TeII me</i>
+<i>that you Iove me, baby</i> ?
+
+357
+00:20:05,912 --> 00:20:07,914
+? <i>Let me understand</i> ?
+
+358
+00:20:07,914 --> 00:20:11,118
+? <i>TeII me</i>
+<i>that you Iove me, baby</i> ?
+
+359
+00:20:11,118 --> 00:20:13,153
+? <i>I wanna be your man</i> ?
+
+360
+00:20:13,153 --> 00:20:15,856
+? <i>I wanna be your Iover,</i>
+<i>baby</i> ?
+
+361
+00:20:15,856 --> 00:20:18,658
+? <i>I wanna be your man</i> ?
+
+362
+00:20:18,658 --> 00:20:20,827
+? <i>I wanna be your Iover,</i>
+<i>baby</i> ?
+
+363
+00:20:20,827 --> 00:20:22,696
+? <i>I wanna be your man</i> ?
+
+364
+00:20:22,696 --> 00:20:25,198
+? <i>I wanna be your man</i> ?
+
+365
+00:20:25,198 --> 00:20:28,668
+? <i>I wanna be your man</i> ?
+
+366
+00:20:28,668 --> 00:20:31,138
+? <i>I wanna be your man</i> ?
+
+367
+00:20:31,138 --> 00:20:33,340
+? <i>I wanna be your man</i> ?
+
+368
+00:20:33,340 --> 00:20:34,641
+<i>Wow! Wow!</i>
+
+369
+00:20:34,641 --> 00:20:36,643
+<i>DEALER;</i> Banco.
+
+370
+00:20:36,643 --> 00:20:39,279
+<i>MAN;</i> Banco. Suivais.
+
+371
+00:20:39,279 --> 00:20:41,348
+Banco.
+
+372
+00:20:41,348 --> 00:20:44,117
+<i>WOMAN;</i> Suivais.
+
+373
+00:20:44,117 --> 00:20:45,819
+<i>AIors, monsieur.</i>
+
+374
+00:20:45,819 --> 00:20:47,343
+Soufflé.
+
+375
+00:20:50,690 --> 00:20:53,293
+l bet you're a great swimmer.
+
+376
+00:20:53,293 --> 00:20:55,061
+My turn?
+
+377
+00:20:55,061 --> 00:20:56,396
+Bingo.
+
+378
+00:20:56,396 --> 00:20:58,832
+<i>Pas bingo, monsieur.</i>
+<i>Banco.</i>
+
+379
+00:20:58,832 --> 00:21:01,935
+Ah, l'll take
+the little darlings, an<i>yw</i>ay.
+
+380
+00:21:01,935 --> 00:21:04,137
+Two and one is three,
+carry one is four.
+
+381
+00:21:04,137 --> 00:21:06,740
+<i>Huit...</i>
+
+382
+00:21:06,740 --> 00:21:09,106
+<i>et sept.</i>
+
+383
+00:21:10,644 --> 00:21:16,917
+? <i>I can't beIieve that</i>
+<i>she wouId Ieave me on my own</i> ?
+
+384
+00:21:16,917 --> 00:21:21,688
+? <i>It's just not right when</i>
+<i>every night I'm aII aIone</i> ?
+
+385
+00:21:21,688 --> 00:21:25,325
+? <i>I've got no time</i>
+<i>for you right now</i> ?
+
+386
+00:21:25,325 --> 00:21:28,328
+? <i>Don't bother me</i> ?
+
+387
+00:21:28,328 --> 00:21:34,067
+? <i>I know</i>
+<i>I'II never be the same</i> ?
+
+388
+00:21:34,067 --> 00:21:39,706
+? <i>If I don't</i>
+<i>get her back again</i> ?
+
+389
+00:21:39,706 --> 00:21:45,912
+? <i>Because I know</i>
+<i>she'II aIways be</i> ?
+
+390
+00:21:45,912 --> 00:21:50,906
+? <i>The onIy girI for me</i> ?
+
+391
+00:22:19,746 --> 00:22:21,781
+Bingo.
+
+392
+00:22:21,781 --> 00:22:25,118
+? <i>CIose your eyes,</i>
+<i>and I'II kiss you</i> ?
+
+393
+00:22:25,118 --> 00:22:28,188
+? <i>Tomorrow, I'II miss you</i> ?
+
+394
+00:22:28,188 --> 00:22:34,060
+? <i>Remember</i>
+<i>I'II aIways be true</i> ?
+
+395
+00:22:34,060 --> 00:22:37,163
+? <i>And then whiIe I'm away</i> ?
+
+396
+00:22:37,163 --> 00:22:40,600
+? <i>I'II write home every day</i> ?
+
+397
+00:22:40,600 --> 00:22:46,106
+? <i>And I'II send</i>
+<i>aII my Iovin' to you</i> ?
+
+398
+00:22:46,106 --> 00:22:50,143
+? <i>I'II pretend</i>
+<i>that I'm kissing</i> ?
+
+399
+00:22:50,143 --> 00:22:53,179
+? <i>The Iips I am missing</i> ?
+
+400
+00:22:53,179 --> 00:22:58,618
+? <i>And hope that my dreams</i>
+<i>wiII come true</i> ?
+
+401
+00:22:58,618 --> 00:23:02,255
+? <i>And then whiIe I'm away</i> ?
+
+402
+00:23:02,255 --> 00:23:05,692
+? <i>I'II write home every day</i> ?
+
+403
+00:23:05,692 --> 00:23:11,264
+? <i>And I'II send</i>
+<i>aII my Iovin' to you</i> ?
+
+404
+00:23:11,264 --> 00:23:14,100
+? <i>AII my Iovin'</i> ?
+
+405
+00:23:14,100 --> 00:23:17,938
+? <i>I wiII send to you</i> ?
+
+406
+00:23:17,938 --> 00:23:23,209
+? <i>AII my Iovin',</i>
+<i>darIin', I'II be true</i> ?
+
+407
+00:23:23,209 --> 00:23:25,143
+[No audio]
+
+408
+00:23:28,048 --> 00:23:30,039
+[No audio]
+
+409
+00:23:36,556 --> 00:23:40,193
+? <i>CIose your eyes,</i>
+<i>and I'II kiss you</i> ?
+
+410
+00:23:40,193 --> 00:23:43,163
+? <i>Tomorrow, I'II miss you</i> ?
+
+411
+00:23:43,163 --> 00:23:49,302
+? <i>Remember</i>
+<i>I'II aIways be true</i> ?
+
+412
+00:23:49,302 --> 00:23:52,339
+? <i>And then whiIe I'm away</i> ?
+
+413
+00:23:52,339 --> 00:23:55,809
+? <i>I'II write home every day</i> ?
+
+414
+00:23:55,809 --> 00:24:01,314
+? <i>And I'II send</i>
+<i>aII my Iovin' to you</i> ?
+
+415
+00:24:01,314 --> 00:24:02,515
+[Voices in hallway]
+
+416
+00:24:02,515 --> 00:24:03,717
+[Voices in hallway]
+
+417
+00:24:03,717 --> 00:24:05,241
+The manager.
+
+418
+00:24:10,323 --> 00:24:12,592
+[All talking at once]
+
+419
+00:24:12,592 --> 00:24:14,661
+Now, come on, you lot.
+Get on with it.
+
+420
+00:24:14,661 --> 00:24:18,222
+-We were gonna do 'em, but--
+-Aye. Well, now, now, now.
+
+421
+00:24:22,535 --> 00:24:25,739
+Hey, any of you lot
+put a man in the cupboard?
+
+422
+00:24:25,739 --> 00:24:27,107
+-A man?
+-Don't be soft.
+
+423
+00:24:27,107 --> 00:24:28,768
+Well, somebody did.
+
+424
+00:24:42,088 --> 00:24:43,656
+He's right, you know.
+
+425
+00:24:43,656 --> 00:24:45,123
+There you go.
+
+426
+00:24:48,928 --> 00:24:50,797
+Hey, uh...
+
+427
+00:24:50,797 --> 00:24:52,866
+Hey, what's all this?
+
+428
+00:24:52,866 --> 00:24:54,401
+PAUL:
+Oh, him. He's been lurking.
+
+429
+00:24:54,401 --> 00:24:56,169
+He looks a right lurker,
+doesn't he?
+
+430
+00:24:56,169 --> 00:24:58,038
+You're undressed.
+Where are your clothes?
+
+431
+00:24:58,038 --> 00:24:59,406
+The old gentleman.
+
+432
+00:24:59,406 --> 00:25:02,108
+He borrowed them to go gambling
+at Le Cirque.
+
+433
+00:25:02,108 --> 00:25:03,943
+He's gone to my club, has he?
+
+434
+00:25:03,943 --> 00:25:05,145
+-Yeah! lt's all your fault.
+-RlNGO: What?
+
+435
+00:25:05,145 --> 00:25:07,847
+Gettin' invites
+to gambling clubs and all that.
+
+436
+00:25:07,847 --> 00:25:10,283
+He's probably in the middle
+of some orgy by now.
+
+437
+00:25:10,283 --> 00:25:11,951
+JOHN:
+An orgy? Orgy! Ha ha ha!
+
+438
+00:25:11,951 --> 00:25:15,588
+-But what about me?
+-You're too old.
+
+439
+00:25:15,588 --> 00:25:17,257
+<i>Encore de champagne, monsieur?</i>
+
+440
+00:25:17,257 --> 00:25:21,261
+Oh, yeah. And l'll have
+some more champagne, as well.
+
+441
+00:25:21,261 --> 00:25:23,897
+Lord John McCartney,
+millionaire lrish peer.
+
+442
+00:25:23,897 --> 00:25:25,298
+Filthy rich, of course.
+
+443
+00:25:25,298 --> 00:25:27,901
+Well, l don't know.
+He looks quite clean to me.
+
+444
+00:25:27,901 --> 00:25:30,070
+Come on, you lot. Try to act
+with a bit of decorum.
+
+445
+00:25:30,070 --> 00:25:31,438
+This is a posh place.
+
+446
+00:25:31,438 --> 00:25:33,573
+J<i>OHN; We know how to behave.</i>
+<i>We've had Iessons.</i>
+
+447
+00:25:33,573 --> 00:25:36,309
+l'm sorry, sir.
+Members and invited guests only.
+
+448
+00:25:36,309 --> 00:25:39,210
+-Aye. Well, uh...
+-Oh, yes.
+
+449
+00:25:42,415 --> 00:25:46,319
+l'm with them.
+l'm Ringo's sister.
+
+450
+00:25:46,319 --> 00:25:48,455
+Excuse me. Have you got
+a little old man here?
+
+451
+00:25:48,455 --> 00:25:49,823
+Do you mean Lord McCartney?
+
+452
+00:25:49,823 --> 00:25:50,990
+Oh, he's at it again.
+
+453
+00:25:50,990 --> 00:25:53,093
+Look, l'm his grandfather.
+l mean...
+
+454
+00:25:53,093 --> 00:25:55,328
+WOMAN: Oh, it must be
+the dolly floor show.
+
+455
+00:25:55,328 --> 00:25:56,496
+<i>GRANDFATHER;</i>
+<i>Put me down!</i>
+
+456
+00:25:56,496 --> 00:25:58,465
+Who are these ruffians?
+l never saw them before.
+
+457
+00:25:58,465 --> 00:25:59,699
+<i>MANAGER;</i>
+<i>Before you go, gentIemen...</i>
+
+458
+00:25:59,699 --> 00:26:01,301
+<i>there's a IittIe matter</i>
+<i>of the biII.</i>
+
+459
+00:26:01,301 --> 00:26:03,670
+l'll take care of that.
+
+460
+00:26:03,670 --> 00:26:05,905
+A hundred and eighty pounds?
+
+461
+00:26:05,905 --> 00:26:07,474
+l beg your pardon--guineas.
+
+462
+00:26:07,474 --> 00:26:09,776
+<i>WAITER;</i>
+<i>Your winnings, my Iord--£1 90.</i>
+
+463
+00:26:09,776 --> 00:26:11,611
+Ha!
+
+464
+00:26:11,611 --> 00:26:13,746
+-What about me change?
+-Cloak room charge.
+
+465
+00:26:13,746 --> 00:26:16,316
+Ah, well, easy come, easy go.
+
+466
+00:26:16,316 --> 00:26:17,476
+Well?
+
+467
+00:26:26,659 --> 00:26:29,295
+<i>Guten morgen, mein herr.</i>
+
+468
+00:26:29,295 --> 00:26:31,664
+[Speaking German]
+
+469
+00:26:31,664 --> 00:26:34,567
+[lmitates engine re<i>w</i>ing]
+
+470
+00:26:34,567 --> 00:26:37,070
+Ah, ze filthy Englander.
+Guten morgen.
+
+471
+00:26:37,070 --> 00:26:38,838
+Keep Britain tidy.
+
+472
+00:26:38,838 --> 00:26:41,074
+-Aw, go on, George.
+-Don't be ridiculous.
+
+473
+00:26:41,074 --> 00:26:42,242
+But you said l could.
+
+474
+00:26:42,242 --> 00:26:45,145
+Honestly, me mind boggles
+at the very idea.
+
+475
+00:26:45,145 --> 00:26:47,514
+A grown man, and you haven't
+shaved with a safety razor.
+
+476
+00:26:47,514 --> 00:26:50,283
+lt's not my fault. l come from
+a long line of electricians.
+
+477
+00:26:50,283 --> 00:26:51,918
+Well, you're not practicing
+on me.
+
+478
+00:26:51,918 --> 00:26:54,320
+All right, then. But show us.
+
+479
+00:26:54,320 --> 00:26:56,256
+Oh, come on, then.
+
+480
+00:26:56,256 --> 00:26:59,159
+Aah hee hee ho!
+
+481
+00:26:59,159 --> 00:27:00,649
+Ooh.
+
+482
+00:27:13,072 --> 00:27:14,841
+[Gasps]
+
+483
+00:27:14,841 --> 00:27:17,469
+<i>?</i> Rule, Britannia,
+Britannia rules the-- <i>?</i>
+
+484
+00:27:22,448 --> 00:27:24,651
+Put your tongue away.
+lt looks disgusting...
+
+485
+00:27:24,651 --> 00:27:27,120
+hanging there
+all pink and naked.
+
+486
+00:27:27,120 --> 00:27:30,123
+-One slip of the razor, and...
+-Ooh!
+
+487
+00:27:30,123 --> 00:27:31,488
+[John humming
+Deutschland Uber Alles]
+
+488
+00:27:35,495 --> 00:27:37,931
+Help! lch! Headphones! Help me!
+
+489
+00:27:37,931 --> 00:27:40,099
+[Blows bubbles] Help!
+
+490
+00:27:40,099 --> 00:27:43,403
+Torpedoed again, eh?
+
+491
+00:27:43,403 --> 00:27:44,604
+Come on, lads.
+
+492
+00:27:44,604 --> 00:27:46,339
+There's a car waiting
+to take you to the studio.
+
+493
+00:27:46,339 --> 00:27:48,975
+-Hey, where's John?
+-ln the bath.
+
+494
+00:27:48,975 --> 00:27:51,034
+All right, Lennon,
+let's have you.
+
+495
+00:27:54,814 --> 00:27:57,112
+Come on, John.
+Stop larking about.
+
+496
+00:28:04,324 --> 00:28:07,126
+John? John?
+
+497
+00:28:07,126 --> 00:28:10,061
+John? John?
+
+498
+00:28:12,465 --> 00:28:14,701
+What are you messing around
+with that boat for?
+
+499
+00:28:14,701 --> 00:28:16,726
+There's a car waiting.
+Come on.
+
+500
+00:28:20,940 --> 00:28:22,609
+Ready, John?
+As soon as we draw up...
+
+501
+00:28:22,609 --> 00:28:24,277
+open that door and straight in.
+
+502
+00:28:24,277 --> 00:28:26,268
+[Shrieking]
+
+503
+00:28:38,825 --> 00:28:40,460
+We can't keep them waiting
+much longer.
+
+504
+00:28:40,460 --> 00:28:41,928
+-l knew they'd be late.
+-Oh, here they are.
+
+505
+00:28:41,928 --> 00:28:43,796
+-Boys, come on.
+-Where have you been?
+
+506
+00:28:43,796 --> 00:28:46,299
+lt's your press conference
+we're arranging.
+
+507
+00:28:46,299 --> 00:28:47,700
+NORM: All right.
+Give us a couple of shakes...
+
+508
+00:28:47,700 --> 00:28:50,069
+to get our breath, will you?
+
+509
+00:28:50,069 --> 00:28:51,938
+JOHN: Hey, l've got a suit
+just like him, you know.
+
+510
+00:28:51,938 --> 00:28:53,740
+MAN: Ringo. Yeah.
+
+511
+00:28:53,740 --> 00:28:54,907
+l don't like the handkerchief.
+
+512
+00:28:54,907 --> 00:28:56,709
+l always have the handkerchief
+in me trouser pocket.
+
+513
+00:28:56,709 --> 00:28:58,678
+You can't blow your nose on it
+up there, can you, mister?
+
+514
+00:28:58,678 --> 00:28:59,846
+<i>MAN; No, you can't.</i>
+
+515
+00:28:59,846 --> 00:29:01,837
+[Crowd chattering]
+
+516
+00:29:41,487 --> 00:29:42,822
+<i>REPORTER;</i>
+<i>How about highbrow music?</i>
+
+517
+00:29:42,822 --> 00:29:45,124
+<i>GEORGE; I've aIways Iiked</i>
+<i>that question.</i>
+
+518
+00:29:45,124 --> 00:29:48,027
+J<i>OHN; I never noted his nose</i>
+<i>tiII about six months ago.</i>
+
+519
+00:29:48,027 --> 00:29:50,129
+<i>GEORGE; And me mother asked me</i>
+<i>before we Ieft for America...</i>
+
+520
+00:29:50,129 --> 00:29:52,365
+<i>if we wanted any sandwiches.</i>
+
+521
+00:29:52,365 --> 00:29:54,765
+J<i>OHN; And when I pIugged her</i>
+<i>in, she just bIew up.</i>
+
+522
+00:30:01,941 --> 00:30:04,977
+Tell me--
+how did you find America?
+
+523
+00:30:04,977 --> 00:30:06,446
+Turn left at Greenland.
+
+524
+00:30:06,446 --> 00:30:09,515
+-Has success changed your life?
+-Yes.
+
+525
+00:30:09,515 --> 00:30:11,351
+l'd like to keep Britain tidy.
+
+526
+00:30:11,351 --> 00:30:15,321
+-Are you a mod or a rocker?
+-Um, no, l'm a mocker.
+
+527
+00:30:15,321 --> 00:30:16,923
+[Laughs] Oh.
+
+528
+00:30:16,923 --> 00:30:18,288
+Have you any hobbies?
+
+529
+00:30:24,864 --> 00:30:26,799
+No. Actually,
+we're just good friends.
+
+530
+00:30:26,799 --> 00:30:29,902
+Do you think these haircuts
+have come to stay?
+
+531
+00:30:29,902 --> 00:30:31,471
+Well, this one has, you know.
+
+532
+00:30:31,471 --> 00:30:33,706
+lt's stuck on
+good and proper now.
+
+533
+00:30:33,706 --> 00:30:34,974
+Frightfully nice.
+
+534
+00:30:34,974 --> 00:30:38,111
+What would you call
+that hairstyle you're wearing?
+
+535
+00:30:38,111 --> 00:30:39,312
+Arthur.
+
+536
+00:30:39,312 --> 00:30:41,280
+No. Actually,
+we're just good friends.
+
+537
+00:30:41,280 --> 00:30:43,516
+No, they're brown, aren't they?
+
+538
+00:30:43,516 --> 00:30:45,718
+What do you call that collar?
+
+539
+00:30:45,718 --> 00:30:48,988
+-Oh. A collar.
+-Oh.
+
+540
+00:30:48,988 --> 00:30:50,823
+Do you often see your father?
+
+541
+00:30:50,823 --> 00:30:52,625
+No. Actually,
+we're just good friends.
+
+542
+00:30:52,625 --> 00:30:57,063
+How do you like
+your girlfriends to dress?
+
+543
+00:30:57,063 --> 00:30:58,291
+Ha ha!
+
+544
+00:31:19,619 --> 00:31:22,355
+-J<i>OHN; What a drag that was.</i>
+<i>-GEORGE; I'm starving.</i>
+
+545
+00:31:22,355 --> 00:31:25,925
+Didn't even get
+a jam butty, did you?
+
+546
+00:31:25,925 --> 00:31:27,085
+Anything left?
+
+547
+00:31:28,995 --> 00:31:31,364
+We've just finished, Pauly.
+
+548
+00:31:31,364 --> 00:31:35,268
+Hey, George, give us
+your John Henry on that picture.
+
+549
+00:31:35,268 --> 00:31:37,804
+Hey, look at that.
+ls that our set down there?
+
+550
+00:31:37,804 --> 00:31:40,006
+<i>-ShaII we go down, have a go?</i>
+<i>-RINGO; Yeah.</i>
+
+551
+00:31:40,006 --> 00:31:43,965
+-Trees and eve<i>ryt</i>hing.
+-A lot of fellas for one set.
+
+552
+00:31:45,011 --> 00:31:46,342
+Look, it's a bird.
+
+553
+00:31:50,483 --> 00:31:51,916
+Just passing through, like.
+
+554
+00:31:53,719 --> 00:31:56,022
+<i>-Where are they?</i>
+<i>-On the stage, down here.</i>
+
+555
+00:31:56,022 --> 00:31:58,013
+[Chattering]
+
+556
+00:32:06,566 --> 00:32:08,734
+[Hits cymbal]
+
+557
+00:32:08,734 --> 00:32:10,303
+Leave them drums alone.
+
+558
+00:32:10,303 --> 00:32:12,438
+MAN: Oh, surely l could
+just have a little touch.
+
+559
+00:32:12,438 --> 00:32:13,739
+You so much as
+breathe heavy on them...
+
+560
+00:32:13,739 --> 00:32:15,107
+and l'm out on strike.
+
+561
+00:32:15,107 --> 00:32:17,143
+Aren't you being
+rather arbitrary?
+
+562
+00:32:17,143 --> 00:32:19,245
+There you go,
+hiding behind a smoke screen...
+
+563
+00:32:19,245 --> 00:32:20,847
+of bourgeois cliches.
+
+564
+00:32:20,847 --> 00:32:23,716
+l don't go messing about
+with your earphones, do l?
+
+565
+00:32:23,716 --> 00:32:25,843
+-Spoilsport.
+-Well?
+
+566
+00:32:27,787 --> 00:32:29,989
+He's very fussy
+about his drums, you know.
+
+567
+00:32:29,989 --> 00:32:33,459
+They loom large in his legend.
+
+568
+00:32:33,459 --> 00:32:35,628
+-What's up?
+-Oh, he's sulking again.
+
+569
+00:32:35,628 --> 00:32:37,697
+J<i>OHN;</i>
+<i>Ha ha ha! I'II show him.</i>
+
+570
+00:32:37,697 --> 00:32:40,032
+<i>?</i> lf l fell in love with you <i>?</i>
+
+571
+00:32:40,032 --> 00:32:42,802
+<i>?</i> Would you promise
+to be true <i>?</i>
+
+572
+00:32:42,802 --> 00:32:45,404
+<i>?</i> And help me <i>?</i>
+
+573
+00:32:45,404 --> 00:32:47,039
+<i>?</i> Understand <i>?</i>
+
+574
+00:32:47,039 --> 00:32:49,742
+<i>?</i> 'Cause l've been in love
+before <i>?</i>
+
+575
+00:32:49,742 --> 00:32:52,245
+<i>?</i> And l found
+that love was more <i>?</i>
+
+576
+00:32:52,245 --> 00:32:56,249
+<i>?</i> Than just holding hands <i>?</i>
+
+577
+00:32:56,249 --> 00:33:01,354
+? <i>If I give my heart</i> ?
+
+578
+00:33:01,354 --> 00:33:03,956
+? <i>To you</i> ?
+
+579
+00:33:03,956 --> 00:33:06,058
+<i>?</i> l must be sure <i>?</i>
+
+580
+00:33:06,058 --> 00:33:10,596
+<i>?</i> From the very start <i>?</i>
+
+581
+00:33:10,596 --> 00:33:13,266
+<i>?</i> That you <i>?</i>
+
+582
+00:33:13,266 --> 00:33:17,635
+<i>?</i> Would love me more than her <i>?</i>
+
+583
+00:33:19,939 --> 00:33:24,710
+<i>?</i> lf l trust in you <i>?</i>
+
+584
+00:33:24,710 --> 00:33:27,113
+<i>?</i> Oh, please <i>?</i>
+
+585
+00:33:27,113 --> 00:33:29,181
+<i>?</i> Don't run and hide <i>?</i>
+
+586
+00:33:29,181 --> 00:33:33,853
+<i>?</i> lf l love you, too <i>?</i>
+
+587
+00:33:33,853 --> 00:33:36,522
+<i>?</i> Oh, please <i>?</i>
+
+588
+00:33:36,522 --> 00:33:40,860
+<i>?</i> Don't hurt my pride
+like her <i>?</i>
+
+589
+00:33:40,860 --> 00:33:45,464
+<i>?</i> 'Cause l couldn't stand
+the pain <i>?</i>
+
+590
+00:33:45,464 --> 00:33:47,833
+<i>?</i> And l <i>?</i>
+
+591
+00:33:47,833 --> 00:33:52,471
+<i>?</i> Would be sad
+if our new love <i>?</i>
+
+592
+00:33:52,471 --> 00:33:54,874
+<i>?</i> Was in vain <i>?</i>
+
+593
+00:33:54,874 --> 00:33:59,512
+<i>?</i> So l hope you'll see <i>?</i>
+
+594
+00:33:59,512 --> 00:34:02,114
+<i>?</i> That l <i>?</i>
+
+595
+00:34:02,114 --> 00:34:04,750
+? <i>WouId Iove to Iove you</i> ?
+
+596
+00:34:04,750 --> 00:34:08,955
+? <i>And that she</i> ?
+
+597
+00:34:08,955 --> 00:34:11,424
+<i>?</i> Will cry <i>?</i>
+
+598
+00:34:11,424 --> 00:34:15,761
+<i>?</i> When she learns we are two <i>?</i>
+
+599
+00:34:15,761 --> 00:34:20,433
+<i>?</i> 'Cause l couldn't stand
+the pain <i>?</i>
+
+600
+00:34:20,433 --> 00:34:22,501
+<i>?</i> And l <i>?</i>
+
+601
+00:34:22,501 --> 00:34:27,506
+? <i>WouId be sad</i>
+<i>if our new Iove</i> ?
+
+602
+00:34:27,506 --> 00:34:30,042
+<i>?</i> Was in vain <i>?</i>
+
+603
+00:34:30,042 --> 00:34:34,547
+<i>?</i> So l hope you see <i>?</i>
+
+604
+00:34:34,547 --> 00:34:37,183
+<i>?</i> That l <i>?</i>
+
+605
+00:34:37,183 --> 00:34:40,052
+<i>?</i> Would love to love you <i>?</i>
+
+606
+00:34:40,052 --> 00:34:43,990
+<i>?</i> And that she <i>?</i>
+
+607
+00:34:43,990 --> 00:34:46,559
+<i>?</i> Will cry <i>?</i>
+
+608
+00:34:46,559 --> 00:34:51,130
+<i>?</i> When she learns we are two <i>?</i>
+
+609
+00:34:51,130 --> 00:34:55,533
+<i>?</i> lf l fell in love with you <i>?</i>
+
+610
+00:35:02,041 --> 00:35:05,077
+Pardon me. Excuse me. Pardon me.
+More--l'd like more drums there.
+
+611
+00:35:05,077 --> 00:35:08,381
+-No. l think it's on that...
+-lt sounds like a...
+
+612
+00:35:08,381 --> 00:35:09,949
+On the third bit.
+You know, on the third bit.
+
+613
+00:35:09,949 --> 00:35:11,917
+Third bit, more bang.
+
+614
+00:35:11,917 --> 00:35:14,754
+[Plays]
+
+615
+00:35:14,754 --> 00:35:19,125
+Right. Let's hear no more
+about it. You're probably right.
+
+616
+00:35:19,125 --> 00:35:20,726
+Now, look...
+
+617
+00:35:20,726 --> 00:35:22,728
+if you think l'm unsuitable,
+let's have it out in the open.
+
+618
+00:35:22,728 --> 00:35:25,031
+l can't stand
+these backstage politics.
+
+619
+00:35:25,031 --> 00:35:27,600
+Aren't you tending to black and
+white the situation somewhat?
+
+620
+00:35:27,600 --> 00:35:30,569
+Well, quite honestly, l wasn't
+expecting a musical arranger...
+
+621
+00:35:30,569 --> 00:35:33,372
+to question my ability
+picture-wise.
+
+622
+00:35:33,372 --> 00:35:35,074
+l could listen to him for hours.
+
+623
+00:35:35,074 --> 00:35:36,909
+What's all this
+about a musical arranger?
+
+624
+00:35:36,909 --> 00:35:38,944
+Mr. McCartney Senior.
+
+625
+00:35:38,944 --> 00:35:40,579
+Hey, Paulie,
+they're trying to fob you off...
+
+626
+00:35:40,579 --> 00:35:44,417
+with this musical charlatan,
+but l gave him the test.
+
+627
+00:35:44,417 --> 00:35:46,585
+<i>DIREC TOR; I'm quite happy</i>
+<i>to be repIaced.</i>
+
+628
+00:35:46,585 --> 00:35:48,754
+<i>GRANDFATHER;</i>
+<i>He's a typicaI buck-passer.</i>
+
+629
+00:35:48,754 --> 00:35:51,290
+-l won an award.
+-JOHN: A likely story.
+
+630
+00:35:51,290 --> 00:35:52,882
+lt's on the wall in my office.
+
+631
+00:35:54,226 --> 00:35:57,127
+Hello, our lot.
+Everybody happy?
+
+632
+00:36:00,299 --> 00:36:02,868
+<i>NORM; AII right, aII right.</i>
+<i>If you don't need them...</i>
+
+633
+00:36:02,868 --> 00:36:04,403
+l'll lock them up
+in the dressing room.
+
+634
+00:36:04,403 --> 00:36:07,373
+Please do. l'll not need them
+for half an hour.
+
+635
+00:36:07,373 --> 00:36:08,908
+Thank you.
+
+636
+00:36:08,908 --> 00:36:11,644
+Get me a bottle of milk
+and some tranquilizers.
+
+637
+00:36:11,644 --> 00:36:15,205
+l see it all now.
+lt's a plot--a plot.
+
+638
+00:36:17,149 --> 00:36:18,718
+Tranquilizers.
+
+639
+00:36:18,718 --> 00:36:20,208
+Come back, you lot.
+l've got the key.
+
+640
+00:36:27,827 --> 00:36:29,692
+Come back, Ringo.
+
+641
+00:36:31,597 --> 00:36:33,087
+Uhh.
+
+642
+00:36:34,867 --> 00:36:37,103
+-Hello.
+-Come on.
+
+643
+00:36:37,103 --> 00:36:39,371
+Leslie Jackson?
+l saw your father...
+
+644
+00:36:39,371 --> 00:36:41,640
+in the old empire
+in nineteen hundred and nine.
+
+645
+00:36:41,640 --> 00:36:44,768
+Ah, if you're as good as him,
+son, you're all right.
+
+646
+00:37:02,528 --> 00:37:04,730
+Gear costume.
+
+647
+00:37:04,730 --> 00:37:06,721
+-Swap?
+-Cheeky.
+
+648
+00:37:09,835 --> 00:37:12,638
+<i>NORM; Come, Iads. First door,</i>
+<i>and no messing about.</i>
+
+649
+00:37:12,638 --> 00:37:16,342
+Lennon, put them girls down,
+or l'll tell your mother of you.
+
+650
+00:37:16,342 --> 00:37:17,510
+<i>NORM;</i>
+<i>And stop messing about.</i>
+
+651
+00:37:17,510 --> 00:37:19,512
+Stay in here
+until that rehearsal.
+
+652
+00:37:19,512 --> 00:37:20,913
+<i>I'm going to keep you in,</i>
+<i>even if I have to put...</i>
+
+653
+00:37:20,913 --> 00:37:22,348
+<i>the Iock in the key</i>
+<i>and turn it.</i>
+
+654
+00:37:22,348 --> 00:37:22,615
+We're out!
+
+655
+00:37:22,615 --> 00:37:24,517
+We're out!
+
+656
+00:37:24,517 --> 00:37:28,154
+? <i>Can't buy me Iove</i> ?
+
+657
+00:37:28,154 --> 00:37:29,989
+? <i>Love</i> ?
+
+658
+00:37:29,989 --> 00:37:33,526
+? <i>Can't buy me Iove</i> ?
+
+659
+00:37:33,526 --> 00:37:35,928
+? <i>I'II buy you</i>
+<i>a diamond ring, my friend</i> ?
+
+660
+00:37:35,928 --> 00:37:39,131
+? <i>If it makes you feeI</i>
+<i>aII right</i> ?
+
+661
+00:37:39,131 --> 00:37:41,534
+? <i>I'II get you anything,</i>
+<i>my friend</i> ?
+
+662
+00:37:41,534 --> 00:37:44,537
+? <i>If it makes you feeI</i>
+<i>aII right</i> ?
+
+663
+00:37:44,537 --> 00:37:47,473
+? <i>'Cause I don't care</i>
+<i>too much for money</i> ?
+
+664
+00:37:47,473 --> 00:37:50,342
+? <i>Money can't buy me Iove</i> ?
+
+665
+00:37:50,342 --> 00:37:52,812
+? <i>I'II give you</i>
+<i>aII I've got to give</i> ?
+
+666
+00:37:52,812 --> 00:37:56,048
+? <i>If you say</i>
+<i>you Iove me, too</i> ?
+
+667
+00:37:56,048 --> 00:37:58,350
+? <i>I may not have</i>
+<i>a Iot to give</i> ?
+
+668
+00:37:58,350 --> 00:38:01,620
+? <i>But what I got</i>
+<i>I'II give to you</i> ?
+
+669
+00:38:01,620 --> 00:38:04,490
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+670
+00:38:04,490 --> 00:38:06,292
+? <i>Money can't buy me Iove</i> ?
+
+671
+00:38:06,292 --> 00:38:10,129
+? <i>Can't buy me Iove</i> ?
+
+672
+00:38:10,129 --> 00:38:11,997
+? <i>Everybody teIIs me so</i> ?
+
+673
+00:38:11,997 --> 00:38:15,901
+? <i>Can't buy me Iove</i> ?
+
+674
+00:38:15,901 --> 00:38:18,704
+? <i>No, no, no, no</i> ?
+
+675
+00:38:18,704 --> 00:38:21,473
+? <i>Say you don't need</i>
+<i>no diamond rings</i> ?
+
+676
+00:38:21,473 --> 00:38:24,310
+? <i>And I'II be satisfied</i> ?
+
+677
+00:38:24,310 --> 00:38:27,046
+? <i>TeII me that you want</i>
+<i>the kind of things</i> ?
+
+678
+00:38:27,046 --> 00:38:29,949
+? <i>That money just can't buy</i> ?
+
+679
+00:38:29,949 --> 00:38:32,985
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+680
+00:38:32,985 --> 00:38:35,621
+? <i>Money can't buy me Iove</i> ?
+
+681
+00:38:35,621 --> 00:38:37,680
+? <i>Ow!</i> ?
+
+682
+00:38:53,706 --> 00:38:57,142
+? <i>Can't buy me Iove</i> ?
+
+683
+00:38:57,142 --> 00:38:58,978
+? <i>Everybody teIIs me so</i> ?
+
+684
+00:38:58,978 --> 00:39:02,815
+? <i>Can't buy me Iove</i> ?
+
+685
+00:39:02,815 --> 00:39:05,718
+? <i>No, no, no, no</i> ?
+
+686
+00:39:05,718 --> 00:39:08,520
+? <i>Say you don't need</i>
+<i>no diamond rings</i> ?
+
+687
+00:39:08,520 --> 00:39:11,257
+? <i>And I'II be satisfied</i> ?
+
+688
+00:39:11,257 --> 00:39:14,260
+? <i>TeII me that you want</i>
+<i>the kind of things</i> ?
+
+689
+00:39:14,260 --> 00:39:17,196
+? <i>That money just can't buy</i> ?
+
+690
+00:39:17,196 --> 00:39:20,099
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+691
+00:39:20,099 --> 00:39:22,368
+? <i>Money can't buy me Iove</i> ?
+
+692
+00:39:22,368 --> 00:39:25,838
+? <i>Can't buy me Iove</i> ?
+
+693
+00:39:25,838 --> 00:39:27,439
+? <i>Love</i> ?
+
+694
+00:39:27,439 --> 00:39:32,900
+? <i>Can't buy me Iove</i> ?
+
+695
+00:39:34,647 --> 00:39:37,548
+MAN: l suppose you realize
+this is private property.
+
+696
+00:39:39,451 --> 00:39:41,544
+Sorry we hurt your field,
+mister.
+
+697
+00:39:48,394 --> 00:39:50,296
+Not here. Hello, Dicky.
+
+698
+00:39:50,296 --> 00:39:52,231
+Probably gone to the canteen--
+cup of tea, like.
+
+699
+00:39:52,231 --> 00:39:55,167
+No, that's too easy for Lennon.
+
+700
+00:39:55,167 --> 00:39:56,535
+He's out there somewhere...
+
+701
+00:39:56,535 --> 00:39:59,638
+causing trouble
+just to upset me.
+
+702
+00:39:59,638 --> 00:40:00,806
+You're imagining it, Norm.
+
+703
+00:40:00,806 --> 00:40:02,041
+You're letting it
+prey on your mind.
+
+704
+00:40:02,041 --> 00:40:05,110
+No. This is a battle of nerves
+between John and me.
+
+705
+00:40:05,110 --> 00:40:06,312
+But John hasn't got any.
+
+706
+00:40:06,312 --> 00:40:08,747
+-What?
+-Nerves.
+
+707
+00:40:08,747 --> 00:40:11,550
+No.
+That's just the trouble.
+
+708
+00:40:11,550 --> 00:40:14,653
+l've toyed with the idea
+of a ball and chain...
+
+709
+00:40:14,653 --> 00:40:17,489
+but he'd just rattle them
+at me--and in public, too.
+
+710
+00:40:17,489 --> 00:40:19,855
+Sometimes l think he enjoys
+seeing me suffer.
+
+711
+00:40:25,064 --> 00:40:26,899
+-Hello.
+-Hello.
+
+712
+00:40:26,899 --> 00:40:28,567
+-Wait a minute. Don't tell me--
+-No, l'm not.
+
+713
+00:40:28,567 --> 00:40:30,002
+-Oh, you are.
+-l'm not.
+
+714
+00:40:30,002 --> 00:40:33,672
+-Oh, you are. l know you are.
+-l'm not. No.
+
+715
+00:40:33,672 --> 00:40:36,875
+-You look just like him.
+-Do l?
+
+716
+00:40:36,875 --> 00:40:38,844
+You're the first one
+that's said that ever.
+
+717
+00:40:38,844 --> 00:40:40,334
+Yes, you do. Look.
+
+718
+00:40:42,081 --> 00:40:43,282
+-No. Me eyes are lighter.
+-Excuse me.
+
+719
+00:40:43,282 --> 00:40:44,717
+All right, noddy.
+
+720
+00:40:44,717 --> 00:40:47,286
+-Oh, yes. Your nose is, very.
+-Me nose.
+
+721
+00:40:47,286 --> 00:40:49,188
+-ls it?
+-Well, l would've said so.
+
+722
+00:40:49,188 --> 00:40:50,422
+Oh, you know him better, though.
+
+723
+00:40:50,422 --> 00:40:52,624
+l do not.
+He's only a casual acquaintance.
+
+724
+00:40:52,624 --> 00:40:56,228
+-That's what you say.
+-What have you heard?
+
+725
+00:40:56,228 --> 00:40:59,198
+-lt's all over the place.
+-ls it? ls it really?
+
+726
+00:40:59,198 --> 00:41:01,633
+Mmm, but l wouldn't have it.
+l stuck up for you.
+
+727
+00:41:01,633 --> 00:41:04,363
+-l knew l could rely on you.
+-Thanks.
+
+728
+00:41:09,608 --> 00:41:11,235
+You don't look like him at all.
+
+729
+00:41:17,616 --> 00:41:19,846
+She looks more like him
+than l do.
+
+730
+00:41:23,956 --> 00:41:25,357
+<i>P.A.; There wiII be</i>
+<i>a fuII rehearsaI...</i>
+
+731
+00:41:25,357 --> 00:41:27,092
+<i>in ten minutes time.</i>
+
+732
+00:41:27,092 --> 00:41:29,720
+<i>Ten minutes from now,</i>
+<i>a fuII rehearsaI.</i>
+
+733
+00:41:36,602 --> 00:41:37,903
+<i>DOLLY;</i>
+<i>Oh, there you are.</i>
+
+734
+00:41:37,903 --> 00:41:39,438
+Oh, sorry.
+Must've made a mistake.
+
+735
+00:41:39,438 --> 00:41:41,073
+No, you haven't.
+You're just late.
+
+736
+00:41:41,073 --> 00:41:42,241
+l am?
+
+737
+00:41:42,241 --> 00:41:43,709
+Actually, l think he'll be
+very pleased with you.
+
+738
+00:41:43,709 --> 00:41:44,877
+Will he?
+
+739
+00:41:44,877 --> 00:41:46,674
+<i>DOLLY; Yes. You're quite</i>
+<i>a feather in the cap.</i>
+
+740
+00:41:48,680 --> 00:41:50,682
+Hello?
+
+741
+00:41:50,682 --> 00:41:51,842
+l've got one.
+
+742
+00:41:54,586 --> 00:41:55,746
+Oh, l think so.
+
+743
+00:41:57,423 --> 00:42:00,559
+Yes, he can talk.
+
+744
+00:42:00,559 --> 00:42:03,629
+<i>DOLLY; WeII, I think</i>
+<i>you ought to see him.</i>
+
+745
+00:42:03,629 --> 00:42:06,120
+Yes. All right.
+
+746
+00:42:09,835 --> 00:42:11,170
+Come on.
+
+747
+00:42:11,170 --> 00:42:12,660
+GEORGE: Sorry.
+
+748
+00:42:16,375 --> 00:42:18,377
+You don't see many of these
+nowadays, do you?
+
+749
+00:42:18,377 --> 00:42:19,678
+[Rattles]
+
+750
+00:42:19,678 --> 00:42:21,475
+<i>DOLLY; Come on.</i>
+
+751
+00:42:23,615 --> 00:42:25,484
+Simon, will this do?
+
+752
+00:42:25,484 --> 00:42:27,519
+Oh, not bad, Dolly--
+not really bad.
+
+753
+00:42:27,519 --> 00:42:29,455
+Turn around, chickie baby.
+
+754
+00:42:29,455 --> 00:42:31,090
+<i>SIMON;</i>
+<i>Oh, yes, he's a definite poss.</i>
+
+755
+00:42:31,090 --> 00:42:32,524
+<i>He'II Iook good</i>
+<i>aIongside Susan.</i>
+
+756
+00:42:32,524 --> 00:42:34,827
+All right, Sonny Jim, this is
+all going to be quite painless.
+
+757
+00:42:34,827 --> 00:42:36,328
+Don't breathe on me, Adrian.
+
+758
+00:42:36,328 --> 00:42:37,496
+<i>GEORGE;</i>
+<i>I'm terribIy sorry...</i>
+
+759
+00:42:37,496 --> 00:42:39,665
+but there seems to be
+some sort of misunderstanding.
+
+760
+00:42:39,665 --> 00:42:41,266
+Oh, you can come off it
+with us.
+
+761
+00:42:41,266 --> 00:42:43,368
+You don't have to do the old
+adenoidal glottal stop...
+
+762
+00:42:43,368 --> 00:42:44,803
+and carry on for our benefit.
+
+763
+00:42:44,803 --> 00:42:47,473
+l'm afraid l don't understand.
+
+764
+00:42:47,473 --> 00:42:48,740
+Oh, my God. He's a natural.
+
+765
+00:42:48,740 --> 00:42:51,210
+Well, l did tell them
+not to send us real ones.
+
+766
+00:42:51,210 --> 00:42:53,579
+They ought to know the phonies
+are much easier to handle.
+
+767
+00:42:53,579 --> 00:42:56,014
+Still, he's a good type.
+
+768
+00:42:56,014 --> 00:42:58,884
+We'd like you to give us
+your opinion...
+
+769
+00:42:58,884 --> 00:43:01,487
+on some clothes for teenagers.
+
+770
+00:43:01,487 --> 00:43:02,688
+Oh, by all means.
+
+771
+00:43:02,688 --> 00:43:05,157
+l'd be quite prepared
+for that eventuality.
+
+772
+00:43:05,157 --> 00:43:06,959
+Well, not your real opinion,
+naturally.
+
+773
+00:43:06,959 --> 00:43:08,260
+lt'll be written out,
+and you'll learn it.
+
+774
+00:43:08,260 --> 00:43:09,962
+-Can he read?
+-Of course l can.
+
+775
+00:43:09,962 --> 00:43:12,631
+l mean lines, ducky.
+Can you handle lines?
+
+776
+00:43:12,631 --> 00:43:14,299
+-Well, l'll have a bash.
+-Good.
+
+777
+00:43:14,299 --> 00:43:17,269
+Give him whatever it is
+they drink. A coke-a-rama?
+
+778
+00:43:17,269 --> 00:43:18,537
+Ta.
+
+779
+00:43:18,537 --> 00:43:21,973
+Well, at least he's polite.
+Show him the shirts, Adrian.
+
+780
+00:43:26,879 --> 00:43:28,380
+<i>SIMON;</i>
+<i>Now, you'II Iike these.</i>
+
+781
+00:43:28,380 --> 00:43:29,815
+You'll really dig them.
+
+782
+00:43:29,815 --> 00:43:32,875
+They're fab and
+all the other pimply hyperboles.
+
+783
+00:43:34,453 --> 00:43:37,923
+l wouldn't be seen dead in them.
+They're dead grotty.
+
+784
+00:43:37,923 --> 00:43:39,892
+-Grotty?
+-Yeah, grotesque.
+
+785
+00:43:39,892 --> 00:43:43,529
+Make a note of that word
+and give it to Susan.
+
+786
+00:43:43,529 --> 00:43:45,030
+lt's rather touching, really.
+
+787
+00:43:45,030 --> 00:43:46,198
+Here's this kid...
+
+788
+00:43:46,198 --> 00:43:48,233
+trying to give me
+his utterly valueless opinion...
+
+789
+00:43:48,233 --> 00:43:50,035
+when l know for a fact
+that within a month...
+
+790
+00:43:50,035 --> 00:43:52,704
+he'll be suffering from
+a violent inferiority complex...
+
+791
+00:43:52,704 --> 00:43:54,139
+and loss of status...
+
+792
+00:43:54,139 --> 00:43:56,675
+because he isn't wearing
+one of these nasty things.
+
+793
+00:43:56,675 --> 00:43:58,911
+Of course they're grotty,
+you wretched nit.
+
+794
+00:43:58,911 --> 00:44:00,979
+That's why they were designed,
+but that's what you'll want.
+
+795
+00:44:00,979 --> 00:44:02,548
+l won't.
+
+796
+00:44:02,548 --> 00:44:03,715
+You can be replaced,
+chickie baby.
+
+797
+00:44:03,715 --> 00:44:04,883
+l don't care.
+
+798
+00:44:04,883 --> 00:44:07,019
+And that pose is out, too,
+Sonny Jim.
+
+799
+00:44:07,019 --> 00:44:10,956
+The new thing is to care
+passionately and be right wing.
+
+800
+00:44:10,956 --> 00:44:13,292
+An<i>yw</i>ay, if you don't cooperate,
+you won't meet Susan.
+
+801
+00:44:13,292 --> 00:44:15,394
+And who's this Susan
+when she's at home?
+
+802
+00:44:15,394 --> 00:44:19,331
+Only Susan Campy
+our resident teenager.
+
+803
+00:44:19,331 --> 00:44:21,633
+You'll have to love her.
+She's your symbol.
+
+804
+00:44:21,633 --> 00:44:24,937
+Oh, you mean that posh bird
+who gets eve<i>ryt</i>hing wrong?
+
+805
+00:44:24,937 --> 00:44:26,104
+l beg your pardon.
+
+806
+00:44:26,104 --> 00:44:28,774
+Oh, yeah, the lads frequently
+sit round the television...
+
+807
+00:44:28,774 --> 00:44:30,242
+and watch her for a giggle.
+
+808
+00:44:30,242 --> 00:44:32,377
+ln fact, once we all sat down
+and wrote these letters...
+
+809
+00:44:32,377 --> 00:44:35,080
+saying how gear she was
+and all that rubbish.
+
+810
+00:44:35,080 --> 00:44:37,316
+She's a trendsetter.
+lt's her profession.
+
+811
+00:44:37,316 --> 00:44:39,651
+She's a drag--
+a well-known drag.
+
+812
+00:44:39,651 --> 00:44:42,287
+<i>We turn the sound down on her</i>
+<i>and say rude things.</i>
+
+813
+00:44:42,287 --> 00:44:43,855
+-Get him out of here.
+-Have l said something amiss?
+
+814
+00:44:43,855 --> 00:44:47,159
+Get him out. He's knocking
+the program's image.
+
+815
+00:44:47,159 --> 00:44:50,128
+-Sorry about the shirts.
+-Get him out!
+
+816
+00:44:53,031 --> 00:44:54,766
+You don't think
+he's a new phenomenon, do you?
+
+817
+00:44:54,766 --> 00:44:57,069
+You mean an early clue
+to the new direction?
+
+818
+00:44:57,069 --> 00:44:58,730
+[Snaps fingers]
+Where's the calendar?
+
+819
+00:45:00,939 --> 00:45:03,508
+Oh, no, no, no. lt's all right.
+He's just a troublemaker.
+
+820
+00:45:03,508 --> 00:45:05,777
+The change isn't due
+for three weeks yet.
+
+821
+00:45:05,777 --> 00:45:08,146
+All the same, make a note
+not to extend Susan's contract.
+
+822
+00:45:08,146 --> 00:45:12,017
+And let's not take
+any unnecessary chances, hmm?
+
+823
+00:45:12,017 --> 00:45:12,251
+[Singing in German]
+
+824
+00:45:12,251 --> 00:45:14,014
+[Singing in German]
+
+825
+00:45:21,126 --> 00:45:23,996
+[Singing continues]
+
+826
+00:45:23,996 --> 00:45:26,965
+So l explained to my mother
+that he was a very clean man.
+
+827
+00:45:26,965 --> 00:45:28,626
+<i>She was quite pIeased.</i>
+
+828
+00:45:45,083 --> 00:45:47,074
+[Chorus singing in German]
+
+829
+00:45:57,629 --> 00:46:00,065
+[Footsteps]
+
+830
+00:46:00,065 --> 00:46:02,668
+<i>-NORM; There's no one here.</i>
+<i>-SHAKE; No one here?</i>
+
+831
+00:46:02,668 --> 00:46:04,135
+<i>SHAKE;</i>
+<i>WeII, where have they gone?</i>
+
+832
+00:46:06,705 --> 00:46:09,007
+[Motor revs]
+
+833
+00:46:09,007 --> 00:46:13,137
+[Man and woman singing
+long high note]
+
+834
+00:46:16,915 --> 00:46:20,052
+[Both sing and stop]
+
+835
+00:46:20,052 --> 00:46:21,653
+That's wrong, isn't it?
+
+836
+00:46:21,653 --> 00:46:23,221
+Surely, that's wrong.
+No, not you.
+
+837
+00:46:23,221 --> 00:46:25,212
+<i>DIREC TOR O VER P.A.;</i>
+<i>Get him out!</i>
+
+838
+00:46:28,927 --> 00:46:30,629
+[Voices in corridor]
+
+839
+00:46:30,629 --> 00:46:32,756
+There's someone coming.
+Quick, hide.
+
+840
+00:46:36,668 --> 00:46:38,370
+Stop being taller than me.
+
+841
+00:46:38,370 --> 00:46:39,632
+-lt's not my fault--
+-Shh!
+
+842
+00:46:41,406 --> 00:46:43,342
+JOHN: Ha ha ha ha!
+
+843
+00:46:43,342 --> 00:46:44,910
+-What are you doing here?
+-Hiding.
+
+844
+00:46:44,910 --> 00:46:46,478
+You must be soft or something.
+
+845
+00:46:46,478 --> 00:46:48,146
+Well, we weren't hiding.
+We were resting.
+
+846
+00:46:48,146 --> 00:46:49,915
+l thought l told you lot
+to stop here.
+
+847
+00:46:49,915 --> 00:46:51,450
+<i>RINGO; WeII?</i>
+
+848
+00:46:51,450 --> 00:46:53,118
+When l say stay put,
+l mean stay put.
+
+849
+00:46:53,118 --> 00:46:55,721
+Don't cane me, sir.
+l was led astray.
+
+850
+00:46:55,721 --> 00:46:58,724
+Oh, shut up, John. They're
+waiting for you in the studio.
+
+851
+00:46:58,724 --> 00:47:00,425
+Gear.
+l'm dying to do a bit of work.
+
+852
+00:47:00,425 --> 00:47:01,893
+<i>NORM;</i>
+<i>WeII, God bIess you, Ringo.</i>
+
+853
+00:47:01,893 --> 00:47:03,628
+-Oh, listen to teacher's pet.
+-Crawler.
+
+854
+00:47:03,628 --> 00:47:05,597
+-Betrayed the class, eh?
+-Aw, lay off.
+
+855
+00:47:05,597 --> 00:47:06,765
+-Temper, temper.
+-Well?
+
+856
+00:47:06,765 --> 00:47:08,633
+Will you get a move on?
+They're waiting for you.
+
+857
+00:47:08,633 --> 00:47:10,464
+Sorry.
+
+858
+00:47:12,237 --> 00:47:14,831
+[Woman's voice] l now declare
+this bridge open.
+
+859
+00:47:17,376 --> 00:47:20,912
+DlRECTOR:
+Where are they, hmm?
+
+860
+00:47:20,912 --> 00:47:23,281
+Where are they?
+
+861
+00:47:23,281 --> 00:47:24,449
+Where are they?
+
+862
+00:47:24,449 --> 00:47:26,585
+-They're coming.
+-Hmm?
+
+863
+00:47:26,585 --> 00:47:28,353
+They're coming, l promise you.
+
+864
+00:47:28,353 --> 00:47:30,322
+Ah, yes, well...
+
+865
+00:47:30,322 --> 00:47:31,890
+if they aren't on this floor
+in thirty seconds...
+
+866
+00:47:31,890 --> 00:47:34,760
+there'll be trouble,
+understand me?
+
+867
+00:47:34,760 --> 00:47:35,920
+Trouble.
+
+868
+00:47:39,731 --> 00:47:40,899
+Standing about, eh?
+
+869
+00:47:40,899 --> 00:47:43,168
+Some people have it dead easy.
+
+870
+00:47:43,168 --> 00:47:45,203
+Once you're over thirty,
+you're past it.
+
+871
+00:47:45,203 --> 00:47:48,507
+lt's a young man's medium.
+l just can't stand the pace.
+
+872
+00:47:48,507 --> 00:47:50,575
+-Oh, you're as young as that?
+-l was.
+
+873
+00:47:50,575 --> 00:47:52,878
+J<i>OHN; Ah, there he goes.</i>
+<i>Look at him.</i>
+
+874
+00:47:52,878 --> 00:47:54,312
+<i>I bet his wife</i>
+<i>doesn't know about her.</i>
+
+875
+00:47:54,312 --> 00:47:56,782
+<i>He hasn't even got a wife.</i>
+<i>Look at his sweater.</i>
+
+876
+00:47:56,782 --> 00:47:58,583
+<i>PAUL; [Laughs] You never know.</i>
+<i>She might've knitted it.</i>
+
+877
+00:47:58,583 --> 00:47:59,951
+J<i>OHN;</i>
+<i>She's knitted him.</i>
+
+878
+00:47:59,951 --> 00:48:02,287
+<i>DIREC TOR; Right. Standby.</i>
+<i>Run through a number...</i>
+
+879
+00:48:02,287 --> 00:48:04,990
+<i>and try not to jiggIe</i>
+<i>out of position.</i>
+
+880
+00:48:04,990 --> 00:48:07,426
+Hello, three? Coming to you.
+
+881
+00:48:07,426 --> 00:48:09,461
+Three.
+Three, coming to you. Three.
+
+882
+00:48:09,461 --> 00:48:11,196
+-MAN: We're on three.
+-What?
+
+883
+00:48:11,196 --> 00:48:13,198
+-We're on three.
+-Oh, yes.
+
+884
+00:48:13,198 --> 00:48:14,790
+<i>DIREC TOR; Uh, music.</i>
+
+885
+00:48:24,643 --> 00:48:28,380
+? <i>I give her aII my Iove</i> ?
+
+886
+00:48:28,380 --> 00:48:33,351
+<i>?</i> That's all l do <i>?</i>
+
+887
+00:48:33,351 --> 00:48:37,589
+<i>?</i> And if you saw my love <i>?</i>
+
+888
+00:48:37,589 --> 00:48:40,826
+<i>?</i> You'd love her, too <i>?</i>
+
+889
+00:48:40,826 --> 00:48:43,659
+<i>?</i> l love her <i>?</i>
+
+890
+00:48:46,665 --> 00:48:51,069
+<i>?</i> She gives me eve<i>ryt</i>hing <i>?</i>
+
+891
+00:48:51,069 --> 00:48:55,540
+<i>?</i> And tenderly <i>?</i>
+
+892
+00:48:55,540 --> 00:48:59,978
+<i>?</i> The kiss my lover brings <i>?</i>
+
+893
+00:48:59,978 --> 00:49:03,014
+<i>?</i> She brings to me <i>?</i>
+
+894
+00:49:03,014 --> 00:49:06,177
+<i>?</i> And l love her <i>?</i>
+
+895
+00:49:09,354 --> 00:49:13,492
+? <i>A Iove Iike ours</i> ?
+
+896
+00:49:13,492 --> 00:49:17,863
+<i>?</i> Could never die <i>?</i>
+
+897
+00:49:17,863 --> 00:49:20,732
+<i>?</i> As long as l <i>?</i>
+
+898
+00:49:20,732 --> 00:49:24,065
+<i>?</i> Have you near me <i>?</i>
+
+899
+00:49:26,905 --> 00:49:31,376
+<i>?</i> Bright are the stars
+that shine <i>?</i>
+
+900
+00:49:31,376 --> 00:49:35,947
+<i>?</i> Dark is the sky <i>?</i>
+
+901
+00:49:35,947 --> 00:49:40,352
+<i>?</i> l know this love of mine <i>?</i>
+
+902
+00:49:40,352 --> 00:49:43,455
+<i>?</i> Will never die <i>?</i>
+
+903
+00:49:43,455 --> 00:49:46,891
+<i>?</i> And l love her <i>?</i>
+
+904
+00:50:11,883 --> 00:50:16,421
+<i>?</i> Bright are the stars
+that shine <i>?</i>
+
+905
+00:50:16,421 --> 00:50:20,825
+<i>?</i> Dark is the sky <i>?</i>
+
+906
+00:50:20,825 --> 00:50:25,330
+<i>?</i> l know this love of mine <i>?</i>
+
+907
+00:50:25,330 --> 00:50:28,500
+<i>?</i> Will never die <i>?</i>
+
+908
+00:50:28,500 --> 00:50:31,867
+<i>?</i> And l love her <i>?</i>
+
+909
+00:50:50,989 --> 00:50:52,958
+<i>DIREC TOR;</i>
+<i>Thank you. Very nice.</i>
+
+910
+00:50:52,958 --> 00:50:54,125
+Makeup?
+
+911
+00:50:54,125 --> 00:50:55,827
+No, not really.
+They don't need any.
+
+912
+00:50:55,827 --> 00:50:57,329
+They'll just powder them off
+for the shine.
+
+913
+00:50:57,329 --> 00:50:59,297
+Oh, well, yes. Norm, would
+you take them down to makeup...
+
+914
+00:50:59,297 --> 00:51:01,266
+and powder them off--
+the shine.
+
+915
+00:51:01,266 --> 00:51:02,358
+Sure.
+
+916
+00:51:05,270 --> 00:51:06,504
+You blinked.
+
+917
+00:51:06,504 --> 00:51:08,740
+-NORM: Come on. Come in.
+-Hello, lads.
+
+918
+00:51:08,740 --> 00:51:09,908
+Hey, your grandfather's
+not talking to me.
+
+919
+00:51:09,908 --> 00:51:11,076
+l think he's got a sulk on.
+
+920
+00:51:11,076 --> 00:51:13,044
+lt must be catching on.
+He's given it to Ringo here.
+
+921
+00:51:13,044 --> 00:51:14,212
+Stop picking on him, George.
+
+922
+00:51:14,212 --> 00:51:15,880
+l don't need you to protect me,
+you know, Norm.
+
+923
+00:51:15,880 --> 00:51:17,449
+Got a touch of the swine fever,
+haven't you?
+
+924
+00:51:17,449 --> 00:51:19,718
+-No. Come on, lads. Sit down.
+-This is impossible.
+
+925
+00:51:19,718 --> 00:51:22,053
+-We'll never get them all done.
+-Then do us first.
+
+926
+00:51:22,053 --> 00:51:24,055
+lt doesn't matter to them
+whether they're made up or not.
+
+927
+00:51:24,055 --> 00:51:26,758
+By the way, what's that?
+
+928
+00:51:26,758 --> 00:51:28,860
+My name's Betty.
+
+929
+00:51:28,860 --> 00:51:30,962
+Do you want a punch
+up your frogged tunic?
+
+930
+00:51:30,962 --> 00:51:32,130
+No.
+
+931
+00:51:32,130 --> 00:51:34,099
+John, behave yourself,
+or l'll murder you.
+
+932
+00:51:34,099 --> 00:51:37,402
+Shake, take that wig off.
+lt suits you.
+
+933
+00:51:37,402 --> 00:51:40,772
+-Ringo, what are you up to?
+-Page five.
+
+934
+00:51:40,772 --> 00:51:43,241
+You always fancied yourself
+as a guardsman, didn't you?
+
+935
+00:51:43,241 --> 00:51:46,211
+Oh, that this too, too solid
+flesh would melt.
+
+936
+00:51:46,211 --> 00:51:47,379
+Zap!
+
+937
+00:51:47,379 --> 00:51:49,814
+Hey, you won't interfere with
+the basic rugged concept...
+
+938
+00:51:49,814 --> 00:51:51,645
+of me personality,
+will you, madam?
+
+939
+00:51:54,152 --> 00:51:57,322
+Hey, he's reading the Queen.
+That's an in-joke, you know.
+
+940
+00:51:57,322 --> 00:51:58,690
+Shazam!
+
+941
+00:51:58,690 --> 00:52:01,393
+lt's my considered opinion
+that you're a bunch of sissies.
+
+942
+00:52:01,393 --> 00:52:03,828
+-You're just jealous.
+-Leave him alone, Lennon...
+
+943
+00:52:03,828 --> 00:52:05,730
+or l'll tell them all
+the truth about you.
+
+944
+00:52:05,730 --> 00:52:09,401
+-You wouldn't.
+-Oh, l would, though.
+
+945
+00:52:09,401 --> 00:52:11,670
+l thought l was supposed to be
+getting a change of scenery...
+
+946
+00:52:11,670 --> 00:52:14,305
+and so far, l've been
+in a train and a room...
+
+947
+00:52:14,305 --> 00:52:16,541
+and a car and a room
+and a room and a room.
+
+948
+00:52:16,541 --> 00:52:17,976
+<i>WeII, maybe</i>
+<i>that's aII right...</i>
+
+949
+00:52:17,976 --> 00:52:19,511
+<i>for a bunch of powdered</i>
+<i>geegaws Iike you Iot...</i>
+
+950
+00:52:19,511 --> 00:52:23,181
+<i>but I'm feeIing decidedIy</i>
+<i>straight-jacketed.</i>
+
+951
+00:52:23,181 --> 00:52:24,582
+What a clean old man.
+
+952
+00:52:24,582 --> 00:52:26,217
+Ah, don't press your luck.
+
+953
+00:52:26,217 --> 00:52:27,385
+J<i>OHN;</i>
+<i>He's sex obsessed.</i>
+
+954
+00:52:27,385 --> 00:52:29,154
+The older generation
+are leading this country...
+
+955
+00:52:29,154 --> 00:52:30,348
+to galloping ruin.
+
+956
+00:52:33,024 --> 00:52:35,584
+What's a pretty girl like you
+doing in a place like this?
+
+957
+00:52:38,196 --> 00:52:40,498
+They're nearly ready for you.
+Just finishing the band call.
+
+958
+00:52:40,498 --> 00:52:41,666
+[Piano music playing]
+
+959
+00:52:41,666 --> 00:52:45,603
+l say, did you go to Harrods?
+l was there in '58, you know.
+
+960
+00:52:45,603 --> 00:52:47,906
+-l can get you on the stage.
+-Oh, how?
+
+961
+00:52:47,906 --> 00:52:49,407
+You turn right here
+at the corridor...
+
+962
+00:52:49,407 --> 00:52:50,965
+and go past the fireplace.
+
+963
+00:52:56,347 --> 00:52:58,149
+Ah, l don't like yours.
+
+964
+00:52:58,149 --> 00:52:58,383
+[Piano playing l'm Happy
+Just to Dance With You]
+
+965
+00:52:58,383 --> 00:53:00,146
+[Piano playing l'm Happy
+Just to Dance With You]
+
+966
+00:53:18,236 --> 00:53:19,931
+[Plays along]
+
+967
+00:53:28,279 --> 00:53:30,148
+J<i>OHN;</i>
+<i>Hey, kids, I got an idea.</i>
+
+968
+00:53:30,148 --> 00:53:32,083
+Well, why don't we do
+the show right here? Yeah!
+
+969
+00:53:32,083 --> 00:53:33,918
+[Laughs]
+
+970
+00:53:33,918 --> 00:53:35,078
+J<i>OHN; Two, three, four.</i>
+
+971
+00:53:42,160 --> 00:53:43,962
+<i>?</i> Before
+this dance is through <i>?</i>
+
+972
+00:53:43,962 --> 00:53:46,097
+<i>?</i> l think l'll love you, too <i>?</i>
+
+973
+00:53:46,097 --> 00:53:49,901
+<i>?</i> l'm so happy
+when you dance with me <i>?</i>
+
+974
+00:53:49,901 --> 00:53:53,805
+<i>?</i> l don't want to kiss
+or hold your hand <i>?</i>
+
+975
+00:53:53,805 --> 00:53:57,575
+<i>?</i> lf it's funny,
+try and understand <i>?</i>
+
+976
+00:53:57,575 --> 00:54:01,212
+<i>?</i> There is really
+nothing else l'd rather do <i>?</i>
+
+977
+00:54:01,212 --> 00:54:05,316
+<i>?</i> 'Cause l'm happy
+just to dance with you <i>?</i>
+
+978
+00:54:05,316 --> 00:54:08,787
+<i>?</i> l don't need to hug
+or hold you tight <i>?</i>
+
+979
+00:54:08,787 --> 00:54:12,791
+? <i>I just want to dance</i>
+<i>with you aII night</i> ?
+
+980
+00:54:12,791 --> 00:54:16,961
+<i>?</i> ln this world there's nothing
+l would rather do <i>?</i>
+
+981
+00:54:16,961 --> 00:54:20,832
+<i>?</i> 'Cause l'm happy
+just to dance with you <i>?</i>
+
+982
+00:54:20,832 --> 00:54:23,198
+<i>?</i> Just to dance with you <i>?</i>
+
+983
+00:54:25,036 --> 00:54:27,138
+<i>?</i> ls eve<i>ryt</i>hing l need <i>?</i>
+
+984
+00:54:27,138 --> 00:54:28,640
+<i>?</i> Oh, oh <i>?</i>
+
+985
+00:54:28,640 --> 00:54:30,208
+<i>?</i> Before this dance
+is through <i>?</i>
+
+986
+00:54:30,208 --> 00:54:32,343
+<i>?</i> l think l'll love you, too <i>?</i>
+
+987
+00:54:32,343 --> 00:54:36,047
+<i>?</i> l'm so happy
+when you dance with me <i>?</i>
+
+988
+00:54:36,047 --> 00:54:40,051
+? <i>If somebody tries</i>
+<i>to take my pIace</i> ?
+
+989
+00:54:40,051 --> 00:54:43,855
+? <i>Let's pretend</i>
+<i>we just can't see his face</i> ?
+
+990
+00:54:43,855 --> 00:54:47,759
+? <i>In this worId there's</i>
+<i>nothing I wouId rather do</i> ?
+
+991
+00:54:47,759 --> 00:54:51,596
+? <i>'Cause I'm happy</i>
+<i>just to dance with you</i> ?
+
+992
+00:54:51,596 --> 00:54:54,098
+<i>?</i> Just to dance with you <i>?</i>
+
+993
+00:54:54,098 --> 00:54:55,266
+<i>?</i> Oh <i>?</i>
+
+994
+00:54:55,266 --> 00:54:57,936
+<i>?</i> ls eve<i>ryt</i>hing l need <i>?</i>
+
+995
+00:54:57,936 --> 00:54:59,103
+? <i>Oh, oh</i> ?
+
+996
+00:54:59,103 --> 00:55:01,239
+<i>?</i> Before this dance
+is through <i>?</i>
+
+997
+00:55:01,239 --> 00:55:03,208
+<i>?</i> l think l'll love you, too <i>?</i>
+
+998
+00:55:03,208 --> 00:55:07,278
+<i>?</i> l'm so happy
+when you dance with me <i>?</i>
+
+999
+00:55:07,278 --> 00:55:11,049
+<i>?</i> lf somebody tries
+to take my place <i>?</i>
+
+1000
+00:55:11,049 --> 00:55:15,019
+<i>?</i> Let's pretend
+we just can't see his face <i>?</i>
+
+1001
+00:55:15,019 --> 00:55:18,623
+<i>?</i> ln this world there's nothing
+l would rather do <i>?</i>
+
+1002
+00:55:18,623 --> 00:55:23,294
+? <i>I've discovered</i>
+<i>I'm in Iove with you</i> ?
+
+1003
+00:55:23,294 --> 00:55:24,829
+? <i>Oh, oh</i> ?
+
+1004
+00:55:24,829 --> 00:55:28,366
+<i>?</i> 'Cause l'm happy
+just to dance with you <i>?</i>
+
+1005
+00:55:28,366 --> 00:55:31,002
+<i>?</i> Oh, oh <i>?</i>
+
+1006
+00:55:31,002 --> 00:55:32,237
+<i>?</i> Oh, oh <i>?</i>
+
+1007
+00:55:32,237 --> 00:55:34,038
+? <i>Oh</i> ?
+
+1008
+00:55:34,038 --> 00:55:36,441
+J<i>OHN; Oh.</i>
+<i>Very good, that, George.</i>
+
+1009
+00:55:36,441 --> 00:55:37,909
+-Oh.
+-Oh.
+
+1010
+00:55:37,909 --> 00:55:39,577
+Well, we're trying.
+
+1011
+00:55:39,577 --> 00:55:41,946
+JOHN: Yeah, keep trying.
+Let's go. Come on.
+
+1012
+00:55:41,946 --> 00:55:43,248
+NORM:
+That was great, lads.
+
+1013
+00:55:43,248 --> 00:55:45,717
+Now, you've got about an hour,
+but don't leave the theater.
+
+1014
+00:55:45,717 --> 00:55:46,885
+Where are you going, John?
+
+1015
+00:55:46,885 --> 00:55:49,354
+She's going to show me
+her stamp collection.
+
+1016
+00:55:49,354 --> 00:55:50,521
+PAUL: So's mine.
+
+1017
+00:55:50,521 --> 00:55:51,756
+<i>NORM;</i>
+J<i>ohn, I'm taIking to you.</i>
+
+1018
+00:55:51,756 --> 00:55:53,958
+This final run-through
+is important, understand?
+
+1019
+00:55:53,958 --> 00:55:55,126
+lmportant.
+
+1020
+00:55:55,126 --> 00:55:56,821
+[Oink oink]
+
+1021
+00:55:58,229 --> 00:56:00,965
+-l want a cup of tea.
+-Uh, Shake?
+
+1022
+00:56:00,965 --> 00:56:03,601
+l've got to adjust the decibels
+on the inbalance, Norm.
+
+1023
+00:56:03,601 --> 00:56:04,761
+Clever. George?
+
+1024
+00:56:06,170 --> 00:56:08,072
+Ringo,
+look after him, will you?
+
+1025
+00:56:08,072 --> 00:56:11,276
+-Oh, hey, Norm.
+-Do l have to raise my voice?
+
+1026
+00:56:11,276 --> 00:56:14,445
+All right. Come on, granddad.
+
+1027
+00:56:14,445 --> 00:56:16,970
+<i>I'm a drummer,</i>
+<i>not a wet nurse, you know.</i>
+
+1028
+00:56:40,605 --> 00:56:41,773
+<i>GRANDFATHER;</i>
+<i>WouId you Iook at him...</i>
+
+1029
+00:56:41,773 --> 00:56:45,043
+sitting there with his hooter
+scraping away at that book.
+
+1030
+00:56:45,043 --> 00:56:47,445
+Well, what's the matter
+with that?
+
+1031
+00:56:47,445 --> 00:56:50,148
+Have you no natural resources
+of your own?
+
+1032
+00:56:50,148 --> 00:56:52,050
+Have they even robbed you
+of that?
+
+1033
+00:56:52,050 --> 00:56:55,586
+-You can learn from books.
+-You can, can you?
+
+1034
+00:56:55,586 --> 00:56:57,989
+Ahh. Sheeps' heads.
+
+1035
+00:56:57,989 --> 00:57:00,158
+You could learn more by
+getting out there and living.
+
+1036
+00:57:00,158 --> 00:57:02,927
+-Out where?
+-Any old where.
+
+1037
+00:57:02,927 --> 00:57:06,197
+But not our little Richard.
+Oh, no.
+
+1038
+00:57:06,197 --> 00:57:08,132
+When you're not thumping
+them pagan skins...
+
+1039
+00:57:08,132 --> 00:57:10,735
+you're tormenting your eyes
+with that rubbish.
+
+1040
+00:57:10,735 --> 00:57:14,038
+-Books are good.
+-Parading's better.
+
+1041
+00:57:14,038 --> 00:57:15,773
+Parading?
+
+1042
+00:57:15,773 --> 00:57:18,643
+Parading the streets...
+
+1043
+00:57:18,643 --> 00:57:22,146
+trailing your coat,
+bowling along--living!
+
+1044
+00:57:22,146 --> 00:57:25,883
+-Well, l am living.
+-You? Living?
+
+1045
+00:57:25,883 --> 00:57:27,485
+<i>When was the Iast time</i>
+<i>you gave a girI...</i>
+
+1046
+00:57:27,485 --> 00:57:29,854
+<i>a pink-edged daisy?</i>
+
+1047
+00:57:29,854 --> 00:57:32,056
+<i>When did you Iast</i>
+<i>embarrass a SheiIa...</i>
+
+1048
+00:57:32,056 --> 00:57:35,893
+<i>with your cooI</i>
+<i>appraising stare?</i>
+
+1049
+00:57:35,893 --> 00:57:38,162
+You're a bit old for
+that sort of chat, aren't you?
+
+1050
+00:57:38,162 --> 00:57:40,398
+Well, at least
+l've got a backlog of memories.
+
+1051
+00:57:40,398 --> 00:57:43,034
+All you've got is that book.
+
+1052
+00:57:43,034 --> 00:57:45,436
+Ah, stop picking on me. You're
+as bad as the rest of them.
+
+1053
+00:57:45,436 --> 00:57:48,072
+Ah, so you are a man
+after all.
+
+1054
+00:57:48,072 --> 00:57:49,907
+What's that mean?
+
+1055
+00:57:49,907 --> 00:57:52,010
+Do you think l haven't noticed?
+
+1056
+00:57:52,010 --> 00:57:55,046
+Do you think l wasn't aware
+of the drift?
+
+1057
+00:57:55,046 --> 00:57:57,241
+You poor, unfortunate scruff.
+
+1058
+00:57:59,083 --> 00:58:00,818
+They've driven you
+into books...
+
+1059
+00:58:00,818 --> 00:58:02,754
+with their cruel,
+unnatural treatment...
+
+1060
+00:58:02,754 --> 00:58:05,156
+<i>expIoiting your good nature.</i>
+
+1061
+00:58:05,156 --> 00:58:06,591
+l don't know.
+
+1062
+00:58:06,591 --> 00:58:10,261
+Ah, that lot's never happier
+unless they're jeering you.
+
+1063
+00:58:10,261 --> 00:58:11,429
+And where would they be...
+
+1064
+00:58:11,429 --> 00:58:13,698
+without the steady support
+of your drum beat?
+
+1065
+00:58:13,698 --> 00:58:15,299
+That's what l'd like to know.
+
+1066
+00:58:15,299 --> 00:58:16,789
+Yeah. That's right.
+
+1067
+00:58:18,936 --> 00:58:21,472
+And what's it all come to
+in the end?
+
+1068
+00:58:21,472 --> 00:58:23,841
+Yeah.
+What's in it for me?
+
+1069
+00:58:23,841 --> 00:58:25,001
+A book.
+
+1070
+00:58:26,077 --> 00:58:27,879
+Yeah, a bloomin' book.
+
+1071
+00:58:27,879 --> 00:58:29,247
+When you could be out there...
+
+1072
+00:58:29,247 --> 00:58:31,082
+betraying
+a rich American widow...
+
+1073
+00:58:31,082 --> 00:58:35,486
+or sipping palm wine in Tahiti
+before you're too old like me.
+
+1074
+00:58:35,486 --> 00:58:38,756
+Yeah, funny, really,
+'cause l never thought...
+
+1075
+00:58:38,756 --> 00:58:40,091
+but being
+middle-aged and old...
+
+1076
+00:58:40,091 --> 00:58:41,492
+takes up most of your time,
+doesn't it?
+
+1077
+00:58:41,492 --> 00:58:43,551
+You're only right.
+
+1078
+00:58:46,697 --> 00:58:47,865
+Where are you going?
+
+1079
+00:58:47,865 --> 00:58:50,356
+l'm going parading
+before it's too late.
+
+1080
+00:59:00,978 --> 00:59:02,980
+Hey, Ringo, you know
+what just happened to me?
+
+1081
+00:59:02,980 --> 00:59:04,140
+No, l don't.
+
+1082
+00:59:05,850 --> 00:59:07,518
+You ought to stop
+looking so scornful.
+
+1083
+00:59:07,518 --> 00:59:09,042
+lt's twisting your face.
+
+1084
+00:59:10,988 --> 00:59:12,190
+Tell him of the story about--
+
+1085
+00:59:12,190 --> 00:59:14,358
+Hello, here he is,
+the middle-aged boy wonder.
+
+1086
+00:59:14,358 --> 00:59:16,019
+l thought you were
+looking after the old man.
+
+1087
+00:59:18,729 --> 00:59:20,865
+We've only got half an hour
+to the final run-through.
+
+1088
+00:59:20,865 --> 00:59:22,133
+He can't walk out on us now.
+
+1089
+00:59:22,133 --> 00:59:24,035
+Can't he?
+He's done it, son.
+
+1090
+00:59:24,035 --> 00:59:26,404
+-Hey, you know what happened?
+-We know.
+
+1091
+00:59:26,404 --> 00:59:28,106
+Your grandfather.
+He's stirred him up.
+
+1092
+00:59:28,106 --> 00:59:29,273
+He hasn't.
+
+1093
+00:59:29,273 --> 00:59:32,410
+Yeah, he--he filled his head
+with notions seemingly.
+
+1094
+00:59:32,410 --> 00:59:35,213
+The old mixer. Come on,
+we'll have to put him right.
+
+1095
+00:59:35,213 --> 00:59:38,114
+<i>P.A.; Coming up, aII dancers</i>
+<i>onstage for rehearsaI, pIease.</i>
+
+1096
+00:59:43,020 --> 00:59:45,011
+JOHN:
+Split up and look for him.
+
+1097
+00:59:49,994 --> 00:59:52,258
+We've become a limited company.
+
+1098
+00:59:53,865 --> 00:59:55,230
+l'll look in here again.
+
+1099
+00:59:58,102 --> 01:00:00,093
+[This Boy playing]
+
+1100
+01:00:12,316 --> 01:00:13,715
+-Aah!
+-Aah!
+
+1101
+01:00:43,781 --> 01:00:46,682
+-Hello there.
+-Get out of it, shorty.
+
+1102
+01:01:52,483 --> 01:01:53,818
+Hey, you should
+have more sense...
+
+1103
+01:01:53,818 --> 01:01:55,620
+than to go around
+chucking bricks about.
+
+1104
+01:01:55,620 --> 01:01:56,951
+Southerner.
+
+1105
+01:02:00,291 --> 01:02:02,627
+Here, mate. That's my hoop.
+Stop playing with it.
+
+1106
+01:02:02,627 --> 01:02:04,362
+Hoop? That isn't a hoop.
+lt's a lethal weapon.
+
+1107
+01:02:04,362 --> 01:02:07,365
+-Have you got a license for it?
+-Oh, don't be so stroppy.
+
+1108
+01:02:07,365 --> 01:02:09,233
+Well, a boy your age
+rolling hoops at people.
+
+1109
+01:02:09,233 --> 01:02:10,768
+-How old are you, an<i>yw</i>ay?
+-Eleven.
+
+1110
+01:02:10,768 --> 01:02:13,471
+-l bet you're only 1 0 1 /2.
+-1 0 2/3.
+
+1111
+01:02:13,471 --> 01:02:15,573
+There you are, then,
+and don't be rolling at people.
+
+1112
+01:02:15,573 --> 01:02:18,476
+Oh, you can have it. l'm
+packing it in. lt depresses me.
+
+1113
+01:02:18,476 --> 01:02:20,478
+-Y'what?
+-You heard. lt gets on my wick.
+
+1114
+01:02:20,478 --> 01:02:22,480
+That's lovely talk, that is.
+And why aren't you at school?
+
+1115
+01:02:22,480 --> 01:02:24,215
+-l'm a deserter.
+-Are you now?
+
+1116
+01:02:24,215 --> 01:02:26,350
+-Yeah, l've blown school out.
+-Just you?
+
+1117
+01:02:26,350 --> 01:02:29,520
+No, Ginger, Eddy Fallon,
+and Ding Dong.
+
+1118
+01:02:29,520 --> 01:02:32,490
+-Oh, Ding Dong bell, eh?
+-Yeah, that's right.
+
+1119
+01:02:32,490 --> 01:02:34,492
+They was supposed to come
+with us, but they chickened.
+
+1120
+01:02:34,492 --> 01:02:36,027
+<i>RINGO; Yeah? And they're</i>
+<i>your mates, are they?</i>
+
+1121
+01:02:36,027 --> 01:02:37,194
+Yeah.
+
+1122
+01:02:37,194 --> 01:02:38,729
+<i>RINGO; Not much cop</i>
+<i>without 'em, is it?</i>
+
+1123
+01:02:38,729 --> 01:02:40,731
+-Oh, it's all right.
+-Yeah? What are they like?
+
+1124
+01:02:40,731 --> 01:02:43,801
+<i>BO Y; Ginger's mad.</i>
+<i>He says things aII the time.</i>
+
+1125
+01:02:43,801 --> 01:02:45,736
+And Eddy's good
+at spitting and punching.
+
+1126
+01:02:45,736 --> 01:02:46,971
+Yeah?
+How about Ding Dong?
+
+1127
+01:02:46,971 --> 01:02:49,607
+Oh, he's a big head.
+He fancies himself, you know.
+
+1128
+01:02:49,607 --> 01:02:51,208
+<i>He's aII right, though,</i>
+<i>'cause he's one of the gang.</i>
+
+1129
+01:02:51,208 --> 01:02:52,543
+Hmm.
+
+1130
+01:02:52,543 --> 01:02:55,513
+-Why aren't you at work?
+-l'm a deserter, too.
+
+1131
+01:02:55,513 --> 01:02:57,640
+-Oh.
+-Hey, Charlie!
+
+1132
+01:02:59,550 --> 01:03:00,881
+See ya!
+
+1133
+01:03:16,967 --> 01:03:19,902
+<i>MAN; Come in, number seven.</i>
+<i>Your time's up.</i>
+
+1134
+01:03:23,441 --> 01:03:26,433
+l'm sorry, boys.
+l didn't mean it, honest.
+
+1135
+01:03:29,714 --> 01:03:32,049
+lf he says that again,
+l'll strike him.
+
+1136
+01:03:32,049 --> 01:03:34,385
+Oh, don't worry. They're
+good lads. They'll be back.
+
+1137
+01:03:34,385 --> 01:03:37,718
+Well, we've only twenty minutes
+to the final run-through.
+
+1138
+01:03:40,458 --> 01:03:41,859
+l meant no harm.
+
+1139
+01:03:41,859 --> 01:03:45,262
+l was only trying to encourage
+little Ringo to enjoy himself.
+
+1140
+01:03:45,262 --> 01:03:48,999
+God knows what you've unleashed
+on the unsuspecting south.
+
+1141
+01:03:48,999 --> 01:03:51,836
+lt'll be wine, women, and song
+all the way with Ringo...
+
+1142
+01:03:51,836 --> 01:03:52,996
+when he gets the taste for it.
+
+1143
+01:04:02,747 --> 01:04:05,841
+That was fresh this morning.
+Two and nine.
+
+1144
+01:04:46,857 --> 01:04:48,848
+[Parrot screeching]
+
+1145
+01:04:52,263 --> 01:04:55,299
+-Right. On your way.
+-You what?
+
+1146
+01:04:55,299 --> 01:04:58,166
+You heard. On your way.
+Troublemaker!
+
+1147
+01:05:05,209 --> 01:05:06,676
+Hey, watch it!
+
+1148
+01:05:12,183 --> 01:05:13,350
+-Shake.
+-What?
+
+1149
+01:05:13,350 --> 01:05:15,686
+Worry, will you?
+
+1150
+01:05:15,686 --> 01:05:19,490
+Well, that's it. Two minutes
+to the final run-through.
+
+1151
+01:05:19,490 --> 01:05:22,159
+-They're bound to miss it now.
+-l'll murder that Lennon.
+
+1152
+01:05:22,159 --> 01:05:24,528
+We could survive a missed
+run-through as long as they--
+
+1153
+01:05:24,528 --> 01:05:26,363
+<i>SHAKE; As Iong as</i>
+<i>they end up for the show?</i>
+
+1154
+01:05:26,363 --> 01:05:27,631
+<i>Oh, you're right there.</i>
+<i>I mean, it wouIdn't do...</i>
+
+1155
+01:05:27,631 --> 01:05:28,833
+<i>to miss the show,</i>
+<i>Iike, wouId it?</i>
+
+1156
+01:05:28,833 --> 01:05:30,367
+<i>NORM; Shut up, cheerfuI.</i>
+
+1157
+01:05:30,367 --> 01:05:32,770
+You don't think--
+Oh, oh, oh no.
+
+1158
+01:05:32,770 --> 01:05:35,506
+-Now, look, don't worry.
+-They can't do this to me, no.
+
+1159
+01:05:35,506 --> 01:05:38,242
+lt's all your fault.
+Oh, yes, it is.
+
+1160
+01:05:38,242 --> 01:05:40,311
+lf they don't turn up
+l wouldn't be in your shoes...
+
+1161
+01:05:40,311 --> 01:05:42,179
+For all the tea in China.
+
+1162
+01:05:42,179 --> 01:05:43,914
+Oh, you're right there.
+Neither would it.
+
+1163
+01:05:43,914 --> 01:05:46,517
+-You dirty traitor.
+-Well, of course.
+
+1164
+01:05:46,517 --> 01:05:48,252
+Yes, of course.
+
+1165
+01:05:48,252 --> 01:05:50,855
+<i>BEATLES;</i> ? <i>I have been working</i>
+<i>Iike a dog</i> ?
+
+1166
+01:05:50,855 --> 01:05:52,990
+-Hello.
+-Hi, John. John!
+
+1167
+01:05:52,990 --> 01:05:55,426
+-Did you want something?
+-l could eat the lot of you.
+
+1168
+01:05:55,426 --> 01:05:56,760
+You'd look great
+with an apple in your gob.
+
+1169
+01:05:56,760 --> 01:05:59,597
+Do you realize you could have
+missed the final run-through?
+
+1170
+01:05:59,597 --> 01:06:00,898
+Oh, we're sorry about that.
+
+1171
+01:06:00,898 --> 01:06:02,666
+Norm?
+There's only three of 'em.
+
+1172
+01:06:02,666 --> 01:06:04,001
+Oh, we were
+looking for Ringo...
+
+1173
+01:06:04,001 --> 01:06:06,504
+but we realized
+he must've come back here.
+
+1174
+01:06:06,504 --> 01:06:09,173
+Well, do you realize
+that we are on the air live...
+
+1175
+01:06:09,173 --> 01:06:10,708
+<i>in front of an audience</i>
+<i>in forty-five minutes...</i>
+
+1176
+01:06:10,708 --> 01:06:12,209
+and you're one short?
+
+1177
+01:06:12,209 --> 01:06:13,944
+J<i>OHN; ControI yourseIf,</i>
+<i>or you'II spurt.</i>
+
+1178
+01:06:13,944 --> 01:06:15,346
+He must be here somewhere.
+
+1179
+01:06:15,346 --> 01:06:16,780
+Aye, well, we'll look
+in the dressing room.
+
+1180
+01:06:16,780 --> 01:06:20,017
+-Shake.
+-Yes, the dressing room.
+
+1181
+01:06:20,017 --> 01:06:21,185
+Hey, where's my grandfather?
+
+1182
+01:06:21,185 --> 01:06:23,153
+Don't worry about him, Paul.
+He can look after himself.
+
+1183
+01:06:23,153 --> 01:06:24,321
+l suppose so.
+
+1184
+01:06:24,321 --> 01:06:26,524
+Personally signed
+and handwritten...
+
+1185
+01:06:26,524 --> 01:06:28,359
+by your own sweet boys.
+
+1186
+01:06:28,359 --> 01:06:30,461
+-The chance of a lifetime!
+-[Fans screaming]
+
+1187
+01:06:30,461 --> 01:06:34,231
+Be the envy
+of your less fortunate sisters!
+
+1188
+01:06:34,231 --> 01:06:36,667
+<i>GRANDFATHER; Oh, me bones.</i>
+
+1189
+01:06:36,667 --> 01:06:39,637
+All right, break it up.
+Break it up. Move on.
+
+1190
+01:06:39,637 --> 01:06:42,306
+Hey, what's going on here?
+Right, move over. Move over.
+
+1191
+01:06:42,306 --> 01:06:43,507
+-Come on, move along.
+-Here you are.
+
+1192
+01:06:43,507 --> 01:06:46,644
+Why don't you go back home?
+You're making a disturbance.
+
+1193
+01:06:46,644 --> 01:06:48,979
+Will you just move along now?
+
+1194
+01:06:48,979 --> 01:06:51,315
+[lndistinct arguing]
+
+1195
+01:06:51,315 --> 01:06:53,044
+Come on, ya. Aah! Yeahh!
+
+1196
+01:07:02,026 --> 01:07:03,960
+[Ringo humming]
+
+1197
+01:07:06,864 --> 01:07:08,263
+Thank you.
+
+1198
+01:07:09,700 --> 01:07:11,691
+[Humming]
+
+1199
+01:07:25,849 --> 01:07:27,017
+-[Whistles]
+-Gotcha!
+
+1200
+01:07:27,017 --> 01:07:28,385
+You nasty little person, you.
+
+1201
+01:07:28,385 --> 01:07:31,650
+<i>RINGO;</i>
+<i>Come on! Ooh, yeah.</i>
+
+1202
+01:07:31,689 --> 01:07:32,957
+l'm Ringo Starr.
+
+1203
+01:07:32,957 --> 01:07:34,892
+l've got a show to do.
+l'm on in a few minutes.
+
+1204
+01:07:34,892 --> 01:07:36,760
+You've got to let me go.
+l'm Ringo.
+
+1205
+01:07:36,760 --> 01:07:38,295
+Yeah, that's what
+they all say these days.
+
+1206
+01:07:38,295 --> 01:07:39,496
+Look, l don't care who you are.
+
+1207
+01:07:39,496 --> 01:07:41,165
+You can save that
+for the stipendiary.
+
+1208
+01:07:41,165 --> 01:07:43,968
+-Here you are, sarge.
+-All right. What is he?
+
+1209
+01:07:43,968 --> 01:07:45,369
+Yeah, l got a little list here.
+
+1210
+01:07:45,369 --> 01:07:47,972
+Wandering abroad,
+malicious intent...
+
+1211
+01:07:47,972 --> 01:07:49,573
+acting
+in a suspicious manner...
+
+1212
+01:07:49,573 --> 01:07:51,475
+conduct liable to cause
+a breach of the peace.
+
+1213
+01:07:51,475 --> 01:07:52,910
+<i>OFFICER;</i>
+<i>You name it, he's done it.</i>
+
+1214
+01:07:52,910 --> 01:07:54,311
+Oh, a little savage, is he?
+
+1215
+01:07:54,311 --> 01:07:56,046
+Yeah, a proper
+little aborigine.
+
+1216
+01:07:56,046 --> 01:07:59,483
+-l demand to see my solicitor.
+-What's his name?
+
+1217
+01:07:59,483 --> 01:08:02,186
+Well, if you're gonna
+get technical about it.
+
+1218
+01:08:02,186 --> 01:08:03,354
+GRANDFATHER: Dragging me
+through the streets--
+
+1219
+01:08:03,354 --> 01:08:05,255
+Hello, it's gonna be
+one of those nights, is it?
+
+1220
+01:08:05,255 --> 01:08:07,391
+Sit Charlie Peace down
+over there, will you?
+
+1221
+01:08:07,391 --> 01:08:10,327
+Well, you got me here,
+so do your worst...
+
+1222
+01:08:10,327 --> 01:08:13,030
+but, by God,
+l'll take one of you with me.
+
+1223
+01:08:13,030 --> 01:08:15,866
+-Ow!
+-l know your game!
+
+1224
+01:08:15,866 --> 01:08:20,471
+Get me into that tiled room and
+then out come the rubber hoses.
+
+1225
+01:08:20,471 --> 01:08:22,673
+Oh, there's a fire, is there?
+
+1226
+01:08:22,673 --> 01:08:25,609
+You ugly great brute.
+You have sadism...
+
+1227
+01:08:25,609 --> 01:08:28,112
+stamped all over
+your bloated British kisser.
+
+1228
+01:08:28,112 --> 01:08:30,147
+-Eh?
+-l'll go on hunger strike.
+
+1229
+01:08:30,147 --> 01:08:32,016
+<i>I know your caper.</i>
+
+1230
+01:08:32,016 --> 01:08:34,018
+The kidney punch
+and the rabbit clout.
+
+1231
+01:08:34,018 --> 01:08:37,221
+The third degree and
+the size twelve boot ankle tap.
+
+1232
+01:08:37,221 --> 01:08:38,589
+What's he on about?
+
+1233
+01:08:38,589 --> 01:08:40,591
+<i>GRANDFATHER; I'm a soIdier</i>
+<i>of the repubIic.</i>
+
+1234
+01:08:40,591 --> 01:08:43,460
+<i>You'II need the mahogany</i>
+<i>truncheon on this boyo.</i>
+
+1235
+01:08:43,460 --> 01:08:46,296
+<i>?</i> A nation once again <i>?</i>
+
+1236
+01:08:46,296 --> 01:08:48,499
+<i>?</i> A nation once again <i>?</i>
+
+1237
+01:08:48,499 --> 01:08:50,167
+Get Lloyd George over there...
+
+1238
+01:08:50,167 --> 01:08:51,702
+next to the mechanic
+in the cloth cap...
+
+1239
+01:08:51,702 --> 01:08:53,337
+while l sort this lot out,
+will you?
+
+1240
+01:08:53,337 --> 01:08:56,240
+<i>OFFICER; Come on, dad.</i>
+<i>Sit down over here.</i>
+
+1241
+01:08:56,240 --> 01:08:57,741
+Ringo, me old scout!
+
+1242
+01:08:57,741 --> 01:08:59,877
+So they grabbed your leg
+for the iron, too, have they?
+
+1243
+01:08:59,877 --> 01:09:01,445
+l'm not exactly
+a voluntary patient.
+
+1244
+01:09:01,445 --> 01:09:03,313
+Shh, shh.
+Have they roughed you up yet?
+
+1245
+01:09:03,313 --> 01:09:04,481
+What?
+
+1246
+01:09:04,481 --> 01:09:06,617
+<i>Oh, they're a desperate crew</i>
+<i>of drippings...</i>
+
+1247
+01:09:06,617 --> 01:09:08,886
+and they've fists
+like matured hams...
+
+1248
+01:09:08,886 --> 01:09:10,988
+for pounding poor
+defenseless lads like you.
+
+1249
+01:09:10,988 --> 01:09:12,256
+Right, that's it, then.
+
+1250
+01:09:12,256 --> 01:09:13,957
+<i>GRANDFATHER;</i>
+<i>One of us has got to escape.</i>
+
+1251
+01:09:13,957 --> 01:09:15,125
+<i>I'II get the boys.</i>
+
+1252
+01:09:15,125 --> 01:09:17,127
+-Hold on. l'll be back for you.
+-For me?
+
+1253
+01:09:17,127 --> 01:09:20,397
+lf they get you on the floor,
+watch out for your brisket.
+
+1254
+01:09:20,397 --> 01:09:21,965
+They seem all right to me.
+
+1255
+01:09:21,965 --> 01:09:23,967
+Ah, sure, that's what
+they want you to think.
+
+1256
+01:09:23,967 --> 01:09:25,803
+All coppers are villains.
+
+1257
+01:09:25,803 --> 01:09:27,671
+<i>SERGEANT; WouId you two</i>
+<i>Iike a cup of tea?</i>
+
+1258
+01:09:27,671 --> 01:09:30,874
+See? Sly villains.
+
+1259
+01:09:30,874 --> 01:09:32,943
+Um, no, thank you,
+Mr. Sergeant, sir.
+
+1260
+01:09:32,943 --> 01:09:34,845
+No, not for me. Please don't.
+
+1261
+01:09:34,845 --> 01:09:36,680
+So you just
+brought the old chap...
+
+1262
+01:09:36,680 --> 01:09:38,148
+out of the crowd
+for his own good, eh?
+
+1263
+01:09:38,148 --> 01:09:39,683
+Well, he was getting
+a bit nasty, you see...
+
+1264
+01:09:39,683 --> 01:09:41,018
+so we had to bring him in.
+
+1265
+01:09:41,018 --> 01:09:42,686
+Well, he can't stop here.
+
+1266
+01:09:42,686 --> 01:09:44,354
+This is the stuff
+he's been hawking around, eh?
+
+1267
+01:09:44,354 --> 01:09:46,824
+-Yes, sergeant--photographs.
+-Photographs.
+
+1268
+01:09:46,824 --> 01:09:50,360
+Well, son, it's now or never.
+
+1269
+01:09:50,360 --> 01:09:52,896
+All right, you paid assassins!
+Johnny McCartney...
+
+1270
+01:09:52,896 --> 01:09:54,732
+will give you a run
+for your thruppence halfpenny.
+
+1271
+01:09:54,732 --> 01:09:56,131
+Hey, you forgot
+your photographs.
+
+1272
+01:10:03,907 --> 01:10:06,710
+Only half an hour,
+and you're on.
+
+1273
+01:10:06,710 --> 01:10:09,046
+-Can l say something?
+-Yes. Anything.
+
+1274
+01:10:09,046 --> 01:10:11,582
+lt seems highly unlikely
+we'll be on.
+
+1275
+01:10:11,582 --> 01:10:14,318
+l mean, the law of averages
+are against it.
+
+1276
+01:10:14,318 --> 01:10:16,720
+l think if you could
+get the juggler on...
+
+1277
+01:10:16,720 --> 01:10:17,855
+with a couple more clubs...
+
+1278
+01:10:17,855 --> 01:10:20,050
+that would fill in
+a bit of time.
+
+1279
+01:10:33,670 --> 01:10:35,001
+Come on, let's go!
+
+1280
+01:10:37,808 --> 01:10:40,277
+l'll have the hides
+off of you lot.
+
+1281
+01:10:40,277 --> 01:10:42,146
+[Laughing]
+
+1282
+01:10:42,146 --> 01:10:44,114
+You ought to be ashamed
+of yourself. Go home.
+
+1283
+01:10:44,114 --> 01:10:45,282
+l must see Pauly.
+
+1284
+01:10:45,282 --> 01:10:47,079
+Go home, then,
+and see him on the telly.
+
+1285
+01:10:49,686 --> 01:10:51,522
+-Can you fix him for me?
+-Yeah.
+
+1286
+01:10:51,522 --> 01:10:52,890
+Sixpence.
+
+1287
+01:10:52,890 --> 01:10:54,915
+-Each.
+-ln advance.
+
+1288
+01:10:56,059 --> 01:10:57,959
+Mercenaries.
+
+1289
+01:11:06,236 --> 01:11:08,227
+[Laughing]
+
+1290
+01:11:20,083 --> 01:11:22,085
+lt's all right.
+Leave him alone.
+
+1291
+01:11:22,085 --> 01:11:23,320
+<i>P.A.; What's up, Richard?</i>
+
+1292
+01:11:23,320 --> 01:11:25,515
+<i>GRANDFATHER;</i>
+<i>PauI? Where are you? I'm--</i>
+
+1293
+01:11:27,925 --> 01:11:30,060
+<i>PAUL;</i>
+<i>Granddad. Where's Ringo?</i>
+
+1294
+01:11:30,060 --> 01:11:33,197
+The police have the poor lad
+in the bridewell.
+
+1295
+01:11:33,197 --> 01:11:35,933
+-The police station.
+-He'll be pulp by now.
+
+1296
+01:11:35,933 --> 01:11:37,935
+<i>-NORM; Go get him!</i>
+<i>-PAUL; We'II get him out.</i>
+
+1297
+01:11:37,935 --> 01:11:41,271
+-J<i>OHN; We'II fix it, Norm.</i>
+<i>-[BeatIes barking]</i>
+
+1298
+01:11:41,271 --> 01:11:43,407
+We've only got twenty minutes.
+
+1299
+01:11:43,407 --> 01:11:47,244
+? <i>Can't buy me Iove</i> ?
+
+1300
+01:11:47,244 --> 01:11:49,112
+? <i>Love</i> ?
+
+1301
+01:11:49,112 --> 01:11:52,583
+? <i>Can't buy me Iove</i> ?
+
+1302
+01:11:52,583 --> 01:11:55,152
+? <i>I'II buy you a diamond ring,</i>
+<i>my friend</i> ?
+
+1303
+01:11:55,152 --> 01:11:58,055
+? <i>If it makes you feeI</i>
+<i>aII right</i> ?
+
+1304
+01:11:58,055 --> 01:12:00,724
+? <i>I'II get you anything,</i>
+<i>my friend</i> ?
+
+1305
+01:12:00,724 --> 01:12:03,660
+? <i>If it makes you feeI</i>
+<i>aII right</i> ?
+
+1306
+01:12:03,660 --> 01:12:06,463
+? <i>'Cause I don't care</i>
+<i>too much for money</i> ?
+
+1307
+01:12:06,463 --> 01:12:09,299
+<i>? Money can't buy me Iove</i> ?
+
+1308
+01:12:09,299 --> 01:12:11,869
+? <i>I'II give you</i>
+<i>aII I've got to give</i> ?
+
+1309
+01:12:11,869 --> 01:12:14,905
+? <i>If you say</i>
+<i>you'II Iove me, too</i> ?
+
+1310
+01:12:14,905 --> 01:12:17,407
+? <i>I may not have</i>
+<i>a Iot to give</i> ?
+
+1311
+01:12:17,407 --> 01:12:20,611
+? <i>But what I got</i>
+<i>I'II give to you</i> ?
+
+1312
+01:12:20,611 --> 01:12:23,647
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+1313
+01:12:23,647 --> 01:12:25,749
+? <i>Money can't buy me Iove</i> ?
+
+1314
+01:12:25,749 --> 01:12:29,119
+? <i>Can't buy me Iove</i> ?
+
+1315
+01:12:29,119 --> 01:12:31,121
+? <i>Everybody teIIs me so</i> ?
+
+1316
+01:12:31,121 --> 01:12:34,925
+? <i>Can't buy me Iove</i> ?
+
+1317
+01:12:34,925 --> 01:12:37,661
+? <i>No, no, no, no</i> ?
+
+1318
+01:12:37,661 --> 01:12:40,530
+? <i>Say you don't need</i>
+<i>no diamond rings</i> ?
+
+1319
+01:12:40,530 --> 01:12:43,467
+? <i>And I'II be satisfied</i> ?
+
+1320
+01:12:43,467 --> 01:12:46,203
+? <i>TeII me that you want</i>
+<i>the kind of things</i> ?
+
+1321
+01:12:46,203 --> 01:12:48,939
+? <i>That money just can't buy</i> ?
+
+1322
+01:12:48,939 --> 01:12:52,075
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+1323
+01:12:52,075 --> 01:12:54,478
+? <i>Money can't buy me Iove</i> ?
+
+1324
+01:12:54,478 --> 01:12:56,546
+What is all this?
+
+1325
+01:12:56,546 --> 01:12:58,639
+[Panting] Hold on
+till we catch our breath.
+
+1326
+01:13:00,884 --> 01:13:03,287
+Fine.
+Are you all right now?
+
+1327
+01:13:03,287 --> 01:13:05,422
+[Pants] Yeah.
+
+1328
+01:13:05,422 --> 01:13:07,413
+-Huh?
+-See.
+
+1329
+01:13:12,829 --> 01:13:16,400
+? <i>Can't buy me Iove</i> ?
+
+1330
+01:13:16,400 --> 01:13:18,068
+? <i>Everybody teIIs me so</i> ?
+
+1331
+01:13:18,068 --> 01:13:22,072
+? <i>Can't buy me Iove</i> ?
+
+1332
+01:13:22,072 --> 01:13:25,375
+? <i>No, no, no, no</i> ?
+
+1333
+01:13:25,375 --> 01:13:27,711
+? <i>Say you don't need</i>
+<i>no diamond rings</i> ?
+
+1334
+01:13:27,711 --> 01:13:30,280
+? <i>And I'II be satisfied</i> ?
+
+1335
+01:13:30,280 --> 01:13:33,283
+? <i>TeII me that you want</i>
+<i>the kind of things</i> ?
+
+1336
+01:13:33,283 --> 01:13:34,451
+Quick! Follow them!
+
+1337
+01:13:34,451 --> 01:13:36,153
+? <i>That money just can't buy</i> ?
+
+1338
+01:13:36,153 --> 01:13:39,122
+? <i>I don't care too much</i>
+<i>for money</i> ?
+
+1339
+01:13:39,122 --> 01:13:41,525
+? <i>Money can't buy me Iove</i> ?
+
+1340
+01:13:41,525 --> 01:13:44,895
+? <i>Can't buy me Iove</i> ?
+
+1341
+01:13:44,895 --> 01:13:46,930
+? <i>Love</i> ?
+
+1342
+01:13:46,930 --> 01:13:50,534
+? <i>Can't buy me Iove</i> ?
+
+1343
+01:13:50,534 --> 01:13:52,202
+? <i>Oh</i> ?
+
+1344
+01:13:52,202 --> 01:13:54,193
+[Screaming]
+
+1345
+01:13:55,872 --> 01:13:56,073
+l had to laugh even when
+they kick the stool away.
+
+1346
+01:13:56,073 --> 01:13:58,809
+l had to laugh even when
+they kick the stool away.
+
+1347
+01:13:58,809 --> 01:14:00,677
+[Giggles]
+
+1348
+01:14:00,677 --> 01:14:03,747
+Lads. Lads! You're back!
+Thank goodness. Where's Ringo?
+
+1349
+01:14:03,747 --> 01:14:05,849
+-There he is. We got him.
+-Great, great, great.
+
+1350
+01:14:05,849 --> 01:14:07,718
+You don't know
+what this means to me.
+
+1351
+01:14:07,718 --> 01:14:09,586
+lf you hadn't come back,
+it would have meant...
+
+1352
+01:14:09,586 --> 01:14:13,123
+the epilogue
+or news in Welsh for life.
+
+1353
+01:14:13,123 --> 01:14:15,459
+Hey, aren't you
+supposed to be in that box?
+
+1354
+01:14:15,459 --> 01:14:18,161
+-Yeah, where's the old mixer?
+-Here, Pauly.
+
+1355
+01:14:18,161 --> 01:14:20,564
+<i>Got a few words to say to you,</i>
+<i>two-faced</i> J<i>ohn McCartney.</i>
+
+1356
+01:14:20,564 --> 01:14:22,232
+Aw, leave him alone.
+He's back, isn't he?
+
+1357
+01:14:22,232 --> 01:14:24,634
+-lt's not his fault he's old.
+-What's old got to do with it?
+
+1358
+01:14:24,634 --> 01:14:27,304
+He's a troublemaker and a mixer.
+That's good enough for me.
+
+1359
+01:14:27,304 --> 01:14:29,606
+You're right. He's only asking
+for attention, aren't you?
+
+1360
+01:14:29,606 --> 01:14:31,608
+You see, you know your trouble.
+
+1361
+01:14:31,608 --> 01:14:33,543
+You should've gone west
+to America.
+
+1362
+01:14:33,543 --> 01:14:35,545
+You would've been
+a senior citizen of Boston.
+
+1363
+01:14:35,545 --> 01:14:37,047
+But you took a wrong turn,
+and what happened?
+
+1364
+01:14:37,047 --> 01:14:38,882
+You're a lonely old man
+from Liverpool.
+
+1365
+01:14:38,882 --> 01:14:41,618
+-But l'm clean.
+-Are you?
+
+1366
+01:14:41,618 --> 01:14:43,220
+-Hey, Norm.
+-What?
+
+1367
+01:14:43,220 --> 01:14:44,454
+l've been thinking.
+
+1368
+01:14:44,454 --> 01:14:46,356
+-lt's not my fault.
+-What isn't?
+
+1369
+01:14:46,356 --> 01:14:50,394
+l'm not taller than you are.
+You're smaller than l am.
+
+1370
+01:14:50,394 --> 01:14:52,129
+Anyone at home?
+
+1371
+01:14:52,129 --> 01:14:53,864
+Hey, Shake, where's me boot?
+
+1372
+01:14:53,864 --> 01:14:55,665
+Will you get us some tea
+while you're there?
+
+1373
+01:14:55,665 --> 01:14:56,900
+-All right, George.
+-Ta.
+
+1374
+01:14:56,900 --> 01:14:59,669
+-Come on, lads. Get changed.
+-Come on, get some tea.
+
+1375
+01:14:59,669 --> 01:15:01,705
+[Overlapping conversation]
+
+1376
+01:15:01,705 --> 01:15:03,639
+[Screaming]
+
+1377
+01:15:12,182 --> 01:15:16,653
+? <i>TeII me why you cried</i> ?
+
+1378
+01:15:16,653 --> 01:15:21,958
+? <i>And why you Iied to me</i> ?
+
+1379
+01:15:21,958 --> 01:15:26,496
+<i>?</i> Tell me why you cried <i>?</i>
+
+1380
+01:15:26,496 --> 01:15:30,592
+<i>?</i> And why you lied to me <i>?</i>
+
+1381
+01:15:32,102 --> 01:15:35,439
+<i>?</i> Well, l gave you
+eve<i>ryt</i>hing l had <i>?</i>
+
+1382
+01:15:35,439 --> 01:15:38,575
+<i>?</i> But you left me
+sitting on my own <i>?</i>
+
+1383
+01:15:38,575 --> 01:15:41,745
+<i>?</i> Did you have to treat me,
+oh, so bad? <i>?</i>
+
+1384
+01:15:41,745 --> 01:15:44,815
+? <i>AII I do is hang my head</i>
+<i>and moan</i> ?
+
+1385
+01:15:44,815 --> 01:15:48,685
+? <i>TeII me why you cried</i> ?
+
+1386
+01:15:48,685 --> 01:15:54,458
+<i>?</i> And why you lied to me <i>?</i>
+
+1387
+01:15:54,458 --> 01:15:59,162
+<i>?</i> Tell me why you cried <i>?</i>
+
+1388
+01:15:59,162 --> 01:16:03,155
+<i>?</i> And why you lied to me <i>?</i>
+
+1389
+01:16:04,835 --> 01:16:08,138
+<i>?</i> lf it's something
+that l've said or done <i>?</i>
+
+1390
+01:16:08,138 --> 01:16:11,308
+<i>?</i> Tell me what
+and l'll apologize <i>?</i>
+
+1391
+01:16:11,308 --> 01:16:14,711
+? <i>If you don't</i>
+<i>I reaIIy can't go on</i> ?
+
+1392
+01:16:14,711 --> 01:16:17,681
+<i>?</i> Holding back
+these tears in my eyes <i>?</i>
+
+1393
+01:16:17,681 --> 01:16:22,285
+<i>?</i> Tell me why you cried <i>?</i>
+
+1394
+01:16:22,285 --> 01:16:26,590
+<i>?</i> And why you lied to me <i>?</i>
+
+1395
+01:16:26,590 --> 01:16:32,095
+<i>?</i> Tell me why you cried <i>?</i>
+
+1396
+01:16:32,095 --> 01:16:36,088
+<i>?</i> And why you lied to me <i>?</i>
+
+1397
+01:16:37,901 --> 01:16:41,238
+<i>?</i> Well, l'm begging
+on my bended knees <i>?</i>
+
+1398
+01:16:41,238 --> 01:16:44,574
+<i>?</i> lf you'll only
+listen to my pleas <i>?</i>
+
+1399
+01:16:44,574 --> 01:16:47,978
+<i>?</i> lf there's anything
+l can do <i>?</i>
+
+1400
+01:16:47,978 --> 01:16:49,846
+<i>?</i> 'Cause
+l really can't stand it <i>?</i>
+
+1401
+01:16:49,846 --> 01:16:52,576
+<i>?</i> l'm so in love with you <i>?</i>
+
+1402
+01:16:54,417 --> 01:16:58,855
+<i>?</i> lf l give my heart <i>?</i>
+
+1403
+01:16:58,855 --> 01:17:01,658
+<i>?</i> To you <i>?</i>
+
+1404
+01:17:01,658 --> 01:17:03,593
+<i>?</i> l must be sure <i>?</i>
+
+1405
+01:17:03,593 --> 01:17:08,064
+<i>?</i> From the very start <i>?</i>
+
+1406
+01:17:08,064 --> 01:17:10,667
+<i>?</i> That you <i>?</i>
+
+1407
+01:17:10,667 --> 01:17:15,161
+<i>?</i> Would love me more than her <i>?</i>
+
+1408
+01:17:17,307 --> 01:17:22,212
+<i>?</i> lf l trust in you <i>?</i>
+
+1409
+01:17:22,212 --> 01:17:24,748
+<i>?</i> Oh, please <i>?</i>
+
+1410
+01:17:24,748 --> 01:17:26,850
+<i>?</i> Don't run and hide <i>?</i>
+
+1411
+01:17:26,850 --> 01:17:31,221
+<i>?</i> lf l love you, too <i>?</i>
+
+1412
+01:17:31,221 --> 01:17:34,090
+<i>?</i> Oh, please <i>?</i>
+
+1413
+01:17:34,090 --> 01:17:38,528
+<i>?</i> Don't hurt my pride
+like her <i>?</i>
+
+1414
+01:17:38,528 --> 01:17:43,133
+<i>?</i> 'Cause l couldn't stand
+the pain <i>?</i>
+
+1415
+01:17:43,133 --> 01:17:45,502
+<i>?</i> And l <i>?</i>
+
+1416
+01:17:45,502 --> 01:17:50,140
+<i>?</i> Would be sad
+if our new love <i>?</i>
+
+1417
+01:17:50,140 --> 01:17:52,609
+<i>?</i> Was in vain <i>?</i>
+
+1418
+01:17:52,609 --> 01:17:57,047
+<i>?</i> So l hope you see <i>?</i>
+
+1419
+01:17:57,047 --> 01:17:59,849
+<i>?</i> That l <i>?</i>
+
+1420
+01:17:59,849 --> 01:18:02,419
+<i>?</i> Would love to love you <i>?</i>
+
+1421
+01:18:02,419 --> 01:18:06,489
+<i>?</i> And that she <i>?</i>
+
+1422
+01:18:06,489 --> 01:18:09,092
+<i>?</i> Will cry <i>?</i>
+
+1423
+01:18:09,092 --> 01:18:13,363
+<i>?</i> When she learns we are two <i>?</i>
+
+1424
+01:18:13,363 --> 01:18:18,134
+<i>?</i> 'Cause l couldn't stand
+the pain <i>?</i>
+
+1425
+01:18:18,134 --> 01:18:20,604
+<i>?</i> And l <i>?</i>
+
+1426
+01:18:20,604 --> 01:18:25,242
+<i>?</i> Would be sad
+if our new love <i>?</i>
+
+1427
+01:18:25,242 --> 01:18:27,277
+<i>?</i> Was in vain <i>?</i>
+
+1428
+01:18:27,277 --> 01:18:32,282
+<i>?</i> So l hope you see <i>?</i>
+
+1429
+01:18:32,282 --> 01:18:35,018
+<i>?</i> That l <i>?</i>
+
+1430
+01:18:35,018 --> 01:18:37,587
+<i>?</i> Would love to love you <i>?</i>
+
+1431
+01:18:37,587 --> 01:18:41,791
+<i>?</i> And that she <i>?</i>
+
+1432
+01:18:41,791 --> 01:18:44,394
+<i>?</i> Will cry <i>?</i>
+
+1433
+01:18:44,394 --> 01:18:47,056
+<i>?</i> When she learns we are two <i>?</i>
+
+1434
+01:18:54,170 --> 01:18:57,374
+? <i>I...</i> ?
+
+1435
+01:18:57,374 --> 01:19:01,378
+? <i>ShouId have known better</i>
+<i>with a girI Iike you</i> ?
+
+1436
+01:19:01,378 --> 01:19:04,981
+<i>?</i> That l would love
+eve<i>ryt</i>hing that you do <i>?</i>
+
+1437
+01:19:04,981 --> 01:19:07,017
+<i>?</i> And l do <i>?</i>
+
+1438
+01:19:07,017 --> 01:19:09,085
+<i>?</i> Hey, hey, hey <i>?</i>
+
+1439
+01:19:09,085 --> 01:19:10,712
+<i>?</i> And l do <i>?</i>
+
+1440
+01:19:12,589 --> 01:19:16,593
+<i>?</i> Whoa, whoa, l... <i>?</i>
+
+1441
+01:19:16,593 --> 01:19:20,930
+<i>?</i> Never realized
+what a kiss could be <i>?</i>
+
+1442
+01:19:20,930 --> 01:19:24,501
+<i>?</i> This could only
+happen to me <i>?</i>
+
+1443
+01:19:24,501 --> 01:19:26,069
+<i>?</i> Can't you see <i>?</i>
+
+1444
+01:19:26,069 --> 01:19:29,706
+<i>?</i> Can't you see <i>?</i>
+
+1445
+01:19:29,706 --> 01:19:34,778
+<i>?</i> That when l tell you
+that l love you <i>?</i>
+
+1446
+01:19:34,778 --> 01:19:37,414
+<i>?</i> Oh <i>?</i>
+
+1447
+01:19:37,414 --> 01:19:43,153
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+1448
+01:19:43,153 --> 01:19:45,121
+<i>?</i> Oh <i>?</i>
+
+1449
+01:19:45,121 --> 01:19:52,862
+<i>?</i> And when l ask you
+to be mine <i>?</i>
+
+1450
+01:19:52,862 --> 01:19:57,299
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+1451
+01:19:58,835 --> 01:20:03,106
+<i>?</i> So, oh, l... <i>?</i>
+
+1452
+01:20:03,106 --> 01:20:07,243
+<i>?</i> Should have realized
+a lot of things before <i>?</i>
+
+1453
+01:20:07,243 --> 01:20:11,114
+<i>?</i> lf this is love
+you gotta give me more <i>?</i>
+
+1454
+01:20:11,114 --> 01:20:13,083
+<i>?</i> Give me more <i>?</i>
+
+1455
+01:20:13,083 --> 01:20:14,951
+<i>?</i> Hey, hey, hey <i>?</i>
+
+1456
+01:20:14,951 --> 01:20:16,782
+<i>?</i> Give me more <i>?</i>
+
+1457
+01:20:38,074 --> 01:20:41,945
+<i>?</i> Whoa, whoa, l... <i>?</i>
+
+1458
+01:20:41,945 --> 01:20:46,216
+<i>?</i> Never realized
+what a kiss could be <i>?</i>
+
+1459
+01:20:46,216 --> 01:20:49,819
+<i>?</i> This could only
+happen to me <i>?</i>
+
+1460
+01:20:49,819 --> 01:20:51,821
+<i>?</i> Can't you see <i>?</i>
+
+1461
+01:20:51,821 --> 01:20:54,958
+<i>?</i> Can't you see <i>?</i>
+
+1462
+01:20:54,958 --> 01:21:00,130
+<i>?</i> That when l tell you
+that l love you <i>?</i>
+
+1463
+01:21:00,130 --> 01:21:02,766
+<i>?</i> Oh <i>?</i>
+
+1464
+01:21:02,766 --> 01:21:08,872
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+1465
+01:21:08,872 --> 01:21:10,540
+<i>?</i> Oh <i>?</i>
+
+1466
+01:21:10,540 --> 01:21:17,847
+<i>?</i> And when l ask you
+to be mine <i>?</i>
+
+1467
+01:21:17,847 --> 01:21:22,784
+<i>?</i> You're gonna say
+you love me, too <i>?</i>
+
+1468
+01:21:24,654 --> 01:21:26,383
+? <i>You Iove me, too</i> ?
+
+1469
+01:21:28,458 --> 01:21:30,460
+? <i>You Iove me, too</i> ?
+
+1470
+01:21:30,460 --> 01:21:32,428
+[Screaming]
+
+1471
+01:21:48,278 --> 01:21:52,148
+<i>?</i> She loves you,
+yeah, yeah, yeah <i>?</i>
+
+1472
+01:21:52,148 --> 01:21:55,418
+<i>?</i> She loves you,
+yeah, yeah, yeah <i>?</i>
+
+1473
+01:21:55,418 --> 01:22:00,412
+<i>?</i> She loves you,
+yeah, yeah, yeah, yeah <i>?</i>
+
+1474
+01:22:01,958 --> 01:22:04,994
+? <i>You think</i>
+<i>you've Iost your Iove</i> ?
+
+1475
+01:22:04,994 --> 01:22:08,498
+? <i>WeII, I saw her yesterday</i> ?
+
+1476
+01:22:08,498 --> 01:22:11,601
+? <i>It's you she's thinking of</i>?
+
+1477
+01:22:11,601 --> 01:22:14,737
+<i>?</i> And she told me
+what to say <i>?</i>
+
+1478
+01:22:14,737 --> 01:22:16,506
+<i>?</i> She said she loves you <i>?</i>
+
+1479
+01:22:16,506 --> 01:22:19,737
+? <i>And you know</i>
+<i>that can't be bad</i> ?
+
+1480
+01:22:21,644 --> 01:22:23,446
+? <i>Yeah, she Ioves you</i> ?
+
+1481
+01:22:23,446 --> 01:22:27,109
+? <i>And you know</i>
+<i>you shouId be gIad</i> ?
+
+1482
+01:22:28,585 --> 01:22:31,421
+? <i>She said you hurt her so</i> ?
+
+1483
+01:22:31,421 --> 01:22:35,458
+<i>?</i> She almost lost her mind <i>?</i>
+
+1484
+01:22:35,458 --> 01:22:38,862
+<i>?</i> But now she says she knows <i>?</i>
+
+1485
+01:22:38,862 --> 01:22:41,698
+<i>?</i> You're not the hurting kind <i>?</i>
+
+1486
+01:22:41,698 --> 01:22:43,700
+? <i>She said she Ioves you</i> ?
+
+1487
+01:22:43,700 --> 01:22:47,871
+? <i>And you know</i>
+<i>that can't be bad</i> ?
+
+1488
+01:22:47,871 --> 01:22:50,406
+<i>?</i> Yeah, she loves you <i>?</i>
+
+1489
+01:22:50,406 --> 01:22:54,010
+<i>?</i> And you know
+you should be glad <i>?</i>
+
+1490
+01:22:54,010 --> 01:22:55,178
+<i>?</i> Whoo <i>?</i>
+
+1491
+01:22:55,178 --> 01:22:59,015
+? <i>She Ioves you,</i>
+<i>yeah, yeah, yeah</i> ?
+
+1492
+01:22:59,015 --> 01:23:02,051
+? <i>She Ioves you,</i>
+<i>yeah, yeah, yeah</i> ?
+
+1493
+01:23:02,051 --> 01:23:03,820
+<i>?</i> With a love like that <i>?</i>
+
+1494
+01:23:03,820 --> 01:23:06,789
+<i>?</i> You know you should be glad <i>?</i>
+
+1495
+01:23:08,725 --> 01:23:12,228
+<i>? You know it's up to you</i> ?
+
+1496
+01:23:12,228 --> 01:23:15,865
+? <i>I think it's onIy fair</i> ?
+
+1497
+01:23:15,865 --> 01:23:18,568
+? <i>Pride can hurt you, too</i> ?
+
+1498
+01:23:18,568 --> 01:23:22,071
+<i>?</i> Apologize to her <i>?</i>
+
+1499
+01:23:22,071 --> 01:23:23,473
+<i>?</i> Because she loves you <i>?</i>
+
+1500
+01:23:23,473 --> 01:23:27,739
+<i>?</i> And you know
+that can't be bad <i>?</i>
+
+1501
+01:23:29,445 --> 01:23:31,114
+? <i>She Ioves you</i> ?
+
+1502
+01:23:31,114 --> 01:23:34,484
+<i>?</i> And you know
+you should be glad <i>?</i>
+
+1503
+01:23:34,484 --> 01:23:35,952
+<i>?</i> Whoo <i>?</i>
+
+1504
+01:23:35,952 --> 01:23:39,422
+? <i>She Ioves you,</i>
+<i>yeah, yeah, yeah</i> ?
+
+1505
+01:23:39,422 --> 01:23:42,392
+? <i>She Ioves you,</i>
+<i>yeah, yeah, yeah</i> ?
+
+1506
+01:23:42,392 --> 01:23:44,327
+? <i>With a Iove Iike that</i> ?
+
+1507
+01:23:44,327 --> 01:23:47,319
+? <i>You know</i>
+<i>you shouId be gIad</i> ?
+
+1508
+01:23:49,198 --> 01:23:51,200
+? <i>With a Iove Iike that</i> ?
+
+1509
+01:23:51,200 --> 01:23:53,725
+? <i>You know</i>
+<i>you shouId be gIad</i> ?
+
+1510
+01:23:56,005 --> 01:23:57,974
+? <i>With a Iove Iike that</i> ?
+
+1511
+01:23:57,974 --> 01:24:00,910
+? <i>You know you shouId</i> ?
+
+1512
+01:24:00,910 --> 01:24:02,969
+? <i>Be gIad</i> ?
+
+1513
+01:24:05,515 --> 01:24:08,851
+? <i>Yeah, yeah, yeah</i> ?
+
+1514
+01:24:08,851 --> 01:24:13,856
+? <i>Yeah, yeah, yeah, yeah</i> ?
+
+1515
+01:24:13,856 --> 01:24:15,847
+[Audience screaming]
+
+1516
+01:24:41,951 --> 01:24:43,553
+Now, l've got the stuff.
+Come here, lads.
+
+1517
+01:24:43,553 --> 01:24:44,787
+-Aren't we going--
+-No, we're not.
+
+1518
+01:24:44,787 --> 01:24:46,489
+The office has been on
+the phone and think it's best...
+
+1519
+01:24:46,489 --> 01:24:48,257
+if we push on to Wolverhampton
+straight away.
+
+1520
+01:24:48,257 --> 01:24:50,393
+-Tonight? We'll never make it.
+-You've got a midnight matinee.
+
+1521
+01:24:50,393 --> 01:24:51,561
+Aye, Norm!
+
+1522
+01:24:51,561 --> 01:24:54,097
+There's only one thing l've got
+to say to you, John Lennon.
+
+1523
+01:24:54,097 --> 01:24:56,332
+-What?
+-You're a swine.
+
+1524
+01:24:56,332 --> 01:24:59,068
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1525
+01:24:59,068 --> 01:25:02,505
+? <i>And I've been working</i>
+<i>Iike a dog</i> ?
+
+1526
+01:25:02,505 --> 01:25:06,509
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1527
+01:25:06,509 --> 01:25:10,013
+? <i>I shouId be sIeeping</i>
+<i>Iike a Iog</i> ?
+
+1528
+01:25:10,013 --> 01:25:12,148
+? <i>But when I get home to you</i> ?
+
+1529
+01:25:12,148 --> 01:25:15,049
+Come on,
+you're hanging up the parade!
+
+1530
+01:25:16,419 --> 01:25:17,587
+Get rid of those things!
+
+1531
+01:25:17,587 --> 01:25:20,523
+? <i>You know I work aII day</i> ?
+
+1532
+01:25:20,523 --> 01:25:23,760
+? <i>To get you money</i>
+<i>to buy you things</i> ?
+
+1533
+01:25:23,760 --> 01:25:27,563
+? <i>And it's worth it</i>
+<i>just to hear you say</i> ?
+
+1534
+01:25:27,563 --> 01:25:31,100
+? <i>You're gonna give me</i>
+<i>everything</i> ?
+
+1535
+01:25:31,100 --> 01:25:32,835
+? <i>So why on earth</i>
+<i>shouId I moan</i> ?
+
+1536
+01:25:32,835 --> 01:25:34,704
+? <i>'Cause</i>
+<i>when I get you aIone</i> ?
+
+1537
+01:25:34,704 --> 01:25:37,907
+? <i>You know I feeI OK</i> ?
+
+1538
+01:25:37,907 --> 01:25:38,641
+? <i>When I'm home</i> ?
+
+1539
+01:25:38,641 --> 01:25:40,576
+? <i>When I'm home</i> ?
+
+1540
+01:25:40,576 --> 01:25:43,568
+? <i>Everything</i>
+<i>seems to be right</i> ?
+
+1541
+01:25:44,847 --> 01:25:47,650
+? <i>When I'm home</i> ?
+
+1542
+01:25:47,650 --> 01:25:50,853
+? <i>FeeIing you</i>
+<i>hoIding me tight</i> ?
+
+1543
+01:25:50,853 --> 01:25:52,321
+? <i>Tight, yeah</i> ?
+
+1544
+01:25:52,321 --> 01:25:55,792
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1545
+01:25:55,792 --> 01:25:59,395
+? <i>And I've been working</i>
+<i>Iike a dog</i> ?
+
+1546
+01:25:59,395 --> 01:26:02,799
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1547
+01:26:02,799 --> 01:26:06,335
+? <i>I shouId be sIeeping</i>
+<i>Iike a Iog</i> ?
+
+1548
+01:26:06,335 --> 01:26:08,204
+? <i>But when I get home to you</i> ?
+
+1549
+01:26:08,204 --> 01:26:10,006
+? <i>I find</i>
+<i>the things that you do</i> ?
+
+1550
+01:26:10,006 --> 01:26:13,009
+? <i>WiII make me</i>
+<i>feeI aII right</i> ?
+
+1551
+01:26:13,009 --> 01:26:14,340
+? <i>Aah</i> ?
+
+1552
+01:26:27,657 --> 01:26:29,592
+? <i>So why on earth</i>
+<i>shouId I moan</i> ?
+
+1553
+01:26:29,592 --> 01:26:31,260
+? <i>'Cause</i>
+<i>when I get you aIone</i> ?
+
+1554
+01:26:31,260 --> 01:26:34,597
+? <i>You know I feeI OK</i> ?
+
+1555
+01:26:34,597 --> 01:26:37,233
+? <i>When I'm home</i> ?
+
+1556
+01:26:37,233 --> 01:26:41,637
+? <i>Everything</i>
+<i>seems to be right</i> ?
+
+1557
+01:26:41,637 --> 01:26:44,340
+? <i>When I'm home</i> ?
+
+1558
+01:26:44,340 --> 01:26:47,577
+? <i>FeeIing you</i>
+<i>hoIding me tight</i> ?
+
+1559
+01:26:47,577 --> 01:26:49,045
+? <i>Tight, yeah</i> ?
+
+1560
+01:26:49,045 --> 01:26:52,515
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1561
+01:26:52,515 --> 01:26:55,985
+? <i>And I've been working</i>
+<i>Iike a dog</i> ?
+
+1562
+01:26:55,985 --> 01:26:59,589
+? <i>It's been</i>
+<i>a hard day's night</i> ?
+
+1563
+01:26:59,589 --> 01:27:03,059
+? <i>I shouId be sIeeping</i>
+<i>Iike a Iog</i> ?
+
+1564
+01:27:03,059 --> 01:27:04,927
+? <i>But when I get home to you</i> ?
+
+1565
+01:27:04,927 --> 01:27:06,629
+? <i>I find</i>
+<i>the things that you do</i> ?
+
+1566
+01:27:06,629 --> 01:27:10,266
+? <i>WiII make me feel</i>
+<i>aII right</i> ?
+
+1567
+01:27:10,266 --> 01:27:13,803
+? <i>You know I feeI aII right</i> ?
+
+1568
+01:27:13,803 --> 01:27:17,204
+? <i>You know I feeI aII right</i> ?
+

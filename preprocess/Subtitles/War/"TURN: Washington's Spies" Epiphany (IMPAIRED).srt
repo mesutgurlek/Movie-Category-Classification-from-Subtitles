@@ -1,0 +1,2852 @@
+﻿1
+00:00:00,154 --> 00:00:02,087
+<i>Previously on "Turn"... </i>
+
+2
+00:00:02,177 --> 00:00:03,273
+<i>What'd you find out?</i>
+
+3
+00:00:03,273 --> 00:00:06,006
+A brigade of Hessian
+mercenaries 1,500 strong
+
+4
+00:00:06,517 --> 00:00:07,717
+readies to march to Trenton.
+
+5
+00:00:07,851 --> 00:00:09,451
+I gotta get this back to Ben right away.
+
+6
+00:00:09,576 --> 00:00:11,476
+If German mercenaries are in Trenton,
+
+7
+00:00:12,269 --> 00:00:13,702
+then the British are surely not.
+
+8
+00:00:14,019 --> 00:00:16,019
+Now, don't you think General
+Washington should want to know that?
+
+9
+00:00:16,668 --> 00:00:17,668
+Marco.
+
+10
+00:00:17,798 --> 00:00:18,898
+Polo.
+
+11
+00:00:18,917 --> 00:00:20,317
+Marco.
+
+12
+00:00:20,862 --> 00:00:21,562
+Polo.
+
+13
+00:00:21,618 --> 00:00:24,395
+You are a traitor and a spy.
+
+14
+00:00:25,640 --> 00:00:27,840
+You believe you should be
+commander instead of Washington.
+
+15
+00:00:27,932 --> 00:00:29,132
+And I agree.
+
+16
+00:00:29,394 --> 00:00:31,394
+Did you arrange to sell Selah Strong's crop
+
+17
+00:00:31,498 --> 00:00:33,498
+before or after you sought your attainder?
+
+18
+00:00:33,779 --> 00:00:36,879
+All these confiscations achieve
+is to create more Selahs,
+
+19
+00:00:37,019 --> 00:00:38,994
+more Ben Tallmadges, prolonging the war.
+
+20
+00:00:38,997 --> 00:00:41,297
+There is no war without an army,
+and Washington's is finished.
+
+21
+00:00:41,468 --> 00:00:43,568
+- You underestimate them.
+- Perhaps I overestimated you.
+
+22
+00:00:47,238 --> 00:00:48,771
+Singing "Read 'Em, John"
+
+23
+00:00:48,805 --> 00:00:51,146
+♪ John wrote a letter
+and laid it on the table ♪
+
+24
+00:00:51,181 --> 00:00:53,987
+♪ No one can read 'em like ol' John ♪
+
+25
+00:00:54,021 --> 00:00:56,257
+♪ Read 'em, let me go ♪
+
+26
+00:00:56,291 --> 00:00:58,799
+♪ Read 'em, John, read 'em ♪
+
+27
+00:00:58,834 --> 00:01:01,445
+♪ Read 'em, Johnny, read 'em ♪
+
+28
+00:01:01,480 --> 00:01:04,148
+♪ Read 'em, John, read 'em, John ♪
+
+29
+00:01:04,183 --> 00:01:06,153
+♪ Read 'em, let me go ♪
+
+30
+00:01:06,188 --> 00:01:08,661
+♪ Read 'em, John, read 'em ♪
+
+31
+00:01:08,695 --> 00:01:11,306
+♪ Read 'em, Johnny, read 'em ♪
+
+32
+00:01:11,340 --> 00:01:14,076
+♪ Read 'em, John, read 'em, John ♪
+
+33
+00:01:14,111 --> 00:01:16,916
+♪ Read 'em, let me go ♪
+
+34
+00:01:16,950 --> 00:01:18,690
+♪ One by one, two by two ♪
+
+35
+00:01:18,725 --> 00:01:21,192
+♪ Three by three, four by four ♪
+
+36
+00:01:21,226 --> 00:01:23,862
+<i>♪ No one can read 'em like ol' John ♪</i>
+
+37
+00:01:23,897 --> 00:01:26,139
+<i>♪ Read 'em, let me go ♪</i>
+
+38
+00:01:26,173 --> 00:01:28,480
+<i>♪ Read 'em, John, read 'em ♪</i>
+
+39
+00:01:28,514 --> 00:01:31,251
+<i>♪ Read 'em, Johnny, read 'em ♪</i>
+
+40
+00:01:31,285 --> 00:01:34,057
+<i>♪ Read 'em, John, read 'em, John ♪</i>
+
+41
+00:01:34,091 --> 00:01:35,995
+<i>♪ Read 'em, let me go ♪</i>
+
+42
+00:01:36,029 --> 00:01:38,469
+<i>♪ Read 'em, John, read 'em ♪</i>
+
+43
+00:01:38,504 --> 00:01:40,973
+<i>♪ Read 'em, Johnny, read 'em ♪</i>
+
+44
+00:01:41,007 --> 00:01:44,016
+<i>♪ Read 'em, John, read 'em, John...  ♪</i>
+
+45
+00:01:44,051 --> 00:01:46,621
+The attainder against Selah Strong?
+
+46
+00:01:46,655 --> 00:01:49,026
+Happy Christmas.
+
+47
+00:01:49,061 --> 00:01:52,463
+<i>♪ Read 'em, John, read 'em...  ♪</i>
+
+48
+00:01:52,498 --> 00:01:56,102
+Post this at Strong Manor.
+Come back quick as you can.
+
+49
+00:01:56,136 --> 00:01:57,939
+<i>♪ Read 'em, John, read 'em...  ♪</i>
+
+50
+00:01:57,973 --> 00:02:00,607
+Gentlemen...  mm.
+
+51
+00:02:00,642 --> 00:02:03,514
+<i>♪ Read 'em, John, read 'em, John ♪</i>
+
+52
+00:02:03,548 --> 00:02:05,115
+<i>♪ Read 'em, let me go...  ♪</i>
+
+53
+00:02:05,149 --> 00:02:06,716
+Playing "Rule, Britannia"
+
+54
+00:02:06,751 --> 00:02:10,792
+♪ When Britain first at heaven's command ♪
+
+55
+00:02:10,826 --> 00:02:16,331
+♪ Arose from out the azure main ♪
+
+56
+00:02:16,365 --> 00:02:20,506
+♪ Arose, arose from out the azure main ♪
+
+57
+00:02:20,540 --> 00:02:25,446
+♪ Rule, Britannia,
+Britannia, rule the waves ♪
+
+58
+00:02:25,481 --> 00:02:30,289
+♪ Britons never will be slaves ♪
+
+59
+00:02:30,323 --> 00:02:35,126
+<i>♪ Rule, Britannia,
+Britannia, rule the waves ♪</i>
+
+60
+00:02:35,160 --> 00:02:40,969
+<i>♪ Britons never will be slaves...  ♪</i>
+
+61
+00:02:46,141 --> 00:02:48,847
+(cheering, whistling)
+
+62
+00:02:56,460 --> 00:03:00,532
+<i>♪ Rule, Britannia,
+Britannia, rule the waves ♪</i>
+
+63
+00:03:00,566 --> 00:03:05,141
+<i>♪ Britons never will be slaves ♪</i>
+
+64
+00:03:05,175 --> 00:03:08,312
+<i>(piano continues playing)</i>
+
+65
+00:03:09,248 --> 00:03:12,553
+(applause)
+
+66
+00:03:15,992 --> 00:03:18,062
+(quiet moan)
+
+67
+00:03:18,096 --> 00:03:20,067
+Oh!
+
+68
+00:03:25,077 --> 00:03:27,814
+<i>♪ One by one, two by two ♪</i>
+
+69
+00:03:27,848 --> 00:03:30,184
+<i>♪ Three by three, four by four ♪</i>
+
+70
+00:03:30,219 --> 00:03:32,386
+<i>♪ No one can read 'em like ol' John ♪</i>
+
+71
+00:03:32,420 --> 00:03:34,822
+<i>- ♪ Read 'em, let me go...  ♪
+- (Pounds)</i>
+
+72
+00:03:34,856 --> 00:03:37,258
+<i>♪ Read 'em, John, read 'em ♪</i>
+
+73
+00:03:37,292 --> 00:03:39,694
+<i>♪ Read 'em, Johnny, read 'em ♪</i>
+
+74
+00:03:39,729 --> 00:03:42,363
+<i>♪ Read 'em, John, read 'em, John ♪</i>
+
+75
+00:03:42,397 --> 00:03:44,867
+<i>♪ Read 'em, let me go ♪</i>
+
+76
+00:03:44,901 --> 00:03:47,335
+<i>♪ Read 'em, John, read 'em ♪</i>
+
+77
+00:03:47,370 --> 00:03:49,837
+<i>♪ Read 'em, Johnny, read 'em ♪</i>
+
+78
+00:03:49,871 --> 00:03:52,706
+<i>♪ Read 'em, John, read 'em, John ♪</i>
+
+79
+00:03:52,741 --> 00:03:54,638
+<i>♪ Read 'em, let me go ♪</i>
+
+80
+00:03:54,673 --> 00:03:57,173
+<i>♪ Read 'em, John, read 'em ♪</i>
+
+81
+00:03:57,207 --> 00:03:59,978
+<i>♪ Read 'em, John, read 'em, John ♪</i>
+
+82
+00:04:00,012 --> 00:04:01,945
+<i>♪ Read 'em, let me go ♪</i>
+
+83
+00:04:01,979 --> 00:04:04,145
+- ♪ One by one, two by two ♪
+- Mama.
+
+84
+00:04:04,179 --> 00:04:06,412
+♪ Three by three, four by four ♪
+
+85
+00:04:06,447 --> 00:04:08,584
+<i>♪ No one can read 'em like ol' John ♪</i>
+
+86
+00:04:08,618 --> 00:04:11,523
+<i>- ♪ Read 'em, let me go...  ♪
+- (Gasps)</i>
+
+87
+00:04:11,558 --> 00:04:13,923
+- ♪ Read 'em, John, read 'em...  ♪
+- (Laughing)
+
+88
+00:04:13,957 --> 00:04:16,456
+♪ Read 'em, Johnny, read 'em ♪
+
+89
+00:04:16,490 --> 00:04:19,159
+- ♪ Read 'em, John, read 'em, John ♪
+- It's true! It's true!
+
+90
+00:04:19,194 --> 00:04:21,527
+♪ Read 'em, let me go ♪
+
+91
+00:04:21,561 --> 00:04:23,693
+♪ Read 'em, John, read 'em ♪
+
+92
+00:04:23,728 --> 00:04:26,233
+♪ Read 'em, Johnny, read 'em ♪
+
+93
+00:04:26,267 --> 00:04:29,205
+♪ Read 'em, John, read 'em, John ♪
+
+94
+00:04:29,239 --> 00:04:32,373
+♪ Read 'em, let me go. ♪
+
+95
+00:04:35,109 --> 00:04:37,213
+<i>♪ Hush, hush ♪</i>
+
+96
+00:04:37,249 --> 00:04:39,018
+<i>♪ There's snakes in the garden...  ♪</i>
+
+97
+00:04:39,052 --> 00:04:42,821
+<i>♪ Soul for sale...  ♪</i>
+
+98
+00:04:42,855 --> 00:04:45,127
+<i>♪ Blood on the rise ♪</i>
+
+99
+00:04:46,898 --> 00:04:49,101
+<i>♪ Hush, hush ♪</i>
+
+100
+00:04:49,136 --> 00:04:52,841
+<i>- ♪ I can't wait anymore ♪
+- ♪ Soul for sale...  ♪</i>
+
+101
+00:04:54,778 --> 00:04:58,182
+<i>♪ I can't wait anymore ♪</i>
+
+102
+00:05:01,388 --> 00:05:04,157
+<i>♪ Hush, hush. ♪</i>
+
+103
+00:05:05,845 --> 00:05:08,912
+Sync & corrections by <font color="#00ccff">mkbu95</font>
+www.addic7ed.com
+
+104
+00:05:41,053 --> 00:05:43,590
+- You going somewhere?
+- York City.
+
+105
+00:05:43,624 --> 00:05:46,157
+I feel our business there
+shouldn't wait till February.
+
+106
+00:05:47,758 --> 00:05:49,291
+Sit, have a sherry with me.
+
+107
+00:05:49,326 --> 00:05:51,161
+Uh, no, I'd rather just get on the road
+
+108
+00:05:51,195 --> 00:05:53,096
+while there's still a chance
+of making the city by nightfall.
+
+109
+00:05:53,131 --> 00:05:57,532
+- Nightfall with the hogs?
+- No hogs, no wagon, just me.
+
+110
+00:05:57,566 --> 00:05:59,334
+This is a seller's trip.
+
+111
+00:06:01,640 --> 00:06:03,640
+What I need from you is
+a letter from Colonel Cook
+
+112
+00:06:03,675 --> 00:06:05,708
+to get me past the checkpoints.
+
+113
+00:06:05,743 --> 00:06:09,349
+Abraham, no one is conducting
+business over the holiday.
+
+114
+00:06:11,620 --> 00:06:14,020
+Which leaves us with no competition.
+
+115
+00:06:14,054 --> 00:06:16,289
+See, all the fighting has
+stopped for the winter,
+
+116
+00:06:16,324 --> 00:06:19,893
+so Howe's entire army is
+bunkered down in the city.
+
+117
+00:06:19,927 --> 00:06:21,597
+Just think of the demand that this creates.
+
+118
+00:06:21,631 --> 00:06:24,465
+Now is the time to
+renegotiate our contract.
+
+119
+00:06:24,499 --> 00:06:28,702
+Alas, we've struck a
+gentlemen's deal with Cook.
+
+120
+00:06:28,737 --> 00:06:31,172
+<i>You want me to give you his letter</i>
+
+121
+00:06:31,206 --> 00:06:33,441
+so you can sell to somebody else?
+
+122
+00:06:33,476 --> 00:06:35,277
+<i>The army has needs.</i>
+
+123
+00:06:35,311 --> 00:06:37,678
+The city's population will have tripled.
+
+124
+00:06:40,182 --> 00:06:42,921
+Why are you so anxious to go to New York?
+
+125
+00:06:45,191 --> 00:06:47,993
+Don't you want to celebrate
+Christmas with your family,
+
+126
+00:06:48,027 --> 00:06:49,328
+with your wife and child?
+
+127
+00:06:49,363 --> 00:06:53,167
+Of course I do, but, uh...
+
+128
+00:06:53,201 --> 00:06:54,967
+I must provide for them first.
+
+129
+00:06:55,001 --> 00:06:56,868
+Well, if it's a question of a loan...
+
+130
+00:06:56,903 --> 00:06:59,136
+<i>- No.
+- ... to get you through the winter.</i>
+
+131
+00:06:59,171 --> 00:07:00,738
+<i>- I don't want...
+- Mary doesn't have to know.</i>
+
+132
+00:07:00,772 --> 00:07:03,040
+I want nothing from you.
+
+133
+00:07:06,908 --> 00:07:08,874
+I had noticed you'd been avoiding me
+
+134
+00:07:08,909 --> 00:07:11,541
+since the fortification of the barracks.
+
+135
+00:07:11,575 --> 00:07:13,774
+"The fortification."
+
+136
+00:07:15,009 --> 00:07:17,175
+Is that truly what you're calling it?
+
+137
+00:07:17,209 --> 00:07:20,144
+I call it my duty and I would do it again.
+
+138
+00:07:20,178 --> 00:07:23,245
+Well, good. You still have your
+wife's gravestone to tear out.
+
+139
+00:07:32,880 --> 00:07:36,484
+She would know you didn't mean that.
+
+140
+00:07:36,519 --> 00:07:39,954
+Just the same as you saying you
+want nothing from me is untrue.
+
+141
+00:07:41,389 --> 00:07:45,957
+You want my pass to the
+city and I do not grant it
+
+142
+00:07:45,991 --> 00:07:49,858
+<i>because I know that you
+running from your home,</i>
+
+143
+00:07:49,893 --> 00:07:53,432
+from our family, will not bring you peace.
+
+144
+00:07:57,900 --> 00:08:00,730
+I will be celebrating
+Christmas at my house this year,
+
+145
+00:08:00,765 --> 00:08:03,597
+with my family.
+
+146
+00:08:03,632 --> 00:08:05,432
+Don't expect us.
+
+147
+00:08:59,856 --> 00:09:02,656
+<i>(soldier shouting orders)</i>
+
+148
+00:09:05,125 --> 00:09:07,656
+<i>Anna: Please understand,
+I'm not here to dispute</i>
+
+149
+00:09:07,691 --> 00:09:10,625
+<i>the attainder against
+my husband or his estate.</i>
+
+150
+00:09:10,659 --> 00:09:13,162
+It is the military provision within it,
+
+151
+00:09:13,196 --> 00:09:14,962
+this Dunmore Proclamation,
+
+152
+00:09:14,997 --> 00:09:17,364
+that forms the basis of my complaint.
+
+153
+00:09:17,398 --> 00:09:19,433
+Please do tell us
+
+154
+00:09:19,467 --> 00:09:21,803
+what fault you find with Lord Dunmore.
+
+155
+00:09:22,739 --> 00:09:25,338
+Not with the man himself.
+
+156
+00:09:27,041 --> 00:09:29,379
+It's just...
+
+157
+00:09:29,413 --> 00:09:31,750
+it's cruel,
+
+158
+00:09:31,784 --> 00:09:35,519
+this business of freeing
+slaves of suspected Patriots.
+
+159
+00:09:35,553 --> 00:09:37,990
+I am sincerely sorry
+
+160
+00:09:38,024 --> 00:09:40,060
+that you're being punished
+for your husband's actions,
+
+161
+00:09:40,095 --> 00:09:44,064
+but he is a confirmed insurrectionist,
+madam, not a suspected one.
+
+162
+00:09:45,768 --> 00:09:48,835
+These poor souls have never
+had to provide for themselves.
+
+163
+00:09:48,870 --> 00:09:51,672
+And now you give them a mere seven days
+
+164
+00:09:51,706 --> 00:09:53,475
+to prepare for a life
+they have never known.
+
+165
+00:09:53,510 --> 00:09:56,412
+Were their forefathers
+given a chance to prepare
+
+166
+00:09:56,446 --> 00:09:58,647
+when they were plucked
+from the Dark Continent
+
+167
+00:09:58,681 --> 00:10:00,651
+and introduced to these shores?
+
+168
+00:10:02,121 --> 00:10:06,025
+Sir, I have known some
+of them all my life and...
+
+169
+00:10:06,060 --> 00:10:07,893
+Slavery is a sin,
+
+170
+00:10:07,927 --> 00:10:10,926
+<i>which is why it has just been
+legally abolished in England</i>
+
+171
+00:10:10,960 --> 00:10:13,595
+and, I expect, soon
+throughout the Crown Colonies.
+
+172
+00:10:13,630 --> 00:10:17,400
+<i>The Dunmore Proclamation will be upheld.</i>
+
+173
+00:10:19,001 --> 00:10:21,602
+The able men will go to New
+York and join the war effort,
+
+174
+00:10:21,636 --> 00:10:24,105
+<i>and as for the women, I've already arranged</i>
+
+175
+00:10:24,139 --> 00:10:26,538
+a perfect opportunity for your housemaid.
+
+176
+00:10:26,572 --> 00:10:27,873
+It's, uh...
+
+177
+00:10:27,907 --> 00:10:31,413
+uh, Abigail, is it?
+
+178
+00:10:33,115 --> 00:10:36,214
+All right.
+
+179
+00:10:45,723 --> 00:10:47,291
+It was your father's.
+
+180
+00:10:50,394 --> 00:10:53,028
+He'd have been so proud that you can read.
+
+181
+00:10:53,062 --> 00:10:55,432
+- It's mine to keep?
+- (Laughs)
+
+182
+00:10:55,466 --> 00:10:56,868
+<i>(door opens)</i>
+
+183
+00:10:56,902 --> 00:10:59,537
+<i>Jordan: Hey.</i>
+
+184
+00:10:59,571 --> 00:11:01,205
+You hungry, big man?
+
+185
+00:11:01,239 --> 00:11:03,905
+Eh? You smell that balangu?
+
+186
+00:11:03,940 --> 00:11:07,210
+You smell that balangu, huh?
+
+187
+00:11:07,245 --> 00:11:09,481
+You best hurry before the whole thing gone.
+
+188
+00:11:09,515 --> 00:11:11,249
+Go on.
+
+189
+00:11:13,286 --> 00:11:16,024
+How often must I tell you
+not to push into my place?
+
+190
+00:11:16,058 --> 00:11:20,326
+You only got about seven days
+to see what you're missing.
+
+191
+00:11:20,360 --> 00:11:23,563
+Once New Year come, I
+get them papers, I gone.
+
+192
+00:11:23,597 --> 00:11:26,098
+Then I wish you safe passage.
+
+193
+00:11:28,035 --> 00:11:30,305
+Maybe you're not ready to
+walk free in this world.
+
+194
+00:11:30,340 --> 00:11:32,710
+(scoffs) 'Cause I won't lay down with you?
+
+195
+00:11:32,744 --> 00:11:36,178
+That's a different kind of walk.
+
+196
+00:11:36,212 --> 00:11:39,518
+City walk. Eyes forward, not to the ground.
+
+197
+00:11:39,552 --> 00:11:42,352
+Oh, you know that walk?
+
+198
+00:11:42,386 --> 00:11:44,818
+I was born free.
+
+199
+00:11:44,852 --> 00:11:47,756
+Then walk free with one of your gals.
+
+200
+00:11:49,694 --> 00:11:51,794
+They ain't important.
+
+201
+00:11:52,962 --> 00:11:54,662
+Not like you.
+
+202
+00:11:54,697 --> 00:11:57,366
+<i>Abigail: Why am I so
+important all of a sudden?</i>
+
+203
+00:11:57,400 --> 00:12:00,339
+Well, you can read, can't you?
+
+204
+00:12:02,178 --> 00:12:04,282
+<i>Jordan: Don't be afraid, Abby.</i>
+
+205
+00:12:04,316 --> 00:12:06,951
+I know your secret since way back.
+
+206
+00:12:10,722 --> 00:12:15,024
+Look, if you treat me right,
+maybe I'll stick with ya.
+
+207
+00:12:16,159 --> 00:12:18,795
+I'll protect you and your boy.
+
+208
+00:12:18,830 --> 00:12:20,697
+You gonna need a strong man.
+
+209
+00:12:20,731 --> 00:12:22,863
+My son is all I need.
+
+210
+00:12:27,269 --> 00:12:29,672
+You think you better than me?
+
+211
+00:12:29,707 --> 00:12:33,408
+- I never said...
+- Gals like you, always cold.
+
+212
+00:12:33,442 --> 00:12:35,141
+But watch.
+
+213
+00:12:35,176 --> 00:12:38,476
+You gon' end with nothing.
+
+214
+00:12:47,585 --> 00:12:49,118
+<i>Soldier: Major Rogers has come to wish you</i>
+
+215
+00:12:49,152 --> 00:12:50,651
+<i>a happy Christmastide, sir.</i>
+
+216
+00:12:50,685 --> 00:12:53,452
+Lieutenant-Colonel
+Commandant is his title.
+
+217
+00:12:53,487 --> 00:12:55,189
+He hasn't been Major Rogers
+
+218
+00:12:55,223 --> 00:12:57,627
+since he fought the French
+and their native allies.
+
+219
+00:12:57,661 --> 00:12:59,829
+Ah, so this is where your commander
+
+220
+00:12:59,863 --> 00:13:01,998
+keeps all his favorite boys.
+
+221
+00:13:02,032 --> 00:13:03,432
+<i>Not bad, Johnny.</i>
+
+222
+00:13:03,466 --> 00:13:05,334
+Did you follow me here?
+
+223
+00:13:05,368 --> 00:13:08,373
+It wasn't hard to track ya.
+Us Rangers always get our man.
+
+224
+00:13:08,408 --> 00:13:11,777
+Oh, so you found that dragoon
+you've been hunting at long last?
+
+225
+00:13:11,812 --> 00:13:14,282
+<i>Oh, no, I recall.</i>
+
+226
+00:13:14,316 --> 00:13:16,455
+You came back from Long
+Island empty-handed.
+
+227
+00:13:16,490 --> 00:13:19,459
+And the bird sings to me that
+you came back from New Jersey
+
+228
+00:13:19,494 --> 00:13:22,362
+<i>with a captured general in tow.</i>
+
+229
+00:13:22,396 --> 00:13:25,300
+I should wish to talk with your prize.
+
+230
+00:13:25,334 --> 00:13:26,936
+Where is he?
+
+231
+00:13:30,805 --> 00:13:34,178
+The birds tell me your Rangers
+have been foraging for purpose,
+
+232
+00:13:34,212 --> 00:13:38,449
+offering to take any task for any sum.
+
+233
+00:13:39,518 --> 00:13:41,220
+For the Crown.
+
+234
+00:13:41,254 --> 00:13:44,187
+Just because you lot
+plan to slumber all winter
+
+235
+00:13:44,222 --> 00:13:46,088
+doesn't mean Georgie does.
+
+236
+00:13:46,122 --> 00:13:47,858
+Have you intelligence to share?
+
+237
+00:13:47,892 --> 00:13:50,394
+I have experience.
+
+238
+00:13:50,428 --> 00:13:52,759
+Georgie fought alongside me in the wild,
+
+239
+00:13:52,793 --> 00:13:56,761
+not in the dainty fields of
+Europe where rules matter.
+
+240
+00:13:56,796 --> 00:14:00,429
+Still, when the bounties
+of his men expire next week,
+
+241
+00:14:00,463 --> 00:14:03,665
+he shall be short precisely one army,
+
+242
+00:14:03,700 --> 00:14:08,736
+and General Howe will no longer
+have use for the hounds of war.
+
+243
+00:14:12,946 --> 00:14:15,580
+Tell me, Robert, what do you intend to do
+
+244
+00:14:15,614 --> 00:14:18,016
+when this war is officially over?
+
+245
+00:14:18,050 --> 00:14:20,752
+Return to settle your estate?
+
+246
+00:14:20,787 --> 00:14:22,489
+Your debts?
+
+247
+00:14:25,694 --> 00:14:29,162
+Apologies, sir. Your presence
+is requested by General...
+
+248
+00:14:33,502 --> 00:14:37,174
+Oh, I aim to settle all accounts, boy.
+
+249
+00:14:39,776 --> 00:14:43,681
+Frederick, please show my guest out.
+
+250
+00:14:43,715 --> 00:14:45,116
+<i>Frederick: Yes, sir.</i>
+
+251
+00:14:45,150 --> 00:14:48,183
+Happy New Year, Major.
+
+252
+00:14:50,386 --> 00:14:52,021
+To peace!
+
+253
+00:14:56,860 --> 00:14:58,662
+<i>Major: Tallmadge, on your feet.</i>
+
+254
+00:14:58,697 --> 00:14:59,931
+Sir.
+
+255
+00:14:59,965 --> 00:15:01,767
+Muster out and collect your supplies.
+
+256
+00:15:01,801 --> 00:15:04,203
+Every man gets three days' cooked rations,
+
+257
+00:15:04,237 --> 00:15:06,638
+40 rounds of ammunition,
+fresh flints, and a blanket.
+
+258
+00:15:06,672 --> 00:15:09,643
+- For what, sir?
+- Secret mission, they say.
+
+259
+00:15:09,678 --> 00:15:12,211
+Password challenge is "victory."
+
+260
+00:15:12,246 --> 00:15:14,379
+And the answer, sir?
+
+261
+00:15:14,413 --> 00:15:16,215
+"Or death."
+
+262
+00:15:31,197 --> 00:15:34,433
+- Caleb!
+- What?
+
+263
+00:15:34,467 --> 00:15:36,200
+You know what this is all about?
+
+264
+00:15:36,235 --> 00:15:39,403
+Me? No. Thought you would.
+
+265
+00:15:39,437 --> 00:15:42,743
+All they told me is we're
+crossing the Delaware.
+
+266
+00:15:42,777 --> 00:15:45,344
+Great.
+
+267
+00:15:45,379 --> 00:15:47,345
+They told us just to follow you.
+
+268
+00:15:47,380 --> 00:15:50,147
+<i>Huh?</i>
+
+269
+00:15:53,082 --> 00:15:56,153
+Well, you're the whaler.
+
+270
+00:15:56,187 --> 00:15:59,355
+As long as we're crossing, he's captain.
+
+271
+00:15:59,389 --> 00:16:00,953
+That's me.
+
+272
+00:16:00,988 --> 00:16:05,925
+So, you, you, and you grab the push-poles.
+
+273
+00:16:05,959 --> 00:16:08,394
+Right, push off!
+
+274
+00:16:11,030 --> 00:16:13,032
+(boat creaking)
+
+275
+00:16:21,043 --> 00:16:24,013
+Caleb: I mean, you ask me,
+this is just a glorified scout.
+
+276
+00:16:24,048 --> 00:16:26,981
+Secret password, "Victory or death."
+
+277
+00:16:27,015 --> 00:16:29,183
+No, Washington's just trying to make us
+
+278
+00:16:29,218 --> 00:16:31,420
+feel like we're still in the fight.
+
+279
+00:16:31,454 --> 00:16:33,926
+Caleb, look.
+
+280
+00:16:40,765 --> 00:16:42,468
+Jesus.
+
+281
+00:16:42,502 --> 00:16:45,439
+This is no scout.
+
+282
+00:17:06,120 --> 00:17:07,987
+I'm sorry.
+
+283
+00:17:08,021 --> 00:17:09,423
+I was being silly.
+
+284
+00:17:09,457 --> 00:17:12,190
+No.
+
+285
+00:17:12,225 --> 00:17:14,023
+Do you like it?
+
+286
+00:17:14,057 --> 00:17:17,026
+It's beautiful.
+
+287
+00:17:17,060 --> 00:17:18,925
+It's yours.
+
+288
+00:17:18,959 --> 00:17:22,628
+- I insist.
+- (Laughs) I couldn't...
+
+289
+00:17:22,662 --> 00:17:26,300
+Please, take it.
+
+290
+00:17:31,973 --> 00:17:35,108
+I know how impossible
+this all must be for you.
+
+291
+00:17:35,143 --> 00:17:38,142
+I want you to know that I am here
+
+292
+00:17:38,176 --> 00:17:40,376
+and I will continue working for
+you in this difficult time...
+
+293
+00:17:40,411 --> 00:17:42,047
+- Abigail...
+- ... for whatever you can pay.
+
+294
+00:17:42,081 --> 00:17:44,282
+We will survive this.
+
+295
+00:17:45,649 --> 00:17:47,184
+Even when I'm free, we
+shall still be friends.
+
+296
+00:17:47,218 --> 00:17:48,853
+You're not going to be free.
+
+297
+00:17:50,656 --> 00:17:53,489
+Major Hewlett is hell-bent
+on making a gift of you
+
+298
+00:17:53,524 --> 00:17:55,624
+to a British officer in New York.
+
+299
+00:17:57,627 --> 00:18:01,128
+I am horrified by this decision.
+
+300
+00:18:01,163 --> 00:18:05,500
+<i>I protested as vigorously as I could.</i>
+
+301
+00:18:05,535 --> 00:18:09,236
+<i>But my possessions and any
+say I might have had are gone.</i>
+
+302
+00:18:09,271 --> 00:18:10,738
+I'm as powerless in this as you.
+
+303
+00:18:10,773 --> 00:18:14,177
+No, your possessions are being taken.
+
+304
+00:18:14,211 --> 00:18:16,415
+You yourself are not.
+
+305
+00:18:16,449 --> 00:18:19,386
+I don't know what to do.
+
+306
+00:18:19,420 --> 00:18:21,054
+Tell me what to do.
+
+307
+00:18:23,592 --> 00:18:25,661
+Don't let them do this to me.
+
+308
+00:18:25,696 --> 00:18:28,999
+- I pleaded with them, Abby.
+- Plead with them again.
+
+309
+00:18:29,034 --> 00:18:31,903
+Annie, please. I'm begging you.
+
+310
+00:18:33,039 --> 00:18:35,538
+If I must go to New York, I will go.
+
+311
+00:18:35,572 --> 00:18:37,508
+But let my son come with me.
+
+312
+00:18:37,542 --> 00:18:39,611
+He can work. He can earn his keep.
+
+313
+00:18:39,646 --> 00:18:43,178
+I asked, Abby. I begged.
+
+314
+00:18:45,381 --> 00:18:47,048
+I'm so sorry.
+
+315
+00:18:49,649 --> 00:18:52,951
+(sobbing)
+
+316
+00:19:05,325 --> 00:19:07,060
+(whispering) Anna.
+
+317
+00:19:10,266 --> 00:19:12,367
+Anna!
+
+318
+00:19:18,575 --> 00:19:20,311
+- Anna, wait! I need to talk to you.
+- No!
+
+319
+00:19:20,317 --> 00:19:21,317
+I need to talk to you.
+
+320
+00:19:21,446 --> 00:19:23,914
+- (sobbing)
+- What's happened?
+
+321
+00:19:23,948 --> 00:19:26,984
+- They're taking everything.
+- What?
+
+322
+00:19:27,018 --> 00:19:29,786
+Everything. (continues sobbing)
+
+323
+00:19:31,021 --> 00:19:34,089
+- Is it the attainder?
+- (Sniffles)
+
+324
+00:19:34,123 --> 00:19:35,590
+From my father?
+
+325
+00:19:38,463 --> 00:19:41,396
+Look, we shouldn't waste any more time.
+
+326
+00:19:41,430 --> 00:19:43,663
+I need you to do something for me.
+
+327
+00:19:43,697 --> 00:19:45,598
+I need you to hang a black petticoat.
+
+328
+00:19:46,870 --> 00:19:48,238
+Why?
+
+329
+00:19:50,072 --> 00:19:52,438
+The British are recalling one
+of their most important men,
+
+330
+00:19:52,472 --> 00:19:54,640
+General Cornwallis, back to London.
+
+331
+00:19:54,675 --> 00:19:58,213
+Look, I copied this straight
+from Hewlett's correspondence.
+
+332
+00:19:58,248 --> 00:20:00,280
+We need to get it to Caleb
+and then straight on to Ben.
+
+333
+00:20:00,315 --> 00:20:01,882
+It's too late.
+
+334
+00:20:01,916 --> 00:20:04,820
+- Listen, Anna...
+- It's over.
+
+335
+00:20:06,792 --> 00:20:09,396
+Washington's finished, everyone says so.
+
+336
+00:20:09,431 --> 00:20:11,797
+That's why Cornwallis is leaving
+
+337
+00:20:11,832 --> 00:20:14,267
+and why this intelligence, as you call it,
+
+338
+00:20:14,301 --> 00:20:16,471
+can be gotten in any local gazette.
+
+339
+00:20:18,006 --> 00:20:20,972
+- Anna.
+- Now, go before somebody sees you.
+
+340
+00:20:21,006 --> 00:20:22,774
+Anna, wait.
+
+341
+00:20:22,809 --> 00:20:25,046
+You once said to me,
+"What are you waiting for?"
+
+342
+00:20:25,080 --> 00:20:27,049
+Well, I'm here.
+
+343
+00:20:27,084 --> 00:20:29,184
+I'm trying to fight back.
+I'm trying to change things.
+
+344
+00:20:29,218 --> 00:20:31,781
+Things have changed, Abe.
+
+345
+00:20:37,124 --> 00:20:39,791
+It's time for me to leave this place.
+
+346
+00:20:39,825 --> 00:20:43,329
+No, you can't go.
+
+347
+00:20:43,363 --> 00:20:45,364
+What's left here for me?
+
+348
+00:20:50,234 --> 00:20:52,501
+You have a family,
+
+349
+00:20:52,535 --> 00:20:56,002
+a wife and a child.
+
+350
+00:20:56,970 --> 00:20:59,573
+I have a husband in prison.
+
+351
+00:21:01,773 --> 00:21:03,639
+There's nothing you
+
+352
+00:21:03,674 --> 00:21:06,542
+or Ben Tallmadge can do about that.
+
+353
+00:21:06,577 --> 00:21:09,178
+Anna.
+
+354
+00:21:15,186 --> 00:21:17,856
+What is it you...  you sailors say?
+
+355
+00:21:17,890 --> 00:21:20,323
+"Fair weather brings cloudy weather"?
+
+356
+00:21:20,357 --> 00:21:22,256
+Maybe this time it'll be the reverse.
+
+357
+00:21:22,291 --> 00:21:25,996
+Or maybe the fog will lift
+and there'll just be more fog.
+
+358
+00:21:27,565 --> 00:21:28,999
+We're here.
+
+359
+00:21:29,033 --> 00:21:32,502
+All right, on your feet, men.
+
+360
+00:21:32,537 --> 00:21:34,738
+<i>Everyone, check your flints.</i>
+
+361
+00:21:37,042 --> 00:21:39,945
+Move back, you're tipping her.
+
+362
+00:21:39,979 --> 00:21:41,380
+Watch those arms. Grab that swivel gun!
+
+363
+00:21:41,414 --> 00:21:43,850
+Ben, no! Ben!
+
+364
+00:21:49,957 --> 00:21:51,791
+Pull him!
+
+365
+00:21:56,398 --> 00:21:59,100
+All right? Hey, wake up!
+
+366
+00:21:59,135 --> 00:22:02,169
+How's that fire coming on? Come here, you.
+
+367
+00:22:03,837 --> 00:22:05,672
+You're not going on me
+like this, you dumb bastard.
+
+368
+00:22:05,706 --> 00:22:07,841
+You hear me? You stay awake, all right?
+
+369
+00:22:07,875 --> 00:22:09,808
+(echoing) Come on!
+
+370
+00:22:09,842 --> 00:22:11,908
+You look at me!
+
+371
+00:22:11,942 --> 00:22:14,141
+<i>Caleb: Know why you can't die?</i>
+
+372
+00:22:14,175 --> 00:22:15,741
+<i>You're still a virgin.</i>
+
+373
+00:22:15,775 --> 00:22:19,444
+See, all you ever done is box the Jesuit.
+
+374
+00:22:19,479 --> 00:22:21,947
+I'm surprised you're not blind.
+
+375
+00:22:21,982 --> 00:22:23,949
+Now, the man upstairs, He don't take kindly
+
+376
+00:22:23,983 --> 00:22:26,217
+to virgins over the age of 20.
+
+377
+00:22:26,251 --> 00:22:28,817
+Sees it as a waste of His good works.
+
+378
+00:22:32,954 --> 00:22:35,255
+(coughing)
+
+379
+00:22:35,289 --> 00:22:36,790
+<i>(Caleb urinating)</i>
+
+380
+00:22:36,824 --> 00:22:40,698
+Hey, Happy New Year, Tall-boy.
+
+381
+00:22:43,335 --> 00:22:45,169
+How do you feel?
+
+382
+00:22:45,203 --> 00:22:47,972
+(groans)
+
+383
+00:22:50,209 --> 00:22:53,009
+Where are the...  where are the men?
+
+384
+00:22:53,043 --> 00:22:56,482
+Right now? Gone.
+
+385
+00:22:58,220 --> 00:23:00,821
+<i>- Gone?
+- Yeah.</i>
+
+386
+00:23:00,855 --> 00:23:03,124
+You've been out for a few days, my friend.
+
+387
+00:23:03,159 --> 00:23:06,363
+- What?
+- The year's over.
+
+388
+00:23:08,231 --> 00:23:09,663
+Bounties are up.
+
+389
+00:23:12,166 --> 00:23:14,570
+I doubt too many are keen to reenlist.
+
+390
+00:23:14,604 --> 00:23:16,406
+Where were they headed?
+
+391
+00:23:18,708 --> 00:23:22,545
+Uh, Trenton.
+
+392
+00:23:22,579 --> 00:23:25,647
+Trenton?
+
+393
+00:23:30,632 --> 00:23:32,530
+<i>- (bottles shatter)
+- Shite!</i>
+
+394
+00:23:32,564 --> 00:23:35,699
+Hey, now, that's on you, not us.
+
+395
+00:23:35,733 --> 00:23:38,268
+It wasn't my fault. The ox moved the cart.
+
+396
+00:23:38,303 --> 00:23:41,208
+You don't look like an ox. Clean it up.
+
+397
+00:23:51,455 --> 00:23:54,221
+<i>(Philomena laughing)</i>
+
+398
+00:24:08,838 --> 00:24:10,738
+I'll show you, Lethario.
+
+399
+00:24:10,772 --> 00:24:13,740
+<i>- (chuckles)
+- (Door opens)</i>
+
+400
+00:24:14,977 --> 00:24:16,915
+Who are you? Identify yourself.
+
+401
+00:24:16,950 --> 00:24:19,787
+I demand to know the
+meaning of this intrusion.
+
+402
+00:24:21,291 --> 00:24:23,294
+Charles?
+
+403
+00:24:24,631 --> 00:24:26,566
+Robert Rogers.
+
+404
+00:24:28,469 --> 00:24:30,838
+- Robert Rogers?
+- In the flesh.
+
+405
+00:24:30,872 --> 00:24:32,508
+(both laugh)
+
+406
+00:24:32,543 --> 00:24:34,612
+I haven't seen you since
+the disaster of Carillon.
+
+407
+00:24:34,646 --> 00:24:37,014
+- Oh!
+- (Both laughing)
+
+408
+00:24:39,050 --> 00:24:42,620
+My apologies, I trust that John told
+you that I'd be joining you, yes?
+
+409
+00:24:42,654 --> 00:24:45,191
+Ah, Miss Endicott,
+
+410
+00:24:45,225 --> 00:24:47,195
+you are in the presence
+
+411
+00:24:47,229 --> 00:24:50,596
+of a true hero of the Seven Years' War.
+
+412
+00:24:50,630 --> 00:24:53,665
+The Indians named him "White Devil."
+
+413
+00:24:53,700 --> 00:24:54,934
+(chuckles)
+
+414
+00:24:54,969 --> 00:24:56,769
+Boiling water, terrible temper.
+
+415
+00:24:56,804 --> 00:24:58,403
+- Oh.
+- Nah.
+
+416
+00:24:58,438 --> 00:25:00,005
+It's a pleasure, Miss Endicott.
+
+417
+00:25:00,039 --> 00:25:03,277
+Major Andre was called
+away by Lord Cornwallis.
+
+418
+00:25:04,579 --> 00:25:06,714
+Yes, that's an unfortunate business.
+
+419
+00:25:06,749 --> 00:25:09,486
+He requested that I ask
+the good general here...
+
+420
+00:25:09,521 --> 00:25:12,290
+- (grunts)
+- ... a few questions in his absence.
+
+421
+00:25:12,324 --> 00:25:14,625
+It's a mere formality. This any good?
+
+422
+00:25:14,660 --> 00:25:16,995
+Oh, very good. Let me get you a chair.
+
+423
+00:25:19,469 --> 00:25:21,336
+<i>Abe: Come on. Come on.</i>
+
+424
+00:25:22,506 --> 00:25:25,711
+- Hey, Mr. Baker.
+- Oh, Mr. Woodhull.
+
+425
+00:25:27,081 --> 00:25:28,481
+What's all this?
+
+426
+00:25:28,515 --> 00:25:31,683
+Oh, just helping Mrs. Woodhull.
+
+427
+00:25:40,325 --> 00:25:42,895
+<i>- (door opens)
+- Abe: Mary?</i>
+
+428
+00:25:45,134 --> 00:25:46,968
+Shh.
+
+429
+00:25:47,002 --> 00:25:48,837
+(quietly) Where are you going?
+
+430
+00:25:48,871 --> 00:25:51,740
+I'm going to your father's
+for the Feast of the Epiphany.
+
+431
+00:25:51,775 --> 00:25:53,844
+No, no, we're not.
+
+432
+00:25:53,878 --> 00:25:55,647
+- Abraham...
+- Mary, we spoke about this.
+
+433
+00:25:55,682 --> 00:25:58,418
+I've spoken to him. We are not going.
+
+434
+00:25:59,887 --> 00:26:02,257
+Thomas is sick.
+
+435
+00:26:03,662 --> 00:26:05,196
+What?
+
+436
+00:26:05,230 --> 00:26:07,231
+He has the croup.
+
+437
+00:26:07,265 --> 00:26:09,602
+<i>(Thomas coughs)</i>
+
+438
+00:26:09,636 --> 00:26:12,440
+Oh, Sprout.
+
+439
+00:26:12,474 --> 00:26:14,107
+Who told you that?
+
+440
+00:26:14,142 --> 00:26:16,076
+Dr. Mabbs.
+
+441
+00:26:16,111 --> 00:26:18,380
+He was just here.
+
+442
+00:26:18,414 --> 00:26:21,179
+He recommended inhaled steam twice daily
+
+443
+00:26:21,214 --> 00:26:23,783
+<i>and a warm environment
+for the rest of the winter.</i>
+
+444
+00:26:23,816 --> 00:26:27,915
+Whitehall has a hearth in every
+room and excellent servants.
+
+445
+00:26:27,950 --> 00:26:30,384
+I can keep a fire burning
+here night and day.
+
+446
+00:26:30,418 --> 00:26:32,287
+My own brother died of this.
+
+447
+00:26:32,321 --> 00:26:35,021
+I won't risk our son's life.
+
+448
+00:26:46,202 --> 00:26:48,438
+Well, you'll have to keep
+him bundled, then, all right?
+
+449
+00:26:48,472 --> 00:26:50,273
+There's a chill out there.
+
+450
+00:26:51,676 --> 00:26:53,310
+- Come with us.
+- I can't.
+
+451
+00:26:53,345 --> 00:26:55,213
+This is a time to be with family.
+
+452
+00:26:55,247 --> 00:26:57,282
+- Mary, I can't see him.
+- I...
+
+453
+00:26:57,317 --> 00:27:00,419
+I know that you're upset with
+your father, but think of his pain.
+
+454
+00:27:00,454 --> 00:27:03,222
+He made a terrible sacrifice
+for the good of the town.
+
+455
+00:27:03,256 --> 00:27:05,092
+Sacrifice? The man debased himself
+
+456
+00:27:05,126 --> 00:27:06,627
+in front of God and the entire town.
+
+457
+00:27:06,662 --> 00:27:08,362
+I'm not ready to forgive him that
+
+458
+00:27:08,397 --> 00:27:10,530
+and I'm certainly not
+ready to share his table.
+
+459
+00:27:10,564 --> 00:27:13,801
+<i>(Thomas crying)</i>
+
+460
+00:27:16,772 --> 00:27:18,405
+Just go.
+
+461
+00:27:19,908 --> 00:27:21,776
+Go before I change my mind.
+
+462
+00:27:26,848 --> 00:27:30,953
+<i>- (Thomas coughing)
+- (Horse whickers)</i>
+
+463
+00:27:43,501 --> 00:27:45,129
+As you may have heard,
+
+464
+00:27:45,130 --> 00:27:47,596
+you are being sent to New York
+
+465
+00:27:47,631 --> 00:27:51,167
+to join the war effort.
+
+466
+00:27:51,201 --> 00:27:54,638
+There you will be assigned
+to the Black Pioneers
+
+467
+00:27:54,672 --> 00:27:57,041
+and serve under Captain George Martin.
+
+468
+00:27:57,075 --> 00:27:59,308
+<i>At the end of your tours,</i>
+
+469
+00:27:59,343 --> 00:28:01,412
+if you have served diligently,
+
+470
+00:28:01,447 --> 00:28:04,715
+you will receive these signed papers
+
+471
+00:28:04,749 --> 00:28:07,752
+attesting to your freedom.
+
+472
+00:28:07,786 --> 00:28:10,487
+<i>Take heed.</i>
+
+473
+00:28:10,521 --> 00:28:13,990
+If you try to desert your
+ranks or flee your duty,
+
+474
+00:28:14,024 --> 00:28:18,663
+your freedom will be rescinded permanently.
+
+475
+00:28:27,734 --> 00:28:29,934
+Don't take God out of your thoughts...
+
+476
+00:28:29,968 --> 00:28:33,302
+(quietly) ... or let
+anyone know you can read.
+
+477
+00:28:34,404 --> 00:28:36,805
+Yes'm.
+
+478
+00:28:36,840 --> 00:28:39,008
+- Mama, please.
+- Hush, now.
+
+479
+00:28:39,877 --> 00:28:41,777
+Baby.
+
+480
+00:28:41,812 --> 00:28:44,113
+Go on, now. Go.
+
+481
+00:28:50,420 --> 00:28:53,926
+Aberdeen will take good care of him.
+
+482
+00:28:53,960 --> 00:28:56,663
+I want you to.
+
+483
+00:28:56,698 --> 00:28:58,663
+That's not possible.
+
+484
+00:29:00,264 --> 00:29:03,197
+I know what you've been
+doing with the laundry.
+
+485
+00:29:06,267 --> 00:29:09,000
+You hang petticoats to
+summon the Brewster boy.
+
+486
+00:29:09,035 --> 00:29:12,269
+The one who's fighting for the rebel side.
+
+487
+00:29:12,303 --> 00:29:15,038
+I saw you in the barn that night...
+
+488
+00:29:15,072 --> 00:29:17,507
+you, Mr. Caleb, and Mr. Abe
+
+489
+00:29:17,542 --> 00:29:20,377
+all together like when you were children.
+
+490
+00:29:20,411 --> 00:29:23,348
+But what you're doing is no childish thing.
+
+491
+00:29:25,151 --> 00:29:27,452
+- Abigail, listen.
+- They say...
+
+492
+00:29:27,486 --> 00:29:30,454
+I'm to work for a Major John Andre.
+
+493
+00:29:31,857 --> 00:29:34,459
+I will cook, clean,
+
+494
+00:29:34,493 --> 00:29:36,994
+come to know his secrets like no other.
+
+495
+00:29:38,532 --> 00:29:40,902
+Protect my boy in Setauket...
+
+496
+00:29:42,138 --> 00:29:45,908
+and I will do your laundry in New York.
+
+497
+00:29:48,044 --> 00:29:49,577
+Do you agree?
+
+498
+00:29:50,479 --> 00:29:52,646
+<i>Soldier: Hurry up now.</i>
+
+499
+00:29:55,882 --> 00:29:57,814
+Nod if you agree.
+
+500
+00:30:05,919 --> 00:30:10,924
+♪ Here's to thee old apple tree ♪
+
+501
+00:30:10,958 --> 00:30:13,724
+♪ Hats full, caps full ♪
+
+502
+00:30:13,759 --> 00:30:15,189
+Huzzah!
+
+503
+00:30:15,224 --> 00:30:17,491
+♪ Good bushel sacks full ♪
+
+504
+00:30:17,525 --> 00:30:21,030
+♪ My pockets, too ♪
+
+505
+00:30:21,064 --> 00:30:23,530
+Come on, boys.
+
+506
+00:30:23,564 --> 00:30:26,034
+Drink up, now. Come on. Come on, boys.
+
+507
+00:30:28,038 --> 00:30:32,141
+♪ Hats full, caps full ♪
+
+508
+00:30:32,176 --> 00:30:34,978
+♪ Bushel sacks full ♪
+
+509
+00:30:35,012 --> 00:30:38,414
+♪ Hats full, caps full...  ♪
+
+510
+00:30:38,448 --> 00:30:40,548
+<i>(knock on door)</i>
+
+511
+00:31:04,941 --> 00:31:06,574
+Can I come in?
+
+512
+00:31:10,144 --> 00:31:11,912
+It's freezing out here.
+
+513
+00:31:13,582 --> 00:31:14,948
+Yeah,
+
+514
+00:31:26,187 --> 00:31:27,954
+What's that?
+
+515
+00:31:29,523 --> 00:31:32,121
+Silverware.
+
+516
+00:31:32,156 --> 00:31:35,559
+I'd rather you have it
+than Hewlett or your father.
+
+517
+00:31:38,893 --> 00:31:41,725
+Mary will appreciate the
+quality, I'm sure. Where is she?
+
+518
+00:31:41,760 --> 00:31:44,730
+Uh, she's gone. So's Thomas.
+
+519
+00:31:44,764 --> 00:31:47,133
+They're both at my father's house.
+
+520
+00:31:49,534 --> 00:31:51,932
+Oh.
+
+521
+00:31:51,966 --> 00:31:53,566
+I see.
+
+522
+00:32:06,308 --> 00:32:08,008
+I've never been inside your home.
+
+523
+00:32:08,042 --> 00:32:10,277
+(chuckles)
+
+524
+00:32:10,311 --> 00:32:13,046
+Well, of course you haven't.
+
+525
+00:32:13,079 --> 00:32:15,645
+That'd be forbidden, wouldn't it?
+
+526
+00:32:17,780 --> 00:32:20,817
+Abraham, what has happened?
+
+527
+00:32:20,852 --> 00:32:24,687
+Doesn't matter. Doesn't matter.
+
+528
+00:32:24,722 --> 00:32:27,726
+Nothing matters, actually,
+
+529
+00:32:27,761 --> 00:32:31,028
+when we take the measure of things,
+as we're meant to do at the New Year.
+
+530
+00:32:31,063 --> 00:32:34,267
+<i>In fact, let's make a toast.</i>
+
+531
+00:32:34,302 --> 00:32:36,771
+<i>- (liquid pouring)
+- To the year ahead.</i>
+
+532
+00:32:36,806 --> 00:32:38,338
+To 1777.
+
+533
+00:32:39,574 --> 00:32:41,376
+How much have you been drinking?
+
+534
+00:32:41,410 --> 00:32:44,012
+Mm, just a little bit. Here, have some.
+
+535
+00:32:44,047 --> 00:32:46,015
+I've come for another reason.
+
+536
+00:32:48,018 --> 00:32:49,684
+What would that be?
+
+537
+00:32:51,586 --> 00:32:53,321
+It's about our signal to Caleb.
+
+538
+00:32:53,355 --> 00:32:55,657
+Oh, I see.
+
+539
+00:32:55,691 --> 00:32:57,727
+Now you wanna hang the
+petticoat, is that it?
+
+540
+00:32:57,761 --> 00:33:00,797
+- No.
+- Well, good, because I burned the letter.
+
+541
+00:33:00,831 --> 00:33:03,668
+You were right. It's useless.
+
+542
+00:33:03,703 --> 00:33:06,473
+So I don't need your laundry line
+
+543
+00:33:06,508 --> 00:33:09,043
+or your sermon or your charity.
+
+544
+00:33:10,079 --> 00:33:11,446
+Shouldn't you be using that
+
+545
+00:33:11,480 --> 00:33:13,882
+to buy your husband's freedom instead?
+
+546
+00:33:16,416 --> 00:33:18,550
+Abigail knows about the petticoats.
+
+547
+00:33:20,588 --> 00:33:22,421
+She saw us meet with Caleb in the barn.
+
+548
+00:33:22,455 --> 00:33:24,153
+She knows he smuggled out a letter
+
+549
+00:33:24,188 --> 00:33:26,055
+and now she's traveling with
+that knowledge to New York.
+
+550
+00:33:26,089 --> 00:33:28,157
+That is what I came here to tell you.
+
+551
+00:33:28,191 --> 00:33:31,490
+But now I see it was a mistake.
+
+552
+00:33:33,892 --> 00:33:35,425
+Wait, Anna, Anna.
+
+553
+00:33:35,459 --> 00:33:37,993
+- Wait, wait, wait.
+- Let me go.
+
+554
+00:33:38,027 --> 00:33:39,626
+Tell me, what did she
+say? Did she mention me?
+
+555
+00:33:39,660 --> 00:33:42,127
+What does it matter?
+Nothing matters, right?
+
+556
+00:33:42,161 --> 00:33:43,995
+I don't even know who you are anymore.
+
+557
+00:33:44,030 --> 00:33:46,966
+Look, everything I do puts
+me right back on my arse.
+
+558
+00:33:47,000 --> 00:33:49,901
+I have no idea if my letter got to Ben
+
+559
+00:33:49,935 --> 00:33:51,201
+or if he got it to Washington
+
+560
+00:33:51,236 --> 00:33:53,704
+or if any of it meant a damn thing.
+
+561
+00:33:53,739 --> 00:33:56,241
+Look, I do want to
+strike against the enemy.
+
+562
+00:33:56,276 --> 00:33:58,044
+That does matter to me.
+
+563
+00:33:58,079 --> 00:34:00,749
+Everything matters, you know that.
+
+564
+00:34:00,783 --> 00:34:03,085
+You know me, Anna.
+
+565
+00:34:05,655 --> 00:34:07,889
+You always have.
+
+566
+00:34:34,789 --> 00:34:36,421
+Oh, God.
+
+567
+00:34:54,508 --> 00:34:56,578
+What are you doing here?
+
+568
+00:34:56,612 --> 00:34:59,145
+I live here.
+
+569
+00:35:09,486 --> 00:35:11,918
+I've had the utmost regard for this family.
+
+570
+00:35:11,953 --> 00:35:14,052
+Beyond the kindness and hospitality,
+
+571
+00:35:14,086 --> 00:35:16,686
+<i>you, Mrs. Woodhull, and little
+Thomas always stood as a symbol</i>
+
+572
+00:35:16,721 --> 00:35:18,687
+<i>of what I came here to fight for.</i>
+
+573
+00:35:21,154 --> 00:35:23,122
+I suggest you join your wife and son
+
+574
+00:35:23,156 --> 00:35:25,426
+at the judge's home for Epiphany.
+
+575
+00:35:31,965 --> 00:35:34,331
+<i>(door closes)</i>
+
+576
+00:35:42,176 --> 00:35:45,512
+I can't make out the uniforms, can you?
+
+577
+00:35:45,546 --> 00:35:47,716
+No.
+
+578
+00:35:47,750 --> 00:35:49,620
+Wait here, I'll see if I can get closer.
+
+579
+00:35:49,655 --> 00:35:51,857
+<i>(guns cock)</i>
+
+580
+00:35:55,362 --> 00:35:57,599
+Victory.
+
+581
+00:35:57,634 --> 00:35:59,801
+Or death.
+
+582
+00:36:03,238 --> 00:36:06,142
+(laughs) You two princesses made it.
+
+583
+00:36:06,177 --> 00:36:08,778
+Yeah. Kneel for your betters, mate.
+
+584
+00:36:08,812 --> 00:36:10,746
+Glad to see you in one piece.
+
+585
+00:36:10,781 --> 00:36:12,083
+Yeah, you, too.
+
+586
+00:36:12,118 --> 00:36:14,188
+He's the one saved your swivel gun.
+
+587
+00:36:14,223 --> 00:36:16,590
+- Boy, did we use it.
+- They never saw us coming.
+
+588
+00:36:16,624 --> 00:36:19,692
+Yeah, surprised those German
+bastards right out of their beds.
+
+589
+00:36:21,764 --> 00:36:23,333
+Come on.
+
+590
+00:36:26,004 --> 00:36:27,703
+(whispers) Christ on a pony.
+
+591
+00:36:27,738 --> 00:36:30,107
+Hessians.
+
+592
+00:36:30,142 --> 00:36:31,176
+In Trenton.
+
+593
+00:36:31,210 --> 00:36:33,346
+Woodhull.
+
+594
+00:36:33,381 --> 00:36:35,713
+(both laughing)
+
+595
+00:36:40,053 --> 00:36:44,054
+Ready for the bad news?
+Bloodybacks ain't too happy.
+
+596
+00:36:44,089 --> 00:36:47,192
+Cornwallis is camped 'cross
+that creek with all his boys.
+
+597
+00:36:47,227 --> 00:36:48,894
+Where are the rest of ours?
+
+598
+00:36:48,928 --> 00:36:52,093
+Washington marched them off
+an hour ago real quiet-like.
+
+599
+00:36:52,127 --> 00:36:54,029
+Took some local cut-through to Princeton.
+
+600
+00:36:54,063 --> 00:36:55,932
+Then what the hell are we still doing here?
+
+601
+00:36:57,601 --> 00:36:59,601
+Look alive, boys.
+
+602
+00:37:06,404 --> 00:37:08,906
+Oh, we're the decoys.
+
+603
+00:37:15,982 --> 00:37:17,883
+General, I recommend we attack now
+
+604
+00:37:17,917 --> 00:37:20,119
+while we still have
+the element of surprise.
+
+605
+00:37:20,154 --> 00:37:24,025
+<i>Cornwallis: Washington's entire
+force is stretched along that bank.</i>
+
+606
+00:37:24,059 --> 00:37:27,462
+To turn his flank in this pitch?
+
+607
+00:37:29,264 --> 00:37:31,632
+Doubtful at best.
+
+608
+00:37:35,607 --> 00:37:39,010
+<i>Andre: It must be two, 3,000 men.</i>
+
+609
+00:37:39,045 --> 00:37:42,948
+- (men shouting)
+- (Pots banging)
+
+610
+00:37:56,578 --> 00:37:59,647
+(laughing)
+
+611
+00:38:01,184 --> 00:38:03,449
+<i>Lee: Major Rogers... </i>
+
+612
+00:38:04,685 --> 00:38:08,121
+I'm afraid we must retire for the evening.
+
+613
+00:38:08,155 --> 00:38:09,555
+Oh, no, no, Charles.
+
+614
+00:38:09,590 --> 00:38:12,391
+You are going to indulge me one more time.
+
+615
+00:38:12,425 --> 00:38:14,526
+- (groans)
+- Hey.
+
+616
+00:38:14,560 --> 00:38:18,462
+You see, Miss Endicott,
+I'm intrigued by legends...
+
+617
+00:38:18,496 --> 00:38:21,598
+- yours, mine, Washington's.
+- Yes.
+
+618
+00:38:21,633 --> 00:38:24,801
+We established our reputations
+
+619
+00:38:24,836 --> 00:38:26,837
+during the Seven Years' War.
+
+620
+00:38:26,871 --> 00:38:28,372
+Mm-hmm.
+
+621
+00:38:28,407 --> 00:38:31,307
+But where we were...
+
+622
+00:38:31,341 --> 00:38:33,439
+sharpened by success,
+
+623
+00:38:33,474 --> 00:38:37,007
+George was forged by failure.
+
+624
+00:38:37,042 --> 00:38:39,275
+Exactly.
+
+625
+00:38:39,309 --> 00:38:42,644
+George Washington is an abysmal tactician.
+
+626
+00:38:42,678 --> 00:38:44,547
+Always has been.
+
+627
+00:38:44,581 --> 00:38:48,514
+He gets more men killed than
+any commander has a right.
+
+628
+00:38:50,482 --> 00:38:53,517
+At least he isn't a traitor like you.
+
+629
+00:38:58,889 --> 00:39:00,657
+I beg your pardon?
+
+630
+00:39:00,691 --> 00:39:03,627
+See, you gave up your men
+
+631
+00:39:03,661 --> 00:39:06,028
+for 30 pieces of silver.
+
+632
+00:39:06,062 --> 00:39:07,829
+Yeah.
+
+633
+00:39:07,864 --> 00:39:10,331
+A Connecticut dragoon unit
+
+634
+00:39:10,365 --> 00:39:13,666
+filled with apple-cheeked young boys
+
+635
+00:39:13,700 --> 00:39:16,536
+<i>fresh from their mothers' bellies,</i>
+
+636
+00:39:16,570 --> 00:39:21,141
+fighting for freedom, fighting for you.
+
+637
+00:39:21,175 --> 00:39:25,377
+And you gave them up to John Andre.
+
+638
+00:39:25,412 --> 00:39:29,514
+And Andre fed them to me.
+
+639
+00:39:32,818 --> 00:39:35,355
+And we slaughtered them
+
+640
+00:39:35,389 --> 00:39:38,355
+like dogs.
+
+641
+00:39:43,493 --> 00:39:45,891
+One of those dragoons got away.
+
+642
+00:39:45,925 --> 00:39:50,027
+You are going to give me his name.
+
+643
+00:39:55,941 --> 00:39:58,674
+Benjamin Tallmadge.
+
+644
+00:39:58,708 --> 00:40:00,141
+"Bonny Portmore" playing
+
+645
+00:40:00,176 --> 00:40:04,551
+<i>♪ Oh, bonny Portmore ♪</i>
+
+646
+00:40:04,585 --> 00:40:08,316
+<i>♪ You shine where you stand...  ♪</i>
+
+647
+00:40:08,350 --> 00:40:11,656
+<i>(soldier shouting marching drills)</i>
+
+648
+00:40:11,690 --> 00:40:15,425
+<i>♪ And the more I think on you ♪</i>
+
+649
+00:40:15,460 --> 00:40:19,370
+<i>♪ The more I think long ♪</i>
+
+650
+00:40:21,573 --> 00:40:25,442
+<i>♪ If I had you now ♪</i>
+
+651
+00:40:25,477 --> 00:40:29,782
+<i>♪ As I had once before ♪</i>
+
+652
+00:40:31,251 --> 00:40:38,092
+<i>♪ All the boys in old England ♪</i>
+
+653
+00:40:38,126 --> 00:40:44,003
+<i>♪ Could not purchase Portmore ♪</i>
+
+654
+00:40:46,607 --> 00:40:51,348
+<i>♪ Oh, bonny Portmore ♪</i>
+
+655
+00:40:51,382 --> 00:40:55,452
+<i>♪ I'm sorry to see ♪</i>
+
+656
+00:40:57,723 --> 00:41:02,496
+<i>♪ The woeful destruction ♪</i>
+
+657
+00:41:02,531 --> 00:41:08,393
+<i>♪ Of your ornament tree ♪</i>
+
+658
+00:41:08,427 --> 00:41:11,830
+<i>♪ It sat on your shore ♪</i>
+
+659
+00:41:11,864 --> 00:41:17,166
+<i>♪ For many's a long day ♪</i>
+
+660
+00:41:17,201 --> 00:41:24,136
+<i>♪ Till the long boats of Antrim ♪</i>
+
+661
+00:41:24,171 --> 00:41:30,144
+<i>♪ Came to float it away ♪</i>
+
+662
+00:41:32,616 --> 00:41:37,285
+<i>♪ Oh, bonny Portmore ♪</i>
+
+663
+00:41:37,320 --> 00:41:42,956
+<i>♪ You shine where you stand ♪</i>
+
+664
+00:41:42,990 --> 00:41:46,792
+<i>♪ And if I had you now ♪</i>
+
+665
+00:41:46,825 --> 00:41:51,963
+<i>♪ As I had once before ♪</i>
+
+666
+00:41:51,997 --> 00:42:00,972
+<i>♪ All the boys in old England ♪</i>
+
+667
+00:42:01,007 --> 00:42:06,412
+<i>♪ Could not purchase Portmore. ♪</i>
+
+668
+00:42:06,447 --> 00:42:12,419
+(chanting) Trenton,
+Princeton, Jersey's ours again!
+
+669
+00:42:12,453 --> 00:42:15,923
+Trenton, Princeton, Jersey's ours again!
+
+670
+00:42:15,957 --> 00:42:19,093
+Trenton, Princeton, Jersey's ours...
+
+671
+00:42:19,127 --> 00:42:21,830
+(cheering)
+
+672
+00:42:42,220 --> 00:42:45,522
+Now...
+
+673
+00:42:45,557 --> 00:42:50,028
+just who is Abraham Woodhull?
+
+674
+00:42:58,309 --> 00:42:59,113
+Sync & corrections by <font color="#00ccff">mkbu95</font>
+www.addic7ed.com
+

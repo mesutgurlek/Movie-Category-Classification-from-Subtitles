@@ -1,0 +1,3433 @@
+1
+00:01:10,208 --> 00:01:13,252
+<i>Mr. Bond, Mr. Bond,
+I'm so glad I caught you.</i>
+
+2
+00:01:13,336 --> 00:01:16,839
+<i>Your office called. They're sending
+a helicopter to pick you up.</i>
+
+3
+00:01:16,923 --> 00:01:18,674
+<i>Some sort of emergency.</i>
+
+4
+00:01:18,758 --> 00:01:20,843
+<i>It usually is.
+Thank you.</i>
+
+5
+00:02:44,051 --> 00:02:46,470
+<i>Good afternoon, Mr. Bond.</i>
+
+6
+00:02:46,512 --> 00:02:49,265
+<i>Don't concern yourself
+with the pilot.</i>
+
+7
+00:02:49,348 --> 00:02:51,475
+<i>One of my less useful people.</i>
+
+8
+00:02:57,064 --> 00:03:00,568
+<i>You are now flying
+Remote Control Airways.</i>
+
+9
+00:03:29,388 --> 00:03:32,808
+<i>Think twice, 007.
+It's a long way down.</i>
+
+10
+00:04:08,594 --> 00:04:12,807
+<i>I've looked forward
+to this moment, Mr. Bond.</i>
+
+11
+00:04:12,890 --> 00:04:15,977
+<i>I intend to enjoy it
+to the full.</i>
+
+12
+00:04:53,347 --> 00:04:55,850
+<i>Really, have you no respect
+for the dead?</i>
+
+13
+00:04:58,811 --> 00:05:01,105
+<i>Good-bye, Mr. Bond.</i>
+
+14
+00:05:01,147 --> 00:05:04,233
+<i>I trust you had a pleasant...
+fright.</i>
+
+15
+00:05:22,793 --> 00:05:26,088
+<i>You are fading
+from my picture, Mr. Bond.</i>
+
+16
+00:05:26,172 --> 00:05:30,426
+<i>But the end
+cannot be far away.</i>
+
+17
+00:06:02,708 --> 00:06:06,254
+<i>Mr. Bond! Mr. Bond!</i>
+
+18
+00:06:09,382 --> 00:06:11,676
+<i>We can do a deal!</i>
+
+19
+00:06:11,759 --> 00:06:16,639
+<i>I'll buy you a delicatessen
+in stainless steel.</i>
+
+20
+00:06:17,932 --> 00:06:19,350
+<i>Please!</i>
+
+21
+00:06:19,433 --> 00:06:21,269
+<i>All right, keep your hair on.</i>
+
+22
+00:06:21,352 --> 00:06:24,480
+<i>Put me down!
+Put me down!</i>
+
+23
+00:06:24,564 --> 00:06:26,983
+<i>Oh, you want to get off?</i>
+
+24
+00:06:29,569 --> 00:06:31,529
+<i>Mr. Bond!</i>
+
+25
+00:06:55,970 --> 00:06:58,598
+<i>For your eyes only</i>
+
+26
+00:06:58,681 --> 00:07:02,935
+<i>Can see me through the night</i>
+
+27
+00:07:04,353 --> 00:07:07,356
+<i>For your eyes only</i>
+
+28
+00:07:07,440 --> 00:07:10,860
+<i>I never need to hide</i>
+
+29
+00:07:12,945 --> 00:07:15,907
+<i>You can see so much in me</i>
+
+30
+00:07:15,948 --> 00:07:19,118
+<i>So much in me that's new</i>
+
+31
+00:07:21,370 --> 00:07:27,293
+<i>I never felt till I looked at you</i>
+
+32
+00:07:28,336 --> 00:07:32,798
+<i>For your eyes only</i>
+
+33
+00:07:32,840 --> 00:07:35,635
+<i>Only for you</i>
+
+34
+00:07:35,718 --> 00:07:37,470
+<i>You'll see what no one else can see</i>
+
+35
+00:07:38,721 --> 00:07:40,473
+<i>Now I'm breakin' free</i>
+
+36
+00:07:40,556 --> 00:07:43,476
+<i>For your eyes only</i>
+
+37
+00:07:44,769 --> 00:07:47,021
+<i>Only for you</i>
+
+38
+00:07:47,104 --> 00:07:50,149
+<i>The love I know you need in me</i>
+
+39
+00:07:50,233 --> 00:07:53,110
+<i>The fantasy you freed in me</i>
+
+40
+00:07:53,152 --> 00:07:57,114
+<i>Only for you</i>
+
+41
+00:08:09,669 --> 00:08:12,755
+<i>For your eyes only</i>
+
+42
+00:08:12,838 --> 00:08:15,883
+<i>The nights are never cold</i>
+
+43
+00:08:18,177 --> 00:08:20,972
+<i>You really know me</i>
+
+44
+00:08:21,055 --> 00:08:24,517
+<i>That's all I need to know</i>
+
+45
+00:08:26,936 --> 00:08:29,564
+<i>Maybe I'm an open book</i>
+
+46
+00:08:29,647 --> 00:08:33,067
+<i>Because I know you're mine</i>
+
+47
+00:08:35,278 --> 00:08:41,200
+<i>But you won't need
+to read between the lines</i>
+
+48
+00:08:42,702 --> 00:08:46,831
+<i>For your eyes only</i>
+
+49
+00:08:46,873 --> 00:08:49,500
+<i>Only for you</i>
+
+50
+00:08:49,542 --> 00:08:51,419
+<i>You'll see what no one else can see
+'cause now I'm breakin' free</i>
+
+51
+00:08:54,338 --> 00:08:58,175
+<i>For your eyes only</i>
+
+52
+00:08:58,217 --> 00:09:00,845
+<i>Only for you</i>
+
+53
+00:09:00,887 --> 00:09:04,098
+<i>The passions that collide in me</i>
+
+54
+00:09:04,181 --> 00:09:06,893
+<i>The wild, abandoned side of me</i>
+
+55
+00:09:06,976 --> 00:09:10,980
+<i>Only for you</i>
+
+56
+00:09:11,063 --> 00:09:16,944
+<i>For your eyes only</i>
+
+57
+00:10:21,926 --> 00:10:24,011
+<i>Afternoon.
+How's it looking topside?</i>
+
+58
+00:10:24,095 --> 00:10:27,014
+<i>Beautiful day.
+Just bringing the nets in.</i>
+
+59
+00:10:27,098 --> 00:10:29,016
+<i>Fish for supper again.</i>
+
+60
+00:10:39,777 --> 00:10:43,406
+<i>Decode of Russian satellite data, sir,
+on British and American ship positions.</i>
+
+61
+00:10:43,447 --> 00:10:45,950
+<i>- Verify and advise Admiralty.
+- Yes, sir.</i>
+
+62
+00:10:48,369 --> 00:10:50,788
+<i>- Afternoon, sir.
+- Oh, hello, Mac.</i>
+
+63
+00:10:52,415 --> 00:10:54,333
+<i>My watch.</i>
+
+64
+00:11:38,544 --> 00:11:41,005
+<i>Where the hell
+did that come from?</i>
+
+65
+00:11:45,927 --> 00:11:49,138
+<i>- What the devil's going on here?
+- An unidentified object closing fast.</i>
+
+66
+00:12:06,197 --> 00:12:09,033
+<i>Destruct ATAC system.</i>
+
+67
+00:12:48,906 --> 00:12:51,701
+<i>- Yes?
+- First Sea Lord and Vice Admiral, sir.</i>
+
+68
+00:12:51,742 --> 00:12:53,327
+<i>Send them in.</i>
+
+69
+00:12:58,583 --> 00:13:00,042
+<i>Shocking news, Minister.</i>
+
+70
+00:13:00,126 --> 00:13:03,671
+<i>I'm afraid we've lost our electronic
+surveillance ship, the St. Georges.</i>
+
+71
+00:13:03,754 --> 00:13:06,007
+<i>We had a routine message
+at 1600 hours yesterday...</i>
+
+72
+00:13:06,924 --> 00:13:08,634
+<i>then nothing.</i>
+
+73
+00:13:08,718 --> 00:13:10,511
+<i>We sighted floating debris
+this morning.</i>
+
+74
+00:13:10,595 --> 00:13:14,182
+<i>My God, Jack.
+How deep is the water there?</i>
+
+75
+00:13:14,265 --> 00:13:17,226
+<i>Not deep enough, I'm afraid.</i>
+
+76
+00:13:20,271 --> 00:13:23,065
+<i>Yes, Comrade Secretary.
+Off Albania.</i>
+
+77
+00:13:23,149 --> 00:13:27,695
+<i>The suspected British spy ship
+which we have been monitoring.</i>
+
+78
+00:13:27,778 --> 00:13:31,115
+<i>It suggests that there is a chance
+of obtaining...</i>
+
+79
+00:13:31,157 --> 00:13:33,117
+<i>the ATAC transmitter.</i>
+
+80
+00:13:35,077 --> 00:13:38,581
+<i>Oh, of course, comrade.
+There will be no direct involvement...</i>
+
+81
+00:13:38,664 --> 00:13:42,084
+<i>but if it comes on the market,
+we should not lose...</i>
+
+82
+00:13:42,168 --> 00:13:44,587
+<i>such a remarkable opportunity.</i>
+
+83
+00:13:46,797 --> 00:13:51,260
+<i>With that in mind, I've already
+contacted our usual friend in Greece.</i>
+
+84
+00:14:41,185 --> 00:14:43,312
+<i>Down you go. Go on.</i>
+
+85
+00:14:43,396 --> 00:14:45,815
+<i>Down you go.</i>
+
+86
+00:14:51,863 --> 00:14:53,823
+<i>Give us a kiss.
+Give us a kiss.</i>
+
+87
+00:14:53,865 --> 00:14:56,617
+<i>I'll give you a nut.
+Here you are. Go on.</i>
+
+88
+00:15:01,205 --> 00:15:02,957
+<i>Come on.</i>
+
+89
+00:15:04,041 --> 00:15:07,169
+<i>- Your packages, senorita.
+- Oh, thank you.</i>
+
+90
+00:15:12,091 --> 00:15:13,551
+<i>Melina!</i>
+
+91
+00:15:30,484 --> 00:15:32,820
+<i>- Thank you, darling.
+- Hello, Daddy.</i>
+
+92
+00:15:34,405 --> 00:15:36,199
+<i>Welcome home, Melina, my darling.</i>
+
+93
+00:15:36,240 --> 00:15:38,242
+<i>- You look beautiful.
+- Thank you.</i>
+
+94
+00:15:38,326 --> 00:15:41,245
+<i>Your call from Athens
+was such a pleasant surprise.</i>
+
+95
+00:15:41,287 --> 00:15:44,248
+<i>I was lucky to find you.
+You left Crete so suddenly.</i>
+
+96
+00:15:44,332 --> 00:15:47,919
+<i>Ah, yes, I wanted to come back here
+and start work on the temple again.</i>
+
+97
+00:15:48,002 --> 00:15:51,255
+<i>- You between jobs?
+- Only for a few days.</i>
+
+98
+00:15:51,297 --> 00:15:55,468
+<i>- I'll lend a hand if you want.
+- Darling, it's beautiful. Thank you.</i>
+
+99
+00:15:55,551 --> 00:15:58,554
+<i>That's for you,
+and pistachios for Max.</i>
+
+100
+00:17:18,759 --> 00:17:19,802
+<i>James.</i>
+
+101
+00:17:19,844 --> 00:17:23,097
+<i>Moneypenny,
+a feast for my eyes.</i>
+
+102
+00:17:23,181 --> 00:17:25,099
+<i>What about the rest of you?</i>
+
+103
+00:17:25,183 --> 00:17:27,643
+<i>Well, I was going to get
+around to that.</i>
+
+104
+00:17:27,685 --> 00:17:30,479
+<i>You'd better go in.
+M's on leave...</i>
+
+105
+00:17:30,521 --> 00:17:32,648
+<i>and the minister's arrived here
+with the chief of staff...</i>
+
+106
+00:17:32,690 --> 00:17:34,859
+<i>and wants to see you immediately.</i>
+
+107
+00:17:34,942 --> 00:17:37,486
+<i>- I'll be right back.
+- I can hardly wait.</i>
+
+108
+00:17:37,570 --> 00:17:40,907
+<i>Oh, haven't you forgotten something?</i>
+
+109
+00:17:40,990 --> 00:17:43,242
+<i>Oh. Well, as M's away...</i>
+
+110
+00:17:49,207 --> 00:17:52,084
+<i>Ah, there you are, 007.</i>
+
+111
+00:17:52,168 --> 00:17:54,253
+<i>Minister, Chief of Staff.</i>
+
+112
+00:17:54,337 --> 00:17:56,923
+<i>Are you aware
+of our ATAC system, 007?</i>
+
+113
+00:17:57,006 --> 00:18:00,593
+<i>ATAC, sir? Automatic Targeting
+Attack Communicator.</i>
+
+114
+00:18:00,676 --> 00:18:03,095
+<i>Uses an ultra-low frequency coded
+transmitter...</i>
+
+115
+00:18:03,179 --> 00:18:06,057
+<i>to order our submarines
+to launch ballistic missiles.</i>
+
+116
+00:18:06,140 --> 00:18:09,560
+<i>Five days ago, our spy ship,
+St. Georges was sunk...</i>
+
+117
+00:18:09,602 --> 00:18:11,062
+<i>in the lonian Sea.</i>
+
+118
+00:18:11,145 --> 00:18:13,356
+<i>She was equipped with ATAC.</i>
+
+119
+00:18:13,397 --> 00:18:15,608
+<i>Now, if that transmitter
+were to fall into the wrong hands...</i>
+
+120
+00:18:15,691 --> 00:18:18,569
+<i>it would render our entire
+Polaris fleet useless.</i>
+
+121
+00:18:19,820 --> 00:18:22,573
+<i>- Every order could be countermanded.
+- Worse.</i>
+
+122
+00:18:22,657 --> 00:18:26,369
+<i>Our own submarines could be ordered
+to attack our own cities.</i>
+
+123
+00:18:27,828 --> 00:18:29,872
+<i>Have we begun
+a salvage operation, Minister?</i>
+
+124
+00:18:29,956 --> 00:18:32,917
+<i>An official operation
+was out of the question.</i>
+
+125
+00:18:32,959 --> 00:18:35,419
+<i>The St. Georges was off
+the Albanian coast.</i>
+
+126
+00:18:35,503 --> 00:18:36,921
+<i>We asked Sir Timothy Havelock...</i>
+
+127
+00:18:37,004 --> 00:18:39,549
+<i>the marine archaeologist,
+to secretly locate the wreck.</i>
+
+128
+00:18:39,632 --> 00:18:42,426
+<i>Before he could send in his report,
+he and his wife were killed...</i>
+
+129
+00:18:42,468 --> 00:18:45,555
+<i>by a Cuban hit man,
+Hector Gonzales.</i>
+
+130
+00:18:45,638 --> 00:18:48,641
+<i>The Greek police were able
+to identify Gonzales...</i>
+
+131
+00:18:48,724 --> 00:18:51,936
+<i>from a description given to them
+by Melina, Sir Havelock's daughter.</i>
+
+132
+00:18:53,437 --> 00:18:56,566
+<i>Operation Undertow.
+The information's all here.</i>
+
+133
+00:18:56,607 --> 00:18:59,235
+<i>Now, Gonzales is at a villa
+near Madrid.</i>
+
+134
+00:18:59,318 --> 00:19:01,612
+<i>Isolate him and apply
+the necessary pressure...</i>
+
+135
+00:19:01,654 --> 00:19:04,699
+<i>to find out who hired him.</i>
+
+136
+00:21:34,265 --> 00:21:37,018
+<i>A Walther PPK...</i>
+
+137
+00:21:37,101 --> 00:21:40,521
+<i>standard issue,
+British Secret Service.</i>
+
+138
+00:21:40,605 --> 00:21:42,023
+<i>License to kill.</i>
+
+139
+00:21:44,358 --> 00:21:45,610
+<i>Or be killed.</i>
+
+140
+00:21:45,693 --> 00:21:47,862
+<i>Take him away.</i>
+
+141
+00:23:03,771 --> 00:23:06,107
+<i>Whoever you are, you've outstayed
+your welcome. Come on.</i>
+
+142
+00:23:36,012 --> 00:23:40,183
+<i>- Well, I hope you have a car.
+- This way.</i>
+
+143
+00:23:58,910 --> 00:24:00,369
+<i>Hurry.</i>
+
+144
+00:24:12,131 --> 00:24:15,218
+<i>- Who are you?
+- He killed my parents.</i>
+
+145
+00:24:15,301 --> 00:24:18,846
+<i>The Havelocks?
+I'm sorry.</i>
+
+146
+00:24:25,686 --> 00:24:27,355
+<i>How did you know
+where Gonzales was?</i>
+
+147
+00:24:27,438 --> 00:24:30,775
+<i>Through a detective agency.
+What were you doing there?</i>
+
+148
+00:24:32,777 --> 00:24:35,238
+<i>I'm afraid we're being
+out-horsepowered.</i>
+
+149
+00:24:50,795 --> 00:24:52,129
+<i>Excuse me.</i>
+
+150
+00:25:04,976 --> 00:25:06,602
+<i>Take the low road.</i>
+
+151
+00:25:08,646 --> 00:25:11,065
+<i>Not that low.</i>
+
+152
+00:25:24,370 --> 00:25:26,831
+<i>You don't mind
+if I drive, do you?</i>
+
+153
+00:26:43,574 --> 00:26:46,744
+<i>Go backwards. Forwards.
+Quickly.</i>
+
+154
+00:27:48,472 --> 00:27:51,475
+<i>I love a drive in the country,
+don't you?</i>
+
+155
+00:27:58,399 --> 00:27:59,817
+<i>Hold tight.</i>
+
+156
+00:28:25,384 --> 00:28:28,346
+<i>Oh, by the way, we haven't been
+properly introduced, Melina.</i>
+
+157
+00:28:28,387 --> 00:28:31,933
+<i>My name is Bond, James Bond.</i>
+
+158
+00:28:38,064 --> 00:28:40,525
+<i>Olympic has a flight at 11:00.</i>
+
+159
+00:28:43,653 --> 00:28:46,322
+<i>It should be safe to go
+to the airport now.</i>
+
+160
+00:28:51,661 --> 00:28:55,748
+<i>- Are you all right?
+- I'm fine, really.</i>
+
+161
+00:28:57,208 --> 00:28:59,293
+<i>Are you going back
+to your father's ship?</i>
+
+162
+00:28:59,377 --> 00:29:03,631
+<i>Yes, I'm continuing his work,
+but this business is still unfinished.</i>
+
+163
+00:29:03,714 --> 00:29:06,676
+<i>- What business?
+- The man who paid Gonzales.</i>
+
+164
+00:29:07,969 --> 00:29:10,513
+<i>The Chinese have a saying:</i>
+
+165
+00:29:10,555 --> 00:29:15,518
+<i>"Before setting out on revenge,
+you first dig two graves. "</i>
+
+166
+00:29:15,601 --> 00:29:18,020
+<i>I don't expect you to understand.</i>
+
+167
+00:29:18,062 --> 00:29:21,858
+<i>You're English,
+but I'm half Greek.</i>
+
+168
+00:29:21,899 --> 00:29:24,610
+<i>And Greek women, like Electra...</i>
+
+169
+00:29:24,694 --> 00:29:27,572
+<i>always avenge their loved ones.</i>
+
+170
+00:29:28,614 --> 00:29:30,575
+<i>I must go.</i>
+
+171
+00:29:37,164 --> 00:29:41,711
+<i>You were meant to question Gonzales,
+not let Miss Havelock perforate him.</i>
+
+172
+00:29:41,752 --> 00:29:43,212
+<i>I quite agree, sir.</i>
+
+173
+00:29:43,254 --> 00:29:47,383
+<i>We'll have to tell the prime minister
+Operation Undertow is dead in the water.</i>
+
+174
+00:29:47,466 --> 00:29:49,552
+<i>She'll have our guts
+for garters.</i>
+
+175
+00:29:49,594 --> 00:29:52,096
+<i>If you care to look again...</i>
+
+176
+00:29:52,180 --> 00:29:54,265
+<i>at page two, paragraph four
+of my report, sir...</i>
+
+177
+00:29:54,348 --> 00:29:57,351
+<i>you will note that I saw someone
+paying off Gonzales.</i>
+
+178
+00:29:57,435 --> 00:30:00,646
+<i>Now, assuming that that was
+for Havelock's murder...</i>
+
+179
+00:30:00,730 --> 00:30:02,356
+<i>then there's still
+a glimmer of hope.</i>
+
+180
+00:30:02,440 --> 00:30:03,900
+<i>I don't follow.</i>
+
+181
+00:30:03,983 --> 00:30:06,444
+<i>If we could identify that someone...</i>
+
+182
+00:30:06,485 --> 00:30:08,446
+<i>Why don't you try
+the identigraph?</i>
+
+183
+00:30:11,073 --> 00:30:13,576
+<i>- Yes, sir.
+- Get cracking, 007.</i>
+
+184
+00:30:14,911 --> 00:30:16,329
+<i>Minister.</i>
+
+185
+00:30:20,833 --> 00:30:23,920
+<i>Hello, Q.
+Smithers, how's the arm?</i>
+
+186
+00:30:24,003 --> 00:30:25,963
+<i>Coming along very nicely,
+thank you, sir.</i>
+
+187
+00:30:28,549 --> 00:30:30,259
+<i>Oh, that'll come in handy.</i>
+
+188
+00:30:30,301 --> 00:30:32,261
+<i>What are you doing here, 007?</i>
+
+189
+00:30:32,303 --> 00:30:34,639
+<i>- Identigraph, Q.
+- This way.</i>
+
+190
+00:30:45,691 --> 00:30:49,278
+<i>- Stinging in the rain?
+- That's not funny, 007.</i>
+
+191
+00:30:50,571 --> 00:30:53,115
+<i>I see you managed to get the Lotus
+back together again.</i>
+
+192
+00:30:53,157 --> 00:30:57,286
+<i>I disregard these jibes
+about our equipment, 007.</i>
+
+193
+00:30:57,328 --> 00:30:59,539
+<i>I don't suppose you find it funny
+in the field.</i>
+
+194
+00:30:59,622 --> 00:31:01,040
+<i>Indeed, I don't.</i>
+
+195
+00:31:07,171 --> 00:31:11,634
+<i>This 3-D Visual Identigraph
+is still in the experimental stage.</i>
+
+196
+00:31:11,717 --> 00:31:14,929
+<i>Now, once we get
+a composite of the man...</i>
+
+197
+00:31:15,012 --> 00:31:18,307
+<i>we can find a match by patching
+into the photographic files...</i>
+
+198
+00:31:18,349 --> 00:31:22,311
+<i>of the Surety, Interpol,
+CIA, the Mossad.</i>
+
+199
+00:31:22,353 --> 00:31:27,275
+<i>And the West German police.
+You've told me so already five times.</i>
+
+200
+00:31:28,359 --> 00:31:31,445
+<i>Thank you, 007.
+Right.</i>
+
+201
+00:31:33,739 --> 00:31:36,200
+<i>Now describe the person
+you wish to identify...</i>
+
+202
+00:31:36,284 --> 00:31:38,244
+<i>and I'll program the information.</i>
+
+203
+00:31:38,327 --> 00:31:42,206
+<i>Male Caucasian,
+late thirties.</i>
+
+204
+00:31:43,541 --> 00:31:46,878
+<i>Hair: Fine, light brown.</i>
+
+205
+00:31:49,422 --> 00:31:51,048
+<i>That's it.</i>
+
+206
+00:31:51,132 --> 00:31:53,885
+<i>- Parted in the middle.
+- Wait a minute.</i>
+
+207
+00:31:53,968 --> 00:31:56,470
+<i>- Right.
+- Eyes.</i>
+
+208
+00:31:56,554 --> 00:31:58,681
+<i>- A little smaller.
+- Uh-huh.</i>
+
+209
+00:31:58,764 --> 00:32:02,476
+<i>Blue. A little grayer.</i>
+
+210
+00:32:02,560 --> 00:32:05,646
+<i>That's it. You have it.
+Now, nose.</i>
+
+211
+00:32:08,608 --> 00:32:11,194
+<i>- A nose, not a banana, Q.
+- I'm sorry.</i>
+
+212
+00:32:11,235 --> 00:32:12,904
+<i>Stop.</i>
+
+213
+00:32:12,987 --> 00:32:14,864
+<i>Lips fuller.</i>
+
+214
+00:32:14,906 --> 00:32:16,407
+<i>Mm-hmm. Oops.</i>
+
+215
+00:32:18,451 --> 00:32:21,829
+<i>No, no, mouth wider.
+Good.</i>
+
+216
+00:32:26,083 --> 00:32:27,501
+<i>Thank you.</i>
+
+217
+00:32:28,586 --> 00:32:30,004
+<i>Thank you, Sharon.</i>
+
+218
+00:32:30,087 --> 00:32:33,007
+<i>- You can go. I'll lock up.
+- Okay.</i>
+
+219
+00:32:34,967 --> 00:32:38,763
+<i>I reckon we're almost there, Q,
+apart from glasses.</i>
+
+220
+00:32:38,804 --> 00:32:40,181
+<i>Steel-rimmed.</i>
+
+221
+00:32:40,264 --> 00:32:42,558
+<i>- Yeah.
+- Octagonal.</i>
+
+222
+00:32:42,600 --> 00:32:44,227
+<i>Octagonal.</i>
+
+223
+00:32:46,521 --> 00:32:49,565
+<i>That's him.
+That's our man.</i>
+
+224
+00:32:49,649 --> 00:32:53,110
+<i>Right. I'll try
+and get a match.</i>
+
+225
+00:33:08,125 --> 00:33:09,210
+<i>Yes.</i>
+
+226
+00:33:09,293 --> 00:33:12,129
+<i>The man we want is
+Emile Leopold Locque...</i>
+
+227
+00:33:12,171 --> 00:33:14,757
+<i>an enforcer
+in the Brussels underworld.</i>
+
+228
+00:33:14,841 --> 00:33:16,300
+<i>He's been convicted
+of several...</i>
+
+229
+00:33:16,342 --> 00:33:18,427
+<i>particularly brutal murders.</i>
+
+230
+00:33:18,511 --> 00:33:20,721
+<i>He escaped from Namur Prison...</i>
+
+231
+00:33:20,805 --> 00:33:22,932
+<i>by strangling his psychiatrist.</i>
+
+232
+00:33:23,015 --> 00:33:26,727
+<i>He has worked for drug syndicates
+in Marseilles and Hong Kong.</i>
+
+233
+00:33:26,811 --> 00:33:29,438
+<i>Now reported working
+for Greek smugglers.</i>
+
+234
+00:33:29,480 --> 00:33:32,942
+<i>The Italian Secret Service think
+that he is, at this moment, in Cortina.</i>
+
+235
+00:33:33,025 --> 00:33:36,988
+<i>I'll instruct Ferrara, our man
+in northern Italy, to contact you there.</i>
+
+236
+00:33:37,071 --> 00:33:41,284
+<i>- Yes, sir.
+- And 007, try not to muck it up again.</i>
+
+237
+00:33:41,367 --> 00:33:43,911
+<i>I'll do my best, sir.</i>
+
+238
+00:33:43,995 --> 00:33:46,873
+<i>I'll leave you to lock up.
+Let me out, will you?</i>
+
+239
+00:35:25,054 --> 00:35:27,890
+<i>The snow this year
+is better at Innsbruck.</i>
+
+240
+00:35:27,932 --> 00:35:30,518
+<i>But not at St. Moritz.</i>
+
+241
+00:35:30,601 --> 00:35:34,522
+<i>- Ferrara.
+- Bond. James.</i>
+
+242
+00:35:34,605 --> 00:35:36,524
+<i>Luigi.</i>
+
+243
+00:35:36,607 --> 00:35:39,235
+<i>I presume London has briefed you.</i>
+
+244
+00:35:39,277 --> 00:35:42,572
+<i>If Locque's in Cortina,
+we'll find him.</i>
+
+245
+00:35:42,655 --> 00:35:46,534
+<i>I have a reliable Greek contact here,
+an Anglophile.</i>
+
+246
+00:35:46,617 --> 00:35:49,662
+<i>He helped us out last year
+on a smuggling operation.</i>
+
+247
+00:35:49,745 --> 00:35:52,832
+<i>- What's he doing in Cortina?
+- He...</i>
+
+248
+00:35:56,794 --> 00:36:00,381
+<i>Spends a few months a year here
+at his chalet.</i>
+
+249
+00:36:00,464 --> 00:36:04,719
+<i>He's in shipping, insurance,
+oil exploration.</i>
+
+250
+00:36:04,802 --> 00:36:06,762
+<i>Knows everything going on.</i>
+
+251
+00:36:06,804 --> 00:36:08,848
+<i>Very reliable.</i>
+
+252
+00:36:08,931 --> 00:36:12,560
+<i>The British gave him the King's Medal
+for resistance fighting during the war.</i>
+
+253
+00:36:12,643 --> 00:36:14,437
+<i>Yes, but can I meet him?</i>
+
+254
+00:36:14,520 --> 00:36:18,608
+<i>I've set it up. He is waiting for us
+at the Olympic ice rink.</i>
+
+255
+00:36:40,004 --> 00:36:43,007
+<i>- Kristatos. Ari Kristatos.
+- Bond. James Bond.</i>
+
+256
+00:36:43,090 --> 00:36:45,092
+<i>Would you care to join me
+in some gluhwein?</i>
+
+257
+00:36:45,176 --> 00:36:47,261
+<i>That's a very good idea.
+Thank you.</i>
+
+258
+00:36:48,513 --> 00:36:52,266
+<i>Well, gentlemen,
+how can I help you?</i>
+
+259
+00:36:52,350 --> 00:36:54,977
+<i>We'd like some information.</i>
+
+260
+00:37:02,568 --> 00:37:04,529
+<i>My protege.
+A sure winner...</i>
+
+261
+00:37:04,570 --> 00:37:06,030
+<i>in the next Olympics.</i>
+
+262
+00:37:06,113 --> 00:37:08,533
+<i>She's completely absorbed
+in her skating...</i>
+
+263
+00:37:08,616 --> 00:37:10,826
+<i>but innocent in the ways
+of the world.</i>
+
+264
+00:37:10,910 --> 00:37:13,287
+<i>The day she wins the gold medal...</i>
+
+265
+00:37:13,371 --> 00:37:16,290
+<i>will be the greatest in my life.</i>
+
+266
+00:37:22,880 --> 00:37:27,176
+<i>Bibi, here are some
+new admirers for you.</i>
+
+267
+00:37:27,260 --> 00:37:30,346
+<i>Mr. Bond, Mr. Ferrara,
+Bibi Dahl...</i>
+
+268
+00:37:30,429 --> 00:37:34,183
+<i>and her coach, Jacoba Brink,
+once a world-class skater herself.</i>
+
+269
+00:37:34,267 --> 00:37:35,852
+<i>I've seen Miss Brink skate.</i>
+
+270
+00:37:35,935 --> 00:37:38,896
+<i>I think the world will soon be seeing
+a great deal of your skating too.</i>
+
+271
+00:37:38,938 --> 00:37:40,898
+<i>Only if she works harder.</i>
+
+272
+00:37:40,982 --> 00:37:42,733
+<i>- Much harder.
+- Oh, Uncle Ari.</i>
+
+273
+00:37:42,817 --> 00:37:44,735
+<i>Can I stop now?
+I'm pooped.</i>
+
+274
+00:37:44,819 --> 00:37:47,530
+<i>That's for Miss Brink to decide.</i>
+
+275
+00:37:47,613 --> 00:37:50,408
+<i>Come, Bibi,
+another half hour of practice.</i>
+
+276
+00:37:50,491 --> 00:37:52,702
+<i>Uncle Ari, will you take me
+to the biathlon?</i>
+
+277
+00:37:52,743 --> 00:37:55,246
+<i>Bibi, you know I have to work
+this afternoon.</i>
+
+278
+00:37:58,958 --> 00:38:01,878
+<i>Bibi wants to know
+if you would escort her, Mr. Bond.</i>
+
+279
+00:38:01,919 --> 00:38:03,880
+<i>- I don't think...
+- I would feel better...</i>
+
+280
+00:38:03,921 --> 00:38:05,882
+<i>if there were someone with her.</i>
+
+281
+00:38:08,593 --> 00:38:11,762
+<i>I'd be delighted.
+I'm staying at the Miramonti.</i>
+
+282
+00:38:11,846 --> 00:38:13,389
+<i>Great!</i>
+
+283
+00:38:14,932 --> 00:38:17,518
+<i>How can I help?</i>
+
+284
+00:38:17,602 --> 00:38:19,729
+<i>- Do you know this man?
+- Yes. Locque.</i>
+
+285
+00:38:19,770 --> 00:38:22,565
+<i>Columbo's right hand.</i>
+
+286
+00:38:22,607 --> 00:38:25,026
+<i>Milos Columbo.
+His name came up in connection...</i>
+
+287
+00:38:25,109 --> 00:38:27,278
+<i>with a smuggling operation
+last year.</i>
+
+288
+00:38:27,361 --> 00:38:32,450
+<i>That's the least of his offenses.
+Drugs, white slavery, contract murder.</i>
+
+289
+00:38:32,533 --> 00:38:36,078
+<i>In the Greek underworld,
+he in known as "the Dove. "</i>
+
+290
+00:38:36,162 --> 00:38:37,747
+<i>A very sick joke.</i>
+
+291
+00:38:37,830 --> 00:38:41,125
+<i>- Where is this Dove?
+- Somewhere in Greece, I would guess.</i>
+
+292
+00:38:41,209 --> 00:38:43,961
+<i>Once we were like brothers.
+Now he hates me.</i>
+
+293
+00:38:44,045 --> 00:38:46,422
+<i>We fought together
+in the Greek resistance...</i>
+
+294
+00:38:46,464 --> 00:38:48,966
+<i>then against the Communists.</i>
+
+295
+00:38:49,008 --> 00:38:51,135
+<i>After that,
+he took a different path.</i>
+
+296
+00:38:55,473 --> 00:38:57,725
+<i>Thank you for your time,
+Mr. Kristatos.</i>
+
+297
+00:38:57,808 --> 00:38:59,560
+<i>My pleasure.
+I leave for Corfu soon.</i>
+
+298
+00:38:59,644 --> 00:39:02,438
+<i>If I get any more information,
+I will call Ferrara.</i>
+
+299
+00:39:14,242 --> 00:39:17,203
+<i>What do you think, Luigi?
+Does this "Dove" Columbo...</i>
+
+300
+00:39:17,286 --> 00:39:19,205
+<i>have the resources
+to mount a salvage operation?</i>
+
+301
+00:39:19,288 --> 00:39:23,960
+<i>Oh, definitely. He runs a fleet of
+intercoastal freighters in the Aegean.</i>
+
+302
+00:39:24,043 --> 00:39:27,171
+<i>I'll ring my office in Milano.
+They may have more on him.</i>
+
+303
+00:39:38,099 --> 00:39:40,017
+<i>- I'll see you later.
+- Okay.</i>
+
+304
+00:39:55,449 --> 00:39:57,660
+<i>Is this the one you mean?</i>
+
+305
+00:39:57,702 --> 00:40:01,664
+<i>Thank you. I'll take it.
+Deliver it to the Hotel Cristalo.</i>
+
+306
+00:40:11,215 --> 00:40:13,176
+<i>I beg your pardon.</i>
+
+307
+00:40:16,429 --> 00:40:18,389
+<i>- May I help you?
+- Yes, give me a dozen lilies.</i>
+
+308
+00:40:18,472 --> 00:40:19,682
+<i>Will you?</i>
+
+309
+00:40:26,772 --> 00:40:28,232
+<i>I'll pick them up later.</i>
+
+310
+00:40:35,865 --> 00:40:37,992
+<i>Come on, quickly.</i>
+
+311
+00:40:54,008 --> 00:40:56,469
+<i>Send them to the funeral,
+will you?</i>
+
+312
+00:41:01,641 --> 00:41:04,894
+<i>Slow down. Would you mind telling me
+what the devil you're doing in Cortina?</i>
+
+313
+00:41:04,936 --> 00:41:08,481
+<i>- Your telegram.
+- What telegram?</i>
+
+314
+00:41:08,564 --> 00:41:11,984
+<i>It said you found the man
+and to meet you here today.</i>
+
+315
+00:41:12,068 --> 00:41:13,444
+<i>I didn't send it.</i>
+
+316
+00:41:13,528 --> 00:41:14,946
+<i>Now, get in.</i>
+
+317
+00:41:17,406 --> 00:41:18,950
+<i>The station, please.</i>
+
+318
+00:41:19,033 --> 00:41:23,246
+<i>- Are we leaving?
+- Not "we. " You. And now.</i>
+
+319
+00:41:23,287 --> 00:41:25,790
+<i>You don't tell me
+what to do.</i>
+
+320
+00:41:42,598 --> 00:41:44,517
+<i>Did you find the man
+who hired Gonzales?</i>
+
+321
+00:41:45,768 --> 00:41:47,270
+<i>I'm working on it.</i>
+
+322
+00:41:47,311 --> 00:41:49,272
+<i>He's here, isn't he?</i>
+
+323
+00:41:50,898 --> 00:41:53,734
+<i>That's why you're here.
+Driver, stop! Go back!</i>
+
+324
+00:41:56,070 --> 00:41:58,865
+<i>- I'm staying.
+- So you can put an arrow in his back?</i>
+
+325
+00:41:58,948 --> 00:42:02,076
+<i>You do that, and we'll never find out
+who or what is behind all this.</i>
+
+326
+00:42:02,159 --> 00:42:05,830
+<i>It was my parents they killed,
+not yours. Let me out. Driver, stop!</i>
+
+327
+00:42:09,959 --> 00:42:11,752
+<i>Melina, look at me.</i>
+
+328
+00:42:11,836 --> 00:42:14,463
+<i>You were lucky once,
+but they are onto you now.</i>
+
+329
+00:42:14,547 --> 00:42:17,967
+<i>The telegram, the motorcycles
+back there. They prove it.</i>
+
+330
+00:42:18,009 --> 00:42:21,345
+<i>- Let me handle this.
+- You? How are you involved?</i>
+
+331
+00:42:21,429 --> 00:42:25,433
+<i>All I can tell you is it's something
+of vital interest to both our countries.</i>
+
+332
+00:42:25,516 --> 00:42:28,436
+<i>More important than my parents?</i>
+
+333
+00:42:30,396 --> 00:42:32,398
+<i>Your father was part of it.</i>
+
+334
+00:42:32,481 --> 00:42:34,400
+<i>He thought it important enough
+to risk his life.</i>
+
+335
+00:42:34,483 --> 00:42:37,028
+<i>Now, Melina, please trust me.</i>
+
+336
+00:42:37,111 --> 00:42:39,197
+<i>Go back to the Triaina and wait.</i>
+
+337
+00:42:39,280 --> 00:42:42,033
+<i>Let me find out what I can here,
+then I'll come straight to Corfu.</i>
+
+338
+00:42:42,116 --> 00:42:44,035
+<i>- I promise you.
+- Okay.</i>
+
+339
+00:42:44,118 --> 00:42:47,955
+<i>I'll go back and wait,
+but not for long.</i>
+
+340
+00:42:48,039 --> 00:42:49,540
+<i>It won't be, I swear.</i>
+
+341
+00:43:38,464 --> 00:43:41,926
+<i>Don't they have showers
+at the ice rink?</i>
+
+342
+00:43:42,009 --> 00:43:43,928
+<i>How did you get in here?</i>
+
+343
+00:43:44,011 --> 00:43:45,763
+<i>One of the porters is a fan.</i>
+
+344
+00:43:45,847 --> 00:43:51,185
+<i>He'll do anything for me,
+and I'll do anything for you.</i>
+
+345
+00:43:51,269 --> 00:43:54,272
+<i>Well, I'm exceedingly
+flattered, Bibi...</i>
+
+346
+00:43:54,355 --> 00:43:56,107
+<i>but you're in training.</i>
+
+347
+00:43:56,190 --> 00:44:00,111
+<i>That's a laugh. Everybody knows
+it builds up muscle tone.</i>
+
+348
+00:44:00,194 --> 00:44:05,241
+<i>How about building up a little more
+muscle tone by putting on your clothes?</i>
+
+349
+00:44:07,535 --> 00:44:08,953
+<i>Don't you like me?</i>
+
+350
+00:44:11,038 --> 00:44:13,499
+<i>I think you're wonderful, Bibi...</i>
+
+351
+00:44:13,583 --> 00:44:17,003
+<i>but I don't think your Uncle Ari
+would approve.</i>
+
+352
+00:44:17,086 --> 00:44:20,173
+<i>Him? He thinks
+I'm still a virgin.</i>
+
+353
+00:44:21,716 --> 00:44:27,263
+<i>Yes, well, you get your clothes on,
+and I'll buy you an ice cream.</i>
+
+354
+00:44:34,896 --> 00:44:36,814
+<i>Shall we?</i>
+
+355
+00:44:42,904 --> 00:44:45,114
+<i>Don't you ever come up for air?</i>
+
+356
+00:44:45,198 --> 00:44:48,784
+<i>That's why I'll get the gold medal...
+breath control.</i>
+
+357
+00:44:48,826 --> 00:44:51,787
+<i>Yes, well, you can't lose.</i>
+
+358
+00:45:21,317 --> 00:45:23,277
+<i>And now, Erich Kriegler...</i>
+
+359
+00:45:23,361 --> 00:45:26,239
+<i>last year's East European champion.</i>
+
+360
+00:45:33,913 --> 00:45:35,498
+<i>There's Erich Kriegler.</i>
+
+361
+00:45:35,540 --> 00:45:37,458
+<i>The East German champion?</i>
+
+362
+00:45:39,043 --> 00:45:40,753
+<i>Isn't he beautiful?</i>
+
+363
+00:45:40,837 --> 00:45:42,880
+<i>You know something, Bibi?
+You're fickle.</i>
+
+364
+00:45:44,131 --> 00:45:46,259
+<i>Hey, Erich!</i>
+
+365
+00:45:48,010 --> 00:45:49,762
+<i>Come on, let's go watch him shoot.</i>
+
+366
+00:46:19,542 --> 00:46:22,461
+<i>We'll have a drink
+at the finish.</i>
+
+367
+00:46:24,755 --> 00:46:26,674
+<i>Well, Bibi, I'm afraid
+I have to leave you.</i>
+
+368
+00:46:26,757 --> 00:46:30,136
+<i>- No, James, stay with me.
+- I have an appointment.</i>
+
+369
+00:46:32,138 --> 00:46:35,308
+<i>Will you come and say good-bye to me
+at the practice rink later?</i>
+
+370
+00:46:35,391 --> 00:46:37,602
+<i>Please, James, we're going back
+to Greece soon.</i>
+
+371
+00:46:37,685 --> 00:46:39,604
+<i>All right, but if I can't make it...</i>
+
+372
+00:46:39,687 --> 00:46:41,939
+<i>all I can say is
+don't grow up any more.</i>
+
+373
+00:46:42,023 --> 00:46:45,401
+<i>- Huh?
+- The opposite sex won't survive it.</i>
+
+374
+00:55:53,616 --> 00:55:55,201
+<i>Won't take long.</i>
+
+375
+00:55:55,284 --> 00:55:58,371
+<i>- Don't play with any of the switches.
+- Right.</i>
+
+376
+00:56:13,845 --> 00:56:15,805
+<i>What took you so long?</i>
+
+377
+00:56:15,888 --> 00:56:17,640
+<i>I took the scenic route.</i>
+
+378
+00:56:19,016 --> 00:56:22,144
+<i>Tell me more about your boyfriend,
+Erich Kriegler.</i>
+
+379
+00:56:22,228 --> 00:56:26,440
+<i>He doesn't smoke, he only eats health
+foods and he won't even talk to girls.</i>
+
+380
+00:56:28,192 --> 00:56:29,777
+<i>James, you're jealous.</i>
+
+381
+00:56:29,861 --> 00:56:34,991
+<i>Of course. What else can you tell me
+about my rival for your affections?</i>
+
+382
+00:56:35,074 --> 00:56:38,494
+<i>They say he's a defector
+from East Germany.</i>
+
+383
+00:56:38,536 --> 00:56:41,247
+<i>It is time
+for your rubdown.</i>
+
+384
+00:56:50,047 --> 00:56:53,176
+<i>I could eat you up alive.</i>
+
+385
+00:56:55,887 --> 00:56:59,807
+<i>Farewell, Mr. Bond,
+but not good-bye.</i>
+
+386
+00:58:41,659 --> 00:58:44,954
+<i>I'll be finished around 6:00.
+Meet me here.</i>
+
+387
+00:58:47,206 --> 00:58:49,167
+<i>How did you know I was here?</i>
+
+388
+00:58:49,208 --> 00:58:52,503
+<i>I radio telephoned the Triaina,
+and they told me you were coming ashore.</i>
+
+389
+00:58:52,587 --> 00:58:55,464
+<i>I have to go shopping for the crew.
+Come with me, we can talk.</i>
+
+390
+00:58:55,506 --> 00:58:56,632
+<i>Why not?</i>
+
+391
+00:59:20,198 --> 00:59:21,657
+<i>Thank you.</i>
+
+392
+00:59:27,997 --> 00:59:30,458
+<i>I think you may need that.</i>
+
+393
+00:59:56,192 --> 00:59:58,861
+<i>My father loved the view
+from here.</i>
+
+394
+00:59:58,903 --> 01:00:03,241
+<i>- I can see why.
+- We came here often.</i>
+
+395
+01:00:03,324 --> 01:00:05,576
+<i>- Is Corfu your home?
+- No.</i>
+
+396
+01:00:05,660 --> 01:00:09,163
+<i>My real home's always been
+the Triaina, the Greek islands...</i>
+
+397
+01:00:09,247 --> 01:00:13,292
+<i>Turkey, North Africa...
+wherever my father's work took us.</i>
+
+398
+01:00:14,710 --> 01:00:18,381
+<i>Did he leave any notes?
+They could help us.</i>
+
+399
+01:00:18,422 --> 01:00:20,883
+<i>No, I don't think so.</i>
+
+400
+01:00:22,468 --> 01:00:24,720
+<i>To tell you the truth...</i>
+
+401
+01:00:24,804 --> 01:00:28,140
+<i>I haven't had the courage
+to go into his study since.</i>
+
+402
+01:00:29,767 --> 01:00:31,811
+<i>Try not to think about it now.</i>
+
+403
+01:00:31,894 --> 01:00:34,730
+<i>I'm meeting a man tonight
+at the casino who may give us a lead.</i>
+
+404
+01:01:06,888 --> 01:01:09,265
+<i>You're perspiring, Bunky.</i>
+
+405
+01:01:10,558 --> 01:01:11,976
+<i>Contessa.</i>
+
+406
+01:01:24,071 --> 01:01:25,489
+<i>500,000.</i>
+
+407
+01:01:25,573 --> 01:01:28,826
+<i>Only half?
+Where's your courage, Bunky?</i>
+
+408
+01:01:28,910 --> 01:01:32,788
+<i>Courage is no match
+for an unfriendly shoe, Countess.</i>
+
+409
+01:01:35,708 --> 01:01:37,293
+<i>Bravo, Bunky.</i>
+
+410
+01:01:44,008 --> 01:01:45,593
+<i>Lucky night.</i>
+
+411
+01:02:03,194 --> 01:02:06,614
+<i>The odds favor standing pat.</i>
+
+412
+01:02:06,697 --> 01:02:08,491
+<i>If you play the odds.</i>
+
+413
+01:02:16,374 --> 01:02:20,378
+<i>Would you cash these in
+for me, please?</i>
+
+414
+01:02:20,461 --> 01:02:22,880
+<i>Thank you. Excuse me.</i>
+
+415
+01:02:41,983 --> 01:02:43,484
+<i>Aperitif, please?</i>
+
+416
+01:02:43,568 --> 01:02:45,486
+<i>Ouzo for me, please.</i>
+
+417
+01:02:47,864 --> 01:02:49,824
+<i>And a whiskey.</i>
+
+418
+01:02:51,242 --> 01:02:52,660
+<i>And to eat?</i>
+
+419
+01:02:52,743 --> 01:02:57,665
+<i>I'll have the prawns,
+salad and Bourdetto.</i>
+
+420
+01:02:57,748 --> 01:02:59,876
+<i>An excellent choice.
+I'll have the same.</i>
+
+421
+01:02:59,917 --> 01:03:03,671
+<i>May I suggest a white wine
+from my home place?</i>
+
+422
+01:03:03,754 --> 01:03:07,675
+<i>If you'll forgive me, that's
+a little too scented for my palate.</i>
+
+423
+01:03:07,758 --> 01:03:10,803
+<i>I prefer the Theotaki Aspro.</i>
+
+424
+01:03:13,389 --> 01:03:16,142
+<i>After our last meeting,
+I am asking myself...</i>
+
+425
+01:03:16,225 --> 01:03:19,270
+<i>why you want to know about Locque,
+Columbo's man.</i>
+
+426
+01:03:20,396 --> 01:03:23,900
+<i>I know Columbo runs heroin
+to be refined here...</i>
+
+427
+01:03:23,983 --> 01:03:25,860
+<i>before it's sent to England.</i>
+
+428
+01:03:25,943 --> 01:03:28,112
+<i>So I think I see the answer.</i>
+
+429
+01:03:28,196 --> 01:03:31,115
+<i>You're from the British Narcotics Board.</i>
+
+430
+01:03:31,991 --> 01:03:33,409
+<i>Am I right?</i>
+
+431
+01:03:33,451 --> 01:03:35,161
+<i>Go on.</i>
+
+432
+01:03:37,580 --> 01:03:40,291
+<i>I wish you luck, my friend.</i>
+
+433
+01:03:40,374 --> 01:03:43,377
+<i>But I must warn you,
+stopping Columbo will be difficult.</i>
+
+434
+01:03:43,461 --> 01:03:47,673
+<i>He has important connections.
+You cannot just arrest him.</i>
+
+435
+01:03:47,757 --> 01:03:49,300
+<i>Find some different way.</i>
+
+436
+01:03:49,383 --> 01:03:52,678
+<i>You may have to kill him.</i>
+
+437
+01:03:52,762 --> 01:03:55,598
+<i>Does this discourage you?</i>
+
+438
+01:03:57,767 --> 01:04:00,478
+<i>- Just tell me where he is.
+- Over there.</i>
+
+439
+01:04:00,561 --> 01:04:02,063
+<i>With the woman in blue.</i>
+
+440
+01:04:05,775 --> 01:04:09,111
+<i>We ignore each other,
+but I wanted you to see him.</i>
+
+441
+01:04:09,195 --> 01:04:10,988
+<i>He is a secret partner
+in this casino.</i>
+
+442
+01:04:11,072 --> 01:04:13,324
+<i>But we are perfectly safe.</i>
+
+443
+01:04:13,407 --> 01:04:16,410
+<i>He will do nothing in his own place.</i>
+
+444
+01:04:16,494 --> 01:04:18,788
+<i>And the countess?</i>
+
+445
+01:04:18,871 --> 01:04:21,833
+<i>Lisl, an Austrian.</i>
+
+446
+01:04:21,916 --> 01:04:25,461
+<i>Expensive mistress.
+She sometimes shills for the house.</i>
+
+447
+01:04:25,545 --> 01:04:28,172
+<i>She bets with other people's money.</i>
+
+448
+01:04:50,403 --> 01:04:53,322
+<i>But I must warn you,
+stopping Columbo will be difficult.</i>
+
+449
+01:04:53,364 --> 01:04:56,993
+<i>He has important connections.
+You cannot just arrest him.</i>
+
+450
+01:04:57,034 --> 01:04:59,537
+<i>You must find a different way.</i>
+
+451
+01:04:59,620 --> 01:05:02,540
+<i>You may have to kill him.</i>
+
+452
+01:05:02,623 --> 01:05:07,211
+<i>Does this discourage you?</i>
+
+453
+01:05:07,295 --> 01:05:09,213
+<i>Just tell me where he is.</i>
+
+454
+01:05:23,477 --> 01:05:26,856
+<i>You are a disgusting man.
+How dare you talk to me like that?</i>
+
+455
+01:05:26,898 --> 01:05:31,110
+<i>I will speak to you any way I please.
+Sit down.</i>
+
+456
+01:05:31,194 --> 01:05:33,571
+<i>You're making a spectacle
+of yourself.</i>
+
+457
+01:05:34,906 --> 01:05:35,865
+<i>Get out!</i>
+
+458
+01:05:35,907 --> 01:05:39,243
+<i>Nothing would please me more.</i>
+
+459
+01:05:47,585 --> 01:05:50,713
+<i>- This may be an opportunity.
+- This may be a trap.</i>
+
+460
+01:05:50,755 --> 01:05:52,965
+<i>If you play the odds.</i>
+
+461
+01:05:53,049 --> 01:05:56,511
+<i>As you wish. Take my car.
+I'll play a little chemin.</i>
+
+462
+01:05:56,594 --> 01:05:59,180
+<i>Ask the chauffeur
+to come back for me.</i>
+
+463
+01:06:09,524 --> 01:06:11,442
+<i>Allow me.</i>
+
+464
+01:06:11,526 --> 01:06:13,402
+<i>May I drive you home?</i>
+
+465
+01:06:13,486 --> 01:06:16,030
+<i>No, thank you.
+I'll take a taxi.</i>
+
+466
+01:06:16,113 --> 01:06:18,032
+<i>No courage?</i>
+
+467
+01:06:18,115 --> 01:06:21,077
+<i>Seriously, you may have a job
+finding one.</i>
+
+468
+01:06:22,328 --> 01:06:25,289
+<i>Well, you look like a gentleman.</i>
+
+469
+01:06:25,373 --> 01:06:26,791
+<i>Why not?</i>
+
+470
+01:06:35,466 --> 01:06:37,635
+<i>I am the Countess Lisl Von Schlaf.</i>
+
+471
+01:06:37,718 --> 01:06:39,720
+<i>My name is Bond.</i>
+
+472
+01:06:39,804 --> 01:06:44,100
+<i>I'm writing a novel
+about Greek smugglers. Know any?</i>
+
+473
+01:06:44,183 --> 01:06:47,436
+<i>Smugglers? How would I know
+any smugglers?</i>
+
+474
+01:06:47,520 --> 01:06:51,774
+<i>I would think that
+a lady in your position...</i>
+
+475
+01:06:51,816 --> 01:06:53,901
+<i>would get to know many things.</i>
+
+476
+01:06:53,985 --> 01:06:55,486
+<i>I'd be most grateful.</i>
+
+477
+01:06:55,570 --> 01:06:57,321
+<i>How grateful?</i>
+
+478
+01:06:57,405 --> 01:06:58,614
+<i>Very.</i>
+
+479
+01:06:58,698 --> 01:07:01,742
+<i>I adore grateful men.</i>
+
+480
+01:07:32,356 --> 01:07:35,026
+<i>May I call you tomorrow, Countess?</i>
+
+481
+01:07:35,109 --> 01:07:38,446
+<i>I'm a night person. I have
+champagne and oysters in the fridge.</i>
+
+482
+01:07:38,529 --> 01:07:40,448
+<i>Why not come in for a bite?</i>
+
+483
+01:07:44,368 --> 01:07:47,580
+<i>I won't need you anymore tonight.</i>
+
+484
+01:08:14,023 --> 01:08:16,359
+<i>- Cheers.
+- Bottoms up.</i>
+
+485
+01:08:21,906 --> 01:08:23,699
+<i>Whoops!</i>
+
+486
+01:08:23,741 --> 01:08:26,285
+<i>Me nightie's slipping.</i>
+
+487
+01:08:26,369 --> 01:08:28,287
+<i>So is your accent, Countess.</i>
+
+488
+01:08:30,623 --> 01:08:32,834
+<i>- Manchester?
+- Close.</i>
+
+489
+01:08:32,917 --> 01:08:35,378
+<i>Liverpool.</i>
+
+490
+01:08:35,461 --> 01:08:37,171
+<i>It was an amusing performance...</i>
+
+491
+01:08:37,255 --> 01:08:40,591
+<i>between you and the owner of this.</i>
+
+492
+01:08:40,675 --> 01:08:42,885
+<i>What exactly did Columbo whisper to you?</i>
+
+493
+01:08:42,927 --> 01:08:46,931
+<i>That you're a spy.
+To find out more about you.</i>
+
+494
+01:08:48,099 --> 01:08:49,517
+<i>And have you?</i>
+
+495
+01:08:51,477 --> 01:08:53,396
+<i>Have I ever.</i>
+
+496
+01:09:18,713 --> 01:09:23,009
+<i>When you're ready to leave,
+you can take my car.</i>
+
+497
+01:09:23,092 --> 01:09:26,012
+<i>That sounds like a dismissal.</i>
+
+498
+01:09:26,095 --> 01:09:28,431
+<i>I was looking forward to breakfast.</i>
+
+499
+01:10:09,222 --> 01:10:10,973
+<i>Lisl, come back!</i>
+
+500
+01:10:44,173 --> 01:10:45,550
+<i>Get in... Ooh!</i>
+
+501
+01:10:58,271 --> 01:11:00,314
+<i>Goodbye, Countess.</i>
+
+502
+01:11:04,735 --> 01:11:07,446
+<i>What...</i>
+
+503
+01:11:50,031 --> 01:11:53,201
+<i>- What should I do with you?
+- You cannot just arrest him.</i>
+
+504
+01:11:53,242 --> 01:11:55,453
+<i>You must find a different way.</i>
+
+505
+01:11:55,536 --> 01:11:58,039
+<i>You may have to kill him.</i>
+
+506
+01:11:58,122 --> 01:12:00,291
+<i>- Does this discourage you?
+- Huh?</i>
+
+507
+01:12:01,792 --> 01:12:03,252
+<i>Just tell me where he is.</i>
+
+508
+01:12:03,294 --> 01:12:08,341
+<i>I'm here, Mr. Bond
+of the British Secret Service.</i>
+
+509
+01:12:08,424 --> 01:12:10,259
+<i>But I'll tell you...</i>
+
+510
+01:12:10,343 --> 01:12:12,762
+<i>it is Kristatos you want, not me.</i>
+
+511
+01:12:12,803 --> 01:12:15,932
+<i>He told you about himself.</i>
+
+512
+01:12:16,015 --> 01:12:19,560
+<i>He's the one
+with the powerful connections.</i>
+
+513
+01:12:19,644 --> 01:12:21,771
+<i>Locque works for him,
+not for me.</i>
+
+514
+01:12:21,854 --> 01:12:25,983
+<i>I smuggle, yes.
+I smuggle gold, diamonds...</i>
+
+515
+01:12:26,067 --> 01:12:27,818
+<i>cigarettes, pistachio nuts...</i>
+
+516
+01:12:27,902 --> 01:12:30,488
+<i>but no heroin.</i>
+
+517
+01:12:30,571 --> 01:12:33,950
+<i>Sit down.
+That I leave to him...</i>
+
+518
+01:12:34,033 --> 01:12:37,411
+<i>when he is not too busy
+working for Russia...</i>
+
+519
+01:12:37,495 --> 01:12:39,205
+<i>against my country and yours.</i>
+
+520
+01:12:39,288 --> 01:12:41,123
+<i>My country awarded him the King's Medal.</i>
+
+521
+01:12:41,207 --> 01:12:44,961
+<i>Yes, I know.
+But other people died for it.</i>
+
+522
+01:12:45,044 --> 01:12:47,922
+<i>During the fighting in Crete,
+he was a double agent.</i>
+
+523
+01:12:50,675 --> 01:12:53,427
+<i>King's Medal.</i>
+
+524
+01:12:53,469 --> 01:12:56,973
+<i>I would laugh
+if my heart was not so heavy...</i>
+
+525
+01:12:57,056 --> 01:12:58,766
+<i>about my poor Lisl.</i>
+
+526
+01:13:00,852 --> 01:13:03,855
+<i>What does Kristatos gain
+by setting you up?</i>
+
+527
+01:13:03,938 --> 01:13:07,400
+<i>Well, I know too much about him.</i>
+
+528
+01:13:07,483 --> 01:13:10,027
+<i>He wants me out of the way.</i>
+
+529
+01:13:10,111 --> 01:13:15,741
+<i>By using a British agent
+to do his dirty work for him...</i>
+
+530
+01:13:15,825 --> 01:13:18,077
+<i>your government might
+give him another medal.</i>
+
+531
+01:13:18,953 --> 01:13:22,874
+<i>- Why should I believe you?
+- I'll prove it to you tonight.</i>
+
+532
+01:13:22,957 --> 01:13:25,668
+<i>We'll go together to his warehouse...</i>
+
+533
+01:13:25,751 --> 01:13:29,088
+<i>in Albania, okay?</i>
+
+534
+01:13:29,964 --> 01:13:32,341
+<i>If I don't report in by morning...</i>
+
+535
+01:13:32,383 --> 01:13:36,470
+<i>not only my people, but the entire Greek
+police will be down on you...</i>
+
+536
+01:13:36,512 --> 01:13:37,930
+<i>like a load of bricks.</i>
+
+537
+01:13:38,014 --> 01:13:39,849
+<i>Don't worry.</i>
+
+538
+01:13:39,891 --> 01:13:43,352
+<i>By tomorrow,
+we'll be good friends.</i>
+
+539
+01:13:45,354 --> 01:13:47,732
+<i>Let us drink to that.</i>
+
+540
+01:13:47,815 --> 01:13:50,151
+<i>I'll wait till tomorrow.</i>
+
+541
+01:14:01,454 --> 01:14:04,165
+<i>You may need this.</i>
+
+542
+01:14:05,458 --> 01:14:07,460
+<i>I'm a good judge of men.</i>
+
+543
+01:14:07,543 --> 01:14:12,507
+<i>Mr. Bond, you have
+what the Greeks call tha'ros.</i>
+
+544
+01:14:12,590 --> 01:14:14,133
+<i>Guts.</i>
+
+545
+01:14:16,135 --> 01:14:17,553
+<i>So have you, Mr. Columbo.</i>
+
+546
+01:14:26,270 --> 01:14:27,188
+<i>Cheers.</i>
+
+547
+01:16:11,250 --> 01:16:12,919
+<i>Santos' drug store.</i>
+
+548
+01:16:28,768 --> 01:16:30,186
+<i>Watch it.</i>
+
+549
+01:16:46,077 --> 01:16:47,703
+<i>J.I.M. Diving equipment...</i>
+
+550
+01:16:47,787 --> 01:16:50,748
+<i>for salvage work
+at depths of over 300 feet.</i>
+
+551
+01:17:05,429 --> 01:17:08,266
+<i>- Raw opium.
+- An old smuggler's trick.</i>
+
+552
+01:17:08,349 --> 01:17:10,893
+<i>Kristatos knows them all.</i>
+
+553
+01:17:53,394 --> 01:17:56,230
+<i>Get your men out of here.</i>
+
+554
+01:17:56,272 --> 01:17:57,732
+<i>Now.</i>
+
+555
+01:20:00,229 --> 01:20:03,733
+<i>You left this with Ferrara,
+I believe.</i>
+
+556
+01:20:21,751 --> 01:20:23,211
+<i>Had no head for heights.</i>
+
+557
+01:21:53,259 --> 01:21:56,971
+<i>Where did the St. Georges sink?</i>
+
+558
+01:21:57,013 --> 01:22:00,016
+<i>We can't be sure for certain.
+We know it was in this vicinity.</i>
+
+559
+01:22:00,057 --> 01:22:03,853
+<i>Your father was
+using the temple as a front.</i>
+
+560
+01:22:03,895 --> 01:22:06,147
+<i>Kristatos killed your father...</i>
+
+561
+01:22:06,189 --> 01:22:09,066
+<i>so he wouldn't find
+the St. Georges before he did.</i>
+
+562
+01:22:09,150 --> 01:22:13,821
+<i>Kristatos.
+How can I help?</i>
+
+563
+01:22:13,905 --> 01:22:17,241
+<i>Where does your father
+keep his daily log?</i>
+
+564
+01:22:17,325 --> 01:22:19,160
+<i>Daily log.</i>
+
+565
+01:22:19,202 --> 01:22:23,831
+<i>Father and he were pals for 30 years.
+He repeats everything.</i>
+
+566
+01:22:27,043 --> 01:22:29,921
+<i>- Give us a kiss.
+- What's his name?</i>
+
+567
+01:22:30,004 --> 01:22:32,340
+<i>Max.</i>
+
+568
+01:22:32,381 --> 01:22:33,841
+<i>Thank you.</i>
+
+569
+01:22:35,718 --> 01:22:37,178
+<i>Hello.</i>
+
+570
+01:22:40,973 --> 01:22:42,892
+<i>It's all shorthand.</i>
+
+571
+01:22:42,934 --> 01:22:46,938
+<i>He used a special kind.
+Only I could decipher it.</i>
+
+572
+01:22:51,108 --> 01:22:54,070
+<i>He made several surveys in Neptune.</i>
+
+573
+01:22:54,111 --> 01:22:56,447
+<i>- What's Neptune?
+- Our two-man submarine.</i>
+
+574
+01:22:58,407 --> 01:23:01,786
+<i>He saw a diving bell here.</i>
+
+575
+01:23:01,869 --> 01:23:03,204
+<i>Diving bell?</i>
+
+576
+01:23:03,246 --> 01:23:07,083
+<i>Oil exploration. Kristatos.</i>
+
+577
+01:23:09,418 --> 01:23:13,130
+<i>Three days later,
+he sighted a wreck in the same area.</i>
+
+578
+01:23:14,215 --> 01:23:16,092
+<i>And?</i>
+
+579
+01:23:16,133 --> 01:23:17,885
+<i>That was his last entry.</i>
+
+580
+01:23:17,927 --> 01:23:20,930
+<i>The day he was killed.</i>
+
+581
+01:23:20,972 --> 01:23:26,310
+<i>Air would be useless at this depth.
+We need a mixture of oxygen and helium.</i>
+
+582
+01:23:26,394 --> 01:23:28,354
+<i>I have the necessary equipment.</i>
+
+583
+01:23:30,106 --> 01:23:31,941
+<i>The less people that know,
+the better.</i>
+
+584
+01:23:32,984 --> 01:23:35,987
+<i>I'll give the crew shore leave
+except for the mate and two others.</i>
+
+585
+01:23:36,070 --> 01:23:37,864
+<i>Let's go.</i>
+
+586
+01:25:04,826 --> 01:25:07,495
+<i>584 feet.</i>
+
+587
+01:25:07,537 --> 01:25:13,292
+<i>An oxygen-helium mix will give us
+eight minutes. We'll have to work fast.</i>
+
+588
+01:25:13,376 --> 01:25:16,671
+<i>Wouldn't the crew have destroyed
+the transmitter?</i>
+
+589
+01:25:16,712 --> 01:25:19,257
+<i>Only if they'd had the chance
+to set the explosive timer.</i>
+
+590
+01:25:52,081 --> 01:25:54,333
+<i>We have a visitor below.</i>
+
+591
+01:26:01,674 --> 01:26:04,719
+<i>Conserve your gas supply.
+Speak only when necessary.</i>
+
+592
+01:26:56,562 --> 01:26:58,606
+<i>I hope he was dining alone.</i>
+
+593
+01:27:23,673 --> 01:27:25,299
+<i>Go back to the sub.</i>
+
+594
+01:27:25,341 --> 01:27:27,176
+<i>No, no. I'm staying.</i>
+
+595
+01:27:37,812 --> 01:27:40,481
+<i>That should be the command cabin.</i>
+
+596
+01:28:02,712 --> 01:28:04,172
+<i>Eureka!</i>
+
+597
+01:28:13,472 --> 01:28:15,057
+<i>"Main destruct timer...</i>
+
+598
+01:28:15,141 --> 01:28:18,436
+<i>under lever right of ATAC housing,
+dualled...</i>
+
+599
+01:28:18,519 --> 01:28:23,232
+<i>by ring main circuit
+through anti-handling charger. "</i>
+
+600
+01:28:23,316 --> 01:28:25,776
+<i>The destruct timer's set
+at one minute.</i>
+
+601
+01:28:25,860 --> 01:28:28,488
+<i>For some reason,
+the lever wasn't pulled.</i>
+
+602
+01:28:34,827 --> 01:28:37,538
+<i>The transmitter
+with a thermite charge.</i>
+
+603
+01:28:54,013 --> 01:28:56,057
+<i>Hold these.</i>
+
+604
+01:28:57,558 --> 01:28:59,310
+<i>"To bypass trembler switch...</i>
+
+605
+01:28:59,393 --> 01:29:02,772
+<i>cut wires in following procedure. "</i>
+
+606
+01:29:04,398 --> 01:29:05,650
+<i>Cutters.</i>
+
+607
+01:29:25,628 --> 01:29:26,963
+<i>Screwdriver.</i>
+
+608
+01:29:43,312 --> 01:29:46,607
+<i>That's it.
+Let's get out of here.</i>
+
+609
+01:30:11,674 --> 01:30:13,509
+<i>James, help!</i>
+
+610
+01:30:51,005 --> 01:30:53,841
+<i>- James, I won't make it.
+- We both will.</i>
+
+611
+01:30:58,930 --> 01:31:00,431
+<i>Get to the sub.
+I'll stall him.</i>
+
+612
+01:34:23,092 --> 01:34:24,594
+<i>Try and close the CO2.</i>
+
+613
+01:34:24,677 --> 01:34:26,429
+<i>I'm trying.</i>
+
+614
+01:35:55,768 --> 01:35:59,564
+<i>Careful, James.
+It's 5,000 years old.</i>
+
+615
+01:36:38,352 --> 01:36:39,979
+<i>Thank you, Mr. Bond.</i>
+
+616
+01:36:40,062 --> 01:36:42,398
+<i>You have saved us
+the trouble of disarming it.</i>
+
+617
+01:36:42,482 --> 01:36:46,027
+<i>Apostis, take that.</i>
+
+618
+01:36:48,154 --> 01:36:49,864
+<i>Where are my men?</i>
+
+619
+01:36:49,947 --> 01:36:52,033
+<i>You will be joining them.</i>
+
+620
+01:36:52,116 --> 01:36:54,619
+<i>Let the girl go.</i>
+
+621
+01:36:54,702 --> 01:36:56,829
+<i>We'll double
+whatever you're getting.</i>
+
+622
+01:36:56,913 --> 01:37:00,082
+<i>I never go back on a deal.</i>
+
+623
+01:37:00,166 --> 01:37:03,044
+<i>It would be bad
+for my reputation.</i>
+
+624
+01:37:20,269 --> 01:37:22,897
+<i>I will deliver it
+and return with the money.</i>
+
+625
+01:37:22,939 --> 01:37:28,528
+<i>The voice of the KGB. Our agreement
+was that I designate the meeting place.</i>
+
+626
+01:37:28,611 --> 01:37:31,948
+<i>After they pay,
+I will give them the transmitter.</i>
+
+627
+01:37:31,989 --> 01:37:35,201
+<i>It must not be let out of your sight.</i>
+
+628
+01:37:35,284 --> 01:37:38,913
+<i>Nor mine. Where are we going?</i>
+
+629
+01:37:38,955 --> 01:37:40,998
+<i>We will take the ATAC
+to St. Cyril's.</i>
+
+630
+01:37:41,082 --> 01:37:44,585
+<i>St. Cyril's.
+I'll arrange the pickup.</i>
+
+631
+01:37:51,092 --> 01:37:56,597
+<i>Bind that wound.
+We don't want blood in the water yet.</i>
+
+632
+01:37:56,681 --> 01:37:58,057
+<i>Murderer.</i>
+
+633
+01:37:58,140 --> 01:38:02,228
+<i>You have shot your last bolt,
+Miss Havelock.</i>
+
+634
+01:38:06,649 --> 01:38:08,776
+<i>Leave their legs free.</i>
+
+635
+01:38:08,818 --> 01:38:09,986
+<i>They'll make appetizing bait.</i>
+
+636
+01:38:19,996 --> 01:38:21,873
+<i>I didn't think it
+would end like this.</i>
+
+637
+01:38:21,956 --> 01:38:23,958
+<i>We're not dead yet.</i>
+
+638
+01:38:50,610 --> 01:38:52,028
+<i>Hold tight.</i>
+
+639
+01:39:17,345 --> 01:39:19,555
+<i>Turn around. We go again.</i>
+
+640
+01:39:24,894 --> 01:39:26,312
+<i>Take a deep breath.</i>
+
+641
+01:40:22,743 --> 01:40:24,120
+<i>Again. Hurry.</i>
+
+642
+01:41:13,503 --> 01:41:15,546
+<i>Help!</i>
+
+643
+01:41:17,465 --> 01:41:18,799
+<i>Aw, leave him.</i>
+
+644
+01:41:21,928 --> 01:41:24,347
+<i>Turn. Run them down.</i>
+
+645
+01:41:41,572 --> 01:41:42,782
+<i>Follow me.</i>
+
+646
+01:42:26,576 --> 01:42:31,414
+<i>Ahh. The sharks have them.
+Make port.</i>
+
+647
+01:42:54,103 --> 01:42:55,605
+<i>Thank you.</i>
+
+648
+01:42:55,688 --> 01:42:57,106
+<i>Hello.</i>
+
+649
+01:43:00,276 --> 01:43:03,905
+<i>- Give us a kiss.
+- Max, not now.</i>
+
+650
+01:43:03,988 --> 01:43:06,741
+<i>Kristatos is still alive.</i>
+
+651
+01:43:06,782 --> 01:43:10,453
+<i>And probably headed
+to Moscow or Havana by now.</i>
+
+652
+01:43:10,536 --> 01:43:12,580
+<i>We'll never get him.</i>
+
+653
+01:43:12,663 --> 01:43:14,123
+<i>Or the ATAC.</i>
+
+654
+01:43:14,165 --> 01:43:16,125
+<i>ATAC to St. Cyril's.</i>
+
+655
+01:44:30,700 --> 01:44:33,911
+<i>Forgive me, Father,
+for I have sinned.</i>
+
+656
+01:44:33,995 --> 01:44:37,331
+<i>That's putting it mildly, 007.</i>
+
+657
+01:44:37,373 --> 01:44:40,835
+<i>Your signal sent Whitehall into shock.</i>
+
+658
+01:44:40,877 --> 01:44:43,880
+<i>So far we have managed to locate...</i>
+
+659
+01:44:43,963 --> 01:44:48,092
+<i>439 St. Cyril's in Greece.</i>
+
+660
+01:44:48,176 --> 01:44:52,305
+<i>Heaven only knows to which one
+Kristatos took the ATAC.</i>
+
+661
+01:44:52,388 --> 01:44:55,850
+<i>I know a well-informed person
+to contact about that, Q.</i>
+
+662
+01:45:09,864 --> 01:45:13,117
+<i>St. Cyril's, where we used to hide
+from the Germans.</i>
+
+663
+01:45:13,201 --> 01:45:17,872
+<i>Only Kristatos would make an abandoned
+monastery his personal retreat.</i>
+
+664
+01:45:19,457 --> 01:45:22,001
+<i>My friend, I've been studying
+this place...</i>
+
+665
+01:45:22,084 --> 01:45:23,961
+<i>for just such an occasion.</i>
+
+666
+01:45:25,254 --> 01:45:26,923
+<i>We'll split here, huh?</i>
+
+667
+01:45:27,006 --> 01:45:31,135
+<i>Your best approach is on the right face,
+away from the building.</i>
+
+668
+01:45:31,219 --> 01:45:33,346
+<i>Then you will have to make towards
+the shed on the left...</i>
+
+669
+01:45:33,429 --> 01:45:36,974
+<i>which houses the basket
+and the electronic winch.</i>
+
+670
+01:45:37,058 --> 01:45:39,811
+<i>It can be operated
+only from the shed.</i>
+
+671
+01:45:39,894 --> 01:45:41,646
+<i>Good luck.</i>
+
+672
+01:45:51,739 --> 01:45:53,366
+<i>Should have brought more people.</i>
+
+673
+01:45:53,449 --> 01:45:56,410
+<i>- James is counting on surprise.
+- But we are only five men.</i>
+
+674
+01:45:56,494 --> 01:45:58,120
+<i>And one woman.</i>
+
+675
+01:46:50,006 --> 01:46:51,966
+<i>Eighteen...</i>
+
+676
+01:46:52,008 --> 01:46:53,551
+<i>nineteen...</i>
+
+677
+01:46:53,634 --> 01:46:55,803
+<i>twenty.</i>
+
+678
+01:46:55,845 --> 01:46:57,263
+<i>Fifty more.</i>
+
+679
+01:46:57,346 --> 01:47:01,684
+<i>That's the pits! I'm supposed to
+be skating in Oslo, in Innsbruck.</i>
+
+680
+01:47:01,767 --> 01:47:03,519
+<i>Why are we in this creepy place?</i>
+
+681
+01:47:03,603 --> 01:47:08,024
+<i>Our plans are changed. We are
+going to live in Cuba for a few months.</i>
+
+682
+01:47:08,107 --> 01:47:11,194
+<i>- Cuba!
+- You can skate without distractions.</i>
+
+683
+01:47:11,277 --> 01:47:12,528
+<i>I'll be your audience.</i>
+
+684
+01:47:12,612 --> 01:47:17,033
+<i>What a drag.
+I want to win the gold medal.</i>
+
+685
+01:47:17,116 --> 01:47:18,201
+<i>We all want that.</i>
+
+686
+01:47:19,076 --> 01:47:20,578
+<i>I know what you want.</i>
+
+687
+01:47:20,661 --> 01:47:23,748
+<i>But you're too old for me.
+I'm splitting.</i>
+
+688
+01:47:24,665 --> 01:47:29,545
+<i>- You have poisoned her against me!
+- Don't blow your top, Ari.</i>
+
+689
+01:47:29,629 --> 01:47:33,341
+<i>- Leave her alone.
+- I will deal with you...</i>
+
+690
+01:47:33,382 --> 01:47:36,344
+<i>as I deal with everyone who betrays me.</i>
+
+691
+01:47:45,603 --> 01:47:47,688
+<i>Bibi...</i>
+
+692
+01:47:47,730 --> 01:47:49,690
+<i>you're so young.</i>
+
+693
+01:47:51,234 --> 01:47:53,402
+<i>You must have a sponsor.</i>
+
+694
+01:47:53,486 --> 01:47:55,404
+<i>I'll find another one.</i>
+
+695
+01:47:55,446 --> 01:47:57,198
+<i>Go outside and check the guards.</i>
+
+696
+01:47:57,240 --> 01:48:00,368
+<i>Let me know when the helicopter arrives.</i>
+
+697
+01:53:14,599 --> 01:53:16,767
+<i>One of Kristatos' killers.</i>
+
+698
+01:55:59,972 --> 01:56:01,390
+<i>- Aah!
+- Shut him up.</i>
+
+699
+01:56:06,687 --> 01:56:08,648
+<i>Get the door.</i>
+
+700
+01:56:13,736 --> 01:56:17,114
+<i>Come on, George. Let's go.</i>
+
+701
+01:56:18,908 --> 01:56:21,953
+<i>Hurry, unless you want me
+to go without you.</i>
+
+702
+01:56:22,036 --> 01:56:24,539
+<i>You know,
+I will never leave you.</i>
+
+703
+01:56:27,875 --> 01:56:30,670
+<i>Your general is late.</i>
+
+704
+01:56:30,711 --> 01:56:33,256
+<i>Only bad weather would delay him.</i>
+
+705
+01:56:47,436 --> 01:56:49,564
+<i>Cover the windows.</i>
+
+706
+01:56:49,647 --> 01:56:51,732
+<i>Let's go.</i>
+
+707
+01:56:51,816 --> 01:56:53,860
+<i>He's all right. Leave him.</i>
+
+708
+01:57:01,617 --> 01:57:03,327
+<i>He's all right.</i>
+
+709
+01:57:03,411 --> 01:57:05,204
+<i>Back!</i>
+
+710
+01:57:13,629 --> 01:57:15,214
+<i>Okay. Let's go.</i>
+
+711
+01:57:16,382 --> 01:57:19,010
+<i>I'll be with you.</i>
+
+712
+01:57:19,093 --> 01:57:20,052
+<i>Sorry.</i>
+
+713
+01:57:32,565 --> 01:57:34,984
+<i>Cover the door!</i>
+
+714
+01:57:35,067 --> 01:57:37,862
+<i>Where's Kristatos?
+And keep your voice down.</i>
+
+715
+01:57:37,945 --> 01:57:41,407
+<i>We are leaving him.
+He mustn't know until we're gone.</i>
+
+716
+01:57:41,449 --> 01:57:43,075
+<i>We'll help you if you help us.</i>
+
+717
+01:57:45,786 --> 01:57:47,205
+<i>Come.</i>
+
+718
+01:57:58,549 --> 01:58:00,259
+<i>Where are the guards?</i>
+
+719
+01:58:00,343 --> 01:58:02,094
+<i>That way.</i>
+
+720
+01:58:02,136 --> 01:58:04,096
+<i>Wait here.</i>
+
+721
+01:58:53,771 --> 01:58:55,690
+<i>Move!</i>
+
+722
+01:58:58,651 --> 01:59:02,238
+<i>- Where's Kristatos?
+- The other side of the courtyard.</i>
+
+723
+01:59:02,321 --> 01:59:04,824
+<i>You better stay here.</i>
+
+724
+01:59:13,166 --> 01:59:15,793
+<i>What have you done to Brink?</i>
+
+725
+01:59:15,877 --> 01:59:18,379
+<i>- Go back to your room!
+- You can go to hell!</i>
+
+726
+01:59:51,245 --> 01:59:53,581
+<i>Drop it.</i>
+
+727
+02:01:15,788 --> 02:01:17,540
+<i>- Where's Kristatos?
+- He's left with the ATAC.</i>
+
+728
+02:01:29,719 --> 02:01:31,804
+<i>You're going to pay for it.</i>
+
+729
+02:01:31,846 --> 02:01:34,682
+<i>You're not as fast
+as you used to be.</i>
+
+730
+02:01:47,195 --> 02:01:49,322
+<i>No, Melina,
+that's not the answer.</i>
+
+731
+02:01:50,698 --> 02:01:52,283
+<i>We'll turn him over
+to the Greek police.</i>
+
+732
+02:01:52,366 --> 02:01:54,327
+<i>Out of my way, James.</i>
+
+733
+02:01:55,244 --> 02:01:57,205
+<i>All right...</i>
+
+734
+02:01:57,246 --> 02:01:59,832
+<i>but be prepared to dig
+those two graves.</i>
+
+735
+02:02:37,286 --> 02:02:39,622
+<i>That's detente, comrade.</i>
+
+736
+02:02:39,705 --> 02:02:42,416
+<i>You don't have it.
+I don't have it.</i>
+
+737
+02:03:15,908 --> 02:03:18,494
+<i>It seems as though Bibi
+has a new sponsor.</i>
+
+738
+02:03:29,005 --> 02:03:30,715
+<i>- How's it going?
+- I've patched through...</i>
+
+739
+02:03:30,798 --> 02:03:33,050
+<i>a high security line
+to the satellite.</i>
+
+740
+02:03:33,134 --> 02:03:34,802
+<i>We can try Bond now.</i>
+
+741
+02:03:34,886 --> 02:03:36,929
+<i>Good. Are you through to Number 10?</i>
+
+742
+02:03:36,971 --> 02:03:39,098
+<i>Standing by, sir.</i>
+
+743
+02:03:43,144 --> 02:03:44,854
+<i>You know what I'd like?</i>
+
+744
+02:03:46,439 --> 02:03:48,691
+<i>I can't imagine.</i>
+
+745
+02:03:48,774 --> 02:03:50,943
+<i>A moonlight swim.</i>
+
+746
+02:03:55,156 --> 02:03:56,782
+<i>007, are you there?</i>
+
+747
+02:04:07,084 --> 02:04:08,628
+<i>Bond, are you there?</i>
+
+748
+02:04:11,589 --> 02:04:13,633
+<i>For your eyes only, darling.</i>
+
+749
+02:04:19,514 --> 02:04:22,099
+<i>- He's there.
+- Patch in the prime minister.</i>
+
+750
+02:04:26,270 --> 02:04:28,189
+<i>I'll get it, Denis.</i>
+
+751
+02:04:31,067 --> 02:04:32,151
+<i>Hello.</i>
+
+752
+02:04:32,235 --> 02:04:34,403
+<i>Mr. Bond on the line,
+Prime Minister.</i>
+
+753
+02:04:34,487 --> 02:04:36,572
+<i>Ah, Mr. Bond...</i>
+
+754
+02:04:36,656 --> 02:04:40,993
+<i>I wanted to call you personally
+to say how pleased...</i>
+
+755
+02:04:41,035 --> 02:04:44,622
+<i>we all are that your mission
+was a success, thank you.</i>
+
+756
+02:04:44,705 --> 02:04:46,040
+<i>Thank you, thank you.</i>
+
+757
+02:04:46,082 --> 02:04:50,670
+<i>Don't thank me, Mr. Bond.
+Your courage and resourcefulness...</i>
+
+758
+02:04:50,711 --> 02:04:53,214
+<i>are a credit to the nation.</i>
+
+759
+02:04:53,297 --> 02:04:56,092
+<i>Denis and I look forward
+to meeting you.</i>
+
+760
+02:04:56,175 --> 02:04:57,844
+<i>Meanwhile, if there is anything
+I can do for you...</i>
+
+761
+02:04:57,927 --> 02:05:00,555
+<i>Give us a kiss, give us a kiss.</i>
+
+762
+02:05:00,638 --> 02:05:03,683
+<i>Well, really, Mr. Bond.</i>
+
+763
+02:05:03,724 --> 02:05:06,352
+<i>I think we're having
+a little trouble with the line, madam.</i>
+
+764
+02:05:07,395 --> 02:05:10,690
+<i>You idiot.
+Get on to him.</i>
+
+765
+02:05:10,731 --> 02:05:13,442
+<i>007. 007.</i>
+

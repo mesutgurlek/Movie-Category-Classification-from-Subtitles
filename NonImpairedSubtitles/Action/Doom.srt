@@ -1,0 +1,4807 @@
+1
+00:00:07,974 --> 00:00:09,532
+In the year 2026...
+
+2
+00:00:09,642 --> 00:00:11,701
+archaeologists working
+in the Nevada desert...
+
+3
+00:00:11,811 --> 00:00:15,269
+discovered a portal
+to an ancient city on Mars.
+
+4
+00:00:16,082 --> 00:00:18,141
+They called this portal the Ark.
+
+5
+00:00:19,619 --> 00:00:22,452
+Twenty years later,
+we're still struggling to understand...
+
+6
+00:00:22,555 --> 00:00:24,352
+why it was built...
+
+7
+00:00:24,824 --> 00:00:27,691
+and what happened
+to the civilization that built it.
+
+8
+00:01:55,381 --> 00:01:56,939
+Dr. Carmack!
+
+9
+00:01:58,718 --> 00:01:59,946
+Dr. Carmack!
+
+10
+00:02:20,773 --> 00:02:24,402
+This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.
+
+11
+00:02:25,678 --> 00:02:27,612
+We've had a Level 5 breach.
+
+12
+00:02:27,747 --> 00:02:30,511
+Implement quarantine
+procedures immediately.
+
+13
+00:02:30,617 --> 00:02:33,085
+Implement quarantine
+procedures now.
+
+14
+00:03:00,246 --> 00:03:01,713
+Reading you
+loud and clear, General.
+
+15
+00:03:01,848 --> 00:03:04,783
+Union Aerospace has requested
+assistance to contain...
+
+16
+00:03:04,918 --> 00:03:06,613
+a Level 5 breach
+at their Olduvai facility.
+
+17
+00:03:06,719 --> 00:03:08,380
+How many personnel involved?
+
+18
+00:03:08,488 --> 00:03:11,286
+Six scientists are under
+lockdown in a high-security lab...
+
+19
+00:03:11,391 --> 00:03:12,585
+where the breach occurred.
+
+20
+00:03:12,725 --> 00:03:14,852
+Another 79 UAC employees
+are on site.
+
+21
+00:03:16,062 --> 00:03:18,826
+Ark travel has been suspended.
+What's the objective?
+
+22
+00:03:18,932 --> 00:03:21,992
+Code red. Assess level of
+threat. Assess level of threat.
+
+23
+00:03:22,101 --> 00:03:24,035
+Protect and retrieve
+UAC property.
+
+24
+00:03:24,137 --> 00:03:27,004
+Maintain quarantine at both
+Ark portals by any means necessary.
+
+25
+00:03:27,106 --> 00:03:29,574
+Use extreme prejudice?
+Extreme prejudice.
+
+26
+00:03:29,709 --> 00:03:32,473
+If necessary,
+search and destroy. Over.
+
+27
+00:03:32,579 --> 00:03:34,012
+Search and destroy.
+
+28
+00:03:34,514 --> 00:03:36,744
+Orders received
+and understood. Out.
+
+29
+00:03:37,750 --> 00:03:40,583
+Oh, you're trying to get
+nasty now, huh?
+
+30
+00:03:40,687 --> 00:03:43,554
+Now you dead. You dead,
+sucker. All right, all right.
+
+31
+00:03:44,190 --> 00:03:46,454
+You wanna bring your boys?
+You wanna bring your boys?
+
+32
+00:03:46,759 --> 00:03:47,851
+I don't believe this.
+
+33
+00:03:49,262 --> 00:03:51,253
+I confess to God the father.
+
+34
+00:04:00,506 --> 00:04:01,803
+Oh, yeah!
+
+35
+00:04:02,842 --> 00:04:05,572
+I need help.
+The wall, man.
+
+36
+00:04:05,678 --> 00:04:07,475
+I don't believe this shit.
+
+37
+00:04:07,580 --> 00:04:08,672
+Six months
+without a weekend...
+
+38
+00:04:08,815 --> 00:04:11,443
+the goddamned transporters
+are five minutes late.
+
+39
+00:04:11,551 --> 00:04:14,884
+And that's five minutes of
+R and R I ain't never gonna get back.
+
+40
+00:04:14,988 --> 00:04:17,582
+Hey, relax, baby.
+We're on vacation.
+
+41
+00:04:21,794 --> 00:04:24,160
+Yo.
+This game's layered, man.
+
+42
+00:04:28,468 --> 00:04:31,835
+Where you going, Portman?
+I'm going down to El Honto...
+
+43
+00:04:31,938 --> 00:04:34,634
+and I'm gonna lock myself
+in a motel room...
+
+44
+00:04:34,774 --> 00:04:37,743
+with a bottle of tequila
+and three she-boys.
+
+45
+00:04:40,079 --> 00:04:41,478
+You're sick, man.
+
+46
+00:04:45,818 --> 00:04:49,083
+I'm sick of your filth, Portman.
+He speaks.
+
+47
+00:04:49,455 --> 00:04:50,513
+What's it gonna be, Reaps?
+
+48
+00:04:50,657 --> 00:04:52,090
+An armed conflict
+someplace quiet?
+
+49
+00:04:52,191 --> 00:04:55,558
+Yeah, a little relaxing
+jungle warfare?
+
+50
+00:04:56,429 --> 00:04:58,021
+Or maybe you're just gonna
+stay right here.
+
+51
+00:04:58,131 --> 00:04:59,564
+Spending my time
+doing pushups.
+
+52
+00:04:59,699 --> 00:05:01,189
+Listen up, men.
+
+53
+00:05:03,603 --> 00:05:05,264
+Leave is canceled.
+
+54
+00:05:05,805 --> 00:05:09,400
+Oh, man. I just...
+I don't believe this shit.
+
+55
+00:05:10,677 --> 00:05:12,611
+Fuck!
+Got a problem with that, Duke?
+
+56
+00:05:12,745 --> 00:05:15,009
+Me, Sarge?
+Hell, no, I love my job.
+
+57
+00:05:15,114 --> 00:05:17,309
+What's up, Sarge?
+We got us a game.
+
+58
+00:05:19,385 --> 00:05:20,317
+Kid!
+
+59
+00:05:20,820 --> 00:05:23,755
+Son, you are now
+in the Rapid Response Tactical Squad...
+
+60
+00:05:23,856 --> 00:05:25,050
+the RRTS.
+
+61
+00:05:27,193 --> 00:05:28,125
+Fall in.
+
+62
+00:05:31,731 --> 00:05:34,029
+All dressed up and
+nowhere to go, huh, Portman?
+
+63
+00:05:35,468 --> 00:05:38,960
+Kid, don't forget your rattle.
+Shut up, Portman.
+
+64
+00:05:40,873 --> 00:05:42,864
+Not this time, John.
+What?
+
+65
+00:05:43,676 --> 00:05:46,440
+We can handle this one.
+You're bullshitting me.
+
+66
+00:05:47,714 --> 00:05:50,274
+No, I'm not bullshitting.
+We're going to Olduvai.
+
+67
+00:05:52,752 --> 00:05:53,684
+Olduvai?
+
+68
+00:05:58,658 --> 00:06:01,149
+Take the leave.
+Is that an order?
+
+69
+00:06:02,362 --> 00:06:04,193
+It's a recommendation.
+
+70
+00:06:05,365 --> 00:06:06,992
+See you when I get back.
+
+71
+00:06:11,204 --> 00:06:13,263
+Aircraft ready to load.
+Copy that.
+
+72
+00:06:13,373 --> 00:06:15,603
+Great vacation.
+Damn, they go quick.
+
+73
+00:06:15,708 --> 00:06:17,369
+Almost like
+we've never been away.
+
+74
+00:06:18,277 --> 00:06:19,608
+We're a go.
+
+75
+00:06:19,712 --> 00:06:21,680
+All systems are green.
+Prepare for takeoff.
+
+76
+00:06:21,781 --> 00:06:23,214
+Okay, Sarge, roger.
+
+77
+00:06:28,621 --> 00:06:31,055
+RRTS Special Ops
+clearance verified.
+
+78
+00:06:31,190 --> 00:06:32,987
+Handle ID: Destroyer.
+
+79
+00:06:33,092 --> 00:06:36,084
+Daddy's home.
+Handle ID: Mac.
+
+80
+00:06:37,663 --> 00:06:41,190
+Handle ID: Portman.
+Handle ID: Goat.
+
+81
+00:06:41,834 --> 00:06:43,768
+Handle ID: The Kid.
+
+82
+00:06:43,870 --> 00:06:46,304
+"The Kid"?
+Handle ID: Duke.
+
+83
+00:06:46,406 --> 00:06:48,135
+Say my name, baby.
+
+84
+00:06:49,609 --> 00:06:51,804
+RRTS Special Ops
+clearance verified.
+
+85
+00:06:51,911 --> 00:06:54,379
+Handle ID: Sarge.
+
+86
+00:06:54,514 --> 00:06:56,345
+I can't believe
+we're going through the Ark.
+
+87
+00:06:56,449 --> 00:06:59,850
+Don't worry, Kid.
+You're gonna love it.
+
+88
+00:07:02,288 --> 00:07:03,755
+- All set?
+- Yes, sir.
+
+89
+00:07:11,731 --> 00:07:16,191
+RRTS Special Ops
+clearance verified. Handle ID: Reaper.
+
+90
+00:07:17,170 --> 00:07:18,159
+Take us up!
+
+91
+00:07:18,271 --> 00:07:20,535
+RRTS air 6,
+we're airborne and en route.
+
+92
+00:07:31,050 --> 00:07:33,041
+You know, Kid, it's funny.
+
+93
+00:07:33,953 --> 00:07:36,979
+A couple of days ago
+I asked Sarge for a little pussy.
+
+94
+00:07:38,157 --> 00:07:40,591
+The next day he brought you
+onto the team.
+
+95
+00:07:41,427 --> 00:07:43,827
+Don't give me
+an excuse, Portman.
+
+96
+00:07:44,330 --> 00:07:46,264
+No one here will miss you.
+
+97
+00:07:47,967 --> 00:07:49,696
+Men, look in.
+
+98
+00:07:50,269 --> 00:07:52,533
+This is what we got
+from Simcon.
+
+99
+00:07:54,040 --> 00:07:56,474
+We have a quarantine situation
+on Olduvai.
+
+100
+00:07:56,576 --> 00:07:57,634
+They sent this message...
+
+101
+00:07:57,777 --> 00:08:00,371
+when the research team stopped
+responding to all communications.
+
+102
+00:08:00,480 --> 00:08:01,572
+Olduvai.
+
+103
+00:08:01,681 --> 00:08:06,243
+This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.
+
+104
+00:08:07,286 --> 00:08:08,685
+We've had a Level 5 breach.
+
+105
+00:08:08,788 --> 00:08:10,949
+Implement quarantine procedures
+immediately.
+
+106
+00:08:11,157 --> 00:08:12,089
+I repeat.
+
+107
+00:08:12,225 --> 00:08:15,683
+This is Dr. Carmack,
+Classified Research, Olduvai, ID 6627.
+
+108
+00:08:15,828 --> 00:08:18,023
+We've had a Level 5 breach.
+
+109
+00:08:18,197 --> 00:08:20,097
+Implement
+quarantine procedures now.
+
+110
+00:08:21,534 --> 00:08:23,968
+UAC have
+shut down the lab, men.
+
+111
+00:08:24,103 --> 00:08:25,866
+We need to go up there,
+locate the team...
+
+112
+00:08:25,972 --> 00:08:28,270
+eliminate the threat
+and secure the facility.
+
+113
+00:08:28,441 --> 00:08:29,703
+What threat?
+
+114
+00:08:30,810 --> 00:08:34,473
+It goes like this, see: If it's
+trying to kill you, it's a threat.
+
+115
+00:08:48,094 --> 00:08:50,062
+Rescue mission
+heading 147 degrees.
+
+116
+00:08:50,162 --> 00:08:53,029
+Location Lima, Zulu,
+Foxtrot 14.
+
+117
+00:08:53,132 --> 00:08:55,362
+Roger, Q-06. Badger 39 out.
+
+118
+00:08:55,501 --> 00:08:56,695
+Copy, Badger 39.
+
+119
+00:09:06,979 --> 00:09:10,312
+How long has it been?
+Ten years.
+
+120
+00:09:10,416 --> 00:09:12,611
+Sure she's even
+still up there?
+
+121
+00:09:16,822 --> 00:09:17,754
+Yeah.
+
+122
+00:09:20,126 --> 00:09:22,560
+I guess you gotta face
+your demon sometime.
+
+123
+00:09:26,165 --> 00:09:29,191
+Copy, Q-06, we've got
+a visual on Lima, Zulu.
+
+124
+00:09:29,335 --> 00:09:32,031
+ETA at 90 seconds. Stand by.
+
+125
+00:09:32,138 --> 00:09:34,834
+Look alive, men. Game time.
+
+126
+00:10:00,933 --> 00:10:01,865
+Halt.
+
+127
+00:10:25,057 --> 00:10:25,989
+Move in.
+
+128
+00:10:38,738 --> 00:10:41,172
+You hesitate, people die.
+
+129
+00:11:00,559 --> 00:11:01,753
+I checked it...
+
+130
+00:11:01,894 --> 00:11:04,419
+at least three times
+before we sent it through.
+
+131
+00:11:05,364 --> 00:11:08,094
+Sanford Crosby,
+UAC Public Relations.
+
+132
+00:11:10,136 --> 00:11:12,502
+Now follow me, please.
+How many people you got up there?
+
+133
+00:11:12,605 --> 00:11:16,006
+UAC employs 85 permanent
+research staff on Olduvai.
+
+134
+00:11:20,446 --> 00:11:22,573
+Welcome to the Ark, gentlemen.
+
+135
+00:11:23,215 --> 00:11:25,581
+Initiating
+molecular mapping drive.
+
+136
+00:11:25,685 --> 00:11:27,915
+Initiating
+molecular mapping drive.
+
+137
+00:11:31,223 --> 00:11:33,657
+All personnel,
+prepare for activation.
+
+138
+00:11:35,027 --> 00:11:38,292
+Keep your distance from the
+core or you might get sucked in.
+
+139
+00:11:38,497 --> 00:11:40,931
+You, uh, you done this before?
+
+140
+00:11:41,067 --> 00:11:43,092
+Once. Training mission.
+
+141
+00:11:43,536 --> 00:11:45,265
+Hope you had a good dinner,
+Kid.
+
+142
+00:11:45,404 --> 00:11:47,702
+Inter-planet coordinate
+lock engaged.
+
+143
+00:11:48,874 --> 00:11:51,900
+All telemetry verified
+and transmissions are five-by-five.
+
+144
+00:11:52,011 --> 00:11:54,741
+Soon as we get through, I need you to
+shut down the surface elevator here.
+
+145
+00:11:54,847 --> 00:11:57,042
+Make sure that we get
+the standard quarantine of six hours.
+
+146
+00:11:57,149 --> 00:11:59,845
+Target receiver initialized.
+Ready to proceed.
+
+147
+00:12:01,153 --> 00:12:04,589
+Ark travel,
+15 seconds and counting.
+
+148
+00:12:14,600 --> 00:12:16,693
+Five, four...
+
+149
+00:12:17,536 --> 00:12:19,367
+three, two...
+
+150
+00:12:20,172 --> 00:12:21,104
+one.
+
+151
+00:12:33,252 --> 00:12:34,810
+Why we gotta come
+all this way?
+
+152
+00:12:35,321 --> 00:12:38,313
+Why can't UAC rent-a-cops
+take care of this bullshit?
+
+153
+00:12:38,457 --> 00:12:40,186
+Is it always that rough?
+
+154
+00:12:40,292 --> 00:12:42,658
+Believe me,
+it used to be a lot rougher.
+
+155
+00:12:43,129 --> 00:12:46,724
+There was a time when Ark travel
+was susceptible to, let's say...
+
+156
+00:12:46,866 --> 00:12:49,630
+major turbulence.
+What's he mean?
+
+157
+00:12:50,236 --> 00:12:53,672
+He means he went
+to one galaxy, his ass went to another.
+
+158
+00:12:55,674 --> 00:12:58,199
+Call it
+a scientific miscalculation.
+
+159
+00:12:58,811 --> 00:13:03,043
+Unbelievable as it may seem,
+UAC does make the odd tiny mistake.
+
+160
+00:13:03,883 --> 00:13:06,750
+Marcus Pinzerowsky.
+You call me Pinky. Follow me.
+
+161
+00:13:07,153 --> 00:13:09,621
+Where are the personnel who
+aren't locked down in the lab?
+
+162
+00:13:09,755 --> 00:13:10,687
+In the atrium.
+
+163
+00:13:10,823 --> 00:13:12,791
+Pinky, put us up.
+
+164
+00:13:13,793 --> 00:13:16,159
+Activating remote personnel
+surveillance.
+
+165
+00:13:19,698 --> 00:13:21,791
+Circle out men, on my three.
+
+166
+00:13:22,501 --> 00:13:24,731
+One, two, three.
+
+167
+00:13:26,806 --> 00:13:28,933
+Killcams up and running.
+
+168
+00:13:29,909 --> 00:13:32,173
+People, this room
+is a code red, which means...
+
+169
+00:13:32,278 --> 00:13:33,905
+no one gets in
+without our permission.
+
+170
+00:13:34,046 --> 00:13:35,274
+It stays ours at all costs.
+
+171
+00:13:35,381 --> 00:13:37,713
+Mac, stay here with our friend
+and secure the door.
+
+172
+00:13:37,817 --> 00:13:40,047
+Men, on me. Let's move out.
+
+173
+00:13:45,324 --> 00:13:46,484
+Open the doors.
+
+174
+00:14:01,607 --> 00:14:03,234
+Who called in the military?
+
+175
+00:14:09,648 --> 00:14:11,013
+Where the fuck are we?
+
+176
+00:14:11,116 --> 00:14:13,584
+Couple million light years
+from breakfast.
+
+177
+00:14:13,719 --> 00:14:15,914
+When can I start
+evacuating people out through the Ark?
+
+178
+00:14:16,021 --> 00:14:18,387
+We're at a Level 5 quarantine,
+nobody goes anywhere.
+
+179
+00:14:18,490 --> 00:14:22,722
+Ladies, we're under
+a Level 5 quarantine...
+
+180
+00:14:22,828 --> 00:14:26,320
+so I'm just gonna have to
+strip search you girls.
+
+181
+00:14:26,432 --> 00:14:29,401
+- I don't think so.
+- Hold that thought.
+
+182
+00:14:29,501 --> 00:14:32,493
+We're under a Level 5 quarantine,
+so I'm just gonna have...
+
+183
+00:14:32,638 --> 00:14:34,333
+to strip...
+Portman!
+
+184
+00:14:34,440 --> 00:14:37,238
+Sergeant, this is Dr. Samantha Grimm,
+the UAC science officer...
+
+185
+00:14:37,343 --> 00:14:39,402
+assigned to retrieve data
+from the lab.
+
+186
+00:14:39,511 --> 00:14:41,502
+- Sergeant.
+- Dr. Grimm.
+
+187
+00:14:41,647 --> 00:14:44,047
+- Hello, John.
+- Hello, Samantha.
+
+188
+00:14:44,149 --> 00:14:45,548
+Hello, Samantha!
+
+189
+00:14:46,485 --> 00:14:48,350
+Sarge,
+this operation is a code red.
+
+190
+00:14:48,454 --> 00:14:50,513
+We really don't have room
+for passengers.
+
+191
+00:14:50,656 --> 00:14:54,057
+Excuse me, but I have orders
+to retrieve data from three servers:
+
+192
+00:14:54,193 --> 00:14:57,424
+Anthropology, Forensic Archeology,
+and Genetics.
+
+193
+00:14:57,563 --> 00:14:59,724
+This is a military operation,
+Doctor.
+
+194
+00:14:59,832 --> 00:15:02,824
+We're really not here
+to retrieve your science homework.
+
+195
+00:15:02,968 --> 00:15:06,699
+Look, I got an idea. Why don't you
+ask your CO what your orders are?
+
+196
+00:15:09,408 --> 00:15:12,172
+To contain and neutralize the threat,
+protect the civilians...
+
+197
+00:15:12,278 --> 00:15:16,078
+and retrieve...
+retrieve UAC property.
+
+198
+00:15:16,682 --> 00:15:19,515
+We finally done here?
+Because I've got a job to do.
+
+199
+00:15:19,852 --> 00:15:22,412
+If you'll follow me?
+You chose this, Reaper.
+
+200
+00:15:24,123 --> 00:15:26,455
+Is this gonna spoil my day?
+No, sir.
+
+201
+00:15:26,558 --> 00:15:28,651
+Tell me you didn't let
+a fine-looking piece of ass...
+
+202
+00:15:28,794 --> 00:15:30,921
+like that get away from you,
+Reaper. She's my sister.
+
+203
+00:15:31,063 --> 00:15:33,031
+No shit?
+Don't do this again, man.
+
+204
+00:15:33,132 --> 00:15:34,064
+Do what?
+
+205
+00:15:34,600 --> 00:15:37,034
+There's three sections
+to Carmack's lab complex.
+
+206
+00:15:37,136 --> 00:15:39,536
+Archeology, Genetics,
+and Weapons Research.
+
+207
+00:15:39,638 --> 00:15:41,572
+You test weapons up here?
+Well, it's a dead planet.
+
+208
+00:15:41,674 --> 00:15:44,541
+You want that stuff tested here, where
+it's safe, or in your own backyard?
+
+209
+00:15:44,643 --> 00:15:47,077
+We're primarily
+an archeological operation.
+
+210
+00:15:47,179 --> 00:15:49,613
+Weapons Research is in
+its own separate facility.
+
+211
+00:15:49,715 --> 00:15:52,081
+It has nothing to do
+with Dr. Carmack's work.
+
+212
+00:15:52,184 --> 00:15:53,811
+How many inside
+when the lab shut down?
+
+213
+00:15:53,919 --> 00:15:56,479
+Only Dr. Carmack's team.
+That's six people.
+
+214
+00:15:56,588 --> 00:15:59,455
+In one of the carbon dating
+labs, there was an internal phone...
+
+215
+00:15:59,558 --> 00:16:00,650
+left off the hook.
+
+216
+00:16:00,759 --> 00:16:02,989
+Did you get any information
+from it?
+
+217
+00:16:11,270 --> 00:16:12,464
+Open the door.
+
+218
+00:16:23,082 --> 00:16:25,243
+Portman, Goat, lead on.
+
+219
+00:16:33,592 --> 00:16:36,083
+Magnesium, chromium, lead.
+It's all normal.
+
+220
+00:16:36,228 --> 00:16:37,525
+All clear.
+
+221
+00:16:41,033 --> 00:16:43,194
+Pinky, give us a schematic.
+
+222
+00:16:44,269 --> 00:16:46,032
+Uploading to you now.
+
+223
+00:16:49,975 --> 00:16:52,409
+Carmack's lab is isolated
+from the rest of the facility.
+
+224
+00:16:53,345 --> 00:16:55,677
+The airlock is the only way
+in or out.
+
+225
+00:16:59,118 --> 00:17:00,551
+Goat, Portman: Genetics.
+
+226
+00:17:00,652 --> 00:17:03,678
+Kid, Destroyer: Carmack's office,
+where he sent the mayday from.
+
+227
+00:17:03,822 --> 00:17:06,586
+Reaper, keep Dr. Grimm here
+safe on her salvage op.
+
+228
+00:17:06,692 --> 00:17:10,628
+Duke and I'll take the weapons lab,
+make sure all the hardware's secure.
+
+229
+00:17:10,763 --> 00:17:12,390
+Be safe, gentlemen.
+
+230
+00:17:12,898 --> 00:17:14,923
+Portman, Goat, on you.
+It's on.
+
+231
+00:17:27,579 --> 00:17:29,274
+- Clear left.
+- Clear right.
+
+232
+00:17:33,919 --> 00:17:38,083
+$5 says this shit ain't nothing but
+a disgruntled employee with a gun.
+
+233
+00:17:40,292 --> 00:17:43,352
+Fluorescent markings
+as rooms are cleared. Go.
+
+234
+00:17:49,368 --> 00:17:51,063
+They're on the move.
+
+235
+00:17:53,238 --> 00:17:55,035
+You don't look like a "Mac".
+
+236
+00:17:56,308 --> 00:17:58,902
+Katsuhiko Kumanosuke Takaashi.
+
+237
+00:18:00,546 --> 00:18:01,979
+So, Mac.
+
+238
+00:18:53,098 --> 00:18:54,292
+What the fuck!
+
+239
+00:19:14,653 --> 00:19:17,019
+Pinky, you getting this?
+
+240
+00:19:17,156 --> 00:19:18,282
+Jesus.
+
+241
+00:19:18,390 --> 00:19:19,755
+Very cool.
+
+242
+00:19:48,620 --> 00:19:49,552
+Cleared.
+
+243
+00:19:50,956 --> 00:19:53,151
+Where the hell is everybody?
+
+244
+00:19:56,028 --> 00:19:56,960
+Hey.
+
+245
+00:20:12,244 --> 00:20:13,211
+Lock in.
+
+246
+00:20:21,053 --> 00:20:22,213
+It's clear.
+
+247
+00:20:25,324 --> 00:20:27,155
+How much time you gonna need?
+
+248
+00:20:27,259 --> 00:20:29,159
+Thirty minutes, tops.
+
+249
+00:20:29,728 --> 00:20:31,320
+Goat, Portman.
+
+250
+00:20:31,430 --> 00:20:33,227
+There's another room
+to the north.
+
+251
+00:20:33,332 --> 00:20:34,890
+Past Genetics.
+
+252
+00:20:36,468 --> 00:20:37,662
+Copy that.
+
+253
+00:20:56,221 --> 00:20:59,088
+What the hell is that?
+You never did time, Portman?
+
+254
+00:20:59,191 --> 00:21:00,123
+What?
+
+255
+00:21:02,361 --> 00:21:06,195
+This is a holding cell.
+Bullshit.
+
+256
+00:21:06,932 --> 00:21:08,593
+What makes you think that?
+
+257
+00:21:10,602 --> 00:21:11,534
+Touch it.
+
+258
+00:21:16,074 --> 00:21:20,170
+'Cause the walls are electrified.
+You asshole!
+
+259
+00:21:26,018 --> 00:21:28,612
+Jeez. They leave shit
+like this lying around?
+
+260
+00:21:30,188 --> 00:21:32,679
+I'd hate to see
+what they lock up.
+
+261
+00:21:42,334 --> 00:21:43,301
+"BFG".
+
+262
+00:21:47,272 --> 00:21:49,934
+Hey, Sarge, what's the deal
+with the sister?
+
+263
+00:21:53,178 --> 00:21:55,874
+Reaper's parents led the first team
+of archeologists to Olduvai.
+
+264
+00:21:56,014 --> 00:21:58,574
+They died in some accident
+when he was a kid.
+
+265
+00:22:01,320 --> 00:22:03,982
+She followed in their
+footsteps, and he didn't.
+
+266
+00:22:04,289 --> 00:22:07,622
+No, what I meant was,
+is she single?
+
+267
+00:22:12,764 --> 00:22:14,823
+Please provide
+DNA verification.
+
+268
+00:22:19,604 --> 00:22:21,663
+Access denied.
+
+269
+00:22:58,210 --> 00:22:59,871
+All units report contact.
+
+270
+00:23:00,545 --> 00:23:02,604
+God damn it,
+all units report contact.
+
+271
+00:23:03,248 --> 00:23:04,180
+Hey.
+
+272
+00:23:07,319 --> 00:23:08,843
+It was moving.
+
+273
+00:23:09,020 --> 00:23:11,511
+Friendly fire, Sarge.
+Wasting ghosts.
+
+274
+00:23:11,990 --> 00:23:13,924
+Roger that. Funny, Duke.
+
+275
+00:23:15,193 --> 00:23:17,923
+So, "Reaper"? As in "Grim"?
+
+276
+00:23:18,630 --> 00:23:20,621
+They're Marines, Sam, not poets.
+
+277
+00:23:21,533 --> 00:23:23,000
+Holy shit!
+
+278
+00:23:24,169 --> 00:23:25,568
+Oh, yeah, meet Lucy.
+
+279
+00:23:25,704 --> 00:23:27,331
+Lucy, this is my brother,
+John...
+
+280
+00:23:27,439 --> 00:23:29,373
+another creature
+from the long lost past.
+
+281
+00:23:29,474 --> 00:23:32,102
+You found human remains?
+Humanoid.
+
+282
+00:23:32,244 --> 00:23:34,769
+Lucy and her child
+were our first major find.
+
+283
+00:23:34,880 --> 00:23:36,939
+We're bringing out more
+every day.
+
+284
+00:23:38,383 --> 00:23:42,217
+You re-opened the dig?
+I know I should have told you.
+
+285
+00:23:42,621 --> 00:23:44,555
+I didn't figure it was
+the sort of thing...
+
+286
+00:23:44,689 --> 00:23:47,123
+I could jot down on
+a yearly birthday card.
+
+287
+00:23:47,559 --> 00:23:49,550
+It's been stabilized.
+Bullshit.
+
+288
+00:23:50,028 --> 00:23:52,963
+You wanna talk about safe?
+Like you took a desk job?
+
+289
+00:23:54,666 --> 00:23:57,635
+I'm a forensic archeologist,
+John. I'll go where the work is.
+
+290
+00:23:57,769 --> 00:23:59,794
+Is that the only reason
+you're up here?
+
+291
+00:23:59,938 --> 00:24:01,872
+You wanna know
+why I'm up here?
+
+292
+00:24:02,908 --> 00:24:04,603
+I'll show you. Come here.
+
+293
+00:24:06,778 --> 00:24:09,770
+This is Lucy's chromosome
+profile. Notice anything?
+
+294
+00:24:11,149 --> 00:24:13,481
+My molecular genetics
+is a little rusty.
+
+295
+00:24:13,718 --> 00:24:16,482
+What's the first thing
+Dad taught us to look for?
+
+296
+00:24:23,795 --> 00:24:26,059
+She's got 24 pairs
+of chromosomes.
+
+297
+00:24:26,164 --> 00:24:29,600
+Humans only have 23.
+But what does the extra pair do?
+
+298
+00:24:29,734 --> 00:24:31,258
+Makes her superhuman.
+
+299
+00:24:31,470 --> 00:24:33,461
+The extra pair makes
+her super strong...
+
+300
+00:24:33,605 --> 00:24:36,005
+super fit, super intelligent.
+
+301
+00:24:36,308 --> 00:24:38,833
+Her cells divide
+50 times faster...
+
+302
+00:24:38,977 --> 00:24:41,343
+meaning she heals
+almost instantly.
+
+303
+00:24:41,947 --> 00:24:44,575
+The fossil record indicates these people
+had conquered disease.
+
+304
+00:24:44,716 --> 00:24:47,913
+We found no genetic disorders,
+no viruses, no cancers.
+
+305
+00:24:48,019 --> 00:24:50,487
+So what, they were just
+naturally superior?
+
+306
+00:24:51,122 --> 00:24:52,612
+No. Not naturally.
+
+307
+00:24:53,258 --> 00:24:56,193
+See, the earliest remains
+we found only had 23.
+
+308
+00:24:56,962 --> 00:24:59,726
+We suspect this extra
+chromosome may be synthetic.
+
+309
+00:25:00,098 --> 00:25:01,292
+Bioengineered?
+
+310
+00:25:02,334 --> 00:25:04,302
+That's a long word
+for a Marine.
+
+311
+00:25:05,370 --> 00:25:06,462
+Does it ever bother you...
+
+312
+00:25:06,571 --> 00:25:08,539
+you could've spent your life
+looking in a microscope...
+
+313
+00:25:08,673 --> 00:25:10,231
+instead of a sniper scope?
+
+314
+00:25:12,911 --> 00:25:15,744
+If they were so smart,
+how come they're so dead?
+
+315
+00:25:16,882 --> 00:25:18,110
+We don't know.
+
+316
+00:25:19,017 --> 00:25:21,110
+Maybe they just went
+with time.
+
+317
+00:25:22,320 --> 00:25:24,550
+You don't shield a baby
+from time.
+
+318
+00:25:26,992 --> 00:25:28,653
+We got movement up ahead.
+
+319
+00:25:30,095 --> 00:25:32,290
+You stay here, okay?
+Lock the door.
+
+320
+00:25:42,974 --> 00:25:45,033
+Fucking door has
+been ripped open.
+
+321
+00:25:45,510 --> 00:25:48,070
+There's something
+in Carmack's office.
+
+322
+00:26:43,068 --> 00:26:44,000
+There!
+
+323
+00:26:46,471 --> 00:26:47,529
+Contact!
+
+324
+00:26:47,672 --> 00:26:50,470
+Moving east through
+Carmack's office! Fast!
+
+325
+00:26:53,311 --> 00:26:56,474
+Confirmed contact. Moving
+fast, over south corridor.
+
+326
+00:26:57,182 --> 00:26:58,479
+Hold your fire!
+
+327
+00:27:08,526 --> 00:27:11,393
+If you have a weapon, drop it.
+
+328
+00:27:15,834 --> 00:27:16,892
+Don't move.
+
+329
+00:27:28,680 --> 00:27:31,843
+Sam, I told you to stay...
+But he knows me, John.
+
+330
+00:27:32,450 --> 00:27:35,044
+Dr. Carmack, it's me.
+Samantha.
+
+331
+00:27:35,754 --> 00:27:39,053
+Where are the others?
+Where are they?
+
+332
+00:27:39,157 --> 00:27:40,954
+Steve, Hillary...
+
+333
+00:27:41,993 --> 00:27:43,654
+I'm not gonna hurt you.
+
+334
+00:27:46,131 --> 00:27:47,792
+I'm not gonna hurt you.
+
+335
+00:27:49,501 --> 00:27:50,661
+Ah!
+
+336
+00:27:52,937 --> 00:27:54,029
+Jesus Christ!
+
+337
+00:27:54,139 --> 00:27:56,437
+Oh, damn.
+Get a med kit.
+
+338
+00:27:56,541 --> 00:27:57,599
+Nice.
+
+339
+00:27:58,076 --> 00:28:00,101
+I'm not gonna hurt you.
+
+340
+00:28:00,245 --> 00:28:02,179
+Duke, get him to the infirmary
+with Dr. Grimm.
+
+341
+00:28:02,280 --> 00:28:05,215
+Portman, Kid, go to
+the airlock and dig in.
+
+342
+00:28:05,950 --> 00:28:09,442
+Anything trying to get away
+from us will get driven straight to you.
+
+343
+00:28:12,257 --> 00:28:15,852
+Now let's see if we can find the body
+that goes with that arm.
+
+344
+00:28:19,931 --> 00:28:21,762
+It's messed up, huh?
+
+345
+00:28:23,968 --> 00:28:25,401
+Guy like Carmack...
+
+346
+00:28:26,104 --> 00:28:28,664
+who's trained to put logic
+before emotion...
+
+347
+00:28:29,374 --> 00:28:31,604
+he's so freaked, huh...
+
+348
+00:28:31,710 --> 00:28:34,076
+he tears off his own ear?
+
+349
+00:28:35,413 --> 00:28:36,675
+I tell you, man.
+
+350
+00:28:37,582 --> 00:28:40,881
+It's shit like that
+that gets under your skin.
+
+351
+00:28:48,793 --> 00:28:49,725
+Do you...
+
+352
+00:28:54,632 --> 00:28:58,033
+Do you have any?
+Do I have any?
+
+353
+00:29:04,175 --> 00:29:05,107
+What?
+
+354
+00:29:07,779 --> 00:29:08,711
+You know.
+
+355
+00:29:10,648 --> 00:29:11,842
+I'm just a little shook up.
+
+356
+00:29:11,950 --> 00:29:13,850
+I need something
+to get my focus, man.
+
+357
+00:29:13,952 --> 00:29:16,113
+My game face.
+
+358
+00:30:18,750 --> 00:30:20,183
+God damn it!
+
+359
+00:30:52,417 --> 00:30:54,214
+I took His name in vain.
+
+360
+00:31:21,312 --> 00:31:23,280
+Shit.
+
+361
+00:31:30,121 --> 00:31:32,919
+There is a God.
+
+362
+00:31:55,980 --> 00:31:57,242
+Ma'am.
+
+363
+00:31:58,516 --> 00:31:59,744
+Excuse me, ma'am.
+
+364
+00:32:11,829 --> 00:32:13,262
+Sarge...
+
+365
+00:32:14,499 --> 00:32:16,399
+I think we found
+the rest of that arm.
+
+366
+00:32:26,911 --> 00:32:28,970
+No, no.
+
+367
+00:32:29,347 --> 00:32:32,680
+No, no, I don't do nanowalls.
+Yes, you do.
+
+368
+00:32:37,355 --> 00:32:40,051
+You got him? Wait here.
+
+369
+00:32:41,826 --> 00:32:42,758
+Shit.
+
+370
+00:33:00,845 --> 00:33:01,903
+Two, three.
+
+371
+00:33:03,014 --> 00:33:03,946
+You okay?
+
+372
+00:33:04,115 --> 00:33:05,980
+Did they find the others?
+Not yet.
+
+373
+00:33:06,084 --> 00:33:08,382
+My husband is with them.
+
+374
+00:33:09,754 --> 00:33:11,483
+I'm sure Steve's fine.
+
+375
+00:33:13,224 --> 00:33:16,057
+Dr. Carmack, I'm going to
+take your blood pressure.
+
+376
+00:33:20,932 --> 00:33:23,662
+Hey...
+It's okay, it's okay.
+
+377
+00:33:25,003 --> 00:33:27,335
+I can feel it.
+What happened in there?
+
+378
+00:33:28,506 --> 00:33:31,304
+Shut it, shut it down.
+Shut it down.
+
+379
+00:33:38,883 --> 00:33:40,180
+S-Shut it down.
+
+380
+00:33:43,821 --> 00:33:44,913
+It's inside.
+
+381
+00:33:47,025 --> 00:33:48,424
+We heard something
+in Genetics.
+
+382
+00:33:48,526 --> 00:33:49,584
+We're re-entering.
+
+383
+00:33:49,727 --> 00:33:52,161
+That's affirmative, Reaper.
+
+384
+00:33:57,635 --> 00:33:59,432
+Looks like
+we missed the party.
+
+385
+00:33:59,537 --> 00:34:01,232
+We were just here.
+
+386
+00:34:03,274 --> 00:34:05,299
+What happened
+to all the animals?
+
+387
+00:34:28,299 --> 00:34:30,733
+Sir, RRTS. We're here to help.
+
+388
+00:34:33,571 --> 00:34:35,300
+Sir, are you okay?
+
+389
+00:34:36,841 --> 00:34:37,773
+Okay.
+
+390
+00:34:41,012 --> 00:34:42,809
+No, no, no. Sir, put it down.
+
+391
+00:34:47,351 --> 00:34:48,909
+Contact report.
+
+392
+00:34:49,020 --> 00:34:49,952
+Damn it.
+
+393
+00:34:50,688 --> 00:34:52,679
+We found another
+one of the scientists.
+
+394
+00:34:52,824 --> 00:34:54,792
+Some weird shit
+going on here, Sarge.
+
+395
+00:34:54,926 --> 00:34:58,327
+Can you ID him?
+We got a Dr. Olsen.
+
+396
+00:34:59,797 --> 00:35:02,732
+He rushed us. Crazy.
+Just like Carmack.
+
+397
+00:35:02,867 --> 00:35:05,062
+Is he dead?
+Yeah, very.
+
+398
+00:35:05,203 --> 00:35:07,603
+Should we bag him and tag him?
+Negative.
+
+399
+00:35:07,705 --> 00:35:09,730
+Continue your search.
+
+400
+00:35:11,442 --> 00:35:12,374
+Sarge?
+
+401
+00:36:10,568 --> 00:36:12,502
+What was that?
+A monkey.
+
+402
+00:36:16,374 --> 00:36:18,342
+Some kind of monkey.
+
+403
+00:36:35,760 --> 00:36:37,193
+Oh, my God.
+
+404
+00:36:38,396 --> 00:36:40,660
+There's something
+in his blood.
+
+405
+00:36:43,334 --> 00:36:45,359
+What's happening to him?
+
+406
+00:36:59,450 --> 00:37:02,442
+Move, move, move.
+I got him.
+
+407
+00:37:02,587 --> 00:37:04,680
+Clear!
+Go, go, go.
+
+408
+00:37:06,657 --> 00:37:09,490
+Reaper, what have you got?
+We're chasing something.
+
+409
+00:37:09,594 --> 00:37:12,722
+What do you mean, something?
+Something big, not human.
+
+410
+00:37:12,863 --> 00:37:13,795
+God damn it!
+
+411
+00:37:13,898 --> 00:37:15,388
+Give me a confirmation
+on what you're seeing.
+
+412
+00:37:15,533 --> 00:37:17,398
+Reaper.
+It's in the sewer.
+
+413
+00:37:18,803 --> 00:37:20,236
+All units, all units.
+
+414
+00:37:20,371 --> 00:37:22,305
+Southeast corridor
+near the med lab.
+
+415
+00:37:26,377 --> 00:37:27,810
+And I thought
+"being in the shit"
+
+416
+00:37:27,912 --> 00:37:29,072
+was a figure of speech.
+
+417
+00:37:29,180 --> 00:37:31,614
+Get in the goddamn hole,
+Portman.
+
+418
+00:37:37,088 --> 00:37:39,420
+I can handle things here.
+You should go.
+
+419
+00:37:39,857 --> 00:37:43,293
+I want to stay.
+Steve is gonna be okay.
+
+420
+00:37:45,162 --> 00:37:47,892
+The guys looking for him
+are the best.
+
+421
+00:37:49,000 --> 00:37:51,935
+Go on, go on.
+Be with your daughter.
+
+422
+00:37:52,270 --> 00:37:53,294
+Thank you.
+
+423
+00:38:01,879 --> 00:38:03,210
+What's going on?
+
+424
+00:38:06,117 --> 00:38:09,052
+"No blood match".
+Can't be good, right?
+
+425
+00:38:10,721 --> 00:38:12,552
+This is crazy.
+
+426
+00:38:15,660 --> 00:38:17,025
+Oh, my God!
+
+427
+00:38:24,168 --> 00:38:26,261
+Tunnel ahead
+is the main junction.
+
+428
+00:38:26,404 --> 00:38:28,304
+It leads back
+under the lab complex.
+
+429
+00:38:28,406 --> 00:38:30,840
+Destroyer, cover the exit.
+
+430
+00:39:29,033 --> 00:39:30,466
+We got a Dr. Willits.
+
+431
+00:39:31,068 --> 00:39:32,262
+Steve Willits.
+
+432
+00:39:35,139 --> 00:39:36,231
+Move out.
+
+433
+00:39:52,590 --> 00:39:54,353
+"Be sober, be vigilant...
+
+434
+00:39:54,892 --> 00:39:56,792
+"because your adversary,
+the devil...
+
+435
+00:39:56,894 --> 00:39:59,419
+"walketh about seeking
+whom he may devour."
+
+436
+00:40:01,432 --> 00:40:03,195
+That's real comforting, Goat.
+
+437
+00:40:03,300 --> 00:40:05,393
+That ain't
+freaking me out at all.
+
+438
+00:40:09,240 --> 00:40:11,071
+Portman!
+What the fuck?
+
+439
+00:40:12,042 --> 00:40:13,100
+Go, go.
+
+440
+00:40:13,577 --> 00:40:15,670
+Wait! Somebody's down there.
+Come on.
+
+441
+00:40:16,514 --> 00:40:17,640
+Grab an arm.
+
+442
+00:40:17,748 --> 00:40:19,010
+Goddamn son of a bitch
+is heavy!
+
+443
+00:40:19,116 --> 00:40:20,048
+Hang on.
+
+444
+00:40:21,051 --> 00:40:22,609
+Quick, he's slipping back.
+
+445
+00:40:22,953 --> 00:40:24,284
+He's slipping.
+
+446
+00:40:26,424 --> 00:40:27,391
+Shit.
+
+447
+00:40:27,525 --> 00:40:29,049
+Portman,
+what the hell happened?
+
+448
+00:40:29,193 --> 00:40:30,922
+I fell in the damn hole.
+
+449
+00:40:31,061 --> 00:40:31,993
+Shit.
+
+450
+00:40:32,129 --> 00:40:34,563
+Everybody, on me.
+Watch your goddamn footing.
+
+451
+00:40:34,665 --> 00:40:35,597
+Move.
+
+452
+00:40:36,133 --> 00:40:37,065
+Shit.
+
+453
+00:40:51,749 --> 00:40:53,410
+Goat, straight ahead.
+Sir.
+
+454
+00:40:53,784 --> 00:40:54,751
+Portman, you're with me.
+
+455
+00:40:54,885 --> 00:40:57,149
+John, take the Kid
+and go to the right.
+
+456
+00:41:09,066 --> 00:41:09,998
+Shit!
+
+457
+00:41:33,123 --> 00:41:34,454
+You lost your folks, right?
+
+458
+00:41:34,558 --> 00:41:35,490
+Shut up.
+
+459
+00:41:36,360 --> 00:41:38,828
+Small world. I mean,
+I lost my parents, too.
+
+460
+00:41:40,664 --> 00:41:42,291
+Yeah, I mean,
+I woke up one morning...
+
+461
+00:41:42,399 --> 00:41:43,423
+and everything was gone.
+
+462
+00:41:43,567 --> 00:41:45,057
+I mean, the only thing left
+was me.
+
+463
+00:41:45,202 --> 00:41:47,670
+They wanted the TV
+more than they wanted me.
+
+464
+00:41:49,106 --> 00:41:50,038
+Ah!
+
+465
+00:41:51,141 --> 00:41:53,041
+Every time
+you open your mouth...
+
+466
+00:41:53,143 --> 00:41:54,701
+you give away our position.
+
+467
+00:41:56,780 --> 00:41:57,974
+Wait a minute.
+
+468
+00:42:03,120 --> 00:42:05,179
+Your pupils are dilated.
+
+469
+00:42:05,756 --> 00:42:07,451
+Are you high?
+What?
+
+470
+00:42:08,792 --> 00:42:11,124
+No, I got this condition...
+I don't give a damn.
+
+471
+00:42:11,262 --> 00:42:12,820
+You take one more shot
+of that shit...
+
+472
+00:42:12,930 --> 00:42:14,898
+and I'll blow holes in you.
+Are we clear?
+
+473
+00:42:15,165 --> 00:42:16,097
+Okay.
+
+474
+00:42:25,009 --> 00:42:25,941
+Get down.
+
+475
+00:42:26,076 --> 00:42:27,202
+I'm sorry, look,
+I just needed a little...
+
+476
+00:42:27,344 --> 00:42:28,368
+Get down!
+
+477
+00:42:30,848 --> 00:42:33,612
+Goat, I think there's
+something coming up on you.
+
+478
+00:42:38,422 --> 00:42:39,889
+This isn't happening.
+
+479
+00:42:41,559 --> 00:42:42,890
+My light is down.
+
+480
+00:42:52,236 --> 00:42:53,294
+I don't see anything.
+
+481
+00:42:53,437 --> 00:42:55,803
+Don't move. I'm on my way.
+
+482
+00:42:57,308 --> 00:42:58,240
+Pinky.
+
+483
+00:42:59,343 --> 00:43:00,810
+Can you see anything?
+
+484
+00:43:03,047 --> 00:43:05,538
+No. Nothing.
+
+485
+00:43:19,797 --> 00:43:20,889
+Dr. Willits?
+
+486
+00:43:28,172 --> 00:43:29,161
+Goat!
+
+487
+00:43:29,673 --> 00:43:31,334
+Goat, what's your position?
+
+488
+00:43:31,475 --> 00:43:33,033
+Goat, where are you?
+
+489
+00:43:33,978 --> 00:43:35,275
+Goat, speak to me.
+
+490
+00:43:35,412 --> 00:43:37,437
+God damn it, Reaper,
+report to me.
+
+491
+00:43:39,016 --> 00:43:40,142
+You're dead.
+
+492
+00:43:41,085 --> 00:43:42,313
+Report contact.
+
+493
+00:44:05,843 --> 00:44:07,276
+Man down.
+
+494
+00:44:08,145 --> 00:44:09,703
+Man down!
+
+495
+00:44:11,482 --> 00:44:11,914
+Everyone, get to the Ark now!
+
+496
+00:44:13,217 --> 00:44:14,741
+Hunegs, report to
+the quarantine zone.
+
+497
+00:44:14,885 --> 00:44:17,854
+Evacuate the entire facility.
+Get everyone to the Ark now.
+
+498
+00:44:17,988 --> 00:44:19,888
+- What's going on?
+- Get to the goddamn Ark.
+
+499
+00:44:19,990 --> 00:44:21,082
+Let's go. Come on.
+
+500
+00:44:21,225 --> 00:44:23,284
+We have an emergency. Come on.
+
+501
+00:44:23,427 --> 00:44:25,327
+Everybody to the Ark.
+
+502
+00:44:30,334 --> 00:44:31,460
+What happened?
+
+503
+00:44:31,602 --> 00:44:32,967
+He was talking about devils.
+
+504
+00:44:33,070 --> 00:44:34,037
+Devils?
+
+505
+00:44:34,171 --> 00:44:36,833
+All his Bible shit.
+Angels. Good and evil.
+
+506
+00:44:36,940 --> 00:44:38,874
+Devils among us.
+Let's get this vest off him.
+
+507
+00:44:38,976 --> 00:44:40,273
+Now he's clear.
+
+508
+00:44:42,446 --> 00:44:43,378
+Come on.
+
+509
+00:44:44,515 --> 00:44:45,539
+Got a weak pulse.
+
+510
+00:44:45,683 --> 00:44:47,241
+Portman,
+get me a line in here.
+
+511
+00:44:48,318 --> 00:44:49,342
+Come on, man.
+
+512
+00:44:49,486 --> 00:44:51,511
+Kid, keep pressure
+on that wound.
+
+513
+00:44:52,022 --> 00:44:54,047
+How's the pulse?
+I'm losing him.
+
+514
+00:44:55,359 --> 00:44:57,418
+Sam, give me
+a shot of adrenaline.
+
+515
+00:45:02,833 --> 00:45:04,733
+We lost the pulse.
+Okay, let's defib.
+
+516
+00:45:06,370 --> 00:45:07,462
+Come on, man.
+
+517
+00:45:10,841 --> 00:45:11,773
+Clear!
+
+518
+00:45:16,046 --> 00:45:17,741
+Where the hell's Carmack?
+
+519
+00:45:18,215 --> 00:45:19,443
+He disappeared.
+
+520
+00:45:19,583 --> 00:45:20,880
+What do you mean,
+he disappeared?
+
+521
+00:45:20,984 --> 00:45:22,679
+He's gone. He disappeared.
+
+522
+00:45:23,220 --> 00:45:24,881
+I've lost the pulse.
+Shit.
+
+523
+00:45:24,988 --> 00:45:25,955
+Okay.
+
+524
+00:45:26,090 --> 00:45:27,853
+Gonna defib. Clear!
+
+525
+00:45:30,360 --> 00:45:32,123
+- Come on.
+- Come on.
+
+526
+00:45:33,063 --> 00:45:34,394
+No response.
+We're losing him.
+
+527
+00:45:34,531 --> 00:45:36,396
+Sam, give me that adrenaline.
+
+528
+00:45:46,076 --> 00:45:47,441
+Come on,
+you son of a bitch.
+
+529
+00:45:47,544 --> 00:45:49,171
+Okay, going again.
+Clear!
+
+530
+00:46:12,202 --> 00:46:13,260
+He's gone.
+
+531
+00:46:22,946 --> 00:46:24,641
+Doctor,
+you are going to tell me...
+
+532
+00:46:24,748 --> 00:46:26,545
+just what the fuck
+is going on up here.
+
+533
+00:46:26,650 --> 00:46:27,981
+What?
+Come here.
+
+534
+00:46:30,187 --> 00:46:31,211
+Come here!
+
+535
+00:46:33,056 --> 00:46:34,318
+This is "what."
+
+536
+00:46:36,727 --> 00:46:37,659
+God.
+
+537
+00:46:38,362 --> 00:46:39,989
+Have you
+found anything like this...
+
+538
+00:46:40,097 --> 00:46:41,394
+on your archeological digs?
+
+539
+00:46:41,532 --> 00:46:42,464
+No.
+
+540
+00:46:42,599 --> 00:46:44,362
+Is there any way this thing
+came from the outside...
+
+541
+00:46:44,468 --> 00:46:45,400
+from the surface?
+
+542
+00:46:45,536 --> 00:46:47,333
+The planet is completely dead.
+
+543
+00:46:47,437 --> 00:46:49,302
+It came from somewhere, lady.
+
+544
+00:46:49,540 --> 00:46:50,802
+Portman, shut up!
+
+545
+00:46:50,941 --> 00:46:53,603
+The atmosphere on the surface
+can't support life.
+
+546
+00:46:53,744 --> 00:46:54,733
+Maybe it doesn't need air.
+
+547
+00:46:54,878 --> 00:46:56,539
+It could have come from
+another planet or something.
+
+548
+00:46:56,647 --> 00:46:57,671
+What? Like an alien?
+
+549
+00:46:57,815 --> 00:46:59,442
+Look at that thing!
+Portman!
+
+550
+00:46:59,550 --> 00:47:01,484
+You need to shut the fuck up!
+
+551
+00:47:01,685 --> 00:47:03,209
+That's not what we saw.
+
+552
+00:47:04,254 --> 00:47:06,950
+That isn't what Goat and I
+shot at in Genetics.
+
+553
+00:47:07,090 --> 00:47:09,752
+You telling me there's more
+of these fucking things?
+
+554
+00:47:09,860 --> 00:47:11,418
+Where are
+your surface entry points?
+
+555
+00:47:11,562 --> 00:47:14,395
+There's a pressure door at
+the end of the north corridor.
+
+556
+00:47:14,531 --> 00:47:16,192
+Destroyer, Kid, Portman,
+get there on the double.
+
+557
+00:47:16,300 --> 00:47:17,289
+Give me an update.
+
+558
+00:47:17,434 --> 00:47:19,265
+Yes, sir.
+Whatever this thing is...
+
+559
+00:47:19,369 --> 00:47:21,394
+it cannot get back
+through the Ark.
+
+560
+00:47:21,538 --> 00:47:23,972
+Mac, I want you to arm Pinky
+with a weapon...
+
+561
+00:47:24,107 --> 00:47:27,167
+with some ST grenades,
+and seal the Ark door.
+
+562
+00:47:27,311 --> 00:47:28,403
+There's one other door.
+
+563
+00:47:28,545 --> 00:47:29,569
+Where?
+
+564
+00:47:29,680 --> 00:47:32,581
+The entrance
+to the archeological dig.
+
+565
+00:47:33,250 --> 00:47:35,241
+Ark portal activation
+in progress.
+
+566
+00:47:35,419 --> 00:47:37,512
+Don't let anything
+through the Ark.
+
+567
+00:47:40,524 --> 00:47:43,425
+Hey, wait. Wait a minute.
+You can't leave me here.
+
+568
+00:47:43,527 --> 00:47:44,960
+I'm not a soldier.
+
+569
+00:47:45,062 --> 00:47:46,461
+Why don't you go
+fuck yourself?
+
+570
+00:47:46,563 --> 00:47:47,530
+It's bullshit.
+
+571
+00:47:47,664 --> 00:47:48,824
+You're supposed to protect me.
+
+572
+00:47:48,966 --> 00:47:50,365
+Ark secure.
+
+573
+00:47:50,467 --> 00:47:53,163
+Remaining personnel,
+ready for evacuation.
+
+574
+00:48:02,179 --> 00:48:03,544
+Shit.
+
+575
+00:48:04,248 --> 00:48:05,340
+Duke.
+
+576
+00:48:06,250 --> 00:48:07,410
+Hold this open.
+
+577
+00:48:11,355 --> 00:48:12,652
+Don't be a wuss.
+
+578
+00:48:31,642 --> 00:48:33,542
+Little tension
+between you and Reaper?
+
+579
+00:48:33,710 --> 00:48:36,110
+We just went
+our separate ways.
+
+580
+00:48:36,446 --> 00:48:39,938
+Why does a talented student
+throw it all away and join the RRTS?
+
+581
+00:48:41,018 --> 00:48:42,144
+So, what was
+he like before?
+
+582
+00:48:42,319 --> 00:48:43,980
+Who, John?
+Yeah.
+
+583
+00:48:44,087 --> 00:48:45,554
+Empathetic, sensitive.
+
+584
+00:48:45,689 --> 00:48:47,850
+It's kind of hard for me to
+imagine Reaper as sensitive.
+
+585
+00:48:48,158 --> 00:48:52,094
+I knew Reaper before all the
+"drop down and give me 50, woo-ha"stuff.
+
+586
+00:48:53,230 --> 00:48:54,390
+Yeah?
+
+587
+00:48:55,465 --> 00:48:57,365
+Well, it's hua...
+Hua.
+
+588
+00:48:57,467 --> 00:48:58,764
+Yeah.
+
+589
+00:49:00,137 --> 00:49:01,764
+Do you have a family?
+
+590
+00:49:02,406 --> 00:49:05,000
+I have Destroyer.
+You know, we grew up together.
+
+591
+00:49:06,276 --> 00:49:09,074
+You know, Duke, I bet
+secretly you have a big heart.
+
+592
+00:49:09,212 --> 00:49:10,372
+Oh, yeah?
+
+593
+00:49:12,582 --> 00:49:14,982
+And that's not the only
+secret big thing I got.
+
+594
+00:49:16,186 --> 00:49:17,175
+Little rusty, huh?
+
+595
+00:49:17,321 --> 00:49:19,983
+Oh, lady,
+you have no idea.
+
+596
+00:49:20,590 --> 00:49:23,923
+Right now, having sex
+with me is practically your civic duty.
+
+597
+00:49:28,098 --> 00:49:30,089
+I need a power bone saw.
+
+598
+00:49:30,233 --> 00:49:32,167
+A power bone saw?
+
+599
+00:49:32,636 --> 00:49:35,002
+Girl, I've been waiting
+on you my whole life.
+
+600
+00:49:36,606 --> 00:49:38,403
+There's one
+in the procedure room.
+
+601
+00:49:38,642 --> 00:49:41,577
+Down the corridor,
+on the left, through the nanowall.
+
+602
+00:49:42,179 --> 00:49:43,510
+Through the nanowall?
+
+603
+00:49:45,816 --> 00:49:48,410
+All right,
+I got it. It's cool.
+
+604
+00:49:48,585 --> 00:49:50,849
+For you I got it,
+'cause you're pretty.
+
+605
+00:49:50,954 --> 00:49:51,921
+Cool.
+
+606
+00:49:52,055 --> 00:49:53,283
+I wouldn't do it for a dude,
+you know.
+
+607
+00:49:53,423 --> 00:49:54,583
+Off you go.
+
+608
+00:49:57,260 --> 00:49:59,319
+We're going back in
+through the airlock.
+
+609
+00:49:59,930 --> 00:50:01,693
+We're not calling in backup?
+
+610
+00:50:03,500 --> 00:50:04,865
+The Ark is sealed.
+
+611
+00:50:05,435 --> 00:50:06,459
+Nothing gets back...
+
+612
+00:50:06,570 --> 00:50:08,538
+until everything
+on this planet is dead.
+
+613
+00:50:09,172 --> 00:50:10,605
+We're going in hot.
+
+614
+00:50:11,341 --> 00:50:12,603
+You're serious.
+
+615
+00:50:13,176 --> 00:50:14,609
+Pick up your weapon, Portman.
+
+616
+00:50:14,745 --> 00:50:16,372
+Come on, Portman, move out.
+
+617
+00:50:16,513 --> 00:50:18,743
+Didn't y'all see
+how that thing greased Goat?
+
+618
+00:50:19,583 --> 00:50:22,017
+We don't know what
+we're dealing with here.
+
+619
+00:50:23,220 --> 00:50:24,482
+It's SOP to call in
+reinforcements...
+
+620
+00:50:24,621 --> 00:50:25,553
+when a situation...
+
+621
+00:50:25,655 --> 00:50:26,587
+We are...
+
+622
+00:50:27,591 --> 00:50:29,024
+the reinforcements.
+
+623
+00:50:36,299 --> 00:50:37,732
+Now, you shoulder...
+
+624
+00:50:38,035 --> 00:50:39,935
+your fucking weapon, soldier.
+
+625
+00:50:54,051 --> 00:50:56,611
+All UAC personnel
+evacuated to Earth.
+
+626
+00:51:18,308 --> 00:51:19,240
+Duke?
+
+627
+00:51:43,800 --> 00:51:44,732
+Duke?
+
+628
+00:51:47,337 --> 00:51:48,269
+Duke!
+
+629
+00:51:50,841 --> 00:51:53,435
+Hey, hey, hey.
+It's just a power shortage.
+
+630
+00:51:53,810 --> 00:51:54,742
+You okay?
+
+631
+00:51:56,480 --> 00:51:57,947
+Here's your bone saw.
+
+632
+00:51:59,049 --> 00:52:00,311
+So, which of you
+is the oldest?
+
+633
+00:52:00,450 --> 00:52:01,439
+What?
+
+634
+00:52:02,219 --> 00:52:04,187
+Oh, me. By two minutes.
+
+635
+00:52:04,354 --> 00:52:05,582
+Twins? Shit.
+
+636
+00:52:06,123 --> 00:52:07,454
+Identical, right?
+
+637
+00:52:15,065 --> 00:52:16,794
+Sam, get back in the lab.
+
+638
+00:52:39,856 --> 00:52:40,788
+Shit.
+
+639
+00:52:45,328 --> 00:52:46,795
+Motherfucker!
+
+640
+00:52:47,764 --> 00:52:48,753
+Close it!
+
+641
+00:52:58,542 --> 00:53:00,669
+And that's why
+I don't do nanowalls.
+
+642
+00:53:02,245 --> 00:53:04,839
+Pinky, we're entering
+the archeological dig.
+
+643
+00:53:15,258 --> 00:53:16,452
+Secure the exit.
+
+644
+00:54:10,814 --> 00:54:12,611
+Sam. I'm coming.
+
+645
+00:54:14,417 --> 00:54:16,510
+I'm hungry. Let's eat.
+
+646
+00:54:25,328 --> 00:54:27,694
+Come on. Come on.
+
+647
+00:54:27,831 --> 00:54:30,493
+- Careful now.
+- Not too close, John.
+
+648
+00:54:32,569 --> 00:54:33,934
+Go, go, go.
+
+649
+00:54:34,971 --> 00:54:36,233
+Slow down.
+
+650
+00:54:36,840 --> 00:54:38,603
+Go around. Go around again.
+
+651
+00:54:38,708 --> 00:54:40,869
+No! Mommy!
+
+652
+00:54:49,052 --> 00:54:50,713
+Is this where it happened?
+
+653
+00:54:53,456 --> 00:54:54,980
+Did you find the door?
+
+654
+00:55:07,304 --> 00:55:08,236
+John?
+
+655
+00:55:13,510 --> 00:55:14,442
+Clay.
+
+656
+00:55:19,849 --> 00:55:20,781
+Thurman.
+
+657
+00:55:23,086 --> 00:55:24,280
+Look at them.
+
+658
+00:55:24,954 --> 00:55:27,923
+They weren't trying to stop
+something from getting in.
+
+659
+00:55:28,925 --> 00:55:31,223
+Something stopped them
+from getting out.
+
+660
+00:55:32,962 --> 00:55:33,986
+Mac, stand by.
+
+661
+00:55:34,297 --> 00:55:35,229
+Destroyer, report.
+
+662
+00:55:35,365 --> 00:55:36,832
+We've reached
+the north airlock.
+
+663
+00:55:36,966 --> 00:55:38,024
+It's secure.
+
+664
+00:55:38,168 --> 00:55:41,194
+Console indicates nothing's
+come in or out for 26 hours.
+
+665
+00:55:45,275 --> 00:55:46,207
+Mac?
+
+666
+00:55:47,610 --> 00:55:48,542
+Mac.
+
+667
+00:55:49,713 --> 00:55:52,375
+Mac, Mac, you copy?
+
+668
+00:55:55,285 --> 00:55:57,082
+Talk to me. Talk to me, Mac.
+
+669
+00:55:59,589 --> 00:56:00,521
+Shit.
+
+670
+00:56:02,859 --> 00:56:04,292
+Jesus Christ.
+
+671
+00:56:11,434 --> 00:56:13,925
+We're in pursuit.
+Moving fast out of the dig.
+
+672
+00:56:14,104 --> 00:56:15,435
+It's getting away.
+
+673
+00:56:15,672 --> 00:56:17,003
+Pinky, what do you see?
+
+674
+00:56:17,140 --> 00:56:19,131
+It's big. Very big.
+
+675
+00:56:19,576 --> 00:56:21,840
+Moving fast,
+back towards the lab complex.
+
+676
+00:56:25,048 --> 00:56:25,980
+Clear.
+
+677
+00:56:27,951 --> 00:56:29,418
+It's back in the lab.
+
+678
+00:56:33,857 --> 00:56:34,789
+Clear!
+
+679
+00:56:35,992 --> 00:56:36,924
+Clear.
+
+680
+00:56:37,861 --> 00:56:39,192
+Damn, it's fast.
+
+681
+00:56:40,163 --> 00:56:41,460
+All around defense, men.
+
+682
+00:56:41,564 --> 00:56:42,792
+Did you get it?
+
+683
+00:56:44,534 --> 00:56:45,523
+Pinky.
+Yes, Sarge?
+
+684
+00:56:45,668 --> 00:56:46,794
+Anything gets through
+that door...
+
+685
+00:56:46,936 --> 00:56:47,868
+use an ST grenade.
+
+686
+00:56:47,971 --> 00:56:49,734
+It cannot get back to Earth.
+
+687
+00:56:51,474 --> 00:56:53,704
+He pops an ST in there,
+he's gonna blow the Ark.
+
+688
+00:56:53,843 --> 00:56:55,970
+Reaper, Kid, pairs,
+cover formation.
+
+689
+00:56:56,112 --> 00:56:57,739
+Sweep the corridors. Go.
+
+690
+00:56:58,681 --> 00:57:01,343
+Destroyer, you and Portman
+stay here. Shut the airlock.
+
+691
+00:57:01,484 --> 00:57:02,610
+Maintain a perimeter.
+
+692
+00:57:02,719 --> 00:57:03,811
+He blows the Ark,
+how the hell...
+
+693
+00:57:03,953 --> 00:57:05,352
+are we supposed to
+get the fuck home?
+
+694
+00:57:05,455 --> 00:57:07,480
+Portman,
+shut the fucking door.
+
+695
+00:57:07,824 --> 00:57:09,155
+Where you going?
+
+696
+00:57:09,559 --> 00:57:10,992
+I'm going to the armory.
+
+697
+00:57:11,761 --> 00:57:13,251
+I think we're gonna
+need something...
+
+698
+00:57:13,396 --> 00:57:14,886
+with a little bit more kick.
+
+699
+00:57:44,794 --> 00:57:45,726
+Jesus.
+
+700
+00:57:46,763 --> 00:57:48,731
+You see
+anything like it before?
+
+701
+00:58:02,979 --> 00:58:03,911
+Heart.
+
+702
+00:58:11,955 --> 00:58:12,922
+Liver.
+
+703
+00:58:24,100 --> 00:58:25,294
+Kidneys.
+
+704
+00:58:25,535 --> 00:58:27,162
+Dogs got kidneys, right?
+
+705
+00:58:27,537 --> 00:58:28,834
+Pigs got kidneys.
+
+706
+00:58:37,814 --> 00:58:39,679
+It's had its appendix removed.
+
+707
+00:58:40,450 --> 00:58:41,508
+It's human.
+
+708
+00:58:42,452 --> 00:58:43,783
+What the fuck?
+
+709
+00:59:27,063 --> 00:59:28,724
+Goat knew he was turning.
+
+710
+00:59:36,539 --> 00:59:38,598
+This thing
+didn't butcher Willits.
+
+711
+00:59:42,045 --> 00:59:43,410
+It is Willits.
+
+712
+00:59:44,113 --> 00:59:45,045
+What?
+
+713
+00:59:51,988 --> 00:59:53,512
+This is bullshit, man.
+
+714
+00:59:54,324 --> 00:59:55,655
+I enlisted
+to serve my country...
+
+715
+00:59:55,758 --> 00:59:57,692
+not get greased protecting
+some corporation's...
+
+716
+00:59:57,827 --> 00:59:59,192
+goddamn science project.
+
+717
+01:00:02,532 --> 01:00:03,965
+I gotta take a dump.
+
+718
+01:00:04,334 --> 01:00:05,892
+What? Now?
+
+719
+01:00:06,736 --> 01:00:09,569
+Unless you want me shitting
+my pants right here.
+
+720
+01:00:15,545 --> 01:00:17,536
+Please provide DNA
+verification.
+
+721
+01:00:21,117 --> 01:00:23,881
+Welcome, Patricia Tallman.
+Access granted.
+
+722
+01:00:36,899 --> 01:00:39,629
+Big fucking gun.
+
+723
+01:01:06,095 --> 01:01:07,289
+Oh, shit.
+
+724
+01:02:07,190 --> 01:02:09,852
+Portman, I got floor and wall
+on your gun cam.
+
+725
+01:02:10,793 --> 01:02:12,761
+I'm taking a shit,
+you fucking gimp.
+
+726
+01:02:14,864 --> 01:02:16,991
+Fuck you, Portman,
+you piece of shit.
+
+727
+01:02:45,728 --> 01:02:46,922
+Lost Portman on comm...
+
+728
+01:02:47,063 --> 01:02:48,997
+and all I've got on Destroyer
+is a wall.
+
+729
+01:02:49,098 --> 01:02:50,531
+Portman, come in.
+
+730
+01:02:52,101 --> 01:02:53,159
+Destroyer.
+
+731
+01:02:53,770 --> 01:02:54,702
+Come in.
+
+732
+01:03:17,927 --> 01:03:19,360
+This is Corporal
+Dean Portman...
+
+733
+01:03:19,495 --> 01:03:23,090
+with RRTS 6 Special Ops
+on Olduvai, 0310 hours.
+
+734
+01:03:24,167 --> 01:03:26,294
+We have encountered
+hostile activity.
+
+735
+01:04:55,725 --> 01:04:59,923
+I repeat, require immediate
+RRTS reinforcements.
+
+736
+01:05:28,691 --> 01:05:31,922
+Destroyer, Portman,
+where the hell are you?
+
+737
+01:05:41,671 --> 01:05:42,933
+Shit.
+
+738
+01:07:22,371 --> 01:07:23,303
+Shit.
+
+739
+01:07:35,284 --> 01:07:37,377
+Oh, God! Jesus!
+
+740
+01:07:37,787 --> 01:07:38,719
+Hmm.
+
+741
+01:07:43,659 --> 01:07:45,524
+- Pinky, you got Portman?
+- No.
+
+742
+01:08:04,580 --> 01:08:06,013
+Holy shit.
+
+743
+01:08:21,630 --> 01:08:22,654
+He's gone.
+
+744
+01:08:28,471 --> 01:08:29,495
+Destroyer?
+
+745
+01:08:29,839 --> 01:08:30,931
+And Portman.
+
+746
+01:08:31,073 --> 01:08:32,370
+What the fuck happened, man?
+
+747
+01:08:32,475 --> 01:08:33,942
+I got him, I got him.
+
+748
+01:08:37,346 --> 01:08:38,813
+Destroyer, I got you, man.
+
+749
+01:08:39,915 --> 01:08:41,143
+What's up, man?
+
+750
+01:08:50,226 --> 01:08:51,625
+What the hell is this?
+
+751
+01:08:51,760 --> 01:08:54,194
+And whose goddamn blood
+is on that window?
+
+752
+01:08:54,296 --> 01:08:55,228
+Goat's.
+
+753
+01:08:56,966 --> 01:08:58,058
+He killed himself.
+
+754
+01:08:58,200 --> 01:09:01,260
+What do you mean, he killed himself?
+He was already dead.
+
+755
+01:09:02,104 --> 01:09:04,095
+It's true.
+It's Goat.
+
+756
+01:09:04,607 --> 01:09:08,008
+He was changing into one of these
+motherfuckers and he killed himself.
+
+757
+01:09:08,144 --> 01:09:10,442
+We found two more scientists
+at the dig.
+
+758
+01:09:10,746 --> 01:09:12,441
+Thurman and a balding guy
+with glasses.
+
+759
+01:09:12,548 --> 01:09:13,810
+Dr. Clay.
+
+760
+01:09:16,519 --> 01:09:18,043
+Did you check their necks?
+
+761
+01:09:18,187 --> 01:09:19,882
+Were there open wounds
+on their necks?
+
+762
+01:09:19,989 --> 01:09:22,321
+We were conducting
+a firefight, not an autopsy.
+
+763
+01:09:22,424 --> 01:09:25,154
+We came up here to find
+six scientists.
+
+764
+01:09:25,294 --> 01:09:26,659
+Four are known dead...
+
+765
+01:09:26,829 --> 01:09:30,162
+and Dr. Willits is probably KIA
+somewhere down in that sewer.
+
+766
+01:09:30,399 --> 01:09:32,390
+The only one missing
+is Dr. Carmack.
+
+767
+01:09:32,535 --> 01:09:34,560
+Has Dr. Carmack showed up yet?
+
+768
+01:09:35,471 --> 01:09:37,098
+Oh, he's shown up all right.
+
+769
+01:09:38,140 --> 01:09:39,607
+Look at the left ear.
+
+770
+01:09:48,083 --> 01:09:49,414
+Son of a bitch.
+
+771
+01:09:49,552 --> 01:09:51,520
+I think this other one
+is Steve Willits.
+
+772
+01:09:51,654 --> 01:09:54,384
+I'm going to run the DNA,
+check it against his med records.
+
+773
+01:09:54,523 --> 01:09:56,150
+What are you people
+working on up here?
+
+774
+01:09:56,258 --> 01:09:58,783
+We're analyzing bones,
+artifacts.
+
+775
+01:09:58,928 --> 01:10:00,589
+We're not doing
+anything like this.
+
+776
+01:10:00,729 --> 01:10:02,390
+Then what the fuck is that?
+
+777
+01:10:02,531 --> 01:10:06,763
+It must be a genetic mutation,
+something environmental or viral.
+
+778
+01:10:07,069 --> 01:10:08,229
+I don't know.
+
+779
+01:10:09,138 --> 01:10:10,799
+It may even be reversible.
+
+780
+01:10:11,173 --> 01:10:12,197
+It's irreversible.
+
+781
+01:10:12,341 --> 01:10:13,672
+Not necessarily.
+
+782
+01:10:13,776 --> 01:10:15,403
+Dr. Carmack's condition...
+
+783
+01:10:16,645 --> 01:10:18,010
+is irreversible...
+
+784
+01:10:20,883 --> 01:10:22,009
+No!
+
+785
+01:10:23,385 --> 01:10:25,580
+Because Carmack's condition
+is that...
+
+786
+01:10:26,822 --> 01:10:27,846
+he's dead.
+
+787
+01:10:29,024 --> 01:10:30,924
+Kid, you and Duke...
+
+788
+01:10:31,493 --> 01:10:34,553
+get back to the dig and you make sure
+those other dead scientists...
+
+789
+01:10:34,697 --> 01:10:35,994
+are really dead.
+
+790
+01:10:42,738 --> 01:10:43,898
+I've lost...
+
+791
+01:10:44,707 --> 01:10:46,174
+four soldiers.
+
+792
+01:10:46,875 --> 01:10:51,244
+What are you people
+experimenting with up here?
+
+793
+01:10:54,183 --> 01:10:56,117
+I'm not gonna ask you again.
+
+794
+01:10:57,219 --> 01:11:00,450
+I told you, it's an archeological
+research center.
+
+795
+01:11:01,957 --> 01:11:04,448
+Do you think I'm lying to you?
+Is that what you're saying?
+
+796
+01:11:08,530 --> 01:11:10,122
+You think
+I'm hiding something?
+
+797
+01:11:12,835 --> 01:11:14,359
+I'm telling the truth.
+
+798
+01:11:19,908 --> 01:11:21,466
+What were you downloading?
+
+799
+01:11:21,610 --> 01:11:23,510
+What were you sent to protect?
+
+800
+01:11:25,581 --> 01:11:27,014
+The research data.
+
+801
+01:11:28,751 --> 01:11:30,844
+Research into what?
+
+802
+01:11:36,659 --> 01:11:40,186
+Subject was injected
+with study agent at 00:03.
+
+803
+01:11:42,364 --> 01:11:47,199
+Vitals normal, elevated heart rate
+attributable to subject anxiety.
+
+804
+01:11:48,404 --> 01:11:53,103
+C- 24 successfully grafted to
+subject's marker cells at 00:09.
+
+805
+01:11:53,242 --> 01:11:56,370
+He reconstructed chromosome
+mutation on a human subject.
+
+806
+01:11:57,613 --> 01:11:59,740
+We were never gonna do
+human studies.
+
+807
+01:12:00,616 --> 01:12:02,208
+What the hell
+are we looking at?
+
+808
+01:12:04,953 --> 01:12:07,444
+Genesis, Chapter 1.
+
+809
+01:12:08,624 --> 01:12:12,560
+Subject moved to protected
+observation area at 00:17.
+
+810
+01:12:18,934 --> 01:12:21,494
+Subject: Curtis Stahl.
+
+811
+01:12:22,404 --> 01:12:25,100
+Crime: Multiple murder.
+
+812
+01:12:26,508 --> 01:12:29,375
+Status:
+Condemned to execution.
+
+813
+01:12:39,755 --> 01:12:41,279
+Chromosome 24.
+
+814
+01:12:43,392 --> 01:12:44,324
+Oh, my God.
+
+815
+01:12:44,593 --> 01:12:48,290
+49 minutes after injection,
+genetic mutations...
+
+816
+01:12:48,430 --> 01:12:52,093
+began to visually manifest on
+subject's extremities.
+
+817
+01:13:02,678 --> 01:13:04,839
+This is what you're
+here to protect.
+
+818
+01:13:05,381 --> 01:13:06,780
+It doesn't make any sense.
+
+819
+01:13:06,882 --> 01:13:09,009
+You trusted them.
+They lied to you.
+
+820
+01:13:10,185 --> 01:13:11,584
+They used you, Sam.
+
+821
+01:13:12,187 --> 01:13:14,178
+If he perfected xenogenesis...
+
+822
+01:13:14,323 --> 01:13:16,450
+Christ, don't you get it?
+
+823
+01:13:16,558 --> 01:13:19,083
+It's this place. It's hell.
+It always was.
+
+824
+01:13:22,898 --> 01:13:24,456
+This shit ends here.
+
+825
+01:13:26,335 --> 01:13:27,632
+What are you doing?
+
+826
+01:13:27,770 --> 01:13:29,465
+We need to destroy
+these discs.
+
+827
+01:13:29,605 --> 01:13:31,072
+That's UAC property.
+
+828
+01:13:31,673 --> 01:13:34,073
+Fuck UAC, we take this back,
+they'll just...
+
+829
+01:13:34,443 --> 01:13:36,411
+We take the data back.
+
+830
+01:13:38,447 --> 01:13:40,915
+- Do you not see what's going on here?
+- I didn't see shit.
+
+831
+01:13:42,184 --> 01:13:44,049
+And I ain't paid to see shit.
+
+832
+01:13:44,386 --> 01:13:45,978
+I have my orders.
+And so do you.
+
+833
+01:13:48,724 --> 01:13:50,157
+Is this everything?
+
+834
+01:13:51,493 --> 01:13:53,984
+I said, is this everything?
+
+835
+01:13:54,463 --> 01:13:57,660
+I, uh, have three more to download.
+Then do it.
+
+836
+01:14:11,413 --> 01:14:12,345
+Sarge?
+
+837
+01:14:13,415 --> 01:14:14,382
+We got a problem.
+
+838
+01:14:14,516 --> 01:14:16,507
+One dead scientist is missing.
+
+839
+01:14:17,419 --> 01:14:18,386
+Now.
+
+840
+01:14:20,989 --> 01:14:22,889
+You just wanna leave her here?
+
+841
+01:14:23,292 --> 01:14:24,816
+She's got a job to do.
+
+842
+01:14:27,930 --> 01:14:32,162
+Look, this is Portman's comm.
+You call if you need help, okay?
+
+843
+01:14:35,170 --> 01:14:36,432
+You gonna be all right?
+
+844
+01:14:38,640 --> 01:14:39,800
+I'll be fine.
+
+845
+01:14:40,108 --> 01:14:41,939
+Okay. I'll see you soon.
+
+846
+01:14:46,849 --> 01:14:48,373
+Pinky, are you there? Pinky.
+
+847
+01:14:48,517 --> 01:14:52,078
+Sarge? Something is cutting
+through the Ark door.
+
+848
+01:14:52,254 --> 01:14:53,619
+You have a visual?
+
+849
+01:14:54,356 --> 01:14:56,051
+Oh, I got a visual all right.
+
+850
+01:14:56,291 --> 01:14:58,054
+Don't let it get to the Ark!
+
+851
+01:14:58,694 --> 01:14:59,661
+Five.
+
+852
+01:14:59,795 --> 01:15:01,319
+Pinky, use the grenade!
+Four.
+
+853
+01:15:01,530 --> 01:15:03,191
+Use the goddamn grenade!
+Three, two.
+
+854
+01:15:03,599 --> 01:15:05,066
+Throw it!
+One.
+
+855
+01:15:22,484 --> 01:15:24,611
+Pinky's gone. That fucker ran.
+
+856
+01:15:24,753 --> 01:15:25,685
+Shit.
+
+857
+01:15:25,988 --> 01:15:27,250
+It got through.
+
+858
+01:15:27,823 --> 01:15:29,051
+What the hell is that?
+
+859
+01:15:29,157 --> 01:15:30,454
+System reboot.
+
+860
+01:15:30,559 --> 01:15:34,222
+Time required to begin
+renewed operation: Five minutes.
+
+861
+01:15:34,329 --> 01:15:35,853
+Quarantine cordon is breached.
+
+862
+01:15:35,998 --> 01:15:37,932
+This mission is
+no longer containment.
+
+863
+01:15:38,033 --> 01:15:40,331
+Get all the weapons and ammo
+you can. We're going through.
+
+864
+01:15:40,469 --> 01:15:41,401
+Move!
+
+865
+01:15:41,637 --> 01:15:43,070
+Sam, come in. Over.
+
+866
+01:15:43,171 --> 01:15:45,264
+Sam, do you read me? Over.
+Come in!
+
+867
+01:15:46,742 --> 01:15:48,175
+She's not answering.
+
+868
+01:15:48,610 --> 01:15:50,373
+Time required to begin
+renewed operation...
+
+869
+01:15:50,479 --> 01:15:52,845
+four minutes and 45 seconds.
+
+870
+01:15:53,215 --> 01:15:54,409
+You got three.
+
+871
+01:16:00,956 --> 01:16:03,151
+Sam! Come in, Sam!
+
+872
+01:16:15,470 --> 01:16:16,437
+Sam!
+
+873
+01:16:16,705 --> 01:16:18,696
+Sam, why didn't you answer
+your comm? We gotta go now!
+
+874
+01:16:18,840 --> 01:16:20,603
+Why did they take Goat
+and not Destroyer?
+
+875
+01:16:20,709 --> 01:16:22,677
+Why Carmack
+and not Dr. Thurman?
+
+876
+01:16:22,778 --> 01:16:24,712
+What?
+Lucy had the 24th chromosome...
+
+877
+01:16:24,846 --> 01:16:25,778
+but she wasn't a monster.
+
+878
+01:16:25,914 --> 01:16:28,974
+She died protecting her child,
+not devouring it.
+
+879
+01:16:29,384 --> 01:16:31,750
+Why did the same chromosome
+that made her superhuman...
+
+880
+01:16:31,853 --> 01:16:33,650
+turn Stahl into a monster?
+
+881
+01:16:33,789 --> 01:16:35,654
+Let's go.
+Just give me a minute.
+
+882
+01:16:35,791 --> 01:16:38,624
+We don't have a minute.
+Then give me 10 seconds.
+
+883
+01:16:41,430 --> 01:16:42,795
+This is its tongue.
+
+884
+01:16:43,165 --> 01:16:45,599
+This is brain matter
+from Portman.
+
+885
+01:16:51,006 --> 01:16:52,598
+This is from Destroyer.
+
+886
+01:17:00,349 --> 01:17:01,941
+It's choosing, John.
+
+887
+01:17:02,751 --> 01:17:04,719
+It's choosing who to infect.
+
+888
+01:17:05,520 --> 01:17:07,283
+It's choosing?
+How is it choosing?
+
+889
+01:17:07,389 --> 01:17:10,847
+There are genetic markers
+for psychotic and violent behavior.
+
+890
+01:17:11,727 --> 01:17:13,854
+It could be a specific
+neurotransmitter...
+
+891
+01:17:13,996 --> 01:17:16,055
+it's picking up on,
+a ganglion.
+
+892
+01:17:16,431 --> 01:17:18,661
+Latching onto numbers
+in the DNA code linked to...
+
+893
+01:17:18,800 --> 01:17:21,462
+Linked to what? Evil?
+
+894
+01:17:21,703 --> 01:17:24,194
+Ten percent of the human
+genome is still unmapped.
+
+895
+01:17:24,339 --> 01:17:27,103
+Some say it's the genetic
+blueprint for the soul.
+
+896
+01:17:27,709 --> 01:17:30,701
+Maybe C-24 is what destroyed
+the population.
+
+897
+01:17:31,647 --> 01:17:33,808
+It would explain why some of them
+had to build the Ark...
+
+898
+01:17:33,949 --> 01:17:35,814
+to escape to a new beginning.
+
+899
+01:17:36,451 --> 01:17:40,251
+Some it made superhuman.
+Others, monsters.
+
+900
+01:17:42,624 --> 01:17:43,716
+Oh, my God.
+
+901
+01:17:44,426 --> 01:17:46,018
+We gotta get out of here now.
+What?
+
+902
+01:17:46,128 --> 01:17:48,096
+Come on, let's go, come on.
+
+903
+01:17:48,430 --> 01:17:50,398
+The people quarantined on
+the other side of the Ark...
+
+904
+01:17:50,499 --> 01:17:51,830
+they won't all be infected!
+
+905
+01:17:51,933 --> 01:17:53,264
+What's going on?
+
+906
+01:17:54,369 --> 01:17:57,338
+Sarge is going to
+kill them all. Come on.
+
+907
+01:17:59,608 --> 01:18:03,169
+We uphold quarantine. Nothing
+gets to the elevator back on Earth.
+
+908
+01:18:03,311 --> 01:18:05,279
+We can't let them
+get to the surface.
+
+909
+01:18:05,414 --> 01:18:07,439
+If it breathes, kill it.
+Five...
+
+910
+01:18:07,616 --> 01:18:10,016
+four, three...
+
+911
+01:18:10,485 --> 01:18:12,919
+two, one.
+
+912
+01:18:20,429 --> 01:18:21,987
+Ark travel complete.
+
+913
+01:18:24,299 --> 01:18:26,233
+This is
+Corporal Dean Portman...
+
+914
+01:18:26,334 --> 01:18:29,394
+with RRTS 6 Special Ops
+on Olduvai, 0310 hours.
+
+915
+01:18:30,539 --> 01:18:32,700
+We have encountered
+hostile activity.
+
+916
+01:18:33,375 --> 01:18:36,572
+Require immediate
+RRTS reinforcements.
+
+917
+01:18:36,978 --> 01:18:38,468
+Yeah, no shit.
+
+918
+01:18:39,114 --> 01:18:42,208
+We got 58 minutes before
+the auto lockdown is lifted.
+
+919
+01:18:42,784 --> 01:18:44,718
+Reset it
+for another six hours.
+
+920
+01:18:44,853 --> 01:18:46,650
+I can't. It's been disabled.
+
+921
+01:18:46,988 --> 01:18:48,853
+Same as the topside comm link.
+
+922
+01:18:48,990 --> 01:18:50,480
+They're disabling
+computers now?
+
+923
+01:18:50,625 --> 01:18:52,752
+Yeah, they're rocket scientists,
+remember?
+
+924
+01:20:03,298 --> 01:20:05,323
+Ark travel complete.
+
+925
+01:20:05,901 --> 01:20:06,925
+Oh, my God.
+
+926
+01:20:09,504 --> 01:20:11,028
+Sarge,
+what's your position?
+
+927
+01:20:22,918 --> 01:20:23,850
+Sarge.
+
+928
+01:20:24,019 --> 01:20:26,214
+Sarge, come in.
+Do you copy?
+
+929
+01:20:26,555 --> 01:20:28,750
+Come in, Sarge.
+Do you read me? Over.
+
+930
+01:20:28,857 --> 01:20:30,381
+Sarge, come in,
+do you copy?
+
+931
+01:20:30,759 --> 01:20:32,192
+Loud and clear.
+
+932
+01:20:32,327 --> 01:20:33,692
+Look, do not kill everybody.
+
+933
+01:20:33,829 --> 01:20:35,592
+I repeat,
+do not kill everybody.
+
+934
+01:20:35,730 --> 01:20:36,992
+Help me.
+They're not all infected.
+
+935
+01:20:37,098 --> 01:20:39,362
+Help me, help me, please.
+Do you copy?
+
+936
+01:20:39,801 --> 01:20:42,031
+- Copy that.
+- Help me.
+
+937
+01:20:49,144 --> 01:20:52,545
+Clear the rest of this sector
+and meet back at the Ark chamber.
+
+938
+01:21:13,768 --> 01:21:15,258
+Jesus Christ,
+what the hell are...
+
+939
+01:21:15,403 --> 01:21:16,802
+Who the hell's in there?
+
+940
+01:21:18,373 --> 01:21:21,774
+Well, don't just stand there,
+you dumb son of a bitch. Help me up.
+
+941
+01:21:27,816 --> 01:21:28,748
+It's okay.
+
+942
+01:21:39,327 --> 01:21:40,259
+Please...
+
+943
+01:21:41,763 --> 01:21:42,923
+help us.
+
+944
+01:21:46,201 --> 01:21:48,294
+You don't have to
+kill all of them.
+
+945
+01:21:48,603 --> 01:21:53,199
+I don't think everyone is infected,
+or even capable of being infected.
+
+946
+01:21:54,910 --> 01:21:58,141
+We have orders to contain this threat
+by any means necessary.
+
+947
+01:21:58,280 --> 01:22:00,680
+So let's evacuate
+the uninfected...
+
+948
+01:22:01,349 --> 01:22:02,714
+and blow this place to hell.
+
+949
+01:22:02,817 --> 01:22:04,682
+And we have orders
+to protect this facility.
+
+950
+01:22:04,819 --> 01:22:06,946
+We don't have orders
+to kill innocent people.
+
+951
+01:22:10,325 --> 01:22:13,260
+We have to stop anything
+from getting to the surface...
+
+952
+01:22:13,728 --> 01:22:16,094
+by any means...
+
+953
+01:22:16,731 --> 01:22:17,720
+necessary.
+
+954
+01:22:19,267 --> 01:22:21,792
+Found this little chicken shit
+hiding under a pile of dead bodies.
+
+955
+01:22:21,937 --> 01:22:23,427
+Am I glad to see you guys.
+
+956
+01:22:23,571 --> 01:22:25,664
+That thing
+cut right through the door.
+
+957
+01:22:25,807 --> 01:22:28,799
+I tried to use the grenade
+but it came at me too fast.
+
+958
+01:22:29,611 --> 01:22:32,774
+Followed me through the Ark
+and started to kill everybody.
+
+959
+01:22:33,515 --> 01:22:34,482
+It was horrible.
+
+960
+01:22:34,616 --> 01:22:37,983
+There's no wound on his neck.
+He's clean.
+
+961
+01:22:40,789 --> 01:22:43,280
+I say who's clean...
+
+962
+01:22:45,593 --> 01:22:46,992
+and who's not.
+
+963
+01:22:47,329 --> 01:22:49,490
+I mean, it wasn't my fault.
+
+964
+01:22:51,099 --> 01:22:53,260
+Hey, I'm not a soldier.
+You shouldn't have left me...
+
+965
+01:22:53,401 --> 01:22:54,333
+Sarge.
+
+966
+01:22:57,238 --> 01:22:59,229
+There's a storeroom
+to the south.
+
+967
+01:22:59,374 --> 01:23:01,774
+It's got, like, 20 people
+holed up inside of it.
+
+968
+01:23:01,876 --> 01:23:03,400
+We gotta do something.
+
+969
+01:23:04,646 --> 01:23:06,841
+Your orders were
+to clear that sector.
+
+970
+01:23:08,350 --> 01:23:09,544
+Is it cleared?
+
+971
+01:23:10,218 --> 01:23:11,981
+No, I told them to stay put.
+
+972
+01:23:13,021 --> 01:23:14,921
+They're okay.
+They're just scared shitless.
+
+973
+01:23:15,423 --> 01:23:16,549
+We kill them all.
+
+974
+01:23:20,929 --> 01:23:22,487
+Let God sort them out.
+
+975
+01:23:24,165 --> 01:23:25,359
+This is wrong.
+
+976
+01:23:25,800 --> 01:23:27,893
+I think...
+Son, you don't think.
+
+977
+01:23:30,438 --> 01:23:31,803
+That's an order.
+
+978
+01:23:33,708 --> 01:23:35,505
+We're in the field, soldier.
+
+979
+01:23:35,710 --> 01:23:37,337
+Sarge,
+if nothing's found them...
+
+980
+01:23:37,479 --> 01:23:41,210
+You will obey
+the direct order...
+
+981
+01:23:43,151 --> 01:23:44,880
+of your commanding officer.
+
+982
+01:23:53,028 --> 01:23:54,086
+No.
+
+983
+01:23:57,098 --> 01:23:58,190
+Now.
+
+984
+01:24:00,368 --> 01:24:01,426
+Go to hell.
+
+985
+01:24:02,070 --> 01:24:03,332
+No!
+
+986
+01:24:04,139 --> 01:24:05,629
+No.
+Holy shit.
+
+987
+01:24:16,117 --> 01:24:19,678
+Mutinous insurrection
+is punishable...
+
+988
+01:24:21,289 --> 01:24:22,221
+by death.
+
+989
+01:24:26,795 --> 01:24:29,923
+It was his first mission!
+And it's not gonna be my last.
+
+990
+01:24:30,365 --> 01:24:31,764
+I need soldiers.
+
+991
+01:24:32,600 --> 01:24:35,068
+I don't need anybody else
+but soldiers.
+
+992
+01:25:10,438 --> 01:25:11,803
+Drop the weapons.
+
+993
+01:25:12,273 --> 01:25:13,297
+I mean it.
+
+994
+01:25:13,775 --> 01:25:17,370
+I have no intention of being killed.
+Drop the weapons.
+
+995
+01:25:23,017 --> 01:25:24,314
+Ah, there's something
+behind me, isn't there?
+
+996
+01:25:38,299 --> 01:25:39,231
+On me.
+
+997
+01:25:43,538 --> 01:25:44,470
+Get Sam.
+
+998
+01:26:02,190 --> 01:26:03,214
+Wait here.
+
+999
+01:26:16,604 --> 01:26:17,536
+Listen.
+
+1000
+01:26:26,114 --> 01:26:28,981
+Withdraw!
+Withdraw behind the nanowall.
+
+1001
+01:26:29,551 --> 01:26:32,452
+Move!
+I can't see. I can't see.
+
+1002
+01:26:45,200 --> 01:26:46,132
+Move.
+
+1003
+01:26:52,607 --> 01:26:53,869
+Clear!
+
+1004
+01:26:58,146 --> 01:27:00,171
+Fuck! The wall's not closing!
+
+1005
+01:27:26,307 --> 01:27:28,241
+I'm not supposed to die.
+
+1006
+01:27:30,678 --> 01:27:31,645
+Let's go.
+
+1007
+01:27:35,416 --> 01:27:37,281
+Come on.
+
+1008
+01:27:39,420 --> 01:27:40,352
+Clear.
+
+1009
+01:27:43,825 --> 01:27:45,850
+How long
+before they get through?
+
+1010
+01:27:47,528 --> 01:27:48,460
+Not long.
+
+1011
+01:27:50,231 --> 01:27:51,698
+You've been hit.
+
+1012
+01:27:52,267 --> 01:27:53,461
+Oh, John.
+
+1013
+01:28:08,983 --> 01:28:10,507
+Listen to me, Sam.
+
+1014
+01:28:11,953 --> 01:28:14,751
+You're cold. Shivering.
+
+1015
+01:28:16,591 --> 01:28:17,819
+It's important.
+
+1016
+01:28:18,526 --> 01:28:20,391
+This is an ST grenade.
+
+1017
+01:28:22,230 --> 01:28:23,891
+When they come through...
+
+1018
+01:28:25,533 --> 01:28:27,626
+you pop the top
+and hit the button.
+
+1019
+01:28:31,539 --> 01:28:33,973
+John, stay with me.
+Stay awake.
+
+1020
+01:28:34,809 --> 01:28:37,277
+John, stay with me, please.
+
+1021
+01:28:43,685 --> 01:28:44,777
+What's that?
+
+1022
+01:28:45,620 --> 01:28:48,919
+It's C-24. It's from Carmack's lab.
+No.
+
+1023
+01:28:49,157 --> 01:28:51,853
+It could save you.
+No way, forget it.
+
+1024
+01:28:52,527 --> 01:28:54,188
+You're bleeding to death.
+
+1025
+01:28:55,229 --> 01:28:57,459
+No way, Sam.
+
+1026
+01:29:00,268 --> 01:29:01,929
+I've done some bad things.
+
+1027
+01:29:06,441 --> 01:29:07,703
+I know you.
+
+1028
+01:29:08,976 --> 01:29:10,273
+You don't know me.
+
+1029
+01:29:12,480 --> 01:29:13,708
+You don't know.
+
+1030
+01:29:14,549 --> 01:29:17,677
+You're my brother.
+I know you.
+
+1031
+01:29:22,056 --> 01:29:22,988
+Wait.
+
+1032
+01:29:24,959 --> 01:29:25,926
+Wait.
+
+1033
+01:29:27,228 --> 01:29:30,197
+If I should turn into
+one of those demons.
+
+1034
+01:29:33,101 --> 01:29:35,194
+One through the heart,
+one through the head...
+
+1035
+01:29:35,336 --> 01:29:36,928
+don't you hesitate. Okay?
+
+1036
+01:29:37,138 --> 01:29:38,503
+I won't need to.
+
+1037
+01:29:57,925 --> 01:29:59,415
+I know you.
+
+1038
+01:30:00,194 --> 01:30:02,094
+You're my brother.
+
+1039
+01:30:10,238 --> 01:30:11,262
+Sam?
+
+1040
+01:31:59,981 --> 01:32:01,039
+Sam.
+
+1041
+01:32:27,909 --> 01:32:28,876
+Sam.
+
+1042
+01:33:32,273 --> 01:33:33,240
+Sam.
+
+1043
+01:33:44,986 --> 01:33:45,918
+John.
+
+1044
+01:34:54,188 --> 01:34:55,155
+Sam.
+
+1045
+01:34:59,927 --> 01:35:00,859
+Sam.
+
+1046
+01:35:32,493 --> 01:35:35,621
+Sam.
+You're alive.
+
+1047
+01:35:36,330 --> 01:35:37,388
+Shh. Don't talk.
+
+1048
+01:35:38,165 --> 01:35:40,827
+Last man standing, Reaper.
+
+1049
+01:35:46,874 --> 01:35:48,671
+I think she needs
+medical attention.
+
+1050
+01:35:54,348 --> 01:35:57,215
+Can you get to the elevator?
+I'm not sure.
+
+1051
+01:35:59,253 --> 01:36:00,277
+Try.
+
+1052
+01:36:06,026 --> 01:36:08,153
+Where are the survivors
+Kid found?
+
+1053
+01:36:09,730 --> 01:36:11,493
+I took care of that problem.
+
+1054
+01:36:13,334 --> 01:36:17,134
+Quarantine's almost over.
+Power should be back on any minute.
+
+1055
+01:36:21,976 --> 01:36:26,504
+You killed the Kid.
+We're all killers, Reaper.
+
+1056
+01:36:28,916 --> 01:36:30,349
+It's what they pay us for.
+
+1057
+01:36:31,418 --> 01:36:34,819
+Quarantine complete.
+Elevators back on line.
+
+1058
+01:36:46,567 --> 01:36:47,761
+It's finished.
+
+1059
+01:36:49,670 --> 01:36:52,798
+What do you say we go outside
+and get some fresh air?
+
+1060
+01:37:01,048 --> 01:37:05,041
+Are you gonna shoot me?
+Yeah, I was thinking about it.
+
+1061
+01:37:05,886 --> 01:37:08,878
+What you got left?
+Half a clip. You?
+
+1062
+01:37:19,867 --> 01:37:21,801
+I've got one round.
+
+1063
+01:39:59,326 --> 01:40:01,521
+Semper fi, motherfucker.
+
+1064
+01:40:03,998 --> 01:40:06,466
+Faithful to the Corps, John.
+
+1065
+01:42:54,668 --> 01:42:55,828
+Ugh.
+
+1066
+01:42:57,204 --> 01:42:59,604
+Ark portal activation
+in progress.
+
+1067
+01:43:12,419 --> 01:43:13,351
+Five...
+
+1068
+01:43:13,754 --> 01:43:16,348
+four, three...
+
+1069
+01:43:16,523 --> 01:43:18,718
+two, one.
+
+1070
+01:43:32,539 --> 01:43:34,006
+Like the Kid said:
+
+1071
+01:43:36,343 --> 01:43:37,401
+"Go to hell".
+
+1072
+01:44:11,945 --> 01:44:13,242
+Almost home.
+
