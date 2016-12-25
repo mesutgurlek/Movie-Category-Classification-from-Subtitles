@@ -1,0 +1,4693 @@
+1
+00:00:08,016 --> 00:00:12,112
+##[Orchestra]
+
+2
+00:00:19,394 --> 00:00:21,328
+#In the Russian woods #
+
+3
+00:00:21,396 --> 00:00:23,921
+# There's an evil witch #
+
+4
+00:00:23,998 --> 00:00:28,458
+#People only whisper
+of her name in fright #
+
+5
+00:00:28,536 --> 00:00:30,800
+# Teeth of sharpened iron #
+
+6
+00:00:30,872 --> 00:00:32,567
+#Hands that catch the wind #
+
+7
+00:00:32,640 --> 00:00:37,168
+#Steals the children sleeping
+in their beds at night #
+
+8
+00:00:37,245 --> 00:00:39,770
+#She flies in a mortar and pestle #
+
+9
+00:00:39,847 --> 00:00:42,372
+# Through darkened Russian skies #
+
+10
+00:00:42,450 --> 00:00:46,853
+#If you see her
+running would be wise #
+
+11
+00:00:46,921 --> 00:00:48,855
+#Baba Yaga #
+
+12
+00:00:48,923 --> 00:00:51,187
+- #Baba Yaga #
+- #Baba Yaga #
+
+13
+00:00:51,259 --> 00:00:53,420
+# The witch of the Iron Forest #
+
+14
+00:00:53,494 --> 00:00:55,519
+#Her evil is next to none #
+
+15
+00:00:55,597 --> 00:00:57,963
+#Baba Yaga #
+
+16
+00:00:58,032 --> 00:01:00,296
+- #Baba Yaga #
+- #Baba Yaga #
+
+17
+00:01:00,368 --> 00:01:02,598
+# The wolves are afraid to chase her #
+
+18
+00:01:02,670 --> 00:01:04,865
+# The wind is afraid to race her #
+
+19
+00:01:04,939 --> 00:01:07,373
+#All Russia's afraid to face her #
+
+20
+00:01:07,442 --> 00:01:10,104
+#Except for one ##
+
+21
+00:01:19,787 --> 00:01:24,121
+Women and children in front.
+Gentlemen behind, please. Don't push.
+
+22
+00:01:24,192 --> 00:01:26,626
+- Plenty of room for everybody, sir.
+- Oh!
+
+23
+00:01:26,694 --> 00:01:29,390
+Now, don't try this at home.
+
+24
+00:01:29,464 --> 00:01:32,297
+Part of the show.
+Totally planned.
+
+25
+00:01:32,367 --> 00:01:36,326
+Stay with me now, folks,
+'cause here comes the good stuff.
+
+26
+00:01:36,404 --> 00:01:39,601
+# Once in Mongolia
+I noticed a fire #
+
+27
+00:01:39,674 --> 00:01:42,973
+#Whole city burnin'
+and the flames gettin' higher #
+
+28
+00:01:43,044 --> 00:01:46,480
+# They're yelling
+"Save us or we're all gonna bake"#
+
+29
+00:01:49,884 --> 00:01:52,478
+# I ate the flames
+and then I drank the whole lake #
+
+30
+00:01:52,553 --> 00:01:55,886
+#They called me
+Bartok the Magnificent #
+
+31
+00:01:55,957 --> 00:01:59,154
+#The specifically
+terrifically Magnificent #
+
+32
+00:01:59,227 --> 00:02:02,594
+#A mammal so inflammable
+he saved the day #
+
+33
+00:02:02,664 --> 00:02:06,600
+# I tell you, B-A-R-T-O-K#
+
+34
+00:02:06,668 --> 00:02:10,263
+Folks, that's 10,000 pounds of pressure.
+
+35
+00:02:10,338 --> 00:02:15,776
+Go over there at once and put a stop
+to that inane little bat.
+
+36
+00:02:15,843 --> 00:02:17,936
+No, Ludmilla.
+Leave him alone.
+
+37
+00:02:18,012 --> 00:02:19,946
+I like him.
+He's funny.
+
+38
+00:02:20,014 --> 00:02:22,539
+- Your Highness, can you...
+- Yes?
+
+39
+00:02:24,052 --> 00:02:26,020
+As you wish.
+
+40
+00:02:26,087 --> 00:02:28,453
+Leave him be.
+
+41
+00:02:28,523 --> 00:02:31,117
+Folks, this here's a dragon,
+an exact replica.
+
+42
+00:02:31,192 --> 00:02:33,353
+150, 200 tons easy.
+
+43
+00:02:33,428 --> 00:02:36,363
+A fire spitter.
+Kill you with a flick of the tail.
+
+44
+00:02:36,431 --> 00:02:39,025
+Careful there, sir.
+Better safe than sorry.
+
+45
+00:02:39,100 --> 00:02:43,127
+# One time in Hungary
+this dragon appears #
+
+46
+00:02:43,204 --> 00:02:46,537
+# He's very "hungary"
+No dinner in years #
+
+47
+00:02:46,607 --> 00:02:49,872
+#And then he grabs me
+and I'm practically through #
+
+48
+00:02:49,944 --> 00:02:52,208
+But I summon all my strength...
+
+49
+00:02:52,280 --> 00:02:55,681
+and using the dragon's body weight
+against him, I throw him off me.
+
+50
+00:02:55,750 --> 00:03:00,380
+And I give him a one to the solar plexus
+and a two to the kidneys.
+
+51
+00:03:00,455 --> 00:03:03,549
+# He was deflated
+'cause I knew my kung fu #
+
+52
+00:03:03,624 --> 00:03:06,320
+[All] #That's why
+I'm Bartok the Magnificent #
+
+53
+00:03:06,394 --> 00:03:09,886
+[Bartok] #With a "Hah"
+and a "Hy-ah" that are significant #
+
+54
+00:03:09,964 --> 00:03:13,161
+#That dragon hasn't eaten
+since that fateful day #
+
+55
+00:03:13,234 --> 00:03:17,068
+#Thanks to B-A-R-T-O-K#
+
+56
+00:03:19,907 --> 00:03:22,341
+[All Gasping]
+
+57
+00:03:27,582 --> 00:03:30,415
+[All]
+# Bartok the Magnificent #
+
+58
+00:03:30,485 --> 00:03:34,421
+# Undeniably, reliably magnificent #
+
+59
+00:03:34,489 --> 00:03:37,686
+[Bartok] #And heaven help
+a harpy who gets in my way #
+
+60
+00:03:37,759 --> 00:03:40,557
+# I guess I'm just a natural
+or so they say #
+
+61
+00:03:40,628 --> 00:03:46,430
+[All] #This bat'll
+go to battle for you, come what may #
+
+62
+00:03:46,501 --> 00:03:49,026
+- [Bartok] # I tell you #
+- # B-A- #
+
+63
+00:03:49,103 --> 00:03:54,370
+# R-T-OOOOOOOOO #
+
+64
+00:03:54,442 --> 00:03:57,570
+- # O-K##
+- Great crowd. Good people.
+
+65
+00:03:57,645 --> 00:04:00,113
+Oh, please, you're too kind.
+
+66
+00:04:00,181 --> 00:04:02,843
+[Cheering, Whistling]
+
+67
+00:04:02,917 --> 00:04:05,112
+[Sighs]
+Show's over.
+
+68
+00:04:05,186 --> 00:04:06,854
+- Thank goodness.
+- [Roaring]
+
+69
+00:04:06,854 --> 00:04:09,049
+- Thank goodness.
+- [Roaring]
+
+70
+00:04:22,470 --> 00:04:26,099
+Hey, hey, hey.
+Hey! Okay.
+
+71
+00:04:28,075 --> 00:04:30,270
+Not so fast there, big fella.
+
+72
+00:04:30,344 --> 00:04:32,278
+Oh, really?
+
+73
+00:04:32,346 --> 00:04:36,407
+- Why don't you try this on for size?
+- [Growling]
+
+74
+00:04:36,484 --> 00:04:38,418
+Abraca... Watch it!
+
+75
+00:04:38,486 --> 00:04:41,148
+[Sniffs]
+
+76
+00:04:41,222 --> 00:04:43,247
+[Gasps]
+
+77
+00:04:45,326 --> 00:04:49,524
+Now, watch very closely.
+There's a half hitch.
+
+78
+00:04:49,597 --> 00:04:52,327
+And here's a sailor's breastplate,
+
+79
+00:04:52,400 --> 00:04:55,927
+and this one's called
+"ropin' the bear."
+
+80
+00:04:56,003 --> 00:04:57,971
+[Grunts]
+
+81
+00:04:58,039 --> 00:04:59,973
+[Laughs]
+Yes! Yes!
+
+82
+00:05:00,041 --> 00:05:03,875
+[Kung Fu Yells]
+
+83
+00:05:17,225 --> 00:05:21,685
+[Crowd Cheering, Applauding]
+
+84
+00:05:25,032 --> 00:05:27,967
+Hey, thanks a lot, folks, really.
+
+85
+00:05:28,035 --> 00:05:29,136
+Thank you. That's too kind...
+Oh! Wow.
+
+86
+00:05:29,136 --> 00:05:31,661
+Thank you. That's too kind...
+Oh! Wow.
+
+87
+00:05:31,739 --> 00:05:35,903
+[Laughing]
+Bravo! Bravo!
+
+88
+00:05:39,981 --> 00:05:44,441
+Prince Ivan, that...
+that is a ring for a Romanoff.
+
+89
+00:05:44,519 --> 00:05:47,352
+- No commoner may ever wear that.
+- Why?
+
+90
+00:05:47,421 --> 00:05:49,651
+Because...
+[Laughing]
+
+91
+00:05:49,724 --> 00:05:52,522
+Because that is
+how it has always been.
+
+92
+00:05:52,593 --> 00:05:56,085
+Well, perhaps it's time for a change.
+
+93
+00:05:57,498 --> 00:05:59,591
+Ah, ah.
+[Chuckling]
+
+94
+00:05:59,667 --> 00:06:01,760
+Very well, Your Highness.
+
+95
+00:06:01,836 --> 00:06:05,033
+- Let us go.
+- Thank you for helping my people!
+
+96
+00:06:05,106 --> 00:06:08,371
+Please, don't be silly.
+It was the least I could do.
+
+97
+00:06:08,442 --> 00:06:12,742
+- [Ivan] Bye!
+- Wow. Would you look
+at the shine on that?
+
+98
+00:06:20,254 --> 00:06:22,950
+You can't go around...
+
+99
+00:06:23,024 --> 00:06:25,788
+giving royal jewels to commoners,
+
+100
+00:06:25,860 --> 00:06:27,919
+especially street performers.
+
+101
+00:06:27,995 --> 00:06:31,453
+- You only encourage them.
+- Well, I wanted to encourage him.
+
+102
+00:06:31,532 --> 00:06:35,491
+Ludmilla, don't be that way.
+
+103
+00:06:35,570 --> 00:06:39,097
+The people like the bat.
+Did you see how he made them smile?
+
+104
+00:06:39,173 --> 00:06:41,835
+- It was nice to see them happy.
+- Nonsense.
+
+105
+00:06:41,909 --> 00:06:44,605
+I thought he was funny.
+
+106
+00:06:44,679 --> 00:06:48,843
+- Vol, what do you think?
+- I thought so.
+
+107
+00:06:48,916 --> 00:06:51,180
+When the feathers cleared...
+
+108
+00:06:51,252 --> 00:06:55,245
+and the bat's standing there
+holding a chicken...
+
+109
+00:06:57,158 --> 00:06:59,149
+- That's good stuff.
+- See?
+
+110
+00:06:59,226 --> 00:07:02,593
+Or... [Laughs]
+When he punched the...
+
+111
+00:07:02,663 --> 00:07:06,997
+Silence.
+Yes, Your Highness, I know.
+
+112
+00:07:07,068 --> 00:07:09,002
+But one day you'll be czar.
+
+113
+00:07:09,070 --> 00:07:12,164
+You must show respect
+for your crown.
+
+114
+00:07:12,239 --> 00:07:16,437
+If you don't,
+how can you expect the peasants to?
+
+115
+00:07:16,510 --> 00:07:20,241
+Your Highness,
+are you listening to me?
+
+116
+00:07:20,314 --> 00:07:23,442
+I'm tired of listening to you,
+Ludmilla.
+
+117
+00:07:23,517 --> 00:07:27,544
+If I am the future czar,
+then I will do as I choose.
+
+118
+00:07:27,622 --> 00:07:30,955
+And it is you
+who must respect the crown.
+
+119
+00:07:31,025 --> 00:07:32,959
+[Gasps]
+
+120
+00:07:34,829 --> 00:07:37,627
+My apologies.
+
+121
+00:07:41,818 --> 00:07:45,254
+One for me and one for me.
+
+122
+00:07:45,321 --> 00:07:49,121
+One, two, three for me.
+
+123
+00:07:49,192 --> 00:07:52,161
+One, two, three...
+
+124
+00:07:52,228 --> 00:07:54,162
+for me.
+
+125
+00:07:54,230 --> 00:07:56,460
+[Growling]
+
+126
+00:07:56,533 --> 00:07:59,730
+And one, two, three, four for me.
+
+127
+00:07:59,803 --> 00:08:02,363
+- And... Aah!
+- [Roars]
+
+128
+00:08:05,608 --> 00:08:08,202
+Why do you do that?
+I hate when you do that.
+
+129
+00:08:08,278 --> 00:08:13,375
+[Laughing]
+Ah, that never fails to amuse me.
+
+130
+00:08:13,450 --> 00:08:15,384
+- Ha ha ha.
+- Oh, come now.
+
+131
+00:08:15,452 --> 00:08:18,683
+You're certainly not going to let
+the fact that I got the better of you...
+
+132
+00:08:18,755 --> 00:08:24,284
+ruin quite possibly one of
+our finer performances to date, hmm?
+
+133
+00:08:24,360 --> 00:08:27,227
+You were inspiring today:
+
+134
+00:08:27,297 --> 00:08:30,733
+Focused, fully in the moment,
+
+135
+00:08:30,800 --> 00:08:34,930
+exceeding well beyond
+what your talent would indicate.
+
+136
+00:08:35,004 --> 00:08:38,098
+- Thanks a lot.
+- And l...
+
+137
+00:08:38,174 --> 00:08:42,304
+Well, suffice it to say
+the performance of my death today...
+
+138
+00:08:42,378 --> 00:08:45,074
+would have shamed Prometheus.
+
+139
+00:08:45,148 --> 00:08:47,378
+Bound to a cliff...
+
+140
+00:08:47,450 --> 00:08:51,386
+Okay, okay. Okay, Zozi,
+with the cliff and the thing. Sheesh!
+
+141
+00:08:51,454 --> 00:08:54,787
+I wish you could hear yourself.
+It's really quite irritating.
+
+142
+00:08:54,858 --> 00:08:59,795
+Critics.
+And what, pray tell, are you doing now?
+
+143
+00:08:59,863 --> 00:09:02,229
+I'm divvying up the spoils.
+What do you mean?
+
+144
+00:09:02,298 --> 00:09:06,462
+This again.
+Why not just pool our assets?
+We're always together as it is.
+
+145
+00:09:06,536 --> 00:09:08,470
+No, no, no.
+Fair is fair.
+
+146
+00:09:08,538 --> 00:09:10,733
+You're not planning on keeping that,
+are you?
+
+147
+00:09:10,807 --> 00:09:13,401
+What are you talking about?
+He gave it to me.
+
+148
+00:09:13,476 --> 00:09:15,410
+Yes, but he's a child.
+
+149
+00:09:15,478 --> 00:09:18,072
+It is a ring for royalty,
+and you should know better.
+
+150
+00:09:18,148 --> 00:09:20,241
+Yeah, well, maybe I don't.
+
+151
+00:09:20,316 --> 00:09:22,910
+Well, I can only hope
+one day you will.
+
+152
+00:09:22,986 --> 00:09:27,150
+There we go.
+Perfectly balanced,
+my friend. Here.
+
+153
+00:09:27,223 --> 00:09:29,384
+- Perfectly balanced?
+- Oh, yeah.
+
+154
+00:09:29,459 --> 00:09:32,326
+- Both sides are the same?
+- Exactly even.
+
+155
+00:09:32,395 --> 00:09:35,922
+Good. Then you won't mind
+if I take this side.
+
+156
+00:09:35,999 --> 00:09:38,593
+Whoa, whoa.
+Wait a second there, fella.
+
+157
+00:09:38,668 --> 00:09:41,933
+What happened
+to pooling our assets?
+
+158
+00:09:42,005 --> 00:09:45,998
+- Will you give
+the prince back his ring?
+- Well, what's the hurry?
+
+159
+00:09:46,075 --> 00:09:50,011
+He's not going anywhere.
+Sheesh!
+
+160
+00:09:50,079 --> 00:09:51,915
+[Thunder Crashes]
+
+161
+00:09:51,915 --> 00:09:53,041
+[Thunder Crashes]
+
+162
+00:10:12,869 --> 00:10:14,860
+[Thunder Crashes]
+
+163
+00:10:28,885 --> 00:10:30,819
+[Gasps]
+
+164
+00:10:34,991 --> 00:10:37,653
+Oh.
+Oh, this can't be.
+
+165
+00:10:37,727 --> 00:10:40,161
+But last night he was
+in his bed, and he...
+
+166
+00:10:40,230 --> 00:10:43,427
+- Have you searched the grounds? And?
+- Every inch. Nothing.
+
+167
+00:10:43,499 --> 00:10:46,559
+- He's gone.
+- Oh, imbecile.
+
+168
+00:10:46,636 --> 00:10:49,935
+Wha... [Gasps]
+Oh, good heavens.
+
+169
+00:10:50,006 --> 00:10:53,066
+What is this?
+
+170
+00:10:53,142 --> 00:10:55,667
+A clue.
+
+171
+00:10:55,745 --> 00:10:58,908
+We must inform the peasants.
+
+172
+00:10:58,982 --> 00:11:03,282
+- [Crowd Cheering]
+- ##
+
+173
+00:11:03,353 --> 00:11:06,151
+- ## [Stops]
+- Good people of Moscow.
+
+174
+00:11:06,222 --> 00:11:09,350
+The prince has been kidnapped.
+
+175
+00:11:09,425 --> 00:11:14,226
+- [Crowd Gasping]
+- But I know who has stolen our czar.
+
+176
+00:11:14,297 --> 00:11:19,530
+For she left this iron tooth behind.
+
+177
+00:11:19,602 --> 00:11:21,536
+Baba Yaga!
+
+178
+00:11:21,604 --> 00:11:23,868
+- Baba Yaga!
+- Oh!
+
+179
+00:11:23,940 --> 00:11:26,500
+Yes. Baba Yaga.
+
+180
+00:11:26,576 --> 00:11:29,773
+Can anyone help us?
+
+181
+00:11:29,846 --> 00:11:31,780
+Think, good people, think.
+
+182
+00:11:31,848 --> 00:11:37,286
+Who... Who can rescue our prince
+from the evil Baba Yaga?
+
+183
+00:11:37,353 --> 00:11:39,116
+I know someone.
+
+184
+00:11:40,690 --> 00:11:44,717
+Hey, Zozi,
+will you take it easy up there?
+
+185
+00:11:44,794 --> 00:11:47,661
+Aargh!
+Avast there, me pint-sized matey.
+
+186
+00:11:47,730 --> 00:11:50,790
+Man the helm.
+Batten down the hatches.
+
+187
+00:11:50,867 --> 00:11:54,462
+Rough seas ahead.
+There's a storm a-comin'.
+
+188
+00:11:54,537 --> 00:11:57,233
+Heave ho!
+Hard a-starboard!
+
+189
+00:11:57,307 --> 00:12:01,471
+[Parrot] All hands, clear the deck.
+Splice the mainsail.
+
+190
+00:12:01,544 --> 00:12:04,308
+Enemies on the horizon.
+
+191
+00:12:04,380 --> 00:12:07,144
+- What, somebody's comin'?
+- Aargh!
+
+192
+00:12:07,216 --> 00:12:11,915
+I spy with my... my little eye...
+
+193
+00:12:13,723 --> 00:12:17,090
+Cossacks. Cossacks!
+
+194
+00:12:17,160 --> 00:12:20,652
+Cossacks! I knew you shouldn't
+have kept that ring!
+
+195
+00:12:20,730 --> 00:12:24,996
+Quick, hide. If they see you're
+not dead, we will be. Hurry!
+
+196
+00:12:25,068 --> 00:12:27,593
+Hurry. Hide.
+
+197
+00:12:29,005 --> 00:12:31,337
+- Halt!
+- All righty. Halting.
+
+198
+00:12:31,407 --> 00:12:34,934
+Are you Bartok the Magnificent?
+
+199
+00:12:35,011 --> 00:12:38,174
+Uh, no. No, I'm not.
+Never have been.
+
+200
+00:12:38,247 --> 00:12:41,273
+- Although I hear he is quite gifted.
+A real talent.
+- Silence!
+
+201
+00:12:41,351 --> 00:12:46,550
+All right, I'll just be quiet then.
+That's no problem for me to be quiet.
+
+202
+00:12:46,622 --> 00:12:48,954
+- I'll just shush it right down.
+- What is that?
+
+203
+00:12:49,025 --> 00:12:52,119
+Uh... Ooh.
+
+204
+00:12:52,195 --> 00:12:55,187
+That's Bertok.
+Bertok the Magnificent.
+
+205
+00:12:55,264 --> 00:13:00,361
+It's really quite different. I take
+my show in a whole nother direction.
+
+206
+00:13:00,436 --> 00:13:02,870
+You are coming with us.
+
+207
+00:13:02,939 --> 00:13:05,908
+Oh, no, fellas, I really...
+I have a thing...
+
+208
+00:13:05,975 --> 00:13:08,500
+Okay, then, that'll be fun.
+
+209
+00:13:14,550 --> 00:13:20,386
+##
+
+210
+00:13:20,456 --> 00:13:23,220
+Hello, Your Royal Impressiveness.
+
+211
+00:13:23,292 --> 00:13:26,159
+Listen, if this is about the ring,
+just take it.
+
+212
+00:13:26,229 --> 00:13:28,493
+[Cossack]
+Bow before the Regent. Bow!
+
+213
+00:13:28,564 --> 00:13:32,660
+Okay, there. Bowing, bowing. Don't have
+to tell me twice. I love a good bow.
+
+214
+00:13:32,735 --> 00:13:35,101
+##
+
+215
+00:13:35,171 --> 00:13:38,004
+Oh, Bartok the Magnificent,
+
+216
+00:13:38,074 --> 00:13:41,407
+we're so glad you came.
+
+217
+00:13:41,477 --> 00:13:45,743
+- Please, l... You are?
+- Hmm?
+
+218
+00:13:45,815 --> 00:13:51,253
+- Our young czar has been taken
+by the evil witch Baba Yaga.
+- Aah!
+
+219
+00:13:51,320 --> 00:13:56,087
+Our people and the royal family
+have called on you to save him.
+
+220
+00:13:56,159 --> 00:13:59,185
+- Ah-huh.
+- Don't even think...
+
+221
+00:13:59,262 --> 00:14:01,992
+Go to the Iron Forest...
+
+222
+00:14:02,065 --> 00:14:05,466
+and return with our czar.
+
+223
+00:14:07,670 --> 00:14:11,299
+Uh, good people
+of the fair city of Moscow,
+
+224
+00:14:11,374 --> 00:14:14,969
+it would give me no greater pleasure
+than to risk my life...
+
+225
+00:14:15,044 --> 00:14:17,945
+so that I might bring back
+your fabulous prince.
+
+226
+00:14:18,014 --> 00:14:22,075
+I mean that. I wouldn't just say that.
+He's really something special.
+
+227
+00:14:22,151 --> 00:14:26,918
+Unfortunately,
+my schedule is extremely tight.
+
+228
+00:14:26,989 --> 00:14:29,981
+Let's see.
+I've got a Hydra in St. Petersburg.
+
+229
+00:14:30,059 --> 00:14:34,223
+I gotta be in the Ukraine on the 20th.
+I can't get outta that.
+
+230
+00:14:34,297 --> 00:14:38,631
+Perhaps I could squeeze it in
+when I get back from Minsk.
+
+231
+00:14:38,701 --> 00:14:41,033
+I assure you,
+
+232
+00:14:41,104 --> 00:14:44,904
+you will be handsomely rewarded.
+
+233
+00:14:44,974 --> 00:14:47,238
+No, no, really, l...
+
+234
+00:14:47,310 --> 00:14:50,905
+- Well, perhaps I could push
+the Hydra toJune.
+- [Grunts]
+
+235
+00:14:50,980 --> 00:14:53,574
+L... l... I mean no.
+I really... I can't.
+
+236
+00:14:53,649 --> 00:14:57,415
+Hydra, terrible, eight heads,
+flailing about, eatin' people.
+
+237
+00:14:57,487 --> 00:15:01,480
+It's... It's not pretty.
+But thank you. Thank you very much.
+
+238
+00:15:01,557 --> 00:15:03,855
+Mr. Bartok?
+
+239
+00:15:03,926 --> 00:15:06,588
+Oh, boy, here comes trouble.
+
+240
+00:15:06,662 --> 00:15:09,688
+Oh, please, magnificent Bartok,
+
+241
+00:15:09,765 --> 00:15:11,960
+save my czar.
+
+242
+00:15:12,034 --> 00:15:13,968
+Don't do it.
+
+243
+00:15:14,036 --> 00:15:16,971
+Um, well, you see,
+
+244
+00:15:17,039 --> 00:15:19,303
+it's... it's complicated, but...
+
+245
+00:15:19,375 --> 00:15:21,969
+- [Grunting]
+- But, um,
+
+246
+00:15:22,044 --> 00:15:25,411
+- l...
+- Please.
+
+247
+00:15:27,483 --> 00:15:31,579
+- Ah, I'll do it.
+- Oh, no.
+
+248
+00:15:31,654 --> 00:15:34,589
+Hey, come on, huh?
+How often do you get to rescue a czar?
+
+249
+00:15:34,657 --> 00:15:36,591
+Yea, Bartok!
+
+250
+00:15:36,659 --> 00:15:39,432
+- Or eaten by a witch?
+- [Ludmilla] Thank you.
+
+251
+00:15:42,435 --> 00:15:45,996
+Okay, thanks for the send-off, fellas.
+
+252
+00:15:46,072 --> 00:15:48,199
+I'll... take it from here.
+
+253
+00:15:49,442 --> 00:15:52,809
+Zozi, how's it going in there?
+
+254
+00:15:52,879 --> 00:15:55,370
+Uh, listen,
+I'll let you out in a second,
+
+255
+00:15:55,448 --> 00:15:57,780
+but first I just wanna let you know...
+
+256
+00:15:57,850 --> 00:16:01,479
+what a very special friend
+I think you are.
+
+257
+00:16:01,554 --> 00:16:04,990
+You're warm, you're affectionate,
+you're supportive,
+
+258
+00:16:05,057 --> 00:16:08,356
+honest, thrifty, clean, reverent...
+
+259
+00:16:08,427 --> 00:16:10,395
+You're furious.
+
+260
+00:16:12,398 --> 00:16:14,730
+You're upset with me, aren't you?
+
+261
+00:16:14,800 --> 00:16:18,497
+You're peeved, you're miffed.
+You can say it. Go ahead.
+You're fuming. You're incensed.
+
+262
+00:16:18,571 --> 00:16:21,062
+- Bartok...
+- Hang on. I'm not finished.
+
+263
+00:16:21,140 --> 00:16:23,665
+- You're irate. You're beside yourself.
+- Bartok...
+
+264
+00:16:23,743 --> 00:16:27,406
+I mean, literally,
+you're here and yet you're here.
+
+265
+00:16:27,480 --> 00:16:30,347
+[Laughs]
+You see, the... You get it?
+
+266
+00:16:30,416 --> 00:16:33,078
+Because you're here and yet...
+
+267
+00:16:33,152 --> 00:16:35,848
+All right, they all can't be gems,
+all right? I'm done.
+
+268
+00:16:35,922 --> 00:16:38,390
+I believe we should do it.
+
+269
+00:16:38,457 --> 00:16:41,187
+It was the little girl.
+She killed me.
+
+270
+00:16:41,260 --> 00:16:46,129
+Did you hear the lilt in her voice?
+Nobody could resist that.
+
+271
+00:16:46,198 --> 00:16:48,928
+- I'm sorry. What did you say?
+- We should do it.
+
+272
+00:16:49,001 --> 00:16:51,367
+- We should?
+- Yes.
+
+273
+00:16:51,437 --> 00:16:54,565
+- Now, there's no denying
+it will be difficult.
+- Right, exactly.
+
+274
+00:16:54,640 --> 00:16:56,835
+- Even dangerous.
+- Dangerous?
+
+275
+00:16:56,909 --> 00:17:00,276
+Okay, well, then that's it. We're
+definitely going to St. Petersburg.
+
+276
+00:17:00,346 --> 00:17:03,804
+Bartok, these people asked you
+to help them for a reason.
+
+277
+00:17:04,183 --> 00:17:07,118
+Because they saw
+something in you.
+
+278
+00:17:07,186 --> 00:17:10,121
+Is it so hard for you
+to see it in yourself?
+
+279
+00:17:12,758 --> 00:17:14,555
+# Somebody needs you #
+
+280
+00:17:14,627 --> 00:17:17,960
+#And that's how it starts #
+
+281
+00:17:18,030 --> 00:17:21,466
+# Someone believes you'll come through #
+
+282
+00:17:21,534 --> 00:17:23,092
+#You're scared
+So what #
+
+283
+00:17:23,169 --> 00:17:25,660
+# I'll bet you've got #
+
+284
+00:17:25,738 --> 00:17:29,970
+#A possible hero in you #
+
+285
+00:17:30,042 --> 00:17:34,536
+#It's more than courage
+orjust being strong #
+
+286
+00:17:34,614 --> 00:17:38,914
+#Those things are easy to do #
+
+287
+00:17:38,985 --> 00:17:41,146
+# Have faith
+Take heart #
+
+288
+00:17:41,220 --> 00:17:43,279
+# He's kind, he's smart #
+
+289
+00:17:43,356 --> 00:17:48,259
+#That possible hero in you #
+
+290
+00:17:48,327 --> 00:17:51,990
+- # Close your eyes #
+- I think I see it.
+
+291
+00:17:52,064 --> 00:17:55,158
+#You're unafraid #
+
+292
+00:17:55,234 --> 00:17:57,168
+It just might be.
+
+293
+00:17:57,236 --> 00:18:01,832
+# I can almost predict #
+
+294
+00:18:01,907 --> 00:18:05,809
+No more tricks, no more false pretenses
+from the back of a wagon.
+
+295
+00:18:05,878 --> 00:18:08,278
+Maybe I'll save a life someday.
+
+296
+00:18:08,347 --> 00:18:13,182
+# Or slay a dragon #
+
+297
+00:18:13,252 --> 00:18:17,348
+- # Somebody needs you #
+- #What else can you do #
+
+298
+00:18:17,423 --> 00:18:21,450
+# But take your chances and see #
+
+299
+00:18:21,527 --> 00:18:23,586
+#We're on our way #
+
+300
+00:18:23,663 --> 00:18:26,131
+- All right?
+- Okay.
+
+301
+00:18:26,198 --> 00:18:28,359
+#A possible hero #
+
+302
+00:18:28,434 --> 00:18:30,368
+# Impossible hero #
+
+303
+00:18:30,436 --> 00:18:35,032
+#A possible hero #
+
+304
+00:18:35,107 --> 00:18:36,631
+- # In you #
+- In me?
+
+305
+00:18:36,709 --> 00:18:39,007
+Yes, you.
+
+306
+00:18:39,078 --> 00:18:41,706
+# In me ##
+
+307
+00:18:46,452 --> 00:18:50,320
+[Bartok]
+Gee, who does her landscaping?
+
+308
+00:18:57,063 --> 00:18:59,657
+Okay, well, it's official.
+I'm frightened.
+
+309
+00:18:59,732 --> 00:19:04,396
+Well, there's your witch's hut.
+
+310
+00:19:04,470 --> 00:19:06,904
+[Bartok]
+Gee, looky here.
+
+311
+00:19:06,972 --> 00:19:08,997
+[Both Screaming]
+
+312
+00:19:11,077 --> 00:19:14,205
+[Evil Laughter]
+
+313
+00:19:14,280 --> 00:19:18,580
+I'm terribly sorry.
+Did I startle you?
+
+314
+00:19:18,651 --> 00:19:21,085
+Yah, yah.
+You could say that.
+
+315
+00:19:21,153 --> 00:19:25,681
+Mmm.
+Now, why have you come here?
+
+316
+00:19:25,758 --> 00:19:27,851
+L-I've come for Prince Ivan.
+
+317
+00:19:27,927 --> 00:19:29,861
+Delightful.
+
+318
+00:19:29,929 --> 00:19:32,921
+And how might I help you?
+
+319
+00:19:32,998 --> 00:19:35,990
+Well, you just let him in here
+to talk to that evil witch Baba Yaga.
+
+320
+00:19:36,068 --> 00:19:40,266
+- He'll handle the rest.
+- And you're certain
+you're up to the task?
+
+321
+00:19:40,339 --> 00:19:43,604
+Have you ever heard
+of Bartok the Magnificent?
+
+322
+00:19:43,676 --> 00:19:46,543
+- Oh, should I have?
+- Mm-hmm.
+
+323
+00:19:46,612 --> 00:19:48,739
+- Do you like riddles?
+- Riddles?
+
+324
+00:19:48,814 --> 00:19:52,306
+- Riddles?
+- Could you answer one?
+
+325
+00:19:52,384 --> 00:19:54,750
+If I do, will you let me in?
+
+326
+00:19:54,820 --> 00:19:57,687
+Why not? Let me see.
+
+327
+00:19:57,757 --> 00:20:01,989
+Oh. [Evil Laughter]
+Ready?
+
+328
+00:20:02,061 --> 00:20:06,157
+If a section of fence
+is 68 feet long and 5 feet wide...
+
+329
+00:20:06,232 --> 00:20:08,257
+and the parallel section
+is the same length,
+
+330
+00:20:08,334 --> 00:20:10,529
+but both perpendicular sections
+are twice as long...
+
+331
+00:20:10,603 --> 00:20:12,594
+Carry the six, plus the two...
+
+332
+00:20:12,671 --> 00:20:16,198
+What is the key
+that will open the witch's door?
+
+333
+00:20:16,275 --> 00:20:19,733
+I'm sorry. I lost you there.
+What was that last part?
+
+334
+00:20:19,812 --> 00:20:25,409
+What is the key
+that will open the witch's door?
+
+335
+00:20:25,484 --> 00:20:29,079
+- I thought it was an arithmetic thing.
+- A skeleton key.
+
+336
+00:20:29,155 --> 00:20:31,555
+[Roaring]
+
+337
+00:20:32,992 --> 00:20:36,928
+That's exactly
+what I was just gonna say.
+A skeleton key.
+
+338
+00:20:36,996 --> 00:20:40,762
+Zozi, you jumped the gun on me there.
+Come on.
+
+339
+00:20:43,002 --> 00:20:44,765
+- Ooooh!
+- Hey!
+
+340
+00:20:44,837 --> 00:20:47,533
+Mmm-mm-mm.
+
+341
+00:20:47,606 --> 00:20:49,870
+Did you hear me say...
+
+342
+00:20:49,942 --> 00:20:52,342
+you could go in?
+
+343
+00:20:52,411 --> 00:20:55,380
+You go on ahead.
+I'll wait for you here.
+
+344
+00:20:55,447 --> 00:20:57,711
+- But...
+- Apparently, I'm not permitted.
+
+345
+00:20:57,783 --> 00:21:02,379
+And as much as it might pain me
+to not be with you
+at this critical juncture in your life,
+
+346
+00:21:02,454 --> 00:21:05,821
+I accept it, fully aware,
+as you should be,
+
+347
+00:21:05,891 --> 00:21:09,383
+that I am with you in spirit.
+
+348
+00:21:09,461 --> 00:21:12,123
+- In spirit, huh?
+- Always.
+
+349
+00:21:12,198 --> 00:21:15,964
+"Once more into the breach,
+dear friends, once more.
+
+350
+00:21:16,035 --> 00:21:20,495
+Or close the wall up
+with our English dead in peace."
+
+351
+00:21:20,573 --> 00:21:24,407
+Thanks for mentioning the dead, really.
+That's real helpful.
+
+352
+00:21:24,476 --> 00:21:27,172
+- [Zozi Continues Reading]
+- Hmm.
+
+353
+00:21:30,916 --> 00:21:32,850
+[Sighs]
+
+354
+00:21:36,422 --> 00:21:38,356
+Whoa-oh.
+
+355
+00:21:42,761 --> 00:21:46,197
+Oh, would you look at that?
+
+356
+00:21:58,244 --> 00:22:00,940
+Hello!
+
+357
+00:22:01,013 --> 00:22:03,106
+Prince Ivan?
+
+358
+00:22:03,182 --> 00:22:05,446
+Anybody home?
+
+359
+00:22:08,854 --> 00:22:10,788
+Hmm?
+
+360
+00:22:12,858 --> 00:22:16,713
+[Clattering]
+
+361
+00:22:16,846 --> 00:22:18,814
+[Woman]
+Who...
+
+362
+00:22:18,882 --> 00:22:23,649
+is in my house?
+
+363
+00:22:23,720 --> 00:22:26,086
+##[Jazz]
+
+364
+00:22:30,994 --> 00:22:33,827
+I smell a rat.
+
+365
+00:22:33,897 --> 00:22:38,925
+#A witch's life
+is very solitary #
+
+366
+00:22:39,002 --> 00:22:43,166
+# No one around
+to talk to but trees #
+
+367
+00:22:43,239 --> 00:22:48,336
+# So many years
+of never makin' merry #
+
+368
+00:22:48,411 --> 00:22:52,006
+#But I can feel
+a change in the breeze #
+
+369
+00:22:52,081 --> 00:22:56,177
+# 'Cause tonight there's
+no one in the hallway #
+
+370
+00:22:56,252 --> 00:22:58,516
+# No one left or right #
+
+371
+00:22:58,588 --> 00:23:01,113
+# But my hallways all say #
+
+372
+00:23:01,191 --> 00:23:03,455
+# Someone's in my house tonight #
+
+373
+00:23:03,526 --> 00:23:05,960
+# No one by my fire #
+
+374
+00:23:06,029 --> 00:23:08,293
+# No one sippin' tea #
+
+375
+00:23:08,364 --> 00:23:10,958
+#My fire's burnin'higher #
+
+376
+00:23:11,034 --> 00:23:13,298
+# Someone's in my house with me #
+
+377
+00:23:13,369 --> 00:23:16,031
+[Chorus] # Witches are people
+with a magic intuition #
+
+378
+00:23:16,105 --> 00:23:18,539
+#And she's havin'a feelin'
+that is, oh, so bewitchin'#
+
+379
+00:23:18,608 --> 00:23:21,042
+#Even though no one's hangin'
+round in the kitchen #
+
+380
+00:23:21,110 --> 00:23:23,544
+# We know that someone is near, dear #
+
+381
+00:23:23,613 --> 00:23:25,979
+# No one in the attic #
+
+382
+00:23:26,049 --> 00:23:28,540
+# No one in my chair #
+
+383
+00:23:28,618 --> 00:23:30,984
+# But I'm so emphatic #
+
+384
+00:23:31,054 --> 00:23:33,488
+#Someone's in my house
+somewhere #
+
+385
+00:23:33,556 --> 00:23:35,547
+- # Where is he, where is he #
+- # Where are you #
+
+386
+00:23:35,625 --> 00:23:38,321
+#You wouldn't desert me
+You know it would hurt me.
+
+387
+00:23:38,394 --> 00:23:41,261
+- # Where is he, where is he #
+- #Where are you #
+
+388
+00:23:41,331 --> 00:23:43,390
+#Little no one
+you're through, ooh #
+
+389
+00:23:43,466 --> 00:23:45,661
+#No one in the mirror #
+
+390
+00:23:45,735 --> 00:23:48,727
+#No one by the door #
+
+391
+00:23:48,805 --> 00:23:51,000
+# But I'm gettin' nearer #
+
+392
+00:23:51,074 --> 00:23:53,338
+#Someone's in my house for sure #
+
+393
+00:23:53,409 --> 00:23:56,139
+#No one small and dumb, no #
+
+394
+00:23:56,212 --> 00:23:58,680
+#No one pink and white, hey #
+
+395
+00:23:58,748 --> 00:24:01,080
+#No one
+here I come, 'cause #
+
+396
+00:24:01,150 --> 00:24:03,744
+#Someone's in my house #
+
+397
+00:24:03,820 --> 00:24:05,583
+# Someone's in her house #
+
+398
+00:24:05,655 --> 00:24:12,356
+#And no one's
+gettin' out tonight ##
+
+399
+00:24:13,830 --> 00:24:15,764
+- Ah!
+- Whoo!
+
+400
+00:24:17,834 --> 00:24:20,268
+Well, that was...
+convenient for you.
+
+401
+00:24:20,336 --> 00:24:24,136
+- Quiet!
+- Okay, sure, whatever you say.
+Not another peep.
+
+402
+00:24:24,207 --> 00:24:29,042
+You broke into my home.
+
+403
+00:24:29,112 --> 00:24:32,172
+Well, actually,
+your big head out there by the gate,
+
+404
+00:24:32,248 --> 00:24:34,375
+he gave me a key.
+
+405
+00:24:34,450 --> 00:24:37,214
+Why don't you just hang on to that.
+That's fine.
+
+406
+00:24:37,287 --> 00:24:41,223
+Shh!
+Ah, you've come for the prince.
+
+407
+00:24:41,291 --> 00:24:43,885
+- Ah, mm-hmm.
+- But why have they sent you?
+
+408
+00:24:43,960 --> 00:24:46,520
+Filthy little creature.
+
+409
+00:24:46,596 --> 00:24:49,156
+Not quite a rat, not quite a bird.
+
+410
+00:24:49,232 --> 00:24:54,966
+You certainly are not
+a worthy adversary for me,
+
+411
+00:24:55,038 --> 00:24:58,132
+the evil Baba Yaga!
+
+412
+00:24:58,207 --> 00:25:01,904
+Yeah, well,
+appearances can be deceiving.
+
+413
+00:25:01,978 --> 00:25:05,106
+- I think.
+- Yes, they can.
+
+414
+00:25:05,181 --> 00:25:07,115
+[Laughing]
+
+415
+00:25:07,183 --> 00:25:11,313
+I know where the prince is.
+[Laughing]
+
+416
+00:25:11,387 --> 00:25:13,821
+Oh, what a shocker.
+
+417
+00:25:13,890 --> 00:25:17,826
+[Coughs]
+Okay, okay, I'll stop. I'll stop.
+
+418
+00:25:17,894 --> 00:25:22,854
+However, in order for me
+to show you where he is,
+
+419
+00:25:22,932 --> 00:25:28,427
+you must first prove
+that you are worthy of saving him.
+
+420
+00:25:28,504 --> 00:25:32,440
+Oh, listen, I'm extremely worthy.
+They don't come more worthy than...
+
+421
+00:25:32,508 --> 00:25:35,078
+Sorry, sorry. Can't help it.
+You go ahead.
+
+422
+00:25:35,078 --> 00:25:35,442
+Sorry, sorry. Can't help it.
+You go ahead.
+
+423
+00:25:35,511 --> 00:25:38,776
+There are three things
+I seek within my forest.
+
+424
+00:25:38,848 --> 00:25:41,476
+I will tell you
+where to find them...
+
+425
+00:25:41,551 --> 00:25:44,850
+and you must bring them to me.
+
+426
+00:25:44,921 --> 00:25:49,290
+Quick question. Totally hypothetical,
+of course. What if I can't?
+
+427
+00:25:49,359 --> 00:25:51,293
+You can or you can't.
+
+428
+00:25:51,361 --> 00:25:56,526
+But if you can't,
+you will die not a hero,
+
+429
+00:25:56,599 --> 00:26:00,535
+and Moscow will never
+see its prince again.
+
+430
+00:26:00,603 --> 00:26:04,130
+Sounds like a real win-win.
+When do I start?
+
+431
+00:26:04,207 --> 00:26:08,200
+[Laughs, Snorts] You already have.
+[Laughs, Snorts]
+
+432
+00:26:08,277 --> 00:26:12,270
+- I have?
+- Head south to the ice quarry...
+
+433
+00:26:12,348 --> 00:26:14,282
+and bring Piloff to me.
+
+434
+00:26:14,350 --> 00:26:18,582
+- Bring Piloff. That's it?
+Bring Piloff to you?
+- [Growls]
+
+435
+00:26:18,654 --> 00:26:21,122
+Nah, it's just I thought
+you were gonna say more.
+
+436
+00:26:21,190 --> 00:26:23,488
+Okay, how am I gonna know this Piloff?
+
+437
+00:26:23,559 --> 00:26:28,394
+Aach! Go. And tell your furry friend
+if he helps you in any way,
+
+438
+00:26:28,464 --> 00:26:30,398
+you'll both die.
+
+439
+00:26:30,466 --> 00:26:33,492
+Okay, now, that I really
+should be writing down.
+
+440
+00:26:33,569 --> 00:26:37,403
+"Both die."
+It's the little things.
+
+441
+00:26:37,473 --> 00:26:39,634
+Wind.
+
+442
+00:26:39,709 --> 00:26:44,078
+Whoa! Okay, well,
+I guess I'm gonna go now!
+
+443
+00:26:44,147 --> 00:26:46,411
+I'll catch ya later!
+
+444
+00:26:51,254 --> 00:26:56,351
+He's actually rather charming
+for an oversized skull,
+
+445
+00:26:56,426 --> 00:26:58,986
+once you get past
+his inquisitive nature.
+
+446
+00:26:59,062 --> 00:27:03,021
+- Gosh, I feel like we've
+been walking for hours here.
+- We have.
+
+447
+00:27:03,099 --> 00:27:06,933
+- I have absolutely no idea where we are.
+- Mm.
+
+448
+00:27:07,003 --> 00:27:10,439
+Not unlike Oedipus,
+blinded with his mother's broach.
+
+449
+00:27:10,506 --> 00:27:13,634
+Left to wander the earth,
+never knowing...
+
+450
+00:27:13,709 --> 00:27:16,678
+- [Bartok] Zozi.
+- I'm doing it again. I'll stop.
+
+451
+00:27:16,746 --> 00:27:20,614
+Is it getting cold?
+I must say, it is rather exciting.
+
+452
+00:27:20,683 --> 00:27:24,710
+The first of three gifts
+you must search out and bring to her.
+
+453
+00:27:24,787 --> 00:27:27,347
+- Uh-huh.
+- And I can't help in any way.
+
+454
+00:27:27,423 --> 00:27:29,891
+That's what she said.
+
+455
+00:27:29,959 --> 00:27:32,052
+I am freezing.
+
+456
+00:27:32,128 --> 00:27:34,562
+Why is it getting so cold?
+
+457
+00:27:34,630 --> 00:27:36,825
+[Childlike Voice]
+Well, hello there.
+
+458
+00:27:36,899 --> 00:27:39,629
+Bingo. Piloff.
+
+459
+00:27:42,371 --> 00:27:44,566
+Aha.
+
+460
+00:27:47,310 --> 00:27:49,244
+Hello there.
+[Laughing]
+
+461
+00:27:49,312 --> 00:27:52,110
+I never get visitors.
+
+462
+00:27:52,181 --> 00:27:54,911
+This is... You know what this is?
+It's a pleasure.
+
+463
+00:27:54,984 --> 00:27:58,147
+- It's an absolute pleasure.
+- You must be Piloff.
+
+464
+00:27:58,221 --> 00:28:02,317
+And you must be lost.
+How delightful.
+
+465
+00:28:02,391 --> 00:28:05,087
+That's it? A little hike,
+some cold weather...
+
+466
+00:28:05,161 --> 00:28:07,789
+then bring this little thing
+back to the witch?
+
+467
+00:28:07,864 --> 00:28:11,027
+This is gonna be a piece of cake!
+
+468
+00:28:11,100 --> 00:28:14,160
+Oh. Oh, my goodness.
+
+469
+00:28:14,237 --> 00:28:16,171
+- Hey there. I'm Bartok.
+- Oh!
+
+470
+00:28:16,239 --> 00:28:18,469
+Sorry about this, my little friend,
+
+471
+00:28:18,541 --> 00:28:21,339
+but I gotta bring you
+back to Baba Yaga.
+
+472
+00:28:21,410 --> 00:28:23,344
+Ah!
+
+473
+00:28:23,412 --> 00:28:28,509
+- Oh, dear. This isn't good.
+You see, I'm stuck.
+- Ah!
+
+474
+00:28:28,584 --> 00:28:31,018
+- Ow!
+- It's unbearable.
+
+475
+00:28:31,087 --> 00:28:35,183
+I don't even know how long
+I've been here. What year is this?
+
+476
+00:28:35,258 --> 00:28:38,785
+- Oh, boy.
+- How's it going?
+
+477
+00:28:38,861 --> 00:28:41,352
+[Bartok]
+It's not going good!
+
+478
+00:28:41,430 --> 00:28:43,921
+[Grunting]
+
+479
+00:28:44,000 --> 00:28:46,366
+Ooh, that tickles.
+[Laughing]
+
+480
+00:28:46,435 --> 00:28:48,460
+[Grunting]
+
+481
+00:28:48,538 --> 00:28:51,371
+Pull, pull, pull.
+Yes! Yes!
+
+482
+00:28:51,440 --> 00:28:54,102
+Pulllllll!
+
+483
+00:28:54,177 --> 00:28:57,112
+It's enough to drive you crazy,
+isn't it?
+
+484
+00:28:57,180 --> 00:29:00,343
+[Both Laughing]
+
+485
+00:29:00,416 --> 00:29:02,714
+Uh... Oh, boy.
+
+486
+00:29:02,785 --> 00:29:05,686
+- [Yelling]
+- [Crash]
+- Whoa!
+
+487
+00:29:05,755 --> 00:29:09,054
+From the sound of it,
+you're making great progress.
+
+488
+00:29:11,360 --> 00:29:13,726
+- [Grunting]
+- [Piloff] Oh, that was close.
+
+489
+00:29:13,796 --> 00:29:17,323
+You know, I felt like
+we almost had something there.
+
+490
+00:29:17,400 --> 00:29:19,493
+- Hmm.
+- [Laughing]
+
+491
+00:29:19,569 --> 00:29:23,403
+My goodness, you are determined.
+
+492
+00:29:23,472 --> 00:29:25,667
+I love that.
+
+493
+00:29:25,741 --> 00:29:28,835
+This whole thing is very exciting.
+
+494
+00:29:28,911 --> 00:29:32,711
+- Okeydokey.
+- Artichokey. [Giggling]
+
+495
+00:29:32,782 --> 00:29:36,513
+[Bartok]
+My friend, we're going to Baba Yaga's,
+
+496
+00:29:36,586 --> 00:29:39,521
+with or without the extra baggage.
+
+497
+00:29:39,589 --> 00:29:43,423
+Such fun.
+I'm having entirely too much fun.
+
+498
+00:29:43,492 --> 00:29:47,258
+Yeah, well, that makes one of us.
+[Grunts]
+
+499
+00:29:49,332 --> 00:29:51,766
+Wa-ha!
+
+500
+00:29:53,502 --> 00:29:56,096
+Wheeeeeee!
+
+501
+00:29:57,506 --> 00:29:58,939
+Hi-ya!
+
+502
+00:30:00,343 --> 00:30:02,777
+- [Piloff] Oh, careful, careful.
+- Whoa!
+
+503
+00:30:04,180 --> 00:30:08,276
+- Wheeeeee! [Laughing]
+- Intriguing.
+
+504
+00:30:08,351 --> 00:30:12,049
+Bartok, I've landed and I'm unharmed.
+
+505
+00:30:12,182 --> 00:30:15,413
+Are you still on the boulder?
+
+506
+00:30:15,486 --> 00:30:18,319
+- Um, yes!
+- Whoop-de-do.
+
+507
+00:30:18,388 --> 00:30:21,084
+What a strong little bat.
+
+508
+00:30:21,158 --> 00:30:23,991
+You're actually doing quite well.
+I'm very impressed.
+
+509
+00:30:24,061 --> 00:30:26,029
+[Groans]
+
+510
+00:30:28,899 --> 00:30:31,834
+This is one of those days
+you never forget,
+
+511
+00:30:31,902 --> 00:30:36,532
+when everything you wanted to happen
+happens, only better.
+
+512
+00:30:36,607 --> 00:30:40,099
+I'm beside myself.
+You know what, Bartok?
+
+513
+00:30:40,177 --> 00:30:43,112
+You should try
+and remember this too.
+
+514
+00:30:43,180 --> 00:30:47,617
+Yeah, I'll make a mental note.
+All right? [Grunts]
+
+515
+00:30:47,684 --> 00:30:50,710
+Wheeeeeeee!
+[Laughing]
+
+516
+00:30:50,787 --> 00:30:53,847
+Ah, talk about fun.
+We did it, Bartok.
+
+517
+00:30:53,924 --> 00:30:57,291
+That was a blast.
+Wheeeeeeeee!
+
+518
+00:30:57,361 --> 00:31:00,626
+Ah! Can you believe this, Bartok?
+
+519
+00:31:00,697 --> 00:31:03,791
+We dragged this big old boulder
+all the way across the forest,
+
+520
+00:31:03,867 --> 00:31:06,768
+and I pop off ten feet
+from the house.
+
+521
+00:31:06,837 --> 00:31:10,466
+- That's funny.
+- Yeah, that's hysterical.
+
+522
+00:31:10,541 --> 00:31:15,638
+- Ah!
+- And where, pray tell,
+do you think you're going?
+
+523
+00:31:15,712 --> 00:31:19,978
+- In to see Baba Yaga.
+- Do you have a key?
+
+524
+00:31:20,050 --> 00:31:24,384
+No, she took it. Ah, come on.
+You're kidding, right?
+
+525
+00:31:24,454 --> 00:31:26,752
+# Me me me #
+[Clears Throat]
+
+526
+00:31:26,823 --> 00:31:30,054
+No matter how hard you hit me,
+
+527
+00:31:30,127 --> 00:31:33,153
+no matter how much I hurt,
+
+528
+00:31:33,230 --> 00:31:37,064
+I'm always good for a laugh.
+What am I?
+
+529
+00:31:37,134 --> 00:31:39,728
+Hmm. A funny bone.
+
+530
+00:31:39,803 --> 00:31:43,330
+- Funny bone. Ha ha. Key, please.
+- [Grunts]
+
+531
+00:31:44,908 --> 00:31:47,172
+Much obliged.
+
+532
+00:31:47,244 --> 00:31:51,010
+You're really quite good
+at solving riddles.
+
+533
+00:31:51,081 --> 00:31:54,107
+I say, have you heard this one?
+
+534
+00:31:54,184 --> 00:31:58,450
+- What starts off
+in the morning on four legs?
+- Ah, you brought me Piloff.
+
+535
+00:31:58,522 --> 00:32:03,425
+Hello, Baba. I was stuck to a rock.
+
+536
+00:32:03,493 --> 00:32:07,520
+- [Laughing]
+- Oh, boy.
+
+537
+00:32:09,099 --> 00:32:11,533
+Ah! Ow.
+
+538
+00:32:11,602 --> 00:32:13,934
+Uh, uh, uh.
+Don't sit.
+
+539
+00:32:14,004 --> 00:32:17,531
+But I'm tired.
+
+540
+00:32:17,608 --> 00:32:19,509
+Okay, okay, I'm not sitting.
+
+541
+00:32:19,509 --> 00:32:20,441
+Okay, okay, I'm not sitting.
+
+542
+00:32:20,510 --> 00:32:22,444
+Now,
+
+543
+00:32:22,512 --> 00:32:26,539
+go fetch me the crown
+of Oble the metalworker.
+
+544
+00:32:26,617 --> 00:32:29,711
+Oble? He sounds big.
+Is he big?
+
+545
+00:32:29,786 --> 00:32:32,778
+Enormous.
+
+546
+00:32:32,856 --> 00:32:36,383
+- He's much bigger than you.
+- Piloff!
+
+547
+00:32:36,460 --> 00:32:39,554
+- Sorry.
+- Go!
+- But I'm exhausted.
+
+548
+00:32:39,630 --> 00:32:44,624
+Or if you don't,
+Prince Ivan will be doomed.
+
+549
+00:32:44,701 --> 00:32:48,398
+- Which way?
+- Walk east until it's dark.
+
+550
+00:32:48,472 --> 00:32:52,568
+Then look for a fire in the forest.
+
+551
+00:32:52,643 --> 00:32:55,441
+That's it, huh?
+Walk east and look for fire.
+
+552
+00:32:55,512 --> 00:32:58,310
+No "thank you"?
+No "nice work"? Nothing.
+
+553
+00:32:58,382 --> 00:33:03,251
+Yes, one last thing.
+Give me the key.
+
+554
+00:33:03,320 --> 00:33:06,255
+Ah, but why?
+I solved the riddle twice already.
+
+555
+00:33:06,323 --> 00:33:09,918
+Give it to me.
+
+556
+00:33:09,993 --> 00:33:13,156
+- Okay, that's yours.
+Go ahead and take that.
+- [Laughing]
+
+557
+00:33:13,230 --> 00:33:17,667
+Sheesh, helping people
+sure can take it out of ya.
+
+558
+00:33:17,734 --> 00:33:21,568
+[Ludmilla]
+Good people of Moscow,
+
+559
+00:33:21,638 --> 00:33:24,198
+the prince has been taken from us.
+
+560
+00:33:24,274 --> 00:33:27,141
+God willing he will be returned.
+
+561
+00:33:27,210 --> 00:33:31,169
+But in the meantime,
+the affairs of state must continue.
+
+562
+00:33:31,248 --> 00:33:34,706
+And I, as Regent,
+will do my best...
+
+563
+00:33:34,785 --> 00:33:38,152
+to carry on and ensure the safety of...
+
+564
+00:33:38,221 --> 00:33:40,781
+and respect for...
+
+565
+00:33:40,857 --> 00:33:44,293
+the throne... of Russia.
+
+566
+00:33:48,865 --> 00:33:53,495
+This is ridiculous. I'm out here
+working my wings off, and for what?
+
+567
+00:33:53,570 --> 00:33:57,267
+I tell ya, if I get back
+and she dumps this crown into her stew,
+
+568
+00:33:57,341 --> 00:33:59,775
+I'm gonna have a cow.
+
+569
+00:33:59,843 --> 00:34:04,109
+- Meanwhile, I ain't seen
+hide nor hair of that prince.
+- [Grunts]
+
+570
+00:34:04,181 --> 00:34:06,342
+Oh, would ya look at that.
+
+571
+00:34:06,416 --> 00:34:11,115
+[Zozi] He is large.
+There's no denying it.
+
+572
+00:34:11,188 --> 00:34:14,123
+- But perhaps he's friendly.
+- You think?
+
+573
+00:34:14,191 --> 00:34:19,288
+[Mumbling, Growling]
+
+574
+00:34:19,363 --> 00:34:21,297
+Let's try, huh?
+
+575
+00:34:21,365 --> 00:34:25,028
+I'll just... I'll just shout to him
+and ask him if I can borrow his hat.
+
+576
+00:34:25,102 --> 00:34:29,436
+I'll drop Baba Yaga's name. Maybe
+they're friends. What could it hurt?
+
+577
+00:34:29,506 --> 00:34:32,441
+- Hello, good sir!
+- [Grunts]
+
+578
+00:34:32,509 --> 00:34:34,841
+[Growls]
+
+579
+00:34:36,913 --> 00:34:40,349
+Yes, very good.
+Uh, we come bearing gifts, sir.
+
+580
+00:34:40,417 --> 00:34:41,782
+[Grunts]
+
+581
+00:34:41,852 --> 00:34:47,518
+Uh, well, not real gifts,
+but gifts of warmth and affection.
+
+582
+00:34:47,591 --> 00:34:50,287
+[Growling]
+
+583
+00:34:50,360 --> 00:34:54,797
+In exchange for which we'd just love to
+bring your headdress back to Baba Yaga.
+
+584
+00:34:54,865 --> 00:35:00,303
+Aaba Raaba.
+Pee wan foof poo mee nana.
+
+585
+00:35:00,370 --> 00:35:04,466
+- What did he say?
+- I just don't have a clue.
+- [Growls]
+
+586
+00:35:04,541 --> 00:35:09,137
+Diction, my dear boy. It can make
+all the difference in the world.
+
+587
+00:35:09,212 --> 00:35:11,646
+- Carry on, Bartok.
+- Oh! Ah! Hot! Oh, that's hot.
+
+588
+00:35:11,715 --> 00:35:15,651
+- It's hot. It's hot.
+- Manna ooo boorin eeeeear?
+
+589
+00:35:15,719 --> 00:35:19,155
+Yeah, you and me both,
+my friend, I'm sure.
+
+590
+00:35:19,222 --> 00:35:23,625
+We just need to get that crown of yours
+and we'll be on our way.
+
+591
+00:35:23,693 --> 00:35:27,151
+[Mumbling, Roaring]
+
+592
+00:35:27,230 --> 00:35:30,495
+- Aah!
+- [Growling]
+
+593
+00:35:34,070 --> 00:35:36,664
+- [Banging]
+- Oopsie.
+
+594
+00:35:36,740 --> 00:35:40,005
+Ah, ah. [Growls]
+
+595
+00:35:40,076 --> 00:35:44,342
+- Okay. Hmm. How about this?
+- [Grunts]
+
+596
+00:35:44,414 --> 00:35:47,906
+Well, how about... Hey, it's hot.
+Hey, hey, hey, hey...
+
+597
+00:35:47,984 --> 00:35:50,418
+- Hot, hot, hot.
+- Yaya. Boogaler?
+
+598
+00:35:50,487 --> 00:35:55,083
+- Part of the show. Totally planned.
+- [Excited Grunts]
+
+599
+00:35:55,158 --> 00:35:57,922
+Stay with me now,
+'cause here comes the good stuff.
+
+600
+00:35:57,994 --> 00:35:59,928
+Abraca-woozi!
+
+601
+00:35:59,996 --> 00:36:02,863
+[Grunting, Laughing]
+
+602
+00:36:04,100 --> 00:36:06,591
+[Grunting Continues]
+
+603
+00:36:08,171 --> 00:36:10,867
+Eeyyy, boogaler.
+
+604
+00:36:10,941 --> 00:36:13,205
+[Grunting]
+
+605
+00:36:13,276 --> 00:36:15,267
+[Groaning]
+
+606
+00:36:15,345 --> 00:36:20,044
+- [Grunting]
+- Bravo!
+
+607
+00:36:20,116 --> 00:36:22,949
+- Zozi, let's roll.
+- [Roaring]
+
+608
+00:36:23,019 --> 00:36:25,453
+[Both Screaming]
+
+609
+00:36:26,523 --> 00:36:28,457
+Bartok, he's still coming.
+
+610
+00:36:29,693 --> 00:36:32,287
+[Roaring]
+
+611
+00:36:40,704 --> 00:36:44,140
+[Relieved Sigh]
+
+612
+00:36:48,645 --> 00:36:51,637
+[Piloff Laughing]
+
+613
+00:36:51,715 --> 00:36:55,651
+Would you look at you?
+You did it! You did it!
+
+614
+00:36:55,719 --> 00:36:58,813
+- He's something special.
+- Quiet, Piloff.
+
+615
+00:37:09,499 --> 00:37:13,435
+And she drops it in the soup.
+Perfect.
+
+616
+00:37:13,503 --> 00:37:18,236
+Tomorrow is the most
+difficult task of all.
+
+617
+00:37:18,308 --> 00:37:22,142
+- [Laughing]
+- [Laughing]
+
+618
+00:37:22,212 --> 00:37:25,638
+[Piloff]
+Oh, dear.
+
+619
+00:37:29,341 --> 00:37:31,866
+Hold the onions.
+
+620
+00:37:31,944 --> 00:37:34,037
+Yeah, that's to go, please.
+
+621
+00:37:35,114 --> 00:37:37,878
+Ay-yi-yi!
+Yaah!
+
+622
+00:37:37,950 --> 00:37:41,044
+Hey, what's with the ruckus
+first thing in the morning?
+
+623
+00:37:41,120 --> 00:37:45,147
+What happened to a nudge? What happened
+to the smell of a nice cup of coffee?
+
+624
+00:37:45,224 --> 00:37:48,318
+Using only this crown...
+
+625
+00:37:48,394 --> 00:37:51,090
+and the boulder from the quarry,
+
+626
+00:37:51,163 --> 00:37:55,156
+pluck the magic feather from the sky.
+
+627
+00:37:55,234 --> 00:37:57,168
+Okay, let me stop you here
+for just one sec.
+
+628
+00:37:57,236 --> 00:38:00,433
+'Cause it's early,
+I haven't eaten in about two days...
+
+629
+00:38:00,506 --> 00:38:02,440
+and I'm a little agitated.
+
+630
+00:38:02,508 --> 00:38:05,909
+- But what does this have
+to do with the prince?
+- Everything.
+
+631
+00:38:05,978 --> 00:38:10,574
+'Cause from where I'm standing,
+I'm just running errands
+for your little broth there.
+
+632
+00:38:10,649 --> 00:38:14,085
+Oh, I am so sorry.
+How insensitive of me.
+
+633
+00:38:14,153 --> 00:38:16,348
+Are you still tired?
+
+634
+00:38:16,422 --> 00:38:19,016
+Honestly?
+Yes. Yes, I am.
+
+635
+00:38:19,091 --> 00:38:21,753
+- [Blowing]
+- [Wind Howls]
+
+636
+00:38:21,827 --> 00:38:24,796
+- [Cackling]
+- [Yelling]
+
+637
+00:38:24,864 --> 00:38:28,527
+Oh, oh, oh.
+Are you awake now?
+
+638
+00:38:28,601 --> 00:38:31,934
+Yes. Yes. You were saying
+something about a feather?
+
+639
+00:38:32,004 --> 00:38:33,938
+A magic feather.
+
+640
+00:38:34,006 --> 00:38:36,770
+It floats high in the air,
+
+641
+00:38:36,842 --> 00:38:39,743
+in the middle of a clearing.
+
+642
+00:38:39,812 --> 00:38:42,872
+One feather comin' at ya.
+
+643
+00:38:42,948 --> 00:38:45,439
+- Ah, one last thing.
+- What's that?
+
+644
+00:38:45,518 --> 00:38:48,043
+You cannot fly.
+
+645
+00:38:48,120 --> 00:38:50,054
+Whoa!
+
+646
+00:38:50,122 --> 00:38:52,784
+[Cackling]
+
+647
+00:38:57,463 --> 00:38:59,397
+Aah!
+
+648
+00:39:01,467 --> 00:39:04,630
+- Oh! Ow!
+- You can't fly?
+
+649
+00:39:04,703 --> 00:39:07,729
+Nope. Hmm. Ow!
+
+650
+00:39:07,807 --> 00:39:10,401
+How do I do this?
+Help me here.
+
+651
+00:39:10,476 --> 00:39:13,070
+- I can't.
+- Hmm.
+
+652
+00:39:13,145 --> 00:39:18,014
+Maybe if I just try... Careful now.
+I just wanna... [Grunts]
+
+653
+00:39:18,083 --> 00:39:20,847
+Ah! Ay, hot!
+
+654
+00:39:20,920 --> 00:39:24,048
+Oh, I'm exhausted.
+I haven't eaten in days.
+
+655
+00:39:24,123 --> 00:39:27,354
+This isn't the life for me.
+Just forget it.
+
+656
+00:39:27,426 --> 00:39:29,690
+#A possible hero in you ##
+
+657
+00:39:29,762 --> 00:39:31,696
+But I tried.
+I did the best I can do.
+
+658
+00:39:31,764 --> 00:39:35,530
+We can get along without Moscow, and
+I won't let that crazy witch find me.
+
+659
+00:39:35,601 --> 00:39:39,196
+- Ah, well, thank goodness.
+- Huh?
+
+660
+00:39:39,271 --> 00:39:42,672
+Well, you can just imagine
+if you had completed this task,
+
+661
+00:39:42,741 --> 00:39:45,209
+everywhere we went
+people would know who we are.
+
+662
+00:39:45,277 --> 00:39:50,374
+We'd spend the rest of our lives
+running around having to help people.
+
+663
+00:39:50,449 --> 00:39:54,146
+The incessant grabbing
+and touching of admirers.
+It's more than one can bear.
+
+664
+00:39:54,220 --> 00:39:56,313
+Aah!
+
+665
+00:39:57,623 --> 00:39:59,557
+It certainly is.
+
+666
+00:39:59,625 --> 00:40:02,423
+Now we can run away, hide from
+Baba Yaga for a couple of years.
+
+667
+00:40:02,494 --> 00:40:05,588
+Which is fine by me.
+I'm behind on my hibernating anyway.
+
+668
+00:40:05,664 --> 00:40:07,598
+Then take the show back on the road,
+
+669
+00:40:07,666 --> 00:40:12,069
+and you can go on pretending
+to be what you always wanted to be.
+
+670
+00:40:12,137 --> 00:40:14,230
+Besides, this is absurd.
+
+671
+00:40:14,306 --> 00:40:18,106
+How are you supposed
+to get 35 feet in the air...
+
+672
+00:40:18,177 --> 00:40:22,079
+with a large crown and a boulder?
+
+673
+00:40:22,147 --> 00:40:25,082
+You just can't do it.
+
+674
+00:40:25,150 --> 00:40:29,883
+Well, no, I can't, especially now
+that it's all in pieces like that.
+
+675
+00:40:29,955 --> 00:40:34,756
+It's, um, in pieces. Aha.
+
+676
+00:40:43,068 --> 00:40:45,593
+But of course.
+[Laughing]
+
+677
+00:40:45,671 --> 00:40:47,696
+[Laughing Continues]
+
+678
+00:40:47,773 --> 00:40:50,901
+Hi-ya! Tah-dah!
+
+679
+00:40:50,976 --> 00:40:53,672
+Now we get the prince!
+
+680
+00:40:54,747 --> 00:40:57,375
+When is a door not a door?
+
+681
+00:40:57,449 --> 00:40:59,917
+When it's a jar.
+Child's play.
+
+682
+00:40:59,985 --> 00:41:03,284
+- [Grunting]
+- Now, open wide. I'm coming through.
+
+683
+00:41:05,524 --> 00:41:09,517
+Ha ha. I did it. There you go.
+Three for three.
+
+684
+00:41:09,595 --> 00:41:12,393
+You didn't think I had it in me,
+did ya?
+
+685
+00:41:12,464 --> 00:41:16,059
+Now, hand over the prince.
+
+686
+00:41:16,135 --> 00:41:20,003
+You have given me the three things
+I needed from the forest.
+
+687
+00:41:20,072 --> 00:41:23,064
+But before I show you
+where the prince is,
+
+688
+00:41:23,142 --> 00:41:26,134
+I need something from you.
+
+689
+00:41:26,211 --> 00:41:31,376
+But how can I know what that is
+if you never told me? [Sighs]
+
+690
+00:41:31,450 --> 00:41:33,975
+Hmm.
+
+691
+00:41:35,888 --> 00:41:39,585
+Is this a beauty or what?
+They don't make 'em like this anymore.
+
+692
+00:41:39,658 --> 00:41:42,491
+- No, that's not it.
+- Okay.
+
+693
+00:41:44,063 --> 00:41:47,089
+Okay, okay, here it is,
+the mother lode.
+
+694
+00:41:47,166 --> 00:41:50,624
+An autographed portrait
+of Ivan the Terrible.
+
+695
+00:41:50,703 --> 00:41:52,671
+I, uh... I caught him in a good mood.
+
+696
+00:41:52,738 --> 00:41:56,640
+- No, that's not it.
+- No, huh?
+
+697
+00:41:57,943 --> 00:42:00,036
+Well, how about...
+
+698
+00:42:03,148 --> 00:42:06,242
+- [Panting]
+- It's something from here.
+
+699
+00:42:06,318 --> 00:42:08,912
+Huh.
+
+700
+00:42:08,988 --> 00:42:11,752
+- Here. Here you go.
+- [Cackling]
+
+701
+00:42:13,492 --> 00:42:16,689
+- [Cackling Continues]
+- Hey, what's so funny? Hey, stop it.
+
+702
+00:42:16,762 --> 00:42:19,925
+Why don't you stop laughing
+at other people's misery?
+
+703
+00:42:19,999 --> 00:42:23,435
+- Uh-oh.
+- You never told me
+I had to give you something.
+
+704
+00:42:23,502 --> 00:42:27,734
+You're a cheat and a liar, you babbling
+old woman with your iron teeth...
+
+705
+00:42:27,806 --> 00:42:29,774
+and your hocus-pocus.
+
+706
+00:42:29,842 --> 00:42:33,778
+- It's no wonder everybody hates you.
+- [Gasps]
+
+707
+00:42:33,846 --> 00:42:37,680
+- [Piloff] Bartok?
+- Yeah? What do you want?
+
+708
+00:42:37,750 --> 00:42:41,846
+- Good-bye.
+- Oh, yeah, sure. Good-bye.
+
+709
+00:42:41,920 --> 00:42:44,514
+- Huh?
+- [Crying]
+
+710
+00:42:44,590 --> 00:42:48,117
+[Crying Continues]
+
+711
+00:42:50,863 --> 00:42:53,798
+[Crying Continues]
+
+712
+00:42:59,204 --> 00:43:02,640
+Um, what are you doing?
+
+713
+00:43:02,708 --> 00:43:07,372
+I'm just being a silly old woman.
+
+714
+00:43:07,446 --> 00:43:10,973
+- [Crying Continues]
+- [Sniffles]
+
+715
+00:43:19,391 --> 00:43:21,484
+I didn't mean what I said.
+
+716
+00:43:21,560 --> 00:43:24,495
+Look, nobody hates you, okay?
+
+717
+00:43:24,563 --> 00:43:26,497
+I just... l... ah... oh...
+
+718
+00:43:26,565 --> 00:43:30,831
+I wish I could give you what you need.
+[Sniffles]
+
+719
+00:43:30,903 --> 00:43:33,667
+Oh.
+
+720
+00:43:37,409 --> 00:43:39,343
+Oh!
+
+721
+00:43:39,411 --> 00:43:41,743
+- You just did.
+- Huh?
+
+722
+00:43:41,814 --> 00:43:44,078
+[Laughing]
+Yes.
+
+723
+00:43:44,149 --> 00:43:47,676
+The most important ingredient,
+
+724
+00:43:47,753 --> 00:43:50,347
+from your heart.
+
+725
+00:43:50,422 --> 00:43:52,356
+[Sizzles]
+
+726
+00:43:52,424 --> 00:43:57,691
+And now he is worthy
+and so he shall see. Come.
+
+727
+00:43:57,763 --> 00:44:01,859
+Come. Hurry up, you little rat bird.
+I don't have all day.
+
+728
+00:44:01,934 --> 00:44:03,868
+Whoa, whoa.
+
+729
+00:44:11,577 --> 00:44:15,570
+The tower.
+[Laughing]
+
+730
+00:44:18,183 --> 00:44:20,708
+Uh, you never took him, did ya?
+
+731
+00:44:20,786 --> 00:44:24,552
+- I never said I did.
+- You never took any children.
+
+732
+00:44:24,623 --> 00:44:26,989
+- People will believe what they will.
+- But...
+
+733
+00:44:27,059 --> 00:44:30,654
+I'm happy to live alone in the woods
+and not be bothered.
+
+734
+00:44:30,729 --> 00:44:34,665
+There. Take this.
+You may need it.
+
+735
+00:44:34,733 --> 00:44:38,567
+- What is it?
+- A magic potion.
+
+736
+00:44:38,637 --> 00:44:42,129
+This will allow you
+to be your innermost self.
+
+737
+00:44:42,207 --> 00:44:45,233
+When you drink it,
+
+738
+00:44:45,310 --> 00:44:48,473
+whatever you are
+in your heart of hearts,
+
+739
+00:44:48,547 --> 00:44:53,746
+you will become on the outside tenfold.
+
+740
+00:44:53,819 --> 00:44:58,313
+Wait a minute. You mean, the whole time
+I was doing all that stuff for me?
+
+741
+00:44:58,390 --> 00:45:02,656
+Mm-hmm.
+Now, leave me and save the prince.
+
+742
+00:45:02,728 --> 00:45:04,821
+Um, could l...
+
+743
+00:45:04,897 --> 00:45:09,163
+Um, how about a... a hug?
+
+744
+00:45:09,234 --> 00:45:11,930
+- A hug?
+- Come on. Bring it in.
+
+745
+00:45:12,004 --> 00:45:16,147
+A hug?
+Don't push your luck, Bartok.
+
+746
+00:45:16,280 --> 00:45:19,113
+- [Growls]
+- All right, all right, all right.
+
+747
+00:45:19,183 --> 00:45:23,017
+- I'm outta here. Color me gone.
+- [Cackling]
+
+748
+00:45:23,087 --> 00:45:28,024
+Yeah, and now all we have to do is tell
+'em that the prince is in the tower...
+
+749
+00:45:28,092 --> 00:45:31,084
+and, boom,
+we're on to St. Petersburg.
+
+750
+00:45:31,162 --> 00:45:34,529
+- Uh, what are you doing?
+- Finding an appropriate character.
+
+751
+00:45:34,599 --> 00:45:39,593
+Zozi, I hate to break this to you, but
+you can't go. They think you're dead.
+
+752
+00:45:39,670 --> 00:45:44,107
+That is exactly why a rich
+and multi-layered character is crucial.
+
+753
+00:45:44,175 --> 00:45:47,542
+The right wardrobe,
+a dab of well-placed grease paint,
+
+754
+00:45:47,612 --> 00:45:50,274
+and none will be the wiser.
+
+755
+00:45:50,348 --> 00:45:53,875
+Um, Zozi, just let me go tell 'em
+where the prince is.
+
+756
+00:45:53,951 --> 00:45:57,887
+What if something goes wrong?
+We still don't know who took the prince.
+
+757
+00:45:57,955 --> 00:46:01,049
+Yeah, but... What is this?
+
+758
+00:46:01,125 --> 00:46:03,218
+- Cabbage.
+- Cabbage?
+
+759
+00:46:03,294 --> 00:46:05,387
+That's your character?
+Cabbage?
+
+760
+00:46:05,463 --> 00:46:10,400
+Great. You're gonna
+blend right in with the crowd.
+A big six-foot-tall cabbage guy.
+
+761
+00:46:10,468 --> 00:46:13,232
+Yes, but what could be more apropos...
+
+762
+00:46:13,304 --> 00:46:18,742
+than Simka, the Russian peasant woman?
+
+763
+00:46:18,809 --> 00:46:24,247
+- I'm going, okay? You wait here.
+- But...
+
+764
+00:46:24,315 --> 00:46:27,148
+But nothing, okay?
+I'll be right back.
+
+765
+00:46:28,319 --> 00:46:30,913
+##[Trumpets]
+
+766
+00:46:30,988 --> 00:46:33,582
+Ah! Ouch.
+
+767
+00:46:33,658 --> 00:46:36,024
+Ah, brave bat,
+
+768
+00:46:36,093 --> 00:46:39,927
+you have returned
+from your difficult journey.
+
+769
+00:46:39,997 --> 00:46:42,488
+Healthy, alive,
+
+770
+00:46:42,566 --> 00:46:46,093
+apparently no worse for the wear.
+
+771
+00:46:46,170 --> 00:46:49,162
+Our congratulations.
+
+772
+00:46:49,240 --> 00:46:53,677
+- [Cheering]
+- But where is the prince?
+
+773
+00:46:53,744 --> 00:46:58,010
+[Clears Throat]
+The prince never left the city.
+
+774
+00:46:58,082 --> 00:47:01,108
+- [Crowd Gasping]
+- Never left? I don't understand.
+
+775
+00:47:01,185 --> 00:47:04,450
+Okay, it's a little complicated
+and fairly long-winded,
+
+776
+00:47:04,522 --> 00:47:06,615
+so everybody listen up, huh?
+
+777
+00:47:06,691 --> 00:47:10,787
+[Inhales] I left here,
+a little fanfare, down into the forest.
+
+778
+00:47:10,861 --> 00:47:13,853
+Lots of trees there,
+some gargoyles, big, big skull.
+
+779
+00:47:13,931 --> 00:47:17,025
+Solved a riddle, met Baba Yaga.
+Not a looker, folks.
+
+780
+00:47:17,101 --> 00:47:19,035
+Did three tasks.
+Not important what they are.
+
+781
+00:47:19,103 --> 00:47:21,037
+Suffice to say, at this point,
+
+782
+00:47:21,105 --> 00:47:25,804
+I'm fairly confident of my physical,
+emotional and intellectual prowess.
+
+783
+00:47:25,876 --> 00:47:30,540
+- But the prince.
+- Hold on to your britches.
+I'm getting there.
+
+784
+00:47:30,614 --> 00:47:33,674
+Me and the witch, we have a slight
+disagreement. Some fisticuffs ensue.
+
+785
+00:47:33,751 --> 00:47:36,379
+I come out on top,
+and she slips me this here potion.
+
+786
+00:47:36,454 --> 00:47:39,821
+- See?
+- A potion? For what?
+
+787
+00:47:39,890 --> 00:47:42,415
+Well, to be all that I can be,
+basically.
+
+788
+00:47:42,493 --> 00:47:45,894
+Since I did all the tasks,
+I'm now worthy of saving the prince.
+
+789
+00:47:45,963 --> 00:47:50,423
+It... It makes you tenfold on the outside
+what you are on the inside.
+
+790
+00:47:50,501 --> 00:47:55,268
+That's my understanding anyway.
+Eh, eh, eh. Look, but don't touch,
+fella, all right?
+
+791
+00:47:55,339 --> 00:47:58,206
+Sounds impressive, I know.
+Let me break it down for you.
+
+792
+00:47:58,275 --> 00:48:03,212
+Essentially, if I ever need to be
+more powerful than l... I already am,
+
+793
+00:48:03,280 --> 00:48:06,340
+I just give this here sucker
+the old heave-ho.
+
+794
+00:48:06,417 --> 00:48:10,080
+Yes, but where is the prince?
+
+795
+00:48:10,154 --> 00:48:15,091
+[Clears Throat]
+Prince Ivan is in the tower.
+
+796
+00:48:15,159 --> 00:48:17,855
+- What?
+- The tower. The tower.
+
+797
+00:48:17,928 --> 00:48:21,022
+Tall building, just outside
+and to the right. You can't miss it.
+
+798
+00:48:21,098 --> 00:48:26,001
+My goodness. Well, we...
+we must go to the tower at once.
+
+799
+00:48:26,070 --> 00:48:28,197
+Come.
+
+800
+00:48:30,608 --> 00:48:34,704
+I warn you, if the prince
+is not where you say he is...
+
+801
+00:48:34,779 --> 00:48:39,716
+and this has all been part
+of some elaborate performance,
+
+802
+00:48:39,784 --> 00:48:42,810
+I assure you,
+Bartok the Magnificent,
+
+803
+00:48:42,887 --> 00:48:47,119
+the city of Moscow will have your head.
+
+804
+00:48:49,360 --> 00:48:51,294
+Tah-dah!
+
+805
+00:48:51,362 --> 00:48:54,058
+What'd I tell ya?
+
+806
+00:48:54,131 --> 00:48:56,065
+- Hi, Ivan.
+- Bartok?
+
+807
+00:48:56,133 --> 00:48:58,067
+My prince!
+
+808
+00:48:58,135 --> 00:49:01,662
+Whew! I got worried there for a sec
+while we were climbing the stairs there,
+
+809
+00:49:01,739 --> 00:49:03,798
+I don't mind telling ya.
+
+810
+00:49:03,874 --> 00:49:07,742
+You with the talk about taking my head
+and everything. Aah!
+
+811
+00:49:07,812 --> 00:49:11,304
+- I still might.
+- Hey, hey!
+
+812
+00:49:11,382 --> 00:49:13,407
+You imbecile!
+What is that?
+
+813
+00:49:13,484 --> 00:49:15,645
+That... That's a prince?
+
+814
+00:49:15,719 --> 00:49:18,313
+Very good, yes.
+Why didn't you do what I said?
+
+815
+00:49:18,389 --> 00:49:23,486
+I did. I dressed up like the witch,
+left that tooth and took the prince.
+
+816
+00:49:23,561 --> 00:49:25,495
+And what about him?
+
+817
+00:49:25,563 --> 00:49:27,758
+But you told me
+you wanted him out of the way.
+
+818
+00:49:27,832 --> 00:49:29,766
+Well, what's he doing here?
+
+819
+00:49:29,834 --> 00:49:33,702
+Well, I put him in that cage
+in the tippy-top of the tower.
+
+820
+00:49:33,771 --> 00:49:35,830
+How much more
+out of the way could he be?
+
+821
+00:49:35,906 --> 00:49:38,670
+Dead, you imbecile!
+Dead is what he could be. Dead!
+
+822
+00:49:38,742 --> 00:49:41,176
+Dead? But he's the prince.
+
+823
+00:49:41,245 --> 00:49:45,011
+- Ah, may I interject something here?
+- No, you may not.
+
+824
+00:49:45,082 --> 00:49:48,882
+- Okay.
+- I never thought
+I'd have to see you again.
+
+825
+00:49:48,953 --> 00:49:52,684
+Stupid little bat.
+It was all so perfect.
+
+826
+00:49:52,756 --> 00:49:55,156
+Eliminate the prince, frame Baba Yaga,
+
+827
+00:49:55,226 --> 00:49:57,285
+send a hapless entertainer to save him.
+
+828
+00:49:57,361 --> 00:49:59,352
+And yet, here you are.
+
+829
+00:49:59,430 --> 00:50:04,231
+The conquering hero, returning
+from battle with all the answers!
+
+830
+00:50:04,301 --> 00:50:06,292
+Well, all the better.
+
+831
+00:50:06,370 --> 00:50:08,304
+- Vol? Get the prince.
+- Yes?
+
+832
+00:50:08,372 --> 00:50:11,466
+Yes, Your Regency.
+
+833
+00:50:11,542 --> 00:50:15,876
+- You three are the only ones who know.
+- [Vol] Hey!
+
+834
+00:50:15,946 --> 00:50:18,506
+And none of you will ever
+leave this room...
+
+835
+00:50:18,582 --> 00:50:21,380
+[Chuckles]
+Alive.
+
+836
+00:50:21,452 --> 00:50:23,477
+[Grunting]
+
+837
+00:50:23,554 --> 00:50:27,149
+I'll take that.
+Do svidanya.
+
+838
+00:50:27,224 --> 00:50:31,558
+[All Yelling]
+
+839
+00:50:31,629 --> 00:50:34,097
+Poor Bartok the Magnificent.
+
+840
+00:50:34,164 --> 00:50:39,227
+He's come so far and done so much
+for the good people of Russia.
+
+841
+00:50:39,303 --> 00:50:43,262
+Such a shame
+he'll be remembered as a liar.
+
+842
+00:50:43,340 --> 00:50:45,740
+[Laughing]
+
+843
+00:50:45,809 --> 00:50:50,337
+Ten times more powerful
+than I already am.
+
+844
+00:50:50,414 --> 00:50:56,080
+Tenfold on the outside
+what I am on the inside.
+
+845
+00:50:56,153 --> 00:51:00,089
+- [Shouting]
+- No, no, no!
+
+846
+00:51:00,157 --> 00:51:02,682
+Help!
+
+847
+00:51:02,760 --> 00:51:05,422
+Oh, not to worry.
+
+848
+00:51:05,496 --> 00:51:08,124
+The water will be along shortly.
+
+849
+00:51:08,198 --> 00:51:12,396
+I'm off to claim my throne.
+
+850
+00:51:12,536 --> 00:51:15,403
+##
+
+851
+00:51:15,472 --> 00:51:17,633
+Mmm.
+[Laughing]
+
+852
+00:51:17,708 --> 00:51:21,610
+##[Continues]
+
+853
+00:51:22,880 --> 00:51:26,577
+##
+
+854
+00:51:28,352 --> 00:51:30,320
+[Belches, Giggles]
+
+855
+00:51:30,387 --> 00:51:32,446
+##
+
+856
+00:51:32,523 --> 00:51:34,923
+Oh!
+
+857
+00:51:34,992 --> 00:51:42,922
+# Starting today
+they are going to welcome a new girl #
+
+858
+00:51:43,000 --> 00:51:47,232
+# Starting today
+no more lying or sneaking about #
+
+859
+00:51:47,304 --> 00:51:50,000
+- [Rats Squeaking]
+- No!
+
+860
+00:51:50,074 --> 00:51:53,840
+#They'll see
+someone lovely as a flower #
+
+861
+00:51:53,911 --> 00:51:57,438
+# Someone who is totally in power #
+
+862
+00:51:57,514 --> 00:52:04,682
+# Starting today
+when the real Ludmilla comes out #
+
+863
+00:52:04,755 --> 00:52:10,955
+# Starting today
+every rule's guaranteed to be broken #
+
+864
+00:52:11,028 --> 00:52:12,461
+[Men]
+# Broken #
+
+865
+00:52:12,529 --> 00:52:18,399
+# Starting today
+every whisper turns into a shout #
+
+866
+00:52:18,469 --> 00:52:20,130
+Aah!
+
+867
+00:52:20,204 --> 00:52:23,970
+# I feel all my inhibitions molting #
+
+868
+00:52:24,041 --> 00:52:27,374
+# More than just the peasants
+are revolting #
+
+869
+00:52:27,444 --> 00:52:35,215
+# Starting today
+when the real Ludmilla comes out #
+
+870
+00:52:35,285 --> 00:52:38,721
+# Starting today
+is the grand transformation #
+
+871
+00:52:38,789 --> 00:52:42,418
+- # Hide, run away or go on a vacation #
+#Ah #
+
+872
+00:52:42,493 --> 00:52:49,126
+- # Starting today she'll be ruling
+the nation, no doubt,
+- #Ah #
+
+873
+00:52:49,199 --> 00:52:52,066
+# Oh, yes #
+
+874
+00:52:52,136 --> 00:52:57,335
+#And starting today the whole world
+will be mine on a platter #
+
+875
+00:52:57,408 --> 00:52:59,672
+# Every man on a plate #
+
+876
+00:52:59,743 --> 00:53:04,680
+# Kneel, you peasant, you peon
+you dim-witted lout #
+
+877
+00:53:04,748 --> 00:53:07,239
+# Gee, the future looks great #
+
+878
+00:53:07,317 --> 00:53:11,185
+# Now my inner beauty is appearing #
+
+879
+00:53:11,255 --> 00:53:14,779
+# I can almost hear
+the peasants cheering #
+
+880
+00:53:14,912 --> 00:53:18,473
+# Starting today
+when the real Ludmilla #
+
+881
+00:53:18,549 --> 00:53:22,212
+# Proves she's a ruler
+to rival Attila #
+
+882
+00:53:22,286 --> 00:53:27,053
+# Starting today
+when the real Ludmilla #
+
+883
+00:53:27,124 --> 00:53:34,997
+# Comes out ##
+
+884
+00:53:36,400 --> 00:53:38,994
+[People Shouting]
+
+885
+00:53:39,070 --> 00:53:42,335
+[Yelling]
+
+886
+00:53:44,408 --> 00:53:47,002
+- [People Screaming]
+- People of Moscow.
+
+887
+00:53:50,081 --> 00:53:52,015
+My people!
+
+888
+00:53:53,751 --> 00:53:56,618
+Oh, my goodness.
+[Gasps]
+
+889
+00:53:56,687 --> 00:53:59,019
+[Roars]
+
+890
+00:53:59,090 --> 00:54:03,584
+Vol, the water's rising. Hurry.
+Bartok, help. Help!
+
+891
+00:54:03,661 --> 00:54:06,357
+Psst! Bartok.
+
+892
+00:54:06,430 --> 00:54:08,489
+- Come on.
+- Whoa.
+
+893
+00:54:08,566 --> 00:54:10,932
+- Huh? Zozi?
+- Yes.
+
+894
+00:54:11,002 --> 00:54:13,835
+- What happened?
+- Oh, you know, not much.
+
+895
+00:54:13,905 --> 00:54:16,430
+Ah, Prince Ivan and his guard
+are about to drown.
+
+896
+00:54:16,507 --> 00:54:19,533
+I'm next, 'cause I can't
+get out of the cage.
+
+897
+00:54:19,610 --> 00:54:23,603
+Ludmilla drank Baba's potion
+and is about to take over the kingdom.
+
+898
+00:54:23,681 --> 00:54:27,242
+Other than that, though,
+everything is, you know, hunky-dory.
+
+899
+00:54:27,318 --> 00:54:29,752
+I've got an idea.
+
+900
+00:54:30,955 --> 00:54:34,288
+Get us up!
+Don't leave us here!
+
+901
+00:54:34,358 --> 00:54:37,452
+- [Grunts]
+- Zozi?
+
+902
+00:54:37,528 --> 00:54:42,556
+I believe I've separated my shoulder.
+
+903
+00:54:42,633 --> 00:54:44,897
+- Hey, help us down here!
+- Hurry.
+
+904
+00:54:44,969 --> 00:54:49,463
+One more time oughta do it. Just give it
+a little more, you know, oomph.
+
+905
+00:54:49,540 --> 00:54:53,636
+Ooh, that's what I've been doing wrong.
+I've been lacking...
+
+906
+00:54:53,711 --> 00:54:55,975
+oomph!
+
+907
+00:54:56,047 --> 00:54:59,141
+Aah!
+
+908
+00:54:59,216 --> 00:55:01,650
+[Screaming]
+
+909
+00:55:03,054 --> 00:55:06,990
+[Roaring]
+
+910
+00:55:07,058 --> 00:55:10,858
+Let me ask you. You mentioned
+something about having an idea.
+
+911
+00:55:10,928 --> 00:55:14,625
+Was... Was this what you came up with?
+You can be honest.
+
+912
+00:55:14,699 --> 00:55:17,167
+I may have made a slight miscalculation.
+
+913
+00:55:17,234 --> 00:55:19,566
+[Grunting]
+
+914
+00:55:19,637 --> 00:55:22,333
+I'm slipping.
+
+915
+00:55:27,411 --> 00:55:29,936
+I'm sorry, Your Highness.
+
+916
+00:55:30,014 --> 00:55:32,608
+[Grunting]
+
+917
+00:55:32,683 --> 00:55:35,015
+- Ah, Zozi?
+- Uh-oh.
+
+918
+00:55:37,188 --> 00:55:39,452
+[Both Yelling]
+
+919
+00:55:42,026 --> 00:55:46,622
+- Tah-dah!
+- [Roaring]
+
+920
+00:55:46,697 --> 00:55:49,791
+I'm reminded of Euripides'
+character Hippolytus...
+
+921
+00:55:49,867 --> 00:55:52,301
+whose own life hung in the balance.
+
+922
+00:55:52,370 --> 00:55:55,533
+Wronged by Aphrodite.
+
+923
+00:55:55,606 --> 00:56:01,135
+Dying, nobly,
+in his forgiveness ofTheseu...
+
+924
+00:56:01,212 --> 00:56:03,680
+[Yelling]
+
+925
+00:56:03,748 --> 00:56:05,682
+[Coughing]
+
+926
+00:56:05,750 --> 00:56:08,218
+You've gotta stop Ludmilla.
+Go on.
+
+927
+00:56:08,285 --> 00:56:11,550
+- [People Screaming]
+- Oh!
+
+928
+00:56:11,622 --> 00:56:15,217
+- [Roaring]
+- The potion.
+
+929
+00:56:24,668 --> 00:56:26,727
+[Coughing]
+
+930
+00:56:30,808 --> 00:56:34,005
+Not so fast.
+
+931
+00:56:34,078 --> 00:56:36,569
+[Grunting]
+Ah!
+
+932
+00:56:36,647 --> 00:56:42,176
+Hey, you got yourself
+one hard head there, really.
+
+933
+00:56:42,253 --> 00:56:45,518
+- [Roaring]
+- Oh!
+
+934
+00:56:45,589 --> 00:56:51,255
+"At night the sea began
+to rise in waves of death.
+
+935
+00:56:51,328 --> 00:56:53,592
+"Ship against ship...
+
+936
+00:56:53,664 --> 00:56:57,430
+the Thracian storm wind shattered us."
+
+937
+00:56:57,501 --> 00:57:00,197
+Oh, you are very good.
+
+938
+00:57:00,271 --> 00:57:03,263
+Thank you.
+First time I performed that was in '67,
+
+939
+00:57:03,340 --> 00:57:05,467
+at the Siberian Greek Tragedy Festival.
+
+940
+00:57:05,543 --> 00:57:07,943
+- Do more.
+- [Roaring]
+
+941
+00:57:08,012 --> 00:57:11,948
+All right,
+that's enough already with the fire.
+
+942
+00:57:22,693 --> 00:57:24,627
+- [Cheering]
+- [Growling]
+
+943
+00:57:31,302 --> 00:57:35,170
+Fire! Fire!
+The town's on fire!
+
+944
+00:57:35,239 --> 00:57:37,298
+We need water, lots of water.
+
+945
+00:57:40,544 --> 00:57:45,140
+This is gonna stop her.
+It's time for the "boogaler."
+
+946
+00:57:46,550 --> 00:57:48,484
+It's good, no?
+
+947
+00:57:48,552 --> 00:57:53,854
+In addition,
+you gotta realize that these are all
+a different size and weight.
+
+948
+00:57:53,924 --> 00:57:58,088
+That increases the level
+of difficulty exponentially.
+
+949
+00:57:58,162 --> 00:57:59,993
+Step right this way.
+
+950
+00:58:00,064 --> 00:58:03,056
+"The man who is well-minded
+to the state...
+
+951
+00:58:03,134 --> 00:58:06,365
+"from me in death and life...
+
+952
+00:58:06,437 --> 00:58:09,565
+shall have his honor."
+
+953
+00:58:09,640 --> 00:58:12,438
+Please, that's completely unnecessary.
+
+954
+00:58:12,510 --> 00:58:14,603
+Here, dragon lady!
+
+955
+00:58:16,180 --> 00:58:19,274
+- Zozi.
+- Bartok.
+- We're over here.
+
+956
+00:58:19,350 --> 00:58:23,184
+- Aha!
+- Hey, where's the water?
+
+957
+00:58:23,254 --> 00:58:26,849
+- Yeah, I'm working on it.
+- Hurry!
+
+958
+00:58:26,924 --> 00:58:31,793
+Hey, good for you.
+You got it. Congrats.
+
+959
+00:58:31,862 --> 00:58:35,525
+Oh, hey, hot, hot, hot!
+
+960
+00:58:35,599 --> 00:58:40,093
+Oh, so close on that one.
+Listen, I've been right where you are.
+
+961
+00:58:40,171 --> 00:58:42,298
+I had a whole thing
+with a magic feather.
+
+962
+00:58:44,041 --> 00:58:45,975
+[Roaring]
+
+963
+00:58:46,043 --> 00:58:49,274
+Oh, oh!
+It's frustrating, isn't it?
+
+964
+00:58:49,346 --> 00:58:51,473
+It's right there,
+but you can't get at it.
+
+965
+00:58:51,549 --> 00:58:54,985
+It's, uh... It's not fun.
+
+966
+00:58:55,052 --> 00:58:57,987
+Much better there.
+Just up a little bit and to the left.
+
+967
+00:59:03,394 --> 00:59:06,659
+Have a nice trip.
+See you next fall.
+
+968
+00:59:06,730 --> 00:59:08,664
+[Shrieking]
+
+969
+00:59:10,401 --> 00:59:15,065
+Bartok, where's the water?
+Aah!
+
+970
+00:59:30,487 --> 00:59:34,514
+Shee.
+Talk about your big finish.
+
+971
+00:59:34,592 --> 00:59:36,753
+They can't write stuff like this.
+
+972
+00:59:36,827 --> 00:59:39,591
+Well done, my friend. Well done.
+
+973
+00:59:39,663 --> 00:59:42,928
+- Well, right back at ya, my friend.
+- [Chuckling]
+
+974
+00:59:43,000 --> 00:59:45,969
+- Some wicked witch.
+- Yeah.
+
+975
+00:59:46,036 --> 00:59:50,871
+It was those tasks that helped you
+become what you always wanted to be.
+
+976
+00:59:50,941 --> 00:59:54,172
+- And I never gave her anything.
+- What do you mean?
+
+977
+00:59:54,245 --> 00:59:59,273
+You gave her what she needed most
+and what only a true hero could.
+
+978
+00:59:59,350 --> 01:00:04,287
+Your compassion, Bartok.
+You gave her your compassion.
+
+979
+01:00:04,355 --> 01:00:08,348
+Hey, I did, didn't I?
+She got upset, and l... I helped her out.
+
+980
+01:00:08,425 --> 01:00:11,952
+Boom! I just gave her my compassion.
+Didn't even think about it.
+
+981
+01:00:12,029 --> 01:00:15,760
+Hah. Well, when you got it,
+you got it, I guess, Zozi.
+
+982
+01:00:15,833 --> 01:00:18,301
+I'll tell you what.
+I'm one heck of a guy.
+
+983
+01:00:18,369 --> 01:00:21,463
+You certainly are.
+For a bat.
+
+984
+01:00:23,540 --> 01:00:26,509
+Citizens of Moscow.
+
+985
+01:00:26,577 --> 01:00:29,011
+[People Cheering]
+
+986
+01:00:30,581 --> 01:00:35,575
+Please stand with me and give thanks
+to Bartok the Magnificent.
+
+987
+01:00:35,653 --> 01:00:39,646
+- [Cheering]
+- He saved us
+and we are forever in his debt
+
+988
+01:00:41,225 --> 01:00:43,250
+Please, it's embarrassing.
+
+989
+01:00:43,327 --> 01:00:46,262
+- Psst!
+- Ooh, I almost forgot.
+
+990
+01:00:48,399 --> 01:00:50,594
+Here you go.
+
+991
+01:00:50,668 --> 01:00:53,603
+- But that was my gift to you.
+- Nonsense, Your Highness.
+
+992
+01:00:53,671 --> 01:00:55,935
+Let me tell you
+something about that ring.
+
+993
+01:00:56,006 --> 01:00:59,100
+- That ring is a ring for royalty.
+- [Roaring Sound]
+
+994
+01:00:59,176 --> 01:01:02,339
+[People Gasping]
+
+995
+01:01:11,021 --> 01:01:15,253
+- How's tricks?
+- How's tricks? [Laughing]
+
+996
+01:01:15,326 --> 01:01:18,420
+I think he did really, really well,
+don't you, Baba?
+
+997
+01:01:18,495 --> 01:01:22,693
+Piloff, shh, shh, shh.
+Congratulations.
+
+998
+01:01:22,766 --> 01:01:25,792
+[Clears Throat]
+Thank you... for everything.
+
+999
+01:01:25,869 --> 01:01:28,303
+Yes, well...
+
+1000
+01:01:28,372 --> 01:01:30,306
+fine.
+
+1001
+01:01:30,374 --> 01:01:34,401
+Hang on a sec. Is it me or is there
+a lot of love up here right now?
+
+1002
+01:01:34,478 --> 01:01:38,471
+You know what? I think it's time
+for that hug I was talking about.
+
+1003
+01:01:38,549 --> 01:01:42,212
+- Again with the hug?
+- Come on, Piloff. Group hug.
+
+1004
+01:01:42,286 --> 01:01:44,379
+- Stop it now. Go, go, go.
+- Bring it in, everybody.
+
+1005
+01:01:44,455 --> 01:01:47,356
+- Oh, I love hugs.
+- [Laughing]
+
+1006
+01:01:48,792 --> 01:01:50,987
+Okay, enough.
+
+1007
+01:01:51,061 --> 01:01:55,157
+- I'll be seeing ya.
+- You can count on it.
+
+1008
+01:01:55,232 --> 01:01:58,133
+- See you soon! Auf wiedersehen!
+- Piloff.
+
+1009
+01:01:58,202 --> 01:02:00,136
+Bye, Bartok!
+
+1010
+01:02:00,204 --> 01:02:04,641
+Good-bye, Bartok the Magnificent!
+
+1011
+01:02:04,708 --> 01:02:07,074
+[Laughing]
+
+1012
+01:02:07,144 --> 01:02:09,078
+[Laughing]
+
+1013
+01:02:09,146 --> 01:02:12,105
+Uh, see you later, folks.
+
+1014
+01:02:15,105 --> 01:02:19,105
+Preuzeto sa www.titlovi.com
+

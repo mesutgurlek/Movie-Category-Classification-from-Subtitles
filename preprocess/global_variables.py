@@ -1,2 +1,2 @@
 # coding=utf-8
-genres = ['Action', 'Comedy', 'Horror', 'Musical', 'Romance', 'War', 'Western']
+genres = ['Action', 'Comedy', 'Crime', 'Horror', 'Musical', 'Romance', 'War', 'Western']

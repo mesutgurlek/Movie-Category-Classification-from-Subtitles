@@ -1,0 +1,3453 @@
+1
+00:01:25,634 --> 00:01:27,167
+     [Edward] <i> THIS WAS</i>         
+        <i> THE PLANET MARS</i>        
+
+2
+00:01:27,236 --> 00:01:30,170
+     <i> AS MY CREW AND I</i>          
+        <i> FIRST SAW IT.</i>          
+
+3
+00:01:30,239 --> 00:01:31,572
+         <i> DANGEROUS,</i>            
+
+4
+00:01:31,640 --> 00:01:33,608
+         <i> TREACHEROUS...</i>        
+
+5
+00:01:33,675 --> 00:01:36,877
+     <i> ALIVE WITH SOMETHING WE</i>   
+     <i> CAME TO KNOW ONLY AS...</i>   
+
+6
+00:01:36,945 --> 00:01:38,379
+             <i> DEATH.</i>            
+
+7
+00:01:38,447 --> 00:01:40,581
+     <i> THIS IS WHAT WE FACED</i>     
+     <i> WHEN OUR SPACESHIP</i>        
+
+8
+00:01:40,649 --> 00:01:43,751
+     <i> CRACKED UP IN LANDING</i>     
+     <i> JUST SIX MONTHS AGO...</i>    
+
+9
+00:01:43,818 --> 00:01:50,190
+         <i> IN JANUARY OF</i>         
+        <i> THIS YEAR, 1973.</i>       
+
+10
+00:01:50,259 --> 00:01:52,526
+     <i> BUT IT SEEMS AS IF</i>        
+     <i> SIX CENTURIES PASSED</i>      
+
+11
+00:01:52,594 --> 00:01:55,563
+         <i> BEFORE A RESCUE</i>       
+         <i> SHIP ARRIVED...</i>       
+
+12
+00:01:55,631 --> 00:01:58,065
+         <i> FOR TODAY,</i>            
+         <i> OF ALL MY CREW,</i>       
+
+13
+00:01:58,133 --> 00:01:59,833
+     <i> I, COL. EDWARD</i>            
+         <i> CARRUTHERS</i>            
+
+14
+00:01:59,901 --> 00:02:02,470
+<i>OF THE UNITED STATES</i>            
+<i>SPACE COMMAND,</i>                  
+
+15
+00:02:02,537 --> 00:02:06,641
+         <i> AM THE ONLY</i>           
+         <i> ONE ALIVE.</i>            
+
+16
+00:02:06,708 --> 00:02:10,344
+ <i> NOW, I WILL BE GOING BACK TO</i>  
+ <i> FACE MY SUPERIORS ON EARTH</i>    
+
+17
+00:02:10,412 --> 00:02:12,880
+         <i> IN WASHINGTON.</i>        
+
+18
+00:02:12,947 --> 00:02:15,182
+     <i> AND PERHAPS THERE, TOO,</i>   
+
+19
+00:02:15,250 --> 00:02:17,685
+     <i> I WILL FIND ANOTHER</i>       
+     <i> KIND OF DEATH.</i>            
+
+20
+00:02:31,917 --> 00:02:33,884
+ LADIES AND GENTLEMEN           
+     OF THE PRESS,              
+
+21
+00:02:33,952 --> 00:02:35,386
+         AS YOU KNOW,           
+        THE FIRST ATTEMPT       
+
+22
+00:02:35,453 --> 00:02:37,354
+     TO SEND A SPACESHIP        
+     TO THE PLANET MARS         
+
+23
+00:02:37,422 --> 00:02:39,623
+         WAS MADE 6             
+         MONTHS AGO.            
+
+24
+00:02:39,690 --> 00:02:41,825
+         WE KNEW THAT           
+         THAT SHIP,             
+
+25
+00:02:41,893 --> 00:02:46,630
+     THE CHALLENGE 141,         
+ HAD REACHED ITS DESTINATION.   
+
+26
+00:02:46,697 --> 00:02:48,765
+         BUT THAT'S             
+         ALL WE KNEW.           
+
+27
+00:02:48,833 --> 00:02:52,502
+     TELERADIO COMMUNICATION    
+ WITH MARS CEASED IMMEDIATELY.  
+
+28
+00:02:52,570 --> 00:02:54,571
+         AND WE WERE            
+        FORCED TO ASSUME        
+
+29
+00:02:54,639 --> 00:02:57,241
+        THAT THE SHIP AND       
+     CREW HAD BEEN LOST.        
+
+30
+00:02:57,309 --> 00:02:59,576
+ THE MAN IN CHARGE              
+OF THIS EXPEDITION              
+
+31
+00:02:59,644 --> 00:03:01,678
+WAS A MAN WHO HAD BECOME        
+KNOWN TO THE WORLD              
+
+32
+00:03:01,746 --> 00:03:04,548
+AS THE FIRST MAN                
+TO BE SHOT INTO SPACE.          
+
+33
+00:03:04,615 --> 00:03:10,187
+THE MAN WHO PIONEERED           
+INTERPLANETARY SPACE TRAVEL.    
+
+34
+00:03:10,255 --> 00:03:13,157
+COL. EDWARD                     
+CARRUTHERS.                     
+
+35
+00:03:13,224 --> 00:03:16,226
+     2 MONTHS AGO, WE SENT      
+     A SECOND SHIP TO MARS      
+
+36
+00:03:16,294 --> 00:03:20,264
+     TO LEARN THE FATE OF       
+ COL. CARRUTHERS AND HIS CREW.  
+
+37
+00:03:20,332 --> 00:03:22,699
+THE PRESIDENT HAS ASKED ME      
+ TO PASS ON TO YOU              
+
+38
+00:03:22,767 --> 00:03:24,901
+     THIS SIGNIFICANT NEWS.     
+
+39
+00:03:24,970 --> 00:03:31,008
+     COL. EDWARD CARRUTHERS     
+ HAS BEEN FOUND ALIVE ON MARS.  
+
+40
+00:03:31,076 --> 00:03:34,445
+ BUT THERE IS A TRAGIC SIDE     
+ TO THIS HISTORY-MAKING EVENT.  
+
+41
+00:03:34,512 --> 00:03:37,114
+     COL. CARRUTHERS WAS        
+     THE SOLE SURVIVOR          
+
+42
+00:03:37,182 --> 00:03:39,749
+         OF THIS FIRST          
+         EXPEDITION.            
+
+43
+00:03:39,817 --> 00:03:43,020
+ 1 HOUR AGO, WE RECEIVED A      
+    TELERADIO COMMUNICATION     
+
+44
+00:03:43,088 --> 00:03:44,654
+     FROM COL. VAN HEUSEN,      
+
+45
+00:03:44,722 --> 00:03:47,524
+        COMMANDER OF THE        
+        SECOND SPACESHIP.       
+
+46
+00:03:47,592 --> 00:03:49,360
+        THIS SHIP IS NOW        
+        READY TO TAKE OFF       
+
+47
+00:03:49,427 --> 00:03:52,696
+    FOR ITS RETURN TRIP TO      
+     THE EARTH FROM MARS.       
+
+48
+00:03:52,763 --> 00:03:55,099
+     AND COL. CARRUTHERS        
+     IS BEING BROUGHT BACK      
+
+49
+00:03:55,166 --> 00:03:57,201
+     FOR A COURT-MARTIAL        
+
+50
+00:03:57,268 --> 00:04:04,975
+TO FACE TRIAL FOR THE MURDERS   
+ OF THE REST OF THE CREW.       
+
+51
+00:04:05,043 --> 00:04:07,677
+ [Edward] <i> THE RESCUE SHIP IS</i>   
+ <i> READY TO RETURN TO EARTH.</i>     
+
+52
+00:04:07,745 --> 00:04:11,315
+     <i> I AM TO SPEND THE NEXT</i>    
+    <i> 4 MONTHS WITH STRANGERS,</i>   
+
+53
+00:04:11,383 --> 00:04:13,083
+     <i> A CREW OF MEN AND</i>         
+        <i> WOMEN WHO HAVE</i>         
+
+54
+00:04:13,151 --> 00:04:15,886
+    <i> BUT ONE SINGLE PURPOSE...</i>  
+
+55
+00:04:15,953 --> 00:04:20,024
+     <i> TO SEE THAT I FACE</i>        
+    <i> A MILITARY FIRING SQUAD.</i>   
+
+56
+00:04:20,091 --> 00:04:25,495
+ [Rhythmic mechanical whirl]    
+
+57
+00:04:25,563 --> 00:04:27,497
+THE EMERGENCY AIR LOCK          
+IN C COMPARTMENT                
+
+58
+00:04:27,565 --> 00:04:30,150
+HAS BEEN LEFT OPEN.             
+WHAT GIVES?                     
+
+59
+00:04:30,218 --> 00:04:31,651
+         SORRY, SIR,            
+         THAT WAS ME.           
+
+60
+00:04:31,719 --> 00:04:36,873
+    I WAS DUMPING SOME EMPTY    
+ CRATES OVERBOARD A WHILE AGO.  
+
+61
+00:04:36,941 --> 00:04:38,942
+     [Mechanical whooshing]     
+
+62
+00:05:09,790 --> 00:05:12,326
+         NAME CHECK.            
+
+63
+00:05:12,393 --> 00:05:15,695
+     ERIC ROYCE, SECURE.        
+
+64
+00:05:15,763 --> 00:05:18,132
+     MARY ROYCE, SECURE.        
+
+65
+00:05:18,199 --> 00:05:20,367
+     ANN ANDERSON, SECURE.      
+
+66
+00:05:20,435 --> 00:05:21,568
+        MAJ. JOHN PURDUE,       
+
+67
+00:05:21,636 --> 00:05:24,704
+             <i> SECURE.</i>           
+
+68
+00:05:24,772 --> 00:05:28,008
+     BOB FINELLI, SECURE.       
+
+69
+00:05:28,075 --> 00:05:29,976
+    LT. JAMES CALDER, SECURE.   
+
+70
+00:05:36,784 --> 00:05:39,386
+     ALL RIGHT!                 
+     COUNTDOWN.                 
+
+71
+00:05:39,454 --> 00:05:42,456
+    MINUS 10, 9,                
+
+72
+00:05:42,524 --> 00:05:44,424
+             8, 7,              
+
+73
+00:05:44,492 --> 00:05:48,395
+         6, 5, 4,               
+
+74
+00:05:48,463 --> 00:05:50,830
+            3, 2,               
+
+75
+00:05:50,898 --> 00:05:53,167
+             1!                 
+
+76
+00:05:53,234 --> 00:05:55,619
+     [Explosive rumbling]       
+
+77
+00:06:34,626 --> 00:06:36,360
+CARRUTHERS?                     
+
+78
+00:06:36,427 --> 00:06:38,928
+         CARRUTHERS?            
+
+79
+00:06:38,996 --> 00:06:40,930
+WHAT ARE YOU                    
+THINKING ABOUT?                 
+
+80
+00:06:40,998 --> 00:06:43,333
+THOSE 9 BODIES                  
+YOU LEFT DOWN THERE?            
+
+81
+00:06:43,401 --> 00:06:45,569
+                 YES.           
+
+82
+00:06:45,637 --> 00:06:48,071
+                BUT I DIDN'T    
+                 KILL THEM.     
+
+83
+00:06:48,139 --> 00:06:52,543
+STILL STICKING TO YOUR STORY    
+ABOUT A MYSTERIOUS CREATURE.    
+
+84
+00:06:52,610 --> 00:06:55,579
+DO YOU EXPECT A                 
+COURT-MARTIAL                   
+TO BELIEVE IT?                  
+
+85
+00:06:55,647 --> 00:06:57,947
+     IT'S ALL I CAN TELL THEM.  
+
+86
+00:06:58,015 --> 00:07:01,117
+I WISH WE COULD'VE STAYED       
+AND SEARCHED FOR THE BODIES.    
+
+87
+00:07:01,186 --> 00:07:02,786
+HOWEVER, THERE'S STILL          
+ENOUGH EVIDENCE                 
+
+88
+00:07:02,853 --> 00:07:05,589
+TO PUT YOU IN FRONT             
+OF A FIRING SQUAD.              
+
+89
+00:07:05,657 --> 00:07:08,692
+        YOU HONESTLY BELIEVE I'D
+ MURDER 9 OF MY CLOSEST FRIENDS 
+
+90
+00:07:08,759 --> 00:07:11,761
+                     IN ORDER TO
+                SURVIVE ON MARS?
+
+91
+00:07:11,829 --> 00:07:13,763
+ISN'T IT LOGICAL,               
+COLONEL?                        
+
+92
+00:07:13,831 --> 00:07:16,433
+THE CHALLENGE 141               
+CRACKS UP IN LANDING.           
+
+93
+00:07:16,501 --> 00:07:17,967
+YOU KNOW YOU'RE                 
+MAROONED INDEFINITELY           
+
+94
+00:07:18,035 --> 00:07:20,637
+ON MARS UNTIL                   
+ANOTHER SHIP IS SENT.           
+
+95
+00:07:20,705 --> 00:07:25,141
+IF ANOTHER SHIP IS SENT.        
+
+96
+00:07:25,210 --> 00:07:27,944
+             YOU KNOW THE FOOD  
+             AND SUPPLIES ABOARD
+
+97
+00:07:28,012 --> 00:07:32,182
+     WOULD LAST THE ENTIRE      
+         CREW ONLY A YEAR,      
+
+98
+00:07:32,250 --> 00:07:40,490
+BUT THEY'D LAST YOU 10 YEARS,   
+ IF THE OTHERS WERE DEAD.       
+
+99
+00:07:40,558 --> 00:07:43,193
+ THOSE PEOPLE WERE              
+KILLED BY SOMETHING.            
+
+100
+00:07:43,261 --> 00:07:48,031
+     NOT ME.                    
+
+101
+00:07:48,099 --> 00:07:54,971
+ I WANT TO SHOW YOU ANOTHER     
+     SOMETHING, CARRUTHERS.     
+
+102
+00:07:55,039 --> 00:07:56,406
+    AFTER YOU.                  
+
+103
+00:07:56,474 --> 00:07:58,875
+         AT LEAST I APPRECIATE  
+         THE FREEDOM OF A SHIP. 
+
+104
+00:07:58,943 --> 00:08:06,383
+WHY NOT? CAN YOU THINK          
+OF A BETTER PRISON?             
+
+105
+00:08:06,450 --> 00:08:08,952
+AREN'T YOU AFRAID I'LL MURDER   
+ YOU ALL IN YOUR SLEEP?         
+
+106
+00:08:09,020 --> 00:08:11,054
+EITHER LT. CALDER OR MYSELF     
+ WILL BE WITH YOU               
+
+107
+00:08:11,122 --> 00:08:13,190
+         EVERY SECOND           
+         OF THE TRIP.           
+
+108
+00:08:20,965 --> 00:08:25,585
+         TAKE A LOOK AT THIS.   
+
+109
+00:08:25,653 --> 00:08:29,490
+WE BROUGHT THE DENTAL RECORDS   
+OF THE FIRST CREW FROM EARTH.   
+
+110
+00:08:29,557 --> 00:08:33,793
+     THIS IS FRANK KENNER.      
+
+111
+00:08:33,861 --> 00:08:35,429
+            KENNER?             
+
+112
+00:08:35,497 --> 00:08:37,331
+            WE FOUND IT NEAR    
+         THE CHALLENGE 141,     
+
+113
+00:08:37,399 --> 00:08:41,235
+             THE DAY AFTER      
+             WE FOUND YOU.      
+
+114
+00:08:41,302 --> 00:08:44,638
+        THERE'S ONLY ONE KIND OF
+    A MONSTER THAT USES BULLETS.
+
+115
+00:09:09,264 --> 00:09:10,497
+THE SECOND                      
+WE HIT EARTH,                   
+
+116
+00:09:10,565 --> 00:09:12,433
+I'M GONNA JUMP                  
+THROUGH THAT AIR LOCK           
+
+117
+00:09:12,500 --> 00:09:13,833
+ALL THE WAY                     
+TO THE GROUND.                  
+
+118
+00:09:13,901 --> 00:09:16,336
+THEN I'M GONNA ROLL AROUND AND  
+STRETCH LIKE A CAT IN THE SUN.  
+
+119
+00:09:16,404 --> 00:09:18,305
+            OH, BOY,            
+            THE SUN.            
+
+120
+00:09:18,373 --> 00:09:20,541
+     WE'LL BE 50 MILLION        
+     MILES CLOSER TO IT.        
+
+121
+00:09:20,608 --> 00:09:23,343
+EVEN WHEN I WAS A KID, I COULD  
+ NEVER STAND BEING COLD.        
+
+122
+00:09:23,411 --> 00:09:25,312
+HOW'D YOU EVER WIN THE          
+ARDMORE FELLOWSHIP              
+
+123
+00:09:25,380 --> 00:09:26,746
+IN LOW TEMPERATURE PHYSICS?     
+
+124
+00:09:26,814 --> 00:09:28,449
+I WORE LONG UNDERWEAR.          
+                    HA HA HA.   
+
+125
+00:09:28,516 --> 00:09:30,650
+             AAH.               
+THAT FIGURES.                   
+
+126
+00:09:30,718 --> 00:09:31,952
+WHAT DO YOU                     
+LOOK FORWARD TO?                
+
+127
+00:09:32,019 --> 00:09:32,786
+                     GIRLS!     
+
+128
+00:09:32,853 --> 00:09:34,854
+                 OH, YOU!       
+
+129
+00:09:34,922 --> 00:09:38,192
+             I THINK I REMEMBER,
+         A FASCINATING RESEARCH.
+
+130
+00:09:38,259 --> 00:09:39,759
+                 WON'T A        
+                GEOLOGIST DO?   
+
+131
+00:09:39,827 --> 00:09:42,196
+ YOU'RE, UH, MILITARY           
+     PROPERTY, ANN.             
+
+132
+00:09:42,263 --> 00:09:43,630
+             OCCUPIED TERRITORY.
+
+133
+00:09:43,698 --> 00:09:46,032
+EVERY TIME VAN                  
+SEES YOU, HE FLOATS,            
+
+134
+00:09:46,101 --> 00:09:47,234
+ EVEN THOUGH THE                
+SHIP IS EQUIPPED                
+
+135
+00:09:47,302 --> 00:09:48,502
+WITH ARTIFICIAL                 
+GRAVITY.                        
+
+136
+00:09:48,570 --> 00:09:50,270
+         [Chuckling]            
+
+137
+00:09:50,338 --> 00:09:52,072
+     THESE DAYS, VAN SEEMS MORE 
+     CONCERNED OVER A MANHUNT,  
+
+138
+00:09:52,140 --> 00:09:53,507
+     THAN A WOMAN HUNT.         
+
+139
+00:09:53,575 --> 00:09:56,443
+IT'S JUST THAT ERIC BELIEVES    
+CARRUTHERS' STORY, I DON'T.     
+
+140
+00:09:56,511 --> 00:09:59,496
+     I DON'T BELIEVE IT,        
+             NECESSARILY.       
+
+141
+00:09:59,563 --> 00:10:00,730
+            NOR DO I            
+         DISBELIEVE IT.         
+
+142
+00:10:00,798 --> 00:10:02,866
+HOWEVER, ONE THING'S SURE:      
+ HE DOES BELIEVE IT.            
+
+143
+00:10:02,933 --> 00:10:06,169
+ HE HAD TO FORCE HIMSELF TO     
+ BELIEVE IT OR HE'D GO INSANE.  
+
+144
+00:10:06,237 --> 00:10:09,906
+         AND I DIDN'T           
+         DO THAT, DID I?        
+
+145
+00:10:09,974 --> 00:10:11,975
+         MISSED YOUR DINNER,    
+             COL. CARRUTHERS.   
+
+146
+00:10:12,043 --> 00:10:14,044
+         I'M TIRED OF           
+     RUINING APPETITES.         
+
+147
+00:10:14,112 --> 00:10:16,313
+     I'D JUST LIKE A COFFEE,    
+    IF I MAY, MISS ANDERSON.    
+
+148
+00:10:16,381 --> 00:10:17,881
+         OF COURSE,             
+         COLONEL.               
+
+149
+00:10:17,948 --> 00:10:21,284
+         BETTER STAY HERE,      
+             CARRUTHERS.        
+
+150
+00:10:21,352 --> 00:10:21,985
+                 JIMMY?         
+
+151
+00:10:22,053 --> 00:10:23,053
+    YEAH.                       
+
+152
+00:10:23,121 --> 00:10:24,454
+    HERE'S SOME LAST-MINUTE     
+         COMPUTATIONS           
+
+153
+00:10:24,522 --> 00:10:26,256
+             ON ADJUSTING       
+             THE ORBIT.         
+
+154
+00:10:26,324 --> 00:10:27,657
+         LOOK 'EM OVER WHEN     
+            YOU GET A CHANCE.   
+
+155
+00:10:27,725 --> 00:10:29,426
+     YES, SIR.                  
+
+156
+00:10:36,567 --> 00:10:38,535
+BY THE TIME WE                  
+REACH EARTH,                    
+
+157
+00:10:38,602 --> 00:10:40,370
+I'LL HAVE HIS                   
+CONFESSION ON TAPE.             
+
+158
+00:11:05,296 --> 00:11:06,764
+        COL. CARRUTHERS!        
+
+159
+00:11:15,406 --> 00:11:19,475
+ THANK YOU.                     
+
+160
+00:11:19,543 --> 00:11:25,681
+SUCH A COLD, DESOLATE WORLD.    
+    WE SAW SO LITTLE OF IT.     
+
+161
+00:11:25,749 --> 00:11:28,351
+         SOMETIMES I ALMOST     
+         WANT TO BELIEVE YOU.   
+
+162
+00:11:28,419 --> 00:11:33,023
+I KILLED THEM OR I DIDN'T.      
+IT WAS ME OR SOMETHING.         
+
+163
+00:11:33,090 --> 00:11:35,292
+         I'VE ONLY HEARD THE    
+         STORY THROUGH VAN.     
+
+164
+00:11:35,359 --> 00:11:38,094
+NOW YOU'D LIKE TO               
+HEAR MY VERSION?                
+
+165
+00:11:38,162 --> 00:11:40,863
+ ALL RIGHT.                     
+
+166
+00:11:40,932 --> 00:11:45,969
+     IT'S A LONG STORY,         
+     BUT I'LL MAKE IT BRIEF.    
+
+167
+00:11:46,037 --> 00:11:48,204
+                     WE WERE ALL
+             OUTSIDE THE SHIP,  
+
+168
+00:11:48,272 --> 00:11:52,375
+EXPLORING THE SOUTHERN TIP      
+     OF SYRTIS MAJOR,           
+
+169
+00:11:52,443 --> 00:11:55,178
+SUDDENLY A SANDSTORM CAME UP    
+ AND WE STARTED BACK.           
+
+170
+00:11:55,246 --> 00:11:57,480
+                 I WAS DRIVING  
+                 THE JEEP.      
+
+171
+00:11:57,548 --> 00:12:00,951
+     THE SAND WAS SO THICK      
+     WE COULD BARELY SEE.       
+
+172
+00:12:01,018 --> 00:12:03,853
+     WE WERE ALMOST BACK        
+     TO THE SHIP WHEN...        
+
+173
+00:12:03,921 --> 00:12:08,058
+         CARTWRIGHT             
+        JUST DISAPPEARED.       
+
+174
+00:12:08,125 --> 00:12:11,861
+ ONE MINUTE HE WAS THERE AND    
+ THE NEXT MINUTE HE WAS GONE.   
+
+175
+00:12:11,929 --> 00:12:14,297
+    AS IF SOMETHING HAD JUST    
+ PLUCKED HIM OUT OF THE JEEP    
+
+176
+00:12:14,365 --> 00:12:18,201
+ LIKE...CANDY OUT OF A BOX.     
+
+177
+00:12:18,269 --> 00:12:24,174
+     WE HEARD A WEIRD           
+        SORT OF SOUND.          
+
+178
+00:12:24,241 --> 00:12:26,676
+         THEN WE THOUGHT        
+     WE SAW A DARK SHAPE        
+
+179
+00:12:26,743 --> 00:12:31,214
+     RUNNING NEAR THE JEEP      
+ AND STARTED SHOOTING AT IT.    
+
+180
+00:12:31,282 --> 00:12:32,748
+     A FEW MOMENTS LATER,       
+
+181
+00:12:32,816 --> 00:12:36,819
+         KENNER AND ALL         
+     THE REST WERE GONE.        
+
+182
+00:12:36,887 --> 00:12:41,358
+     I WAS THE ONLY ONE WHO     
+    MADE IT BACK TO THE SHIP.   
+
+183
+00:12:41,425 --> 00:12:43,160
+                 WHEN THE       
+            SANDSTORM QUIT, I...
+
+184
+00:12:43,228 --> 00:12:45,329
+                 WENT OUT AND   
+             SEARCHED ALL OVER. 
+
+185
+00:12:45,396 --> 00:12:47,030
+                 THERE WASN'T   
+                 A SIGN OF THEM.
+
+186
+00:12:47,098 --> 00:12:50,700
+HOW CAN YOU EXPLAIN             
+THE BULLET HOLE                 
+IN THE SKULL?                   
+
+187
+00:12:50,768 --> 00:12:53,503
+        WE WERE ALL SHOOTING    
+            AT THIS THING...    
+
+188
+00:12:53,571 --> 00:12:57,941
+         MAYBE THE ONE WHO GOT  
+         THE BULLET WAS LUCKY.  
+
+189
+00:12:58,009 --> 00:13:00,878
+            YOU DON'T BELIEVE   
+             ME, DO YOU?        
+
+190
+00:13:00,945 --> 00:13:02,913
+I DON'T DISBELIEVE YOU.         
+
+191
+00:13:08,285 --> 00:13:09,785
+            HOW ABOUT YOU,      
+             LIEUTENANT?        
+
+192
+00:13:09,853 --> 00:13:12,588
+                 MARS IS ALMOST 
+                AS BIG AS TEXAS,
+
+193
+00:13:12,656 --> 00:13:18,861
+                     MAYBE IT'S 
+                 GOT MONSTERS.  
+
+194
+00:13:18,929 --> 00:13:21,597
+CARRUTHERS IS STILL TALKING     
+ABOUT HIS MONSTERS?             
+
+195
+00:13:21,665 --> 00:13:23,799
+         WHY DON'T YOU STOP     
+         BAITING HIM, VAN?      
+
+196
+00:13:23,867 --> 00:13:26,202
+         YOU'RE NOT USING YOUR  
+         AUTHORITY VERY WELL.   
+
+197
+00:13:26,270 --> 00:13:29,105
+I'M NOT DOING IT FOR KICKS.     
+BELIEVE ME, CHICKEN.            
+
+198
+00:13:29,173 --> 00:13:30,640
+I'M JUST PLAYING                
+THE ODDS.                       
+
+199
+00:13:30,707 --> 00:13:33,410
+            YOUR ODDS, BECAUSE  
+         YOU THINK HE'S GUILTY. 
+
+200
+00:13:33,477 --> 00:13:39,315
+    ADMITTED.                   
+
+201
+00:13:39,383 --> 00:13:41,717
+BUT, ANNE, THERE'S A TIME       
+FACTOR INVOLVED HERE.           
+
+202
+00:13:41,785 --> 00:13:43,619
+HE'S UNSTABLE                   
+RIGHT NOW.                      
+
+203
+00:13:43,687 --> 00:13:45,321
+IF I CRACK HIS STORY,           
+I CAN TURN HIM OVER             
+
+204
+00:13:45,389 --> 00:13:48,091
+TO THE COURT-MARTIAL TIED       
+UP IN A LITTLE PINK RIBBON.     
+
+205
+00:13:48,159 --> 00:13:50,226
+            WHAT IF HE'S DONE   
+         NOTHING TO CONFESS?    
+
+206
+00:13:50,294 --> 00:13:51,861
+THEN HE WON'T.                  
+
+207
+00:13:51,929 --> 00:13:54,531
+BUT I OWE IT TO THE LIVES       
+OF THOSE 9 MEN WHO DIED         
+
+208
+00:13:54,598 --> 00:13:55,831
+TO TRY AND                      
+FIND OUT.                       
+
+209
+00:13:55,899 --> 00:13:57,267
+            DON'T YOU OWE IT    
+             TO CARRUTHERS      
+
+210
+00:13:57,334 --> 00:13:59,169
+             TO TREAT HIM AS    
+            A FELLOW OFFICER,   
+
+211
+00:13:59,236 --> 00:14:00,970
+             NOT AS AN ANIMAL?  
+
+212
+00:14:01,038 --> 00:14:03,073
+DO YOU THINK                    
+HE'S INNOCENT?                  
+
+213
+00:14:03,140 --> 00:14:05,007
+            I DON'T KNOW.       
+
+214
+00:14:05,076 --> 00:14:07,410
+IT'S NOT FOR ME TO DECIDE,      
+     OR FOR YOU, VAN.           
+
+215
+00:14:12,550 --> 00:14:16,653
+    OK, CHICKEN. I'LL LET UP    
+        ON THE THIRD DEGREE.    
+
+216
+00:14:16,720 --> 00:14:18,188
+         LOOKS LIKE I EITHER    
+            HAVE TO DO THAT     
+
+217
+00:14:18,256 --> 00:14:19,622
+         OR GET LYNCHED MYSELF. 
+
+218
+00:14:19,690 --> 00:14:21,425
+IT'S YOU I'M WORRIED            
+ABOUT, VAN.                     
+
+219
+00:14:21,492 --> 00:14:23,660
+I HATE TO SEE YOU               
+SO VINDICTIVE.                  
+
+220
+00:14:45,383 --> 00:14:47,117
+EVERY MOVE I                    
+MAKE'S WORSE.                   
+
+221
+00:14:47,185 --> 00:14:48,785
+     AH, COME ON,               
+     ERIC, RESIGN--             
+
+222
+00:14:48,853 --> 00:14:49,953
+ NO!                            
+
+223
+00:14:50,021 --> 00:14:50,988
+         AAH!                   
+
+224
+00:14:51,055 --> 00:14:53,523
+I HAVEN'T RESIGNED              
+A GAME IN 30 YEARS.             
+
+225
+00:14:53,591 --> 00:14:55,859
+I'LL BE DAMNED IF               
+I'M GONNA DO IT NOW.            
+
+226
+00:15:03,134 --> 00:15:04,634
+         [Crashing]             
+
+227
+00:15:13,160 --> 00:15:14,911
+         [Crashing]             
+
+228
+00:15:26,257 --> 00:15:28,191
+         [Clanging]             
+
+229
+00:15:28,259 --> 00:15:33,497
+         [Growling]             
+
+230
+00:15:33,564 --> 00:15:34,898
+         [Clanging]             
+
+231
+00:16:07,681 --> 00:16:08,949
+         [Clanging]             
+
+232
+00:16:21,929 --> 00:16:27,367
+        [Voices talking]        
+
+233
+00:16:27,435 --> 00:16:28,768
+         [Clanging]             
+
+234
+00:17:06,540 --> 00:17:07,874
+         [Loud clanging]        
+
+235
+00:17:07,942 --> 00:17:13,095
+         [Screaming]            
+
+236
+00:17:13,163 --> 00:17:14,697
+                 WHAT WAS THAT? 
+
+237
+00:17:14,765 --> 00:17:16,265
+         WHAT?                  
+
+238
+00:17:16,333 --> 00:17:18,501
+             I HEARD SOMETHING. 
+
+239
+00:17:18,569 --> 00:17:19,502
+ WHAT?                          
+
+240
+00:17:19,570 --> 00:17:20,937
+                 I DON'T KNOW.  
+
+241
+00:17:21,004 --> 00:17:23,039
+     I DIDN'T HEAR ANYTHING.    
+
+242
+00:17:23,106 --> 00:17:25,842
+         I LEARNED TO HEAR ALL  
+         OVER AGAIN ON MARS.    
+
+243
+00:17:45,362 --> 00:17:46,696
+ WHO'S UP THERE?                
+
+244
+00:17:46,764 --> 00:17:47,797
+                 KIENHOLZ.      
+
+245
+00:17:52,837 --> 00:17:56,840
+COME, COLONEL, WE               
+GOT A GAME TO FINISH.           
+
+246
+00:17:56,907 --> 00:17:59,542
+KIENHOLZ?                       
+
+247
+00:17:59,610 --> 00:18:01,511
+DID YOU HEAR                    
+ANYTHING?                       
+
+248
+00:18:10,888 --> 00:18:12,956
+        KIENHOLZ?               
+
+249
+00:18:13,023 --> 00:18:14,624
+                    NOW HE'S    
+                 HEARING THINGS.
+
+250
+00:18:14,692 --> 00:18:19,428
+COME ON, LET'S GET HIM BEFORE   
+ HE WAKES UP THE OTHERS.        
+
+251
+00:18:19,497 --> 00:18:22,799
+     KIENHOLZ?                  
+
+252
+00:18:22,867 --> 00:18:25,101
+         CARRUTHERS?            
+
+253
+00:18:25,168 --> 00:18:31,508
+        HEY, CARRUTHERS,        
+     COME ON DOWN HERE.         
+
+254
+00:18:31,575 --> 00:18:33,309
+KIENHOLZ IS GONE.               
+
+255
+00:18:33,377 --> 00:18:37,313
+    KIENHOLZ ISN'T GONE,        
+HE'S PROBABLY JUST TURNED IN.   
+
+256
+00:18:37,381 --> 00:18:39,148
+I'LL CHECK                      
+HIS CABIN.                      
+
+257
+00:18:44,405 --> 00:18:47,807
+            KIENHOLZ?           
+
+258
+00:18:47,875 --> 00:18:51,944
+            KIENHOLZ?           
+
+259
+00:18:52,012 --> 00:18:54,314
+         HE'S NOT IN            
+         HIS CABIN.             
+
+260
+00:18:54,382 --> 00:18:55,882
+                     KIENHOLZ?  
+
+261
+00:18:55,949 --> 00:18:58,385
+WILL YOU STOP THIS              
+NONSENSE, CURRATHERS?           
+
+262
+00:19:04,659 --> 00:19:08,027
+                 KIENHOLZ?      
+
+263
+00:19:08,095 --> 00:19:11,197
+            <i> KIENHOLZ,</i>          
+         <i> DO YOU HEAR ME?</i>       
+
+264
+00:19:11,265 --> 00:19:15,602
+<i>KIENHOLZ?</i>                       
+
+265
+00:19:15,670 --> 00:19:17,870
+                 KIENHOLZ?      
+
+266
+00:19:17,938 --> 00:19:19,673
+        KIENHOLZ,               
+         ANSWER!                
+
+267
+00:19:19,740 --> 00:19:21,073
+            WHAT'S HE           
+        HOLLERING ABOUT?        
+
+268
+00:19:21,141 --> 00:19:25,244
+         I DON'T KNOW.          
+     HE CAN'T FIND KIENHOLZ.    
+
+269
+00:19:25,313 --> 00:19:27,681
+ KIENHOLZ, THIS IS ROYCE.       
+        REPLY AT ONCE.          
+
+270
+00:19:27,748 --> 00:19:32,001
+                 REPLY AT ONCE. 
+
+271
+00:19:32,069 --> 00:19:38,625
+ JOE, CAN YOU HEAR ME?          
+     REPLY AT ONCE.             
+
+272
+00:19:38,693 --> 00:19:43,563
+             REPORT AT ONCE     
+         TO THE QUARTERS LEVEL. 
+
+273
+00:19:43,631 --> 00:19:48,901
+IF THIS IS ONE OF HIS JOKES,    
+    I'LL MAKE HIM WALK HOME.    
+
+274
+00:19:48,969 --> 00:19:51,003
+            EVERYBODY           
+        SEARCH THE SHIP.        
+
+275
+00:20:09,490 --> 00:20:12,525
+     HE ISN'T HERE.             
+
+276
+00:20:12,593 --> 00:20:13,660
+             COME ON.           
+
+277
+00:21:00,608 --> 00:21:02,108
+                 NOT A SIGN     
+                     OF HIM.    
+
+278
+00:21:02,175 --> 00:21:03,877
+THIS IS RIDICULOUS.             
+
+279
+00:21:03,944 --> 00:21:07,313
+ IT'S JUST PLAIN CRAZY.         
+KIENHOLZ'S GOTTA BE HERE.       
+
+280
+00:21:07,381 --> 00:21:08,415
+         WHERE'S YOUR BROTHER?  
+
+281
+00:21:08,482 --> 00:21:09,582
+                    HE'S COMIN'.
+
+282
+00:21:09,650 --> 00:21:11,183
+                     HEY, GINO. 
+
+283
+00:21:11,251 --> 00:21:13,653
+                     HEY, GINO! 
+
+284
+00:21:13,721 --> 00:21:16,556
+                 FUNNY, HE WAS  
+                RIGHT BEHIND ME.
+
+285
+00:21:16,624 --> 00:21:17,957
+                     HEY, GINO! 
+
+286
+00:21:30,638 --> 00:21:32,038
+             GINO?              
+
+287
+00:21:32,105 --> 00:21:34,541
+             GINO!              
+
+288
+00:21:34,608 --> 00:21:36,008
+                    GINO?       
+
+289
+00:21:36,076 --> 00:21:38,812
+                    HEY, GINO!  
+
+290
+00:21:38,879 --> 00:21:40,346
+                     MAYBE HE   
+                    WENT BELOW. 
+
+291
+00:21:40,414 --> 00:21:42,315
+         BUT WE WERE            
+     HERE TOGETHER.             
+
+292
+00:21:42,382 --> 00:21:43,917
+                 NOW THERE'S 2  
+                OF THEM MISSING.
+
+293
+00:21:43,984 --> 00:21:45,284
+            THIS IS RIDICULOUS. 
+
+294
+00:21:45,352 --> 00:21:47,787
+THERE'S JUST NO PLACE ON THIS   
+ SHIP FOR A MAN TO HIDE.        
+
+295
+00:21:47,855 --> 00:21:53,025
+     AY, GINO,                  
+ WHERE ARE YOU?                 
+
+296
+00:21:53,094 --> 00:21:55,428
+                     GINO?      
+
+297
+00:21:55,496 --> 00:21:57,830
+ WHERE CAN HE BE?               
+
+298
+00:21:57,898 --> 00:21:59,765
+             IF HE WERE HERE,   
+                HE'D HEAR US.   
+
+299
+00:21:59,833 --> 00:22:02,368
+OH, LOOK, MAYBE HE'S HURT.      
+WE'VE GOT TO FIND HIM.          
+
+300
+00:22:31,832 --> 00:22:35,335
+                 KIENHOLZ.      
+
+301
+00:22:35,402 --> 00:22:41,807
+             LORD HAVE MERCY    
+             ON HIS SOUL.       
+
+302
+00:22:41,875 --> 00:22:43,009
+                 C COMPARTMENT. 
+
+303
+00:22:43,076 --> 00:22:44,744
+                 FIRST STORAGE, 
+                 C COMPARTMENT. 
+
+304
+00:22:44,811 --> 00:22:46,613
+                     COME QUICK.
+                     COME QUICK.
+
+305
+00:22:46,680 --> 00:22:50,550
+                 ALL HANDS ON   
+                    THE DOUBLE. 
+
+306
+00:22:50,618 --> 00:22:52,552
+WHAT'S THE MATTER?              
+
+307
+00:22:52,620 --> 00:22:54,020
+             WHAT HAPPENED?     
+
+308
+00:22:54,087 --> 00:22:55,155
+             WHAT HAPPENED?     
+
+309
+00:22:55,222 --> 00:22:56,789
+                 SHUSH!         
+
+310
+00:22:56,857 --> 00:23:01,060
+         HEY, MAYBE             
+        GINO'S UP THERE.        
+
+311
+00:23:01,128 --> 00:23:04,130
+                         NO. NO,
+                 HE'S NOT THERE.
+
+312
+00:23:04,198 --> 00:23:05,532
+         OVER HERE.             
+
+313
+00:23:18,279 --> 00:23:20,913
+IF HE'S IN THERE, WE CAN GET    
+    HIM THROUGH THIS HATCH.     
+
+314
+00:23:20,981 --> 00:23:23,650
+         I'LL GO, I KNOW THE    
+         LAYOUT IN THERE.       
+
+315
+00:24:00,403 --> 00:24:02,438
+         HE'S IN HERE.          
+
+316
+00:24:02,506 --> 00:24:04,406
+             GINO!              
+
+317
+00:24:04,475 --> 00:24:06,542
+             GINO!              
+
+318
+00:24:06,610 --> 00:24:08,177
+GINO. HE FOUND GINO.            
+
+319
+00:24:08,244 --> 00:24:09,946
+                 EASY, BOB.     
+
+320
+00:24:10,013 --> 00:24:13,015
+     [Jack] HE'S ALIVE!         
+
+321
+00:24:13,083 --> 00:24:14,350
+            GINO?               
+
+322
+00:24:14,417 --> 00:24:15,518
+             GINO?              
+
+323
+00:24:15,586 --> 00:24:17,587
+         GINO?                  
+
+324
+00:24:17,654 --> 00:24:19,221
+         GINO!                  
+
+325
+00:24:19,289 --> 00:24:20,222
+         GINO?                  
+
+326
+00:24:20,290 --> 00:24:23,593
+         [Growling]             
+
+327
+00:24:23,660 --> 00:24:30,699
+     [Jack screams] HELP!       
+
+328
+00:24:30,767 --> 00:24:33,069
+         [Gunshots]             
+
+329
+00:24:51,722 --> 00:24:53,923
+            YOU'RE NOT GONNA    
+         LEAVE GINO UP THERE.   
+
+330
+00:24:53,991 --> 00:24:55,758
+        GET HIM OUT             
+         OF HERE!               
+
+331
+00:24:55,826 --> 00:24:57,593
+         GET MY BROTHER         
+            OUTTA THERE.        
+
+332
+00:24:57,661 --> 00:24:58,861
+GET OUT OF HERE,                
+ WILL YA?                       
+
+333
+00:24:58,929 --> 00:25:00,563
+     GET A HEAD START. GO!      
+
+334
+00:25:29,843 --> 00:25:31,610
+     WHAT ARE YOU GONNA         
+     DO WITH THOSE?             
+
+335
+00:25:31,679 --> 00:25:33,713
+                 WE CAN WIRE 'EM
+             UP TO THE HATCHES. 
+
+336
+00:25:33,781 --> 00:25:39,752
+         LET'S DO IT!           
+
+337
+00:25:39,820 --> 00:25:42,221
+     PUT UP THE GRILLE.         
+             HURRY UP.          
+
+338
+00:27:07,374 --> 00:27:09,441
+        THERE WASN'T ANYTHING   
+         ELSE TO DO, BOB.       
+
+339
+00:27:09,509 --> 00:27:10,576
+ I KNOW HOW                     
+ YOU FEEL,                      
+
+340
+00:27:10,644 --> 00:27:12,745
+BUT THERE WASN'T ANYTHING       
+ELSE WE COULD DO.               
+
+341
+00:27:12,813 --> 00:27:14,113
+             WE COULD'VE TRIED. 
+
+342
+00:27:14,181 --> 00:27:18,317
+YOU HEARD WHAT JACK SAID.       
+GINO WAS PAST HELP--            
+
+343
+00:27:18,385 --> 00:27:24,590
+             WE SHOULD'VE TRIED.
+
+344
+00:27:24,658 --> 00:27:27,160
+SOONER OR LATER, HE'S GOTTA     
+     COME OUT OF THE DUCT.      
+
+345
+00:27:27,227 --> 00:27:30,780
+RIGHT INTO                      
+THE GRENADES.                   
+
+346
+00:27:30,847 --> 00:27:36,519
+THERE, YOU'LL BE ALL RIGHT,     
+BUT YOU HAVE TO REST.           
+
+347
+00:27:36,586 --> 00:27:38,621
+JACK, NOBODY                    
+BLAMES YOU.                     
+
+348
+00:27:50,334 --> 00:27:54,169
+                DO YOU KNOW WHAT
+         HAPPENED TO KIENHOLZ?  
+
+349
+00:27:54,237 --> 00:27:57,005
+ EVERY BONE IN HIS BODY         
+     MUST BE BROKEN.            
+
+350
+00:27:57,073 --> 00:27:59,241
+     I'M NOT SURE THAT'S        
+     WHAT KILLED HIM.           
+
+351
+00:27:59,309 --> 00:28:01,711
+ THAT SHRIVELED-UP EFFECT...    
+
+352
+00:28:01,778 --> 00:28:06,181
+     I'LL HAVE TO DO            
+        AN AUTOPSY.             
+
+353
+00:28:06,249 --> 00:28:12,137
+                 WHAT IS THAT   
+             THING DOWN THERE?  
+
+354
+00:28:12,205 --> 00:28:16,008
+     CARRUTHERS?                
+
+355
+00:28:16,076 --> 00:28:17,610
+             WHAT IS IT?        
+
+356
+00:28:17,678 --> 00:28:19,679
+    DO YOU KNOW WHAT            
+ IT IS, CARRUTHERS?             
+
+357
+00:28:19,746 --> 00:28:21,046
+                     NO.        
+
+358
+00:28:21,114 --> 00:28:22,515
+         I HAVE A THEORY        
+
+359
+00:28:22,583 --> 00:28:24,817
+         BASED ON WHAT YOU      
+         AND JACK TOLD ME.      
+
+360
+00:28:24,885 --> 00:28:27,854
+YOU SAY IT'S MAN-SHAPED,        
+        HUMANOID.               
+
+361
+00:28:27,921 --> 00:28:30,890
+     PERHAPS THERE WAS ONCE     
+     A CIVILIZATION ON MARS.    
+
+362
+00:28:30,958 --> 00:28:36,629
+         IT ENDED. DISEASE,     
+        WAR, SOMETHING TERRIBLE.
+
+363
+00:28:36,697 --> 00:28:39,231
+ THE MARTIANS THAT WERE LEFT    
+     WENT BACK TO BARBARISM.    
+
+364
+00:28:39,533 --> 00:28:42,684
+             SAVAGE MURDERERS.  
+
+365
+00:28:42,753 --> 00:28:49,391
+             MAYBE THAT'S WHAT  
+             WE'VE GOT ON BOARD.
+
+366
+00:28:49,459 --> 00:28:55,164
+     BOB?                       
+
+367
+00:28:55,232 --> 00:28:58,234
+I WAS ONLY 3 FEET               
+AWAY FROM HIM.                  
+
+368
+00:28:58,301 --> 00:29:01,637
+HE WAS SHAKING HIS HEAD,        
+TRYING TO WARN ME.              
+
+369
+00:29:01,704 --> 00:29:05,274
+I WAS THAT CLOSE AND            
+I COULDN'T HELP HIM.            
+
+370
+00:29:05,341 --> 00:29:08,543
+ INSTEAD I RAN.                 
+
+371
+00:29:08,611 --> 00:29:12,281
+ WHY DON'T YOU                  
+ HATE ME, TOO?                  
+
+372
+00:29:12,348 --> 00:29:15,851
+AT LEAST CARRUTHERS DID         
+WHAT HE THOUGHT WAS RIGHT.      
+
+373
+00:29:15,919 --> 00:29:19,188
+IF ANYBODY DID A WRONG          
+THING, IT WAS ME.               
+
+374
+00:29:19,256 --> 00:29:23,325
+BUT PLEASE BELIEVE ME,          
+WE COULDN'T OF SAVED HIM.       
+
+375
+00:29:23,393 --> 00:29:27,329
+GINO KNEW THAT.                 
+GINO KNEW THAT HIMSELF.         
+
+376
+00:29:27,397 --> 00:29:32,334
+I DON'T BLAME CARRUTHERS, YOU,  
+ I DON'T BLAME ANYBODY.         
+
+377
+00:29:32,402 --> 00:29:34,703
+                 IT'S JUST THAT 
+                HE'S DOWN THERE.
+
+378
+00:29:40,694 --> 00:29:43,128
+HOW COULD THAT THING            
+HAVE GOTTEN ABOARD?             
+
+379
+00:29:43,196 --> 00:29:45,364
+            AND WHY?            
+        JUST TO KILL US?        
+
+380
+00:29:45,432 --> 00:29:48,668
+        WHAT IS THE USUAL REASON
+ AN INTELLIGENT CREATURE KILLS. 
+
+381
+00:29:48,735 --> 00:29:50,302
+             IT'S HUNGRY?       
+
+382
+00:29:50,370 --> 00:29:52,905
+     WHAT MAKES YOU SO CERTAIN  
+    IT'S INTELLIGENT, COLONEL,  
+
+383
+00:29:52,973 --> 00:29:54,674
+             NOT JUST           
+             AN ANIMAL?         
+
+384
+00:29:54,741 --> 00:29:57,242
+             IT OPENED THE DOOR 
+             TO C COMPARTMENT.  
+
+385
+00:30:07,588 --> 00:30:09,088
+         [Low growling]         
+
+386
+00:30:20,033 --> 00:30:21,533
+         [Growling]             
+
+387
+00:30:31,577 --> 00:30:34,763
+         [Growling]             
+
+388
+00:30:34,831 --> 00:30:38,667
+         [Crackling]            
+
+389
+00:30:38,735 --> 00:30:40,903
+         [Loud banging          
+         and crashing]          
+
+390
+00:31:06,997 --> 00:31:08,430
+         [Clanging]             
+
+391
+00:31:13,486 --> 00:31:15,137
+         [Loud clanging]        
+
+392
+00:31:37,443 --> 00:31:38,944
+         [Growling]             
+
+393
+00:33:59,585 --> 00:34:02,454
+                ERIC?           
+
+394
+00:34:02,522 --> 00:34:05,958
+             THOSE GAS GRENADES 
+             THAT GINO MADE UP. 
+
+395
+00:34:06,026 --> 00:34:07,192
+                     HE JOKED   
+                     ABOUT THEM,
+
+396
+00:34:07,260 --> 00:34:09,528
+             SAID IF WE RAN INTO
+         ANY DINOSAURS ON MARS, 
+
+397
+00:34:09,595 --> 00:34:11,530
+ THE GRENADES WOULD             
+ TAKE CARE OF THEM,             
+
+398
+00:34:11,597 --> 00:34:15,000
+BUT...IF NOTHING ELSE           
+WORKS, MAYBE GAS?               
+
+399
+00:34:15,068 --> 00:34:17,335
+                 THEY'RE IN THE 
+         CHEMICAL CABINET, ERIC.
+
+400
+00:34:33,670 --> 00:34:36,738
+                 WE'LL USE THEM 
+             AS A LAST RESORT.  
+
+401
+00:34:36,806 --> 00:34:39,307
+    JIM, WILL YOU GET OUT       
+         THE GAS MASKS?         
+
+402
+00:36:07,463 --> 00:36:09,531
+            [Panting]           
+
+403
+00:36:32,004 --> 00:36:34,673
+ THE SECOND STORAGE HATCH.      
+    CLOSE IT! CLOSE IT!         
+
+404
+00:36:53,593 --> 00:36:55,661
+BULLETS, GRENADES,              
+NOTHING STOPS IT.               
+
+405
+00:36:55,728 --> 00:36:57,463
+WHAT DO WE DO NOW?              
+
+406
+00:37:08,307 --> 00:37:09,708
+            WHAT'D YOU FIND OUT?
+
+407
+00:37:09,776 --> 00:37:11,443
+ THERE'S NOT A                  
+MOLECULE OF OXYGEN              
+
+408
+00:37:11,511 --> 00:37:14,245
+OR A DROP OF WATER              
+LEFT IN KIENHOLZ'S BODY.        
+
+409
+00:37:14,313 --> 00:37:15,814
+                 WATER?         
+
+410
+00:37:15,882 --> 00:37:17,148
+     BLOOD,                     
+
+411
+00:37:17,216 --> 00:37:20,085
+BONE MARROW,                    
+GLANDULAR SECRETION,            
+
+412
+00:37:20,152 --> 00:37:21,954
+MOISTURE IN THE TISSUES...      
+
+413
+00:37:22,021 --> 00:37:26,091
+EVERY OUNCE OF EDIBLE FLUID     
+IN HIS BODY IS GONE.            
+
+414
+00:37:26,158 --> 00:37:28,627
+PROBABLY THROUGH                
+SOME OSMOSIS PROCESS,           
+
+415
+00:37:28,695 --> 00:37:30,562
+    THERE ARE                   
+ NO PUNCTURES.                  
+
+416
+00:37:30,630 --> 00:37:32,498
+ THAT'S WHAT                    
+ KILLED HIM.                    
+
+417
+00:37:32,565 --> 00:37:34,533
+CELLULAR COLLAPSE               
+AND DEHYDRATION,                
+
+418
+00:37:34,601 --> 00:37:36,568
+NOT BEING CRUSHED               
+INTO THAT DUCT.                 
+
+419
+00:37:36,636 --> 00:37:37,936
+             IT HOLDS TOGETHER. 
+
+420
+00:37:38,004 --> 00:37:41,406
+MARS IS A WORLD ALMOST TOTALLY  
+ WITHOUT WATER OR OXYGEN.       
+
+421
+00:37:41,474 --> 00:37:43,041
+     THE CREATURE'S ENTIRE      
+         BEING IS PROBABLY      
+
+422
+00:37:43,109 --> 00:37:45,010
+             ORGANIZED TO FEED  
+             IN THAT MANNER.    
+
+423
+00:37:45,077 --> 00:37:46,578
+                 IT PREYS ON    
+             SMALLER CREATURES, 
+
+424
+00:37:46,646 --> 00:37:48,547
+             WHICH IN TURN FEED 
+            OFF THE SAND ITSELF,
+
+425
+00:37:48,615 --> 00:37:54,620
+         CONVERTING THEIR INTAKE
+     AND HOARDING IT AS WATER.  
+
+426
+00:37:54,687 --> 00:37:57,723
+         [Groaning]             
+
+427
+00:37:57,790 --> 00:37:59,791
+ I'M WORRIED                    
+ ABOUT VAN.                     
+
+428
+00:37:59,859 --> 00:38:02,394
+INFECTION'S SET IN AND I        
+CAN'T SEEM TO CONTROL IT.       
+
+429
+00:38:02,461 --> 00:38:03,962
+            [Banging]           
+
+430
+00:38:34,960 --> 00:38:36,878
+             IT'S EXPLORING,    
+                 TESTING.       
+
+431
+00:38:45,254 --> 00:38:47,755
+             IT CAN GET THROUGH 
+             THE CENTER HATCHES.
+
+432
+00:38:47,824 --> 00:38:49,090
+        IT HAS TO KILL          
+         US OR STARVE,          
+
+433
+00:38:49,158 --> 00:38:51,626
+                 AND WE'VE GOT  
+             TO KILL IT OR DIE. 
+
+434
+00:39:03,456 --> 00:39:05,691
+                 WHY IS IT SO   
+                 QUIET NOW?     
+
+435
+00:39:05,758 --> 00:39:10,161
+                 WHY DOESN'T    
+                 IT ATTACK?     
+
+436
+00:39:10,230 --> 00:39:11,697
+             'CAUSE IT'S        
+             GOT GINO, HUH?     
+
+437
+00:39:11,764 --> 00:39:15,467
+BOB, LOOK,                      
+I'VE GOT AN IDEA.               
+
+438
+00:39:15,535 --> 00:39:17,536
+     [Machines beeping]         
+
+439
+00:39:23,409 --> 00:39:25,510
+     HOW IS HE?                 
+
+440
+00:39:25,578 --> 00:39:28,146
+ IT'S AN ALIEN BACTERIA         
+         OF SOME KIND.          
+
+441
+00:39:28,214 --> 00:39:30,882
+     SO FAR THE INFECTION       
+            ISN'T CRITICAL,     
+
+442
+00:39:30,950 --> 00:39:32,951
+        BUT OUR DRUGS DON'T     
+             EVEN TOUCH IT.     
+
+443
+00:39:43,980 --> 00:39:48,282
+COL. CARRUTHERS.                
+
+444
+00:39:48,350 --> 00:39:50,251
+I KNOW THIS MAY                 
+SOUND HORRIBLE,                 
+
+445
+00:39:50,319 --> 00:39:56,958
+BUT YOU WERE RIGHT              
+AND WE WERE ALL WRONG.          
+
+446
+00:39:57,026 --> 00:39:59,193
+IT'S TAKEN THIS                 
+TO PROVE IT.                    
+
+447
+00:40:05,301 --> 00:40:07,869
+             ANNE?              
+
+448
+00:40:07,937 --> 00:40:08,937
+             ANNE?              
+
+449
+00:40:31,060 --> 00:40:35,997
+<i>[Clanging]</i>                      
+
+450
+00:40:36,065 --> 00:40:36,965
+     IT'S MOVING AROUND.        
+
+451
+00:40:37,033 --> 00:40:39,067
+                         [Royce]
+                         JIMMY? 
+
+452
+00:40:39,135 --> 00:40:41,837
+                     ANNE?      
+
+453
+00:40:41,904 --> 00:40:44,039
+        BOB AND I HAVE          
+         A SUGGESTION.          
+
+454
+00:40:44,107 --> 00:40:45,573
+     WE COULD GET AROUND        
+     BEHIND THE CREATURE        
+
+455
+00:40:45,641 --> 00:40:49,077
+    BY GOING OUT THE CONTROL    
+    ROOM EMERGENCY AIR LOCK,    
+
+456
+00:40:49,145 --> 00:40:50,745
+         MOVING DOWN            
+         THE HULL               
+
+457
+00:40:50,813 --> 00:40:52,747
+     TO THE EMERGENCY AIR       
+    LOCK ON THE MOTOR LEVEL.    
+
+458
+00:40:52,815 --> 00:40:54,816
+             THAT WOULD PUT US  
+             ONE LEVEL BELOW IT.
+
+459
+00:40:54,883 --> 00:40:56,551
+            WE MIGHT BE ABLE TO 
+         SURPRISE IT THAT WAY.  
+
+460
+00:40:56,619 --> 00:40:58,520
+        IF WE KNEW WHAT         
+     TO SURPRISE IT WITH.       
+
+461
+00:40:58,588 --> 00:41:00,222
+         I'VE BEEN THINKING     
+             OF SOMETHING.      
+
+462
+00:41:00,289 --> 00:41:02,957
+                 AT LEAST, IT'S 
+                 WORTH A CHANCE.
+
+463
+00:41:03,025 --> 00:41:05,560
+            EXACTLY 520 MINUTES,
+
+464
+00:41:05,628 --> 00:41:07,095
+                    10 SECONDS, 
+
+465
+00:41:07,163 --> 00:41:08,463
+                        NOW.    
+
+466
+00:41:08,531 --> 00:41:09,598
+                 WE'LL TIME IT  
+                 TO GET TO      
+
+467
+00:41:09,665 --> 00:41:12,834
+             THE MOTOR LEVEL AIR
+            LOCK AT EXACTLY 525.
+
+468
+00:41:12,901 --> 00:41:14,269
+        START MAKING NOISE THEN,
+
+469
+00:41:14,337 --> 00:41:17,005
+     NOT A LOT, JUST TALK,      
+         MOVE AROUND.           
+
+470
+00:41:17,072 --> 00:41:19,107
+                 DON'T MAKE IT  
+             SOUND THREATENING. 
+
+471
+00:41:19,175 --> 00:41:21,042
+            JUST ENOUGH TO KEEP 
+             HIS ATTENTION AWAY 
+
+472
+00:41:21,110 --> 00:41:23,878
+             IN CASE WE MAKE    
+         NOISE COMING IN BELOW. 
+
+473
+00:41:36,925 --> 00:41:41,796
+     [Muffled voice] GOOD LUCK, 
+     IN CASE WE DON'T COME BACK.
+
+474
+00:41:41,864 --> 00:41:45,066
+             I SAID, "GOOD LUCK,
+    IN CASE WE DON'T COME BACK."
+
+475
+00:42:01,984 --> 00:42:03,485
+         [Hissing sound]        
+
+476
+00:42:09,325 --> 00:42:11,342
+     [Mechanical whizzing]      
+
+477
+00:44:13,549 --> 00:44:15,850
+         <i> THE PLAN IS</i>           
+         <i> A SIMPLE ONE.</i>         
+
+478
+00:44:15,918 --> 00:44:18,219
+ <i> WHILE THE REST TRY TO HOLD</i>    
+ <i> THE ATTENTION OF THE BEAST</i>    
+
+479
+00:44:18,287 --> 00:44:20,121
+         <i> WITH THEIR TALK</i>       
+         <i> AND FOOTSTEPS,</i>        
+
+480
+00:44:20,556 --> 00:44:23,958
+    <i> WE WILL ATTEMPT TO GET TO</i>  
+ <i> A LEVEL BELOW THE MONSTER.</i>    
+
+481
+00:44:24,026 --> 00:44:26,094
+        <i> OUR ONLY HOPE IS</i>       
+        <i> THAT THIS WILL BE</i>      
+
+482
+00:44:26,162 --> 00:44:28,897
+<i>THE LAST ATTEMPT WE HAVE</i>        
+<i>TO MAKE TO KILL THE THING.</i>      
+
+483
+00:44:37,739 --> 00:44:40,241
+ I'VE GOTTA FIX THAT            
+ PILLOW FOR VAN.                
+
+484
+00:44:47,032 --> 00:44:49,868
+[Anne] I'M SURE THEY WILL.      
+ THEY'LL BE ALL RIGHT.          
+
+485
+00:45:33,428 --> 00:45:37,482
+            [Ticking]           
+
+486
+00:45:37,549 --> 00:45:42,287
+         I HOPE THEY'RE         
+            MAKING NOISE.       
+
+487
+00:45:42,355 --> 00:45:43,855
+             [Beep]             
+
+488
+00:46:22,678 --> 00:46:24,979
+     [Indistinct voices]        
+
+489
+00:46:30,853 --> 00:46:37,192
+ DO YOU THINK THEY'RE GONNA     
+ BE ALL RIGHT DOWN THERE?       
+
+490
+00:46:37,259 --> 00:46:38,843
+[Edward] <i> GRENADES, GAS</i>         
+     <i> AND BULLETS</i>               
+
+491
+00:46:38,911 --> 00:46:40,812
+         <i> HAVE FAILED TO</i>        
+         <i> STOP THE BEAST,</i>       
+
+492
+00:46:40,880 --> 00:46:43,514
+     <i> BUT PERHAPS IT CAN</i>        
+     <i> BE ELECTROCUTED.</i>          
+
+493
+00:46:55,695 --> 00:46:57,278
+ <i> THERE'S ENOUGH VOLTAGE</i>        
+     <i> IN THESE LINES</i>            
+
+494
+00:46:57,346 --> 00:47:00,548
+    <i> TO KILL 30 HUMAN BEINGS.</i>   
+
+495
+00:47:00,615 --> 00:47:03,268
+     <i> THE ONLY DRAWBACK IS,</i>     
+     <i> THE THING ISN'T HUMAN.</i>    
+
+496
+00:47:18,417 --> 00:47:25,657
+     [Indistinct voices]        
+
+497
+00:47:25,724 --> 00:47:28,660
+I KNOW, BUT THEY'LL BE BACK UP. 
+THEY'LL BE ALL RIGHT.           
+
+498
+00:48:09,334 --> 00:48:14,672
+         [Growling]             
+
+499
+00:48:14,740 --> 00:48:16,240
+         [Growling]             
+
+500
+00:48:43,235 --> 00:48:45,403
+         [Clanging,             
+        monster growling]       
+
+501
+00:48:52,578 --> 00:48:52,960
+             AH!                
+
+502
+00:49:22,174 --> 00:49:23,274
+                 HEY!           
+
+503
+00:49:23,342 --> 00:49:25,543
+            I CAN'T MAKE IT.    
+            MY LEG'S BROKEN!    
+
+504
+00:49:25,610 --> 00:49:27,378
+                        GET OUT!
+                     GET HELP!  
+
+505
+00:49:32,584 --> 00:49:34,085
+         [Hissing sound]        
+
+506
+00:50:04,916 --> 00:50:09,587
+I'VE SWITCHED THE INTERCOM      
+TO PICKUP HIS SUIT-RADIO.       
+
+507
+00:50:09,654 --> 00:50:12,523
+         CALDER? CALDER,        
+        CAN YOU HEAR ME?        
+
+508
+00:50:12,591 --> 00:50:14,675
+         <i> LOUD AND CLEAR.</i>       
+
+509
+00:50:14,743 --> 00:50:16,810
+         IT'S NICE TO           
+         HAVE COMPANY.          
+
+510
+00:50:16,878 --> 00:50:18,379
+     <i> ARE YOU ALL RIGHT?</i>        
+
+511
+00:50:18,447 --> 00:50:20,781
+ I'M ALIVE, IF THAT'S           
+     WHAT YOU MEAN.             
+
+512
+00:50:20,849 --> 00:50:25,119
+ I PICKED A GOOD SPOT, RIGHT    
+ BETWEEN THE INDUCTION PUMPS.   
+
+513
+00:50:25,186 --> 00:50:26,887
+         YOU MEAN IT CAN'T      
+             GET AT YOU?        
+
+514
+00:50:26,955 --> 00:50:29,423
+    <i> IT COULD, IF I DIDN'T</i>      
+     <i> HAVE THIS TORCH.</i>          
+
+515
+00:50:29,491 --> 00:50:31,925
+     TO REACH ME, IT HAS        
+     TO STRETCH DOWN IN.        
+
+516
+00:50:31,993 --> 00:50:35,563
+EVERY TIME IT DOES, I GIVE IT   
+ THE TORCH IN THE EYES.         
+
+517
+00:50:35,631 --> 00:50:36,864
+ CAN YOU REACH                  
+    THE LOCK?                   
+
+518
+00:50:36,932 --> 00:50:39,901
+         <i> NO. NO CHANCE.</i>        
+
+519
+00:50:39,968 --> 00:50:42,904
+     <i> LOOKS LIKE I'M HERE</i>       
+     <i> FOR THE DURATION.</i>         
+
+520
+00:50:42,971 --> 00:50:44,638
+         <i> OOPS! HERE IT</i>         
+         <i> COMES AGAIN.</i>          
+
+521
+00:50:44,706 --> 00:50:50,711
+         [Growling]             
+
+522
+00:50:50,779 --> 00:50:54,415
+<i>[Growling]</i>                      
+
+523
+00:50:54,483 --> 00:50:56,250
+            CALDER?             
+
+524
+00:50:56,318 --> 00:50:59,203
+         <i> STILL HERE.</i>           
+
+525
+00:50:59,271 --> 00:51:00,505
+             THE PLATE ON       
+             THIS TORCH SAYS,   
+
+526
+00:51:00,572 --> 00:51:03,041
+             "GOOD FOR THREE    
+         HOURS CONTINUOUS USE." 
+
+527
+00:51:03,108 --> 00:51:06,477
+     AND TO RETURN IT FOR YOUR  
+     MONEY BACK IF UNSATISFIED. 
+
+528
+00:51:06,479 --> 00:51:07,928
+    HANG ON, JIM.               
+
+529
+00:51:07,996 --> 00:51:10,598
+WE'LL LEAVE THE INTERCOM ON.    
+JUST HANG ON.                   
+
+530
+00:51:10,666 --> 00:51:12,400
+         SURE. WHAT ELSE?       
+
+531
+00:51:12,467 --> 00:51:14,902
+ <i> WILL YOU KEEP US INFORMED</i>     
+    <i> OF ITS MOVEMENTS...</i>        
+
+532
+00:51:14,969 --> 00:51:17,121
+             WE'LL TRY TO FIGURE
+             HOW TO GET YOU OUT.
+
+533
+00:51:17,189 --> 00:51:19,190
+    <i> JUST SEND CARE PACKAGES.</i>   
+
+534
+00:51:26,365 --> 00:51:31,402
+    YOU KNOW, IF THAT THING     
+     SHOULD ATTACK THE          
+     INDUCTION PUMPS OR...      
+
+535
+00:51:31,470 --> 00:51:32,937
+         THE BANK OF            
+     CONTROL RELAYS,            
+
+536
+00:51:33,004 --> 00:51:35,940
+ WE COULDN'T MANEUVER           
+ THE SHIP OR LAND IT.           
+     WE'D JUST...               
+
+537
+00:51:36,007 --> 00:51:37,241
+         DRIFT RIGHT            
+         PAST EARTH             
+
+538
+00:51:37,309 --> 00:51:39,177
+ TOWARDS INTERSTELLAR           
+     SPACE. WE'D...             
+
+539
+00:51:39,244 --> 00:51:43,481
+         DRIFT FOREVER.         
+
+540
+00:51:43,549 --> 00:51:45,049
+         [Growling]             
+
+541
+00:52:36,116 --> 00:52:37,967
+ SO I DECIDED AFTER             
+    ONE BAD MARRIAGE            
+
+542
+00:52:38,034 --> 00:52:41,937
+     TO BURY MYSELF             
+     IN SCIENCE.                
+
+543
+00:52:42,005 --> 00:52:46,442
+ I DIDN'T WANT ANYBODY.         
+
+544
+00:52:46,510 --> 00:52:50,546
+             VAN CHANGED        
+             YOUR MIND?         
+
+545
+00:52:50,614 --> 00:52:53,549
+         [Anne sighs]           
+
+546
+00:52:53,617 --> 00:52:56,352
+            IF WE GET OUT       
+         OF THIS, I'D...        
+
+547
+00:53:34,241 --> 00:53:39,178
+     [Machines beeping]         
+
+548
+00:53:39,246 --> 00:53:41,414
+             ERIC?              
+
+549
+00:53:41,481 --> 00:53:43,883
+THE BACTERIA IS ATTACKING       
+    THE BONE MARROW,            
+
+550
+00:53:43,951 --> 00:53:47,320
+         RESULTING IN A         
+     LEUKEMIA CONDITION.        
+
+551
+00:53:47,388 --> 00:53:50,790
+     I CAN FIGHT IT WITH        
+     DRUGS, BUT SLOWLY.         
+
+552
+00:53:50,857 --> 00:53:54,994
+         TOO SLOWLY.            
+
+553
+00:53:55,062 --> 00:53:56,629
+    IF THEY'RE GOING TO LIVE,   
+
+554
+00:53:56,696 --> 00:54:01,134
+     THEY'VE GOT TO HAVE        
+    FRESH BLOOD CONSTANTLY...   
+
+555
+00:54:01,201 --> 00:54:08,241
+     AND THERE'S NO MORE        
+ UP HERE IN THE DISPENSARY.     
+
+556
+00:54:08,309 --> 00:54:10,910
+THEN WE'VE GOT TO               
+GO DOWN AND GET IT.             
+
+557
+00:54:18,852 --> 00:54:20,019
+             SIR,               
+
+558
+00:54:20,087 --> 00:54:21,687
+             IF...              
+
+559
+00:54:21,755 --> 00:54:25,959
+         YOU COULDN'T           
+         HELP CALDER.           
+
+560
+00:54:26,026 --> 00:54:28,127
+        YOU HAD TO...           
+
+561
+00:54:28,195 --> 00:54:31,965
+         YOU HAD TO             
+     LEAVE HIM THERE.           
+
+562
+00:54:32,032 --> 00:54:34,033
+             WELL...            
+
+563
+00:54:34,101 --> 00:54:38,471
+     WHAT DID YOU DO,           
+        CARRUTHERS?             
+
+564
+00:54:38,538 --> 00:54:43,142
+    THROW HIM IN AS BAIT        
+ SO YOU COULD GET AWAY?         
+
+565
+00:54:43,210 --> 00:54:44,978
+    VAN.                        
+
+566
+00:54:45,045 --> 00:54:46,012
+             HOW--              
+
+567
+00:54:46,080 --> 00:54:47,280
+         HOW COME YOU--         
+
+568
+00:54:47,348 --> 00:54:49,449
+         [Groaning]             
+
+569
+00:54:49,516 --> 00:54:53,353
+     HOW COME YOU ALWAYS GET    
+     AWAY WITHOUT A SCRATCH?    
+
+570
+00:54:53,420 --> 00:54:55,721
+HE DOESN'T KNOW                 
+WHAT HE'S SAYING.               
+
+571
+00:54:55,789 --> 00:54:57,606
+         <i> I HEARD THAT.</i>         
+     <i> TELL HIM HE'S NUTS.</i>       
+
+572
+00:54:57,674 --> 00:55:02,295
+     <i> VAN HEUSEN'S GOT</i>          
+        <i> IT ALL WRONG.</i>          
+
+573
+00:55:02,362 --> 00:55:04,063
+    HEY, CAN ANYBODY            
+        HEAR ME?                
+
+574
+00:55:04,131 --> 00:55:07,233
+     <i> VAN HEUSEN'S GOT</i>          
+        <i> IT ALL WRONG.</i>          
+
+575
+00:55:07,301 --> 00:55:11,270
+                 WE HEAR YOU,   
+                 JIM. THANKS.   
+
+576
+00:55:11,338 --> 00:55:13,072
+             SOMEHOW WE'VE GOT  
+             TO GET THAT BLOOD. 
+
+577
+00:55:13,140 --> 00:55:14,874
+WELL, THIS TIME                 
+IT'S MY TURN.                   
+
+578
+00:55:14,942 --> 00:55:16,042
+                 I'M GOING      
+                 WITH YOU.      
+
+579
+00:55:16,109 --> 00:55:19,078
+                ALL RIGHT, WE'LL
+             MAKE A RUN FOR IT. 
+
+580
+00:55:19,146 --> 00:55:20,713
+                     ONE THING, 
+
+581
+00:55:20,780 --> 00:55:22,581
+     REMEMBER THERE'S ONLY      
+         10 FEET OF LADDER      
+
+582
+00:55:22,649 --> 00:55:24,783
+     BETWEEN IT AND US WHEN     
+         WE GET DOWN THERE.     
+
+583
+00:55:24,852 --> 00:55:26,452
+             SO, WE BETTER TAKE 
+             IT SLOW AND EASY.  
+
+584
+00:55:26,519 --> 00:55:28,787
+                     ONE SOUND, 
+                 AND WE'RE DEAD.
+
+585
+00:55:28,856 --> 00:55:32,391
+                 LET'S TAKE OUR 
+                 BOOTS OFF, HUH.
+
+586
+00:55:32,459 --> 00:55:33,759
+     HERE ARE THE               
+ INVENTORY NUMBERS.             
+
+587
+00:55:33,827 --> 00:55:36,295
+TYPE O, COMPARTMENT X-1,        
+STORAGE B.                      
+
+588
+00:55:36,363 --> 00:55:38,664
+ THEY'RE ALL MARKED.            
+
+589
+00:55:38,732 --> 00:55:39,298
+                         CALDER?
+
+590
+00:55:39,366 --> 00:55:41,033
+         I'M WITH IT.           
+
+591
+00:55:41,101 --> 00:55:42,235
+     I'LL LET OUT               
+         A SHOUT                
+
+592
+00:55:42,302 --> 00:55:44,586
+     IF THE CRITTER EVEN        
+     LOOKS AT THE LADDER.       
+
+593
+00:55:44,654 --> 00:55:47,422
+    <i> RIGHT NOW, IT'S JUST</i>       
+     <i> PROWLIN' AROUND.</i>          
+
+594
+00:55:47,490 --> 00:55:48,557
+         <i> GOOD LUCK.</i>            
+
+595
+00:55:48,625 --> 00:55:50,126
+                         THANKS.
+
+596
+00:55:50,193 --> 00:55:52,694
+     <i> HEY, THIS MIGHT BE</i>        
+     <i> WORTH SOMETHING.</i>          
+
+597
+00:55:52,763 --> 00:55:54,263
+         [Growling]             
+
+598
+00:56:04,607 --> 00:56:06,708
+    IT JUST WENT IN THE         
+     REACTOR ROOM.              
+
+599
+00:56:06,710 --> 00:56:09,178
+ THIS MIGHT BE THE BREAK        
+     WE'RE WAITING FOR.         
+
+600
+00:56:09,246 --> 00:56:10,963
+     IT TOOK GINO WITH HIM.     
+
+601
+00:56:11,031 --> 00:56:12,231
+                         CALDER,
+                         LISTEN,
+
+602
+00:56:12,299 --> 00:56:13,900
+I'M GOING TO CLOSE THE DOOR     
+     TO THE REACTOR ROOM.       
+
+603
+00:56:13,967 --> 00:56:15,201
+                LET ME KNOW WHAT
+             HE DOES, WILL YA?  
+
+604
+00:56:15,269 --> 00:56:17,503
+             <i> ROGER.</i>            
+
+605
+00:56:17,570 --> 00:56:19,071
+     [Machines beeping]         
+
+606
+00:56:31,168 --> 00:56:33,068
+                         CALDER?
+
+607
+00:56:33,136 --> 00:56:34,870
+             WHAT'S HAPPENING?  
+
+608
+00:56:34,937 --> 00:56:38,040
+             NOTHING. NOT       
+             A SQUAWK.          
+
+609
+00:56:38,108 --> 00:56:44,713
+             WE'RE COMIN' DOWN. 
+
+610
+00:56:44,781 --> 00:56:47,216
+                        ERIC?   
+
+611
+00:56:47,284 --> 00:56:50,319
+     VAN'LL APPRECIATE IT.      
+         COME BACK.             
+
+612
+00:57:49,479 --> 00:57:52,381
+ MAYBE WE CAN GET CALDER        
+         OUT OF THERE NOW.      
+
+613
+00:57:52,449 --> 00:57:53,749
+ BOB...                         
+
+614
+00:57:53,816 --> 00:57:57,986
+TAKE A LOOK.                    
+
+615
+00:57:58,054 --> 00:58:00,689
+WE'D BETTER HURRY               
+AND GET THAT BLOOD.             
+
+616
+00:58:13,303 --> 00:58:16,272
+    EASY, BOB, EASY.            
+        NO NOISE!               
+
+617
+00:58:16,339 --> 00:58:17,506
+    OKAY, JIMMY.                
+
+618
+00:58:27,217 --> 00:58:28,750
+     NO!                        
+                    VAN, NO!    
+
+619
+00:58:28,818 --> 00:58:30,219
+         NO! LET ME GO!         
+
+620
+00:58:30,287 --> 00:58:31,787
+         <i> LET ME GO!</i>            
+
+621
+00:58:31,854 --> 00:58:33,055
+ [Van, Anne and Mary screaming] 
+
+622
+00:58:33,123 --> 00:58:35,324
+            LET GO OF ME.       
+     VAN--                      
+
+623
+00:58:35,392 --> 00:58:36,926
+             I KNOW WHAT        
+             I'M DOING.         
+
+624
+00:58:36,993 --> 00:58:38,127
+ PLEASE, VAN.                   
+
+625
+00:58:38,194 --> 00:58:39,628
+         WE CAN UNSHIELD        
+         THE REACTOR.           
+
+626
+00:58:39,695 --> 00:58:42,097
+         THE RADIATION--        
+    THE RADIATION WILL KILL IT. 
+
+627
+00:58:42,165 --> 00:58:44,133
+IT'S TOO DANGEROUS              
+WHILE THEY'RE DOWN THERE.       
+
+628
+00:58:44,200 --> 00:58:46,302
+IF THE CREATURE                 
+BREAKS LOOSE HE'LL...           
+
+629
+00:58:46,369 --> 00:58:47,836
+ WAIT UNTIL                     
+ THEY COME BACK.                
+
+630
+00:58:47,904 --> 00:58:51,307
+<i> IT'S A GOOD IDEA,</i>              
+<i> BUT, VAN, PLEASE.</i>              
+
+631
+00:58:51,374 --> 00:58:52,474
+         NOW IS THE TIME.       
+
+632
+00:58:52,542 --> 00:58:54,009
+NO, VAN, PLEASE.                
+
+633
+00:59:04,304 --> 00:59:07,473
+ HURRY! VAN UNSHIELDED          
+     THE REACTOR.               
+
+634
+00:59:07,541 --> 00:59:10,642
+ I HOPE THAT DOOR HOLDS         
+     IF IT WANTS OUT.           
+
+635
+00:59:10,710 --> 00:59:12,044
+         BOB, HURRY UP.         
+
+636
+00:59:19,186 --> 00:59:21,087
+         IT'S ENOUGH TO         
+         KILL 100 MEN.          
+
+637
+00:59:28,829 --> 00:59:29,795
+     GET UP THE STAIRS.         
+
+638
+00:59:29,862 --> 00:59:30,862
+     I'LL BE ALL RIGHT.         
+
+639
+00:59:30,930 --> 00:59:32,098
+         NO, I'M NOT            
+         LEAVING YA.            
+
+640
+00:59:45,495 --> 00:59:49,498
+             AH! AH!            
+
+641
+00:59:49,566 --> 00:59:51,099
+            IT'S OUT!           
+
+642
+00:59:51,167 --> 00:59:52,735
+            IT'S OUT!           
+
+643
+00:59:52,802 --> 00:59:54,035
+         IT WON'T DIE.          
+
+644
+00:59:54,103 --> 00:59:56,538
+ ERIC, HURRY.                   
+     HURRY!                     
+
+645
+00:59:56,606 --> 00:59:57,840
+WHAT ABOUT BOB?                 
+
+646
+00:59:57,907 --> 00:59:59,007
+     THERE'S NOTHING            
+         WE CAN DO!             
+
+647
+00:59:59,075 --> 01:00:01,810
+        GET THAT BLOOD UP       
+     THERE FAST! DON'T STOP!    
+
+648
+01:00:17,594 --> 01:00:21,513
+                 ERIC.          
+
+649
+01:00:21,581 --> 01:00:24,216
+ GET UP TO THE CONTROL          
+     LEVEL. HURRY!              
+
+650
+01:00:34,627 --> 01:00:36,228
+BE CAREFUL, DEAR.               
+
+651
+01:01:15,418 --> 01:01:18,820
+AT LEAST DOWN BELOW             
+I COULD'VE DIED ON A MATTRESS.  
+
+652
+01:01:18,888 --> 01:01:20,256
+            YOU'LL BE ALL RIGHT.
+
+653
+01:01:20,323 --> 01:01:22,525
+            YOU'LL BE ALL RIGHT.
+
+654
+01:01:22,592 --> 01:01:29,131
+            I GUESS IT--        
+     I GUESS IT LOOKS LIKE IT'S 
+
+655
+01:01:29,199 --> 01:01:31,800
+         YOU AND ED NOW,        
+            HUH, CHICKEN?       
+
+656
+01:01:31,868 --> 01:01:33,669
+WHAT DO YOU MEAN?               
+
+657
+01:01:33,736 --> 01:01:35,070
+                 UH...          
+
+658
+01:01:35,138 --> 01:01:40,742
+         I GOT GOOD EARS.       
+             I CAN HEAR.        
+
+659
+01:01:40,810 --> 01:01:48,617
+             YOU AND HIM,       
+         JUST OUT OF NOWHERE.   
+
+660
+01:01:48,685 --> 01:01:51,453
+    LET'S TALK                  
+ ABOUT IT LATER.                
+
+661
+01:01:51,521 --> 01:01:57,459
+        THERE ISN'T ANY LATER,  
+         THE WAY THINGS LOOK.   
+
+662
+01:01:57,527 --> 01:02:01,129
+THAT'S WHY I ASKED NOW--        
+        I, I--                  
+
+663
+01:02:01,198 --> 01:02:02,798
+             I JUST GOT TO KNOW.
+
+664
+01:02:02,865 --> 01:02:04,466
+ VAN, PLEASE.                   
+
+665
+01:02:04,534 --> 01:02:10,072
+[Edward] ANNE, WHERE ARE        
+    THE FLASHLIGHTS?            
+
+666
+01:02:10,139 --> 01:02:11,907
+             BETTER GET GOIN'.  
+
+667
+01:02:17,981 --> 01:02:20,348
+                MARY?           
+
+668
+01:02:20,416 --> 01:02:28,891
+AM I GOING TO MAKE IT? I MEAN,  
+ IF ALL OF US GET AWAY, UH--.   
+
+669
+01:02:28,959 --> 01:02:34,162
+             OKAY, MARY,        
+             I UNDERSTAND.      
+
+670
+01:02:34,230 --> 01:02:36,799
+         I'M THE GUY WITH       
+         ALL THE ANSWERS.       
+
+671
+01:02:50,146 --> 01:02:53,649
+ [Edward] <i> THERE IS NOTHING</i>     
+    <i> TO DO BUT WAIT NOW,</i>        
+
+672
+01:02:53,717 --> 01:02:55,584
+        <i> NOTHING TO DO BUT</i>      
+        <i> SEE IF THE BEAST</i>       
+
+673
+01:02:55,652 --> 01:02:58,386
+    <i> WILL REACH US THROUGH</i>      
+     <i> THE CENTER HATCH.</i>         
+
+674
+01:02:58,454 --> 01:03:00,689
+     <i> WE CAN GO NO HIGHER.</i>      
+
+675
+01:03:00,757 --> 01:03:03,859
+        <i> WE ARE IN THE TOP</i>      
+     <i> LEVEL OF THE SHIP.</i>        
+
+676
+01:03:03,927 --> 01:03:07,963
+     <i> THIS IS WHERE EITHER</i>      
+     <i> WE DIE, OR IT DIES.</i>       
+
+677
+01:03:15,271 --> 01:03:16,505
+                         CALDER?
+
+678
+01:03:16,572 --> 01:03:18,273
+         <i> STILL ALIVE.</i>          
+
+679
+01:03:18,341 --> 01:03:20,075
+         DON'T ASK ME           
+         WHY I BOTHER.          
+
+680
+01:03:20,143 --> 01:03:24,613
+         GOOD. CAN YOU SEE IT?  
+
+681
+01:03:24,681 --> 01:03:26,749
+         BIG AS DEATH.          
+
+682
+01:03:26,816 --> 01:03:28,316
+     IT'S BEEN SITTING HERE     
+     FOR THE LAST HALF HOUR,    
+
+683
+01:03:28,384 --> 01:03:30,753
+     LICKING ITS CHOPS.         
+
+684
+01:03:30,820 --> 01:03:33,255
+     INCIDENTLY IF ANYBODY'S    
+ INTERESTED AT THIS LATE DATE   
+
+685
+01:03:33,322 --> 01:03:36,058
+     I GOT IT FIGURED HOW       
+     THE CRITTER GOT ABOARD.    
+
+686
+01:03:36,126 --> 01:03:37,259
+             <i> HOW?</i>              
+
+687
+01:03:37,326 --> 01:03:39,161
+     IT MUST'VE FOLLOWED        
+     US BACK TO THE SHIP,       
+
+688
+01:03:39,228 --> 01:03:41,263
+     AFTER WE PICKED YOU UP,    
+
+689
+01:03:41,330 --> 01:03:43,265
+     CLIMBED ONE OF THE FINS    
+
+690
+01:03:43,332 --> 01:03:45,534
+     <i> JUST BEFORE TAKEOFF</i>       
+     <i> AND GOT IN THROUGH</i>        
+
+691
+01:03:45,601 --> 01:03:49,805
+<i> THE OPEN EMERGENCY HATCH</i>       
+    <i> IN C COMPARTMENT.</i>          
+
+692
+01:03:49,873 --> 01:03:52,607
+             SOUNDS RIGHT.      
+
+693
+01:03:52,676 --> 01:03:54,843
+            HOW'S THE AIR       
+             DOWN THERE?        
+
+694
+01:03:54,911 --> 01:03:56,078
+         PRETTY BAD.            
+
+695
+01:03:56,146 --> 01:03:59,815
+     MY SUIT-TANK HELPS,        
+     BUT IT'S ABOUT EMPTY.      
+
+696
+01:03:59,883 --> 01:04:00,916
+         [Growling]             
+
+697
+01:04:00,984 --> 01:04:02,284
+             ED?                
+
+698
+01:04:02,351 --> 01:04:03,418
+         IT'S MOVIN'.           
+
+699
+01:04:11,327 --> 01:04:13,729
+    <i> IT'S GOING UP THE LADDER.</i>  
+
+700
+01:04:13,797 --> 01:04:15,731
+ I CAN HEAR IT PROWLIN'         
+     AROUND UP THERE.           
+
+701
+01:04:22,271 --> 01:04:24,707
+ANNE, MARY, GET THOSE           
+FLASHLIGHTS ON QUICK.           
+
+702
+01:04:31,965 --> 01:04:34,432
+        ED, IT'S GOING UP       
+        TO FIRST STORAGE,       
+
+703
+01:04:34,500 --> 01:04:36,201
+ <i> BANGING ON EVERYTHING</i>         
+     <i> IT PASSES.</i>                
+
+704
+01:04:36,268 --> 01:04:38,303
+        <i> IT'S GOIN' NUTS.</i>       
+
+705
+01:04:38,370 --> 01:04:39,805
+            CAN YOU GET TO      
+             THE AIR LOCK?      
+
+706
+01:04:39,872 --> 01:04:44,743
+ WHY? LOOK AT THE PRETTY STARS  
+ THROUGH MY BROKEN FACEPLATE.   
+
+707
+01:04:44,811 --> 01:04:47,012
+         GET IN THE AIR LOCK    
+             AND HIDE THERE.    
+
+708
+01:04:57,107 --> 01:04:58,640
+     ERIC.                      
+
+709
+01:04:58,708 --> 01:05:01,043
+ TAKE A LOOK AT THIS.           
+
+710
+01:05:01,111 --> 01:05:03,979
+THE OXYGEN CONSUMPTION'S        
+    WAY UP.                     
+
+711
+01:05:04,047 --> 01:05:06,314
+40 PERCENT OVER EVERY           
+PREVIOUS MAXIMUM.               
+
+712
+01:05:06,382 --> 01:05:09,818
+        40 PERCENT! PERHAPS THE 
+         GAS FROM THE GRENADES. 
+
+713
+01:05:09,886 --> 01:05:12,888
+ NO, THAT WOULDN'T              
+AFFECT IT THAT MUCH.            
+
+714
+01:05:12,956 --> 01:05:17,425
+    IT'S NOT A LEAK,            
+THE PRESSURE'S ALL RIGHT.       
+
+715
+01:05:17,493 --> 01:05:19,862
+ ARE YOU THINKING THE           
+SAME THING I'M THINKING?        
+
+716
+01:05:19,929 --> 01:05:21,529
+                 THE CREATURE?  
+
+717
+01:05:21,597 --> 01:05:25,700
+IT MUST HAVE ENORMOUS LUNGS     
+FROM THE THIN AIR ON MARS.      
+
+718
+01:05:25,769 --> 01:05:27,803
+     LET ALL THE AIR            
+    OUT OF THE SHIP.            
+
+719
+01:05:27,871 --> 01:05:30,105
+IF WE CAN DO IT IN TIME,        
+WE CAN KILL IT.                 
+
+720
+01:05:30,173 --> 01:05:31,874
+                 WE CAN BUILD UP
+         OUR AIR SUPPLY LATER.  
+
+721
+01:05:31,941 --> 01:05:32,707
+         RIGHT!                 
+
+722
+01:05:32,776 --> 01:05:34,709
+GET YOUR SPACESUITS ON. QUICK!  
+
+723
+01:06:23,593 --> 01:06:29,164
+         [Growling]             
+
+724
+01:06:29,232 --> 01:06:32,501
+             AAH!               
+
+725
+01:06:32,569 --> 01:06:39,641
+    [Calder] DRIVE HIM BELOW    
+ SO I CAN GET TO THE AIR LOCK.  
+
+726
+01:06:39,709 --> 01:06:40,709
+         [Growling]             
+
+727
+01:06:49,118 --> 01:06:50,618
+         [Anne] ED!             
+
+728
+01:06:50,686 --> 01:06:55,440
+         [Growling]             
+
+729
+01:06:55,508 --> 01:07:01,413
+        [Monster gasping]       
+
+730
+01:07:01,481 --> 01:07:07,503
+         [Whizzing]             
+
+731
+01:07:07,570 --> 01:07:09,187
+        [Monster gasping]       
+
+732
+01:07:52,348 --> 01:07:53,448
+            [Groans]            
+
+733
+01:08:25,631 --> 01:08:28,383
+YOU HAVE BEEN CALLED HERE AGAIN 
+TO RECEIVE FURTHER INFORMATION  
+
+734
+01:08:28,450 --> 01:08:31,920
+ABOUT THE STORY WHICH WAS       
+GIVEN TO YOU LAST NIGHT.        
+
+735
+01:08:31,988 --> 01:08:34,756
+I WILL READ YOU THE TEXT OF     
+A TELERADIO MESSAGE             
+
+736
+01:08:34,824 --> 01:08:38,994
+RECEIVED FROM THE CHALLENGE 142 
+LESS THAN AN HOUR AGO.          
+
+737
+01:08:39,061 --> 01:08:41,129
+ "THIS IS ERIC ROYCE TALKING.   
+
+738
+01:08:41,197 --> 01:08:43,598
+"OF THE 19 MEN AND WOMEN        
+    WHO HAVE SET FOOT           
+
+739
+01:08:43,666 --> 01:08:47,368
+ UPON THE PLANET MARS,          
+     6 WILL RETURN.             
+
+740
+01:08:47,436 --> 01:08:50,138
+     "THERE IS NO LONGER        
+     A QUESTION OF MURDER,      
+
+741
+01:08:50,206 --> 01:08:53,108
+     "BUT OF AN ALIEN AND       
+     ELEMENTAL LIFE FORCE.      
+
+742
+01:08:53,176 --> 01:08:57,813
+ "A PLANET SO CRUEL, SO HOSTILE,
+ THAT MAN MAY FIND IT NECESSARY 
+
+743
+01:08:57,880 --> 01:09:00,081
+ "TO BYPASS IT IN HIS ENDEAVOR  
+
+744
+01:09:00,149 --> 01:09:02,851
+         "TO EXPLORE AND        
+    UNDERSTAND THE UNIVERSE.    
+
+745
+01:09:02,919 --> 01:09:33,832
+         "ANOTHER NAME          
+     FOR MARS IS DEATH."        
+

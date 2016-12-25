@@ -1,0 +1,4407 @@
+1
+00:00:00,978 --> 00:00:03,012
+[ Sheep bleating ]
+
+2
+00:00:09,018 --> 00:00:10,819
+[ Bleats ]
+
+3
+00:00:22,030 --> 00:00:23,197
+[ Bleating continues ]
+
+4
+00:00:26,101 --> 00:00:28,302
+[ Man panting ]
+
+5
+00:00:42,716 --> 00:00:45,952
+[ Telephone ringing ]
+
+6
+00:00:46,053 --> 00:00:48,221
+Woman: <i>You've reached</i>
+<i>the Longmire residence.</i>
+
+7
+00:00:48,322 --> 00:00:50,323
+<i>Sorry we're not here</i>
+<i>to take your call.</i>
+
+8
+00:00:50,424 --> 00:00:51,353
+<i>Please leave a message.</i>
+
+9
+00:00:51,473 --> 00:00:53,360
+<i>We'll be happy</i>
+<i>to call you back.</i>
+
+10
+00:00:53,461 --> 00:00:54,510
+[ <i>Beep</i> ]
+
+11
+00:00:54,858 --> 00:00:57,660
+<i>Walt. Hey, it's Vic.</i>
+<i>Pick, up, pick up, pick up.</i>
+
+12
+00:00:57,761 --> 00:00:59,896
+<i>All right. So,</i>
+<i>Billy and Bob Barnes called.</i>
+
+13
+00:00:59,997 --> 00:01:01,664
+<i>Said to send someone out</i>
+<i>to Pronghorn Ridge,</i>
+
+14
+00:01:01,765 --> 00:01:02,799
+<i>and it's my day off.</i>
+
+15
+00:01:02,900 --> 00:01:05,401
+<i>I really don't want to go.</i>
+
+16
+00:01:05,502 --> 00:01:07,303
+<i>Walt?</i>
+
+17
+00:01:07,404 --> 00:01:09,805
+[ <i>Sighs</i> ] <i>Damn it.</i>
+
+18
+00:01:09,906 --> 00:01:11,172
+[ <i>Beep</i> ]
+
+19
+00:01:11,273 --> 00:01:13,475
+<i>Walt, it's Vic. Again.</i>
+
+20
+00:01:13,576 --> 00:01:15,543
+<i>I am calling you on my day off</i>
+
+21
+00:01:15,645 --> 00:01:17,512
+<i>as I am driving out</i>
+<i>to Pronghorn Ridge.</i>
+
+22
+00:01:17,614 --> 00:01:19,715
+<i>I don't want to deal</i>
+<i>with these wing nuts on my own,</i>
+
+23
+00:01:19,816 --> 00:01:22,183
+so I expect you to get your ass
+<i>out there and help me.</i>
+
+24
+00:01:22,284 --> 00:01:23,719
+<i>Please.</i>
+
+25
+00:01:23,820 --> 00:01:25,286
+[ Teakettle whistles ]
+
+26
+00:01:44,338 --> 00:01:49,643
+[ Telephone ringing ]
+
+27
+00:01:49,744 --> 00:01:51,611
+<i>You've reached</i>
+<i>the Longmire residence.</i>
+
+28
+00:01:51,712 --> 00:01:53,613
+<i>Sorry we're not here</i>
+<i>to take your call.</i>
+
+29
+00:01:53,714 --> 00:01:54,948
+<i>Please leave a message.</i>
+
+30
+00:01:55,049 --> 00:01:56,482
+<i>We'll be happy</i>
+<i>to call you back.</i>
+
+31
+00:01:56,583 --> 00:01:57,816
+[ <i>Beep</i> ]
+
+32
+00:01:57,917 --> 00:02:00,653
+<i>Walt, it's Vic.</i>
+<i>We got a dead body.</i>
+
+33
+00:02:00,754 --> 00:02:01,920
+[ <i>Receiver clicks</i> ]
+
+34
+00:02:06,492 --> 00:02:10,462
+[ Steve Earle's
+"Transcendental Blues" plays ]
+
+35
+00:02:42,694 --> 00:02:46,729
+♪ In the darkest hour ♪
+
+36
+00:02:46,830 --> 00:02:51,400
+♪ of the longest night ♪
+
+37
+00:02:51,501 --> 00:02:55,237
+♪ if it was in my power ♪
+
+38
+00:02:55,338 --> 00:02:59,341
+♪ I'd step into the light ♪
+
+39
+00:02:59,442 --> 00:03:03,644
+♪ candles on the altar ♪
+
+40
+00:03:03,746 --> 00:03:08,216
+♪ penny in your shoe ♪
+
+41
+00:03:08,317 --> 00:03:12,587
+♪ walk upon the water ♪
+
+42
+00:03:12,688 --> 00:03:15,623
+♪ transcendental blues ♪
+
+43
+00:03:20,614 --> 00:03:31,232
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+
+44
+00:03:36,676 --> 00:03:38,945
+[ Bird calls,
+truck door opens, closes ]
+
+45
+00:03:42,482 --> 00:03:43,783
+Sorry I kept you waiting, Vic.
+
+46
+00:03:43,884 --> 00:03:45,618
+No, you're not.
+
+47
+00:03:45,719 --> 00:03:48,287
+So, where are the Barnes boys?
+
+48
+00:03:48,388 --> 00:03:50,355
+I was sick of the old one
+hitting on me,
+
+49
+00:03:50,456 --> 00:03:52,357
+so I sent them back up
+to their truck.
+
+50
+00:03:52,968 --> 00:03:54,302
+The body [Sighs]
+
+51
+00:03:54,403 --> 00:03:55,970
+Is way up here,
+
+52
+00:03:56,071 --> 00:03:58,339
+about 200 yards.
+
+53
+00:04:08,449 --> 00:04:09,816
+That's a sheep.
+
+54
+00:04:09,917 --> 00:04:11,752
+I said we had a dead body.
+
+55
+00:04:11,852 --> 00:04:14,254
+[ Sniffles ]
+I never said what species.
+
+56
+00:04:14,355 --> 00:04:17,758
+So, now that you're here,
+you got it under control.
+
+57
+00:04:17,858 --> 00:04:20,960
+I guess I'll go home,
+enjoy my day off.
+
+58
+00:04:21,061 --> 00:04:23,329
+[ Sniffles ]
+
+59
+00:04:23,430 --> 00:04:26,098
+And miss all the fun?
+Come on.
+
+60
+00:04:29,235 --> 00:04:30,770
+We camped out last night
+
+61
+00:04:30,870 --> 00:04:33,773
+so we could get huntin'
+first thing this morning.
+
+62
+00:04:33,873 --> 00:04:34,907
+We checked it out
+
+63
+00:04:35,008 --> 00:04:36,842
+and saw that somebody
+shot a sheep.
+
+64
+00:04:36,943 --> 00:04:39,778
+There are no footprints
+heading up that hill.
+
+65
+00:04:39,878 --> 00:04:40,945
+How'd you get close enough
+
+66
+00:04:41,046 --> 00:04:42,079
+to see the sheep had been shot?
+
+67
+00:04:42,181 --> 00:04:43,381
+Well, my scope.
+
+68
+00:04:45,017 --> 00:04:46,284
+Your scope?
+
+69
+00:04:46,385 --> 00:04:49,421
+Now, normally, we would
+ignore a dead sheep,
+
+70
+00:04:49,522 --> 00:04:51,289
+but I know how it looks --
+
+71
+00:04:51,390 --> 00:04:54,358
+a couple of guys up here with
+a couple of drinks in 'em,
+
+72
+00:04:54,459 --> 00:04:55,826
+taking target practice.
+
+73
+00:04:55,927 --> 00:04:58,028
+I swear that ain't
+what happened, Walt.
+
+74
+00:05:00,064 --> 00:05:03,367
+[ Vic panting ]
+
+75
+00:05:03,468 --> 00:05:04,835
+This sucks.
+
+76
+00:05:04,936 --> 00:05:07,904
+Look, I know I've only
+been here six months,
+
+77
+00:05:08,005 --> 00:05:10,340
+but I'm not exactly a rookie.
+
+78
+00:05:10,441 --> 00:05:12,375
+You've made that clear.
+
+79
+00:05:12,476 --> 00:05:14,210
+Just about every day
+for six months.
+
+80
+00:05:14,311 --> 00:05:15,845
+I'm just saying,
+
+81
+00:05:15,946 --> 00:05:18,314
+I was working homicide in
+Philadelphia for five years.
+
+82
+00:05:18,415 --> 00:05:22,251
+And a dead sheep is a waste
+of my talent...
+
+83
+00:05:22,353 --> 00:05:23,853
+And my time.
+
+84
+00:05:23,954 --> 00:05:25,888
+Last thing I want to do
+is waste your valuable time.
+
+85
+00:05:25,989 --> 00:05:28,357
+So, why don't you start
+knocking on a few doors
+
+86
+00:05:28,458 --> 00:05:30,692
+and see if anybody
+saw anything?
+
+87
+00:05:30,793 --> 00:05:32,427
+[ Chuckles ]
+
+88
+00:05:33,796 --> 00:05:36,998
+I want a raise.
+
+89
+00:05:37,099 --> 00:05:38,367
+Seriously, though, Walt,
+
+90
+00:05:38,468 --> 00:05:41,135
+what kind of messed-up person
+shoots a sheep?
+
+91
+00:05:41,237 --> 00:05:43,070
+I mean, I know they're not
+as cute and fluffy
+
+92
+00:05:43,171 --> 00:05:44,705
+as they're made out to be
+and all,
+
+93
+00:05:44,806 --> 00:05:45,740
+but they're nice enough.
+
+94
+00:05:45,841 --> 00:05:47,975
+[ Panting ]
+
+95
+00:05:50,278 --> 00:05:52,212
+Vic: Walt?
+
+96
+00:05:52,313 --> 00:05:53,981
+What you doing?
+
+97
+00:05:54,082 --> 00:05:55,783
+Thinking.
+
+98
+00:05:57,352 --> 00:05:58,951
+I do that sometimes
+before I talk.
+
+99
+00:05:59,052 --> 00:06:00,754
+[ Chuckles sarcastically ]
+
+100
+00:06:00,855 --> 00:06:03,890
+You know what they call
+a flock of ravens?
+
+101
+00:06:03,991 --> 00:06:06,393
+Um, no.
+
+102
+00:06:06,494 --> 00:06:10,764
+An "unkindness" --
+an unkindness of ravens.
+
+103
+00:06:10,865 --> 00:06:13,132
+What the hell is wrong
+with "flock"?
+
+104
+00:06:13,233 --> 00:06:16,968
+"Unkindness" is just
+a little more apropos.
+
+105
+00:06:21,875 --> 00:06:25,110
+[ Grunts ]
+
+106
+00:06:29,482 --> 00:06:32,950
+Oh, shit.
+
+107
+00:06:33,051 --> 00:06:34,752
+That a 12-gauge Mossberg?
+
+108
+00:06:36,889 --> 00:06:38,322
+Hunting accident?
+
+109
+00:06:38,424 --> 00:06:40,991
+Nah.
+Look at his clothes.
+
+110
+00:06:41,092 --> 00:06:42,894
+More apres-ski
+than avid hunter.
+
+111
+00:06:42,994 --> 00:06:44,662
+Well, it looks like
+he went down
+
+112
+00:06:44,763 --> 00:06:46,130
+before it started snowing.
+
+113
+00:06:46,231 --> 00:06:48,164
+I'll check with the weather
+service, see when that was.
+
+114
+00:06:48,265 --> 00:06:51,435
+Let's flip him.
+
+115
+00:06:51,536 --> 00:06:54,003
+Okay. Go.
+[ Grunts ]
+
+116
+00:06:54,104 --> 00:06:55,772
+[ Strained ]
+Careful, careful.
+
+117
+00:06:55,873 --> 00:06:59,676
+[ Normal voice ] Exit wound
+is obviously here.
+
+118
+00:06:59,777 --> 00:07:01,778
+Means he was shot in the back.
+
+119
+00:07:01,879 --> 00:07:03,746
+The shooter
+could've been anywhere --
+
+120
+00:07:03,847 --> 00:07:06,348
+high ground, low ground,
+behind a tree.
+
+121
+00:07:06,450 --> 00:07:07,817
+Victim never shot back.
+
+122
+00:07:07,918 --> 00:07:09,318
+Sometimes you are
+so full of shit.
+
+123
+00:07:09,419 --> 00:07:10,886
+What are you, Cheyenne?
+
+124
+00:07:10,987 --> 00:07:14,089
+Smell oil,
+the gun's been cleaned.
+
+125
+00:07:14,190 --> 00:07:15,891
+Smell gunpowder,
+it's been fired.
+
+126
+00:07:15,992 --> 00:07:17,159
+I smell oil.
+
+127
+00:07:21,931 --> 00:07:23,130
+What's wrong?
+
+128
+00:07:23,231 --> 00:07:24,966
+When you been doing this
+as long as I have,
+
+129
+00:07:25,067 --> 00:07:27,034
+you get so you know
+about every face
+
+130
+00:07:27,135 --> 00:07:29,136
+in Absaroka county.
+So, who is he?
+
+131
+00:07:31,306 --> 00:07:34,208
+That's the thing.
+
+132
+00:07:34,309 --> 00:07:36,042
+I don't know.
+
+133
+00:07:39,046 --> 00:07:43,049
+[ Slow rock music plays ]
+
+134
+00:07:48,089 --> 00:07:49,923
+[ Man vocalizing ]
+
+135
+00:08:12,411 --> 00:08:14,379
+You wait right here,
+Mr. Parkford.
+
+136
+00:08:26,257 --> 00:08:27,892
+Where you been, Walt?
+
+137
+00:08:27,993 --> 00:08:30,394
+People were asking after you
+at the pancake breakfast.
+
+138
+00:08:30,495 --> 00:08:33,163
+Just out tending to
+the police side of the job.
+
+139
+00:08:33,264 --> 00:08:35,298
+But nice to know you got
+the glad-handing covered.
+
+140
+00:08:35,400 --> 00:08:37,668
+I was just representin'.
+Can't serve the community
+
+141
+00:08:37,769 --> 00:08:39,636
+if we don't talk
+to the community, sheriff.
+
+142
+00:08:39,737 --> 00:08:41,404
+A man got shot and killed
+out there.
+
+143
+00:08:41,505 --> 00:08:43,640
+I think the community
+will understand.
+
+144
+00:08:43,741 --> 00:08:44,974
+I thought the Barneses
+
+145
+00:08:45,075 --> 00:08:46,242
+were just pulling
+another drunken prank.
+
+146
+00:08:46,343 --> 00:08:48,044
+What happened?
+[ Chuckles ]
+
+147
+00:08:48,145 --> 00:08:50,914
+Look who just got interested
+in police work.
+
+148
+00:08:51,015 --> 00:08:53,149
+Walt, if you got yourself
+a cellphone,
+
+149
+00:08:53,250 --> 00:08:54,716
+you could've called me directly
+
+150
+00:08:54,817 --> 00:08:55,884
+and told me what was up.
+
+151
+00:08:55,985 --> 00:08:57,886
+I don't need a cellphone,
+Branch.
+
+152
+00:08:57,987 --> 00:09:00,221
+I just need you to be part of the team.
+
+153
+00:09:00,322 --> 00:09:02,357
+Can't just dip in and out
+of the job
+
+154
+00:09:02,458 --> 00:09:03,926
+when it suits you.
+
+155
+00:09:04,027 --> 00:09:06,762
+[ Laughs ] All right, then,
+let me help the team.
+
+156
+00:09:06,863 --> 00:09:08,597
+Who got shot?
+
+157
+00:09:08,698 --> 00:09:11,365
+A sheep and
+a man named Parkford.
+
+158
+00:09:11,466 --> 00:09:13,200
+And Vic's lead deputy
+on this one.
+
+159
+00:09:13,301 --> 00:09:15,736
+I got ya.
+
+160
+00:09:15,837 --> 00:09:17,638
+Maybe I should go out there
+and apologize to her.
+
+161
+00:09:17,739 --> 00:09:20,775
+[ Laughs ]
+One dead body's enough.
+
+162
+00:09:21,910 --> 00:09:22,877
+Morning, sheriff.
+
+163
+00:09:22,978 --> 00:09:25,112
+Ruby, how we doing today?
+
+164
+00:09:25,213 --> 00:09:27,080
+Well, somebody trashed
+Craig Martin's pickup --
+
+165
+00:09:27,181 --> 00:09:28,782
+sprayed all over it
+with spray paint,
+
+166
+00:09:28,883 --> 00:09:31,284
+uh, mostly derogatory comments,
+
+167
+00:09:31,385 --> 00:09:35,956
+uh, one specific warning to
+women not to breed with Craig.
+
+168
+00:09:36,057 --> 00:09:37,656
+Okay, I paraphrased that part.
+
+169
+00:09:37,757 --> 00:09:41,060
+Doc Bloomfield wants
+to reschedule your physical.
+
+170
+00:09:41,160 --> 00:09:42,628
+Vic called four times
+
+171
+00:09:42,729 --> 00:09:43,796
+wondering when you're gonna send
+the ferg out.
+
+172
+00:09:43,897 --> 00:09:46,065
+And Cady wanted
+to confirm lunch.
+
+173
+00:09:46,165 --> 00:09:47,399
+Call Craig Martin.
+
+174
+00:09:47,500 --> 00:09:49,134
+Tell him to apologize
+to his girlfriend.
+
+175
+00:09:49,235 --> 00:09:50,669
+"No" on the physical,
+
+176
+00:09:50,770 --> 00:09:52,104
+and tell Cady we can try
+for lunch tomorrow.
+
+177
+00:09:52,205 --> 00:09:53,404
+Why don't you call her,
+sheriff?
+
+178
+00:09:53,505 --> 00:09:55,172
+She's your daughter.
+She likes you better.
+
+179
+00:09:55,273 --> 00:09:56,708
+[ Laughs ]
+And what about Vic?
+
+180
+00:09:56,809 --> 00:09:58,643
+Is the ferg dressed
+for the elements today?
+
+181
+00:09:58,744 --> 00:10:00,011
+I got some capilene in my car.
+
+182
+00:10:00,112 --> 00:10:01,145
+Where am I going?
+
+183
+00:10:01,246 --> 00:10:02,880
+Pronghorn Ridge trailhead.
+
+184
+00:10:02,982 --> 00:10:05,149
+Vic's out there.
+She'll fill you in.
+
+185
+00:10:05,250 --> 00:10:06,283
+Branch:
+I'll go with you, ferg.
+
+186
+00:10:06,384 --> 00:10:08,152
+No, Branch,
+you're staying here.
+
+187
+00:10:08,253 --> 00:10:09,886
+Victim had
+a 12-gauge Mossberg.
+
+188
+00:10:09,988 --> 00:10:11,121
+Book it into evidence.
+
+189
+00:10:11,222 --> 00:10:12,355
+These are the plates
+on the vehicles --
+
+190
+00:10:12,456 --> 00:10:13,890
+tell me who owns 'em,
+
+191
+00:10:13,992 --> 00:10:15,291
+what guns they do
+and don't have registered.
+
+192
+00:10:15,392 --> 00:10:17,127
+See if any of them know
+the Barnes boys,
+
+193
+00:10:17,228 --> 00:10:19,029
+the victim, or if they
+heard any gunshots.
+
+194
+00:10:19,130 --> 00:10:21,197
+This is Wyoming.
+Everybody hears gunshots.
+
+195
+00:10:21,298 --> 00:10:22,833
+Ferg: Where are you going,
+sheriff?
+
+196
+00:10:22,934 --> 00:10:24,767
+To drop the victim off
+at the hospital
+
+197
+00:10:24,868 --> 00:10:26,869
+so doc Bloomfield can get
+an autopsy going.
+
+198
+00:10:26,970 --> 00:10:28,671
+Then I'm going to Wheatland.
+
+199
+00:10:28,772 --> 00:10:30,006
+That's a five-hour drive.
+
+200
+00:10:30,107 --> 00:10:31,674
+That's where the victim's from.
+
+201
+00:10:31,775 --> 00:10:33,909
+This kind of news is best
+not delivered over the phone.
+
+202
+00:10:34,011 --> 00:10:35,310
+You're gonna notify
+next of kin?
+
+203
+00:10:35,411 --> 00:10:37,046
+Ferg, why are you still here?
+Sorry.
+
+204
+00:10:37,147 --> 00:10:38,413
+Hey, Walt,
+that's a long-ass drive.
+
+205
+00:10:38,515 --> 00:10:39,448
+I could do that for you.
+
+206
+00:10:39,549 --> 00:10:41,149
+You could.
+
+207
+00:10:41,250 --> 00:10:42,884
+Then you wouldn't be doing
+what I asked you to do.
+
+208
+00:10:42,985 --> 00:10:44,252
+[ Door closes ]
+
+209
+00:10:44,353 --> 00:10:46,187
+He hasn't done a notification
+in a while.
+
+210
+00:10:46,288 --> 00:10:47,421
+He hasn't done much in a while.
+
+211
+00:10:47,523 --> 00:10:50,391
+[ Chiming ]
+
+212
+00:10:59,100 --> 00:11:01,168
+Are you Susan Parkford?
+
+213
+00:11:01,269 --> 00:11:02,803
+Susan: Mm-hmm.
+
+214
+00:11:02,904 --> 00:11:05,873
+I'm sheriff Longmire,
+Absaroka county.
+
+215
+00:11:05,974 --> 00:11:08,175
+That's practically Montana.
+
+216
+00:11:08,276 --> 00:11:12,345
+Yeah.
+Uh, could I come in?
+
+217
+00:11:12,446 --> 00:11:14,313
+Of course.
+
+218
+00:11:22,422 --> 00:11:23,990
+[ Clears throat ]
+
+219
+00:11:24,091 --> 00:11:26,793
+I just, um -- I just have
+a couple questions,
+
+220
+00:11:26,894 --> 00:11:27,994
+if you don't mind.
+
+221
+00:11:29,395 --> 00:11:32,998
+Okay.
+
+222
+00:11:33,099 --> 00:11:36,001
+Um...
+
+223
+00:11:36,102 --> 00:11:37,235
+Do you know
+where your husband is?
+
+224
+00:11:37,336 --> 00:11:39,671
+Laramie --
+at the university.
+
+225
+00:11:39,772 --> 00:11:41,707
+There's a conference.
+He's a high school teacher.
+
+226
+00:11:41,808 --> 00:11:43,208
+Is he in some kind of trouble?
+
+227
+00:11:43,309 --> 00:11:44,909
+How long's he been in Laramie?
+
+228
+00:11:45,010 --> 00:11:47,878
+He left yesterday --
+early, before I got up.
+
+229
+00:11:47,979 --> 00:11:50,114
+Uh-huh.
+He a fisherman?
+
+230
+00:11:50,215 --> 00:11:51,849
+No.
+
+231
+00:11:51,950 --> 00:11:53,818
+W-well, a little bit,
+but those are mine.
+
+232
+00:11:53,919 --> 00:11:55,019
+I tie flies and sell 'em
+
+233
+00:11:55,120 --> 00:11:56,821
+to an outfitter
+in Jackson hole.
+
+234
+00:11:56,922 --> 00:11:58,723
+A little extra spending money.
+
+235
+00:11:58,824 --> 00:12:01,057
+Do you know if he had
+any business up in Durant?
+
+236
+00:12:01,158 --> 00:12:02,358
+Durant? No.
+
+237
+00:12:02,459 --> 00:12:04,194
+Now, please, t-tell me
+what's going on.
+
+238
+00:12:06,496 --> 00:12:09,165
+Mr. Longmire, sir,
+
+239
+00:12:09,266 --> 00:12:10,633
+you're -- you're making me
+real nervous.
+
+240
+00:12:10,735 --> 00:12:14,771
+I'm afraid
+I have some very bad news.
+
+241
+00:12:14,872 --> 00:12:17,840
+Your husband, um...
+
+242
+00:12:17,941 --> 00:12:21,043
+What is it?
+He, uh...
+
+243
+00:12:21,144 --> 00:12:24,713
+What is it?
+Please, God, t-tell me.
+
+244
+00:12:24,814 --> 00:12:27,082
+What's happened?
+
+245
+00:12:27,183 --> 00:12:30,753
+I'm sorry, Mrs. Parkford,
+he's, um...
+
+246
+00:12:30,854 --> 00:12:31,854
+He's gone.
+
+247
+00:12:31,955 --> 00:12:33,254
+No!
+
+248
+00:12:33,355 --> 00:12:36,057
+[ Gasps, cries ]
+
+249
+00:12:42,998 --> 00:12:44,899
+Ruby: Walt, pick up.
+You there?
+
+250
+00:12:45,000 --> 00:12:47,434
+Vic needs to talk to you.
+She found something.
+
+251
+00:12:47,535 --> 00:12:49,269
+Walt?
+
+252
+00:12:51,773 --> 00:12:53,940
+Walter?
+
+253
+00:12:54,041 --> 00:12:55,208
+Son of a --
+
+254
+00:12:55,309 --> 00:12:57,377
+[ truck horn honks ]
+
+255
+00:12:57,478 --> 00:12:58,879
+[ Tires screech ]
+
+256
+00:13:13,260 --> 00:13:16,629
+[ Groaning ]
+
+257
+00:13:16,730 --> 00:13:21,267
+[ Grunting ]
+
+258
+00:13:52,865 --> 00:13:54,898
+Ugh! Aah!
+
+259
+00:14:02,040 --> 00:14:04,107
+[ Grunting ]
+
+260
+00:14:17,788 --> 00:14:18,955
+[ Spits ]
+
+261
+00:14:19,056 --> 00:14:21,458
+[ Hair dryer blowing ]
+
+262
+00:14:27,964 --> 00:14:30,999
+[ Cellphone ringing ]
+
+263
+00:14:31,100 --> 00:14:34,803
+[ Blowing stops ]
+
+264
+00:14:34,904 --> 00:14:35,937
+It's Vic.
+
+265
+00:14:36,038 --> 00:14:38,374
+Walt: How's it going?
+Walt?
+
+266
+00:14:38,918 --> 00:14:41,219
+What, you finally broke down
+and bought a cellphone?
+
+267
+00:14:41,320 --> 00:14:43,687
+Borrowed one.
+Uh, radio's on the Fritz.
+
+268
+00:14:43,788 --> 00:14:45,455
+Ruby said you called.
+
+269
+00:14:45,556 --> 00:14:47,224
+Yeah, I found a slug.
+
+270
+00:14:47,325 --> 00:14:49,693
+Never seen one like it before.
+
+271
+00:14:49,794 --> 00:14:52,429
+It was about 30 yards
+from the body,
+
+272
+00:14:52,530 --> 00:14:54,198
+20 from the sheep.
+
+273
+00:14:54,299 --> 00:14:55,833
+I'm looking for the casing.
+
+274
+00:14:55,934 --> 00:14:57,400
+I've got the Ferg
+taking some pictures.
+
+275
+00:14:57,501 --> 00:15:01,337
+I, uh, I hear you did
+the notification.
+
+276
+00:15:01,438 --> 00:15:04,406
+Yeah. Uh, Parkford's, uh, wife
+didn't even know
+
+277
+00:15:04,507 --> 00:15:05,674
+that Grant was in Durant.
+
+278
+00:15:05,775 --> 00:15:08,110
+Thought he was in Laramie
+for the weekend.
+
+279
+00:15:08,212 --> 00:15:10,492
+Oh, so then
+this is all about sex.
+
+280
+00:15:10,792 --> 00:15:11,780
+Take it easy, Vic.
+
+281
+00:15:11,882 --> 00:15:13,582
+When the husband lies about where
+he's going for the weekend,
+
+282
+00:15:13,683 --> 00:15:15,416
+it's always about sex.
+
+283
+00:15:15,517 --> 00:15:19,420
+So, Vic, did you know that
+Branch was running for sheriff?
+
+284
+00:15:19,964 --> 00:15:21,265
+Branch Connally.
+You're shitting me.
+
+285
+00:15:21,366 --> 00:15:22,291
+I had no idea.
+
+286
+00:15:22,411 --> 00:15:24,067
+What are you gonna do about it?
+
+287
+00:15:24,169 --> 00:15:25,969
+It's a free country.
+
+288
+00:15:26,070 --> 00:15:28,739
+I'll come by in the morning
+and pick up that slug,
+
+289
+00:15:28,840 --> 00:15:31,641
+see if Omar can help us
+identify the murder weapon.
+
+290
+00:15:32,643 --> 00:15:34,977
+[ Gunshots ]
+
+291
+00:15:38,349 --> 00:15:41,785
+You expecting
+an invasion, Omar?
+
+292
+00:15:41,885 --> 00:15:46,122
+Well, thought I'd get started
+since I was on Walt time.
+
+293
+00:15:46,223 --> 00:15:47,223
+What happened to your hand?
+
+294
+00:15:47,324 --> 00:15:49,758
+Hurt it.
+
+295
+00:15:49,859 --> 00:15:51,193
+[ Chuckles ]
+
+296
+00:15:51,294 --> 00:15:53,257
+Well, your message said
+that you found a big slug,
+
+297
+00:15:53,377 --> 00:15:58,300
+so I pulled out all the most
+popular high-caliber rifles.
+
+298
+00:15:58,401 --> 00:16:00,168
+This about that thing
+in the paper?
+
+299
+00:16:00,269 --> 00:16:01,704
+No comment.
+
+300
+00:16:01,805 --> 00:16:03,004
+Ah.
+The Longmire "yes."
+
+301
+00:16:03,105 --> 00:16:05,773
+And if you're here
+instead of your deputy,
+
+302
+00:16:05,874 --> 00:16:07,241
+you think it's murder.
+
+303
+00:16:09,010 --> 00:16:12,079
+[ Whistles ]
+That is a lot of lead.
+
+304
+00:16:12,180 --> 00:16:14,949
+.45, .70 at least.
+
+305
+00:16:15,050 --> 00:16:17,139
+None of the rifles I've been
+testing are made for this.
+
+306
+00:16:17,376 --> 00:16:19,663
+Any modern rifles you know of
+that shoot this caliber?
+
+307
+00:16:19,889 --> 00:16:21,788
+No.
+Gotta be something old.
+
+308
+00:16:21,889 --> 00:16:24,725
+Odds are, in this part of
+the country, it's a sharps.
+
+309
+00:16:24,826 --> 00:16:26,259
+Called 'em horse killers.
+
+310
+00:16:26,361 --> 00:16:28,695
+Take a horse down
+from 500 yards.
+
+311
+00:16:28,796 --> 00:16:30,196
+Pretty valuable antique now.
+
+312
+00:16:30,297 --> 00:16:32,265
+Now, this gun's
+got its drawbacks.
+
+313
+00:16:32,367 --> 00:16:35,701
+It's heavy, makes a hell
+of a lot of smoke,
+
+314
+00:16:35,802 --> 00:16:37,269
+and with a drop block,
+
+315
+00:16:37,371 --> 00:16:39,538
+it takes about five seconds
+to reload.
+
+316
+00:16:39,639 --> 00:16:41,640
+Appreciate the help, Omar.
+
+317
+00:16:41,742 --> 00:16:42,948
+You bet.
+
+318
+00:16:43,219 --> 00:16:45,254
+Hey, Walt.
+
+319
+00:16:45,355 --> 00:16:47,222
+The sharps
+is a sniper's weapon.
+
+320
+00:16:47,324 --> 00:16:49,858
+And there are two types
+of people that like to kill
+
+321
+00:16:49,960 --> 00:16:52,260
+from a distance --
+cowards and pros.
+
+322
+00:16:52,361 --> 00:16:54,462
+In my experience,
+both are dangerous.
+
+323
+00:16:54,563 --> 00:16:56,897
+I'll be all right.
+
+324
+00:16:58,500 --> 00:17:00,368
+Vic.
+[ Hair dryer blowing ]
+
+325
+00:17:00,469 --> 00:17:01,469
+Vic!
+
+326
+00:17:01,570 --> 00:17:03,704
+Vic!!
+
+327
+00:17:03,805 --> 00:17:06,474
+Vic!! Vic!
+
+328
+00:17:06,575 --> 00:17:08,475
+[ Blowing stops ]
+You find a casing?!
+
+329
+00:17:08,576 --> 00:17:10,344
+No!
+
+330
+00:17:12,380 --> 00:17:13,546
+Pants!
+
+331
+00:17:15,583 --> 00:17:17,738
+Man: So, how can I help you
+today, sheriff?
+
+332
+00:17:17,858 --> 00:17:19,488
+I'm looking for a sharps rifle.
+
+333
+00:17:19,608 --> 00:17:23,822
+Oh, an original?
+Don't have any right now.
+
+334
+00:17:23,923 --> 00:17:26,225
+But I'll tell you
+what I do have --
+
+335
+00:17:26,326 --> 00:17:28,194
+this Henry "yellow boy" rifle.
+
+336
+00:17:28,295 --> 00:17:29,362
+Ahh.
+
+337
+00:17:30,039 --> 00:17:31,305
+It's nice.
+
+338
+00:17:31,406 --> 00:17:33,793
+And this Colt Peacemaker.
+
+339
+00:17:33,913 --> 00:17:35,407
+Both used at little bighorn.
+
+340
+00:17:35,732 --> 00:17:37,966
+Bet you got custer's mustache
+back there, too.
+
+341
+00:17:38,067 --> 00:17:38,888
+Yeah.
+
+342
+00:17:39,008 --> 00:17:40,912
+No, I'm mainly interested
+in the sharps, Dan.
+
+343
+00:17:41,032 --> 00:17:42,462
+Names of the buyers
+and sellers.
+
+344
+00:17:42,582 --> 00:17:43,475
+Sheriff business.
+
+345
+00:17:43,595 --> 00:17:45,440
+Well, I've only seen
+a few sharps
+
+346
+00:17:45,541 --> 00:17:46,774
+in the last couple months.
+
+347
+00:17:46,875 --> 00:17:49,510
+Charles Burnett --
+he sold me the real deal,
+
+348
+00:17:49,612 --> 00:17:51,646
+but he bought it back
+a few weeks ago.
+
+349
+00:17:51,747 --> 00:17:53,414
+Apparently,
+Charles' grandfather
+
+350
+00:17:53,515 --> 00:17:55,915
+was not too happy with him
+selling it without asking.
+
+351
+00:17:56,016 --> 00:17:57,417
+It's sad, though.
+
+352
+00:17:57,518 --> 00:17:59,386
+We get all kinds of people
+in here, you know --
+
+353
+00:17:59,487 --> 00:18:01,688
+Cheyennes, whites, crows,
+all kinds,
+
+354
+00:18:01,789 --> 00:18:04,958
+just selling off family
+heirlooms to make ends meet.
+
+355
+00:18:05,059 --> 00:18:07,494
+Any other names come to mind?
+
+356
+00:18:07,595 --> 00:18:09,529
+Oh, I file all the guns
+I buy and sell with the ATF.
+
+357
+00:18:09,631 --> 00:18:11,397
+So, I'll check my office
+if you don't mind waiting.
+
+358
+00:18:11,498 --> 00:18:12,598
+I'm very good at waiting.
+
+359
+00:18:20,807 --> 00:18:22,608
+[ Tires screech ]
+
+360
+00:18:22,709 --> 00:18:24,510
+Hey, Walt, when
+we expanded the grid
+
+361
+00:18:24,611 --> 00:18:26,912
+to look for the casing,
+we found something else --
+
+362
+00:18:27,013 --> 00:18:29,414
+pants.
+
+363
+00:18:29,515 --> 00:18:30,815
+Just tell me on the way
+to the res.
+
+364
+00:18:30,916 --> 00:18:32,417
+Okay.
+
+365
+00:18:32,518 --> 00:18:34,586
+Talk to Branch yet
+about the knife in your back?
+
+366
+00:18:34,687 --> 00:18:36,921
+Just hop in. 'Cause I want
+to be there when you do.
+
+367
+00:18:37,022 --> 00:18:38,723
+[ Truck door opens ]
+
+368
+00:18:38,824 --> 00:18:40,292
+What the hell happened
+to your truck?
+
+369
+00:18:40,393 --> 00:18:41,426
+[ Truck door closes ]
+
+370
+00:18:41,527 --> 00:18:43,327
+[ Engine turns over ]
+
+371
+00:18:43,428 --> 00:18:44,861
+And your hand --
+you hurt your hand.
+
+372
+00:18:44,962 --> 00:18:46,397
+You're right.
+
+373
+00:18:46,498 --> 00:18:50,000
+You should consider a career
+in law enforcement.
+
+374
+00:18:50,101 --> 00:18:52,703
+Vic: They were a good 75 yards
+from the victim.
+
+375
+00:18:52,804 --> 00:18:54,705
+The problem is
+they're wranglers.
+
+376
+00:18:54,806 --> 00:18:56,940
+Pretty common pants,
+pretty common size.
+
+377
+00:18:57,041 --> 00:18:58,776
+Just that buckle.
+Let me see that.
+
+378
+00:18:58,876 --> 00:19:00,943
+What? You recognize it?
+Maybe.
+
+379
+00:19:01,044 --> 00:19:02,545
+I can't think of why.
+
+380
+00:19:02,646 --> 00:19:05,881
+Here.
+
+381
+00:19:05,982 --> 00:19:08,351
+"Tommy Proud Eagle,
+Charles Burnett,
+
+382
+00:19:08,452 --> 00:19:09,519
+Jefferson Stone."
+
+383
+00:19:09,620 --> 00:19:11,854
+All Cheyenne,
+all bought sharps rifles
+
+384
+00:19:11,955 --> 00:19:13,956
+from Dan Estes
+in the last year.
+
+385
+00:19:14,057 --> 00:19:15,924
+That's the gun
+that killed Parkford.
+
+386
+00:19:16,025 --> 00:19:18,727
+In a world where you can buy
+an AK-47 off the Internet,
+
+387
+00:19:18,828 --> 00:19:20,462
+why use an antique like this?
+
+388
+00:19:20,563 --> 00:19:23,498
+Might be old,
+but it still gets the job done.
+
+389
+00:19:25,768 --> 00:19:26,802
+Any of these guys connected
+to Grant Parkford?
+
+390
+00:19:26,902 --> 00:19:28,036
+Don't know.
+
+391
+00:19:28,137 --> 00:19:29,871
+That's why I want
+to talk to them.
+
+392
+00:19:29,972 --> 00:19:33,407
+And you think the tribal police
+are gonna help us do that?
+
+393
+00:19:33,508 --> 00:19:35,976
+I like to think
+if there's a murder involved,
+
+394
+00:19:36,077 --> 00:19:38,745
+they'll put aside
+petty personal differences
+
+395
+00:19:38,847 --> 00:19:39,880
+and help us find a killer.
+
+396
+00:19:39,981 --> 00:19:41,514
+They may not think
+
+397
+00:19:41,615 --> 00:19:42,883
+that you throwing
+their police chief in prison
+
+398
+00:19:42,984 --> 00:19:45,018
+is exactly petty.
+
+399
+00:19:45,119 --> 00:19:46,586
+He's the one who decided
+
+400
+00:19:46,687 --> 00:19:48,822
+to run an extortion racket,
+not me.
+
+401
+00:20:15,581 --> 00:20:16,848
+What did I tell you?!
+
+402
+00:20:16,949 --> 00:20:18,716
+What the hell?!
+
+403
+00:20:18,817 --> 00:20:21,786
+Vic! Stop!
+That's enough.
+
+404
+00:20:26,557 --> 00:20:30,660
+He did say he'd knock me out
+the next time he saw me.
+
+405
+00:20:30,762 --> 00:20:32,029
+Didn't really keep your word,
+did you, Mathias?
+
+406
+00:20:32,130 --> 00:20:33,864
+What do you want?
+
+407
+00:20:33,965 --> 00:20:37,001
+I want to speak to some people
+of interest who live on the res.
+
+408
+00:20:37,102 --> 00:20:38,468
+You don't get it.
+
+409
+00:20:38,569 --> 00:20:40,037
+You have no authority here.
+
+410
+00:20:40,138 --> 00:20:41,805
+Those are the treaty rules.
+
+411
+00:20:41,906 --> 00:20:44,473
+And I know how important
+treaties are to you whites.
+
+412
+00:20:44,574 --> 00:20:47,643
+I know you're pissed at me,
+but this is serious.
+
+413
+00:20:47,744 --> 00:20:49,045
+There's been a murder.
+
+414
+00:20:49,146 --> 00:20:50,780
+I know the kind of rifle used.
+
+415
+00:20:50,881 --> 00:20:52,648
+It's rare,
+but at least three folks
+
+416
+00:20:52,749 --> 00:20:54,350
+that live on the res own one.
+
+417
+00:20:54,451 --> 00:20:55,985
+I was hoping just this once
+
+418
+00:20:56,086 --> 00:20:58,553
+you let me and Vic on the res.
+
+419
+00:20:59,755 --> 00:21:03,025
+Give me the list, and we'll
+look into it for you --
+
+420
+00:21:03,126 --> 00:21:05,060
+kind of like
+a joint task force.
+
+421
+00:21:05,161 --> 00:21:06,661
+But I got to tell you,
+
+422
+00:21:06,762 --> 00:21:08,863
+kind of shorthanded
+around here.
+
+423
+00:21:08,965 --> 00:21:12,134
+We lost
+our police chief, <i>chief.</i>
+
+424
+00:21:27,416 --> 00:21:29,616
+How the hell could you just
+stand there and take that?
+
+425
+00:21:29,717 --> 00:21:31,717
+That son of a bitch
+better not step off the res.
+
+426
+00:21:31,819 --> 00:21:33,586
+For the last time,
+just leave it alone.
+
+427
+00:21:33,687 --> 00:21:34,687
+Fine.
+
+428
+00:21:34,788 --> 00:21:35,989
+I've tracked down
+
+429
+00:21:36,090 --> 00:21:37,690
+all the vehicles
+parked at Pronghorn Ridge.
+
+430
+00:21:37,791 --> 00:21:39,859
+Aside from the victim's S.U.V.
+and the Barneses' truck,
+
+431
+00:21:39,961 --> 00:21:41,094
+there were two other vehicles --
+
+432
+00:21:41,195 --> 00:21:42,662
+one belonged
+to a pair of hikers,
+
+433
+00:21:42,763 --> 00:21:44,064
+the other belongs
+to Scott Miller.
+
+434
+00:21:44,165 --> 00:21:45,898
+Well, aren't you the eager
+little beaver?
+
+435
+00:21:45,999 --> 00:21:48,000
+Scott Miller have a license?
+
+436
+00:21:48,101 --> 00:21:50,336
+I thought you might ask that.
+
+437
+00:21:50,437 --> 00:21:52,104
+Also, the weather service
+called back.
+
+438
+00:21:52,205 --> 00:21:54,073
+Told me the snow
+came on pretty sudden
+
+439
+00:21:54,174 --> 00:21:56,041
+around 3:30, 4:00 A.M.
+yesterday,
+
+440
+00:21:56,142 --> 00:21:57,943
+so Parkford was probably
+shot before then,
+
+441
+00:21:58,044 --> 00:22:00,112
+when it was still clear skies
+and a full moon.
+
+442
+00:22:00,213 --> 00:22:02,780
+I talked to Jake Hicks
+from the crazy "J" ranch.
+
+443
+00:22:02,881 --> 00:22:04,382
+He's pissed
+about the dead sheep,
+
+444
+00:22:04,483 --> 00:22:06,517
+but he says he's never heard
+of the victim.
+
+445
+00:22:06,618 --> 00:22:08,953
+And speaking of the victim,
+
+446
+00:22:09,054 --> 00:22:10,888
+after you left,
+I remembered something.
+
+447
+00:22:10,990 --> 00:22:13,524
+Parkford came into the station
+about a month ago.
+
+448
+00:22:13,625 --> 00:22:15,526
+What?
+
+449
+00:22:15,627 --> 00:22:16,894
+Our victim came in here
+and you --
+
+450
+00:22:16,996 --> 00:22:18,661
+you didn't tell me?
+[ Singsong voice ] Uh-oh.
+
+451
+00:22:18,762 --> 00:22:21,031
+Look, I'm sorry I didn't
+remember the name immediately.
+
+452
+00:22:21,132 --> 00:22:23,467
+It's not like you showed me
+a picture of the guy.
+
+453
+00:22:23,567 --> 00:22:25,602
+But I did remember it,
+and I'm telling you now.
+
+454
+00:22:25,703 --> 00:22:27,804
+Maybe if we had a more
+up-to-date computer syst--
+
+455
+00:22:27,905 --> 00:22:31,008
+Why, Branch? Why did the
+victim come into my station?
+
+456
+00:22:31,109 --> 00:22:34,977
+Some friend of his, a woman
+named May Stillwater,
+
+457
+00:22:35,078 --> 00:22:36,545
+was looking
+for her missing daughter.
+
+458
+00:22:36,646 --> 00:22:37,779
+Parkford was helping out.
+
+459
+00:22:37,881 --> 00:22:39,382
+He brought a photo
+of the missing girl.
+
+460
+00:22:39,483 --> 00:22:42,418
+Her name's Lilly.
+
+461
+00:22:42,519 --> 00:22:44,520
+[ Sighs ]
+And what did you do?
+
+462
+00:22:44,621 --> 00:22:45,854
+Everything I could.
+
+463
+00:22:45,955 --> 00:22:47,356
+Parkford wasn't a relative.
+
+464
+00:22:47,457 --> 00:22:48,924
+Couldn't file
+a missing-persons claim,
+
+465
+00:22:49,026 --> 00:22:50,591
+and he said the girl
+was from the res.
+
+466
+00:22:50,692 --> 00:22:53,028
+By law, that makes it
+a tribal police problem,
+
+467
+00:22:53,129 --> 00:22:54,062
+so I forwarded the info
+on to them.
+
+468
+00:22:54,163 --> 00:22:55,663
+I could've called the feds,
+
+469
+00:22:55,764 --> 00:22:57,399
+but I know you don't like it
+when they get involved.
+
+470
+00:22:57,500 --> 00:22:59,634
+Why didn't you tell me
+any of this at the time?
+
+471
+00:22:59,735 --> 00:23:01,336
+Well, you haven't exactly been
+on top of your game
+
+472
+00:23:01,437 --> 00:23:02,904
+for the last year.
+
+473
+00:23:03,005 --> 00:23:05,340
+Vic, the Ferg, and I have been
+trying to handle everything,
+
+474
+00:23:05,441 --> 00:23:07,007
+but it's not easy.
+
+475
+00:23:09,877 --> 00:23:13,580
+Well, sorry I haven't been
+here to hold your hand.
+
+476
+00:23:13,681 --> 00:23:15,949
+It's called delegating.
+
+477
+00:23:16,051 --> 00:23:17,317
+That's part of
+the sheriff's job, Branch.
+
+478
+00:23:17,419 --> 00:23:18,585
+Speaking of which,
+
+479
+00:23:18,686 --> 00:23:21,588
+is there anything else
+you forgot to tell me?
+
+480
+00:23:21,689 --> 00:23:23,656
+Anything you think
+I should know?
+
+481
+00:23:23,757 --> 00:23:24,790
+Anything?
+
+482
+00:23:24,891 --> 00:23:26,059
+No.
+
+483
+00:23:26,160 --> 00:23:28,894
+No.
+
+484
+00:23:30,764 --> 00:23:32,298
+So, where you going now?
+
+485
+00:23:32,399 --> 00:23:34,667
+To do what you
+should have done --
+
+486
+00:23:34,768 --> 00:23:36,335
+talk to this girl's mom
+
+487
+00:23:36,437 --> 00:23:38,670
+and find out what the hell
+Grant Parkford
+
+488
+00:23:38,771 --> 00:23:39,871
+was doing in this county.
+
+489
+00:23:39,972 --> 00:23:41,473
+I know your memory is slipping,
+
+490
+00:23:41,574 --> 00:23:43,442
+but didn't the tribal police
+basically just tell you
+
+491
+00:23:43,543 --> 00:23:44,909
+to stay the hell
+off the reservation?
+
+492
+00:23:45,010 --> 00:23:46,945
+Well, I never said
+it was gonna be easy.
+
+493
+00:23:48,448 --> 00:23:50,748
+[ <i>Mid-tempo rock music plays</i> ]
+
+494
+00:23:55,687 --> 00:23:57,521
+Hey, Henry.
+
+495
+00:23:58,153 --> 00:23:59,353
+I need a favor.
+
+496
+00:23:59,454 --> 00:24:00,955
+And I need a wingman.
+
+497
+00:24:01,056 --> 00:24:03,057
+Gina here does not want
+to leave her sister,
+
+498
+00:24:03,158 --> 00:24:05,126
+and I was just saying
+how my best friend
+
+499
+00:24:05,227 --> 00:24:07,561
+is single, employed,
+and almost as charming as me.
+
+500
+00:24:07,663 --> 00:24:09,831
+How 'bout it?
+Dinner in town,
+
+501
+00:24:09,932 --> 00:24:11,098
+or should we just eat here
+at the red pony?
+
+502
+00:24:11,198 --> 00:24:13,233
+Will you ladies excuse us?
+
+503
+00:24:17,171 --> 00:24:19,172
+You got to get back
+on the horse, Walt.
+
+504
+00:24:19,273 --> 00:24:20,406
+I appreciate the advice,
+
+505
+00:24:20,508 --> 00:24:22,075
+but that's not
+what I'm here for.
+
+506
+00:24:30,083 --> 00:24:31,583
+[ Dogs barking ]
+
+507
+00:24:39,059 --> 00:24:41,193
+[ Speaks native language ]
+
+508
+00:24:41,294 --> 00:24:43,995
+May: Standing bear, I thought
+you were coming alone.
+
+509
+00:24:44,096 --> 00:24:45,163
+Henry: Hello, May.
+
+510
+00:24:45,745 --> 00:24:47,346
+Those dogs have a sixth sense.
+
+511
+00:24:47,447 --> 00:24:48,580
+They smell white people.
+
+512
+00:24:48,681 --> 00:24:50,081
+Who's in the truck?
+
+513
+00:24:52,051 --> 00:24:53,552
+[ Whistles ]
+
+514
+00:24:59,530 --> 00:25:00,767
+He wants to help.
+
+515
+00:25:00,859 --> 00:25:03,428
+May: Well, what the hell
+took you so long?
+
+516
+00:25:03,529 --> 00:25:05,530
+She's been missing
+three months.
+
+517
+00:25:05,631 --> 00:25:08,032
+I'm here now,
+and I do want to help.
+
+518
+00:25:08,602 --> 00:25:10,203
+Do you have any idea
+where she may have gone?
+
+519
+00:25:10,304 --> 00:25:11,537
+Well, if I knew that,
+
+520
+00:25:11,639 --> 00:25:13,073
+I would've gone after her,
+wouldn't I?
+
+521
+00:25:13,174 --> 00:25:14,407
+Have you heard from her
+since then?
+
+522
+00:25:14,508 --> 00:25:17,009
+[ Sighs ] Once.
+
+523
+00:25:17,587 --> 00:25:19,655
+We had a big fight,
+and she left.
+
+524
+00:25:19,756 --> 00:25:22,090
+So she was staying
+with some older girl
+
+525
+00:25:22,191 --> 00:25:23,125
+who left the reservation.
+
+526
+00:25:23,245 --> 00:25:24,913
+What do you know about the girl
+she was staying with?
+
+527
+00:25:25,033 --> 00:25:29,097
+Not much. They say
+she's a prostitute.
+
+528
+00:25:29,198 --> 00:25:30,277
+My boyfriend?
+
+529
+00:25:30,646 --> 00:25:33,715
+He says that he thinks
+that Lilly's into that, too.
+
+530
+00:25:34,151 --> 00:25:35,384
+But I don't believe it.
+
+531
+00:25:35,485 --> 00:25:37,520
+She's only 16.
+
+532
+00:25:41,225 --> 00:25:42,206
+Is this a recent photo?
+
+533
+00:25:43,649 --> 00:25:44,691
+Where did you get that?
+
+534
+00:25:44,811 --> 00:25:46,229
+It was given
+to one of my deputies
+
+535
+00:25:46,330 --> 00:25:47,896
+a couple weeks ago
+
+536
+00:25:47,997 --> 00:25:49,364
+by a man who said he was helping
+you look for Lilly.
+
+537
+00:25:49,465 --> 00:25:51,133
+Oh, my God.
+
+538
+00:25:51,234 --> 00:25:53,102
+Grant came to see you?
+
+539
+00:25:53,203 --> 00:25:55,403
+I didn't realize
+he was doing anything.
+
+540
+00:25:55,504 --> 00:25:57,072
+H-he never
+called me back.
+
+541
+00:25:57,173 --> 00:25:59,141
+But you do know
+Mr. Parkford?
+
+542
+00:25:59,242 --> 00:26:01,043
+Yes, of course.
+He's Lilly's father.
+
+543
+00:26:02,945 --> 00:26:05,813
+[ Sighs ]
+He didn't tell you that.
+
+544
+00:26:05,914 --> 00:26:07,548
+No, ma'am.
+
+545
+00:26:07,649 --> 00:26:08,757
+Well, I guess he wouldn't.
+
+546
+00:26:08,877 --> 00:26:11,953
+He asked me to stop calling him
+after he got married.
+
+547
+00:26:12,054 --> 00:26:13,020
+Did you?
+
+548
+00:26:13,122 --> 00:26:15,156
+Yes -- until last month.
+
+549
+00:26:15,257 --> 00:26:16,924
+I was so desperate.
+Nobody would help.
+
+550
+00:26:17,025 --> 00:26:18,859
+So I called Grant.
+
+551
+00:26:18,960 --> 00:26:22,362
+And he said he was sorry
+he couldn't do anything.
+
+552
+00:26:22,463 --> 00:26:24,364
+But I knew he would help.
+
+553
+00:26:24,465 --> 00:26:25,832
+[ Dogs barking ]
+
+554
+00:26:25,933 --> 00:26:27,200
+Grant's a good man.
+
+555
+00:26:27,301 --> 00:26:30,303
+Henry: May, you said
+you have a boyfriend.
+
+556
+00:26:30,404 --> 00:26:32,205
+He have any idea
+where Lilly may have gone?
+
+557
+00:26:32,306 --> 00:26:34,574
+Charles and Lilly
+don't get along.
+
+558
+00:26:34,675 --> 00:26:36,942
+That wouldn't happen to be
+Charles Burnett, would it?
+
+559
+00:26:37,043 --> 00:26:38,077
+Yes.
+
+560
+00:26:39,346 --> 00:26:42,014
+Ms. Stillwater, we'll do
+all we can to find your girl.
+
+561
+00:26:42,115 --> 00:26:43,349
+Thank you.
+
+562
+00:26:43,450 --> 00:26:47,320
+And tell Grant --
+tell him thank you, too.
+
+563
+00:26:49,022 --> 00:26:51,157
+I will.
+
+564
+00:26:53,025 --> 00:26:55,460
+We pretty much swept the hookers
+out of Absaroka last year.
+
+565
+00:26:55,561 --> 00:26:58,930
+You heard of anything new
+about prostitution
+
+566
+00:26:59,031 --> 00:27:01,166
+in the county or on the res?
+
+567
+00:27:01,267 --> 00:27:03,968
+Not my thing.
+Never had to pay for it.
+
+568
+00:27:07,939 --> 00:27:09,573
+Have I lost a step?
+
+569
+00:27:11,343 --> 00:27:12,943
+What?
+
+570
+00:27:13,044 --> 00:27:14,445
+I just had to ask you
+
+571
+00:27:14,546 --> 00:27:18,215
+about the state of the sex trade
+in my own county.
+
+572
+00:27:18,317 --> 00:27:19,917
+You are an optimist.
+
+573
+00:27:20,018 --> 00:27:22,320
+You don't like to think
+of the depravity of humankind.
+
+574
+00:27:22,421 --> 00:27:24,354
+And also, yes,
+you have lost a step.
+
+575
+00:27:24,455 --> 00:27:25,855
+Hardly an optimist.
+
+576
+00:27:25,956 --> 00:27:27,791
+It's not an hour ago,
+I thought Grant Parkford
+
+577
+00:27:27,891 --> 00:27:29,459
+was just some guy
+having an affair.
+
+578
+00:27:29,560 --> 00:27:31,861
+Never occurred to me he was
+doing something heroic.
+
+579
+00:27:31,962 --> 00:27:33,296
+Heroic?
+
+580
+00:27:33,397 --> 00:27:35,832
+Trying to save his daughter
+from prostitution
+
+581
+00:27:35,933 --> 00:27:37,900
+seems honorable.
+Maybe.
+
+582
+00:27:38,001 --> 00:27:39,401
+But just because a man
+
+583
+00:27:39,502 --> 00:27:41,036
+decides to make up for
+all his mistakes in one day
+
+584
+00:27:41,137 --> 00:27:42,371
+does not mean the rest
+of the world
+
+585
+00:27:42,472 --> 00:27:44,039
+is going to be so quick
+to forgive him.
+
+586
+00:27:51,247 --> 00:27:52,948
+[ Door opens ]
+
+587
+00:27:53,049 --> 00:27:54,950
+Hey, punk.
+Hey.
+
+588
+00:27:55,051 --> 00:27:57,117
+You scared me.
+Sorry. I let myself in.
+
+589
+00:27:57,219 --> 00:27:58,486
+I made some coffee.
+
+590
+00:27:58,587 --> 00:27:59,987
+[ Laughs ] What are you
+doing here, Cady?
+
+591
+00:28:00,088 --> 00:28:01,422
+You canceled on lunch and dinner,
+
+592
+00:28:01,523 --> 00:28:03,224
+and I'm just seeing
+if everything's okay.
+
+593
+00:28:03,325 --> 00:28:05,426
+Hey, I never canceled dinner.
+We never planned that.
+
+594
+00:28:05,527 --> 00:28:06,861
+Oh, okay.
+
+595
+00:28:06,962 --> 00:28:08,195
+Now, how 'bout
+I make us some pancakes?
+
+596
+00:28:08,296 --> 00:28:09,464
+No, I got to be in court.
+
+597
+00:28:09,565 --> 00:28:11,898
+What happened to your hand?
+
+598
+00:28:11,999 --> 00:28:14,434
+I hurt it.
+
+599
+00:28:14,535 --> 00:28:17,203
+This job -- you have got
+to be more careful.
+
+600
+00:28:17,304 --> 00:28:21,074
+Well, you may not have to worry
+about that much longer.
+
+601
+00:28:21,175 --> 00:28:22,876
+Branch Connally's decided
+to run against me,
+
+602
+00:28:22,977 --> 00:28:27,380
+so I might be
+out of a job soon enough.
+
+603
+00:28:27,481 --> 00:28:29,448
+Where did you get that?
+
+604
+00:28:29,549 --> 00:28:32,284
+From inside.
+
+605
+00:28:32,386 --> 00:28:34,987
+It's amazing that I found
+anything in there.
+
+606
+00:28:35,088 --> 00:28:36,522
+[ Chuckles ]
+
+607
+00:28:36,623 --> 00:28:39,792
+The place is even more of a mess
+than last time.
+
+608
+00:28:39,893 --> 00:28:42,528
+I was looking for coffee,
+and I found that.
+
+609
+00:28:42,629 --> 00:28:45,329
+You've got mom's ashes
+in the kitchen.
+
+610
+00:28:45,431 --> 00:28:47,532
+I'm worried about you, dad.
+
+611
+00:28:47,633 --> 00:28:49,534
+I think you might need some help.
+I don't need any help.
+
+612
+00:28:49,635 --> 00:28:51,235
+The house is a disaster area.
+
+613
+00:28:51,336 --> 00:28:53,070
+I'm fixing it up.
+I'm remodeling.
+
+614
+00:28:53,171 --> 00:28:55,206
+With beer cans?
+
+615
+00:28:55,307 --> 00:28:57,008
+Well, if we're not gonna
+have any breakfast,
+
+616
+00:28:57,109 --> 00:28:58,976
+I have some work to do.
+I heard about the accident,
+
+617
+00:28:59,077 --> 00:29:00,811
+and I heard that you had empties
+all over your truck.
+
+618
+00:29:00,912 --> 00:29:02,078
+I wasn't drinking.
+
+619
+00:29:02,179 --> 00:29:05,416
+I really think you need
+to talk to someone.
+
+620
+00:29:05,517 --> 00:29:07,885
+I talk to people
+all day long, Cady.
+
+621
+00:29:07,985 --> 00:29:11,755
+What I could really use
+is a break from all the talking.
+
+622
+00:29:11,856 --> 00:29:13,356
+You need to deal with this.
+
+623
+00:29:13,458 --> 00:29:15,893
+People are asking me
+where they can visit mom.
+
+624
+00:29:15,993 --> 00:29:17,327
+Scatter her ashes.
+
+625
+00:29:17,428 --> 00:29:20,263
+Put them in an urn
+at a mausoleum.
+
+626
+00:29:20,364 --> 00:29:23,066
+Put her name on a freaking
+bench, but deal with it.
+
+627
+00:29:23,167 --> 00:29:24,434
+Because I'm not gonna watch you
+just wallow in this
+
+628
+00:29:24,535 --> 00:29:25,535
+for another year.
+
+629
+00:29:25,636 --> 00:29:28,004
+You're gonna be late for court.
+
+630
+00:29:31,375 --> 00:29:32,441
+Okay.
+
+631
+00:29:41,150 --> 00:29:42,650
+[ Sniffles ]
+
+632
+00:29:49,391 --> 00:29:51,259
+Morning, Dan.
+Walt.
+
+633
+00:29:51,360 --> 00:29:53,394
+I went back five years
+in my records
+
+634
+00:29:53,495 --> 00:29:56,396
+and found some more sharps
+rifles buyers and sellers.
+
+635
+00:29:56,497 --> 00:29:58,265
+Thanks.
+
+636
+00:29:58,366 --> 00:29:59,299
+[ Sighs ]
+
+637
+00:29:59,400 --> 00:30:01,101
+Is there something else?
+
+638
+00:30:01,202 --> 00:30:02,836
+Yeah -- these sconces.
+
+639
+00:30:02,937 --> 00:30:05,405
+Consider selling 'em?
+They're not mine to sell.
+
+640
+00:30:05,506 --> 00:30:07,874
+I'll give you $800 for 'em --
+a lot more for the bookcases.
+
+641
+00:30:07,976 --> 00:30:09,343
+How'd you end up
+with such amazing pieces
+
+642
+00:30:09,444 --> 00:30:10,977
+in a sheriff's station?
+
+643
+00:30:11,078 --> 00:30:13,946
+Long time ago, this place
+used to be a library, so...
+
+644
+00:30:16,216 --> 00:30:17,883
+Vic, give me those pants.
+
+645
+00:30:17,985 --> 00:30:21,053
+If I had a dime for every time
+a man said that to me...
+
+646
+00:30:21,154 --> 00:30:22,388
+I remember why
+
+647
+00:30:22,489 --> 00:30:24,957
+the belt buckle on the pants
+looks so familiar --
+
+648
+00:30:25,058 --> 00:30:26,225
+it's from the old
+10 point ranch.
+
+649
+00:30:26,326 --> 00:30:27,592
+Never heard of it.
+
+650
+00:30:27,693 --> 00:30:30,328
+That's 'cause it's called
+the Driggs ranch now.
+
+651
+00:30:30,429 --> 00:30:32,430
+Used to be 10 point.
+Garrett: I told the sheriff
+
+652
+00:30:32,531 --> 00:30:35,000
+you all would cooperate,
+so I expect you will.
+
+653
+00:30:35,101 --> 00:30:38,403
+We found something out
+at Pronghorn Ridge trailhead.
+
+654
+00:30:38,504 --> 00:30:41,373
+And we want to return them
+to their owner.
+
+655
+00:30:41,474 --> 00:30:44,074
+Anyone recognize these?
+
+656
+00:30:44,175 --> 00:30:46,943
+No?
+
+657
+00:30:47,045 --> 00:30:48,278
+Okay.
+
+658
+00:30:48,380 --> 00:30:50,347
+Take off your pants.
+
+659
+00:30:50,448 --> 00:30:52,949
+[ Mid-tempo rock music plays ]
+
+660
+00:31:24,680 --> 00:31:26,214
+Hello, Cinderella.
+
+661
+00:31:26,315 --> 00:31:28,283
+Colton: They're wranglers.
+
+662
+00:31:28,384 --> 00:31:30,085
+They could belong to anybody
+in the state.
+
+663
+00:31:30,186 --> 00:31:32,819
+Not wearing this belt.
+
+664
+00:31:32,921 --> 00:31:35,156
+Colton, that is the buckle
+
+665
+00:31:35,257 --> 00:31:38,592
+I gave to you
+on your 21st birthday.
+
+666
+00:31:38,693 --> 00:31:41,562
+What the hell is going on?!
+
+667
+00:31:41,663 --> 00:31:43,531
+I was out there
+trying to get laid.
+
+668
+00:31:43,631 --> 00:31:45,399
+Who were you there with?
+Nobody.
+
+669
+00:31:45,500 --> 00:31:47,000
+I mean, I went out there alone.
+
+670
+00:31:47,101 --> 00:31:49,902
+Just you and a herd
+of soft, compliant sheep?
+
+671
+00:31:50,003 --> 00:31:52,405
+What? No. No.
+
+672
+00:31:52,506 --> 00:31:56,509
+My boys dared me to go out there
+'cause that's where the --
+
+673
+00:31:56,610 --> 00:31:59,845
+the girls that you pay to...
+
+674
+00:31:59,947 --> 00:32:01,147
+You mean hookers?
+
+675
+00:32:01,248 --> 00:32:03,882
+Colton, there aren't
+any prostitutes
+
+676
+00:32:03,983 --> 00:32:05,184
+anywhere near Pronghorn Ridge.
+
+677
+00:32:05,285 --> 00:32:06,918
+Well, not now.
+They moved the RV.
+
+678
+00:32:07,019 --> 00:32:08,487
+The RV?
+Yeah.
+
+679
+00:32:08,588 --> 00:32:10,255
+They move around so folks
+like you can't find 'em.
+
+680
+00:32:10,356 --> 00:32:11,523
+Hey!
+
+681
+00:32:11,624 --> 00:32:13,024
+You were with a prostitute
+in an RV?
+
+682
+00:32:13,126 --> 00:32:15,427
+Yeah, but we didn't do anything,
+all right?
+
+683
+00:32:15,528 --> 00:32:18,163
+I mean, we started -- started to
+kind of get into it, and this --
+
+684
+00:32:18,264 --> 00:32:21,132
+this big guy walked in,
+and I-I was like --
+
+685
+00:32:21,233 --> 00:32:22,533
+I was like, "Whoa,
+hang on, dude."
+
+686
+00:32:22,634 --> 00:32:24,135
+But then -- but then
+he threw me out
+
+687
+00:32:24,236 --> 00:32:25,869
+without my damn pants on.
+
+688
+00:32:25,971 --> 00:32:27,338
+Can you describe the big guy?
+
+689
+00:32:27,439 --> 00:32:28,872
+Big.
+
+690
+00:32:28,974 --> 00:32:31,041
+I didn't get
+a good look at him.
+
+691
+00:32:31,143 --> 00:32:32,443
+What about the girl?
+
+692
+00:32:37,348 --> 00:32:38,448
+[ Cellphone beeps ]
+
+693
+00:32:38,549 --> 00:32:41,118
+Told you, my friends
+wanted proof that --
+
+694
+00:32:41,219 --> 00:32:43,052
+they dared me to go out there.
+
+695
+00:32:43,154 --> 00:32:46,123
+[ Horse whinnies in distance ]
+
+696
+00:32:46,224 --> 00:32:48,558
+You say they, um...
+
+697
+00:32:48,659 --> 00:32:50,227
+They move this RV around
+
+698
+00:32:50,328 --> 00:32:52,394
+so folks like me can't find it.
+
+699
+00:32:52,496 --> 00:32:54,597
+How do folks like you
+go about finding it?
+
+700
+00:32:54,697 --> 00:32:56,499
+I don't know.
+
+701
+00:32:58,435 --> 00:32:59,901
+The girl in this photo,
+
+702
+00:33:00,003 --> 00:33:02,138
+the one you paid
+to have sex with --
+
+703
+00:33:02,239 --> 00:33:03,905
+she's 16 years old.
+
+704
+00:33:04,007 --> 00:33:07,109
+Now, that's statutory rape
+in the state of Wyoming.
+
+705
+00:33:07,209 --> 00:33:09,076
+Yeah, but I never had sex
+with her.
+
+706
+00:33:13,449 --> 00:33:16,117
+[ Sighs ]
+
+707
+00:33:24,292 --> 00:33:27,227
+You answer the damn question!
+
+708
+00:33:31,633 --> 00:33:33,801
+If you want to know
+where the RV's at,
+
+709
+00:33:33,902 --> 00:33:36,871
+go talk to the Indian
+at the red pony.
+
+710
+00:33:46,990 --> 00:33:49,458
+What the hell have you gotten
+yourself into, Henry?
+
+711
+00:33:49,560 --> 00:33:53,095
+Henry: Jukebox is broke.
+It only plays country.
+
+712
+00:33:53,196 --> 00:33:55,197
+That's not
+what I'm asking about.
+
+713
+00:34:04,139 --> 00:34:05,073
+Well, then
+I guess you better tell me
+
+714
+00:34:05,174 --> 00:34:06,507
+what you are asking about
+
+715
+00:34:06,609 --> 00:34:08,109
+so I can give you
+a better answer.
+
+716
+00:34:08,210 --> 00:34:10,745
+Are you running some kind of
+escort service out of this bar?
+
+717
+00:34:12,582 --> 00:34:14,281
+Well?
+
+718
+00:34:18,219 --> 00:34:20,554
+I'm only gonna wait so long
+for you to crack a smile, Walt,
+
+719
+00:34:20,655 --> 00:34:22,723
+then I'm gonna have to assume
+that you're not kidding.
+
+720
+00:34:29,263 --> 00:34:30,897
+I asked you
+a very simple question.
+
+721
+00:34:30,998 --> 00:34:33,199
+No. You asked me
+a very confusing question.
+
+722
+00:34:33,300 --> 00:34:34,767
+Really?
+
+723
+00:34:34,868 --> 00:34:36,535
+'Cause I was just talking
+to a young man
+
+724
+00:34:36,637 --> 00:34:37,770
+who gave me some inside info.
+
+725
+00:34:37,871 --> 00:34:39,038
+Said if you're looking
+
+726
+00:34:39,139 --> 00:34:41,107
+for female company
+in Absaroka county
+
+727
+00:34:41,208 --> 00:34:43,209
+and you were willing
+to pay for the pleasure,
+
+728
+00:34:43,310 --> 00:34:46,444
+you should go to the red pony
+and talk to the Indian.
+
+729
+00:34:46,545 --> 00:34:51,750
+So...38 years, then.
+
+730
+00:34:51,851 --> 00:34:54,987
+We have known each other
+for 37 years,
+
+731
+00:34:55,088 --> 00:34:57,055
+so 38 years must be
+how long you have to be
+
+732
+00:34:57,156 --> 00:34:59,157
+Walt Longmire's friend
+before he trusts you.
+
+733
+00:34:59,258 --> 00:35:03,393
+I'm trying to find the person
+that murdered Grant Parkford,
+
+734
+00:35:03,495 --> 00:35:05,896
+and I'm pretty sure
+whoever that is
+
+735
+00:35:05,998 --> 00:35:08,532
+will lead me
+to that missing girl.
+
+736
+00:35:08,634 --> 00:35:12,069
+Well, you better
+get going, then.
+
+737
+00:35:22,880 --> 00:35:24,480
+[ Gun cocks ]
+
+738
+00:35:24,581 --> 00:35:25,782
+I managed to get my hands
+on Charles Burnett's gun
+
+739
+00:35:25,883 --> 00:35:27,483
+by talking
+to the tribal police.
+
+740
+00:35:27,584 --> 00:35:29,853
+They were happy to help.
+
+741
+00:35:29,954 --> 00:35:31,988
+I served a search warrant,
+got the rifle,
+
+742
+00:35:32,089 --> 00:35:34,123
+plus a box
+of old black-powder shells.
+
+743
+00:35:39,863 --> 00:35:41,096
+This is not the murder weapon.
+
+744
+00:35:41,197 --> 00:35:42,998
+[ Snickers ]
+How can you tell?
+
+745
+00:35:43,099 --> 00:35:46,168
+We didn't even get a chance
+to run the ballistics tests.
+
+746
+00:36:01,483 --> 00:36:02,884
+[ Click ]
+
+747
+00:36:02,985 --> 00:36:04,052
+There.
+
+748
+00:36:04,153 --> 00:36:06,119
+We just did a ballistics test.
+
+749
+00:36:06,220 --> 00:36:08,655
+If you don't clean these rifles
+that use black-powder shells,
+
+750
+00:36:08,756 --> 00:36:10,791
+the black powder
+corrodes the metal.
+
+751
+00:36:10,892 --> 00:36:12,726
+This weapon's a mess.
+
+752
+00:36:12,827 --> 00:36:14,828
+Unlock him, Ferg.
+
+753
+00:36:17,832 --> 00:36:19,566
+See him to the door.
+
+754
+00:36:31,777 --> 00:36:33,411
+You didn't have to do that.
+
+755
+00:36:33,512 --> 00:36:35,947
+You didn't have to make
+a big deal out of it
+
+756
+00:36:36,048 --> 00:36:37,515
+in front of everybody.
+
+757
+00:36:37,616 --> 00:36:40,618
+You know, Walt, I haven't
+made a big deal
+
+758
+00:36:40,720 --> 00:36:43,454
+over you not showing up
+for work, calling in sick,
+
+759
+00:36:43,555 --> 00:36:45,022
+or just sitting in here
+reading a book
+
+760
+00:36:45,123 --> 00:36:46,724
+while the rest of us
+cover for you.
+
+761
+00:36:46,825 --> 00:36:48,425
+Sounds like
+you're already writing
+
+762
+00:36:48,526 --> 00:36:51,595
+negative campaign ads.
+
+763
+00:36:51,696 --> 00:36:55,432
+I saw the sign, Branch.
+Nice photo.
+
+764
+00:36:55,533 --> 00:36:57,735
+They weren't supposed to go up
+till I talked to you.
+
+765
+00:36:57,836 --> 00:37:00,503
+You really think you're the man
+for this job, Branch?
+
+766
+00:37:00,605 --> 00:37:04,073
+I'll leave that
+up to the people.
+
+767
+00:37:04,174 --> 00:37:07,076
+But given a choice
+between some fresh thinking
+
+768
+00:37:07,177 --> 00:37:08,845
+and a tired, absentee sheriff
+
+769
+00:37:08,946 --> 00:37:10,613
+driving around
+with empty beer cans
+
+770
+00:37:10,714 --> 00:37:12,115
+all over
+the floor of his truck,
+
+771
+00:37:12,216 --> 00:37:15,885
+I like my odds.
+
+772
+00:37:15,986 --> 00:37:17,219
+I heard about
+your little accident.
+
+773
+00:37:19,588 --> 00:37:23,625
+I'm sorry I embarrassed you
+back there, Branch.
+
+774
+00:37:23,726 --> 00:37:27,595
+But before you start
+spreading any accusations,
+
+775
+00:37:27,696 --> 00:37:29,731
+consider this.
+
+776
+00:37:29,832 --> 00:37:32,100
+Every man that's ever
+had a beer with me
+
+777
+00:37:32,201 --> 00:37:34,034
+will tell you the same thing.
+
+778
+00:37:34,136 --> 00:37:36,137
+I drink rainier.
+
+779
+00:37:36,238 --> 00:37:39,140
+Always have, always will.
+
+780
+00:37:39,241 --> 00:37:40,474
+Those beer cans?
+
+781
+00:37:40,575 --> 00:37:42,777
+They weren't rainier,
+none of 'em.
+
+782
+00:37:42,878 --> 00:37:46,680
+I picked 'em up 'cause
+I hate looking at litter.
+
+783
+00:37:46,782 --> 00:37:48,048
+Everyone knows that, too.
+
+784
+00:37:48,150 --> 00:37:50,650
+"Hound of the Baskervilles,"
+Sherlock Holmes.
+
+785
+00:37:50,751 --> 00:37:52,152
+If you're gonna be sheriff,
+
+786
+00:37:52,253 --> 00:37:55,188
+you need to start brushing up
+on your detective work, son.
+
+787
+00:37:58,159 --> 00:37:59,993
+[ Knock on door ]
+Ruby: Sheriff?
+
+788
+00:38:00,094 --> 00:38:01,460
+Susan Parkford.
+
+789
+00:38:01,561 --> 00:38:03,129
+Of course.
+
+790
+00:38:03,230 --> 00:38:05,497
+Susan: Am I interrupting?
+
+791
+00:38:05,598 --> 00:38:07,632
+No. No, no. I'm sorry.
+You told me to --
+
+792
+00:38:07,733 --> 00:38:10,735
+Official I.D.
+
+793
+00:38:10,837 --> 00:38:12,671
+I just want to see the body.
+
+794
+00:38:12,772 --> 00:38:13,806
+Of course.
+
+795
+00:38:13,907 --> 00:38:17,709
+I-I, uh, I also need
+to apologize.
+
+796
+00:38:17,811 --> 00:38:19,778
+For what?
+
+797
+00:38:19,879 --> 00:38:23,547
+The other day, um...
+
+798
+00:38:23,648 --> 00:38:25,582
+I also know what it's like
+to lose someone.
+
+799
+00:38:25,684 --> 00:38:28,385
+This is
+the one-year anniversary
+
+800
+00:38:28,486 --> 00:38:30,421
+of my own wife's passing.
+
+801
+00:38:30,522 --> 00:38:31,689
+The day I visited you,
+
+802
+00:38:31,790 --> 00:38:32,690
+I tried to put that
+out of my mind,
+
+803
+00:38:32,791 --> 00:38:33,691
+and you opened the door.
+
+804
+00:38:33,792 --> 00:38:34,892
+I smelled perfume.
+
+805
+00:38:34,993 --> 00:38:37,627
+Jo Malone?
+
+806
+00:38:38,896 --> 00:38:40,931
+That's what my wife wore.
+
+807
+00:38:41,032 --> 00:38:44,667
+And I only hope I didn't
+make the situation worse.
+
+808
+00:38:44,768 --> 00:38:46,803
+Was he having an affair?
+
+809
+00:38:46,904 --> 00:38:48,471
+I can handle it.
+
+810
+00:38:48,572 --> 00:38:51,507
+I mean, knowing is better
+than not knowing, so, please.
+
+811
+00:38:51,608 --> 00:38:54,109
+Your husband
+wasn't having an affair,
+
+812
+00:38:54,211 --> 00:38:56,712
+but I discovered
+something else.
+
+813
+00:38:56,813 --> 00:39:00,515
+Long before he married you
+or even met you,
+
+814
+00:39:00,616 --> 00:39:02,684
+your husband had a daughter.
+
+815
+00:39:02,785 --> 00:39:03,919
+Now, she's gone missing,
+
+816
+00:39:04,020 --> 00:39:06,421
+and Grant was trying
+to help find her.
+
+817
+00:39:06,522 --> 00:39:07,689
+Grant had a daughter?
+
+818
+00:39:12,661 --> 00:39:15,596
+[ Sobs ]
+
+819
+00:39:18,667 --> 00:39:21,602
+Your husband was just a man.
+
+820
+00:39:21,703 --> 00:39:22,670
+We're all idiots.
+
+821
+00:39:22,771 --> 00:39:24,438
+We make mistakes,
+
+822
+00:39:24,539 --> 00:39:26,740
+and we don't like people
+knowing about our mistakes.
+
+823
+00:39:26,841 --> 00:39:28,842
+But Grant was one
+of the good ones.
+
+824
+00:39:28,943 --> 00:39:30,677
+He was trying
+to make things right,
+
+825
+00:39:30,778 --> 00:39:32,880
+and he was trying to do it
+without hurting you.
+
+826
+00:39:32,981 --> 00:39:34,826
+Mrs. Parkford, I swear,
+
+827
+00:39:34,946 --> 00:39:36,689
+I'm gonna find out who did this
+to your husband.
+
+828
+00:39:38,652 --> 00:39:40,887
+[ Voice breaking ]
+Does it ever stop hurting?
+
+829
+00:39:42,964 --> 00:39:44,656
+Not really.
+
+830
+00:39:44,758 --> 00:39:46,158
+[ Sniffles ]
+
+831
+00:39:46,260 --> 00:39:50,029
+I guess the only way
+it could ever stop hurting --
+
+832
+00:39:50,130 --> 00:39:53,032
+if we could forget about 'em.
+
+833
+00:39:53,133 --> 00:39:56,535
+And that's the thing, 'cause...
+
+834
+00:39:56,636 --> 00:39:59,070
+I don't want
+to forget anything.
+
+835
+00:40:03,609 --> 00:40:05,810
+[ Dogs barking ]
+
+836
+00:40:10,654 --> 00:40:14,622
+Bob: Okay. Present.
+Present. Okay.
+
+837
+00:40:14,723 --> 00:40:15,757
+[ Door opens ]
+
+838
+00:40:15,858 --> 00:40:17,859
+Hey, Bob, a couple questions
+
+839
+00:40:17,961 --> 00:40:19,661
+I forgot to ask you
+the other day.
+
+840
+00:40:19,762 --> 00:40:22,064
+I don't like
+to forget anything.
+
+841
+00:40:22,165 --> 00:40:25,233
+I don't know if this
+is really a good time.
+
+842
+00:40:30,921 --> 00:40:32,473
+Come on in.
+
+843
+00:40:32,574 --> 00:40:35,776
+[ Laughs ]
+
+844
+00:40:35,877 --> 00:40:39,613
+[ Laughing ]
+So -- so, Bob,
+
+845
+00:40:39,714 --> 00:40:41,682
+you and your son weren't
+really hunting the other day,
+
+846
+00:40:41,783 --> 00:40:42,850
+were you?
+
+847
+00:40:42,951 --> 00:40:44,250
+[ Chuckles ]
+
+848
+00:40:44,352 --> 00:40:45,785
+I know about the mobile brothel
+
+849
+00:40:45,886 --> 00:40:47,653
+that was parked out there.
+
+850
+00:40:47,754 --> 00:40:50,190
+What are you --
+
+851
+00:40:50,291 --> 00:40:53,926
+Bob, there's no crime
+against being an idiot.
+
+852
+00:40:54,028 --> 00:40:57,130
+But lying about it --
+that can be a problem.
+
+853
+00:40:57,231 --> 00:40:59,565
+Okay.
+
+854
+00:40:59,666 --> 00:41:02,834
+Well, we really intended
+to go hunting,
+
+855
+00:41:02,935 --> 00:41:05,937
+and -- and then we saw the RV
+and changed our plan.
+
+856
+00:41:06,039 --> 00:41:10,775
+We, uh, came back into town
+and hit the ATM,
+
+857
+00:41:10,877 --> 00:41:12,744
+then we -- we headed
+back out there
+
+858
+00:41:12,845 --> 00:41:14,813
+to spend a little time
+with the ladies.
+
+859
+00:41:14,914 --> 00:41:17,448
+How did you know, just from looking
+at the RV, it was a brothel?
+
+860
+00:41:17,549 --> 00:41:20,818
+Oh, man, we know that RV.
+
+861
+00:41:20,919 --> 00:41:23,621
+The old one with the
+red-white-and-blue stripe on the side.
+
+862
+00:41:23,722 --> 00:41:27,558
+When it ain't out working,
+it's parked here.
+
+863
+00:41:27,659 --> 00:41:28,759
+Who owns it?
+
+864
+00:41:28,860 --> 00:41:30,895
+I don't know.
+
+865
+00:41:30,996 --> 00:41:32,962
+Ah.
+
+866
+00:41:35,233 --> 00:41:39,636
+A Ch-- a Cheyenne kid.
+
+867
+00:41:39,737 --> 00:41:40,837
+His name's Avo.
+
+868
+00:41:40,938 --> 00:41:42,739
+Any idea
+where I might find him?
+
+869
+00:41:42,840 --> 00:41:44,074
+He's usually working.
+
+870
+00:41:44,175 --> 00:41:47,010
+He's a busboy over
+at the red pony like that.
+
+871
+00:41:49,879 --> 00:41:51,914
+[ Animal howls ]
+
+872
+00:42:16,539 --> 00:42:18,173
+[ Clears throat ]
+
+873
+00:42:23,044 --> 00:42:24,644
+Wow.
+
+874
+00:42:24,745 --> 00:42:26,813
+A roadblock.
+
+875
+00:42:26,914 --> 00:42:28,482
+This seems like overkill.
+
+876
+00:42:28,583 --> 00:42:30,951
+You could have just called
+to apologize.
+
+877
+00:42:31,052 --> 00:42:33,853
+Hello, Henry.
+
+878
+00:42:33,955 --> 00:42:37,123
+I have a name for you,
+plus three other matters.
+
+879
+00:42:37,224 --> 00:42:38,524
+Is "Avo" the name?
+
+880
+00:42:38,625 --> 00:42:42,161
+The other Indian
+at the red pony.
+
+881
+00:42:44,998 --> 00:42:46,799
+Avo's the owner of the RV
+
+882
+00:42:46,900 --> 00:42:49,735
+these girls have been
+working out of.
+
+883
+00:42:49,836 --> 00:42:51,471
+What are the three
+other things?
+
+884
+00:42:51,572 --> 00:42:53,505
+First,
+
+885
+00:42:53,606 --> 00:42:55,474
+while I could not find
+Avo myself,
+
+886
+00:42:55,575 --> 00:42:57,008
+we spoke through a cousin.
+
+887
+00:42:57,110 --> 00:42:59,944
+Avo will meet you tomorrow
+morning, 11:00 am.
+
+888
+00:43:00,045 --> 00:43:01,646
+There is an old, empty cabin
+
+889
+00:43:01,747 --> 00:43:03,515
+about three miles
+off the highway
+
+890
+00:43:03,616 --> 00:43:05,484
+near the South entrance
+of the res.
+
+891
+00:43:05,585 --> 00:43:09,420
+Second -- I do not think
+you should go.
+
+892
+00:43:09,521 --> 00:43:10,754
+It sounds like a setup,
+
+893
+00:43:10,855 --> 00:43:11,955
+and there's already
+one dead white guy.
+
+894
+00:43:12,056 --> 00:43:13,757
+What's the third thing?
+
+895
+00:43:13,858 --> 00:43:17,060
+Since you will no doubt ignore
+me and go meet Avo anyway,
+
+896
+00:43:17,162 --> 00:43:18,962
+I would like to propose
+an O.I.T.
+
+897
+00:43:19,063 --> 00:43:21,465
+O.I.T.?
+
+898
+00:43:21,566 --> 00:43:23,967
+Old Indian trick.
+
+899
+00:43:24,068 --> 00:43:27,003
+[ Laughs ]
+
+900
+00:43:48,302 --> 00:43:49,315
+Morning, Avo.
+
+901
+00:43:49,435 --> 00:43:51,028
+[ Gasps ]
+
+902
+00:43:52,028 --> 00:43:52,902
+You're early.
+
+903
+00:43:53,152 --> 00:43:54,620
+Old Indian trick.
+
+904
+00:43:54,721 --> 00:43:56,755
+Surprise is a powerful weapon.
+
+905
+00:43:56,856 --> 00:43:59,724
+Speaking of which,
+would you mind telling me
+
+906
+00:43:59,825 --> 00:44:02,376
+why you came three hours early
+to your own meeting?
+
+907
+00:44:02,614 --> 00:44:06,097
+And if you can tell me unarmed,
+I'd appreciate that.
+
+908
+00:44:07,633 --> 00:44:11,102
+Sheriff,
+I didn't kill that guy.
+
+909
+00:44:11,203 --> 00:44:12,503
+You got to help me.
+
+910
+00:44:12,604 --> 00:44:13,970
+Let's talk.
+
+911
+00:44:14,071 --> 00:44:18,509
+The dead guy --
+I met him a couple times.
+
+912
+00:44:18,610 --> 00:44:19,910
+He came into the red pony.
+
+913
+00:44:20,011 --> 00:44:21,912
+Said he was looking
+to get laid.
+
+914
+00:44:22,013 --> 00:44:25,783
+Everybody knows
+if you want to get laid,
+
+915
+00:44:25,884 --> 00:44:29,919
+you talk to the Indian
+at the red pony.
+
+916
+00:44:30,020 --> 00:44:31,454
+What did you do?
+
+917
+00:44:31,555 --> 00:44:34,557
+I sent him to the girls.
+That was a mistake.
+
+918
+00:44:34,658 --> 00:44:36,426
+I heard later
+he was freaking out
+
+919
+00:44:36,527 --> 00:44:37,560
+when he got to the RV,
+
+920
+00:44:37,661 --> 00:44:39,194
+yelling and waving
+a gun around.
+
+921
+00:44:39,296 --> 00:44:41,898
+So when he came back the other
+day, I said, "No way, man."
+
+922
+00:44:41,998 --> 00:44:44,699
+He came back after causing
+a scene like that?
+
+923
+00:44:44,801 --> 00:44:47,736
+He apologized and said
+he was upset the first time
+
+924
+00:44:47,837 --> 00:44:51,105
+'cause what he was really
+looking for was an Indian girl.
+
+925
+00:44:51,206 --> 00:44:52,874
+Guess that's his thing.
+
+926
+00:44:52,975 --> 00:44:55,444
+He wanted to poke a Pocahontas.
+
+927
+00:44:55,545 --> 00:44:58,079
+Anyway, I didn't want a problem
+with that crazy guy,
+
+928
+00:44:58,180 --> 00:44:59,547
+so I told him where to go,
+
+929
+00:44:59,648 --> 00:45:01,081
+but I called it in right away.
+
+930
+00:45:01,182 --> 00:45:03,551
+I told them,
+"Better move the RV."
+
+931
+00:45:03,652 --> 00:45:05,586
+I didn't know
+he was gonna kill him.
+
+932
+00:45:05,687 --> 00:45:06,687
+I swear.
+
+933
+00:45:06,788 --> 00:45:07,855
+Who is "he"?
+
+934
+00:45:09,825 --> 00:45:16,062
+Avo, whoever "he" is,
+is trying to frame you.
+
+935
+00:45:16,163 --> 00:45:18,765
+Now, the only way
+I can protect you
+
+936
+00:45:18,866 --> 00:45:21,067
+is if you tell me
+who you're working for.
+
+937
+00:45:21,168 --> 00:45:22,435
+Understand?
+
+938
+00:45:22,536 --> 00:45:24,637
+[ Sighs ]
+I don't know, man.
+
+939
+00:45:24,738 --> 00:45:26,138
+[ Gunshot, glass breaks ]
+Ugh!
+
+940
+00:45:35,247 --> 00:45:37,950
+Who's out there?
+Who is it?
+
+941
+00:45:38,050 --> 00:45:39,618
+I'm sorry.
+
+942
+00:45:54,065 --> 00:45:55,633
+[ Door hinges creak ]
+
+943
+00:45:58,904 --> 00:46:05,575
+1, 2, 3, 4, 5.
+
+944
+00:46:05,676 --> 00:46:08,077
+[ Gunshot ]
+
+945
+00:46:08,178 --> 00:46:13,850
+1, 2, 3, 4, 5.
+
+946
+00:46:13,951 --> 00:46:15,485
+[ Gunshot ]
+
+947
+00:46:16,888 --> 00:46:21,657
+1, 2, 3, 4, 5.
+
+948
+00:46:21,758 --> 00:46:23,091
+[ Gunshot ]
+
+949
+00:46:27,063 --> 00:46:29,097
+[ Birds chirping ]
+
+950
+00:47:40,832 --> 00:47:42,432
+You weren't supposed to
+be here.
+
+951
+00:47:42,533 --> 00:47:43,834
+I'm doing my job, Dan.
+
+952
+00:47:43,935 --> 00:47:45,569
+You got to help me, Walt.
+
+953
+00:47:45,670 --> 00:47:48,405
+Help me.
+Call an ambulance.
+
+954
+00:47:48,506 --> 00:47:50,708
+After you tell me
+about Grant Parkford.
+
+955
+00:47:50,809 --> 00:47:52,843
+Who?
+
+956
+00:47:52,944 --> 00:47:54,111
+I'm a patient man.
+
+957
+00:47:54,212 --> 00:47:56,646
+I was just trying
+to make a living.
+
+958
+00:47:56,747 --> 00:48:00,583
+That man was bad for business.
+
+959
+00:48:00,684 --> 00:48:02,518
+I warned him.
+I swear.
+
+960
+00:48:02,620 --> 00:48:03,820
+I did, all right?
+
+961
+00:48:03,921 --> 00:48:05,855
+Now call me an ambulance!
+
+962
+00:48:05,956 --> 00:48:08,457
+And Lilly, Grant's daughter?
+
+963
+00:48:08,558 --> 00:48:09,626
+Tell me where Lilly is.
+
+964
+00:48:09,727 --> 00:48:12,728
+If not, I bury you here.
+
+965
+00:48:12,829 --> 00:48:17,499
+[ Panting ] Okay. Okay.
+
+966
+00:48:17,600 --> 00:48:21,903
+Montana, Talmer Ridge,
+off route 43.
+
+967
+00:48:25,942 --> 00:48:28,075
+Where are you going, Walt?
+
+968
+00:48:28,176 --> 00:48:29,710
+Walt!
+
+969
+00:48:29,811 --> 00:48:31,874
+Call me an ambulance!
+
+970
+00:48:32,287 --> 00:48:34,181
+I don't have a cellphone.
+
+971
+00:48:36,584 --> 00:48:38,085
+[ Police radio chatter ]
+
+972
+00:48:43,824 --> 00:48:46,159
+[ Slow rock music plays ]
+
+973
+00:50:08,270 --> 00:50:09,938
+[ Bird caws ]
+
+974
+00:50:17,512 --> 00:50:19,813
+[ Staple gun clicks twice ]
+
+975
+00:51:28,002 --> 00:51:38,468
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+

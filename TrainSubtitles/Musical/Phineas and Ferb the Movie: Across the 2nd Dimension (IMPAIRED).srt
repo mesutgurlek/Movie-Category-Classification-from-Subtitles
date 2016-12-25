@@ -1,0 +1,7632 @@
+﻿1
+00:00:03,738 --> 00:00:04,737
+        (LAVA BUBBLING)
+
+2
+00:00:31,799 --> 00:00:33,165
+           (ROARING)
+
+3
+00:00:36,537 --> 00:00:38,387
+ I'll be honest, Ferb.
+
+4
+00:00:38,388 --> 00:00:40,238
+ I'm having a hard time
+ putting a positive spin
+ on this.
+
+5
+00:00:40,241 --> 00:00:41,940
+  But I guess
+  that's life, huh?
+
+6
+00:00:41,942 --> 00:00:44,460
+  One minute,
+  you're having
+  the best day ever,
+
+7
+00:00:44,461 --> 00:00:46,979
+ the next, you're being fed
+ to a monster the size of
+ a two-car garage.
+
+8
+00:00:46,981 --> 00:00:50,649
+          Yeah? Well,
+          welcome to my life.
+
+9
+00:00:50,651 --> 00:00:54,219
+  Huh. And everything
+  started out so well
+  this morning.
+
+10
+00:01:15,076 --> 00:01:15,674
+        (CHATTERING)
+
+11
+00:01:17,711 --> 00:01:18,911
+      Good morning, Perry.
+
+12
+00:01:18,913 --> 00:01:21,080
+ Now that's the way
+ to wake up.
+
+13
+00:01:21,082 --> 00:01:22,581
+      This is gonna be
+      the best day ever.
+
+14
+00:01:22,583 --> 00:01:25,984
+        <i> ♪ We consider</i>
+        <i> every day a plus</i>
+
+15
+00:01:25,986 --> 00:01:28,620
+        <i> ♪ To spend it</i>
+        <i> with a platypus</i>
+
+16
+00:01:28,622 --> 00:01:33,258
+    <i> ♪ We're always so</i>
+    <i> ecstatic</i>
+    <i> 'Cause he's semi-aquatic</i>
+
+17
+00:01:33,260 --> 00:01:35,961
+     <i> ♪ Our Ornithorhynchus</i>
+     <i> anatinus</i>
+
+18
+00:01:35,963 --> 00:01:39,632
+       <i> ♪ Brings smiles</i>
+       <i> to the both of us</i>
+
+19
+00:01:39,633 --> 00:01:43,302
+         <i> ♪ Life's never</i>
+          <i> fuddy-duddy</i>
+   <i> With our web-footed buddy</i>
+
+20
+00:01:43,304 --> 00:01:45,003
+          <i> ♪ When we're</i>
+       <i> brushing our teeth</i>
+          <i> It's better</i>
+
+21
+00:01:45,005 --> 00:01:48,273
+       <i> ♪ Tying our shoes</i>
+       <i> It's better</i>
+
+22
+00:01:48,275 --> 00:01:50,742
+       <i> ♪ Combing our hair</i>
+       <i> It's better</i>
+
+23
+00:01:50,744 --> 00:01:53,212
+     <i> ♪ Like we're a cheese</i>
+     <i> sandwich</i>
+     <i> And he's the cheddar</i>
+
+24
+00:01:53,214 --> 00:01:55,781
+      <i> ♪ Blinking our eyes</i>
+      <i> It's better</i>
+
+25
+00:01:55,783 --> 00:01:58,083
+     <i> ♪ Breathing in and out</i>
+     <i> So much better</i>
+
+26
+00:01:58,085 --> 00:02:00,619
+      <i> ♪ Sitting in a chair</i>
+      <i> It's better</i>
+
+27
+00:02:00,621 --> 00:02:03,255
+    <i> ♪ And taking a bath</i>
+    <i> Just a little bit wetter</i>
+
+28
+00:02:03,257 --> 00:02:07,993
+     <i> ♪ Every day is such a</i>
+     <i> dream</i>
+     <i> When it's started with</i>
+     <i> a monotreme</i>
+
+29
+00:02:07,995 --> 00:02:11,663
+     <i> ♪ He's duck-billed</i>
+     <i> and he's beaver-tailed</i>
+     <i> and hairy</i>
+
+30
+00:02:11,665 --> 00:02:12,798
+      <i> ♪ You know that he's</i>
+             <i> hairy</i>
+
+31
+00:02:12,800 --> 00:02:16,135
+     <i> ♪ Everything's better</i>
+     <i> with Perry</i>
+
+32
+00:02:16,137 --> 00:02:18,637
+     <i> ♪ Everything's better</i>
+     <i> with Perry</i>
+
+33
+00:02:18,639 --> 00:02:20,906
+     <i> ♪ Everything's better</i>
+     <i> with Perry</i>
+
+34
+00:02:20,908 --> 00:02:23,342
+     <i> ♪ Everything's better</i>
+     <i> with Perry</i>
+
+35
+00:02:23,344 --> 00:02:25,578
+     <i> ♪ Everything's better</i>
+     <i> with Perry</i>
+
+36
+00:02:25,579 --> 00:02:27,813
+    <i> ♪ Everything's</i>
+    <i> better with Perry</i>
+    <i> Everything's better with</i>
+    <i> Perry</i>
+
+37
+00:02:27,815 --> 00:02:33,152
+       <i> ♪ It's better</i>
+       <i> And we just want</i>
+       <i> to tell you, Perry</i>
+
+38
+00:02:33,154 --> 00:02:36,054
+     <i> ♪ Everything's better</i>
+     <i> with you</i>
+
+39
+00:02:36,056 --> 00:02:37,256
+      <i> ♪ Better with you ♪</i>
+
+40
+00:02:37,258 --> 00:02:39,224
+          (CHATTERING)
+
+41
+00:02:39,226 --> 00:02:40,726
+          Good morning, boys.
+
+42
+00:02:40,728 --> 00:02:42,327
+      Happy anniversary, Perry.
+
+43
+00:02:42,329 --> 00:02:45,664
+         Oh, that's right!
+         Gosh. I can't believe
+         it's been five years.
+
+44
+00:02:45,666 --> 00:02:47,299
+       I remember the day
+       we first got you.
+
+45
+00:02:48,836 --> 00:02:51,003
+ Come on, kids.
+ Pick out any pet you want.
+
+46
+00:02:51,005 --> 00:02:53,839
+  Look, Phineas,
+    this one's
+ looking at you!
+
+47
+00:02:53,841 --> 00:02:55,140
+          And this one's
+          looking at you, Ferb.
+
+48
+00:02:57,344 --> 00:02:59,211
+      Why won't anything
+      look at me?
+
+49
+00:02:59,212 --> 00:03:01,079
+  Ferb! This one's looking
+             at
+   both of us at the same
+           time.
+
+50
+00:03:01,081 --> 00:03:03,315
+         (CHATTERING)
+
+51
+00:03:04,685 --> 00:03:06,285
+ That thing?
+ You're kidding, right?
+
+52
+00:03:06,287 --> 00:03:08,053
+              Is there something
+              I can do for you?
+
+53
+00:03:08,054 --> 00:03:09,820
+   Yes. We'd like
+   that one, please.
+
+54
+00:03:09,823 --> 00:03:11,723
+            You'd like to adopt
+            a platypus?
+
+55
+00:03:11,725 --> 00:03:13,091
+ Is that what it is?
+ Well, yes.
+
+56
+00:03:13,093 --> 00:03:15,077
+ May we have him, please?
+                  Okay.
+
+57
+00:03:15,078 --> 00:03:17,062
+      What would you even
+      name a platypus?
+
+58
+00:03:17,064 --> 00:03:19,698
+    PHINEAS: <i> Of course,</i>
+    <i> Ferb and I knew exactly</i>
+    <i> what to call you.</i>
+
+59
+00:03:19,700 --> 00:03:21,066
+       BOTH: Bartholemew!
+
+60
+00:03:21,068 --> 00:03:22,801
+         (CHATTERING)
+
+61
+00:03:22,803 --> 00:03:24,336
+        And then when
+        we got you home,
+
+62
+00:03:24,338 --> 00:03:27,339
+      we renamed you Perry
+      and gave you this locket.
+
+63
+00:03:27,341 --> 00:03:29,708
+                 Look how young
+                 we all were.
+
+64
+00:03:29,710 --> 00:03:31,276
+          Hey, Jeremy.
+          You wanna go
+          to the mall?
+
+65
+00:03:31,278 --> 00:03:33,178
+  You know, I'd love to,
+
+66
+00:03:33,180 --> 00:03:36,081
+ but my dad's taking me
+ to check out his old
+ college today.
+
+67
+00:03:36,082 --> 00:03:38,983
+           Booyah! Go Polecats!
+           Booyah!
+
+68
+00:03:38,986 --> 00:03:41,153
+    He's already set up
+     an interview with
+    an academic advisor.
+
+69
+00:03:41,155 --> 00:03:43,105
+  Can you believe that?
+
+70
+00:03:43,106 --> 00:03:45,056
+        Gee, Jeremy, I forgot
+        you're a whole year
+        older than me.
+
+71
+00:03:45,059 --> 00:03:47,392
+      A trip to college?
+      That's...
+      That's really great.
+
+72
+00:03:47,394 --> 00:03:51,830
+           Okay, well,
+           I'll talk to
+           you later. Bye.
+
+73
+00:03:51,832 --> 00:03:54,132
+        Oh, Jeremy!
+        In the blink of an eye,
+
+74
+00:03:54,134 --> 00:03:55,434
+      you'll be moving on
+      to the next phase
+      of your life.
+
+75
+00:03:55,436 --> 00:03:58,203
+        <i> You'll be</i>
+        <i> going to college</i>
+
+76
+00:03:58,205 --> 00:04:00,339
+   <i> and wearing tweed jackets</i>
+   <i> with patches on the</i>
+   <i> elbows.</i>
+
+77
+00:04:00,341 --> 00:04:02,774
+      <i> You'll be so mature.</i>
+
+78
+00:04:02,776 --> 00:04:04,843
+        And look at me.
+        I'm a child!
+
+79
+00:04:04,845 --> 00:04:06,578
+      Jeremy, you'll see.
+      I can mature.
+
+80
+00:04:06,579 --> 00:04:08,312
+         Starting with taking
+        this silly photo off.
+
+81
+00:04:08,315 --> 00:04:12,317
+      (GASPS) Mr. Miggins!
+      Have you been there
+      the whole time?
+
+82
+00:04:12,319 --> 00:04:14,486
+        All right, looks like
+        the pitcher's ready.
+        And batter up!
+
+83
+00:04:17,191 --> 00:04:18,790
+        Batter, batter,
+         batter, swing!
+
+84
+00:04:18,792 --> 00:04:21,059
+           Yes, sports fans,
+
+85
+00:04:21,061 --> 00:04:23,278
+       that may be the best hit
+       ever in the history of
+       platypult baseball.
+
+86
+00:04:23,279 --> 00:04:25,496
+     And the crowd exhales
+     loudly
+     through their mouths.
+
+87
+00:04:25,499 --> 00:04:27,199
+          (MIMICS CROWD ROARING)
+
+88
+00:04:29,937 --> 00:04:32,971
+             And Fletcher
+             snags the pop fly.
+             He's out!
+
+89
+00:04:32,973 --> 00:04:35,190
+           Hi, Phineas!
+           What you doing?
+
+90
+00:04:35,191 --> 00:04:37,408
+         Turning Perry's
+         involuntary reflex
+         into a sporting event.
+
+91
+00:04:37,411 --> 00:04:39,411
+          Hi, Perry, can I try?
+
+92
+00:04:39,413 --> 00:04:41,780
+           Whoa, momma!
+           Nice shot, Isabella.
+
+93
+00:04:41,782 --> 00:04:43,248
+         Did someone
+         lose a ball?
+
+94
+00:04:43,250 --> 00:04:44,816
+  Yeah, we were just
+  playing platypult.
+
+95
+00:04:44,818 --> 00:04:46,418
+  I love
+  platypus-themed sports.
+
+96
+00:04:46,419 --> 00:04:48,019
+     You know,
+     if we had two Perrys,
+
+97
+00:04:48,022 --> 00:04:50,222
+       we could put a net
+       between them
+
+98
+00:04:50,224 --> 00:04:52,391
+           and play
+     platypult badminton.
+           Who's Annette?
+
+99
+00:04:52,393 --> 00:04:54,293
+       Ferb, that's it!
+      I know what we're
+       gonna do today.
+
+100
+00:04:54,295 --> 00:04:55,861
+             No, seriously.
+             Who's Annette?
+
+101
+00:04:57,865 --> 00:05:00,032
+        Okay, everyone,
+        I think the tail
+        is all set.
+
+102
+00:05:00,034 --> 00:05:01,433
+       I'll just go check
+       with the foreman.
+
+103
+00:05:01,435 --> 00:05:02,567
+                     He's gone!
+
+104
+00:05:02,569 --> 00:05:04,036
+            Hey, where's Perry?
+
+105
+00:05:04,038 --> 00:05:07,572
+ Did he really slip away?
+ On his anniversary?
+
+106
+00:05:07,574 --> 00:05:09,241
+       Sometimes it seems
+      like Perry's missed
+
+107
+00:05:09,243 --> 00:05:12,411
+    every single cool thing
+    we've done all summer
+    long.
+
+108
+00:05:12,413 --> 00:05:14,313
+       I guess he can do
+       whatever he wants.
+
+109
+00:05:14,314 --> 00:05:16,214
+      After all,
+      it's his day, right?
+
+110
+00:05:16,216 --> 00:05:18,250
+ (STONE CLATTERS)
+         Hey, what was
+       that small noise?
+
+111
+00:05:18,252 --> 00:05:20,218
+ Let's all go
+ walk over to it.
+
+112
+00:05:30,564 --> 00:05:33,098
+ <i> Good morning, Agent P.</i>
+ <i> A quick word.</i>
+
+113
+00:05:33,100 --> 00:05:35,167
+ <i> Recently you've been</i>
+ <i> having some close calls</i>
+
+114
+00:05:35,169 --> 00:05:37,002
+ <i> and your host family has</i>
+ <i> almost caught you</i>
+
+115
+00:05:37,004 --> 00:05:39,188
+    <i> sneaking into your</i>
+   <i> lair several times.</i>
+
+116
+00:05:39,189 --> 00:05:41,373
+     <i> No need to remind you,</i>
+     <i> but I'll do it anyway,</i>
+
+117
+00:05:41,375 --> 00:05:43,842
+         <i> that if your</i>
+         <i> cover's blown,</i>
+
+118
+00:05:43,844 --> 00:05:45,944
+   <i> you'll have to be</i>
+   <i> transferred to another</i>
+   <i> city</i>
+   <i> with another host family.</i>
+
+119
+00:05:45,946 --> 00:05:47,896
+ <i> And we both know</i>
+ <i> you wouldn't like that.</i>
+
+120
+00:05:47,897 --> 00:05:49,847
+ <i> I remember the day</i>
+ <i> you were first assigned.</i>
+
+121
+00:05:49,850 --> 00:05:51,700
+            Enjoy your platypus!
+
+122
+00:05:51,701 --> 00:05:53,551
+      Thank you, cheerio!
+
+123
+00:05:53,554 --> 00:05:55,287
+               Agent assignment
+               complete, sir.
+
+124
+00:05:55,289 --> 00:05:57,322
+    Good job, Karl.
+
+125
+00:05:57,324 --> 00:05:59,925
+   If you keep up the great
+   work,
+   you'll make unpaid intern
+   in no time.
+
+126
+00:05:59,927 --> 00:06:01,160
+              KARL: <i> And I did.</i>
+
+127
+00:06:01,161 --> 00:06:02,394
+  <i> Don't get cocky, Karl.</i>
+
+128
+00:06:02,396 --> 00:06:04,830
+  <i> Agent P, as you know,</i>
+
+129
+00:06:04,831 --> 00:06:07,265
+ <i> every operative is</i>
+ <i> equipped</i>
+ <i> with an autoscan</i>
+ <i> replication device</i>
+
+130
+00:06:07,267 --> 00:06:08,934
+ <i> just like the one</i>
+ <i> in your hat.</i>
+
+131
+00:06:08,936 --> 00:06:11,203
+  <i> We've been using</i>
+  <i> the information</i>
+  <i> you've gathered</i>
+
+132
+00:06:11,204 --> 00:06:13,471
+     <i> to replicate</i>
+     <i> each and every one of</i>
+     <i> Dr. Doofenshmirtz's</i>
+     <i> Inators.</i>
+
+133
+00:06:13,474 --> 00:06:16,074
+ <i> Our top men have been</i>
+ <i> analyzing them to</i>
+ <i> determine</i>
+
+134
+00:06:16,076 --> 00:06:18,510
+ <i> if they've been</i>
+ <i> getting smarter</i>
+ <i> or dumber.</i>
+
+135
+00:06:18,511 --> 00:06:20,945
+ <i> And to be honest,</i>
+ <i> the jury's still out.</i>
+
+136
+00:06:20,948 --> 00:06:22,614
+      <i> Now we find out that</i>
+      <i> he's in the process</i>
+      <i> of building</i>
+
+137
+00:06:22,616 --> 00:06:24,616
+  <i> an</i>
+  <i> alternate-dimension-related</i>
+  <i> Inator.</i>
+
+138
+00:06:24,618 --> 00:06:27,486
+    <i> Your assignment</i>
+    <i> is to stop him before</i>
+    <i> he finishes building it.</i>
+
+139
+00:06:27,488 --> 00:06:29,588
+ <i> Behind you,</i>
+ <i> rising dramatically</i>
+ <i> from the floor,</i>
+
+140
+00:06:29,590 --> 00:06:34,993
+ <i> is Karl,</i>
+ <i> with some high-tech</i>
+ <i> gadgets</i>
+ <i> that you might find</i>
+
+141
+00:06:34,995 --> 00:06:38,330
+      KARL: Uh, sir? Hello?
+      I didn't step on in time.
+
+142
+00:06:38,332 --> 00:06:40,899
+                 Would you mind
+                  lowering the
+                platform again?
+
+143
+00:06:40,901 --> 00:06:46,104
+ <i> Great. Let me</i>
+ <i> cue the music again.</i>
+
+144
+00:06:46,106 --> 00:06:50,142
+     Well, obviously,
+     this first item is our
+     new wrist
+     communicationizer.
+
+145
+00:06:50,144 --> 00:06:52,577
+       It has many applications
+       that will help you
+       in the field.
+
+146
+00:06:52,579 --> 00:06:55,614
+   For example, a powerful
+   directional electromagnet.
+
+147
+00:06:55,616 --> 00:06:57,582
+       It will draw
+       any metal object to you.
+
+148
+00:06:57,584 --> 00:06:59,951
+        See?
+        And these are aluminum!
+
+149
+00:06:59,953 --> 00:07:02,320
+      <i> Quit goofing around,</i>
+             <i> Karl,</i>
+        <i> and show him the</i>
+           <i> hologram.</i>
+
+150
+00:07:02,322 --> 00:07:03,455
+               Yes, sir.
+      (MONOGRAM CHUCKLES)
+
+151
+00:07:03,457 --> 00:07:04,923
+  <i> Pretty nifty, huh?</i>
+
+152
+00:07:04,925 --> 00:07:06,391
+        <i> With this device</i>
+       <i> you'll be able to</i>
+
+153
+00:07:06,393 --> 00:07:09,094
+         <i> contact me</i>
+         <i> from anywhere</i>
+         <i> at any time.</i>
+
+154
+00:07:09,096 --> 00:07:11,596
+     <i> But don't call</i>
+     <i> between 3:30 and 4:00</i>
+
+155
+00:07:11,598 --> 00:07:13,632
+      <i> because that's when</i>
+      <i> I take a shower.</i>
+
+156
+00:07:13,634 --> 00:07:15,333
+          (EXCLAIMING)
+
+157
+00:07:15,335 --> 00:07:17,636
+         <i> Wait a minute.</i>
+         <i> Is that me?</i>
+
+158
+00:07:17,638 --> 00:07:19,538
+                     Oh, no!
+
+159
+00:07:19,540 --> 00:07:22,507
+   His holographic projection
+   has become mesmerized
+   by his video image.
+
+160
+00:07:22,509 --> 00:07:24,309
+          I better shut it off.
+
+161
+00:07:24,311 --> 00:07:26,345
+              And if you
+              push this button,
+
+162
+00:07:26,346 --> 00:07:28,380
+        it gives your adversary
+        an incredible ice cream
+        headache.
+
+163
+00:07:28,382 --> 00:07:30,348
+            (SHOUTING IN PAIN)
+
+164
+00:07:30,350 --> 00:07:33,318
+          It's gone.
+          You better watch
+          where you point that!
+
+165
+00:07:33,320 --> 00:07:35,320
+            Hey, girl!
+            What are you doing?
+
+166
+00:07:35,322 --> 00:07:37,622
+        Stacy, Jeremy's
+     going to college soon,
+         and here I am,
+
+167
+00:07:37,624 --> 00:07:39,524
+     concerned with busting
+    my brothers to my mommy
+
+168
+00:07:39,526 --> 00:07:42,194
+        and living
+        in this nursery.
+
+169
+00:07:42,196 --> 00:07:44,029
+       A unicorn!
+       A unicorn, Stacy!
+
+170
+00:07:44,031 --> 00:07:46,097
+      (IN CHILDISH VOICE)
+      "Hi, I'm six!"
+
+171
+00:07:46,099 --> 00:07:47,566
+ You've gotta help me
+ get rid of all this junk.
+
+172
+00:07:47,568 --> 00:07:49,100
+        Wow! Bold move!
+
+173
+00:07:49,102 --> 00:07:51,670
+      Yep. Goodbye,
+      childhood folly,
+
+174
+00:07:51,672 --> 00:07:54,473
+    hello, carefree
+    undemanding adult life.
+
+175
+00:07:54,475 --> 00:07:56,091
+   Yeah, good luck with that.
+
+176
+00:07:56,092 --> 00:07:57,708
+   Candace, your father and I
+   are off to the movies.
+
+177
+00:07:57,711 --> 00:07:59,411
+        While we're gone,
+        you're in charge, okay?
+
+178
+00:07:59,413 --> 00:08:02,047
+  Okay, Mom!
+
+179
+00:08:02,048 --> 00:08:04,682
+         And you know, I'm even
+        thinking about giving up
+        on busting my brothers.
+
+180
+00:08:04,685 --> 00:08:07,219
+          The irony is, that as
+          a grown-up, you don't
+          need to tell your mom.
+
+181
+00:08:07,221 --> 00:08:09,354
+            You can just
+            bust them yourself.
+
+182
+00:08:09,356 --> 00:08:12,557
+   (GASPS) That's it!
+   Stacy, I'm old enough
+   to bust them myself!
+
+183
+00:08:12,559 --> 00:08:14,459
+              That's what
+              I just said.
+
+184
+00:08:14,461 --> 00:08:18,296
+      CHORUS:
+      <i> ♪ Doofenshmirtz</i>
+      <i> Evil Incorporated! ♪</i>
+
+185
+00:08:18,298 --> 00:08:21,366
+       Now, Perry the Platypus,
+       quake in terror
+
+186
+00:08:21,368 --> 00:08:24,469
+      as I punch a hole through
+      to another dimension.
+
+187
+00:08:24,471 --> 00:08:27,506
+            Behold,
+  the Other-Dimensionator...
+                   NORM: <i> Sir!</i>
+
+188
+00:08:27,508 --> 00:08:28,673
+              What? What?
+
+189
+00:08:28,675 --> 00:08:30,959
+        <i> I finished</i>
+        <i> setting up the buffet.</i>
+
+190
+00:08:30,960 --> 00:08:33,244
+   For crying out loud, Norm.
+   I was in the zone!
+
+191
+00:08:33,247 --> 00:08:35,113
+            <i> I just thought</i>
+           <i> you were playing</i>
+           <i> with your doll.</i>
+
+192
+00:08:35,115 --> 00:08:37,282
+      It's not a doll,
+      it's a stand-in!
+
+193
+00:08:37,284 --> 00:08:39,351
+   Pretendy the Practicepus,
+              see?
+
+194
+00:08:39,353 --> 00:08:41,219
+   I wonder
+   if Perry the Platypus
+   practices with a fake me.
+
+195
+00:08:41,221 --> 00:08:44,523
+   It would be nice to know
+   he cares enough.
+
+196
+00:08:44,525 --> 00:08:46,091
+ PHINEAS:
+ All systems are green.
+
+197
+00:08:46,093 --> 00:08:47,559
+   Prepare to launch
+   on my mark.
+
+198
+00:08:47,561 --> 00:08:49,394
+  T minus 30 and counting.
+
+199
+00:08:49,396 --> 00:08:53,231
+  29, 28, 27, 26...
+
+200
+00:08:53,233 --> 00:08:55,066
+         Of course,
+         you'll only need this
+
+201
+00:08:55,068 --> 00:08:57,569
+   if you're attacked
+   by one of the royals
+   or a member of Parliament.
+
+202
+00:08:57,571 --> 00:09:00,071
+        So it's probably okay
+        to leave the safety on.
+
+203
+00:09:00,073 --> 00:09:02,474
+          And here's your
+          brand new rocket car.
+
+204
+00:09:02,476 --> 00:09:05,310
+ Sweet, huh?
+ Good luck, Agent P.
+
+205
+00:09:05,312 --> 00:09:08,079
+     <i> Karl? Did you tell him</i>
+     <i> the accelerator's</i>
+     <i> a little touchy?</i>
+
+206
+00:09:09,349 --> 00:09:10,815
+  I think he knows, sir.
+
+207
+00:09:10,817 --> 00:09:13,652
+ PHINEAS: Three, two, one.
+
+208
+00:09:13,654 --> 00:09:15,387
+  Service!
+
+209
+00:09:20,794 --> 00:09:22,360
+               (EXCLAIMING)
+
+210
+00:09:22,362 --> 00:09:24,513
+           Phineas and Ferb,
+           you are so busted...
+
+211
+00:09:24,514 --> 00:09:26,665
+    Oh, my gosh! Where'd it
+              go?
+   You there, small children!
+
+212
+00:09:26,667 --> 00:09:28,934
+           Where's the big
+           contraption?
+
+213
+00:09:28,935 --> 00:09:31,202
+     I don't know.
+     It was here
+     just a moment ago.
+
+214
+00:09:31,204 --> 00:09:33,138
+      It disappeared?
+
+215
+00:09:33,140 --> 00:09:34,506
+   Stacy, do you realize
+   what this means?
+                 We're done?
+
+216
+00:09:34,508 --> 00:09:37,175
+        No, some kind of
+        mysterious force
+
+217
+00:09:37,177 --> 00:09:40,445
+      always takes away
+      Phineas and Ferb's
+      inventions
+      before Mom shows up.
+
+218
+00:09:40,447 --> 00:09:43,481
+      This time it took
+      away their invention
+      before I showed up!
+
+219
+00:09:43,483 --> 00:09:45,617
+      The mysterious force
+        recognizes that
+      I'm now a grown-up.
+
+220
+00:09:45,619 --> 00:09:49,120
+            A mysterious force?
+             I'm not buying it.
+
+221
+00:09:49,122 --> 00:09:51,756
+       I am a woman of science,
+       at least that's what
+       my horoscope said.
+
+222
+00:09:51,758 --> 00:09:53,525
+ Well, I'm going to
+ prove it to you
+
+223
+00:09:53,527 --> 00:09:56,127
+ and bust my brothers
+ at the same time!
+
+224
+00:09:56,129 --> 00:09:57,362
+     Where are my brothers?
+
+225
+00:09:57,364 --> 00:09:58,697
+ We just launched them
+ towards the park.
+
+226
+00:09:58,699 --> 00:10:00,365
+  Buford is there with
+  the other platypult.
+
+227
+00:10:00,367 --> 00:10:03,201
+         Okay, as the adult,
+           I decree we are
+          going to the park.
+
+228
+00:10:03,203 --> 00:10:04,536
+       Does anyone need
+       to go potty first?
+
+229
+00:10:07,474 --> 00:10:08,773
+      Fine, make it quick.
+
+230
+00:10:08,775 --> 00:10:11,743
+            Ferb, it looks like
+            we're gonna hit
+            that building
+
+231
+00:10:11,745 --> 00:10:13,678
+             that looks vaguely
+             like your head.
+
+232
+00:10:13,680 --> 00:10:16,414
+                Time to give it
+                 a little test.
+
+233
+00:10:17,784 --> 00:10:19,684
+    (MACHINE POWERING DOWN)
+
+234
+00:10:19,685 --> 00:10:21,585
+   Hmm.
+   Well, I just finished it.
+   It can't be broken
+   already.
+
+235
+00:10:24,858 --> 00:10:27,325
+             (SIGHS)
+             I stand corrected.
+
+236
+00:10:27,327 --> 00:10:29,260
+          All right, what's with
+          the giant shuttlecock?
+
+237
+00:10:29,262 --> 00:10:31,630
+    We're really sorry, sir.
+    I don't know what
+    happened.
+
+238
+00:10:31,632 --> 00:10:33,531
+      One minute,
+      we were innocently
+      launching ourselves
+
+239
+00:10:33,533 --> 00:10:36,468
+    across the city in
+    a badminton platypult.
+    The next thing we know,
+
+240
+00:10:36,470 --> 00:10:38,136
+       we're bouncing on
+       up to the eastside
+
+241
+00:10:38,138 --> 00:10:39,738
+    to your deluxe apartment
+    in the sky.
+
+242
+00:10:39,740 --> 00:10:42,607
+      Well, it looks like
+       you've totaled my
+      Other-Dimensionator.
+
+243
+00:10:42,609 --> 00:10:45,477
+   An Other-Dimensionator?
+   What does it do?
+
+244
+00:10:45,479 --> 00:10:48,780
+      Well, at the moment,
+      it just stops giant
+      shuttlecocks, apparently.
+
+245
+00:10:48,782 --> 00:10:51,683
+          But it's supposed
+          to let me go into
+          other dimensions.
+
+246
+00:10:51,685 --> 00:10:53,351
+ That's cool!
+ We can help you fix it.
+
+247
+00:10:53,353 --> 00:10:56,454
+        I'm Phineas,
+       and this is my
+       brother Ferb.
+
+248
+00:10:56,456 --> 00:10:59,591
+   I'm Dr. Heinz
+   Doofenshmirtz,
+   but my friends call me...
+   (SIGHS)
+
+249
+00:11:02,496 --> 00:11:03,795
+   I just got in such a funk.
+
+250
+00:11:03,797 --> 00:11:06,698
+  Ferb is naturally
+  handy with tools.
+
+251
+00:11:06,700 --> 00:11:07,932
+ I bet we could
+ put this thing back
+ together in no time.
+
+252
+00:11:07,934 --> 00:11:10,702
+               What the heck.
+               Before we start,
+
+253
+00:11:10,704 --> 00:11:13,121
+ there's a whole
+ buffet set up here,
+ please partake.
+
+254
+00:11:13,122 --> 00:11:15,539
+    I was expecting someone
+    who seems to be running
+    late.
+
+255
+00:11:15,542 --> 00:11:16,508
+     You're lucky I got
+    a rocket car winch.
+
+256
+00:11:16,510 --> 00:11:18,677
+    Lots of guys
+    don't have that.
+
+257
+00:11:19,379 --> 00:11:22,380
+     PHINEAS: Almost there.
+
+258
+00:11:22,382 --> 00:11:25,583
+   Okay,
+   field compressor attaches
+   to the auxiliary
+   generator.
+
+259
+00:11:25,585 --> 00:11:27,819
+    Was this working before?
+
+260
+00:11:27,821 --> 00:11:30,722
+     Well, if by "working"
+     you mean "functioning
+     properly," then no.
+
+261
+00:11:30,724 --> 00:11:32,541
+      Well, I think
+      I see your problem.
+
+262
+00:11:32,542 --> 00:11:34,359
+   Everything's wired through
+   this self-destruct button.
+
+263
+00:11:34,361 --> 00:11:35,827
+          Do you even need that?
+
+264
+00:11:35,829 --> 00:11:38,196
+      Well, of course I...
+
+265
+00:11:38,198 --> 00:11:41,232
+    Wait a minute.
+    No, I do not need that.
+
+266
+00:11:41,234 --> 00:11:43,435
+   You are absolutely right.
+
+267
+00:11:43,437 --> 00:11:45,704
+          So Ferb has rigged up
+          this remote control
+
+268
+00:11:45,706 --> 00:11:47,439
+ so that if we get
+ separated from the portal,
+ we can open another one.
+
+269
+00:11:47,441 --> 00:11:48,606
+                Nice touch, kid.
+
+270
+00:11:48,608 --> 00:11:50,809
+ I guess this is
+ the last piece.
+
+271
+00:11:50,811 --> 00:11:52,510
+        Okay, Ferb,
+        boost me up.
+
+272
+00:11:55,949 --> 00:11:56,581
+ Ooh, I cannot wait!
+
+273
+00:12:00,320 --> 00:12:02,304
+          (CHATTERING)
+
+274
+00:12:02,305 --> 00:12:04,289
+         PHINEAS:
+         There you are, Perry.
+      Perry?
+
+275
+00:12:04,291 --> 00:12:06,691
+      Yeah. He's our
+      pet platypus.
+
+276
+00:12:06,693 --> 00:12:07,492
+       Is every platypus
+       named Perry?
+
+277
+00:12:07,494 --> 00:12:10,361
+    In a perfect world, yes.
+
+278
+00:12:10,363 --> 00:12:11,763
+    Well, he's a cute
+    little fellow.
+
+279
+00:12:11,765 --> 00:12:13,465
+         Hi, there.
+    Coochee, coochee...
+        Ow! Ow! Ow!
+
+280
+00:12:13,467 --> 00:12:15,734
+             Perry, no!
+             We do not bite
+             the elderly.
+
+281
+00:12:15,736 --> 00:12:17,836
+      Again, ow!
+      It's okay.
+
+282
+00:12:17,838 --> 00:12:19,604
+ Platypuses don't
+ typically like me.
+
+283
+00:12:19,605 --> 00:12:21,371
+    Well, Perry, you're just
+    in time to see us open
+    a window
+
+284
+00:12:21,374 --> 00:12:24,342
+    into another dimension.
+
+285
+00:12:24,344 --> 00:12:26,010
+      Perry, no!
+      What are you doing?
+
+286
+00:12:26,012 --> 00:12:27,746
+                   No, no!
+
+287
+00:12:27,748 --> 00:12:30,381
+  Perry, this is not
+  tug of war!
+
+288
+00:12:30,383 --> 00:12:32,283
+      This is not
+      tug of war!
+
+289
+00:12:32,285 --> 00:12:34,486
+ Silly boy,
+ what's gotten into him?
+
+290
+00:12:34,488 --> 00:12:35,687
+         All right,
+         let's get this show
+         on the road, huh?
+
+291
+00:12:35,689 --> 00:12:38,456
+ <i> Remember,</i>
+ <i> if your cover is blown,</i>
+
+292
+00:12:38,458 --> 00:12:40,825
+    <i> you'll never see</i>
+    <i> the boys again.</i>
+
+293
+00:12:40,827 --> 00:12:42,393
+          Hey, does anyone hear
+          someone talking?
+
+294
+00:12:42,395 --> 00:12:44,596
+ <i> Never see them again.</i>
+
+295
+00:12:44,598 --> 00:12:48,700
+ Okay, here we go.
+ Right in...
+
+296
+00:12:50,937 --> 00:12:52,904
+    Perry! No!
+    Not on the sofa!
+
+297
+00:12:52,906 --> 00:12:56,541
+ I'm sorry, Dr. D.
+ We should take him out.
+
+298
+00:12:56,543 --> 00:12:58,560
+ No, no. Wait.
+ It'll be all right.
+
+299
+00:12:58,561 --> 00:13:00,578
+ I was planning on
+ replacing this
+ old couch anyway.
+
+300
+00:13:00,580 --> 00:13:02,480
+    Now come on.
+    Let's light
+    this pop stand,
+
+301
+00:13:02,482 --> 00:13:02,680
+ or however it goes.
+
+302
+00:13:07,687 --> 00:13:09,554
+            Gosh, this is...
+            It's kind of
+            weird, actually.
+
+303
+00:13:09,556 --> 00:13:11,923
+         I'm usually thwarted
+         by this point.
+
+304
+00:13:11,925 --> 00:13:13,825
+            Well, I guess
+            he's not coming.
+
+305
+00:13:13,827 --> 00:13:16,995
+        And now, behold!
+
+306
+00:13:16,997 --> 00:13:21,699
+ The mind-blowing
+ first images from beyond
+ our dimensional reality!
+
+307
+00:13:29,676 --> 00:13:30,942
+                   Hmm.
+
+308
+00:13:30,944 --> 00:13:33,878
+              It's a...
+              It's a couch.
+
+309
+00:13:33,880 --> 00:13:35,880
+  That's a bit
+  anticlimactic.
+
+310
+00:13:35,882 --> 00:13:39,784
+ I guess it's a nice couch,
+ though...
+
+311
+00:13:39,786 --> 00:13:42,921
+  Hey! I got an idea!
+  Let's swap my couch
+  for that one!
+
+312
+00:13:44,324 --> 00:13:46,174
+                  Um...
+
+313
+00:13:46,175 --> 00:13:48,025
+ I got it. I got...
+ Or maybe I...
+
+314
+00:13:48,028 --> 00:13:50,028
+            Come on, you want to
+            give me a hand here?
+
+315
+00:13:50,030 --> 00:13:51,396
+  Whoa! Awesome,
+  check it out.
+
+316
+00:13:51,398 --> 00:13:52,564
+ (MAN CLEARS THROAT)
+
+317
+00:13:54,901 --> 00:13:55,633
+       (STUTTERS) Hello.
+
+318
+00:13:57,838 --> 00:13:59,437
+   Say, aren't you...
+
+319
+00:13:59,439 --> 00:14:00,705
+           PHINEAS: Hey, Dr. D!
+           Look at this.
+
+320
+00:14:00,707 --> 00:14:02,073
+  Hold that thought.
+
+321
+00:14:02,074 --> 00:14:03,440
+ You're famous here.
+
+322
+00:14:14,487 --> 00:14:15,920
+     DOOFENSHMIRTZ'S VOICE:
+     <i> Get off!</i>
+
+323
+00:14:18,091 --> 00:14:21,492
+     (IN DISBELIEF)
+ "Heinz Doofenshmirtz,
+     your leader"?
+
+324
+00:14:26,533 --> 00:14:29,734
+     A whole tri-state area
+     where I am already in
+     charge!
+
+325
+00:14:29,736 --> 00:14:32,570
+        Yeah! Hold on,
+        I gotta go check
+        something out.
+
+326
+00:14:32,572 --> 00:14:35,573
+          Uh, yoo-hoo!
+         Hello, again.
+
+327
+00:14:35,575 --> 00:14:38,443
+   Is this some kind of test?
+   Is that really you, sir?
+
+328
+00:14:38,445 --> 00:14:40,044
+            (LAUGHS) Holy boy!
+
+329
+00:14:40,046 --> 00:14:44,482
+       Even the great
+       Francis Monogram's
+       my slave in this
+       dimension!
+
+330
+00:14:44,484 --> 00:14:46,017
+     I prefer the term
+     "indentured
+     executive assistant."
+
+331
+00:14:46,019 --> 00:14:48,152
+    Well, I want to meet
+    this other dimension me.
+
+332
+00:14:48,154 --> 00:14:50,555
+     Where can I find him?
+
+333
+00:14:50,557 --> 00:14:52,123
+     Oh. You're from
+     another dimension?
+
+334
+00:14:52,125 --> 00:14:54,058
+     Well, he'll probably
+     wanna see you then.
+
+335
+00:14:54,060 --> 00:14:55,793
+    He's into that
+    freaky sort of stuff.
+
+336
+00:14:55,795 --> 00:14:58,796
+    Have a seat
+    and I'll let him know
+    you're on your way up.
+
+337
+00:14:58,798 --> 00:15:01,165
+          Okay. So I just
+          gotta sit here and...
+
+338
+00:15:03,803 --> 00:15:06,137
+    CHORUS:
+    <i> ♪ He's Doof Doof</i>
+    <i> Doof Doof Doof Doof Doof</i>
+
+339
+00:15:06,139 --> 00:15:08,139
+      <i> ♪ Bask in his glory</i>
+      <i> Kneel at his feet</i>
+
+340
+00:15:08,141 --> 00:15:10,642
+     <i> ♪ You're in for such a</i>
+     <i> treat</i>
+     <i> He's Doofenshmirtz ♪</i>
+
+341
+00:15:10,644 --> 00:15:12,543
+          That was awesome!
+
+342
+00:15:12,545 --> 00:15:14,979
+            All right, who's
+            interrupting my...
+
+343
+00:15:14,981 --> 00:15:16,481
+                  Hmm.
+
+344
+00:15:18,151 --> 00:15:18,616
+          Hmm.
+
+345
+00:15:23,723 --> 00:15:24,889
+              Do I know you?
+
+346
+00:15:24,891 --> 00:15:27,191
+  Yeah! I'm you from
+  another dimension!
+
+347
+00:15:27,193 --> 00:15:29,994
+       Well, that would explain
+       the handsomeness.
+
+348
+00:15:29,996 --> 00:15:32,013
+  Right back at you,
+  big guy.
+
+349
+00:15:32,014 --> 00:15:34,031
+               Does that mean
+               you and I are
+               exactly alike?
+
+350
+00:15:34,034 --> 00:15:36,668
+     I suppose so.
+
+351
+00:15:36,670 --> 00:15:38,903
+            <i> ♪ Do you want</i>
+            <i> some rice pudding?</i>
+
+352
+00:15:38,905 --> 00:15:40,505
+ <i> ♪ Ick, no, that's gross</i>
+
+353
+00:15:40,507 --> 00:15:42,540
+               <i> ♪ It was a test</i>
+               <i> Almond brittle?</i>
+
+354
+00:15:42,542 --> 00:15:44,943
+ <i> ♪ Oh, I love it the most</i>
+                 <i> ♪ Me, too</i>
+
+355
+00:15:44,945 --> 00:15:46,511
+ <i> ♪ Do you collect coins?</i>
+
+356
+00:15:46,513 --> 00:15:48,880
+           <i> ♪ Yeah, just in case</i>
+
+357
+00:15:48,882 --> 00:15:52,617
+   <i> ♪ Vending machines become</i>
+   <i> the dominant race</i>
+
+358
+00:15:52,619 --> 00:15:56,521
+       <i> ♪ I've been alone</i>
+       <i> all these years</i>
+
+359
+00:15:56,523 --> 00:15:58,556
+      <i> ♪ With my irrational</i>
+             <i> fears</i>
+
+360
+00:15:58,558 --> 00:16:00,558
+         But not the
+         vending machine thing.
+         That's gonna happen.
+
+361
+00:16:00,560 --> 00:16:03,094
+     <i> ♪ But now before me, I</i>
+              <i> see</i>
+
+362
+00:16:04,497 --> 00:16:06,731
+     <i> ♪ Someone with whom I</i>
+             <i> agree</i>
+
+363
+00:16:06,733 --> 00:16:10,768
+          <i> ♪ I've found</i>
+    <i> a brand new best friend</i>
+          <i> And it's me</i>
+
+364
+00:16:10,770 --> 00:16:13,604
+          <i> ♪ I've found</i>
+    <i> a brand new best friend</i>
+          <i> And it's me</i>
+
+365
+00:16:21,781 --> 00:16:23,748
+   <i> ♪ I thought I'd be taller</i>
+
+366
+00:16:23,750 --> 00:16:25,583
+ <i> ♪ I've been told I slouch</i>
+
+367
+00:16:25,585 --> 00:16:28,019
+ <i> ♪ I thought</i>
+ <i> I'd have both my eyes</i>
+ <i> You know</i>
+
+368
+00:16:28,021 --> 00:16:29,587
+          <i> ♪ It's in this pouch</i>
+
+369
+00:16:29,589 --> 00:16:31,723
+    Ouch! You know,
+    I can't help but notice
+
+370
+00:16:31,725 --> 00:16:34,092
+      that your scar goes
+      over your eye patch.
+
+371
+00:16:34,094 --> 00:16:35,493
+                Yeah?
+
+372
+00:16:36,129 --> 00:16:36,661
+            Nothing.
+
+373
+00:16:38,631 --> 00:16:40,631
+ <i> ♪ Do llamas weird you</i>
+          <i> out?</i>
+
+374
+00:16:40,633 --> 00:16:42,233
+    <i> ♪ Yeah, are they camels</i>
+    <i> or sheep?</i>
+
+375
+00:16:42,235 --> 00:16:44,235
+ <i> ♪ No, no, I meant Lorenzo</i>
+
+376
+00:16:44,237 --> 00:16:46,137
+         <i> ♪ That's right</i>
+         <i> He played Meap</i>
+
+377
+00:16:46,139 --> 00:16:47,705
+     <i> ♪ Now I know all about</i>
+              <i> you</i>
+
+378
+00:16:50,143 --> 00:16:52,977
+         <i> ♪ And you know</i>
+         <i> all about me</i>
+
+379
+00:16:52,979 --> 00:16:54,112
+         <i> ♪ Oh-wee-ooh!</i>
+
+380
+00:16:54,114 --> 00:16:58,016
+   <i> ♪ And now before me I see</i>
+
+381
+00:16:58,018 --> 00:17:00,618
+     <i> ♪ Someone with whom I</i>
+             <i> agree</i>
+
+382
+00:17:00,620 --> 00:17:04,522
+          <i> ♪ I've found</i>
+    <i> a brand new best friend</i>
+          <i> And it's me</i>
+
+383
+00:17:04,524 --> 00:17:08,259
+          <i> ♪ I've found</i>
+    <i> a brand new best friend</i>
+          <i> And it's me</i>
+
+384
+00:17:08,261 --> 00:17:10,995
+     <i> ♪ Now that I found you</i>
+
+385
+00:17:11,264 --> 00:17:15,166
+       <i> ♪ We can be a duo</i>
+
+386
+00:17:15,168 --> 00:17:16,801
+         <i> ♪ That's right</i>
+
+387
+00:17:16,803 --> 00:17:20,605
+      <i> ♪ Twice the evil</i>
+      <i> Double Doofenshmirtz</i>
+
+388
+00:17:20,607 --> 00:17:23,941
+   <i> ♪ Coming at you Fridays ♪</i>
+
+389
+00:17:23,943 --> 00:17:26,177
+  What's that?
+  I mean, are we doing
+  a TV show together?
+
+390
+00:17:26,179 --> 00:17:28,179
+            No. It just sort of
+            sounded like...
+
+391
+00:17:28,181 --> 00:17:30,114
+              I mean, we could.
+              We should!
+
+392
+00:17:30,116 --> 00:17:32,817
+   Hmm. Maybe we're
+   not so much alike.
+
+393
+00:17:32,819 --> 00:17:34,185
+              That can be
+              our catch phrase.
+
+394
+00:17:34,187 --> 00:17:36,154
+          You're the grumpy one.
+
+395
+00:17:38,958 --> 00:17:41,692
+      Wow, he's done
+      really well for himself.
+      What do you think, Perry?
+
+396
+00:17:46,933 --> 00:17:48,232
+                 (CHATTERING)
+
+397
+00:17:48,234 --> 00:17:50,802
+      Hey, where is Dr. D?
+
+398
+00:17:50,804 --> 00:17:53,905
+      So what you're telling me
+      is you're still not ruler
+      of your tri-state area?
+
+399
+00:17:53,907 --> 00:17:56,040
+  Well, obviously you
+  did not have to deal
+
+400
+00:17:56,042 --> 00:17:57,175
+ with my nemesis,
+ Perry the Platypus.
+
+401
+00:17:57,177 --> 00:17:59,744
+          Oh, didn't I? Observe.
+
+402
+00:18:01,181 --> 00:18:02,313
+     What is it?
+
+403
+00:18:05,351 --> 00:18:08,719
+       DOOFENSHMIRTZ 2D:
+       This is Perry the
+       Platyborg!
+
+404
+00:18:08,721 --> 00:18:13,057
+        He was once my nemesis,
+        but now, he's general
+        of my army!
+
+405
+00:18:13,059 --> 00:18:15,059
+  Wow! You are good!
+
+406
+00:18:15,061 --> 00:18:16,661
+              DOOFENSHMIRTZ 2D:
+              Dismissed.
+
+407
+00:18:17,730 --> 00:18:19,697
+           That was awesome!
+
+408
+00:18:19,699 --> 00:18:21,516
+               Now who's
+               interrupting me?
+
+409
+00:18:21,517 --> 00:18:23,334
+            Remind me to berate
+               my indentured
+            executive assistant.
+
+410
+00:18:23,336 --> 00:18:24,669
+ No, man, it's cool.
+ They're with me.
+
+411
+00:18:24,671 --> 00:18:27,772
+   Hey, Dr. D.
+   We thought we'd lost you.
+
+412
+00:18:27,774 --> 00:18:29,006
+    Hi, fellas!
+
+413
+00:18:29,008 --> 00:18:31,676
+        You dare to bring
+        a secret agent in here?
+
+414
+00:18:31,678 --> 00:18:32,977
+     This boy's
+     a secret agent?
+
+415
+00:18:32,979 --> 00:18:35,179
+                 No, not him!
+     The quiet one?
+
+416
+00:18:35,181 --> 00:18:36,714
+            DOOFENSHMIRTZ 2D:
+            No! Not... No. Him!
+
+417
+00:18:36,716 --> 00:18:39,083
+        This plant?
+
+418
+00:18:39,085 --> 00:18:42,687
+            The platypus!
+            That's Secret Agent
+            Perry the Platypus!
+
+419
+00:18:42,689 --> 00:18:44,956
+     Oh, hey.
+     He's just a platypus.
+     He doesn't do much.
+
+420
+00:18:44,958 --> 00:18:47,992
+                  This is rich.
+                   I see what's
+                  going on here.
+
+421
+00:18:47,994 --> 00:18:51,162
+            You really think
+            that he's your pet,
+            don't you?
+
+422
+00:18:51,164 --> 00:18:52,897
+          Wrong! He's using you!
+
+423
+00:18:52,899 --> 00:18:54,398
+         You're just his cover.
+         He's a secret agent!
+
+424
+00:18:54,400 --> 00:18:56,834
+        Here, here,
+        let me prove it.
+
+425
+00:18:56,836 --> 00:18:59,403
+        General Platyborg,
+        come down here at once.
+
+426
+00:18:59,405 --> 00:19:02,406
+              He'll be here
+              in just a second.
+              Ow! Ow! Ow!
+
+427
+00:19:02,408 --> 00:19:04,408
+          All right, Platyborg,
+          you see that platypus?
+
+428
+00:19:04,410 --> 00:19:05,643
+            You know what to do.
+
+429
+00:19:06,012 --> 00:19:07,745
+             Perry!
+
+430
+00:19:10,650 --> 00:19:12,183
+ What was that for?
+ Perry, are you okay?
+
+431
+00:19:12,185 --> 00:19:14,418
+       Told you.
+
+432
+00:19:14,420 --> 00:19:16,420
+ How are his vitals?
+
+433
+00:19:16,422 --> 00:19:19,924
+                Wait, let me
+                try something.
+                Platyborg!
+
+434
+00:19:19,926 --> 00:19:21,425
+             Do the same thing
+            to those two boys.
+       What?
+
+435
+00:19:23,663 --> 00:19:24,428
+          What?
+
+436
+00:19:25,932 --> 00:19:28,799
+           CHORUS:
+           <i> ♪ Perry ♪</i>
+
+437
+00:19:29,669 --> 00:19:31,435
+        Perry?
+
+438
+00:19:31,437 --> 00:19:33,371
+               Yes! I knew it!
+
+439
+00:19:33,373 --> 00:19:34,972
+    Wait a minute.
+    I'm confused.
+
+440
+00:19:34,974 --> 00:19:35,740
+ Why does their platypus
+ fight so good?
+
+441
+00:19:38,845 --> 00:19:39,677
+      Perry the Platypus!
+
+442
+00:19:41,080 --> 00:19:42,446
+                 Really?
+
+443
+00:19:42,448 --> 00:19:43,447
+        What?
+
+444
+00:19:44,150 --> 00:19:45,283
+         Perry?
+
+445
+00:19:45,285 --> 00:19:46,450
+           Get them!
+
+446
+00:19:49,923 --> 00:19:51,355
+          You're a secret agent?
+
+447
+00:19:52,358 --> 00:19:53,691
+             Whoa! Whoa!
+
+448
+00:19:55,995 --> 00:19:58,062
+   Hey, be careful with that.
+
+449
+00:19:58,064 --> 00:20:00,097
+               So this is where
+               you disappear to
+               every day?
+
+450
+00:20:00,099 --> 00:20:01,999
+            You come here
+            and fight this guy?
+
+451
+00:20:02,001 --> 00:20:05,169
+              No, he fights me.
+              He doesn't really
+              know this guy.
+
+452
+00:20:05,171 --> 00:20:06,971
+    You fight a pharmacist?
+    Why would you even do
+    that?
+
+453
+00:20:06,973 --> 00:20:09,440
+     Actually,
+     I'm an evil scientist.
+
+454
+00:20:09,442 --> 00:20:12,276
+        A lot of people
+        are confused by
+        the lab coat.
+
+455
+00:20:12,278 --> 00:20:13,911
+                   You're evil?
+                   He's evil?
+
+456
+00:20:14,080 --> 00:20:16,347
+        (GLASS CRACKING)
+
+457
+00:20:19,452 --> 00:20:22,153
+          So, not only have you
+          been leading a double
+          life this whole time,
+
+458
+00:20:22,155 --> 00:20:25,022
+              but you sat there
+              and let us help
+              an evil scientist
+
+459
+00:20:25,024 --> 00:20:26,490
+        open an evil portal
+        into an evil dimension!
+
+460
+00:20:26,492 --> 00:20:28,459
+            And you did nothing
+            to stop us?
+
+461
+00:20:28,461 --> 00:20:30,928
+        Well, he did pee
+        on the couch.
+
+462
+00:20:30,930 --> 00:20:32,763
+        Wait a second,
+        I just realized.
+
+463
+00:20:32,765 --> 00:20:35,900
+     That was a conscious
+     choice.
+     You peed on my couch!
+
+464
+00:20:35,902 --> 00:20:37,435
+            No, no.
+            That wasn't enough.
+
+465
+00:20:37,437 --> 00:20:39,303
+    That's when you should
+    have
+    put on your little hat.
+
+466
+00:20:39,305 --> 00:20:42,306
+         Not now, after we've
+         gone through it into
+         this mess!
+
+467
+00:20:42,308 --> 00:20:45,176
+      For badness sake,
+      you can hash all
+      this out in prison.
+
+468
+00:20:45,178 --> 00:20:46,944
+            Guards!
+
+469
+00:20:46,946 --> 00:20:48,379
+     Ow! Brain freeze!
+
+470
+00:20:49,315 --> 00:20:50,982
+           (YELLING)
+
+471
+00:20:57,090 --> 00:21:01,025
+ I'm sorry.
+ I'm just having trouble
+ processing this right now.
+
+472
+00:21:01,027 --> 00:21:03,127
+ "So you've discovered
+ your pet is a secret
+ agent."
+
+473
+00:21:03,129 --> 00:21:04,328
+       I don't want
+       your pamphlet!
+
+474
+00:21:06,499 --> 00:21:07,765
+         Uh-oh.
+
+475
+00:21:11,971 --> 00:21:14,805
+                    He's coming
+                    back around!
+
+476
+00:21:21,347 --> 00:21:22,847
+           (GRUNTING)
+
+477
+00:21:25,818 --> 00:21:27,852
+           You have got
+           to be kidding me.
+
+478
+00:21:29,155 --> 00:21:32,123
+          For crying out loud.
+
+479
+00:21:32,125 --> 00:21:33,791
+ What, they didn't teach
+ you
+ how to get out of this
+ in spy school?
+
+480
+00:21:42,001 --> 00:21:44,235
+                Oh, snap.
+
+481
+00:21:44,237 --> 00:21:45,303
+           Look! There's a logo
+           on this parachute!
+
+482
+00:21:45,305 --> 00:21:47,438
+          He's got his own logo?
+
+483
+00:22:07,860 --> 00:22:10,261
+      All this time we're like,
+      "He's a platypus.
+      He doesn't do much."
+
+484
+00:22:10,263 --> 00:22:13,564
+       Well, apparently you do!
+       You do... You're...
+
+485
+00:22:13,566 --> 00:22:15,433
+      You're tangled up in
+      the...
+      Whoa! Whoa! Whoa!
+
+486
+00:22:27,580 --> 00:22:31,115
+         Wow! Saved by
+         unconventional
+         architecture.
+
+487
+00:22:31,117 --> 00:22:31,582
+        <i> May I please</i>
+        <i> see your papers?</i>
+
+488
+00:22:35,988 --> 00:22:37,988
+      <i> Show me your papers</i>
+      <i> or be destroyed.</i>
+
+489
+00:23:02,915 --> 00:23:06,117
+      Curse you,
+      Perry the Platypus!
+
+490
+00:23:06,119 --> 00:23:08,018
+        Jinx! You owe me a soda.
+
+491
+00:23:09,422 --> 00:23:11,489
+         <i> Get me! I'm a Georgia</i>
+         <i> O'Keeffe painting!</i>
+
+492
+00:23:13,526 --> 00:23:15,292
+                Fourth and Main.
+
+493
+00:23:18,598 --> 00:23:21,165
+                 What? No tip?
+
+494
+00:23:21,167 --> 00:23:22,967
+          Never mind. I'm good.
+
+495
+00:23:34,914 --> 00:23:37,648
+            Looks like
+            they're gone.
+
+496
+00:23:39,051 --> 00:23:40,451
+         You're a secret agent?
+
+497
+00:23:40,453 --> 00:23:42,186
+             And you've been
+              living with us
+             this whole time?
+
+498
+00:23:42,188 --> 00:23:43,687
+        Was that evil guy right?
+
+499
+00:23:43,689 --> 00:23:45,523
+          Were we just
+          a cover story to you?
+
+500
+00:23:45,525 --> 00:23:47,925
+          I mean, were you ever
+              really our pet
+          or part of our family?
+
+501
+00:23:47,927 --> 00:23:50,995
+   Well, apparently not,
+   'cause you didn't trust us
+   enough to tell us.
+
+502
+00:23:50,997 --> 00:23:53,931
+     Anyone else
+     around here leading
+     a bizarre double life?
+
+503
+00:23:53,933 --> 00:23:56,667
+   Put your hand down, Ferb.
+
+504
+00:23:58,704 --> 00:24:01,338
+     You're a secret agent!
+     He's a secret agent!
+
+505
+00:24:03,543 --> 00:24:05,643
+      You're right, Ferb.
+    We've got to concentrate
+      on the task at hand.
+
+506
+00:24:05,645 --> 00:24:08,379
+   We've got to get back
+   to our dimension,
+
+507
+00:24:08,381 --> 00:24:10,114
+   and I don't even know
+   where to start!
+
+508
+00:24:10,116 --> 00:24:12,116
+     That's right!
+     The remote!
+
+509
+00:24:12,118 --> 00:24:13,384
+   I knew that would
+   come in handy.
+
+510
+00:24:13,386 --> 00:24:14,385
+         All right,
+         let's go home.
+
+511
+00:24:16,422 --> 00:24:18,522
+               Wait, that's not
+               our dimension.
+
+512
+00:24:19,559 --> 00:24:20,224
+              Nope. Uh-uh.
+
+513
+00:24:24,230 --> 00:24:27,164
+    Now this thing's broken.
+    We're gonna need some
+    help.
+
+514
+00:24:27,166 --> 00:24:29,500
+     I know!
+     Let's go find us!
+
+515
+00:24:32,738 --> 00:24:35,673
+  Wait, I just realized,
+
+516
+00:24:35,675 --> 00:24:39,376
+ you could have been
+ cleaning your own
+ litter box this whole
+ time!
+
+517
+00:24:39,378 --> 00:24:43,714
+ We are not done
+ with this conversation.
+
+518
+00:24:43,716 --> 00:24:47,017
+          So tell me,
+          other dimension me,
+          what do you see here?
+
+519
+00:24:47,019 --> 00:24:48,419
+ An ordinary platypus.
+
+520
+00:24:48,421 --> 00:24:50,120
+             And now
+             what do you see?
+
+521
+00:24:50,122 --> 00:24:51,722
+  Perry the Platypus!
+
+522
+00:24:51,724 --> 00:24:53,390
+            You know,
+            I'm starting to see
+
+523
+00:24:53,392 --> 00:24:55,759
+            why you haven't
+            become ruler
+            in your dimension.
+
+524
+00:24:55,761 --> 00:24:58,429
+ All right,
+ Mr. Eviler-Than-Thou,
+
+525
+00:24:58,430 --> 00:25:01,098
+ just how did you
+ manage to take over
+ the tri-state area anyway?
+
+526
+00:25:01,100 --> 00:25:04,635
+             Simple, I used
+            an army of big,
+             scary robots.
+
+527
+00:25:04,637 --> 00:25:07,071
+      NORMBOTS: <i> We should</i>
+      <i> do lunch sometime.</i>
+
+528
+00:25:07,073 --> 00:25:09,507
+   Wow, that is scary.
+
+529
+00:25:09,509 --> 00:25:11,408
+  I tried that
+  robot thing once, too.
+
+530
+00:25:11,410 --> 00:25:13,177
+    I hid the self-destruct
+    button
+    on the bottoms of their
+    feet
+
+531
+00:25:13,179 --> 00:25:15,145
+ <i> so no one</i>
+ <i> could reach them.</i>
+
+532
+00:25:18,784 --> 00:25:19,984
+                  And march!
+
+533
+00:25:19,985 --> 00:25:21,185
+ I think I've said enough.
+ I still don't get it.
+
+534
+00:25:21,187 --> 00:25:24,522
+ If we're the same person,
+ why are you so much better
+ at being evil than me?
+
+535
+00:25:24,524 --> 00:25:28,559
+     True evil is born
+     through pain and loss.
+
+536
+00:25:28,561 --> 00:25:31,762
+         You see,
+         when I was a small boy
+         back in Gimelschtump,
+
+537
+00:25:31,764 --> 00:25:34,598
+              I had a toy train.
+
+538
+00:25:34,600 --> 00:25:36,166
+       <i> Then, one day I lost it.</i>
+
+539
+00:25:36,168 --> 00:25:37,434
+        Choo-Choo?
+
+540
+00:25:41,274 --> 00:25:43,741
+  That's... That's it?
+            What do you mean?
+
+541
+00:25:43,743 --> 00:25:45,643
+  That's your emotionally
+  scarring back-story?
+
+542
+00:25:45,645 --> 00:25:47,611
+       That's your
+       great tragedy?
+
+543
+00:25:47,613 --> 00:25:50,347
+       Dude! I was
+       raised by ocelots.
+       I mean, literally.
+
+544
+00:25:50,349 --> 00:25:52,716
+   Disowned by my parents
+   and raised by
+   Central American wildcats,
+
+545
+00:25:52,718 --> 00:25:55,085
+     and you're telling me
+     you lost a toy train?
+     That's all?
+
+546
+00:25:55,087 --> 00:25:57,288
+ That's all you got,
+       really?
+
+547
+00:25:57,290 --> 00:25:58,756
+        I had to work
+        as a lawn gnome!
+
+548
+00:25:58,758 --> 00:26:00,357
+      <i> I was forced to wear</i>
+      <i> hand-me-up girl's</i>
+      <i> clothing!</i>
+
+549
+00:26:00,359 --> 00:26:03,694
+    <i> Neither of my parents</i>
+    <i> showed up for my birth!</i>
+
+550
+00:26:03,696 --> 00:26:06,196
+             Well, how did you
+             feel when you lost
+             that toy train?
+
+551
+00:26:06,198 --> 00:26:07,831
+     I never lost
+     that toy train...
+
+552
+00:26:07,833 --> 00:26:10,234
+        Well, maybe if you had,
+        you'd have done better.
+
+553
+00:26:10,236 --> 00:26:13,504
+       Since you have neglected
+       to take over your
+       tri-state area,
+
+554
+00:26:13,506 --> 00:26:16,707
+   I think I'll go over there
+   and give it a shot myself!
+
+555
+00:26:16,709 --> 00:26:19,209
+  Great!
+  We can be a team!
+
+556
+00:26:19,211 --> 00:26:21,679
+            Yeah, right. A team.
+
+557
+00:26:21,681 --> 00:26:23,080
+ Wait, was that sarcasm?
+
+558
+00:26:23,082 --> 00:26:24,715
+                      No!
+
+559
+00:26:24,716 --> 00:26:26,349
+ Yeah! Right there!
+ I'm pretty sure
+ that's my voice
+
+560
+00:26:26,352 --> 00:26:28,118
+ when I'm being sarcastic.
+
+561
+00:26:28,120 --> 00:26:28,686
+          Okay, Buford,
+          where are
+          Phineas and Ferb?
+
+562
+00:26:28,688 --> 00:26:30,821
+              How should I know?
+
+563
+00:26:30,823 --> 00:26:32,690
+        They never showed up
+        for me to return serve!
+
+564
+00:26:32,692 --> 00:26:35,392
+     That's considered a
+     forfeit
+     in catapult badminton.
+
+565
+00:26:35,394 --> 00:26:37,127
+        So I went to get
+       some Victory Gum.
+
+566
+00:26:37,129 --> 00:26:38,562
+        CHORUS:
+        <i> ♪ Victory Gum! ♪</i>
+
+567
+00:26:38,564 --> 00:26:41,131
+             A tradition as old
+            as the game itself.
+
+568
+00:26:41,133 --> 00:26:42,399
+ Don't play with me,
+ young man.
+
+569
+00:26:42,401 --> 00:26:44,435
+ Where is the giant
+ platypult they built?
+
+570
+00:26:44,437 --> 00:26:46,370
+        I don't know.
+        Seems to have vanished.
+
+571
+00:26:46,372 --> 00:26:48,472
+              Really? Did you
+              hear that, Stacy?
+
+572
+00:26:48,474 --> 00:26:50,541
+        The mysterious force
+        took the platypult away
+
+573
+00:26:50,543 --> 00:26:52,743
+        before I, the grown-up,
+        could see it.
+
+574
+00:26:52,745 --> 00:26:56,246
+ Yeah, yeah. I'm sure
+ there's a perfectly
+ logical
+ explanation for all of
+
+575
+00:26:56,248 --> 00:26:59,316
+        And they laughed at me
+        for installing
+        a platypult tow rig!
+
+576
+00:26:59,318 --> 00:27:00,751
+   Who's laughing now, Wayne?
+
+577
+00:27:00,753 --> 00:27:04,755
+        The logical explanation
+        is the mysterious force.
+
+578
+00:27:04,757 --> 00:27:06,523
+          The real question is,
+
+579
+00:27:06,525 --> 00:27:08,792
+       why does it care so much
+      about my little brothers?
+
+580
+00:27:08,794 --> 00:27:11,495
+         Why doesn't it want
+         them to get busted?
+
+581
+00:27:11,496 --> 00:27:14,197
+            Well, why don't you
+            ask it, Kierkegaard?
+
+582
+00:27:14,200 --> 00:27:16,567
+           What? Existentialist
+           trading cards.
+
+583
+00:27:16,569 --> 00:27:18,619
+        They came with the gum.
+
+584
+00:27:18,620 --> 00:27:20,670
+        Wait, he's right!
+        I should just ask it!
+
+585
+00:27:20,673 --> 00:27:22,773
+             I'll bet I can
+             reason with it.
+   Reason with it?
+
+586
+00:27:22,775 --> 00:27:26,276
+ Candace, it's a force
+ that you made up.
+
+587
+00:27:26,278 --> 00:27:28,345
+          No, I know what I'm
+          talking about, Stacy!
+
+588
+00:27:28,347 --> 00:27:29,780
+ Come on!
+     STACY: Where are you
+            going?
+
+589
+00:27:29,782 --> 00:27:33,751
+  To my back yard!
+  The heart of the
+ mysterious force!
+
+590
+00:27:33,753 --> 00:27:36,153
+ Would you like to
+  trade two Sartre
+  for a Nietzsche?
+
+591
+00:27:36,155 --> 00:27:37,521
+                 All right.
+
+592
+00:27:37,523 --> 00:27:38,689
+    Sucker!
+
+593
+00:27:43,696 --> 00:27:46,296
+           Well, this should be
+           our street.
+
+594
+00:27:46,298 --> 00:27:47,331
+               But it sure
+               looks different.
+
+595
+00:27:52,271 --> 00:27:53,504
+                      Dad?
+
+596
+00:27:53,506 --> 00:27:55,222
+       Boys, what are you
+       doing here?
+
+597
+00:27:55,223 --> 00:27:56,939
+        You'd better get inside
+        before the Doofbot
+        catches you.
+
+598
+00:27:56,942 --> 00:27:59,410
+        I'm off to the factory.
+        See you next week.
+
+599
+00:28:00,379 --> 00:28:02,946
+ Wow! Well, I guess
+ we'd better get inside.
+
+600
+00:28:05,851 --> 00:28:09,353
+            You might want to...
+
+601
+00:28:09,355 --> 00:28:12,256
+         I mean, these guys
+         might not know that
+         you're not really a...
+
+602
+00:28:12,258 --> 00:28:13,424
+                  You know.
+
+603
+00:28:15,361 --> 00:28:16,727
+    (CHATTERING)
+
+604
+00:28:24,804 --> 00:28:28,405
+      Boys! I thought you
+      were in your room.
+      Get inside!
+
+605
+00:28:28,407 --> 00:28:30,607
+ And get your dooferalls
+ back on before someone
+ sees you.
+
+606
+00:28:30,609 --> 00:28:33,577
+  If you need me,
+   I'll be hiding
+  in the basement.
+
+607
+00:28:33,579 --> 00:28:35,245
+                That was weird.
+                Let's find
+                the other us's.
+
+608
+00:28:37,450 --> 00:28:40,451
+        And... Hey, I got a one!
+
+609
+00:28:40,453 --> 00:28:42,553
+        Pick a Doofopoly
+       instruction card!
+
+610
+00:28:42,555 --> 00:28:44,555
+         "Conform."
+         I can do that.
+
+611
+00:28:44,557 --> 00:28:45,989
+           Hi, guys.
+
+612
+00:28:45,991 --> 00:28:47,825
+  No! They're
+  replacing us!
+
+613
+00:28:47,827 --> 00:28:49,560
+ I must not have conformed
+ quick enough.
+
+614
+00:28:49,562 --> 00:28:50,794
+      No, no,
+      it's not like that.
+
+615
+00:28:50,796 --> 00:28:52,363
+        We're you guys
+        from another dimension.
+
+616
+00:28:52,364 --> 00:28:53,931
+ Different dimension?
+ Is that allowed?
+             Apparently.
+
+617
+00:28:53,933 --> 00:28:56,800
+                 Oh, look!
+                 Perry's back!
+
+618
+00:28:56,802 --> 00:28:59,903
+      Where have you been?
+      We've missed you so much.
+
+619
+00:28:59,905 --> 00:29:02,573
+  Phineas,
+  he's not your Perry.
+  He came with us.
+
+620
+00:29:02,575 --> 00:29:04,875
+                  Oh. Sorry.
+
+621
+00:29:04,877 --> 00:29:07,544
+           Wait, can I hold him
+           a little longer?
+
+622
+00:29:11,751 --> 00:29:14,785
+          It's just that,
+          well, he left one day
+          and never came back.
+
+623
+00:29:14,787 --> 00:29:17,254
+        He's been gone
+        for a long time,
+        and I'm really worried.
+
+624
+00:29:17,256 --> 00:29:18,873
+         All right,
+         you know the only time
+         we're allowed to
+
+625
+00:29:18,874 --> 00:29:20,491
+                make noise is
+                on Doofens Day.
+
+626
+00:29:20,493 --> 00:29:21,992
+                  So keep it...
+
+627
+00:29:21,994 --> 00:29:23,794
+              Are there four of
+              you in this room?
+
+628
+00:29:23,796 --> 00:29:25,796
+ Five, counting Perry.
+
+629
+00:29:25,798 --> 00:29:27,865
+               I see nothing.
+               I have plausible
+               deniability.
+
+630
+00:29:27,867 --> 00:29:29,767
+ Boy, your Candace
+ is much less curious
+ about what you're up to.
+
+631
+00:29:29,769 --> 00:29:32,536
+              What do you mean?
+
+632
+00:29:32,538 --> 00:29:34,905
+ Well, it seems like
+ our Candace has spent
+ her entire summer
+
+633
+00:29:34,907 --> 00:29:36,740
+ focused on
+ what we're doing.
+
+634
+00:29:36,742 --> 00:29:39,343
+               Summer? I think
+              that was outlawed
+               a long time ago.
+
+635
+00:29:39,345 --> 00:29:40,377
+         You guys don't
+         have summer?
+
+636
+00:29:40,379 --> 00:29:42,713
+        Well, that's...
+        That's terrible.
+
+637
+00:29:42,715 --> 00:29:47,417
+     Summer. It sounds
+     dangerous
+     yet oddly compelling.
+     What is it?
+
+638
+00:29:47,419 --> 00:29:50,521
+ What is summer?
+ Man, where do I begin?
+
+639
+00:29:51,557 --> 00:29:55,459
+     <i> ♪ The days are longer</i>
+     <i> The nights are shorter</i>
+
+640
+00:29:55,461 --> 00:29:56,660
+      <i> ♪ The sun is shining</i>
+
+641
+00:29:56,662 --> 00:29:58,061
+    <i> ♪ It's noticeably warmer</i>
+
+642
+00:29:58,063 --> 00:29:59,763
+            <i> ♪ Summer</i>
+
+643
+00:29:59,765 --> 00:30:04,468
+    <i> ♪ Every single moment is</i>
+    <i> Worth its weight in gold</i>
+
+644
+00:30:04,470 --> 00:30:06,570
+            <i> ♪ Summer</i>
+
+645
+00:30:06,572 --> 00:30:09,773
+     <i> ♪ It's like</i>
+     <i> the world's best story</i>
+     <i> And it's waiting to be</i>
+     <i> told</i>
+
+646
+00:30:09,775 --> 00:30:16,747
+     <i> ♪ It's ice cream cones</i>
+        <i> and cherry soda</i>
+    <i> Dripping down your chin</i>
+
+647
+00:30:16,749 --> 00:30:20,984
+     <i> ♪ It's summer!</i>
+     <i> Man, where do we begin</i>
+
+648
+00:30:23,088 --> 00:30:25,973
+            <i> ♪ Summer</i>
+
+649
+00:30:25,974 --> 00:30:28,859
+    <i> ♪ It's ponds and</i>
+    <i> pools and garden hoses</i>
+    <i> Trying to beat the heat</i>
+
+650
+00:30:29,495 --> 00:30:31,395
+            <i> ♪ Summer</i>
+
+651
+00:30:31,397 --> 00:30:35,599
+    <i> ♪ Bicycles and roller</i>
+    <i> skates</i>
+    <i> And even just bare feet</i>
+
+652
+00:30:35,601 --> 00:30:38,769
+      <i> ♪ It's also</i>
+      <i> surfing tidal waves</i>
+      <i> Creating nano-bots</i>
+
+653
+00:30:38,771 --> 00:30:42,005
+      <i> ♪ Or locating</i>
+      <i> Frankenstein's brain</i>
+
+654
+00:30:42,007 --> 00:30:44,708
+     <i> ♪ Finding a dodo bird</i>
+      <i> Painting a continent</i>
+
+655
+00:30:44,710 --> 00:30:46,844
+        <i> ♪ Or driving</i>
+        <i> our sister in...</i>
+
+656
+00:30:46,846 --> 00:30:48,946
+   Wait, maybe
+   we're going too fast.
+
+657
+00:30:50,916 --> 00:30:53,650
+        <i> ♪ Summer</i>
+
+658
+00:30:53,651 --> 00:30:56,385
+    <i> ♪ It's crickets and</i>
+    <i> cicadas</i>
+    <i> And a glass of lemonade</i>
+
+659
+00:30:56,388 --> 00:31:00,490
+    <i> ♪ Summer</i>
+    <i> It's sitting</i>
+    <i> with your brother</i>
+
+660
+00:31:00,492 --> 00:31:04,628
+ <i> ♪ In the back yard</i>
+ <i> Under the shade of</i>
+ <i> a big tree</i>
+
+661
+00:31:05,798 --> 00:31:08,498
+     <i> ♪ That's what</i>
+     <i> it means to me</i>
+
+662
+00:31:08,500 --> 00:31:11,702
+     <i> ♪ The days are longer</i>
+     <i> The nights are shorter</i>
+
+663
+00:31:11,704 --> 00:31:12,936
+      <i> ♪ The sun is shining</i>
+
+664
+00:31:12,938 --> 00:31:13,604
+       <i> ♪ It's noticeably warmer</i>
+
+665
+00:31:13,606 --> 00:31:16,106
+            <i> ♪ Summer</i>
+
+666
+00:31:16,108 --> 00:31:20,677
+    <i> ♪ Every single moment is</i>
+    <i> Worth its weight in gold</i>
+
+667
+00:31:20,679 --> 00:31:22,913
+            <i> ♪ Summer</i>
+
+668
+00:31:22,915 --> 00:31:27,017
+     <i> ♪ It's like</i>
+     <i> the world's best story</i>
+     <i> And it's waiting to be</i>
+     <i> told</i>
+
+669
+00:31:27,019 --> 00:31:33,123
+     <i> ♪ It's ice cream cones</i>
+        <i> and cherry soda</i>
+    <i> dripping down your chin</i>
+
+670
+00:31:33,125 --> 00:31:36,727
+     <i> ♪ It's summer</i>
+     <i> Man, where do we begin</i>
+
+671
+00:31:36,729 --> 00:31:39,563
+     <i> ♪ It's summer</i>
+     <i> Man, where do we begin</i>
+
+672
+00:31:39,565 --> 00:31:43,734
+    <i> ♪ It's summer</i>
+    <i> Man, where do we begin ♪</i>
+
+673
+00:31:44,970 --> 00:31:47,537
+       Wow. Summer sounds
+       like a blast.
+
+674
+00:31:47,539 --> 00:31:49,406
+    That's just the tip
+    of the iceberg.
+
+675
+00:31:49,408 --> 00:31:51,125
+     Like this summer
+     for instance.
+
+676
+00:31:51,126 --> 00:31:52,843
+  We built a rollercoaster,
+  we became one-hit wonders,
+
+677
+00:31:52,845 --> 00:31:54,845
+ we traveled through
+       time...
+         (MUSIC PLAYING ON TV)
+
+678
+00:31:54,847 --> 00:31:59,549
+     <i> This is a message</i>
+     <i> for other dimension</i>
+     <i> Perry the Platypus.</i>
+
+679
+00:31:59,551 --> 00:32:03,053
+    <i> If you turn yourself in,</i>
+    <i> I promise not to hurt</i>
+    <i> your little friends.</i>
+
+680
+00:32:06,492 --> 00:32:08,859
+       <i> If you don't,</i>
+       <i> all bets are off.</i>
+
+681
+00:32:08,861 --> 00:32:12,462
+ And then we launched
+ ourselves from a giant
+ Perry the Platypult and...
+
+682
+00:32:16,168 --> 00:32:17,701
+            You are kidding me.
+
+683
+00:32:17,703 --> 00:32:19,937
+           You're actually
+           sneaking away again?
+
+684
+00:32:19,939 --> 00:32:22,139
+         So nothing's changed.
+
+685
+00:32:22,141 --> 00:32:23,991
+        Did it ever occur to you
+        that we could help you?
+
+686
+00:32:23,992 --> 00:32:25,842
+      That we could have
+      made a great team?
+
+687
+00:32:25,844 --> 00:32:28,578
+   But I guess you can't have
+   teamwork without trust.
+
+688
+00:32:28,580 --> 00:32:30,447
+          You don't have to
+          sneak away anymore.
+
+689
+00:32:30,449 --> 00:32:33,884
+          We know your secret.
+          You can just go.
+
+690
+00:32:36,555 --> 00:32:43,527
+      WOMAN:
+      <i> ♪ I walk away</i>
+      <i> from you, my friend</i>
+
+691
+00:32:43,529 --> 00:32:50,667
+      <i> ♪ I hope that</i>
+      <i> this is not the end</i>
+
+692
+00:32:50,669 --> 00:32:53,870
+       <i> ♪ Of all the times</i>
+       <i> we figured out</i>
+
+693
+00:32:53,872 --> 00:32:58,141
+     <i> ♪ How to seize the day</i>
+
+694
+00:32:58,143 --> 00:33:01,845
+       <i> ♪ As I walk away ♪</i>
+
+695
+00:33:05,951 --> 00:33:11,621
+    You know,
+    I used to think you
+    couldn't
+    spell "platypus" without
+
+696
+00:33:11,623 --> 00:33:14,624
+              Well, you can.
+              But it would
+              just be "platyp."
+
+697
+00:33:14,626 --> 00:33:17,027
+          Well, I guess if you
+          guys can't help us
+          fix the remote,
+
+698
+00:33:17,029 --> 00:33:18,495
+              we could check
+              with Isabella.
+
+699
+00:33:18,497 --> 00:33:19,830
+    Who is Isabella?
+
+700
+00:33:19,832 --> 00:33:21,898
+            The girl who lives
+            across the street.
+
+701
+00:33:21,900 --> 00:33:24,034
+           Mom says that
+           talking to neighbors
+           can be dangerous.
+
+702
+00:33:24,036 --> 00:33:25,936
+ MOM 2D: It's true!
+    Well, it's time you met
+             her.
+
+703
+00:33:25,938 --> 00:33:27,270
+               Come on,
+               you'll like her.
+
+704
+00:33:27,272 --> 00:33:29,106
+                What about
+                the Normbots?
+
+705
+00:33:29,108 --> 00:33:32,109
+         Relax! We've been
+         avoiding them all day.
+
+706
+00:33:32,111 --> 00:33:34,711
+   If you're really careful,
+   you can...
+
+707
+00:33:34,713 --> 00:33:36,279
+    Okay, we've got to be
+    more careful than that.
+
+708
+00:33:36,281 --> 00:33:38,648
+        <i> May I please see</i>
+        <i> your identification?</i>
+
+709
+00:33:38,650 --> 00:33:40,250
+                      Uh...
+
+710
+00:33:40,252 --> 00:33:41,885
+        <i> Display your</i>
+        <i> travel papers</i>
+        <i> or be destroyed.</i>
+
+711
+00:33:41,887 --> 00:33:45,722
+     <i> Display your travel...</i>
+
+712
+00:33:45,724 --> 00:33:47,708
+             I can't stand
+             these things.
+
+713
+00:33:47,709 --> 00:33:49,693
+          Hey! It's Buford.
+          Who are you guys?
+
+714
+00:33:49,695 --> 00:33:52,129
+   We're Candace's brothers.
+   We're going to Isabella's.
+
+715
+00:33:52,131 --> 00:33:53,730
+       Are you part of
+       the Resistance?
+
+716
+00:33:53,732 --> 00:33:55,799
+       I used to be
+       in the Resistance,
+
+717
+00:33:55,801 --> 00:33:58,735
+      but I got so good
+      at it that I started
+      resisting them.
+
+718
+00:33:58,737 --> 00:34:01,104
+   DOOFENSHMIRTZ: Behold,
+   the Other-Dimensionator!
+
+719
+00:34:01,106 --> 00:34:03,306
+     Actually, this is the
+     other
+     Other-Dimensionator.
+
+720
+00:34:03,308 --> 00:34:07,044
+   The Other-Dimensionator is
+   back in the other
+   dimension.
+
+721
+00:34:07,046 --> 00:34:09,679
+              Okay, step one is,
+              push this button.
+
+722
+00:34:09,681 --> 00:34:12,315
+            Step two,
+            stand back in awe!
+
+723
+00:34:14,586 --> 00:34:16,353
+        (MACHINE POWERING DOWN)
+
+724
+00:34:16,354 --> 00:34:18,121
+                (GROANS)
+      That's it?
+
+725
+00:34:18,123 --> 00:34:20,123
+              Now that
+              I think about it,
+
+726
+00:34:20,125 --> 00:34:23,093
+   those two boys made some
+   modifications to my design
+
+727
+00:34:23,095 --> 00:34:25,762
+               which may have
+               allowed it to...
+               You know...
+
+728
+00:34:25,764 --> 00:34:27,347
+                   To work.
+
+729
+00:34:27,348 --> 00:34:28,931
+    Great, now I need
+    those two boys?
+
+730
+00:34:31,837 --> 00:34:34,237
+    Ah! Perry the Platypus!
+
+731
+00:34:34,239 --> 00:34:37,841
+          Jinx!
+          You owe me two sodas!
+
+732
+00:34:37,843 --> 00:34:39,709
+ Listen, Perry the
+ Platypus,
+ I know I told you
+
+733
+00:34:39,711 --> 00:34:41,812
+   if you turned yourself in
+   I wouldn't hurt your
+   friends,
+
+734
+00:34:41,814 --> 00:34:43,847
+  but change of plans!
+
+735
+00:34:43,849 --> 00:34:46,683
+ Now I need to hunt
+ them down which might
+ involve a little hurting.
+
+736
+00:34:46,685 --> 00:34:49,653
+ I know that makes me
+ a liar, but hello! Evil!
+
+737
+00:34:51,223 --> 00:34:53,657
+            Come on,
+            Isabella's house
+            is right through...
+
+738
+00:35:00,766 --> 00:35:01,331
+           What you doing?
+
+739
+00:35:01,333 --> 00:35:04,367
+        Isabella?
+
+740
+00:35:04,369 --> 00:35:07,337
+        Do I know you?
+            Hey, Isabella!
+
+741
+00:35:07,339 --> 00:35:09,906
+      Him I know.
+      Buford, what do you want?
+
+742
+00:35:09,908 --> 00:35:11,708
+             I thought you were
+             resisting us?
+
+743
+00:35:11,710 --> 00:35:13,610
+          I was helping
+          Candace's brothers
+          cross the street.
+
+744
+00:35:13,612 --> 00:35:15,979
+      Candace has two sets
+      of twin brothers?
+
+745
+00:35:15,981 --> 00:35:18,748
+  No, he and I are
+  from another dimension.
+
+746
+00:35:18,750 --> 00:35:20,050
+       We're trying
+       to get back.
+
+747
+00:35:20,052 --> 00:35:21,184
+            All right, girls,
+            release them.
+
+748
+00:35:27,059 --> 00:35:28,792
+   Why would you want to come
+   to this dimension, anyway?
+
+749
+00:35:28,794 --> 00:35:30,660
+           Well, we didn't mean
+           to come here.
+
+750
+00:35:30,662 --> 00:35:33,230
+          Now we can't get back
+          unless we can fix
+          this device.
+
+751
+00:35:33,231 --> 00:35:35,799
+         Well, we may have
+         someone who can
+         help you. Dr. Baljeet.
+
+752
+00:35:35,801 --> 00:35:36,867
+            Baljeet!
+
+753
+00:35:36,869 --> 00:35:39,136
+   That's Dr. Baljeet to you!
+
+754
+00:35:39,138 --> 00:35:41,304
+       Were you not listening?
+       Here is the crux
+       of your problem.
+
+755
+00:35:41,306 --> 00:35:44,307
+  Think of the universe
+  and all of the many
+  dimensions as circular.
+
+756
+00:35:44,309 --> 00:35:46,676
+         The energy flows
+         between the dimensions
+         like this, clockwise.
+
+757
+00:35:46,678 --> 00:35:51,081
+   Say this is your dimension
+   and this is our dimension.
+
+758
+00:35:51,083 --> 00:35:52,949
+           You traveled with
+           the flow of energy.
+
+759
+00:35:52,951 --> 00:35:54,885
+       So going clockwise
+       would be easy!
+
+760
+00:35:54,887 --> 00:35:58,155
+    Going counter clockwise
+    would take 8 million
+    gigawatts of energy,
+
+761
+00:35:58,157 --> 00:36:00,790
+     overloading
+     the local power grid.
+
+762
+00:36:00,792 --> 00:36:02,692
+     I have prepared
+     a little song to help
+     illustrate my point.
+
+763
+00:36:02,694 --> 00:36:04,661
+       <i> ♪ If you travel</i>
+       <i> through dimensions</i>
+
+764
+00:36:04,663 --> 00:36:07,797
+       <i> ♪ Going clockwise</i>
+       <i> makes it easy</i>
+
+765
+00:36:07,799 --> 00:36:09,766
+   <i> ♪ Going counter clockwise</i>
+   <i> would take 8 million</i>
+   <i> gigawatts of energy</i>
+
+766
+00:36:09,768 --> 00:36:13,670
+       <i> ♪ overloading</i>
+       <i> the local power grid ♪</i>
+
+767
+00:36:14,773 --> 00:36:16,373
+       I know,
+       it needs a chorus.
+
+768
+00:36:16,375 --> 00:36:18,625
+          Anyway, without the
+          8 million gigawatts,
+
+769
+00:36:18,626 --> 00:36:20,876
+         you would have
+         to go clockwise,
+         the long way around.
+
+770
+00:36:20,879 --> 00:36:22,779
+        Theoretically,
+        you would get home
+        but there is no telling
+
+771
+00:36:22,781 --> 00:36:24,714
+         how many dimensions
+         you would have to
+         go through.
+
+772
+00:36:24,716 --> 00:36:26,783
+       Well, do you think
+       you can help us
+       get enough power
+
+773
+00:36:26,785 --> 00:36:28,552
+      to open the window
+      backwards
+      so we can get home?
+
+774
+00:36:28,553 --> 00:36:30,320
+       Well, we should probably
+       ask our leader.
+
+775
+00:36:30,322 --> 00:36:32,255
+          (IN DEEP VOICE)
+          Ask your leader what?
+
+776
+00:36:32,257 --> 00:36:33,890
+                 (COUGHING)
+
+777
+00:36:33,892 --> 00:36:36,726
+      Who made the topiary
+     out of wild parsnips?
+
+778
+00:36:36,728 --> 00:36:38,395
+     I'm allergic,
+     and it's messing up
+     my voice.
+
+779
+00:36:38,397 --> 00:36:40,864
+   Candace, you're the leader
+   of the resistance?
+
+780
+00:36:40,866 --> 00:36:43,767
+              What are you two
+              (IN NORMAL VOICE)
+              doing here?
+
+781
+00:36:43,769 --> 00:36:46,169
+      Never mind,
+      I'll deal with you later.
+      You two,
+
+782
+00:36:46,171 --> 00:36:48,772
+       I've been spending
+       all these years trying
+       to keep my brothers safe
+
+783
+00:36:48,774 --> 00:36:51,241
+    and suddenly their faces
+              are
+      all over the Doofen
+            Channel.
+
+784
+00:36:51,243 --> 00:36:52,409
+   We're just trying
+   to get home.
+
+785
+00:36:52,411 --> 00:36:54,044
+   Well, what's stopping you?
+
+786
+00:36:54,046 --> 00:36:56,746
+    Right now?
+    Quantum physics.
+           Baljeet.
+
+787
+00:36:56,748 --> 00:36:58,415
+           We need to generate
+           8 million gigawatts
+
+788
+00:36:58,417 --> 00:37:00,006
+           for inter-dimensional
+           travel.
+
+789
+00:37:00,007 --> 00:37:01,596
+                 Then we've got
+                 work to do.
+
+790
+00:37:01,597 --> 00:37:03,186
+        Isabella, start
+        redirecting the power.
+ Aye aye!
+
+791
+00:37:03,188 --> 00:37:04,921
+ Gretchen! Monitor
+ the Doofen Channel.
+
+792
+00:37:04,923 --> 00:37:06,440
+ Make sure we're not
+ raising any alarms.
+
+793
+00:37:06,441 --> 00:37:07,958
+             I'm on it.
+        Buford, keep resisting.
+
+794
+00:37:07,960 --> 00:37:10,377
+            No!
+                   Excellent.
+
+795
+00:37:10,378 --> 00:37:12,795
+  (IN DEEP VOICE)
+  And will somebody
+  get rid of that topiary!
+
+796
+00:37:12,798 --> 00:37:13,997
+      (CLEARS THROAT)
+      Thank you.
+
+797
+00:37:15,267 --> 00:37:18,268
+ Oh, great and powerful
+ mysterious force!
+
+798
+00:37:18,270 --> 00:37:20,971
+            I know you are
+            just trying to
+            protect my brothers
+
+799
+00:37:20,973 --> 00:37:23,473
+          but I am simply trying
+          to protect them, too,
+
+800
+00:37:23,475 --> 00:37:25,275
+ from their
+ dangerous inventions.
+
+801
+00:37:25,277 --> 00:37:28,044
+     Show yourself so that
+     I may reason with you!
+
+802
+00:37:30,249 --> 00:37:32,782
+     Maybe we should
+     build a shrine to it?
+
+803
+00:37:32,784 --> 00:37:33,783
+      Candace, that's...
+          (BOTH GASP)
+
+804
+00:37:33,785 --> 00:37:34,918
+         (BOTH SCREAM)
+
+805
+00:37:34,920 --> 00:37:37,220
+    BOTH:
+    It's a mysterious force!
+
+806
+00:37:39,124 --> 00:37:41,925
+       Ferb! I think we got it!
+       It looks like home!
+
+807
+00:37:41,927 --> 00:37:44,160
+   What do we do now?
+
+808
+00:37:44,162 --> 00:37:46,496
+            I don't know.
+            I can't believe
+            it actually worked.
+
+809
+00:37:46,498 --> 00:37:49,165
+    Well, thanks, everyone.
+    Hey, where's...
+
+810
+00:37:49,167 --> 00:37:51,234
+       Oh. That's right.
+
+811
+00:37:51,236 --> 00:37:52,802
+       CHORUS ON TV:
+       <i> ♪ Doofenshmirtz</i>
+       <i> Evil news update ♪</i>
+
+812
+00:37:52,804 --> 00:37:55,305
+         <i> This just in.</i>
+
+813
+00:37:55,307 --> 00:37:56,857
+   <i> Our supreme leader</i>
+   <i> has announced the capture</i>
+
+814
+00:37:56,858 --> 00:37:58,408
+     <i> of public enemy number</i>
+              <i> one,</i>
+
+815
+00:37:58,410 --> 00:38:00,944
+      <i> Perry the</i>
+      <i> Alternate-Dimension</i>
+      <i> Platypus.</i>
+
+816
+00:38:00,946 --> 00:38:04,948
+     <i> I guess we won't be</i>
+     <i> seeing him any more</i>
+     <i> except as a platyborg.</i>
+
+817
+00:38:04,950 --> 00:38:07,484
+       <i> It's 3:30.</i>
+       <i> We now conclude</i>
+       <i> our broadcast day.</i>
+
+818
+00:38:07,486 --> 00:38:09,119
+         <i> Now go to bed!</i>
+
+819
+00:38:09,121 --> 00:38:10,553
+ We've got to save him!
+            Oh, no.
+
+820
+00:38:10,555 --> 00:38:12,472
+     Too risky.
+     You've got to get back
+     to your dimension.
+
+821
+00:38:12,473 --> 00:38:14,390
+ We're not going anywhere
+ without our platypus.
+
+822
+00:38:14,393 --> 00:38:16,559
+     I thought you told us
+     he was just using you
+     as a cover.
+
+823
+00:38:16,561 --> 00:38:18,228
+ I know what I said.
+ I was hurt.
+
+824
+00:38:18,230 --> 00:38:19,796
+ But even if
+ it was all an act,
+
+825
+00:38:19,798 --> 00:38:21,098
+ he's still
+ a part of the family,
+
+826
+00:38:21,099 --> 00:38:22,399
+ and we're not
+ leaving him behind.
+
+827
+00:38:22,401 --> 00:38:24,384
+            I may never be able
+            to open this again.
+
+828
+00:38:24,385 --> 00:38:26,368
+ It doesn't matter.
+ We're going back for him.
+
+829
+00:38:26,371 --> 00:38:28,038
+          Well, then
+      you're on your own.
+        Fine.
+
+830
+00:38:28,040 --> 00:38:30,040
+  Just tell us where
+  Doofenshmirtz keeps
+  his prisoners.
+
+831
+00:38:30,042 --> 00:38:31,908
+     We have to help them!
+    No, we don't.
+
+832
+00:38:31,910 --> 00:38:35,278
+         Yes, we do. Remember
+         how we felt when our
+         Perry disappeared?
+
+833
+00:38:39,184 --> 00:38:41,051
+        Oh, criminy,
+        I must be crazy.
+
+834
+00:38:41,053 --> 00:38:42,185
+ All right,
+ we can get there
+ through the tunnels.
+
+835
+00:38:42,187 --> 00:38:44,554
+             Yes!
+    Let's suit up, people!
+
+836
+00:38:44,556 --> 00:38:46,356
+ You know what, Stacy?
+
+837
+00:38:46,358 --> 00:38:48,024
+      I'm tired of
+      the mysterious force
+      pushing me around.
+
+838
+00:38:48,026 --> 00:38:50,193
+ I'm going to show it
+ who's boss.
+           Candace, wait!
+
+839
+00:38:50,195 --> 00:38:51,328
+      I will try to keep it open
+      for as long as possible
+
+840
+00:38:51,330 --> 00:38:54,064
+              but the window
+              is very unstable.
+
+841
+00:38:54,066 --> 00:38:55,965
+          Even the slightest
+          disturbance will
+          cause it to collapse.
+
+842
+00:38:59,905 --> 00:39:02,038
+ Like that, for instance.
+         Hey, Candace.
+
+843
+00:39:02,040 --> 00:39:04,908
+   You guys are so...
+   Wait, why are there
+   four of you?
+
+844
+00:39:04,910 --> 00:39:06,409
+ Oh, these guys are
+ from this dimension.
+
+845
+00:39:06,411 --> 00:39:07,777
+   Are we inside
+   the mysterious force?
+
+846
+00:39:07,778 --> 00:39:09,144
+  I'm not sure
+  I understand
+ the question.
+
+847
+00:39:09,147 --> 00:39:11,881
+    And why is Isabella
+    suddenly fashionable?
+
+848
+00:39:11,883 --> 00:39:13,149
+              What do you mean,
+              "suddenly"?
+
+849
+00:39:13,150 --> 00:39:14,416
+       Seriously,
+       where are we?
+
+850
+00:39:14,419 --> 00:39:16,920
+   Candace, I'm sure you have
+   a million questions,
+
+851
+00:39:16,922 --> 00:39:18,455
+       but right now we have
+       to save Perry from being
+       turned into a cyborg.
+
+852
+00:39:18,457 --> 00:39:19,923
+            What?
+      We'll explain on the way.
+
+853
+00:39:19,925 --> 00:39:21,291
+       So, how do I dress
+       in your dimension?
+
+854
+00:39:21,293 --> 00:39:24,027
+        Hey, is that me?
+        I look good!
+
+855
+00:39:24,029 --> 00:39:25,862
+            Oh, no.
+            You two stay here.
+
+856
+00:39:25,864 --> 00:39:27,497
+    But we want to help.
+              That's an order!
+
+857
+00:39:32,437 --> 00:39:35,405
+ CANDACE: Wait,
+ so in this dimension,
+ Perry is a secret agent?
+
+858
+00:39:35,407 --> 00:39:37,507
+         No, in this dimension
+         he's a cyborg.
+
+859
+00:39:37,509 --> 00:39:39,309
+ So, where is he an agent?
+
+860
+00:39:39,311 --> 00:39:41,077
+           That would be
+           in our dimension.
+
+861
+00:39:41,079 --> 00:39:42,278
+           But we're not in
+           our dimension now.
+
+862
+00:39:42,280 --> 00:39:45,482
+ Okay, I'm having trouble
+ processing this.
+
+863
+00:39:45,484 --> 00:39:47,150
+           Now I wish
+           I hadn't thrown away
+           that pamphlet.
+
+864
+00:39:48,286 --> 00:39:50,203
+         And why are we
+         in mine cars?
+
+865
+00:39:50,204 --> 00:39:52,121
+     This'll take us as far
+     as the underground
+     entrance
+
+866
+00:39:52,124 --> 00:39:53,724
+    to Doof's headquarters.
+
+867
+00:39:53,725 --> 00:39:55,325
+         From there we go up
+         the ventilation shaft.
+
+868
+00:39:55,327 --> 00:39:57,227
+          The detainment center
+          is on level four.
+
+869
+00:39:57,229 --> 00:39:58,661
+ And the snack bar's
+ on level five!
+
+870
+00:39:58,663 --> 00:40:00,597
+  If there's time.
+
+871
+00:40:00,599 --> 00:40:03,166
+                  Buford.
+
+872
+00:40:03,168 --> 00:40:04,667
+  I'm just gonna
+  get some nachos.
+
+873
+00:40:12,210 --> 00:40:15,245
+ So, if there's another me
+ and another them,
+
+874
+00:40:15,247 --> 00:40:18,581
+ then there must also be
+ a Jeremy Johnson here,
+ too, right?
+
+875
+00:40:18,583 --> 00:40:20,984
+        Huh? Oh, yeah,
+        Johnson, Jeremy.
+
+876
+00:40:20,986 --> 00:40:23,420
+       Leads a three-man strike
+       team on the north side.
+       Good soldier.
+
+877
+00:40:23,422 --> 00:40:26,273
+         Good soldier?
+         That's all you
+         think of him?
+
+878
+00:40:26,274 --> 00:40:29,125
+      Don't you think
+      he's dreamy or cool
+      or even cute?
+
+879
+00:40:29,127 --> 00:40:30,393
+     Tell me at least
+     you think he's cute.
+
+880
+00:40:32,097 --> 00:40:33,496
+        Cute doesn't win
+        the war, kid.
+
+881
+00:40:34,399 --> 00:40:37,066
+  Oh. Well, I guess.
+
+882
+00:40:37,068 --> 00:40:39,969
+ But what do you guys
+ do around here for,
+ you know, fun?
+
+883
+00:40:39,971 --> 00:40:41,671
+          Look, "Candace" is it?
+
+884
+00:40:41,673 --> 00:40:44,474
+   No offense, but fun
+   isn't really on my agenda.
+
+885
+00:40:44,476 --> 00:40:46,576
+        You know, since
+         Doofenshmirtz
+    took over the tri-state
+             area,
+
+886
+00:40:46,578 --> 00:40:48,578
+           even though
+           I was a little girl,
+
+887
+00:40:48,580 --> 00:40:50,146
+           I've been focused
+           on one thing
+           and one thing only.
+
+888
+00:40:50,148 --> 00:40:51,948
+            He's going down,
+            down, down.
+
+889
+00:40:51,950 --> 00:40:53,316
+ Down, down, down, I know.
+
+890
+00:40:53,318 --> 00:40:55,118
+    But what about BFF's?
+    Or slumber parties?
+
+891
+00:40:55,120 --> 00:40:56,719
+  Or busting your
+  little brothers?
+
+892
+00:40:56,721 --> 00:40:59,422
+      Busting my brothers?
+
+893
+00:40:59,424 --> 00:41:02,125
+      I spent every day
+      of my life trying to
+      protect my little
+      brothers.
+
+894
+00:41:02,127 --> 00:41:03,460
+       I had to grow up
+       pretty quick around here
+
+895
+00:41:03,462 --> 00:41:05,094
+           to make sure
+           they didn't have to.
+
+896
+00:41:05,096 --> 00:41:07,397
+ Gee, you make growing up
+ sound like it's a bad
+ thing.
+
+897
+00:41:07,399 --> 00:41:11,000
+   It is what it is.
+   I'll do whatever it takes
+   to protect the ones I
+   love.
+
+898
+00:41:11,002 --> 00:41:12,535
+        Aw! Thanks, sis!
+
+899
+00:41:12,537 --> 00:41:14,037
+       What are you guys
+       doing here?
+
+900
+00:41:14,038 --> 00:41:15,538
+ We're here to help.
+           Sir, we're nearing
+           the target!
+
+901
+00:41:15,540 --> 00:41:17,707
+                 Don't move!
+
+902
+00:41:23,048 --> 00:41:25,748
+            Okay, people,
+            change of plans.
+
+903
+00:41:25,750 --> 00:41:27,450
+        This is as far as we go.
+
+904
+00:41:27,451 --> 00:41:29,151
+      We're not going
+      to help them?
+
+905
+00:41:29,154 --> 00:41:31,238
+            No, we're gonna
+            get you two home
+            where it's safe.
+
+906
+00:41:31,239 --> 00:41:33,323
+    But we wanna...
+     Look, this isn't our
+            fight.
+
+907
+00:41:33,325 --> 00:41:37,994
+          It's their fight,
+          and you two shouldn't
+          have gotten involved.
+
+908
+00:41:37,996 --> 00:41:39,095
+    Maybe none of us should
+    have.
+    Now we're out of here.
+
+909
+00:41:42,667 --> 00:41:45,368
+      I don't remember it being
+      so dark down here.
+
+910
+00:41:45,370 --> 00:41:47,170
+             Dark?
+     That's because it's a
+             trap!
+
+911
+00:41:47,172 --> 00:41:49,706
+           And if it was light,
+              you would have
+          seen us and run away,
+
+912
+00:41:49,708 --> 00:41:52,075
+        hence ruining the trap!
+
+913
+00:41:52,077 --> 00:41:53,376
+  I think they get that.
+
+914
+00:41:53,378 --> 00:41:55,378
+        PHINEAS: Perry!
+
+915
+00:41:55,380 --> 00:41:58,581
+      We, uh... We, well,
+      came to rescue you.
+
+916
+00:42:06,391 --> 00:42:08,057
+    So far it's not going
+    as well as we'd hoped.
+
+917
+00:42:08,727 --> 00:42:10,226
+       We didn't have
+       a lot of time to,
+
+918
+00:42:10,228 --> 00:42:11,761
+      you know, plan
+      something elaborate,
+
+919
+00:42:11,763 --> 00:42:14,163
+     but I guess
+     we could have created
+     some sort of diversion
+
+920
+00:42:14,165 --> 00:42:16,032
+        just in case...
+
+921
+00:42:16,034 --> 00:42:19,068
+     (SIGHS)
+     Yeah, we could have
+     thought this out more.
+
+922
+00:42:19,070 --> 00:42:23,239
+           (LAUGHS) I got you
+           and I got your
+           little friends, too!
+
+923
+00:42:23,241 --> 00:42:26,509
+           Game over! You lose!
+           I win!
+
+924
+00:42:26,511 --> 00:42:29,746
+             Mark this the hour
+               of your doom,
+            Perry the Platypus.
+
+925
+00:42:30,482 --> 00:42:32,715
+                 Three forty...
+
+926
+00:42:32,717 --> 00:42:35,218
+         I got one of these
+         watches with just
+         the little hash marks.
+
+927
+00:42:35,220 --> 00:42:37,220
+           It doesn't even have
+           the numbers on it.
+
+928
+00:42:37,222 --> 00:42:39,155
+                 Let's just say
+                 it's between
+                 3:30 and 4:00,
+
+929
+00:42:39,157 --> 00:42:39,455
+          Eastern Standard Time.
+
+930
+00:42:43,094 --> 00:42:44,160
+             Whoa!
+                  (SCREAMS)
+
+931
+00:42:47,766 --> 00:42:51,134
+         <i> I told you,</i>
+         <i> not between</i>
+         <i> 3:30 and 4:00!</i>
+
+932
+00:42:55,373 --> 00:42:56,956
+     They're getting away!
+
+933
+00:42:56,957 --> 00:42:58,540
+        (ALARM BLARING)
+
+934
+00:42:58,543 --> 00:43:00,543
+     I knew this was
+     a bad idea. All right,
+     everyone in the cars!
+
+935
+00:43:01,646 --> 00:43:05,114
+   Go, go, go, go, go!
+   Isabella, start the motor!
+
+936
+00:43:05,116 --> 00:43:07,183
+                      Yes, sir.
+
+937
+00:43:09,087 --> 00:43:11,187
+                 I got it.
+
+938
+00:43:14,559 --> 00:43:17,126
+      You two,
+      keep your heads down
+      and remember your
+      training!
+
+939
+00:43:17,128 --> 00:43:18,394
+        We never had
+       any training!
+
+940
+00:43:18,395 --> 00:43:19,661
+            Well, keep your
+            heads down!
+
+941
+00:43:19,664 --> 00:43:21,464
+  Consider yourself trained.
+  This is going to be close.
+
+942
+00:43:24,803 --> 00:43:26,669
+            All right,
+            you rust buckets.
+            Let's dance.
+
+943
+00:43:34,279 --> 00:43:36,579
+  Um, can you do that?
+
+944
+00:43:36,581 --> 00:43:37,380
+       Well, apparently.
+
+945
+00:43:43,555 --> 00:43:46,489
+ I am so in love
+ with her right now.
+
+946
+00:43:46,491 --> 00:43:48,224
+                   What?
+      Nothing.
+
+947
+00:43:48,226 --> 00:43:50,159
+         If we can get
+         to the north tunnel
+         before they get to us,
+
+948
+00:43:50,161 --> 00:43:51,895
+             I can trip
+             the security door.
+
+949
+00:43:51,896 --> 00:43:53,630
+         Isabella, can you
+         give us more throttle?
+
+950
+00:43:53,632 --> 00:43:55,498
+ It's all the way in, sir!
+
+951
+00:43:55,500 --> 00:43:58,401
+     All right, hang tough.
+     This is going to get
+     hairy.
+
+952
+00:44:04,409 --> 00:44:05,908
+ Can we make those turns
+ at this speed?
+
+953
+00:44:05,910 --> 00:44:06,409
+    Well, we're about
+    to find out.
+
+954
+00:44:21,860 --> 00:44:23,359
+ Whoa! Whoa! Whoa!
+
+955
+00:44:27,666 --> 00:44:29,532
+       There it is.
+       We should be okay
+       if we can hold off
+       these...
+
+956
+00:44:36,741 --> 00:44:38,074
+            Can we do that?
+
+957
+00:44:38,075 --> 00:44:39,408
+  No. Keep your head down.
+
+958
+00:44:50,255 --> 00:44:51,688
+  We're slowing down, sir!
+
+959
+00:44:51,690 --> 00:44:52,889
+        Keep it on the floor!
+
+960
+00:44:52,891 --> 00:44:55,425
+  It's on the floor.
+
+961
+00:44:55,427 --> 00:44:57,927
+ There's too much track,
+ sir.
+ I don't think we're going
+ to make it!
+
+962
+00:44:57,929 --> 00:44:59,529
+       Everyone,
+       to the front now!
+
+963
+00:44:59,531 --> 00:45:00,697
+ We're going to have
+ to cut loose these...
+
+964
+00:45:02,901 --> 00:45:04,300
+        The motor's overheating!
+
+965
+00:45:10,542 --> 00:45:11,974
+      Sorry, guys.
+      You're on your own.
+
+966
+00:45:16,648 --> 00:45:18,247
+      PHINEAS 2D:
+      What are you doing?
+
+967
+00:45:18,249 --> 00:45:20,483
+            My job.
+            Protecting you two.
+
+968
+00:45:20,485 --> 00:45:22,785
+      We've got to go back
+      and help them.
+
+969
+00:45:22,787 --> 00:45:24,253
+        That's not our fight.
+
+970
+00:45:24,255 --> 00:45:25,621
+           But you just
+           abandoned them!
+
+971
+00:45:25,623 --> 00:45:27,457
+ We could have made it!
+ We could have all made it!
+
+972
+00:45:27,459 --> 00:45:29,025
+           Or we could have
+           all been captured,
+
+973
+00:45:29,026 --> 00:45:30,592
+           and I wasn't going
+           to take that chance.
+
+974
+00:45:30,595 --> 00:45:32,595
+   These are
+   the tough choices, people.
+
+975
+00:45:32,597 --> 00:45:33,930
+           Somebody's got to
+           be the adult here.
+
+976
+00:45:33,932 --> 00:45:35,832
+            You two are safe,
+            and that's what's
+            important.
+
+977
+00:45:35,834 --> 00:45:36,466
+     But... But... But...
+      End of discussion.
+
+978
+00:45:46,578 --> 00:45:50,747
+    Man, I had my heart set
+    on those nachos.
+
+979
+00:45:50,749 --> 00:45:52,749
+ Look, mysterious force,
+
+980
+00:45:52,750 --> 00:45:54,750
+ I feel a little awkward
+ talking to you
+
+981
+00:45:54,753 --> 00:45:58,921
+   since I didn't believe
+  in you at first because,
+   you know, it's crazy.
+
+982
+00:45:58,923 --> 00:46:01,691
+             But then I saw you
+             eat my friend,
+
+983
+00:46:01,693 --> 00:46:05,495
+          so I've made
+          a little shrine here.
+
+984
+00:46:05,497 --> 00:46:09,732
+ It's nice.
+ There's a banana and...
+ Oh! Mr. Miggins.
+
+985
+00:46:09,734 --> 00:46:13,770
+ So I hope
+ this makes up for the
+ whole disbelief thing.
+
+986
+00:46:14,906 --> 00:46:17,306
+         Are we, uh...
+          Are we good?
+
+987
+00:46:19,677 --> 00:46:24,380
+  Now you have no choice
+  but to fix my machine.
+
+988
+00:46:24,382 --> 00:46:25,681
+            No.
+ That's not one
+ of your choices.
+
+989
+00:46:25,683 --> 00:46:26,983
+ Fix the machine!
+            No.
+
+990
+00:46:26,985 --> 00:46:29,519
+      Can I...
+      Can I say something?
+
+991
+00:46:29,521 --> 00:46:31,888
+   So, I think I'm up-to-date
+               on
+     the whole Perry Agent
+             thing.
+
+992
+00:46:31,890 --> 00:46:34,390
+       Strangely, that's the
+       most normal thing that's
+       happened this afternoon,
+
+993
+00:46:34,392 --> 00:46:37,393
+        but who exactly
+        is this guy?
+
+994
+00:46:38,463 --> 00:46:40,429
+       Fix it!
+             No.
+
+995
+00:46:40,431 --> 00:46:43,599
+      Look, I would make myself
+      do it but apparently
+      he's an idiot.
+
+996
+00:46:43,601 --> 00:46:45,401
+     Hey!
+     Fix the machine!
+
+997
+00:46:45,403 --> 00:46:47,053
+                    No.
+
+998
+00:46:47,054 --> 00:46:48,704
+ All right, then,
+ you've forced my hand.
+
+999
+00:46:51,643 --> 00:46:53,009
+     Fix the machine!
+
+1000
+00:46:53,011 --> 00:46:54,744
+                  No.
+       Really?
+
+1001
+00:46:54,746 --> 00:46:56,712
+ When I was your age,
+ I did anything
+ a puppet told me to do.
+
+1002
+00:46:56,714 --> 00:46:58,047
+           How old do you think
+           we are?
+
+1003
+00:46:58,049 --> 00:46:59,949
+    I don't know.
+    One, two?
+
+1004
+00:46:59,951 --> 00:47:02,201
+ You know,
+ it's hard to tell
+ with the one eye.
+
+1005
+00:47:02,202 --> 00:47:04,452
+ Anyway, I don't know
+ why you're being
+ so uncooperative.
+
+1006
+00:47:04,455 --> 00:47:06,889
+  All I'm asking you to do
+  is make my machine work
+
+1007
+00:47:06,891 --> 00:47:10,059
+ so I can invade
+ and conquer your world
+ and enslave your loved
+ ones.
+
+1008
+00:47:10,061 --> 00:47:12,361
+            See, that's just it.
+
+1009
+00:47:12,363 --> 00:47:14,397
+      Why would we do something
+      that would lead to our
+      own self-destruction?
+
+1010
+00:47:14,399 --> 00:47:16,399
+              Self-destruction?
+              Self-destruct...
+              Wait a...
+
+1011
+00:47:16,401 --> 00:47:18,151
+                Wait, that's it.
+                I remember now.
+
+1012
+00:47:18,152 --> 00:47:19,902
+          They took out my
+          self-destruct button.
+
+1013
+00:47:19,904 --> 00:47:22,104
+           I don't know why
+           I put it back in,
+           but here.
+
+1014
+00:47:22,106 --> 00:47:25,374
+         I'll just rewire this,
+         like so, and there.
+
+1015
+00:47:26,878 --> 00:47:31,080
+      It's working! It's
+           working!
+  It's functioning properly!
+
+1016
+00:47:31,082 --> 00:47:34,083
+ Well, look who just
+ became redundant.
+
+1017
+00:47:35,420 --> 00:47:36,686
+      Send them
+      to their doom!
+
+1018
+00:47:38,089 --> 00:47:38,454
+       Yes, her, too.
+
+1019
+00:47:40,491 --> 00:47:42,024
+      Yes, yes, everyone.
+
+1020
+00:47:42,026 --> 00:47:44,093
+       Doom, doom,
+       doom and doom.
+          Doom!
+
+1021
+00:47:44,095 --> 00:47:45,928
+ Jinx!
+ You owe me three sodas.
+
+1022
+00:47:45,930 --> 00:47:47,129
+        Okay, doom for him, too.
+
+1023
+00:47:47,932 --> 00:47:50,066
+  What? But I'm you!
+
+1024
+00:47:50,068 --> 00:47:52,068
+                       Doom!
+
+1025
+00:47:52,070 --> 00:47:55,071
+ Wow, if I had
+ a nickel for every time
+ I was doomed by a puppet,
+
+1026
+00:47:55,073 --> 00:47:57,073
+ I'd have two nickels.
+
+1027
+00:47:57,075 --> 00:47:59,141
+ Which isn't a lot.
+ But it's weird that
+ it happened twice, right?
+
+1028
+00:48:08,119 --> 00:48:11,487
+ <i> Welcome, doomed guests.</i>
+
+1029
+00:48:11,489 --> 00:48:14,023
+ <i> Come on, keep trudging.</i>
+ <i> Doom is thataway.</i>
+
+1030
+00:48:19,964 --> 00:48:23,499
+ I would say, so far,
+ adulthood gets about
+ a three.
+
+1031
+00:48:23,501 --> 00:48:25,568
+        You know,
+        this may be as
+        good as it gets.
+
+1032
+00:48:28,640 --> 00:48:31,841
+       <i> And now for my all-time</i>
+       <i> favorite game.</i>
+
+1033
+00:48:31,843 --> 00:48:33,676
+               <i> Poke the Goozim</i>
+               <i> with a stick.</i>
+
+1034
+00:48:35,079 --> 00:48:36,846
+           <i> Surrounded by lava.</i>
+
+1035
+00:48:36,848 --> 00:48:39,715
+       <i> My second favorite game</i>
+       <i> is backgammon. Love it!</i>
+
+1036
+00:48:39,717 --> 00:48:42,151
+     Whoa! Whoa!
+     Hold the phone.
+     I could be useful.
+
+1037
+00:48:42,153 --> 00:48:44,837
+      What if you need a kidney
+
+1038
+00:48:44,838 --> 00:48:47,522
+           or a stand-in
+           for boring functions
+           you have to attend?
+
+1039
+00:48:47,525 --> 00:48:48,591
+           Or another kidney?
+
+1040
+00:48:49,761 --> 00:48:50,927
+             <i> Doom!</i>
+
+1041
+00:48:50,929 --> 00:48:52,929
+          Pooh.
+
+1042
+00:48:57,435 --> 00:48:58,467
+          (ROARING)
+
+1043
+00:49:01,806 --> 00:49:04,874
+    <i> Cranky, cranky, cranky.</i>
+    <i> Oh, I love the crank!</i>
+
+1044
+00:49:11,215 --> 00:49:13,049
+ I'll be honest, Ferb.
+
+1045
+00:49:13,050 --> 00:49:14,884
+ I'm having a hard time
+ putting a positive spin
+ on this.
+
+1046
+00:49:14,886 --> 00:49:17,753
+ Blah, blah, blah,
+ two-car garage, etcetera.
+
+1047
+00:49:17,755 --> 00:49:18,487
+           Yeah? Well,
+           welcome to my life!
+
+1048
+00:49:21,092 --> 00:49:23,659
+       Whoa, deja vu-ish.
+
+1049
+00:49:25,830 --> 00:49:27,830
+               Perry, check out
+               that guard!
+
+1050
+00:49:28,933 --> 00:49:30,066
+                          Keys!
+
+1051
+00:49:36,774 --> 00:49:38,074
+                Cool! Look out!
+
+1052
+00:49:41,879 --> 00:49:44,580
+ Ow! Is this the plan?
+
+1053
+00:49:44,582 --> 00:49:46,332
+           Tell me
+           this isn't the plan!
+
+1054
+00:49:46,333 --> 00:49:48,083
+    NORMBOT: <i> You are</i>
+    <i> tampering</i>
+    <i> with the property of...</i>
+
+1055
+00:49:48,086 --> 00:49:49,151
+      <i> Let's make omelets!</i>
+
+1056
+00:49:54,525 --> 00:49:55,891
+ DOOFENSHMIRTZ: Can you
+ get a little more lift
+ out of this thing?
+
+1057
+00:49:55,893 --> 00:49:57,310
+ I think I just
+ bruised a kidney.
+
+1058
+00:49:57,311 --> 00:49:58,728
+     NORM 2D:
+     <i> My bicycle is missing!</i>
+
+1059
+00:50:00,498 --> 00:50:01,664
+        (ALL SCREAMING)
+
+1060
+00:50:05,837 --> 00:50:07,003
+         (ALL CHEERING)
+
+1061
+00:50:07,872 --> 00:50:08,938
+           (ALL SIGH)
+
+1062
+00:50:13,144 --> 00:50:14,744
+        (ALL EXCLAIMING)
+
+1063
+00:50:22,020 --> 00:50:23,519
+            <i> Yes! Go, Goozim!</i>
+
+1064
+00:50:23,521 --> 00:50:25,187
+ <i> It's muffin time, sir.</i>
+           <i> Already?</i>
+
+1065
+00:50:36,968 --> 00:50:40,603
+      Okay, I see where
+      you're going with this...
+
+1066
+00:50:40,605 --> 00:50:42,538
+ I officially prefer
+ our dimension!
+
+1067
+00:50:42,540 --> 00:50:43,272
+              (SCREAMS)
+
+1068
+00:50:46,110 --> 00:50:47,977
+     DOOFENSHMIRTZ:
+     This may not be the
+     best time to tell you,
+
+1069
+00:50:47,979 --> 00:50:51,747
+     but I actually flunked
+     jungle gym in grade
+     school.
+
+1070
+00:50:51,749 --> 00:50:54,016
+ I just couldn't get the
+ hang
+ of all the climbing...
+ (SCREAMS)
+
+1071
+00:51:02,894 --> 00:51:05,161
+      Oh, great,
+      you caught it!
+      Unlock me!
+
+1072
+00:51:05,163 --> 00:51:06,662
+          Are you even
+          paying attention?
+
+1073
+00:51:08,132 --> 00:51:10,666
+    That's right.
+    It can wait. Later!
+
+1074
+00:51:16,974 --> 00:51:19,575
+              <i> More guards!</i>
+
+1075
+00:51:19,577 --> 00:51:21,077
+ <i> It's muffin time, sir!</i>
+            <i> You're broken!</i>
+
+1076
+00:51:30,621 --> 00:51:31,921
+           (THUMPING)
+
+1077
+00:51:38,296 --> 00:51:39,929
+               (GRUNTING)
+
+1078
+00:52:01,319 --> 00:52:03,986
+      Yay, other dimension
+            Candace!
+
+1079
+00:52:03,988 --> 00:52:05,988
+            Phineas!
+
+1080
+00:52:06,924 --> 00:52:09,091
+          Catch!
+
+1081
+00:52:15,099 --> 00:52:18,067
+     (GASPS) The remote!
+
+1082
+00:52:19,770 --> 00:52:20,970
+          (ROARING)
+
+1083
+00:52:23,107 --> 00:52:25,107
+       Perry, let go!
+
+1084
+00:52:26,344 --> 00:52:29,945
+     What?
+     No, no, don't let go.
+
+1085
+00:52:29,947 --> 00:52:31,413
+       Perry! Trust me!
+
+1086
+00:52:31,415 --> 00:52:32,414
+ CANDACE:
+ Two words! La-va!
+
+1087
+00:52:34,085 --> 00:52:35,184
+                    Trust me!
+
+1088
+00:52:56,107 --> 00:52:57,439
+        (ALL EXCLAIMING)
+
+1089
+00:53:06,150 --> 00:53:07,449
+                 (ROARS)
+
+1090
+00:53:09,086 --> 00:53:10,819
+          (WHIMPERING)
+
+1091
+00:53:13,691 --> 00:53:17,726
+      <i> They opened another</i>
+      <i> portal!</i>
+      <i> Go after them!</i>
+
+1092
+00:53:17,728 --> 00:53:19,929
+           <i> And her!</i>
+           <i> That banshee</i>
+           <i> screaming girl.</i>
+
+1093
+00:53:19,931 --> 00:53:20,930
+         <i> Get her, too!</i>
+
+1094
+00:53:22,400 --> 00:53:24,733
+     Thanks,
+     Perry the Platypus.
+
+1095
+00:53:24,735 --> 00:53:26,769
+      NORMBOT:
+      <i> Stop where you are.</i>
+      <i> You cannot leave.</i>
+
+1096
+00:53:26,771 --> 00:53:28,737
+      <i> I use aggression</i>
+      <i> to mask my insecurities!</i>
+
+1097
+00:53:30,775 --> 00:53:31,907
+       The portal!
+
+1098
+00:53:35,379 --> 00:53:38,013
+        <i> Boy, I could go</i>
+        <i> for a lemonade.</i>
+
+1099
+00:53:39,116 --> 00:53:40,316
+           (GRUNTING)
+
+1100
+00:53:42,153 --> 00:53:42,918
+    NORMBOT:
+    <i> The portal closed, sir.</i>
+
+1101
+00:53:42,920 --> 00:53:45,487
+        <i> Oh, pooh.</i>
+
+1102
+00:53:45,489 --> 00:53:48,023
+ <i> Oh, well. Time to</i>
+ <i> start the invasion!</i>
+
+1103
+00:53:48,025 --> 00:53:49,491
+ <i> And somebody</i>
+ <i> get me a muffin!</i>
+
+1104
+00:53:49,493 --> 00:53:50,359
+ <i> But it's not</i>
+ <i> muffin time, sir!</i>
+
+1105
+00:53:57,101 --> 00:53:59,335
+     All right, follow me.
+     We're going around
+     clockwise.
+
+1106
+00:54:11,015 --> 00:54:14,516
+      MAN:
+      <i> ♪ If there's no</i>
+      <i> hospitality</i>
+      <i> Just get out of town</i>
+
+1107
+00:54:14,518 --> 00:54:16,852
+         <i> ♪ You can't be</i>
+       <i> lying on formality</i>
+         <i> And saying...</i>
+
+1108
+00:54:16,854 --> 00:54:19,388
+      <i> ♪ I guess</i>
+      <i> I'll see you around</i>
+
+1109
+00:54:19,390 --> 00:54:22,758
+    <i> ♪ You've got no</i>
+    <i> obligations</i>
+    <i> Nothing holding you down</i>
+
+1110
+00:54:22,760 --> 00:54:25,394
+     <i> ♪ Find a new situation</i>
+     <i> And say</i>
+
+1111
+00:54:25,396 --> 00:54:26,996
+      <i> ♪ I guess</i>
+      <i> I'll see you around</i>
+
+1112
+00:54:26,998 --> 00:54:30,833
+    <i> ♪ You've got no time to</i>
+    <i> waste on sentimentality</i>
+
+1113
+00:54:30,835 --> 00:54:33,035
+      <i> ♪ Get out and find</i>
+      <i> yourself</i>
+      <i> a brand-new reality</i>
+
+1114
+00:54:33,037 --> 00:54:37,106
+      <i> ♪ You've got to find</i>
+      <i> yourself</i>
+      <i> a brand-new reality</i>
+
+1115
+00:54:37,108 --> 00:54:41,043
+      <i> ♪ A particle duality</i>
+      <i> A new dimensionality</i>
+
+1116
+00:54:41,045 --> 00:54:43,045
+<i>♪ Yeah, yeah!</i>
+    <i> ♪ I guess I'll see you</i>
+            <i> around</i>
+
+1117
+00:54:43,047 --> 00:54:45,914
+      <i> ♪ Sometimes it's</i>
+      <i> appropriate</i>
+      <i> To stop for a snack</i>
+
+1118
+00:54:45,916 --> 00:54:48,851
+      <i> ♪ If you do then</i>
+      <i> I hope you get back</i>
+
+1119
+00:54:48,853 --> 00:54:51,520
+      <i> ♪ I guess</i>
+      <i> I'll see you around</i>
+
+1120
+00:54:51,522 --> 00:54:54,556
+      <i> ♪ Hopping clockwise</i>
+       <i> through dimensions</i>
+      <i> Is a dangerous thing</i>
+
+1121
+00:54:54,558 --> 00:54:57,359
+     <i> ♪ But it seems to</i>
+     <i> help a lot if we sing</i>
+
+1122
+00:54:57,361 --> 00:54:59,161
+    <i> ♪ And we can sing about</i>
+
+1123
+00:54:59,163 --> 00:55:02,131
+     <i> ♪ A brand new reality</i>
+     <i> A brand new reality</i>
+
+1124
+00:55:02,133 --> 00:55:04,566
+     <i> ♪ A brand new reality</i>
+
+1125
+00:55:04,568 --> 00:55:07,169
+      <i> ♪ I guess</i>
+      <i> I'll see you around</i>
+
+1126
+00:55:07,171 --> 00:55:11,140
+     <i> ♪ A brand new reality</i>
+     <i> A brand new reality</i>
+
+1127
+00:55:11,142 --> 00:55:13,075
+              <i> ♪ A</i>
+    <i> brand-brand-brand-brand</i>
+
+1128
+00:55:15,079 --> 00:55:19,982
+     <i> ♪ I guess</i>
+     <i> I'll see you around ♪</i>
+
+1129
+00:55:19,984 --> 00:55:21,583
+      All right, how about
+      two Kafkas for your
+      Dostoyevsky?
+
+1130
+00:55:21,585 --> 00:55:23,952
+    Stop wasting
+    my time, Buford.
+
+1131
+00:55:24,555 --> 00:55:27,389
+      Wait, I think this is it.
+
+1132
+00:55:27,391 --> 00:55:30,192
+   Where have you guys been?
+          This is it!
+
+1133
+00:55:30,194 --> 00:55:32,261
+       (DOOFENSHMIRTZ 2D
+        LAUGHING EVILLY)
+
+1134
+00:55:32,263 --> 00:55:35,497
+         I spy with my
+         one little eye
+
+1135
+00:55:35,499 --> 00:55:40,235
+       a new tri-state area
+       that's one dictator
+       short of a dictatorship.
+
+1136
+00:55:40,237 --> 00:55:42,404
+  Well, that's all
+  about to change.
+
+1137
+00:55:44,942 --> 00:55:48,544
+   Pretty soon I'll be ruling
+   over two tri-state areas,
+
+1138
+00:55:48,546 --> 00:55:49,611
+      a virtual six-state area!
+
+1139
+00:55:52,616 --> 00:55:57,586
+         Fly, fly, my Normbots!
+         We've got some
+         oppressing to do!
+
+1140
+00:55:57,588 --> 00:56:00,189
+       (DOOFENSHMIRTZ 2D
+       LAUGHS EVILLY)
+
+1141
+00:56:00,191 --> 00:56:01,590
+       Why is Perry
+       wearing a hat?
+
+1142
+00:56:01,592 --> 00:56:02,608
+           We don't have
+           time to explain.
+
+1143
+00:56:02,609 --> 00:56:03,625
+           We've got to try
+           and stop an evil...
+
+1144
+00:56:07,398 --> 00:56:10,332
+     Uh-oh. It's too late!
+
+1145
+00:56:10,334 --> 00:56:12,067
+ They're never going
+ to fire her and...
+ Hey, did you see that?
+
+1146
+00:56:12,069 --> 00:56:14,370
+       No, I...
+       What's going on?
+
+1147
+00:56:14,372 --> 00:56:15,938
+                    Oh, my!
+
+1148
+00:56:15,940 --> 00:56:18,073
+              What is it?
+   It's a comb over!
+
+1149
+00:56:18,075 --> 00:56:20,109
+ I know, I should
+ really just shave it.
+
+1150
+00:56:21,545 --> 00:56:23,278
+         Not happening.
+         Not happening.
+
+1151
+00:56:23,280 --> 00:56:24,513
+  My watermelon!
+
+1152
+00:56:31,355 --> 00:56:32,888
+    NORMBOT:
+    <i> All vehicles must stop.</i>
+
+1153
+00:56:35,126 --> 00:56:37,559
+       It's okay!
+       It's a rental!
+
+1154
+00:56:38,262 --> 00:56:39,528
+    (HONKING)
+
+1155
+00:56:43,667 --> 00:56:45,634
+              Oh, great!
+              Albuquerque '93
+              all over again.
+
+1156
+00:56:48,105 --> 00:56:49,605
+  I wish other-dimension
+  Candace was here.
+
+1157
+00:56:49,607 --> 00:56:51,607
+    She took out, like,
+    30 of them
+
+1158
+00:56:51,608 --> 00:56:53,608
+     with a giant
+     stone lawn gnome.
+   <i> Agent P! Our agents are</i>
+            <i> being</i>
+
+1159
+00:56:53,611 --> 00:56:55,577
+ <i> overwhelmed by the sheer</i>
+ <i> number of robots coming</i>
+ <i> into our dimension.</i>
+
+1160
+00:56:55,579 --> 00:56:58,247
+ <i> You must get to</i>
+ <i> Doof's headquarters</i>
+ <i> and stop him.</i>
+
+1161
+00:56:58,249 --> 00:57:00,449
+          Aye, aye, sir.
+          We're ready to serve.
+
+1162
+00:57:00,451 --> 00:57:02,551
+  <i> Oh, no. You kids</i>
+  <i> need to go home</i>
+  <i> where it's safe.</i>
+
+1163
+00:57:02,553 --> 00:57:04,353
+   With all due respect, sir,
+   we've been through
+   quite a lot together.
+
+1164
+00:57:04,355 --> 00:57:05,454
+            We're a team now.
+
+1165
+00:57:05,456 --> 00:57:08,457
+  <i> Nope, far too dangerous.</i>
+
+1166
+00:57:08,459 --> 00:57:09,992
+   <i> And besides,</i>
+   <i> our insurance</i>
+   <i> won't cover it.</i>
+
+1167
+00:57:09,994 --> 00:57:11,727
+         <i> Tell them, Agent P.</i>
+
+1168
+00:57:11,728 --> 00:57:13,461
+      Come on, Perry.
+      Let's go kick
+      some robot chassis!
+
+1169
+00:57:15,933 --> 00:57:16,698
+             Perry?
+
+1170
+00:57:20,337 --> 00:57:23,005
+  Wow, I guess
+  we're going home then.
+
+1171
+00:57:23,007 --> 00:57:24,506
+  Hey, where's Dr. D?
+
+1172
+00:57:30,414 --> 00:57:32,614
+        MRS. THOMPSON: <i> Hello?</i>
+ Hello, Mrs. Thompson?
+ It's me, Heinz.
+
+1173
+00:57:32,616 --> 00:57:33,382
+  I think I left my keys
+ in the other dimension.
+
+1174
+00:57:33,384 --> 00:57:35,717
+ Can you buzz me in?
+
+1175
+00:57:35,719 --> 00:57:37,052
+                   <i> Who is this?</i>
+
+1176
+00:57:37,054 --> 00:57:38,420
+ Heinz Doofenshmirtz!
+ Your neighbor.
+
+1177
+00:57:38,422 --> 00:57:40,022
+  For, like, 12 years.
+
+1178
+00:57:40,024 --> 00:57:42,458
+                         <i> Who?</i>
+ I live in the penthouse.
+
+1179
+00:57:42,460 --> 00:57:45,627
+ I wear lab coats a lot.
+
+1180
+00:57:45,629 --> 00:57:49,631
+ I speak with the accent
+ I am currently speaking
+ to you with.
+
+1181
+00:57:49,633 --> 00:57:51,266
+            <i> Just like my</i>
+            <i> neighbor upstairs.</i>
+
+1182
+00:57:51,268 --> 00:57:53,235
+     Yes, exactly!
+
+1183
+00:57:53,237 --> 00:57:54,787
+              <i> He's not home.</i>
+              <i> You'll have to</i>
+              <i> come back later.</i>
+
+1184
+00:57:54,788 --> 00:57:56,338
+       No, no, wait.
+
+1185
+00:57:56,340 --> 00:57:58,674
+        This is just beautiful.
+
+1186
+00:57:58,675 --> 00:58:01,009
+        I decide to do
+        the right thing,
+        and I end up in a cell.
+
+1187
+00:58:01,011 --> 00:58:04,179
+       Well, at least my
+       brothers are safe.
+
+1188
+00:58:04,181 --> 00:58:06,215
+   What lesson am I supposed
+   to be learning here?
+
+1189
+00:58:06,217 --> 00:58:07,282
+          (HISSING)
+
+1190
+00:58:08,586 --> 00:58:10,419
+ I'm Jeremy Johnson.
+ I'm here to rescue you.
+
+1191
+00:58:10,421 --> 00:58:12,354
+        Johnson, Jeremy?
+
+1192
+00:58:12,356 --> 00:58:14,590
+  Yes, sir.
+  And I picked up
+  a couple new recruits.
+
+1193
+00:58:14,592 --> 00:58:17,159
+      We found a way to bypass
+      the entire security grid.
+      It was cool.
+
+1194
+00:58:17,161 --> 00:58:20,095
+          What? You brought
+          my little brothers?
+
+1195
+00:58:20,097 --> 00:58:21,697
+            Are you out of
+            your mind, soldier?
+
+1196
+00:58:21,699 --> 00:58:24,266
+ I didn't know
+ they were your brothers,
+ but I should have known.
+
+1197
+00:58:24,268 --> 00:58:26,468
+                 They're smart
+                and courageous,
+                 just like you.
+
+1198
+00:58:26,470 --> 00:58:28,237
+      You think I'm smart
+      and courageous?
+
+1199
+00:58:28,239 --> 00:58:30,005
+      Well, yeah, uh, sir.
+
+1200
+00:58:31,275 --> 00:58:33,075
+    Uh, good work, soldier.
+
+1201
+00:58:33,077 --> 00:58:34,576
+        We should really
+        get out of here
+        while we can.
+
+1202
+00:58:34,578 --> 00:58:36,712
+         Most of the Normbots
+         are away in the other
+         dimension.
+
+1203
+00:58:36,714 --> 00:58:38,480
+           We can slip away
+           pretty easily.
+
+1204
+00:58:38,482 --> 00:58:40,282
+   The Normbots are
+   in the other dimension?
+
+1205
+00:58:40,284 --> 00:58:41,650
+     This isn't the time
+     to escape.
+
+1206
+00:58:41,652 --> 00:58:43,585
+     This is the time
+     to make our move.
+     Let's go!
+
+1207
+00:58:43,587 --> 00:58:44,720
+         ALL: Yes, sir!
+
+1208
+00:58:44,722 --> 00:58:47,189
+        Boys, wait.
+        Thanks for rescuing me.
+
+1209
+00:58:47,191 --> 00:58:48,357
+            I'm really proud
+            of you both.
+
+1210
+00:58:48,359 --> 00:58:49,725
+     And we're proud
+     of you, too, sir.
+
+1211
+00:58:49,727 --> 00:58:52,361
+        I got nachos!
+        Who wants some?
+
+1212
+00:58:53,297 --> 00:58:56,031
+            Nobody?
+
+1213
+00:58:56,033 --> 00:58:57,799
+     Oh, Mysterious force,
+     you can see I'm
+     really trying here.
+
+1214
+00:58:57,801 --> 00:58:59,434
+   Please bring back Candace!
+
+1215
+00:58:59,436 --> 00:59:00,536
+  Oh, hi, Stacy.
+
+1216
+00:59:01,438 --> 00:59:04,473
+     And I also want a car.
+
+1217
+00:59:04,475 --> 00:59:05,440
+ I still can't believe
+ Perry wanted us to go
+ home.
+
+1218
+00:59:05,442 --> 00:59:08,577
+ I mean, look at this.
+
+1219
+00:59:08,579 --> 00:59:11,213
+      <i> There's robots all</i>
+      <i> over the tri-state area.</i>
+      <i> And now for the weather.</i>
+
+1220
+00:59:11,215 --> 00:59:14,249
+     <i> There's robots, Phil!</i>
+     <i> Robots!</i> (SCREAMING)
+
+1221
+00:59:14,251 --> 00:59:15,717
+ You'd think he'd need
+ all the help he could
+ get...
+
+1222
+00:59:15,719 --> 00:59:17,136
+                     (BEEPING)
+ Hey, what's that?
+
+1223
+00:59:17,137 --> 00:59:18,554
+    Ferb, do you hear that?
+
+1224
+00:59:20,691 --> 00:59:21,690
+  It's Perry's locket.
+
+1225
+00:59:24,061 --> 00:59:25,427
+  It's like a homing device.
+              (BEEPING FASTER)
+
+1226
+00:59:27,498 --> 00:59:27,729
+       (BEEPING RAPIDLY)
+
+1227
+00:59:34,238 --> 00:59:35,470
+               Shall we?
+
+1228
+00:59:39,710 --> 00:59:41,677
+          This must be
+         Perry's lair.
+
+1229
+00:59:41,679 --> 00:59:44,546
+     <i> Welcome, Phineas and</i>
+     <i> Ferb.</i>
+     <i> Please insert the key.</i>
+
+1230
+00:59:45,249 --> 00:59:46,415
+             Do you have a key?
+
+1231
+00:59:47,251 --> 00:59:48,434
+        (NOTE SOUNDS)
+
+1232
+00:59:48,435 --> 00:59:49,618
+  <i> Please insert the key.</i>
+
+1233
+00:59:49,620 --> 00:59:52,054
+              Good try.
+
+1234
+00:59:52,055 --> 00:59:54,489
+     <i> Please insert the key.</i>
+     <i> Please insert the key.</i>
+
+1235
+00:59:54,491 --> 00:59:56,491
+         That's odd.
+         It's a shaped keyhole.
+
+1236
+00:59:56,493 --> 00:59:58,493
+        It kind of looks like...
+
+1237
+00:59:58,495 --> 00:59:58,760
+                  Wait a minute.
+
+1238
+01:00:08,505 --> 01:00:11,573
+ <i> Phineas and Ferb,</i>
+ <i> this message is top</i>
+ <i> secret,</i>
+ <i> for your ears only.</i>
+
+1239
+01:00:11,575 --> 01:00:13,642
+ <i> If you are hearing this,</i>
+ <i> the tri-state area</i>
+
+1240
+01:00:13,644 --> 01:00:15,711
+ <i> is at emergency</i>
+ <i> alert level Alpha Red.</i>
+
+1241
+01:00:15,713 --> 01:00:16,878
+  <i> Agent P needs your help.</i>
+
+1242
+01:00:16,880 --> 01:00:19,648
+         How does he know
+         we'll know what to do?
+
+1243
+01:00:19,650 --> 01:00:22,101
+ <i> He knows</i>
+ <i> you will know</i>
+ <i> what to do.</i>
+
+1244
+01:00:22,102 --> 01:00:24,553
+  <i> He also knows you two</i>
+    <i> are the only ones</i>
+  <i> capable of helping him</i>
+
+1245
+01:00:24,555 --> 01:00:28,457
+  <i> because you two are</i>
+ <i> the only ones capable</i>
+   <i> of creating these.</i>
+
+1246
+01:00:29,727 --> 01:00:31,727
+ <i> Auto-scan</i>
+ <i> replication initiated.</i>
+
+1247
+01:00:44,842 --> 01:00:47,509
+ Ferb, I think I know
+ what we're gonna do today.
+
+1248
+01:00:55,586 --> 01:00:57,419
+     NORMBOT:
+     <i> You have a new leader.</i>
+
+1249
+01:00:57,420 --> 01:00:59,253
+    <i> Put on your dooferalls.</i>
+    <i> 36-inch waist.</i>
+
+1250
+01:00:59,256 --> 01:01:01,156
+ No way! I'm a 34!
+
+1251
+01:01:01,158 --> 01:01:02,691
+        (LAUGHING MANIACALLY)
+
+1252
+01:02:32,015 --> 01:02:34,316
+          So, I guess you
+          trusted us after all.
+
+1253
+01:02:39,723 --> 01:02:43,024
+             I was wrong.
+             It was not for me!
+
+1254
+01:02:43,026 --> 01:02:44,693
+                Heads up!
+                Platyposterior
+                coming through!
+
+1255
+01:02:50,901 --> 01:02:52,601
+                Now this is what
+                I call busting.
+
+1256
+01:03:29,072 --> 01:03:32,307
+      All right, everyone!
+      Let's kick some
+      robot chassis!
+
+1257
+01:03:32,309 --> 01:03:33,742
+           ALL: Yeah!
+
+1258
+01:03:33,744 --> 01:03:35,577
+       All right,
+       that is very good.
+
+1259
+01:03:35,579 --> 01:03:37,746
+     Phineas!
+     Anything we can do?
+
+1260
+01:03:37,748 --> 01:03:39,648
+         Yeah!
+         Musical accompaniment!
+
+1261
+01:03:40,651 --> 01:03:43,318
+     (PLAYING <i> ROBOT RIOT)</i>
+
+1262
+01:03:46,023 --> 01:03:48,723
+       <i> ♪ We're gonna kick</i>
+       <i> some robot chassis</i>
+
+1263
+01:03:48,725 --> 01:03:50,592
+     <i> ♪ So you better</i>
+     <i> tell your robot nation</i>
+
+1264
+01:03:50,594 --> 01:03:54,329
+   <i> ♪ To say a robot prayer</i>
+   <i> 'Cause you better prepare</i>
+
+1265
+01:03:54,331 --> 01:03:57,566
+       <i> ♪ For an automaton</i>
+       <i> annihilation</i>
+
+1266
+01:03:57,568 --> 01:04:00,101
+       <i> ♪ You think you're</i>
+       <i> gonna take us down</i>
+
+1267
+01:04:00,103 --> 01:04:02,771
+    <i> ♪ Well, mechanical man,</i>
+    <i> you just try it</i>
+
+1268
+01:04:02,773 --> 01:04:04,739
+     <i> ♪ You're gonna ride</i>
+     <i> that rail out of town</i>
+
+1269
+01:04:04,741 --> 01:04:07,876
+     <i> ♪ This is a robot riot</i>
+
+1270
+01:04:07,878 --> 01:04:10,712
+       <i> ♪ I think you know</i>
+       <i> what I mean</i>
+
+1271
+01:04:10,714 --> 01:04:13,348
+    <i> ♪ This is a robot riot</i>
+    <i> I'm gonna break you down</i>
+
+1272
+01:04:13,350 --> 01:04:15,483
+      <i> ♪ And sell you</i>
+      <i> for scrap metal</i>
+      <i> But I'll keep enough</i>
+
+1273
+01:04:15,485 --> 01:04:17,385
+       <i> ♪ To build myself</i>
+       <i> a trampoline</i>
+
+1274
+01:04:17,387 --> 01:04:18,653
+      <i> ♪ 'Cause your momma</i>
+      <i> was a blender</i>
+
+1275
+01:04:18,655 --> 01:04:21,857
+    <i> ♪ And your dad was just</i>
+    <i> a washing machine</i>
+
+1276
+01:04:21,859 --> 01:04:23,525
+     <i> ♪ This is a robot riot</i>
+
+1277
+01:04:23,527 --> 01:04:26,027
+    <i> ♪ I'm gonna break you up</i>
+    <i> I'm gonna break you down</i>
+
+1278
+01:04:26,029 --> 01:04:29,064
+    <i> ♪ I'm gonna take you</i>
+    <i> to a chop shop downtown</i>
+
+1279
+01:04:29,066 --> 01:04:31,933
+    <i> ♪ You know that</i>
+    <i> you'll be dreading</i>
+    <i> This android Armageddon</i>
+
+1280
+01:04:31,935 --> 01:04:34,836
+    <i> ♪ I think you</i>
+    <i> better check your fluids</i>
+    <i> 'Cause I know you're</i>
+    <i> sweating</i>
+
+1281
+01:04:34,838 --> 01:04:37,672
+    <i> ♪ You know you're gonna</i>
+    <i> lose</i>
+    <i> And sing the robot blues</i>
+
+1282
+01:04:37,674 --> 01:04:39,541
+    <i> ♪ You'll blow a fuse</i>
+    <i> And take a robot snooze</i>
+
+1283
+01:04:39,543 --> 01:04:43,144
+    <i> ♪ I will deactivate you</i>
+    <i> Because I kind of hate</i>
+    <i> you</i>
+
+1284
+01:04:43,146 --> 01:04:44,913
+      <i> ♪ Don't want to</i>
+      <i> beat around the bush</i>
+
+1285
+01:04:44,914 --> 01:04:46,681
+ <i> ♪ We're gonna decimate</i>
+          <i> you</i>
+       <i> ♪ This is a robot riot</i>
+
+1286
+01:04:46,683 --> 01:04:50,518
+       <i> ♪ Oh, man, it's on</i>
+
+1287
+01:04:50,520 --> 01:04:52,120
+     <i> ♪ This is a robot riot</i>
+
+1288
+01:04:52,122 --> 01:04:54,022
+   <i> ♪ I'm gonna rip you up</i>
+   <i> And put you back together</i>
+
+1289
+01:04:54,024 --> 01:04:56,958
+    <i> ♪ In a new configuration</i>
+    <i> Just to mow my lawn</i>
+
+1290
+01:04:56,960 --> 01:04:58,660
+      <i> ♪ 'Cause your sister</i>
+      <i> is a fridge</i>
+
+1291
+01:04:58,662 --> 01:05:01,563
+       <i> ♪ And you know her</i>
+       <i> light is always on</i>
+
+1292
+01:05:01,565 --> 01:05:03,064
+     <i> ♪ This is a robot riot</i>
+
+1293
+01:05:03,066 --> 01:05:04,799
+        <i> ♪ Robot riot...</i>
+
+1294
+01:05:04,801 --> 01:05:05,734
+             We've got to do
+             something about
+             that portal.
+
+1295
+01:05:10,574 --> 01:05:13,041
+       Ferb! We're gonna go
+       try to close the portal!
+
+1296
+01:05:13,043 --> 01:05:14,776
+     <i> ♪ This is a robot riot</i>
+
+1297
+01:05:14,778 --> 01:05:17,612
+    <i> ♪ I'm gonna rip you up</i>
+    <i> I'm gonna break you down</i>
+
+1298
+01:05:17,614 --> 01:05:20,448
+   <i> ♪ I'm gonna take you</i>
+   <i> to the chop shop downtown</i>
+
+1299
+01:05:20,450 --> 01:05:22,450
+    <i> ♪ I'm gonna rip you up</i>
+    <i> I'm gonna break you down</i>
+
+1300
+01:05:22,452 --> 01:05:25,687
+   <i> ♪ I'm gonna take you</i>
+   <i> to the chop shop downtown</i>
+   <i> ♪</i>
+
+1301
+01:05:53,483 --> 01:05:54,816
+           What? Oh!
+
+1302
+01:06:00,724 --> 01:06:03,458
+ I've had just about
+ enough of you, you...
+
+1303
+01:06:03,460 --> 01:06:03,758
+            Ow! What is on this!
+
+1304
+01:06:29,052 --> 01:06:31,853
+            I was wrong, Stacy,
+            about everything.
+
+1305
+01:06:31,855 --> 01:06:34,689
+            I'm not a grown-up.
+              I can't control
+             mysterious forces.
+
+1306
+01:06:34,691 --> 01:06:35,757
+        I can't even get my mom
+        to see what my brothers
+        are doing!
+
+1307
+01:06:37,494 --> 01:06:39,728
+       Stacy, that's it!
+
+1308
+01:06:39,730 --> 01:06:41,663
+        I can't get my mom
+        to see what my brothers
+        are doing!
+
+1309
+01:06:41,665 --> 01:06:43,031
+   Candace,
+   where are you going?
+
+1310
+01:06:43,033 --> 01:06:45,200
+            I'm gonna bust my
+            brothers to my mom!
+
+1311
+01:06:45,202 --> 01:06:46,701
+            And I'm gonna fail!
+
+1312
+01:06:46,703 --> 01:06:49,504
+         No, it's Heinz
+         Doofenshmirtz.
+
+1313
+01:06:49,506 --> 01:06:51,606
+ You borrowed sugar from me
+ this morning.
+
+1314
+01:06:51,608 --> 01:06:53,541
+       MRS. THOMPSON:
+       <i> I don't have any sugar.</i>
+
+1315
+01:06:53,543 --> 01:06:55,143
+          <i> I had to borrow some</i>
+          <i> from my neighbor</i>
+          <i> this morning.</i>
+
+1316
+01:06:55,145 --> 01:06:56,978
+   Yeah. That's me!
+
+1317
+01:06:56,979 --> 01:06:58,812
+   <i> He's a nice man,</i>
+   <i> but I hear he's divorced.</i>
+
+1318
+01:06:58,815 --> 01:07:00,215
+ Oh, that she remembers.
+
+1319
+01:07:05,122 --> 01:07:06,588
+              Mom!
+
+1320
+01:07:06,590 --> 01:07:07,956
+ Candace, what are you
+ doing here?
+
+1321
+01:07:07,958 --> 01:07:09,724
+    You got to come outside
+    and bust the boys!
+
+1322
+01:07:09,726 --> 01:07:11,643
+  I'm not leaving now.
+
+1323
+01:07:11,644 --> 01:07:13,561
+ The girl is about to
+ forgive the guy for the
+ cliche misunderstanding.
+
+1324
+01:07:13,563 --> 01:07:15,697
+ Well, after she battles
+ these robots.
+
+1325
+01:07:15,699 --> 01:07:17,665
+   Whoa! This 3-D is amazing!
+
+1326
+01:07:20,203 --> 01:07:20,802
+ Ferb, we'll handle it
+ down here.
+
+1327
+01:07:22,239 --> 01:07:23,538
+        Go help Phineas!
+
+1328
+01:07:52,869 --> 01:07:56,271
+   Come on, you stupid thing.
+   Work!
+
+1329
+01:07:56,273 --> 01:07:59,074
+      So that dish must be
+      what's controlling
+      the robots.
+
+1330
+01:07:59,076 --> 01:08:00,942
+       Maybe I don't need
+      to close the portal
+
+1331
+01:08:00,944 --> 01:08:02,243
+        if I could just
+        take out that...
+
+1332
+01:08:02,245 --> 01:08:03,645
+           Oh, yeah!
+
+1333
+01:08:04,581 --> 01:08:06,881
+       Oh, no, you don't.
+
+1334
+01:08:06,883 --> 01:08:09,584
+        Now the baseball
+        is on the other foot.
+
+1335
+01:08:09,586 --> 01:08:12,787
+       Or however that
+       saying goes, I'm not...
+       I'm not really sure.
+
+1336
+01:08:12,789 --> 01:08:14,689
+      Hey, hey, hey,
+      where are you going?
+
+1337
+01:08:14,690 --> 01:08:16,590
+ You know, all that's
+ going to happen from
+ you guys coming up here
+
+1338
+01:08:16,593 --> 01:08:20,595
+ is that I'm going to have
+ a brand-new platyborg.
+ (LAUGHS)
+
+1339
+01:08:20,597 --> 01:08:22,697
+ And maybe even a boyborg!
+
+1340
+01:08:22,699 --> 01:08:24,299
+        Try saying that
+        five times fast.
+
+1341
+01:08:24,301 --> 01:08:27,635
+   Boyborg, boyborg, boyborg,
+   boyborg, boyborg...
+
+1342
+01:08:27,637 --> 01:08:29,170
+     I guess it's not that
+     hard,
+     never mind.
+
+1343
+01:08:59,202 --> 01:09:01,369
+         (CHATTERING)
+
+1344
+01:09:20,824 --> 01:09:22,390
+        You know something, kid?
+
+1345
+01:09:22,392 --> 01:09:25,894
+             You've been
+             a thorn in my side
+             all day long.
+
+1346
+01:09:25,896 --> 01:09:27,228
+           (WHISTLES)
+
+1347
+01:09:27,230 --> 01:09:31,132
+           But that's about
+           to change right now!
+
+1348
+01:09:38,175 --> 01:09:41,009
+                   No!
+
+1349
+01:09:44,681 --> 01:09:45,847
+        (DOOFENSHMIRTZ YELLING)
+
+1350
+01:09:47,717 --> 01:09:50,919
+        My babies!
+        No, what have you done?
+
+1351
+01:10:02,832 --> 01:10:04,933
+ It's weird that Perry's
+ a secret agent, huh?
+
+1352
+01:10:04,935 --> 01:10:07,402
+       Yeah, but it was obvious
+       in retrospect.
+
+1353
+01:10:07,404 --> 01:10:08,286
+                 Has anyone
+                 seen my pants?
+
+1354
+01:10:08,287 --> 01:10:09,169
+       Yeah, they're
+       over there.
+
+1355
+01:10:09,172 --> 01:10:13,041
+          Wolverines!
+
+1356
+01:10:13,043 --> 01:10:15,210
+             Mom, if you care
+             one iota about me,
+
+1357
+01:10:15,212 --> 01:10:18,346
+     your family, and your
+     city,
+     you'll come outside
+     with me right now!
+
+1358
+01:10:18,348 --> 01:10:20,181
+    Well, I guess I could
+    use some more popcorn.
+
+1359
+01:10:20,183 --> 01:10:21,849
+ Great! Come on,
+ come on, come on,
+ come on!
+
+1360
+01:10:24,721 --> 01:10:27,488
+        Ferb! Bro, I just hit
+        the best home run ever!
+
+1361
+01:10:37,901 --> 01:10:41,803
+    Now, tremble before me!
+
+1362
+01:10:41,805 --> 01:10:45,206
+          No, I'm down here.
+          See, one last trick
+          up my sleeve.
+
+1363
+01:10:45,208 --> 01:10:48,943
+        It's me! I'm the trick
+        up my own sleeves,
+
+1364
+01:10:48,945 --> 01:10:51,512
+ 'cause I'm in the sleeve,
+ get it?
+
+1365
+01:10:51,514 --> 01:10:55,116
+          (SIGHS)
+          Pearls before swine.
+
+1366
+01:10:55,118 --> 01:10:58,186
+   Hope you got your 3-D
+   glasses
+   'cause I'm coming at you!
+
+1367
+01:11:00,390 --> 01:11:01,289
+             Yeah!
+
+1368
+01:11:01,291 --> 01:11:01,489
+              Hey!
+
+1369
+01:11:04,227 --> 01:11:07,195
+     What? I'm kind of
+     in the middle of
+     something here.
+
+1370
+01:11:07,197 --> 01:11:10,331
+  I got a little something
+  just for you.
+
+1371
+01:11:12,269 --> 01:11:13,868
+            Here.
+
+1372
+01:11:17,374 --> 01:11:18,440
+           Choo-Choo!
+
+1373
+01:11:18,441 --> 01:11:19,507
+        Yeah, it's mine.
+        See, I told you
+        I never lost it.
+
+1374
+01:11:19,509 --> 01:11:22,410
+      It was in a box
+      in my pantry labeled
+      "VHS tapes."
+
+1375
+01:11:22,412 --> 01:11:25,146
+ Go figure.
+ Anyway, you can have it.
+
+1376
+01:11:25,148 --> 01:11:28,016
+          I can't believe it!
+          Choo-Choo, it is you!
+
+1377
+01:11:28,018 --> 01:11:33,921
+          Heart melting,
+          back-story resolving,
+          evilness diminishing.
+
+1378
+01:11:33,923 --> 01:11:35,823
+  It's the least I can do.
+
+1379
+01:11:35,825 --> 01:11:37,392
+            You know,
+            I don't even know
+            what I was thinking
+
+1380
+01:11:37,394 --> 01:11:39,494
+             with the whole
+             evil robots thing.
+
+1381
+01:11:39,496 --> 01:11:42,263
+    Actually,
+    when I look around,
+    I'm really embarrassed.
+
+1382
+01:11:42,265 --> 01:11:44,365
+     Let me clean this up.
+     Look! Self-destruct
+     button.
+
+1383
+01:11:44,367 --> 01:11:47,135
+            Ah, you.
+
+1384
+01:11:47,137 --> 01:11:48,269
+           Yeah. Here we go!
+
+1385
+01:11:54,444 --> 01:11:57,312
+   Come on, come on, come on!
+   Come on, hurry, hurry!
+
+1386
+01:11:57,314 --> 01:11:59,947
+        Do I even need to say
+        "there's nothing there"
+        anymore?
+
+1387
+01:11:59,949 --> 01:12:02,350
+    Mom, you can say it
+    all you want.
+    There's nothing there!
+
+1388
+01:12:02,352 --> 01:12:05,386
+    Whoo-hoo! I did it,
+     I saved the world!
+
+1389
+01:12:06,956 --> 01:12:07,889
+     You can go back
+     to your movie now.
+
+1390
+01:12:13,496 --> 01:12:15,363
+ Yeah, you know what?
+ We're totally cool now.
+
+1391
+01:12:15,365 --> 01:12:17,165
+  I'm just gonna go
+  return to my home
+
+1392
+01:12:17,167 --> 01:12:19,367
+      and live out
+      the rest of my days
+      with my Choo-Choo.
+
+1393
+01:12:19,369 --> 01:12:21,002
+        Okay then, ciao!
+
+1394
+01:12:21,004 --> 01:12:22,603
+        Home. It's good
+        to be... Uh-oh.
+
+1395
+01:12:25,275 --> 01:12:27,892
+       Book him, ladies.
+
+1396
+01:12:27,893 --> 01:12:30,510
+   You know, my crimes
+   against humanity had just
+   completely slipped my
+   mind.
+
+1397
+01:12:30,513 --> 01:12:33,448
+              Hey! Did you guys
+              just see that?
+              I saved Danville!
+
+1398
+01:12:33,450 --> 01:12:34,882
+  Good job, soldier.
+
+1399
+01:12:34,884 --> 01:12:36,617
+          So what'll you do now?
+
+1400
+01:12:36,619 --> 01:12:39,520
+ Wow, I haven't thought
+ of anything but busting
+ Doofenshmirtz for years.
+
+1401
+01:12:39,522 --> 01:12:41,439
+   I don't know.
+
+1402
+01:12:41,440 --> 01:12:43,357
+          Well, I know what
+          interests I'd pursue.
+
+1403
+01:12:43,360 --> 01:12:45,760
+  Hey! Here you all are.
+
+1404
+01:12:45,761 --> 01:12:48,161
+    I'll take that
+    under consideration.
+    What about you, Candace?
+
+1405
+01:12:48,164 --> 01:12:50,198
+       You know,
+       after all of this,
+
+1406
+01:12:50,200 --> 01:12:52,433
+     I'm gonna give myself
+     a little more time
+     to be young.
+
+1407
+01:12:52,435 --> 01:12:54,001
+       It's not such
+       a bad place to be.
+
+1408
+01:12:54,003 --> 01:12:56,337
+        You know what?
+        Me, too.
+
+1409
+01:12:56,339 --> 01:12:59,173
+ Hey, I just wanted to
+ say thanks for telling us
+ all about summer,
+
+1410
+01:12:59,175 --> 01:13:01,376
+ you know,
+ opening our horizons,
+
+1411
+01:13:01,378 --> 01:13:03,244
+     and teaching Ferb
+     classical guitar.
+
+1412
+01:13:03,246 --> 01:13:04,312
+ (NOTES PLAYING)
+
+1413
+01:13:08,585 --> 01:13:10,151
+                   (CHATTERING)
+
+1414
+01:13:10,153 --> 01:13:12,320
+  Hey! It's our Perry!
+         Perry!
+
+1415
+01:13:12,322 --> 01:13:15,423
+ Looks like
+ the evil was fried
+ right out of him.
+
+1416
+01:13:15,425 --> 01:13:16,941
+      Sorry he's mostly
+      made of metal now.
+
+1417
+01:13:16,942 --> 01:13:18,458
+ Are you kidding?
+ That makes him
+ extra cool!
+
+1418
+01:13:18,461 --> 01:13:20,995
+ Thanks so much, guys.
+
+1419
+01:13:20,997 --> 01:13:22,497
+        I'm glad
+        we could help.
+
+1420
+01:13:27,237 --> 01:13:29,637
+ Man, this has been
+ the greatest day ever.
+
+1421
+01:13:29,639 --> 01:13:31,305
+  Imagine how much fun
+  we can have together
+
+1422
+01:13:31,307 --> 01:13:33,174
+ now that we know
+ you're a secret agent.
+
+1423
+01:13:33,176 --> 01:13:36,644
+         Yes, yes,
+         the next 15 minutes
+         should be a real hoot.
+
+1424
+01:13:36,646 --> 01:13:39,614
+         Well, then, of course,
+         Agent P will be
+         sent away forever.
+
+1425
+01:13:39,616 --> 01:13:41,599
+          What?
+          You didn't know?
+
+1426
+01:13:41,600 --> 01:13:43,583
+          Didn't he give you
+          a pamphlet?
+     We threw it away.
+
+1427
+01:13:43,586 --> 01:13:45,219
+          Does anyone
+          read those things?
+
+1428
+01:13:45,221 --> 01:13:46,988
+ I tried to warn you, sir.
+
+1429
+01:13:46,990 --> 01:13:50,158
+         Kids, I'm sorry
+         but now that Agent P's
+         cover has been blown,
+
+1430
+01:13:50,160 --> 01:13:52,126
+            you won't be allowed
+            to see him anymore.
+
+1431
+01:13:52,128 --> 01:13:55,029
+  That's why
+  you didn't want us
+  to know your secret.
+
+1432
+01:13:55,031 --> 01:13:56,697
+  So we'll never see
+  Perry again?
+
+1433
+01:13:56,699 --> 01:13:58,266
+   There has to be
+   another way.
+
+1434
+01:13:58,268 --> 01:14:01,102
+            Sorry, Phineas.
+            It isn't safe.
+            You know too much.
+
+1435
+01:14:01,104 --> 01:14:04,172
+   Now I never wished
+  so much that I could
+   unknow something.
+
+1436
+01:14:04,174 --> 01:14:05,640
+   Sir, maybe
+   there is a way.
+
+1437
+01:14:05,642 --> 01:14:08,643
+ What about
+ Dr. Doofenshmirtz's
+ Amnesianator?
+
+1438
+01:14:08,645 --> 01:14:11,412
+        I never built
+        an Amnesianator.
+
+1439
+01:14:11,414 --> 01:14:14,048
+      I think I'd remember
+      building something
+      like that.
+
+1440
+01:14:14,049 --> 01:14:16,683
+     Well, that might work.
+     But you'd all have to
+     agree.
+
+1441
+01:14:16,686 --> 01:14:20,455
+  So our choice is to either
+  forget the best day ever,
+
+1442
+01:14:20,457 --> 01:14:22,557
+ forget the biggest
+ adventure
+ we've ever had,
+
+1443
+01:14:22,559 --> 01:14:24,425
+   and forget
+   meeting Agent P,
+
+1444
+01:14:24,427 --> 01:14:27,295
+ or remember today,
+ but never see Perry again?
+
+1445
+01:14:28,231 --> 01:14:30,164
+           Well, we've had
+           a lot of great days.
+
+1446
+01:14:30,166 --> 01:14:32,733
+               But we only have
+               one Perry.
+
+1447
+01:14:32,735 --> 01:14:34,068
+        Agreed.
+
+1448
+01:14:34,070 --> 01:14:35,736
+           ALL: Yeah!
+
+1449
+01:14:35,738 --> 01:14:38,406
+         MONOGRAM:
+         All right, everybody.
+         Tall kids in the back.
+
+1450
+01:14:38,408 --> 01:14:39,574
+                Just need to do
+                 a little more
+                programming here
+
+1451
+01:14:39,576 --> 01:14:41,676
+                 and we'll be
+                 ready to roll.
+
+1452
+01:14:41,678 --> 01:14:43,578
+     Hey, buddy, Ferb and I
+     just wanted to say
+     our goodbyes.
+
+1453
+01:14:43,580 --> 01:14:46,414
+      You know, we thought
+      we'd finally met
+      the real you
+
+1454
+01:14:46,416 --> 01:14:48,983
+       when we found out
+       you were Agent P,
+
+1455
+01:14:48,984 --> 01:14:51,551
+   but the fact is,
+   pet, secret agent,
+   they're both the real you.
+
+1456
+01:14:51,554 --> 01:14:53,988
+        You are now and
+        always have been
+
+1457
+01:14:53,990 --> 01:14:56,624
+      a great pet
+      and a great friend.
+
+1458
+01:14:56,626 --> 01:14:59,060
+ We're gonna
+ miss you, Agent P.
+
+1459
+01:15:00,430 --> 01:15:01,696
+     I love you, pal.
+
+1460
+01:15:01,698 --> 01:15:03,464
+  Sir, are you crying?
+
+1461
+01:15:03,466 --> 01:15:04,532
+               No, I'm sweating
+               through my eyes.
+
+1462
+01:15:04,534 --> 01:15:07,635
+ Okay, sir.
+ We're ready.
+
+1463
+01:15:07,637 --> 01:15:09,403
+              Okay, Karl.
+               We're set.
+
+1464
+01:15:11,174 --> 01:15:14,108
+      Um, Major Monogram?
+                          Yes?
+
+1465
+01:15:14,110 --> 01:15:16,310
+                   So none of us
+                   will remember
+                   any of today?
+
+1466
+01:15:16,312 --> 01:15:17,411
+               That's right.
+
+1467
+01:15:17,413 --> 01:15:18,346
+                   Good!
+
+1468
+01:15:18,348 --> 01:15:21,115
+ (GASPS) Isabella!
+
+1469
+01:15:21,117 --> 01:15:21,682
+         Hit it, Karl!
+ Wait! Wait, wait!
+
+1470
+01:15:46,242 --> 01:15:47,742
+    <i> (ME AND MY BRO</i> PLAYING)
+
+1471
+01:15:47,744 --> 01:15:51,679
+           <i> ♪ Oh, yeah</i>
+
+1472
+01:15:51,681 --> 01:15:54,315
+      <i> ♪ Now me and my bro</i>
+      <i> We're takin' care of</i>
+      <i> things</i>
+
+1473
+01:15:54,317 --> 01:15:57,318
+     <i> ♪ We're from a pair of</i>
+     <i> jokers</i>
+     <i> to a couple of kings</i>
+
+1474
+01:15:57,320 --> 01:16:00,354
+     <i> ♪ It goes to show</i>
+     <i> you never know just</i>
+     <i> what a shuffle brings</i>
+
+1475
+01:16:00,356 --> 01:16:02,690
+      <i> ♪ Me and my bro</i>
+      <i> We're takin' care of</i>
+      <i> things ♪</i>
+
+1476
+01:16:08,364 --> 01:16:09,664
+      <i> (KICK IT UP A NOTCH</i>
+            PLAYING)
+
+1477
+01:16:12,569 --> 01:16:13,834
+          <i> ♪ Oh, yeah!</i>
+
+1478
+01:16:21,844 --> 01:16:25,313
+    <i> ♪ If you're lookin' for</i>
+    <i> fun,</i>
+    <i> baby, we're a shoo-in</i>
+
+1479
+01:16:25,315 --> 01:16:29,317
+ <i> ♪ But we're a little</i>
+ <i> young</i>
+ <i> to be doin' what</i>
+ <i> we're doin', yeah</i>
+
+1480
+01:16:33,790 --> 01:16:37,325
+   <i> ♪ We got heads full of</i>
+   <i> dreams</i>
+   <i> and sneakers full of feet</i>
+
+1481
+01:16:37,327 --> 01:16:40,761
+ <i> ♪ The world is our oyster</i>
+ <i> and life is tastin' sweet</i>
+
+1482
+01:16:46,135 --> 01:16:49,270
+ <i> ♪ We're takin' off like</i>
+ <i> we're in a supersonic jet</i>
+
+1483
+01:16:49,272 --> 01:16:54,108
+    <i> ♪ But if you think we've</i>
+    <i> gone</i>
+    <i> about as high as we can</i>
+    <i> get,</i>
+
+1484
+01:16:54,110 --> 01:16:55,610
+ <i> ♪ We're gonna</i>
+ <i> kick it up a notch</i>
+
+1485
+01:16:55,612 --> 01:16:56,711
+  <i> ♪ Kick it up a notch</i>
+
+1486
+01:16:56,713 --> 01:16:58,546
+ <i> ♪ Oh, man,</i>
+ <i> you know it's true</i>
+
+1487
+01:16:58,548 --> 01:16:59,998
+  <i> ♪ Gonna kick it up a</i>
+         <i> notch</i>
+
+1488
+01:16:59,999 --> 01:17:01,449
+ <i> ♪ We're gonna</i>
+ <i> push on through</i>
+
+1489
+01:17:01,451 --> 01:17:02,783
+  <i> ♪ Kick it up a notch</i>
+
+1490
+01:17:02,785 --> 01:17:07,288
+ <i> ♪ We're not content</i>
+ <i> to go with the flow</i>
+
+1491
+01:17:07,290 --> 01:17:09,624
+ <i> ♪ 'Cause everybody knows</i>
+ <i> summer rocks</i>
+
+1492
+01:17:09,626 --> 01:17:12,226
+ <i> ♪ But now</i>
+ <i> we're ready to roll</i>
+
+1493
+01:17:12,228 --> 01:17:15,396
+ <i> All right, Slash,</i>
+ <i> let's roll!</i>
+
+1494
+01:17:35,151 --> 01:17:36,517
+      <i> ♪ Kick it up a notch</i>
+
+1495
+01:17:36,519 --> 01:17:37,918
+    <i> ♪ Yeah, crankin' up the</i>
+              <i> evil</i>
+
+1496
+01:17:37,920 --> 01:17:39,453
+      <i> ♪ Kick it up a notch</i>
+
+1497
+01:17:39,455 --> 01:17:40,921
+       <i> ♪ I'll cause</i>
+       <i> political upheaval</i>
+
+1498
+01:17:40,923 --> 01:17:43,574
+      <i> ♪ Kick it up a notch</i>
+
+1499
+01:17:43,575 --> 01:17:46,226
+     <i> ♪ Yeah, I'm gonna get</i>
+     <i> medieval on you</i>
+
+1500
+01:17:47,196 --> 01:17:48,562
+      <i> ♪ Kick it up a notch</i>
+
+1501
+01:17:48,564 --> 01:17:50,264
+      <i> ♪ Oh, man,</i>
+      <i> you know that's true</i>
+
+1502
+01:17:50,266 --> 01:17:51,399
+      <i> ♪ Gonna kick it up a</i>
+             <i> notch</i>
+
+1503
+01:17:51,401 --> 01:17:53,300
+     <i> ♪ We're gonna push on</i>
+            <i> through</i>
+
+1504
+01:17:53,302 --> 01:17:54,435
+      <i> ♪ Kick it up a notch</i>
+
+1505
+01:17:54,437 --> 01:17:55,770
+         <i> ♪ Not gonna go</i>
+         <i> with the flow</i>
+
+1506
+01:17:55,772 --> 01:17:58,272
+    <i> ♪ 'Cause everybody knows</i>
+    <i> summer rocks</i>
+
+1507
+01:17:58,274 --> 01:17:59,740
+        <i> ♪ But now we're</i>
+        <i> ready to roll! ♪</i>
+
