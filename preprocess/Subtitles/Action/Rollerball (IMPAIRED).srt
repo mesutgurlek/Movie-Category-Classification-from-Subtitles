@@ -1,0 +1,5769 @@
+1
+00:00:18,239 --> 00:00:22,784
+# <i>Bach "Toccata and Fugue in D minor"</i>
+
+2
+00:03:11,493 --> 00:03:13,071
+<i>(engines rev)</i>
+
+3
+00:03:27,850 --> 00:03:29,595
+<i>(cheering)</i>
+
+4
+00:03:29,728 --> 00:03:33,395
+(announcer) <i>Good evening.</i>
+<i>Welcome to Houston, the Energy City...</i>
+
+5
+00:03:33,525 --> 00:03:36,777
+<i>... home of the defending rollerball</i>
+<i>world champions.</i>
+
+6
+00:03:36,905 --> 00:03:40,608
+<i>This key international battle</i>
+<i>pits divisional champions Madrid...</i>
+
+7
+00:03:40,744 --> 00:03:42,785
+<i>... against powerful Houston.</i>
+
+8
+00:03:44,834 --> 00:03:46,874
+<i>(engines rev)</i>
+
+9
+00:03:57,727 --> 00:04:00,398
+<i>And here they come for a standing ovation.</i>
+
+10
+00:04:00,523 --> 00:04:02,517
+<i>On the track comes Houston!</i>
+
+11
+00:04:02,651 --> 00:04:05,440
+<i>Houston, led by captain Jonathan E...</i>
+
+12
+00:04:05,572 --> 00:04:08,029
+<i>... again their leading scorer this year.</i>
+
+13
+00:04:08,159 --> 00:04:11,078
+<i>(crowd chants)</i> Jonathan! Jonathan!
+
+14
+00:04:26,102 --> 00:04:28,476
+OK. Let's go.
+
+15
+00:04:39,998 --> 00:04:42,455
+<i>The controller indicates that he is ready...</i>
+
+16
+00:04:42,585 --> 00:04:46,038
+<i>... and our 30 Multivision cameras</i>
+<i>will bring you all the speed...</i>
+
+17
+00:04:46,174 --> 00:04:48,547
+<i>... thrills and excitement of this critical game.</i>
+
+18
+00:04:48,677 --> 00:04:52,095
+(announcer #2) <i>Ladies and gentlemen,</i>
+<i>our corporate anthem.</i>
+
+19
+00:04:56,105 --> 00:04:58,775
+<i>(organ music)</i>
+
+20
+00:06:11,549 --> 00:06:13,589
+<i>(cheering)</i>
+
+21
+00:06:19,060 --> 00:06:23,225
+<i>The controller tests his equipment,</i>
+<i>readies for the start of game action.</i>
+
+22
+00:06:23,358 --> 00:06:27,310
+<i>The traditional firing of the test ball</i>
+<i>will signal we're about set to go.</i>
+
+23
+00:06:27,447 --> 00:06:29,357
+<i>(klaxon)</i>
+
+24
+00:06:30,076 --> 00:06:32,651
+(announcer #2)
+<i>The controller for tonight's game...</i>
+
+25
+00:06:32,788 --> 00:06:35,411
+<i>... DA Niehaus.</i>
+
+26
+00:06:35,542 --> 00:06:39,542
+(announcer #1) <i>The officials approve play.</i>
+<i>Each team concludes its huddle...</i>
+
+27
+00:06:39,673 --> 00:06:44,136
+<i>... and now the crowd cheers once again as</i>
+<i>this Houston audience greets its team...</i>
+
+28
+00:06:44,264 --> 00:06:46,506
+<i>... led by the stalwart athlete Jonathan E.</i>
+
+29
+00:06:48,728 --> 00:06:51,185
+Break off. That's it, boys.
+
+30
+00:06:51,316 --> 00:06:52,692
+Hook it!
+
+31
+00:06:52,818 --> 00:06:56,271
+<i>(crowd chants)</i> Houston! Houston! Houston!
+
+32
+00:06:56,406 --> 00:06:58,696
+Houston! Houston!
+
+33
+00:06:59,035 --> 00:07:01,076
+Houston! Houston!
+
+34
+00:07:01,414 --> 00:07:03,787
+Houston! Houston!
+
+35
+00:07:15,100 --> 00:07:18,518
+<i>Now the play-by-play. Here's RD.</i>
+
+36
+00:07:20,066 --> 00:07:22,903
+(RD) <i>The computer counts down.</i>
+<i>The ball is fired.</i>
+
+37
+00:07:23,029 --> 00:07:25,699
+<i>First period is under way</i>
+<i>here at Houston tonight.</i>
+
+38
+00:07:26,868 --> 00:07:30,072
+<i>The first team</i>
+<i>to pick up the ball will be on offence...</i>
+
+39
+00:07:30,206 --> 00:07:32,877
+<i>... as they try for a score,</i>
+<i>and it's a pick-up by Houston!</i>
+
+40
+00:07:33,002 --> 00:07:35,161
+<i>BJ moves around the track...</i>
+
+41
+00:07:35,297 --> 00:07:37,456
+<i>... manoeuvring it in to the leading scorer...</i>
+
+42
+00:07:37,592 --> 00:07:39,585
+- <i>... Jonathan E.</i>
+- Go on! Go on!
+
+43
+00:07:39,720 --> 00:07:41,760
+Watch him!
+
+44
+00:07:46,647 --> 00:07:50,896
+<i>Jonathan E holds the ball aloft.</i>
+<i>You must hold it in plain view at all times.</i>
+
+45
+00:07:51,028 --> 00:07:54,862
+- Pick 'em up, pick 'em up!
+- I got it, I got it.
+
+46
+00:07:54,992 --> 00:07:56,653
+On your right!
+
+47
+00:07:59,499 --> 00:08:03,201
+<i>Jonathan moves in behind</i>
+<i>and then out in front of Blue's bike.</i>
+
+48
+00:08:03,338 --> 00:08:06,376
+<i>Jonathan moves up the track</i>
+<i>and up onto the side.</i>
+
+49
+00:08:06,509 --> 00:08:09,465
+<i>Here comes Sanchez.</i>
+<i>Sanchez grabs Jonathan...</i>
+
+50
+00:08:09,597 --> 00:08:13,431
+<i>... but off the rail comes Moonpie</i>
+<i>and takes out four Madrid men.</i>
+
+51
+00:08:13,561 --> 00:08:16,018
+<i>The old swooper Moonpie...</i>
+
+52
+00:08:16,148 --> 00:08:20,018
+<i>... came right off the top of the rail</i>
+<i>and took out four Madrid men.</i>
+
+53
+00:08:21,907 --> 00:08:25,159
+<i>The remaining Madrid skaters</i>
+<i>defend the front of the goal.</i>
+
+54
+00:08:25,287 --> 00:08:26,663
+<i>Jonathan still has the ball.</i>
+
+55
+00:08:26,789 --> 00:08:29,791
+<i>Moving in, he'll try to shoot.</i>
+<i>He does! Jonathan!</i>
+
+56
+00:08:29,919 --> 00:08:31,793
+<i>He shoots, and it's just wide.</i>
+
+57
+00:08:31,922 --> 00:08:33,085
+Regroup!
+
+58
+00:08:33,215 --> 00:08:35,375
+<i>The Houston team will have to regroup.</i>
+
+59
+00:08:35,510 --> 00:08:39,640
+<i>Injured on the play is Belmonte</i>
+<i>and he's helped off the track for Madrid.</i>
+
+60
+00:08:39,766 --> 00:08:43,386
+<i>First period, no score, as we get set</i>
+<i>for the firing of the second ball.</i>
+
+61
+00:08:52,160 --> 00:08:54,652
+<i>Oh, and he misses</i>
+<i>and it hits the bike of Carter.</i>
+
+62
+00:08:54,788 --> 00:08:56,829
+<i>Knocks Carter down.</i>
+
+63
+00:08:57,376 --> 00:08:59,416
+Gimme a hand. Move out!
+
+64
+00:09:14,192 --> 00:09:17,942
+<i>Jonathan is there. It is handed off.</i>
+<i>The pass is complete to Jonathan.</i>
+
+65
+00:09:18,073 --> 00:09:19,318
+<i>(chanting)</i>
+
+66
+00:09:27,211 --> 00:09:29,086
+<i>He skates by and knocks him down dead!</i>
+
+67
+00:09:29,214 --> 00:09:30,377
+Did you see that?
+
+68
+00:09:30,508 --> 00:09:33,426
+<i>That should be a penalty.</i>
+<i>The official looking over.</i>
+
+69
+00:09:33,554 --> 00:09:35,761
+<i>Moonpie skates by as if nothing happened.</i>
+
+70
+00:09:35,890 --> 00:09:37,469
+Keep up!
+
+71
+00:09:37,601 --> 00:09:40,687
+- Moon, on your left, on your left.
+- Right, right!
+
+72
+00:09:40,814 --> 00:09:43,307
+- Take him out!
+- I got him.
+
+73
+00:09:47,741 --> 00:09:49,782
+Break it up, break it up!
+
+74
+00:09:49,911 --> 00:09:51,821
+Go, Jonathan, go!
+
+75
+00:09:51,956 --> 00:09:54,662
+<i>Can he give Houston</i>
+<i>the first goal of the game?</i>
+
+76
+00:09:54,793 --> 00:09:57,166
+- <i>He shoots, he scores!</i>
+- Yeah!
+
+77
+00:09:57,297 --> 00:10:00,050
+<i>And at the end of the first period...</i>
+
+78
+00:10:00,176 --> 00:10:03,926
+<i>... Jonathan's goal gives Houston</i>
+<i>a 1-0 lead over Madrid.</i>
+
+79
+00:10:04,057 --> 00:10:10,394
+(announcer #2) <i>Scored by Jonathan E!</i>
+<i>The time - first period, 12 minutes.</i>
+
+80
+00:10:11,276 --> 00:10:13,103
+<i>(klaxon)</i>
+
+81
+00:10:14,989 --> 00:10:18,075
+(RD) <i>The ball is fired</i>
+<i>for the start of the second period.</i>
+
+82
+00:10:18,203 --> 00:10:20,077
+<i>Madrid, trailing by one goal...</i>
+
+83
+00:10:20,205 --> 00:10:23,410
+<i>... try to go on offence to tie the score.</i>
+
+84
+00:10:25,255 --> 00:10:26,631
+Go, Madrid!
+
+85
+00:10:29,678 --> 00:10:33,428
+- Here, latch on, latch on.
+- I'm with you.
+
+86
+00:10:33,558 --> 00:10:35,552
+Come on, Madrid, come on!
+
+87
+00:10:35,687 --> 00:10:39,140
+<i>He skates up in front.</i>
+<i>Gonzales still has it for Madrid.</i>
+
+88
+00:10:39,275 --> 00:10:41,269
+<i>Hands off again, this time to Bodeus.</i>
+
+89
+00:10:41,403 --> 00:10:44,988
+<i>Bodeus, on offence for the Madrid team.</i>
+
+90
+00:10:45,117 --> 00:10:46,945
+<i>Here's the Houston defence.</i>
+
+91
+00:10:47,078 --> 00:10:50,365
+<i>It's a shot. It's low!</i>
+<i>And back down to the track goes Bodeus.</i>
+
+92
+00:10:50,500 --> 00:10:53,538
+<i>He's not injured,</i>
+<i>but his scoring attempt failed.</i>
+
+93
+00:10:53,671 --> 00:10:56,876
+<i>And the score is still 1-0 in favour of Houston.</i>
+
+94
+00:10:57,009 --> 00:10:59,584
+<i>The ball is fired again.</i>
+<i>Madrid is pressing now.</i>
+
+95
+00:10:59,722 --> 00:11:00,802
+<i>Putting the pressure on.</i>
+
+96
+00:11:00,932 --> 00:11:03,555
+Move it! Come on, move!
+
+97
+00:11:05,772 --> 00:11:07,896
+Hold on. Come on, let's move it!
+
+98
+00:11:08,401 --> 00:11:10,395
+We got it now.
+
+99
+00:11:10,529 --> 00:11:12,523
+Hold on, hold on.
+
+100
+00:11:12,657 --> 00:11:14,532
+Watch it. Keep an eye out!
+
+101
+00:11:14,660 --> 00:11:16,286
+<i>(fast handclapping)</i>
+
+102
+00:11:17,206 --> 00:11:19,246
+<i>Coming in now, Sanchez.</i>
+
+103
+00:11:19,376 --> 00:11:21,416
+<i>Moving to his left and right.</i>
+
+104
+00:11:21,546 --> 00:11:24,085
+<i>Has a full head of steam, still on offence...</i>
+
+105
+00:11:24,216 --> 00:11:27,302
+<i>... trying to tie the score.</i>
+<i>Sanchez moves around the bike...</i>
+
+106
+00:11:27,429 --> 00:11:29,719
+<i>... takes a long looping shot. He scores!</i>
+
+107
+00:11:29,849 --> 00:11:32,342
+<i>Sanchez scores for Madrid</i>
+<i>and ties the game...</i>
+
+108
+00:11:32,478 --> 00:11:33,854
+<i>... 1-1.</i>
+
+109
+00:11:33,980 --> 00:11:35,012
+<i>Second period.</i>
+
+110
+00:11:35,149 --> 00:11:39,231
+<i>The ball is in play again,</i>
+<i>and scooped up this time by Aston!</i>
+
+111
+00:11:42,994 --> 00:11:45,283
+Three minutes. Get off!
+
+112
+00:11:45,414 --> 00:11:46,909
+- <i>(klaxon)</i>
+- <i>Madrid penalty.</i>
+
+113
+00:11:47,041 --> 00:11:50,079
+<i>Three minutes. Biking misconduct.</i>
+
+114
+00:11:50,213 --> 00:11:52,253
+<i>On No.1 biker.</i>
+
+115
+00:11:56,180 --> 00:11:57,176
+<i>(klaxon)</i>
+
+116
+00:11:57,306 --> 00:12:00,143
+Are you satisfied, Madrid?
+What game are you guys playing?
+
+117
+00:12:12,454 --> 00:12:15,955
+Take it easy. Take it easy.
+Relax, you'll be all right.
+
+118
+00:12:16,084 --> 00:12:18,077
+<i>The crowd's going wild...</i>
+
+119
+00:12:18,212 --> 00:12:23,042
+<i>... loving this wide-open action</i>
+<i>in this quarterfinal game.</i>
+
+120
+00:12:23,178 --> 00:12:25,848
+Skate! Skate! Come on, goddammit, skate!
+
+121
+00:12:28,811 --> 00:12:30,721
+Houston! Houston! Houston!
+
+122
+00:12:34,820 --> 00:12:37,822
+<i>They all go down, a pile-up on the track.</i>
+
+123
+00:12:37,949 --> 00:12:41,616
+<i>The ball rolls free,</i>
+<i>and into the gutter. It's a dead ball.</i>
+
+124
+00:12:41,747 --> 00:12:42,743
+<i>(klaxon)</i>
+
+125
+00:12:42,873 --> 00:12:46,955
+Here, here, here! Come on, come on!
+Off the track, off the track!
+
+126
+00:12:47,088 --> 00:12:49,128
+Come on, move out!
+
+127
+00:12:52,095 --> 00:12:53,554
+How is it, Jonathan?
+
+128
+00:12:54,307 --> 00:12:56,715
+- Give me a towel, will you, Bull?
+- Sure.
+
+129
+00:12:56,852 --> 00:12:58,263
+<i>(coughs)</i>
+
+130
+00:13:01,442 --> 00:13:03,067
+Come on, Dune!
+
+131
+00:13:13,126 --> 00:13:15,166
+<i>Moonpie drop-kicks him!</i>
+
+132
+00:13:15,296 --> 00:13:17,336
+<i>(booing)</i>
+
+133
+00:13:17,466 --> 00:13:19,506
+Three-minute penalty!
+
+134
+00:13:20,804 --> 00:13:23,510
+Don't give me any of that. Off the track!
+
+135
+00:13:33,489 --> 00:13:35,364
+Group up.
+
+136
+00:13:37,912 --> 00:13:40,831
+<i>Jumping over the Madrid defence,</i>
+<i>gets up in front of the goal...</i>
+
+137
+00:13:40,958 --> 00:13:43,830
+<i>... and he jams it in for the score!</i>
+
+138
+00:13:43,963 --> 00:13:46,372
+<i>Jonathan jams it in and scores...</i>
+
+139
+00:13:46,508 --> 00:13:49,345
+<i>... to give Houston a 2-1 lead over Madrid.</i>
+
+140
+00:13:49,471 --> 00:13:51,429
+<i>Houston with the ball again.</i>
+
+141
+00:13:51,557 --> 00:13:53,598
+- <i>Here in the third...</i>
+- It's a bike!
+
+142
+00:13:56,523 --> 00:13:59,359
+- Stop him!
+- <i>(klaxon)</i>
+
+143
+00:14:05,286 --> 00:14:07,659
+<i>Jonathan E has it.</i>
+<i>Jonathan coming in low...</i>
+
+144
+00:14:07,789 --> 00:14:11,741
+<i>... with a great manoeuvre.</i>
+<i>He shoots, he scores!</i>
+
+145
+00:14:13,631 --> 00:14:15,672
+I love this game, Moonpie.
+
+146
+00:14:15,801 --> 00:14:17,047
+- I love it.
+- Yeah!
+
+147
+00:14:17,721 --> 00:14:19,761
+Jonathan! Jonathan!
+
+148
+00:14:24,022 --> 00:14:26,478
+Two games left.
+Guess who we're playing first.
+
+149
+00:14:26,609 --> 00:14:30,858
+Tokyo. Ha-ha! Who'd have thought
+they'd make it to the play-off?
+
+150
+00:14:30,990 --> 00:14:33,827
+They're good.
+They've got the old Samurai spirit.
+
+151
+00:14:33,953 --> 00:14:36,160
+Yeah, but they're all about this tall.
+
+152
+00:14:36,290 --> 00:14:38,960
+Two or three little things make one big thing.
+
+153
+00:14:39,085 --> 00:14:42,171
+They're liable to climb all over you
+and eat your lunch!
+
+154
+00:14:42,298 --> 00:14:46,797
+I can't get on a man-to-man basis
+with a pygmy or an Oriental.
+
+155
+00:14:46,930 --> 00:14:48,722
+I don't know what it is.
+
+156
+00:14:54,984 --> 00:14:57,654
+You were fine tonight, all of you.
+
+157
+00:14:58,864 --> 00:14:59,896
+Mean...
+
+158
+00:15:00,033 --> 00:15:02,157
+...sharp!
+- Thank you.
+
+159
+00:15:02,286 --> 00:15:05,372
+- You fellas did well again.
+- Thank you, Mr Bartholomew.
+
+160
+00:15:05,499 --> 00:15:08,336
+And you, you rolled, you really rolled.
+
+161
+00:15:08,462 --> 00:15:09,458
+Yeah.
+
+162
+00:15:09,589 --> 00:15:13,041
+You play like our champion here.
+You take lessons from him?
+
+163
+00:15:13,177 --> 00:15:15,467
+No, we just give lessons to the other team!
+
+164
+00:15:15,597 --> 00:15:17,390
+<i>(clapping)</i>
+
+165
+00:15:17,517 --> 00:15:18,846
+How are you, Jonathan?
+
+166
+00:15:18,977 --> 00:15:22,430
+I'm, uh, feeling mean, Mr Bartholomew.
+It's good to see you.
+
+167
+00:15:22,566 --> 00:15:25,521
+Jonathan E, that's the name.
+
+168
+00:15:26,780 --> 00:15:29,902
+Houston players come and go,
+but the champion...
+
+169
+00:15:30,035 --> 00:15:32,362
+...plays on.
+
+170
+00:15:32,497 --> 00:15:33,328
+Hear, hear!
+
+171
+00:15:33,457 --> 00:15:37,955
+The Energy Corporation has a hard time
+figuring out ways to pay the champion.
+
+172
+00:15:38,089 --> 00:15:40,663
+We can't think up any more rewards for him.
+
+173
+00:15:40,801 --> 00:15:43,008
+You'd like us to have that problem with you?
+
+174
+00:15:43,138 --> 00:15:44,134
+Yes, sir!
+
+175
+00:15:44,557 --> 00:15:47,844
+You're like Jonathan,
+you play with abandon...
+
+176
+00:15:47,978 --> 00:15:50,815
+...but this is Jonathan's season.
+
+177
+00:15:51,609 --> 00:15:53,851
+Every season seems to be
+Jonathan's season...
+
+178
+00:15:53,987 --> 00:15:57,239
+...but this year we've got you
+on Multivision...
+
+179
+00:15:57,367 --> 00:15:59,610
+...a special show all about you.
+
+180
+00:15:59,745 --> 00:16:02,617
+No player ever had that before.
+
+181
+00:16:02,750 --> 00:16:06,536
+The whole world will be watching
+because this is your year.
+
+182
+00:16:06,672 --> 00:16:08,298
+<i>(cheering)</i>
+
+183
+00:16:08,634 --> 00:16:09,630
+You got it, babe!
+
+184
+00:16:13,724 --> 00:16:16,892
+- So, two games left.
+- That's right, Mr Bartholomew.
+
+185
+00:16:17,021 --> 00:16:19,061
+New York in the final!
+
+186
+00:16:21,945 --> 00:16:23,985
+The team seems healthy...
+
+187
+00:16:24,115 --> 00:16:27,070
+...the champion says he feels mean.
+
+188
+00:16:27,828 --> 00:16:29,869
+No problems here.
+
+189
+00:16:29,998 --> 00:16:32,039
+That's right!
+
+190
+00:16:32,961 --> 00:16:35,001
+What is this, fruit juice?
+
+191
+00:16:35,131 --> 00:16:38,252
+Very healthy, Mr Bartholomew. Very healthy.
+
+192
+00:16:46,898 --> 00:16:49,355
+Sweet dreams, Moonpie.
+
+193
+00:16:49,944 --> 00:16:52,187
+It's a bad habit you've got there.
+
+194
+00:16:53,282 --> 00:16:57,068
+You know what that habit
+will make you dream, Moonpie?
+
+195
+00:16:57,205 --> 00:16:59,744
+You'll dream you're an executive.
+
+196
+00:17:00,543 --> 00:17:03,214
+You'll have your hands on all the controls...
+
+197
+00:17:03,339 --> 00:17:07,125
+...and you'll wear a grey suit,
+and you'll make decisions.
+
+198
+00:17:07,261 --> 00:17:09,136
+But you know what, Moonpie?
+
+199
+00:17:09,264 --> 00:17:12,183
+You know what those executives
+dream about...
+
+200
+00:17:12,310 --> 00:17:14,518
+...out there behind their desks?
+
+201
+00:17:14,647 --> 00:17:17,982
+They dream they're great rollerballers.
+
+202
+00:17:18,110 --> 00:17:21,861
+They dream they're Jonathan.
+They have muscles.
+
+203
+00:17:21,991 --> 00:17:24,614
+- They bash in faces.
+- <i>(all)</i> Yeah!
+
+204
+00:17:26,706 --> 00:17:29,578
+Are we ready to go?
+Can't keep these boys here all night.
+
+205
+00:17:29,711 --> 00:17:30,660
+Jonathan...
+
+206
+00:17:30,796 --> 00:17:33,039
+...come and see me, tomorrow.
+
+207
+00:17:36,346 --> 00:17:38,802
+Good night, Mr Bartholomew.
+
+208
+00:17:39,433 --> 00:17:42,638
+- Ssh! Quiet, quiet.
+- This is a great team.
+
+209
+00:17:42,772 --> 00:17:44,812
+A great city.
+
+210
+00:17:44,983 --> 00:17:47,226
+Great stuff out there tonight.
+
+211
+00:17:47,362 --> 00:17:49,402
+<i>(cheering)</i>
+
+212
+00:18:07,099 --> 00:18:09,140
+<i>(crowd cheers)</i>
+
+213
+00:18:16,863 --> 00:18:20,364
+<i>(crowd chants)</i>
+Jonathan! Jonathan! Jonathan! Jonathan!
+
+214
+00:18:20,494 --> 00:18:23,995
+Jonathan! Jonathan! Jonathan! Jonathan!
+
+215
+00:18:24,124 --> 00:18:26,581
+Jonathan! Jonathan! Jonathan!
+
+216
+00:18:34,264 --> 00:18:35,889
+<i>(screaming)</i>
+
+217
+00:18:36,350 --> 00:18:39,056
+<i>(crowd chants)</i>
+Jonathan! Jonathan! Jonathan!
+
+218
+00:18:39,188 --> 00:18:43,401
+Jonathan! Jonathan! Jonathan! Jonathan!
+
+219
+00:18:46,866 --> 00:18:49,536
+Jonathan! Jonathan! Jonathan!
+
+220
+00:18:49,870 --> 00:18:52,362
+Jonathan! Jonathan! Jonathan!
+
+221
+00:18:52,708 --> 00:18:55,282
+Jonathan! Jonathan! Jonathan!
+
+222
+00:19:31,181 --> 00:19:32,973
+- Good morning.
+- How are you?
+
+223
+00:19:33,100 --> 00:19:35,343
+- Brutal game last night.
+- Thank you.
+
+224
+00:19:35,479 --> 00:19:38,980
+- So it's Tokyo in the semifinals?
+- That's right.
+
+225
+00:19:44,617 --> 00:19:47,406
+Continue to hold the calls, all right?
+
+226
+00:20:09,696 --> 00:20:11,523
+Come in, Jonathan.
+
+227
+00:20:11,657 --> 00:20:14,410
+Keep silence with me
+for a minute, won't you?
+
+228
+00:20:15,955 --> 00:20:17,580
+<i>(chiming)</i>
+
+229
+00:20:52,967 --> 00:20:56,670
+It's important to have a place
+to think things out.
+
+230
+00:20:56,806 --> 00:21:01,435
+You have your ranch.
+I know you take a lot of pleasure in it.
+
+231
+00:21:01,563 --> 00:21:03,557
+I, uh, cut my finger.
+
+232
+00:21:03,692 --> 00:21:06,148
+I'm sorry. Here.
+
+233
+00:21:09,241 --> 00:21:12,197
+You've had an amazing career, Jonathan.
+
+234
+00:21:12,496 --> 00:21:15,498
+You know how proud we are
+of the Houston team...
+
+235
+00:21:15,626 --> 00:21:18,747
+...and what we think of you... at Energy.
+
+236
+00:21:19,965 --> 00:21:22,884
+But now there are executives
+who want you out.
+
+237
+00:21:23,012 --> 00:21:24,554
+Sir?
+
+238
+00:21:24,681 --> 00:21:27,434
+You've had 10 years in this game, Jonathan...
+
+239
+00:21:27,560 --> 00:21:29,600
+...Ionger than anyone ever.
+
+240
+00:21:30,230 --> 00:21:32,271
+Retire... How can I do that?
+
+241
+00:21:32,400 --> 00:21:34,774
+On your special programme.
+
+242
+00:21:34,904 --> 00:21:38,904
+There are some who feel that
+this programme should now be used to...
+
+243
+00:21:39,035 --> 00:21:41,076
+...announce your retirement.
+
+244
+00:21:41,205 --> 00:21:42,830
+Who wants that?
+
+245
+00:21:42,957 --> 00:21:46,079
+When this special was first planned
+by us here at Energy...
+
+246
+00:21:46,212 --> 00:21:48,455
+...we saw it as a good thing...
+
+247
+00:21:48,841 --> 00:21:51,879
+...but now the Executive Directorate
+wants a change.
+
+248
+00:21:52,012 --> 00:21:55,715
+The programme is scheduled,
+the whole world is waiting for it...
+
+249
+00:21:55,851 --> 00:21:59,388
+...so this does seem the perfect time.
+
+250
+00:22:00,441 --> 00:22:02,269
+The, um, team...
+
+251
+00:22:02,403 --> 00:22:04,443
+They, uh, they depend on me.
+
+252
+00:22:04,573 --> 00:22:07,575
+Jonathan, let's think this through together.
+
+253
+00:22:07,702 --> 00:22:10,574
+You know how the game serves us.
+
+254
+00:22:11,750 --> 00:22:14,622
+It has a definite social purpose.
+
+255
+00:22:14,963 --> 00:22:17,882
+Nations are bankrupt, gone.
+
+256
+00:22:18,635 --> 00:22:21,507
+None of that tribal warfare any more.
+
+257
+00:22:22,015 --> 00:22:25,432
+Even the corporate wars
+are a thing of the past.
+
+258
+00:22:25,937 --> 00:22:27,978
+Yeah, well, I know that. It's just...
+
+259
+00:22:28,107 --> 00:22:31,228
+So now we have the majors
+and their executives.
+
+260
+00:22:31,362 --> 00:22:34,234
+Transport, food, communication...
+
+261
+00:22:34,617 --> 00:22:37,489
+...housing, luxury, energy.
+
+262
+00:22:38,205 --> 00:22:42,074
+A few of us making decisions
+on a global basis...
+
+263
+00:22:42,211 --> 00:22:43,671
+...for the common good.
+
+264
+00:22:43,797 --> 00:22:47,001
+The team is a unit.
+It plays with certain rhythms.
+
+265
+00:22:47,135 --> 00:22:49,841
+So does an executive team, Jonathan.
+
+266
+00:22:50,056 --> 00:22:52,727
+Now everyone has all the comforts...
+
+267
+00:22:52,852 --> 00:22:54,263
+...you know that.
+
+268
+00:22:54,396 --> 00:22:56,970
+No poverty, no sickness.
+
+269
+00:22:57,108 --> 00:22:59,779
+No needs and many luxuries...
+
+270
+00:22:59,904 --> 00:23:03,986
+...which you enjoy just as if
+you were in the executive class.
+
+271
+00:23:04,118 --> 00:23:07,453
+Corporate society takes care of everything.
+
+272
+00:23:08,166 --> 00:23:09,958
+And all it asks of anyone...
+
+273
+00:23:10,085 --> 00:23:13,372
+...all it has ever asked of anyone ever...
+
+274
+00:23:13,507 --> 00:23:16,426
+...is not to interfere
+with management decisions.
+
+275
+00:23:16,553 --> 00:23:20,422
+I, uh... I don't mean to resist.
+
+276
+00:23:20,726 --> 00:23:22,351
+I'm just trying to understand.
+
+277
+00:23:22,479 --> 00:23:27,107
+This is for your own benefit.
+You must know that, Jonathan.
+
+278
+00:23:27,236 --> 00:23:29,858
+All decisions concerning you are.
+
+279
+00:23:31,742 --> 00:23:33,617
+Well, I, uh...
+
+280
+00:23:33,745 --> 00:23:35,703
+I lost Ella.
+
+281
+00:23:35,831 --> 00:23:38,039
+The Corporation took my wife away...
+
+282
+00:23:38,168 --> 00:23:41,420
+...because an executive wanted her.
+- I won't review all that.
+
+283
+00:23:41,548 --> 00:23:44,301
+That was before I took over.
+I had nothing to do with it.
+
+284
+00:23:44,427 --> 00:23:48,213
+From what I hear
+your wife wanted to leave herself.
+
+285
+00:23:48,350 --> 00:23:51,851
+So, now, you're going to retire.
+
+286
+00:23:52,731 --> 00:23:55,270
+That shouldn't be too hard for you.
+
+287
+00:23:55,736 --> 00:23:57,860
+Stupid game, after all.
+
+288
+00:23:57,989 --> 00:24:01,775
+Awful game.
+You ought to be glad to be out of it.
+
+289
+00:24:04,791 --> 00:24:06,831
+I don't, uh...
+
+290
+00:24:07,628 --> 00:24:11,414
+I don't know, Mr Bartholomew.
+I just don't... know.
+
+291
+00:24:11,884 --> 00:24:14,756
+I realise you had nothing to do
+with Ella leaving me.
+
+292
+00:24:14,889 --> 00:24:17,844
+- Jonathan, I...
+- But, um...
+
+293
+00:24:18,936 --> 00:24:20,681
+I... You're right.
+
+294
+00:24:20,814 --> 00:24:23,057
+I mean, uh, I ought to do...
+
+295
+00:24:23,568 --> 00:24:26,239
+I ought to be perfectly happy
+to do what you say.
+
+296
+00:24:26,364 --> 00:24:29,651
+Take your time. Take a few days.
+
+297
+00:24:30,871 --> 00:24:34,288
+You've just come through a game.
+You're tired.
+
+298
+00:24:34,459 --> 00:24:38,411
+Go to your ranch, but... think about it.
+
+299
+00:24:38,882 --> 00:24:41,339
+And understand it.
+
+300
+00:24:41,845 --> 00:24:44,302
+Do understand it.
+
+301
+00:25:04,211 --> 00:25:07,297
+Because I don't understand your resistance.
+
+302
+00:25:07,424 --> 00:25:10,095
+And I don't think anyone else will either.
+
+303
+00:26:07,304 --> 00:26:09,630
+- Was your flight OK?
+- Is Clete here?
+
+304
+00:26:09,766 --> 00:26:12,852
+- He's in the training room.
+- I'll go say hello.
+
+305
+00:26:14,022 --> 00:26:15,647
+Jonathan?
+
+306
+00:26:17,235 --> 00:26:19,394
+Look what I got for breakfast.
+
+307
+00:26:19,989 --> 00:26:22,481
+It's a notice from the Corporation.
+
+308
+00:26:22,618 --> 00:26:24,493
+What's it say?
+
+309
+00:26:24,621 --> 00:26:29,332
+Oh, that I should, uh, get out of here.
+You know, go away, vanish.
+
+310
+00:26:29,461 --> 00:26:33,508
+That kind of thing.
+You know anything about that?
+
+311
+00:26:35,345 --> 00:26:38,217
+Yeah, I kinda heard something about it.
+
+312
+00:26:38,600 --> 00:26:40,640
+You knew it was coming.
+
+313
+00:26:42,939 --> 00:26:45,610
+We've been together six months.
+
+314
+00:26:47,613 --> 00:26:50,152
+Didn't you even wanna say goodbye?
+
+315
+00:26:51,953 --> 00:26:53,911
+We'll talk about it later, OK?
+
+316
+00:26:54,039 --> 00:26:56,080
+You didn't, did you?
+
+317
+00:26:56,209 --> 00:26:57,834
+Hm?
+
+318
+00:26:59,130 --> 00:27:01,800
+You didn't even want me here
+when you got back.
+
+319
+00:27:01,926 --> 00:27:03,634
+I gotta go see Cletus.
+
+320
+00:27:03,762 --> 00:27:05,969
+What do you want me to do in the meantime?
+
+321
+00:27:06,098 --> 00:27:07,724
+I want you to take it easy.
+
+322
+00:27:07,851 --> 00:27:09,476
+Uh...
+
+323
+00:27:11,064 --> 00:27:13,983
+I want you to go in and, uh,
+fix us something to eat.
+
+324
+00:27:14,110 --> 00:27:16,947
+Clete's come a long way
+and, uh, I'm hungry...
+
+325
+00:27:17,073 --> 00:27:19,031
+...all right?
+
+326
+00:27:26,003 --> 00:27:27,201
+Jonathan?
+
+327
+00:27:29,591 --> 00:27:31,964
+I'm glad you're all right.
+
+328
+00:27:36,768 --> 00:27:38,726
+Huh! Huh! Huh!
+
+329
+00:27:38,855 --> 00:27:41,477
+<i>(punches bag)</i>
+
+330
+00:27:41,609 --> 00:27:43,234
+Huh!
+
+331
+00:27:46,908 --> 00:27:49,282
+Come on. All right, come on.
+
+332
+00:27:49,412 --> 00:27:51,204
+<i>(pats bag)</i>
+
+333
+00:27:51,331 --> 00:27:53,372
+Come on.
+
+334
+00:27:57,340 --> 00:28:00,296
+- I ain't tired enough.
+- Yeah!
+
+335
+00:28:10,568 --> 00:28:12,193
+Huh!
+
+336
+00:28:15,534 --> 00:28:17,777
+Huh! It caught you, didn't it, baby?
+
+337
+00:28:17,912 --> 00:28:20,036
+- Two games running?
+- What?
+
+338
+00:28:20,165 --> 00:28:23,702
+You did that the last two games.
+Shoulder forward left.
+
+339
+00:28:23,837 --> 00:28:26,127
+You're standing on your left skate.
+
+340
+00:28:26,258 --> 00:28:29,960
+You do that in Tokyo,
+they'll take your arm home for lunch.
+
+341
+00:28:30,097 --> 00:28:32,137
+You with me?
+
+342
+00:28:33,393 --> 00:28:36,064
+OK, you practise that for me a little, huh?
+
+343
+00:28:36,189 --> 00:28:37,684
+All right.
+
+344
+00:28:39,026 --> 00:28:40,190
+<i>(laughs)</i>
+
+345
+00:28:45,160 --> 00:28:48,448
+<i>(Cletus)</i> Hell, I forget
+which corporation is which.
+
+346
+00:28:48,582 --> 00:28:51,039
+Any ass knows that fire's energy.
+
+347
+00:28:52,421 --> 00:28:54,462
+Who wrote the music?
+
+348
+00:28:54,591 --> 00:28:56,631
+Where does the music come from?
+
+349
+00:28:56,969 --> 00:28:58,797
+Huh...
+
+350
+00:28:58,931 --> 00:29:02,266
+- OK if I have one of these?
+- Go on, have a holiday.
+
+351
+00:29:13,911 --> 00:29:16,997
+I forget what corporation's
+running what city.
+
+352
+00:29:19,002 --> 00:29:21,672
+Chicago's still the Food City...
+
+353
+00:29:23,091 --> 00:29:26,877
+...but what about Indianapolis?
+Whatever happened to that town?
+
+354
+00:29:27,014 --> 00:29:29,054
+Whatever happened to Mackie?
+
+355
+00:29:29,851 --> 00:29:32,522
+Everything was much simpler
+when I was a kid.
+
+356
+00:29:32,647 --> 00:29:34,687
+We still had three nations.
+
+357
+00:29:34,817 --> 00:29:38,270
+That was before the corporate wars,
+even before rollerball.
+
+358
+00:29:38,405 --> 00:29:41,527
+Before everything. Do you believe in kids?
+
+359
+00:29:41,660 --> 00:29:44,366
+I remember someone telling me about...
+
+360
+00:29:44,498 --> 00:29:47,369
+...the National Football League
+and the World Cup.
+
+361
+00:29:47,502 --> 00:29:50,338
+- Where are you going?
+- Indianapolis.
+
+362
+00:29:54,053 --> 00:29:56,724
+What do you know about that stuff, Clete?
+
+363
+00:29:56,849 --> 00:29:58,889
+I mean...
+
+364
+00:29:59,019 --> 00:30:03,268
+...you know, how the Corporations
+got started, about the corporate wars.
+
+365
+00:30:03,692 --> 00:30:05,852
+They were nasty... Phew!
+
+366
+00:30:05,987 --> 00:30:08,028
+Well, nobody talks about that.
+
+367
+00:30:08,157 --> 00:30:11,029
+- Well... except for friends.
+- Yeah... <i>(laughs)</i>
+
+368
+00:30:11,162 --> 00:30:14,283
+I remember your rookie year.
+
+369
+00:30:14,792 --> 00:30:16,999
+You were mean and tight.
+
+370
+00:30:17,129 --> 00:30:19,169
+The best player I ever coached.
+
+371
+00:30:19,716 --> 00:30:23,086
+Nobody could lay a hand on you
+that year. Remember?
+
+372
+00:30:23,221 --> 00:30:25,096
+Yeah. Uh...
+
+373
+00:30:25,224 --> 00:30:27,264
+Look, I gotta ask you something.
+
+374
+00:30:27,394 --> 00:30:29,933
+That figures. Go ahead, I'm listening.
+
+375
+00:30:30,190 --> 00:30:34,106
+Well, there's something
+going on with the game.
+
+376
+00:30:35,531 --> 00:30:39,233
+I don't know what it is.
+I don't think I'm supposed to know.
+
+377
+00:30:39,704 --> 00:30:41,364
+What's that?
+
+378
+00:30:41,498 --> 00:30:43,741
+They want me to quit.
+
+379
+00:30:52,264 --> 00:30:55,301
+Why... would they want you to do that?
+
+380
+00:30:55,435 --> 00:30:57,475
+I don't know.
+
+381
+00:30:58,147 --> 00:31:00,437
+That's what I'd like you to find out.
+
+382
+00:31:00,693 --> 00:31:02,733
+Well, I'll try.
+
+383
+00:31:02,863 --> 00:31:06,696
+I hear just about everything going on
+in the game, one way or another.
+
+384
+00:31:06,827 --> 00:31:11,040
+That's what I mean. I can't think of
+another executive who'd tell me a thing.
+
+385
+00:31:14,338 --> 00:31:16,378
+Like I say, I...
+
+386
+00:31:17,801 --> 00:31:19,759
+I'll try.
+
+387
+00:31:19,888 --> 00:31:21,965
+But I don't think there's much I...
+
+388
+00:31:22,099 --> 00:31:25,220
+Look, uh, no troubles for either of us, Clete.
+
+389
+00:31:25,354 --> 00:31:27,394
+Just... find out what you can.
+
+390
+00:31:29,401 --> 00:31:32,072
+Trust me, Jonathan. You know you can.
+
+391
+00:31:32,197 --> 00:31:33,194
+Sure.
+
+392
+00:31:33,992 --> 00:31:36,032
+Well, sit down.
+
+393
+00:31:37,205 --> 00:31:39,245
+Well, yeah.
+
+394
+00:32:06,748 --> 00:32:08,788
+Thanks, boys.
+
+395
+00:32:10,712 --> 00:32:12,456
+Good show, Johnny.
+
+396
+00:32:15,302 --> 00:32:17,343
+That's the Houston stride.
+
+397
+00:32:18,348 --> 00:32:22,478
+You boys wanna make this team,
+play for Houston, you'll have to learn it.
+
+398
+00:32:22,605 --> 00:32:26,687
+We, uh, pride ourselves
+on being a power team.
+
+399
+00:32:26,819 --> 00:32:29,192
+- That's right.
+- We're power, we're mean.
+
+400
+00:32:29,323 --> 00:32:31,862
+And that doesn't mean to say...
+
+401
+00:32:31,993 --> 00:32:34,830
+...we like to have you
+hanging back there on a rail...
+
+402
+00:32:34,956 --> 00:32:39,003
+...in a fist fight, just fighting in section A,
+when you should be in section B.
+
+403
+00:32:39,129 --> 00:32:42,416
+I'm coming up to score
+and you ain't in the right section...
+
+404
+00:32:42,551 --> 00:32:45,588
+...it won't do us no good.
+- That's right.
+
+405
+00:32:45,722 --> 00:32:47,965
+Who's the, uh, two new catchers here?
+
+406
+00:32:48,100 --> 00:32:50,177
+Right, uh, give me that ball.
+
+407
+00:32:53,900 --> 00:32:55,941
+Don't, uh...
+
+408
+00:32:56,321 --> 00:32:58,991
+...stick your hand in that gutter too quick.
+
+409
+00:32:59,116 --> 00:33:01,573
+Wait till this ball comes down on the track.
+
+410
+00:33:02,914 --> 00:33:05,786
+Don't get too anxious.
+That thing'll take your arm off.
+
+411
+00:33:05,918 --> 00:33:07,413
+Now the bikers.
+
+412
+00:33:07,546 --> 00:33:09,586
+A biker...
+
+413
+00:33:11,343 --> 00:33:14,630
+...might sacrifice
+a little three-minute penalty...
+
+414
+00:33:14,764 --> 00:33:16,841
+...run over the top of a skater...
+
+415
+00:33:16,976 --> 00:33:18,056
+Uh-huh. Whoo!
+
+416
+00:33:18,186 --> 00:33:20,857
+...if he feels that he's skating a little too good.
+
+417
+00:33:20,982 --> 00:33:24,435
+So, we have a few methods
+here in Houston. There's hundreds.
+
+418
+00:33:24,571 --> 00:33:28,701
+One, of course, is to use this shield here.
+Use your pads. Use what you got.
+
+419
+00:33:28,827 --> 00:33:31,615
+Drive that arm in there,
+keep your feet forward.
+
+420
+00:33:31,748 --> 00:33:35,118
+Hit, move, you get away from the wreck.
+Always keep your feet here.
+
+421
+00:33:35,253 --> 00:33:37,959
+Don't come across in here.
+You get all twisted.
+
+422
+00:33:38,090 --> 00:33:41,876
+Or if a biker's sitting up nice and high -
+a lot of guys like to ride high...
+
+423
+00:33:42,013 --> 00:33:44,801
+...drag one off in midair. I hurt you, Blue?
+
+424
+00:33:44,934 --> 00:33:47,141
+I wouldn't hurt him for the world.
+
+425
+00:33:47,270 --> 00:33:51,650
+Now a... third method, and the one
+perfected by a little friend of mine...
+
+426
+00:33:51,777 --> 00:33:53,569
+...the swoop.
+
+427
+00:33:53,697 --> 00:33:56,782
+Whoo! The swooper, that's me!
+
+428
+00:33:56,910 --> 00:33:59,865
+Hang up on the rail,
+use all the speed of the track...
+
+429
+00:33:59,998 --> 00:34:02,287
+...come down and drop-kick a biker.
+
+430
+00:34:04,671 --> 00:34:07,246
+Say... Excuse me...
+
+431
+00:34:07,383 --> 00:34:11,003
+...you're, uh... you're not paying
+a whole lot of attention, are you?
+
+432
+00:34:11,139 --> 00:34:13,678
+What's this dude's name?
+
+433
+00:34:13,809 --> 00:34:16,646
+That's our new speedball from Manila.
+
+434
+00:34:16,772 --> 00:34:18,730
+Yeah, you know. That's Toughie.
+
+435
+00:34:18,859 --> 00:34:20,651
+Come on up, Tough.
+
+436
+00:34:23,949 --> 00:34:26,239
+- Oh, he's a big honker.
+- <i>(laughter)</i>
+
+437
+00:34:27,413 --> 00:34:29,406
+Say, why don't, uh...
+
+438
+00:34:29,541 --> 00:34:31,369
+...you do me and the boys a favour?
+
+439
+00:34:31,502 --> 00:34:34,540
+Since you know all there is to know,
+we'd sure appreciate it.
+
+440
+00:34:34,673 --> 00:34:38,044
+Why not give us a demonstration?
+Show us how you made that big rep.
+
+441
+00:34:38,179 --> 00:34:40,967
+Just skate around and, uh,
+just... take me out, huh?
+
+442
+00:34:46,232 --> 00:34:47,513
+Go get him, Toughie.
+
+443
+00:34:50,655 --> 00:34:51,604
+Now...
+
+444
+00:34:51,740 --> 00:34:53,568
+...eyes, use 'em.
+
+445
+00:34:53,701 --> 00:34:56,823
+Don't lock your eyes in one spot.
+This game isn't all in the muscle.
+
+446
+00:34:56,956 --> 00:34:58,155
+Use your head.
+
+447
+00:34:58,291 --> 00:35:01,080
+Lock your eyes on the target and keep...
+
+448
+00:35:01,212 --> 00:35:02,244
+<i>(laughter)</i>
+
+449
+00:35:03,716 --> 00:35:06,837
+Ears. Now, they're real important, too.
+
+450
+00:35:06,971 --> 00:35:08,169
+<i>(laughter)</i>
+
+451
+00:35:14,023 --> 00:35:16,693
+# <i>Tchaikovsky "The Sleeping Beauty"</i>
+
+452
+00:35:20,073 --> 00:35:23,408
+Mm, if there's anything I love,
+it's luxury centres.
+
+453
+00:35:25,915 --> 00:35:29,666
+And when I get my privilege card,
+I know what I'm gonna get me, too.
+
+454
+00:35:29,796 --> 00:35:32,169
+- A secretary.
+- What for?
+
+455
+00:35:32,300 --> 00:35:34,543
+Are you planning on becoming an executive?
+
+456
+00:35:34,678 --> 00:35:37,349
+Oh, I just need one. About this tall. Hee-hee!
+
+457
+00:35:37,474 --> 00:35:38,885
+Yeah?
+
+458
+00:35:39,560 --> 00:35:42,017
+Why don't you give it a rest?
+
+459
+00:35:49,617 --> 00:35:50,613
+Hello.
+
+460
+00:35:50,743 --> 00:35:54,494
+- Can I help you, please?
+- Yeah. I, uh, tried to order some books...
+
+461
+00:35:54,624 --> 00:35:57,792
+...and they said I had to appear
+at the centre personally.
+
+462
+00:35:57,921 --> 00:36:02,086
+That's right, this is our circulation unit.
+Make your choice here or by catalogue.
+
+463
+00:36:02,219 --> 00:36:06,088
+There must be some mistake.
+The books you've ordered are classified...
+
+464
+00:36:06,224 --> 00:36:08,681
+...and have been transcribed and summarised.
+
+465
+00:36:08,812 --> 00:36:10,306
+Who summarises them?
+
+466
+00:36:10,439 --> 00:36:12,978
+I suppose the computers summarise them.
+
+467
+00:36:13,110 --> 00:36:16,943
+- What do you need books for?
+- I just want to study up on some things.
+
+468
+00:36:17,074 --> 00:36:21,073
+You could go to the computer centre
+where the real librarians transcribe them.
+
+469
+00:36:21,205 --> 00:36:25,038
+But we have all the edited versions here.
+Anything I think you'd want.
+
+470
+00:36:25,169 --> 00:36:27,162
+Well, let's see, then.
+
+471
+00:36:27,297 --> 00:36:30,668
+This is not a library
+and you're really not a librarian?
+
+472
+00:36:30,802 --> 00:36:34,054
+I'm only a clerk, that's right.
+I'm sorry about it, really.
+
+473
+00:36:34,182 --> 00:36:38,846
+The books are really in computer banks
+being summarised? Where is that?
+
+474
+00:36:38,981 --> 00:36:41,058
+There's a computer bank in Washington.
+
+475
+00:36:41,192 --> 00:36:43,981
+The biggest is in Geneva.
+That's a nice place to visit.
+
+476
+00:36:44,113 --> 00:36:46,190
+I guess that's where all the books are now.
+
+477
+00:36:46,325 --> 00:36:47,321
+Thank you.
+
+478
+00:36:50,539 --> 00:36:52,782
+Ah, it's not that exactly.
+
+479
+00:36:53,419 --> 00:36:55,377
+Yeah, but books, Jonathan?
+
+480
+00:36:55,505 --> 00:36:59,255
+I mean, anything you wanna know,
+you could hire a corporate teacher.
+
+481
+00:36:59,386 --> 00:37:02,756
+You could call somebody up,
+use your privilege card.
+
+482
+00:37:03,225 --> 00:37:05,265
+I can't. That's just it.
+
+483
+00:37:06,229 --> 00:37:10,276
+I think there's something going on.
+Somebody's pushing me.
+
+484
+00:37:10,402 --> 00:37:12,526
+Who? Bartholomew?
+
+485
+00:37:13,657 --> 00:37:18,535
+You're Jonathan E. Everybody knows you.
+You've got everything.
+
+486
+00:37:20,208 --> 00:37:24,255
+You know you'll be treated right.
+You always have been.
+
+487
+00:37:25,090 --> 00:37:27,131
+Yeah. I don't know.
+
+488
+00:37:27,260 --> 00:37:30,179
+Well, I do know. We're living good.
+You know we are.
+
+489
+00:38:33,774 --> 00:38:36,445
+# <i>Albinoni-Giazotto "Adagio"</i>
+
+490
+00:40:17,218 --> 00:40:19,710
+I found this to wear.
+
+491
+00:40:19,847 --> 00:40:21,757
+Is it all right?
+
+492
+00:40:24,520 --> 00:40:26,763
+That's the uniform of the house.
+
+493
+00:40:36,329 --> 00:40:38,702
+I'm Daphne.
+
+494
+00:40:38,833 --> 00:40:41,705
+Yeah. That figures.
+
+495
+00:40:45,509 --> 00:40:47,550
+It's all right.
+
+496
+00:40:49,140 --> 00:40:51,596
+Here. Wear these, too.
+
+497
+00:40:58,028 --> 00:41:01,778
+No penalties. Limited substitutions.
+You can handle it!
+
+498
+00:41:01,908 --> 00:41:03,866
+You can beat Tokyo!
+
+499
+00:41:03,995 --> 00:41:06,569
+All we gotta do is change our tactics.
+
+500
+00:41:06,707 --> 00:41:10,327
+There've always been rule changes.
+Now, look, you know that!
+
+501
+00:41:10,463 --> 00:41:14,047
+It gets more people to watch the game,
+that's all there is to it.
+
+502
+00:41:14,176 --> 00:41:16,847
+You all signed contracts
+to finish out the season...
+
+503
+00:41:16,972 --> 00:41:19,215
+...no matter what the alterations in the game.
+
+504
+00:41:19,351 --> 00:41:22,804
+- Now, every last one of you signed.
+- See, <i>now</i> we all signed a contract.
+
+505
+00:41:22,939 --> 00:41:25,811
+It doesn't matter!
+There's no way we're gonna lose...
+
+506
+00:41:25,944 --> 00:41:28,400
+...no matter how they change the game.
+
+507
+00:41:28,531 --> 00:41:30,524
+That's right.
+
+508
+00:41:30,659 --> 00:41:34,575
+All it means is a change of strategy.
+We knock out their bikers early.
+
+509
+00:41:34,707 --> 00:41:37,115
+We take care of their skaters.
+Don't try to score...
+
+510
+00:41:37,252 --> 00:41:38,663
+...and the game's yours.
+
+511
+00:41:38,796 --> 00:41:42,878
+Now, watch yourselves out there.
+They're playing the same rules we are.
+
+512
+00:41:43,010 --> 00:41:47,224
+It's gonna be rough.
+But it's still basically the same game.
+
+513
+00:41:47,350 --> 00:41:49,593
+And the team with the power wins.
+
+514
+00:41:49,729 --> 00:41:51,473
+That's easy to say, man!
+
+515
+00:42:00,119 --> 00:42:01,530
+Hey, Rusty.
+
+516
+00:42:01,663 --> 00:42:03,573
+Hey, wait... Wait a minute.
+
+517
+00:42:03,707 --> 00:42:05,250
+Hey, Rusty, come on.
+
+518
+00:42:05,377 --> 00:42:09,625
+Listen, uh, you were talking
+about them contracts.
+
+519
+00:42:09,758 --> 00:42:13,508
+How come everyone else is being asked
+to play with the no-penalty rule...
+
+520
+00:42:13,639 --> 00:42:16,131
+...and, uh, they're pressuring me to quit?
+
+521
+00:42:16,643 --> 00:42:18,684
+I don't know.
+
+522
+00:42:22,109 --> 00:42:24,399
+But can't you do what you're told?
+
+523
+00:42:24,530 --> 00:42:26,570
+For your own good, get out.
+
+524
+00:42:26,699 --> 00:42:28,325
+I, uh...
+
+525
+00:42:28,452 --> 00:42:33,163
+I don't want to leave the guys to play
+Tokyo with the rules breaking down.
+
+526
+00:42:33,292 --> 00:42:36,164
+Jonathan, it doesn't matter what you want!
+
+527
+00:42:40,219 --> 00:42:42,462
+You think about that.
+
+528
+00:42:51,861 --> 00:42:55,398
+(man) <i>These we did in slow motion</i>
+<i>to show the impact of your blows...</i>
+
+529
+00:42:55,533 --> 00:42:56,862
+<i>... on opposing players.</i>
+
+530
+00:42:56,994 --> 00:42:58,738
+<i>Yeah, fine.</i>
+
+531
+00:42:58,872 --> 00:43:01,245
+We want you to approve the sequences.
+
+532
+00:43:01,459 --> 00:43:05,043
+<i>It's, uh... It's all fine with me. Uh...</i>
+
+533
+00:43:06,258 --> 00:43:07,254
+<i>Anything.</i>
+
+534
+00:43:07,384 --> 00:43:10,552
+I really... don't see why I'm needed here.
+
+535
+00:43:10,764 --> 00:43:13,885
+<i>Well, the Energy people</i>
+<i>want you to be satisfied.</i>
+
+536
+00:43:14,019 --> 00:43:16,594
+<i>There, now. Isn't that a marvellous shot?</i>
+
+537
+00:43:19,151 --> 00:43:20,148
+Sure.
+
+538
+00:43:20,278 --> 00:43:23,696
+<i>I'm a stat freak myself. Isn't that perverse?</i>
+
+539
+00:43:24,034 --> 00:43:26,074
+Have you got anything I can take?
+
+540
+00:43:28,415 --> 00:43:30,456
+Just, uh, just take one, huh?
+
+541
+00:43:32,045 --> 00:43:32,995
+Statistics, huh?
+
+542
+00:43:33,130 --> 00:43:37,046
+<i>Yes, the greatest number of points</i>
+<i>scored in a single game, 18.</i>
+
+543
+00:43:37,178 --> 00:43:41,723
+<i>The highest velocity of a ball when</i>
+<i>actually fielded by a skater, 120mph.</i>
+
+544
+00:43:41,851 --> 00:43:43,050
+<i>Most deaths...</i>
+
+545
+00:43:43,187 --> 00:43:45,264
+- <i>(feedback)</i>
+- <i>Uh, please...</i>
+
+546
+00:43:45,398 --> 00:43:46,727
+<i>... don't do that.</i>
+
+547
+00:43:46,859 --> 00:43:48,852
+Ah.
+
+548
+00:43:48,987 --> 00:43:53,033
+Most deaths, <i>9</i>. Rome versus Pittsburgh,
+December last year.
+
+549
+00:43:53,160 --> 00:43:55,070
+The greatest number of players...
+
+550
+00:43:55,204 --> 00:43:59,038
+...put out of action
+by a single player in a single game...
+
+551
+00:43:59,169 --> 00:44:00,580
+<i>... 13.</i>
+
+552
+00:44:00,712 --> 00:44:03,549
+<i>A world record,</i> courtesy of your dear self.
+
+553
+00:44:03,675 --> 00:44:06,631
+<i>There have been studies</i>
+<i>of stat freaks in rollerball.</i>
+
+554
+00:44:06,763 --> 00:44:10,597
+<i>Some go to the track, but they never</i>
+<i>take their eyes off the big board.</i>
+
+555
+00:44:10,727 --> 00:44:11,723
+What's this?
+
+556
+00:44:11,854 --> 00:44:14,690
+<i>I've always wondered if a rollerball player...</i>
+
+557
+00:44:14,816 --> 00:44:16,893
+<i>... sees himself as a class apart.</i>
+
+558
+00:44:17,028 --> 00:44:18,856
+"Hello."
+
+559
+00:44:18,989 --> 00:44:21,030
+"Pause."
+
+560
+00:44:21,702 --> 00:44:24,953
+"I'm Jonathan E. Smile."
+
+561
+00:44:26,333 --> 00:44:29,786
+"I would like..." This, uh, this for me?
+
+562
+00:44:29,922 --> 00:44:32,628
+<i>Very astute. Yes.</i>
+
+563
+00:44:32,759 --> 00:44:35,133
+<i>It's your retirement announcement.</i>
+
+564
+00:44:35,973 --> 00:44:39,426
+<i>Your special is already scheduled</i>
+<i>and announced all over the world.</i>
+
+565
+00:44:39,561 --> 00:44:42,267
+<i>You're supposed to read this</i>
+<i>as part of the programme.</i>
+
+566
+00:44:42,399 --> 00:44:44,688
+What sort of pill did you give me?
+
+567
+00:44:44,819 --> 00:44:47,691
+Pure aphrodisiac, Daph. Enjoy yourself, dear.
+
+568
+00:44:47,823 --> 00:44:50,031
+(Daphne)
+<i>Can't we finish up here and go home?</i>
+
+569
+00:44:50,828 --> 00:44:53,117
+You are being recorded.
+
+570
+00:44:53,248 --> 00:44:55,657
+- Feeling woozy?
+- <i>Just try to read the announcement.</i>
+
+571
+00:44:55,793 --> 00:44:57,834
+I'm all right.
+
+572
+00:44:59,257 --> 00:45:01,630
+Why don't you... read...
+
+573
+00:45:01,760 --> 00:45:02,757
+...the...
+
+574
+00:45:02,887 --> 00:45:04,928
+Oh, yeah, you want that, do you?
+
+575
+00:45:05,057 --> 00:45:07,097
+<i>You are making things difficult.</i>
+
+576
+00:45:07,227 --> 00:45:10,597
+How many, uh, how many assignments
+you been on, Daph?
+
+577
+00:45:12,359 --> 00:45:14,898
+Oh, you're good at what you're good at...
+
+578
+00:45:15,030 --> 00:45:17,070
+...so you must have been around some.
+
+579
+00:45:17,200 --> 00:45:20,036
+A lot of girls have stayed with me.
+You know that.
+
+580
+00:45:20,162 --> 00:45:22,203
+Never seemed to mind.
+
+581
+00:45:23,042 --> 00:45:24,750
+But odd thoughts...
+
+582
+00:45:24,878 --> 00:45:27,251
+...I've had about you, Daph. Odd thoughts.
+
+583
+00:45:27,381 --> 00:45:29,671
+Wondered if you'd been briefed on me.
+
+584
+00:45:29,802 --> 00:45:31,261
+<i>I'll ask you to read...</i>
+
+585
+00:45:31,387 --> 00:45:35,303
+Yeah, a lot of things occur to me, Daph.
+A lot of things occur to you?
+
+586
+00:45:38,314 --> 00:45:40,723
+You look terrible.
+
+587
+00:45:40,859 --> 00:45:42,900
+You do look terrible.
+
+588
+00:45:43,739 --> 00:45:45,779
+Come on.
+
+589
+00:45:47,369 --> 00:45:48,698
+<i>(soundtrack)</i>
+
+590
+00:45:48,829 --> 00:45:52,117
+You shouldn't take anything
+offered to you just like that.
+
+591
+00:45:52,251 --> 00:45:54,043
+What was in it?
+
+592
+00:45:54,171 --> 00:45:58,253
+Nothing to hurt you.
+You're too trusting. Ever think of that?
+
+593
+00:45:58,385 --> 00:46:00,426
+<i>(crowd cheering)</i>
+
+594
+00:46:21,794 --> 00:46:23,170
+Hook 'em deep now!
+
+595
+00:46:36,358 --> 00:46:39,111
+They're good boys, but they're a bit rough.
+
+596
+00:46:40,614 --> 00:46:42,654
+Thank you.
+
+597
+00:46:49,335 --> 00:46:52,456
+As you know, the Tokyo game is coming up.
+
+598
+00:46:53,049 --> 00:46:55,837
+And you will remember that the Tokyo team...
+
+599
+00:46:55,970 --> 00:46:59,305
+...uses various karate and Hapkido techniques.
+
+600
+00:46:59,433 --> 00:47:01,806
+We will review these techniques...
+
+601
+00:47:01,937 --> 00:47:05,390
+...with special attention
+to the use of death blows.
+
+602
+00:47:05,525 --> 00:47:07,602
+- Same lecture every year!
+- <i>(laughter)</i>
+
+603
+00:47:09,281 --> 00:47:11,524
+There are certain body areas...
+
+604
+00:47:11,659 --> 00:47:14,864
+...that the skilled opponents
+will endeavour to strike.
+
+605
+00:47:14,998 --> 00:47:19,412
+What we got for our skilled opponents
+is the Houston fist-in-the-face technique!
+
+606
+00:47:19,546 --> 00:47:20,542
+<i>(laughter)</i>
+
+607
+00:47:20,965 --> 00:47:23,373
+Especially in a game with no penalties and...
+
+608
+00:47:23,510 --> 00:47:28,008
+You gotta get mad, all right? Play hard.
+It don't matter if they're all tiny little men.
+
+609
+00:47:28,142 --> 00:47:32,188
+Especially in a game with no penalties
+and limited substitutions.
+
+610
+00:47:32,315 --> 00:47:34,355
+Get mad and fly!
+
+611
+00:47:35,027 --> 00:47:36,023
+Please...
+
+612
+00:47:36,279 --> 00:47:38,818
+There are certain body areas
+that I know about, too.
+
+613
+00:47:38,949 --> 00:47:41,442
+What we gotta do is hit those guys
+in the ganglia.
+
+614
+00:47:41,578 --> 00:47:42,492
+Where?
+
+615
+00:47:42,621 --> 00:47:46,122
+In the ganglia. That's a mess of nerves
+right here under the ear.
+
+616
+00:47:46,252 --> 00:47:50,298
+You gotta drive the jawbone up in that
+mess of nerves, and it rings a bell.
+
+617
+00:47:50,425 --> 00:47:51,588
+<i>(laughter)</i>
+
+618
+00:47:51,718 --> 00:47:53,759
+You must understand...
+
+619
+00:47:53,888 --> 00:47:58,137
+...the Tokyo team
+has a very eccentric playing style.
+
+620
+00:47:58,269 --> 00:48:01,972
+And no penalties! If I go down,
+I know my team is with me, right?
+
+621
+00:48:02,108 --> 00:48:02,689
+Please.
+
+622
+00:48:02,818 --> 00:48:04,099
+Brute speed!
+
+623
+00:48:04,237 --> 00:48:07,737
+Familiarise yourself with
+the basic fighting-art techniques.
+
+624
+00:48:07,867 --> 00:48:10,276
+Nobody's gonna take us, rules or no rules.
+
+625
+00:48:10,412 --> 00:48:11,112
+Go on.
+
+626
+00:48:11,247 --> 00:48:13,324
+This is the Houston team!
+
+627
+00:48:13,458 --> 00:48:16,330
+- Rules or no rules.
+- We fight for each other.
+
+628
+00:48:16,463 --> 00:48:18,836
+<i>(chant)</i> Houston! Houston!
+Houston! Houston!
+
+629
+00:48:18,966 --> 00:48:21,340
+Houston! Houston! Houston!
+
+630
+00:48:21,470 --> 00:48:23,962
+Houston! Houston! Houston! Houston!
+
+631
+00:48:24,099 --> 00:48:25,214
+Houston! Houston!
+
+632
+00:48:25,351 --> 00:48:26,596
+Houston! Houston!
+
+633
+00:48:26,728 --> 00:48:27,808
+Houston! Houston!
+
+634
+00:48:27,938 --> 00:48:29,481
+Houston! Houston! Houston!
+
+635
+00:48:29,607 --> 00:48:31,601
+Houston! Houston! Houston! Houston!
+
+636
+00:48:31,735 --> 00:48:32,934
+Houston! Houston! Houston!
+
+637
+00:49:29,403 --> 00:49:32,856
+They're really quite beautiful,
+in a wild kind of way.
+
+638
+00:49:33,409 --> 00:49:35,699
+I can almost smell the lions.
+
+639
+00:49:35,829 --> 00:49:38,156
+Don't be silly. They're made in Detroit.
+
+640
+00:49:38,291 --> 00:49:40,783
+Yes, they're android. They're all programmed.
+
+641
+00:49:40,920 --> 00:49:43,412
+That's right,
+the whole game is played by robots.
+
+642
+00:49:43,549 --> 00:49:45,542
+They look like men, and they bleed!
+
+643
+00:49:46,220 --> 00:49:48,178
+Not so loud. They'll hear you.
+
+644
+00:49:48,306 --> 00:49:49,635
+<i>(laughs)</i>
+
+645
+00:49:49,766 --> 00:49:54,894
+It'll ensure stability, expansion and
+high profits for the planetary enterprise.
+
+646
+00:49:55,024 --> 00:49:59,154
+- What do you think about that?
+- You make it sound absolutely romantic.
+
+647
+00:49:59,572 --> 00:50:02,610
+Oh, he's gorgeous, absolutely gorgeous.
+
+648
+00:50:02,744 --> 00:50:06,743
+I know, but he's so intelligent.
+I'm practically living on bright pills.
+
+649
+00:50:10,881 --> 00:50:12,424
+Hey, here he is.
+
+650
+00:50:12,550 --> 00:50:15,837
+Hey, Johnny boy! Hey, kid!
+
+651
+00:50:17,182 --> 00:50:19,721
+Come on, let's hear it. Come on!
+
+652
+00:50:40,633 --> 00:50:43,041
+Give me a hand.
+I got too much to handle here.
+
+653
+00:50:43,178 --> 00:50:45,219
+Behave yourself.
+
+654
+00:51:07,380 --> 00:51:09,421
+Hello, Mackie.
+
+655
+00:51:10,426 --> 00:51:13,097
+Well, how have you been?
+
+656
+00:51:14,432 --> 00:51:17,007
+You know it's your night tonight, Jonathan.
+
+657
+00:51:17,145 --> 00:51:19,815
+You having a good time?
+
+658
+00:51:20,232 --> 00:51:22,475
+I'm glad you're here.
+
+659
+00:51:22,611 --> 00:51:24,937
+I'm here with an executive.
+
+660
+00:51:28,703 --> 00:51:30,744
+He asked all about you.
+
+661
+00:51:32,292 --> 00:51:34,749
+Wanted to know if I enjoyed you.
+
+662
+00:51:52,280 --> 00:51:55,116
+Hey, Rockie, hey, give her your hand.
+
+663
+00:51:55,242 --> 00:51:57,532
+- It's getting heavy.
+- It's too much.
+
+664
+00:51:58,789 --> 00:52:02,076
+- Well, what about the new game?
+- I haven't heard much about it.
+
+665
+00:52:02,211 --> 00:52:04,881
+The rule changes
+were announced a week ago.
+
+666
+00:52:05,007 --> 00:52:07,843
+- Who changed them?
+- That's what I'm trying to find out.
+
+667
+00:52:07,969 --> 00:52:10,342
+Look, rules or no rules,
+it's still the same game.
+
+668
+00:52:10,473 --> 00:52:14,555
+- I'm looking forward to the programme.
+- When you see that screen replay...
+
+669
+00:52:14,687 --> 00:52:16,313
+Excuse me.
+
+670
+00:53:14,942 --> 00:53:17,232
+- Did you hear about Evans?
+- What?
+
+671
+00:53:17,363 --> 00:53:19,403
+He's out. Gone.
+
+672
+00:53:19,533 --> 00:53:21,573
+No kidding!
+
+673
+00:53:21,702 --> 00:53:23,577
+The old man?
+
+674
+00:53:23,705 --> 00:53:25,533
+Who got him?
+
+675
+00:53:25,667 --> 00:53:26,782
+What?
+
+676
+00:53:26,918 --> 00:53:28,959
+I said, who got him?
+
+677
+00:53:29,088 --> 00:53:31,129
+The crocodile.
+
+678
+00:53:42,900 --> 00:53:45,523
+- You like poetry?
+- Mm-hmm.
+
+679
+00:53:45,654 --> 00:53:47,731
+Let's go upstairs. I got a poem for you.
+
+680
+00:53:53,708 --> 00:53:55,748
+<i>(brass band)</i>
+
+681
+00:54:00,593 --> 00:54:02,218
+<i>(applause)</i>
+
+682
+00:54:05,392 --> 00:54:08,679
+(announcer)
+<i>Welcome, sports enthusiasts everywhere.</i>
+
+683
+00:54:08,813 --> 00:54:13,062
+<i>Tonight Multivision trains its cameras</i>
+<i>on the amazing career of Jonathan E.</i>
+
+684
+00:54:13,195 --> 00:54:14,987
+<i>In those years...</i>
+
+685
+00:54:15,114 --> 00:54:18,615
+<i>... that Houston began to mould itself</i>
+<i>into a world championship team...</i>
+
+686
+00:54:18,744 --> 00:54:21,949
+- <i>... the attacking style of Jonathan E...</i>
+- Jonathan, you're on, come on!
+
+687
+00:54:22,083 --> 00:54:25,085
+<i>... has always been the team's strongest asset.</i>
+
+688
+00:54:25,212 --> 00:54:28,713
+<i>Yes, the game seems invented for him.</i>
+
+689
+00:54:36,938 --> 00:54:38,978
+<i>(audience cheers)</i>
+
+690
+00:54:49,081 --> 00:54:51,324
+<i>(brakes screech)</i>
+
+691
+00:55:11,030 --> 00:55:12,406
+<i>(cheering)</i>
+
+692
+00:55:25,300 --> 00:55:27,294
+<i>(crowd cheers)</i>
+
+693
+00:55:27,429 --> 00:55:30,003
+(crowd chants) <i>Jonathan! Jonathan!</i>
+
+694
+00:55:30,141 --> 00:55:32,764
+<i>Jonathan! Jonathan!</i>
+
+695
+00:56:12,995 --> 00:56:15,666
+(crowd chants) <i>Houston! Houston Houston!</i>
+
+696
+00:56:15,791 --> 00:56:18,710
+<i>Houston! Houston! Houston! Houston!</i>
+
+697
+00:56:45,001 --> 00:56:46,626
+<i>(applause)</i>
+
+698
+00:57:10,997 --> 00:57:13,454
+Look, I talked to everybody I could.
+
+699
+00:57:13,584 --> 00:57:17,833
+And, uh, there is something going on.
+Yeah, you're right about that.
+
+700
+00:57:17,966 --> 00:57:21,087
+But nobody will talk about it, I mean nobody!
+
+701
+00:57:21,221 --> 00:57:24,472
+It's hard finding anything out, Jonathan,
+you know that.
+
+702
+00:57:24,601 --> 00:57:29,063
+Hell, nobody even knows the names
+of the men on the directorate any more.
+
+703
+00:57:35,492 --> 00:57:37,532
+Look, I'm sorry.
+
+704
+00:57:40,833 --> 00:57:44,120
+- They want you out. You know that?
+- Yeah.
+
+705
+00:57:44,713 --> 00:57:47,288
+But do you know who they are?
+
+706
+00:57:47,426 --> 00:57:49,669
+- Bartholomew, I guess.
+- Mm-mm.
+
+707
+00:57:49,804 --> 00:57:51,845
+Above Bartholomew.
+
+708
+00:57:52,308 --> 00:57:54,765
+It's the Executive Directorate.
+
+709
+00:57:54,895 --> 00:57:58,266
+- Why would they worry about me?
+- Well, they do.
+
+710
+00:57:58,400 --> 00:58:02,447
+They're even after the old man because
+he didn't get your retirement announced.
+
+711
+00:58:02,573 --> 00:58:05,694
+How come they put
+the programme on without it?
+
+712
+00:58:05,828 --> 00:58:09,910
+I think they had to.
+They didn't want to. It's very tricky.
+
+713
+00:58:12,170 --> 00:58:15,671
+Jonathan, there's one thing
+you ought to know.
+
+714
+00:58:17,219 --> 00:58:21,171
+Look, nobody's said it, but I'm sure of it.
+
+715
+00:58:21,309 --> 00:58:22,305
+Hm?
+
+716
+00:58:25,899 --> 00:58:28,356
+They're afraid of you, Jonathan.
+
+717
+00:58:28,945 --> 00:58:30,985
+All the way to the top, they are.
+
+718
+00:58:44,301 --> 00:58:46,923
+What are they afraid of me for?
+
+719
+00:59:04,873 --> 00:59:07,709
+Oh, no, don't go yet.
+We're showing some replays.
+
+720
+00:59:07,835 --> 00:59:09,745
+Let's see 'em then!
+
+721
+00:59:11,215 --> 00:59:13,256
+<i>(crowd roars)</i>
+
+722
+01:00:05,712 --> 01:00:08,121
+Mr Bartholomew would like to see you now.
+
+723
+01:00:08,257 --> 01:00:09,456
+He's in the study.
+
+724
+01:00:34,963 --> 01:00:37,004
+Come on, hurry up, over there!
+
+725
+01:00:46,981 --> 01:00:50,601
+You know I've always considered
+your situation, Jonathan...
+
+726
+01:00:50,736 --> 01:00:52,979
+...and your needs.
+
+727
+01:00:53,115 --> 01:00:55,738
+Now you have to consider mine...
+
+728
+01:00:55,869 --> 01:00:59,286
+...and ours.
+- I'm considering it, Mr Bartholomew.
+
+729
+01:00:59,416 --> 01:01:02,502
+No player is greater than the game itself.
+
+730
+01:01:02,754 --> 01:01:05,329
+It's a significant game in a number of ways.
+
+731
+01:01:05,466 --> 01:01:09,252
+The... velocities of the ball,
+the awful physics of the track.
+
+732
+01:01:09,389 --> 01:01:13,720
+And in the middle of it all, men,
+playing by an odd set of rules.
+
+733
+01:01:13,854 --> 01:01:17,805
+It's not a game a man is supposed
+to grow strong in, Jonathan.
+
+734
+01:01:17,943 --> 01:01:19,984
+You appreciate that, don't you?
+
+735
+01:01:20,113 --> 01:01:22,153
+More and more, Mr Bartholomew.
+
+736
+01:01:22,283 --> 01:01:23,908
+<i>(laughter)</i>
+
+737
+01:01:27,040 --> 01:01:29,080
+Shoot that statue!
+
+738
+01:01:29,210 --> 01:01:31,880
+That's the one! Shoot that!
+
+739
+01:01:32,590 --> 01:01:34,630
+Hey, the tree!
+
+740
+01:01:37,597 --> 01:01:39,637
+You must take good advice.
+
+741
+01:01:39,934 --> 01:01:43,719
+You're not to play against Tokyo.
+You're not to play again.
+
+742
+01:01:45,024 --> 01:01:47,896
+- I want some concessions.
+- Concessions?
+
+743
+01:01:48,029 --> 01:01:52,408
+Believe me, I'd be happy to talk a deal,
+Jonathan. I love deals.
+
+744
+01:01:52,535 --> 01:01:55,871
+But this situation is much, much simpler.
+
+745
+01:01:56,166 --> 01:01:59,370
+This Multivision event tonight
+was very embarrassing.
+
+746
+01:01:59,504 --> 01:02:01,747
+For me and for others.
+
+747
+01:02:02,133 --> 01:02:03,758
+Yeah.
+
+748
+01:02:04,637 --> 01:02:09,265
+It might be I won't ever find out
+why I've been asked to leave the game...
+
+749
+01:02:09,686 --> 01:02:13,637
+...but I do know I can get
+some concessions, and I want 'em.
+
+750
+01:02:23,452 --> 01:02:24,781
+You missed!
+
+751
+01:02:26,706 --> 01:02:31,534
+I wanna see Ella, my wife.
+Arrange it so I can see her again.
+
+752
+01:02:31,669 --> 01:02:33,413
+That's not easy, Jonathan.
+
+753
+01:02:33,546 --> 01:02:35,373
+I want other concessions, too,
+Mr Bartholomew.
+
+754
+01:02:46,643 --> 01:02:49,478
+Oh! Oh-ho! Look at that!
+
+755
+01:02:49,604 --> 01:02:51,846
+<i>(laughter and chatter)</i>
+
+756
+01:03:01,950 --> 01:03:05,734
+I've never seen anything like that
+in my life! That's incredible!
+
+757
+01:03:07,372 --> 01:03:09,281
+That's terrific.
+
+758
+01:03:09,416 --> 01:03:10,744
+Look at all the flames!
+
+759
+01:03:10,876 --> 01:03:12,915
+Specifically, you're bargaining...
+
+760
+01:03:13,044 --> 01:03:16,164
+...for the right to stay in
+a horrible social spectacle.
+
+761
+01:03:16,298 --> 01:03:20,461
+It has its purposes.
+You've served those purposes brilliantly.
+
+762
+01:03:21,011 --> 01:03:23,003
+Why argue when you can quit?
+
+763
+01:03:23,138 --> 01:03:27,005
+And you say you want to know
+why decisions are made.
+
+764
+01:03:27,351 --> 01:03:29,308
+Your future comfort is assured.
+
+765
+01:03:29,436 --> 01:03:31,345
+You don't need to know.
+
+766
+01:03:31,480 --> 01:03:35,691
+Why argue about decisions you're not
+powerful enough to make for yourself?
+
+767
+01:03:42,491 --> 01:03:45,278
+Energy will treat you well, you know that.
+
+768
+01:03:53,961 --> 01:03:58,623
+If the rule changes stay the same,
+Mr Bartholomew...
+
+769
+01:03:58,757 --> 01:04:00,916
+...I'm playing with my team.
+
+770
+01:04:01,051 --> 01:04:04,088
+Too late. The rule change
+is scheduled and announced.
+
+771
+01:04:04,221 --> 01:04:06,759
+There's no going back. You've seen to that.
+
+772
+01:04:06,891 --> 01:04:08,171
+I'll see you in Tokyo.
+
+773
+01:04:10,144 --> 01:04:12,433
+You could be made to quit!
+You could be forced!
+
+774
+01:04:12,563 --> 01:04:13,891
+You can't make me quit!
+
+775
+01:04:15,983 --> 01:04:17,727
+Don't tell me I can't.
+
+776
+01:04:17,860 --> 01:04:19,402
+Don't ever say that! I can!
+
+777
+01:04:19,528 --> 01:04:23,443
+- (crowd chants) <i>Jonathan! Jonathan!</i>
+- You can be stopped!
+
+778
+01:04:23,574 --> 01:04:26,659
+(crowd chants)
+<i>Jonathan! Jonathan! Jonathan! Jonathan!</i>
+
+779
+01:04:26,786 --> 01:04:29,324
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+780
+01:04:29,664 --> 01:04:32,415
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+781
+01:04:32,542 --> 01:04:35,661
+<i>Jonathan! Jonathan! Jonathan! Jonathan!</i>
+
+782
+01:04:40,091 --> 01:04:42,463
+- <i>(laughter)</i>
+- You are silly!
+
+783
+01:04:42,593 --> 01:04:44,633
+You could have killed someone!
+
+784
+01:04:53,146 --> 01:04:57,060
+- It's all going too fast. I'm not packed...
+- Forget it, you're not going, Daph.
+
+785
+01:04:57,192 --> 01:04:59,683
+Those bags are ready.
+Here. Take this extra hat.
+
+786
+01:04:59,819 --> 01:05:00,733
+Sir...
+
+787
+01:05:00,862 --> 01:05:03,151
+...I've had a call. I have to go over to Energy.
+
+788
+01:05:03,281 --> 01:05:06,152
+- You're not going to Tokyo?
+- What do you mean I'm not going?
+
+789
+01:05:06,284 --> 01:05:07,909
+I hope this isn't inconvenient.
+
+790
+01:05:09,454 --> 01:05:11,910
+No, no, it's no... no problem.
+
+791
+01:05:12,999 --> 01:05:15,039
+I'm supposed to go with you.
+
+792
+01:05:15,961 --> 01:05:18,000
+Well, what's that mean?
+
+793
+01:05:20,215 --> 01:05:23,750
+Who, uh, who told you
+you're supposed to go with me? Hm?
+
+794
+01:05:23,885 --> 01:05:25,925
+Nobody told me.
+
+795
+01:05:28,056 --> 01:05:32,006
+Listen, Jonathan,
+I really wanna go with you. I do really.
+
+796
+01:05:32,144 --> 01:05:33,887
+You'll need me.
+
+797
+01:05:34,020 --> 01:05:36,594
+Get yourself another assignment,
+will you, Daph?
+
+798
+01:05:36,732 --> 01:05:39,483
+Everybody's an assignment.
+Life's an assignment.
+
+799
+01:05:39,609 --> 01:05:40,605
+Get going.
+
+800
+01:05:45,073 --> 01:05:48,692
+You'd better do as you're told, Jonathan.
+That's all I have to say.
+
+801
+01:05:49,828 --> 01:05:51,868
+Are you threatening me?
+
+802
+01:05:52,664 --> 01:05:54,906
+Don't be here when I come back.
+
+803
+01:05:55,042 --> 01:05:57,118
+You won't be back, Johnny boy...
+
+804
+01:05:58,378 --> 01:06:01,830
+Don't try to frighten me, Daphne,
+you don't know how.
+
+805
+01:06:01,965 --> 01:06:02,961
+Look...
+
+806
+01:06:03,384 --> 01:06:07,880
+...you go tell them people that
+I'm going to Tokyo and you're not, huh?
+
+807
+01:06:08,013 --> 01:06:10,053
+You tell 'em that.
+
+808
+01:06:10,558 --> 01:06:11,340
+Ciao.
+
+809
+01:06:11,475 --> 01:06:13,100
+Oh!
+
+810
+01:06:28,451 --> 01:06:29,446
+Keller.
+
+811
+01:06:36,542 --> 01:06:39,294
+Make sure my gear gets to the track in Tokyo.
+
+812
+01:06:39,420 --> 01:06:41,994
+I'm gonna travel with the team this trip.
+
+813
+01:06:42,131 --> 01:06:44,622
+You, uh, call transportation and tell 'em.
+
+814
+01:06:44,759 --> 01:06:46,586
+Yes, sir.
+
+815
+01:07:03,486 --> 01:07:06,024
+<i>(crowd chants)</i> Jonathan! Jonathan!
+
+816
+01:07:06,155 --> 01:07:08,195
+Jonathan! Jonathan!
+
+817
+01:07:08,324 --> 01:07:12,405
+Jonathan! Jonathan! Jonathan!
+
+818
+01:07:12,537 --> 01:07:14,364
+Jonathan! Jonathan!
+
+819
+01:07:14,497 --> 01:07:17,701
+What chance does Houston have
+of defeating Tokyo tonight?
+
+820
+01:07:17,834 --> 01:07:22,163
+Well, uh, both teams have fine players,
+and, uh, different styles.
+
+821
+01:07:22,297 --> 01:07:23,839
+What do you say, Moonpie?
+
+822
+01:07:23,965 --> 01:07:26,456
+Yeah, yeah, but it's not
+an even match, see...
+
+823
+01:07:26,593 --> 01:07:30,293
+...because the Tokyo team
+has all these little short guys.
+
+824
+01:07:32,516 --> 01:07:34,888
+<i>(crowd chants)</i> Tokyo! Tokyo!
+
+825
+01:07:35,018 --> 01:07:38,102
+Tokyo! Tokyo! Tokyo!
+
+826
+01:07:38,230 --> 01:07:40,269
+What about the rule changes?
+
+827
+01:07:40,774 --> 01:07:44,772
+Well, at Houston, uh,
+we kinda play a wide-open system.
+
+828
+01:07:44,903 --> 01:07:48,354
+Will you comment on a game
+where the rules are always changing?
+
+829
+01:07:48,490 --> 01:07:51,941
+The game's always had rule changes.
+They don't affect the good teams.
+
+830
+01:07:52,077 --> 01:07:55,280
+You're a great new player.
+What's the secret of your success?
+
+831
+01:07:55,414 --> 01:07:57,869
+Oh, it's no secret, I just imitate him...
+
+832
+01:07:58,000 --> 01:08:00,621
+...and, uh, plastic surgery keeps me beautiful.
+
+833
+01:08:00,752 --> 01:08:04,335
+There are rumours that the last game
+of the season will be played...
+
+834
+01:08:04,465 --> 01:08:06,790
+...without time limits. Uh, any comments?
+
+835
+01:08:07,342 --> 01:08:10,427
+I don't think it'll come to that.
+It's still a game.
+
+836
+01:08:10,554 --> 01:08:13,127
+There are also other rumours.
+Some say you retired.
+
+837
+01:08:13,265 --> 01:08:14,640
+Here I am.
+
+838
+01:08:14,767 --> 01:08:18,301
+<i>(crowds chant)</i>
+Jonathan! Jonathan! Jonathan!
+
+839
+01:08:18,437 --> 01:08:19,979
+Jonathan! Jonathan!
+
+840
+01:08:22,608 --> 01:08:25,775
+(Bartholomew) <i>Corporate society</i>
+<i>was an inevitable destiny...</i>
+
+841
+01:08:25,903 --> 01:08:27,942
+<i>... a material dream world.</i>
+
+842
+01:08:28,072 --> 01:08:31,156
+<i>Everything man touched became attainable.</i>
+
+843
+01:08:32,076 --> 01:08:34,531
+I've been touched all my life.
+
+844
+01:08:34,662 --> 01:08:36,701
+One way or the other.
+
+845
+01:08:37,623 --> 01:08:39,663
+Either caressed or hit.
+
+846
+01:08:42,586 --> 01:08:45,256
+Don't much seem to matter which any more.
+
+847
+01:08:47,800 --> 01:08:50,469
+I guess that's why I want to see Ella again.
+
+848
+01:08:51,095 --> 01:08:53,135
+To see if I still feel things now.
+
+849
+01:08:55,224 --> 01:08:57,264
+You know what I mean?
+
+850
+01:09:00,021 --> 01:09:01,645
+Yeah...
+
+851
+01:09:25,255 --> 01:09:27,543
+There are some other things, too.
+
+852
+01:09:30,927 --> 01:09:33,383
+They took Ella away from me.
+
+853
+01:09:36,641 --> 01:09:39,215
+Now they're trying to push me out.
+
+854
+01:09:42,522 --> 01:09:44,562
+I'd sure like to find out why.
+
+855
+01:09:51,198 --> 01:09:54,697
+I think I'll go to one of them
+computer centres.
+
+856
+01:09:54,993 --> 01:09:57,033
+See what I can find out.
+
+857
+01:09:58,872 --> 01:10:00,283
+Yeah...
+
+858
+01:10:01,917 --> 01:10:04,289
+Finding out things, that's, uh...
+
+859
+01:10:05,963 --> 01:10:08,418
+...that's the thing, Moonpie.
+
+860
+01:10:13,720 --> 01:10:18,050
+<i>(crowd chants)</i> Jonathan!
+Jonathan! Jonathan!
+
+861
+01:10:18,183 --> 01:10:21,101
+Jonathan! Jonathan!
+
+862
+01:10:33,908 --> 01:10:38,237
+(announcer) <i>Welcome</i> to <i>Tokyo,</i>
+<i>and tonight's dramatic semifinal match...</i>
+
+863
+01:10:38,370 --> 01:10:40,908
+<i>... for the world's rollerball championship...</i>
+
+864
+01:10:41,040 --> 01:10:43,994
+<i>... between hosts Tokyo</i>
+<i>and the defending champions Houston.</i>
+
+865
+01:10:44,126 --> 01:10:46,368
+<i>Big rule changes tonight.</i>
+
+866
+01:10:46,504 --> 01:10:50,086
+<i>There will be no penalties called</i>
+<i>and there is limited substitution.</i>
+
+867
+01:10:50,216 --> 01:10:52,967
+(announcer #2)
+<i>Ladies and gentlemen, please stand...</i>
+
+868
+01:10:53,094 --> 01:10:56,712
+<i>... for the playing of our corporate hymn.</i>
+
+869
+01:10:56,847 --> 01:10:58,924
+<i>(organ music)</i>
+
+870
+01:12:28,649 --> 01:12:30,688
+<i>(crowd cheers)</i>
+
+871
+01:12:33,237 --> 01:12:36,238
+<i>(crowd chants)</i> Houston! Tokyo!
+Houston! Tokyo!
+
+872
+01:12:36,365 --> 01:12:38,274
+<i>(klaxon)</i>
+
+873
+01:12:38,409 --> 01:12:40,318
+<i>(ball released)</i>
+
+874
+01:12:40,452 --> 01:12:43,786
+<i>The name of the controller</i>
+<i>for tonight's game...</i>
+
+875
+01:12:43,914 --> 01:12:45,990
+<i>... CC Nakamura.</i>
+
+876
+01:12:46,125 --> 01:12:49,410
+- You all right?
+- <i>(chuckles)</i> Yeah, I'm all right!
+
+877
+01:12:49,545 --> 01:12:52,546
+I just wanna get out there
+and hit them little fellas.
+
+878
+01:12:52,673 --> 01:12:53,918
+<i>(engines rev)</i>
+
+879
+01:12:54,049 --> 01:12:56,256
+Listen, stay close now, all right?
+
+880
+01:12:56,469 --> 01:12:58,876
+Yeah. OK, Johnny. Let's go, let's go!
+
+881
+01:12:59,722 --> 01:13:02,213
+<i>Attention. Your attention, please.</i>
+
+882
+01:13:02,350 --> 01:13:04,841
+<i>Rule changes for tonight's game...</i>
+
+883
+01:13:04,977 --> 01:13:08,892
+<i>... limited substitution and no penalties.</i>
+
+884
+01:13:09,023 --> 01:13:11,431
+<i>(crowd chants)</i> Jonathan! Jonathan!
+
+885
+01:13:11,567 --> 01:13:13,607
+Jonathan! Jonathan!
+
+886
+01:13:13,736 --> 01:13:14,732
+<i>(booing)</i>
+
+887
+01:13:14,862 --> 01:13:16,689
+<i>(crowd chants)</i> Tokyo! Gambare!
+
+888
+01:13:16,823 --> 01:13:18,233
+Tokyo!
+
+889
+01:13:18,366 --> 01:13:21,236
+Gambare! Tokyo! Gambare!
+
+890
+01:13:21,369 --> 01:13:24,868
+Tokyo! Gambare! Tokyo! Gambare!
+
+891
+01:13:29,752 --> 01:13:32,872
+<i>(crowd chants)</i> Houston! Houston! Houston!
+
+892
+01:13:36,551 --> 01:13:38,294
+Haaaaaargh!
+
+893
+01:13:38,428 --> 01:13:39,922
+<i>(all)</i> Haaaaaargh!
+
+894
+01:13:45,852 --> 01:13:47,394
+<i>(klaxon)</i>
+
+895
+01:13:47,520 --> 01:13:50,355
+<i>The controller checks the computer,</i>
+<i>ready to fire...</i>
+
+896
+01:13:50,482 --> 01:13:53,317
+<i>... and the first ball is fired.</i>
+<i>The game is under way.</i>
+
+897
+01:13:53,443 --> 01:13:55,483
+<i>Remember, there'll be no penalties...</i>
+
+898
+01:13:55,612 --> 01:13:58,447
+<i>... and limited substitution.</i>
+<i>This will be a punishing game...</i>
+
+899
+01:13:58,573 --> 01:14:00,613
+<i>... for both teams.</i>
+
+900
+01:14:05,622 --> 01:14:07,698
+- Here they come!
+- Next time around.
+
+901
+01:14:14,297 --> 01:14:16,171
+Spread! Spread out!
+
+902
+01:14:16,299 --> 01:14:17,877
+All right, boys, go ahead.
+
+903
+01:14:29,354 --> 01:14:31,394
+Tokyo! Gambare!
+
+904
+01:14:31,523 --> 01:14:33,101
+Stay close now, stay close.
+
+905
+01:14:40,407 --> 01:14:41,403
+Stick with 'em!
+
+906
+01:14:51,669 --> 01:14:53,293
+Go, go, go!
+
+907
+01:14:56,298 --> 01:14:59,335
+<i>There's a scramble in front of the goal.</i>
+<i>They all go down.</i>
+
+908
+01:14:59,468 --> 01:15:02,042
+<i>Kubo, on his knees, scores!</i>
+
+909
+01:15:02,179 --> 01:15:04,753
+<i>Kubo scores from his kneeling position...</i>
+
+910
+01:15:04,890 --> 01:15:06,848
+<i>... in front of the goal.</i>
+
+911
+01:15:06,976 --> 01:15:10,392
+<i>And Tokyo takes a 1-0 lead over Houston.</i>
+
+912
+01:15:11,147 --> 01:15:15,892
+<i>This is a fast-paced game tonight</i>
+<i>with Tokyo leading 1-0.</i>
+
+913
+01:15:16,027 --> 01:15:18,565
+<i>Houston being pressured</i>
+<i>by the faster Tokyo team.</i>
+
+914
+01:15:18,696 --> 01:15:20,736
+<i>The second ball is fired.</i>
+
+915
+01:15:30,249 --> 01:15:31,578
+Spread out!
+
+916
+01:15:31,709 --> 01:15:32,788
+Slow 'em down!
+
+917
+01:15:34,670 --> 01:15:36,710
+Spread out!
+
+918
+01:15:42,095 --> 01:15:45,131
+<i>Now the faster tactics of the Tokyo team.</i>
+
+919
+01:15:45,265 --> 01:15:48,764
+<i>And now, Houston,</i>
+<i>their bikers and skaters form a wall.</i>
+
+920
+01:15:48,893 --> 01:15:51,265
+Tokyo! Gambare!
+
+921
+01:15:59,904 --> 01:16:01,731
+- Watch the ball!
+- Get 'em out!
+
+922
+01:16:13,710 --> 01:16:15,750
+Bike, bike!
+
+923
+01:16:20,091 --> 01:16:22,796
+Bike him! Bike him!
+
+924
+01:16:23,220 --> 01:16:25,259
+You got him, baby...
+
+925
+01:16:25,389 --> 01:16:27,298
+...you got him.
+
+926
+01:16:27,432 --> 01:16:29,472
+<i>(crowd roars)</i>
+
+927
+01:16:39,069 --> 01:16:41,525
+<i>The ball is fired,</i>
+<i>and the second period is under way...</i>
+
+928
+01:16:41,655 --> 01:16:42,935
+<i>... with Tokyo leading.</i>
+
+929
+01:16:43,073 --> 01:16:45,860
+<i>Houston forced to come</i>
+<i>from behind tonight. Houston.</i>
+
+930
+01:16:50,581 --> 01:16:52,620
+Here you go.
+
+931
+01:16:52,833 --> 01:16:55,406
+Watch the man behind me!
+Watch the man behind me!
+
+932
+01:17:03,260 --> 01:17:04,885
+<i>(klaxon)</i>
+
+933
+01:17:09,809 --> 01:17:11,635
+<i>The ball is in play again.</i>
+
+934
+01:17:11,769 --> 01:17:14,176
+<i>It is scooped up by Carter for Houston.</i>
+
+935
+01:17:14,313 --> 01:17:16,222
+<i>Houston on the offensive attack.</i>
+
+936
+01:17:20,903 --> 01:17:22,314
+Whoo!
+
+937
+01:17:27,535 --> 01:17:28,566
+<i>(booing)</i>
+
+938
+01:17:36,919 --> 01:17:38,330
+Come on!
+
+939
+01:17:40,631 --> 01:17:43,549
+<i>(crowd chants)</i> Jonathan! Jonathan!
+
+940
+01:17:43,676 --> 01:17:47,460
+Jonathan! Jonathan! Jonathan!
+
+941
+01:17:50,058 --> 01:17:51,053
+Go!
+
+942
+01:17:54,103 --> 01:17:57,307
+<i>Right in the slot,</i>
+<i>through three men and he scores!</i>
+
+943
+01:17:58,566 --> 01:18:00,358
+<i>Houston goal...</i>
+
+944
+01:18:00,485 --> 01:18:03,439
+<i>... scored by Jonathan E!</i>
+
+945
+01:18:03,571 --> 01:18:06,905
+<i>The time - 12.05, second period.</i>
+
+946
+01:18:07,033 --> 01:18:09,441
+- I love this game!
+- Yeah!
+
+947
+01:18:12,956 --> 01:18:17,784
+<i>Some injuries here as three players</i>
+<i>are helped off the track.</i>
+
+948
+01:18:24,176 --> 01:18:26,417
+- Sprint!
+- Yeah, right!
+
+949
+01:18:30,932 --> 01:18:32,806
+Come on, Moonpie, Moonpie!
+
+950
+01:18:32,934 --> 01:18:34,974
+Over here! Over here!
+
+951
+01:18:37,439 --> 01:18:41,686
+- What the hell are those guys doing?
+- I don't know. Come on, stay close.
+
+952
+01:18:51,119 --> 01:18:53,159
+I told you to stay close.
+
+953
+01:18:54,873 --> 01:18:57,993
+All right, turn loose
+next time around, all right?
+
+954
+01:18:58,127 --> 01:19:00,415
+All right? Go on, go on, go on, go on!
+
+955
+01:19:02,297 --> 01:19:03,293
+Moonpie!
+
+956
+01:19:05,342 --> 01:19:06,718
+I got him!
+
+957
+01:19:06,844 --> 01:19:08,386
+Let me have him!
+
+958
+01:19:22,359 --> 01:19:23,355
+<i>(klaxon)</i>
+
+959
+01:19:32,828 --> 01:19:34,868
+Tokyo! Gambare!
+
+960
+01:19:35,206 --> 01:19:36,202
+Tokyo! Gambare!
+
+961
+01:20:04,402 --> 01:20:07,071
+Take it easy. Everything will be all right.
+
+962
+01:20:07,197 --> 01:20:08,988
+Sit down over here.
+
+963
+01:20:09,115 --> 01:20:11,950
+Sit right here. Everything's gonna be all right.
+
+964
+01:20:12,076 --> 01:20:14,828
+Medic, hey, medic, come over here! Come on!
+
+965
+01:20:41,189 --> 01:20:42,814
+- Moonpie!
+- <i>(klaxon)</i>
+
+966
+01:21:01,710 --> 01:21:04,628
+- Come on, Moonpie.
+- Come on, get some help!
+
+967
+01:21:04,755 --> 01:21:07,424
+Set him down, set him down!
+
+968
+01:21:18,936 --> 01:21:20,596
+Just a bit more.
+
+969
+01:21:20,729 --> 01:21:22,354
+Breathe.
+
+970
+01:21:24,400 --> 01:21:26,309
+Come on now, Moonpie.
+
+971
+01:21:26,443 --> 01:21:28,483
+Come on, Moonpie!
+
+972
+01:21:42,960 --> 01:21:47,005
+Come on, Tokyo!
+Go get 'em! Go, go, go, Tokyo!
+
+973
+01:21:50,593 --> 01:21:53,629
+Jonathan, watch yourself out there!
+Now, watch them!
+
+974
+01:21:53,763 --> 01:21:56,384
+<i>(crowd chants)</i>
+Jonathan! Jonathan! Jonathan!
+
+975
+01:21:56,516 --> 01:22:00,430
+Jonathan! Jonathan! Jonathan! Jonathan!
+
+976
+01:22:00,561 --> 01:22:04,310
+Jonathan! Jonathan! Jonathan! Jonathan!
+
+977
+01:22:08,027 --> 01:22:09,569
+Keep behind, Blue.
+
+978
+01:22:09,696 --> 01:22:12,151
+<i>(crowd chants)</i> Houston! Houston! Houston!
+
+979
+01:22:26,880 --> 01:22:29,252
+<i>(crowd chants)</i> Tokyo! Gambare! Tokyo!
+
+980
+01:22:55,492 --> 01:22:56,903
+<i>(klaxon)</i>
+
+981
+01:23:12,885 --> 01:23:14,509
+<i>(speaks Japanese)</i>
+
+982
+01:23:23,270 --> 01:23:25,310
+Look out!
+
+983
+01:23:34,657 --> 01:23:35,771
+<i>Jonathan E!</i>
+
+984
+01:23:35,908 --> 01:23:39,028
+<i>Time in the third period, 11.35.</i>
+
+985
+01:24:01,350 --> 01:24:02,975
+<i>(klaxon)</i>
+
+986
+01:24:08,566 --> 01:24:10,606
+Sprint! Sprint!
+
+987
+01:24:17,033 --> 01:24:18,942
+Tokyo! Gambare!
+
+988
+01:24:21,913 --> 01:24:23,704
+Tokyo! Tokyo!
+
+989
+01:24:28,294 --> 01:24:29,872
+Roll off! Roll off!
+
+990
+01:24:32,841 --> 01:24:33,338
+Blue!
+
+991
+01:25:06,917 --> 01:25:08,956
+This way, please.
+
+992
+01:25:20,013 --> 01:25:24,093
+May I say first, please,
+that you played a superb game in our city.
+
+993
+01:25:24,226 --> 01:25:26,265
+Thank you.
+
+994
+01:25:33,736 --> 01:25:36,690
+A simple problem,
+yet I know it is difficult for you.
+
+995
+01:25:36,822 --> 01:25:39,028
+Your team-mate has no family
+we can contact...
+
+996
+01:25:39,158 --> 01:25:43,736
+...and permission is required now
+before, uh, before consummating matters.
+
+997
+01:25:49,001 --> 01:25:51,041
+So, he's, uh, technically dead?
+
+998
+01:25:51,170 --> 01:25:53,246
+Yes, unfortunately.
+
+999
+01:25:53,380 --> 01:25:56,832
+His heart and lungs will function,
+but his brain is, uh...
+
+1000
+01:25:56,967 --> 01:25:58,960
+It has expired.
+
+1001
+01:25:59,095 --> 01:26:01,764
+From the first minutes we had him,
+it was hopeless.
+
+1002
+01:26:01,889 --> 01:26:06,136
+- I believe this was explained to you.
+- He's warm.
+
+1003
+01:26:06,269 --> 01:26:10,480
+Yes. But if you will, please,
+you must sign a release form.
+
+1004
+01:26:10,606 --> 01:26:11,721
+It is required.
+
+1005
+01:26:13,901 --> 01:26:15,941
+Does he, uh...
+
+1006
+01:26:19,907 --> 01:26:21,947
+Does he dream?
+
+1007
+01:26:22,076 --> 01:26:25,944
+No, there is no brain wave at all,
+no sort of consciousness.
+
+1008
+01:26:26,080 --> 01:26:28,867
+Just a deep coma, a vegetable.
+
+1009
+01:26:29,000 --> 01:26:31,206
+No dreams, nothing.
+
+1010
+01:26:32,503 --> 01:26:34,543
+But even a...
+
+1011
+01:26:36,466 --> 01:26:38,791
+...a plant, uh, feels something.
+
+1012
+01:26:38,927 --> 01:26:40,718
+Who can say? Please.
+
+1013
+01:26:40,845 --> 01:26:42,885
+It, uh...
+
+1014
+01:26:45,433 --> 01:26:47,556
+...senses life. I mean, it, um...
+
+1015
+01:26:48,895 --> 01:26:50,935
+...turns towards the sun.
+
+1016
+01:26:52,107 --> 01:26:54,099
+It's alive, isn't it?
+
+1017
+01:26:54,234 --> 01:26:55,562
+You must sign.
+
+1018
+01:26:57,445 --> 01:26:59,485
+You, uh...
+
+1019
+01:26:59,823 --> 01:27:01,862
+You just leave him the way he is.
+
+1020
+01:27:03,785 --> 01:27:05,825
+Just leave him as he is.
+
+1021
+01:27:05,954 --> 01:27:08,030
+Someone must sign. There's no other way.
+
+1022
+01:27:08,165 --> 01:27:10,490
+- Arrangements will be made.
+- Please...
+
+1023
+01:27:10,625 --> 01:27:14,374
+...there are hospital rules that...
+- No, there aren't.
+
+1024
+01:27:14,504 --> 01:27:16,830
+There aren't any rules at all.
+
+1025
+01:28:02,970 --> 01:28:05,259
+Let me know if you have any problems.
+
+1026
+01:28:06,348 --> 01:28:08,721
+You won't find any answers in Geneva.
+
+1027
+01:28:11,103 --> 01:28:13,143
+Take care of your arm.
+
+1028
+01:28:49,058 --> 01:28:53,139
+<i>In my opinion we are confronted here</i>
+<i>with something of a situation.</i>
+
+1029
+01:28:54,272 --> 01:28:57,890
+<i>Otherwise I would not have presumed</i>
+<i>to take up your time.</i>
+
+1030
+01:28:58,777 --> 01:29:02,477
+<i>Once again it concerns</i>
+<i>the case of Jonathan E.</i>
+
+1031
+01:29:04,032 --> 01:29:08,160
+<i>We know we don't want anything</i>
+<i>extraordinary to happen to Jonathan.</i>
+
+1032
+01:29:08,286 --> 01:29:10,326
+<i>We've already agreed on that.</i>
+
+1033
+01:29:11,331 --> 01:29:13,787
+<i>No accidents, nothing unnatural.</i>
+
+1034
+01:29:14,876 --> 01:29:19,503
+<i>The game was created to demonstrate</i>
+<i>the futility of individual effort.</i>
+
+1035
+01:29:20,632 --> 01:29:22,874
+<i>Let the game do its work.</i>
+
+1036
+01:29:23,802 --> 01:29:27,218
+<i>If the Energy Corporation</i>
+<i>has done all it can...</i>
+
+1037
+01:29:27,347 --> 01:29:31,677
+<i>... and if a champion defeats the meaning</i>
+<i>for which the game was designed...</i>
+
+1038
+01:29:31,810 --> 01:29:34,431
+<i>... then he must lose.</i>
+
+1039
+01:29:36,106 --> 01:29:38,644
+<i>I hope you agree with my reasoning.</i>
+
+1040
+01:29:59,838 --> 01:30:02,508
+<i>Thank you all.</i>
+
+1041
+01:30:58,356 --> 01:31:00,396
+Will you follow me, please?
+
+1042
+01:31:37,312 --> 01:31:41,642
+Hello! Hello! Yes, it is!
+
+1043
+01:31:41,775 --> 01:31:44,978
+The famous Jonathan E. Oh, hard to believe!
+
+1044
+01:31:45,112 --> 01:31:47,021
+Ah, sorry things are in a mess.
+
+1045
+01:31:47,155 --> 01:31:50,821
+The rollerball champion. Hah, wonderful.
+
+1046
+01:31:50,951 --> 01:31:53,442
+Not many people come to see us, you know.
+
+1047
+01:31:53,579 --> 01:31:56,496
+We're not easy to talk to, Zero and I.
+
+1048
+01:31:56,623 --> 01:31:59,660
+We're a little confused again here today.
+
+1049
+01:32:00,753 --> 01:32:02,792
+This is embarrassing.
+
+1050
+01:32:04,006 --> 01:32:06,413
+It's embarrassing to misplace things.
+
+1051
+01:32:06,550 --> 01:32:08,590
+You've misplaced some data?
+
+1052
+01:32:08,719 --> 01:32:11,636
+Mm, the whole of the 13th century.
+
+1053
+01:32:14,308 --> 01:32:18,092
+Misplaced the computers,
+several conventional computers.
+
+1054
+01:32:18,229 --> 01:32:20,055
+We can't find them.
+
+1055
+01:32:20,564 --> 01:32:24,183
+We're always moving things around,
+getting organised...
+
+1056
+01:32:25,611 --> 01:32:29,525
+...my assistants and I.
+But this, this is Zero's fault.
+
+1057
+01:32:29,699 --> 01:32:33,198
+Zero, he's the world's file cabinet.
+
+1058
+01:32:33,327 --> 01:32:37,539
+Yes, pity. The poor old 13th century.
+
+1059
+01:32:41,127 --> 01:32:44,460
+Well, come along now.
+You want to get started, don't you?
+
+1060
+01:32:44,589 --> 01:32:46,628
+Yes, sir.
+
+1061
+01:32:47,633 --> 01:32:49,673
+- Ooh!
+- Hm?
+
+1062
+01:32:53,848 --> 01:32:55,841
+This way.
+
+1063
+01:32:55,975 --> 01:32:57,932
+Now...
+
+1064
+01:32:58,061 --> 01:33:00,552
+...we've lost those computers...
+
+1065
+01:33:00,688 --> 01:33:03,144
+...with all of the 13th century in them.
+
+1066
+01:33:03,274 --> 01:33:07,983
+Not much in the century,
+just Dante, and a few corrupt popes.
+
+1067
+01:33:08,112 --> 01:33:11,813
+But it's so distracting and annoying.
+
+1068
+01:33:11,950 --> 01:33:15,069
+You've unlimited restrictions here,
+of course...
+
+1069
+01:33:15,203 --> 01:33:19,414
+...but, uh, you'll have to come
+so... so many times.
+
+1070
+01:33:19,874 --> 01:33:22,116
+It all takes such... such effort.
+
+1071
+01:33:22,252 --> 01:33:24,541
+Do the, uh, executives still come here?
+
+1072
+01:33:24,671 --> 01:33:26,710
+Oh, they used to, some of them.
+
+1073
+01:33:26,840 --> 01:33:30,291
+- What about the books?
+- Books, books? They're all changed.
+
+1074
+01:33:30,427 --> 01:33:33,131
+All transcribed. All information is here.
+
+1075
+01:33:33,263 --> 01:33:35,302
+We've Zero, of course.
+
+1076
+01:33:35,473 --> 01:33:38,558
+He's the central brain, the world's brain.
+
+1077
+01:33:38,935 --> 01:33:41,605
+Fluid mechanics, fluidics.
+
+1078
+01:33:42,230 --> 01:33:43,428
+He's liquid, you see.
+
+1079
+01:33:43,565 --> 01:33:46,234
+His... waters touch...
+
+1080
+01:33:46,693 --> 01:33:48,733
+...all knowledge.
+
+1081
+01:33:52,324 --> 01:33:56,535
+Everything we ask has become so,
+ah, so complicated now.
+
+1082
+01:33:56,662 --> 01:33:58,286
+Each thing we ask...
+
+1083
+01:33:58,413 --> 01:34:01,829
+This morning we wanted to know
+something about the 13th century.
+
+1084
+01:34:01,959 --> 01:34:04,663
+He flows out into all our storage systems.
+
+1085
+01:34:04,795 --> 01:34:07,998
+He considers everything. He's become so...
+
+1086
+01:34:08,674 --> 01:34:10,713
+...ambiguous now...
+
+1087
+01:34:10,843 --> 01:34:13,927
+...as if he knows... nothing at all.
+
+1088
+01:34:14,054 --> 01:34:16,972
+Um, could you tell me something
+about the corporate wars?
+
+1089
+01:34:17,099 --> 01:34:20,634
+Wars, wars?
+Oh, yes, of course, we have them all here.
+
+1090
+01:34:20,769 --> 01:34:23,640
+Punic War, Prussian War,
+Peloponnesian War.
+
+1091
+01:34:23,772 --> 01:34:27,521
+Crimean War, Wars of the Roses.
+One doesn't recall them in sequence...
+
+1092
+01:34:27,651 --> 01:34:29,977
+...but, uh, corporate wars?
+
+1093
+01:34:30,112 --> 01:34:34,904
+Hm. Well, Zero will or can,
+I'm sure, tell you anything.
+
+1094
+01:34:44,251 --> 01:34:47,537
+A memory pool, you see.
+
+1095
+01:34:49,131 --> 01:34:54,090
+He's supposed to tell us where things are,
+and what they might possibly mean.
+
+1096
+01:34:56,138 --> 01:34:58,594
+Look, Zero. A visitor.
+
+1097
+01:34:59,475 --> 01:35:02,678
+Jonathan E, the rollerball champion.
+
+1098
+01:35:03,896 --> 01:35:06,981
+You've filed away a lot of data on him.
+
+1099
+01:35:07,275 --> 01:35:09,314
+Do you remember?
+
+1100
+01:35:10,695 --> 01:35:13,696
+- Does it answer you?
+- Oh, yes, it speaks.
+
+1101
+01:35:13,823 --> 01:35:15,863
+It finds things...
+
+1102
+01:35:16,492 --> 01:35:18,532
+...and loses them...
+
+1103
+01:35:18,745 --> 01:35:21,414
+...and confuses itself.
+
+1104
+01:35:23,791 --> 01:35:27,410
+Ask anything, he'll find it for you,
+section and lot...
+
+1105
+01:35:28,213 --> 01:35:30,252
+...won't you, Zero?
+
+1106
+01:35:30,840 --> 01:35:33,711
+Well, all right, uh, I'd like, uh...
+
+1107
+01:35:35,136 --> 01:35:39,051
+I'd like, uh, some information
+about corporate decisions...
+
+1108
+01:35:39,182 --> 01:35:41,554
+How they're made and who makes them.
+
+1109
+01:35:46,356 --> 01:35:47,981
+Zero...
+
+1110
+01:35:48,733 --> 01:35:50,726
+...you heard the question.
+
+1111
+01:35:50,861 --> 01:35:52,900
+- Answer him.
+- <i>(beep)</i>
+
+1112
+01:35:53,905 --> 01:35:55,364
+<i>Negative.</i>
+
+1113
+01:35:55,490 --> 01:35:58,859
+You don't have to give him
+a full political briefing.
+
+1114
+01:36:00,120 --> 01:36:01,116
+Answer.
+
+1115
+01:36:01,246 --> 01:36:02,575
+<i>Negative.</i>
+
+1116
+01:36:02,706 --> 01:36:04,745
+This is Jonathan E.
+
+1117
+01:36:05,417 --> 01:36:07,457
+He has to know.
+
+1118
+01:36:08,170 --> 01:36:10,209
+Make it simple.
+
+1119
+01:36:11,465 --> 01:36:12,627
+Answer.
+
+1120
+01:36:12,758 --> 01:36:15,878
+<i>Corporate decisions are made</i>
+<i>by corporate executives.</i>
+
+1121
+01:36:16,011 --> 01:36:19,462
+- <i>Corporate executives make...</i>
+- We have the answers. We do have them.
+
+1122
+01:36:19,598 --> 01:36:22,469
+- <i>Knowledge converts to power.</i>
+- We're the waters of history.
+
+1123
+01:36:22,601 --> 01:36:24,594
+<i>Energy equals genius.</i>
+
+1124
+01:36:24,728 --> 01:36:26,804
+- <i>Power is knowledge.</i>
+- I don't want to bully you.
+
+1125
+01:36:26,939 --> 01:36:28,978
+<i>Genius is energy.</i>
+
+1126
+01:36:29,483 --> 01:36:33,563
+- <i>Corporate entities control elements...</i>
+- You have to answer!
+
+1127
+01:36:33,696 --> 01:36:36,613
+<i>... of economic life, technology, capital...</i>
+
+1128
+01:36:36,740 --> 01:36:40,406
+<i>... labour, and markets.</i>
+<i>Corporate decisions are made by...</i>
+
+1129
+01:36:40,536 --> 01:36:43,027
+- You have to, Zero!
+- <i>... corporate executives...</i>
+
+1130
+01:36:43,164 --> 01:36:44,741
+<i>The 13th century...</i>
+
+1131
+01:36:44,874 --> 01:36:49,085
+- <i>Negative, negative, negative...</i>
+- It's so... embarrassing!
+
+1132
+01:36:49,211 --> 01:36:51,881
+<i>Negative, negative, negative...</i>
+
+1133
+01:36:52,006 --> 01:36:54,497
+<i>... negative, negative, negative, negative.</i>
+
+1134
+01:37:23,162 --> 01:37:25,451
+# <i>Albinoni-Giazotto "Adagio"</i>
+
+1135
+01:37:25,582 --> 01:37:27,491
+Hello, Johnny.
+
+1136
+01:37:27,917 --> 01:37:29,957
+How are you, Ella?
+
+1137
+01:37:31,754 --> 01:37:33,379
+Nervous.
+
+1138
+01:37:35,884 --> 01:37:37,923
+How are you?
+
+1139
+01:37:43,475 --> 01:37:46,345
+I'm, uh... I'm all right, I guess.
+
+1140
+01:37:50,982 --> 01:37:52,560
+What are you doing?
+
+1141
+01:37:52,692 --> 01:37:54,732
+Oh, looking at you.
+
+1142
+01:37:56,530 --> 01:37:58,569
+Counting your scars.
+
+1143
+01:38:00,325 --> 01:38:02,994
+Seeing how you've changed.
+
+1144
+01:38:03,286 --> 01:38:05,326
+Oh, you mean, that's, uh...
+
+1145
+01:38:05,455 --> 01:38:08,990
+That's how I've changed, huh?
+Just a little more beat-up.
+
+1146
+01:38:09,126 --> 01:38:11,165
+Oh, no!
+
+1147
+01:38:11,753 --> 01:38:13,793
+You're just not...
+
+1148
+01:38:15,340 --> 01:38:17,380
+Yeah, well.
+
+1149
+01:38:18,427 --> 01:38:20,466
+Come on.
+
+1150
+01:38:33,692 --> 01:38:35,768
+You, uh, want a drink or something?
+
+1151
+01:38:35,903 --> 01:38:37,942
+No, thank you.
+
+1152
+01:38:38,447 --> 01:38:40,605
+You have a lovely place.
+
+1153
+01:38:40,741 --> 01:38:43,742
+Oh, thank you. Well, I've seen your house.
+
+1154
+01:38:44,620 --> 01:38:46,659
+You have?
+
+1155
+01:38:48,582 --> 01:38:51,038
+Yeah, uh, when we, uh...
+
+1156
+01:38:51,794 --> 01:38:55,163
+...played in Rome, I, uh, stood a block away...
+
+1157
+01:38:55,297 --> 01:38:57,337
+...and, uh...
+
+1158
+01:38:58,134 --> 01:39:01,218
+...watched your front gate
+for a couple of hours.
+
+1159
+01:39:04,265 --> 01:39:06,934
+<i>(clears throat)</i> I was just, uh...
+
+1160
+01:39:09,437 --> 01:39:12,722
+...standing there... wondering, uh...
+
+1161
+01:39:13,941 --> 01:39:16,397
+...what your furniture looked like...
+
+1162
+01:39:16,527 --> 01:39:19,279
+...what you said to each other
+in the mornings.
+
+1163
+01:39:21,157 --> 01:39:23,944
+Yeah. What's he like? Uh...
+
+1164
+01:39:24,077 --> 01:39:26,318
+What's he do, this, uh...
+
+1165
+01:39:27,413 --> 01:39:29,904
+- Oh, he's a city engineer.
+- Ah!
+
+1166
+01:39:30,792 --> 01:39:32,784
+We have a... jet-copter...
+
+1167
+01:39:32,919 --> 01:39:34,746
+...a son...
+
+1168
+01:39:34,879 --> 01:39:37,916
+...two cats and a place in the Alps.
+
+1169
+01:39:39,634 --> 01:39:42,339
+Well, you don't really want to hear all of this.
+
+1170
+01:39:43,429 --> 01:39:45,552
+A son, huh?
+
+1171
+01:39:45,682 --> 01:39:47,306
+Yes.
+
+1172
+01:39:51,229 --> 01:39:53,269
+We have a lot of friends.
+
+1173
+01:39:53,773 --> 01:39:57,142
+And he has a lover.
+We have furniture a lot like yours.
+
+1174
+01:39:58,862 --> 01:40:01,946
+Same taste in furniture. How about that?
+
+1175
+01:40:06,453 --> 01:40:08,576
+You know, Johnny...
+
+1176
+01:40:08,705 --> 01:40:11,374
+...all they want is a kind of incidental control...
+
+1177
+01:40:11,500 --> 01:40:13,955
+...over just a part of our lives.
+
+1178
+01:40:14,085 --> 01:40:16,956
+They have control
+economically and politically...
+
+1179
+01:40:17,089 --> 01:40:19,330
+...but they also provide. You know they do.
+
+1180
+01:40:19,466 --> 01:40:21,506
+Provide, huh?
+
+1181
+01:40:25,973 --> 01:40:28,890
+They were responsible for taking you away...
+
+1182
+01:40:29,017 --> 01:40:31,224
+...and I started to hate 'em.
+
+1183
+01:40:31,353 --> 01:40:33,393
+But they weren't.
+
+1184
+01:40:34,147 --> 01:40:36,187
+It was the game, Johnny.
+
+1185
+01:40:42,823 --> 01:40:44,401
+I mean...
+
+1186
+01:40:44,533 --> 01:40:46,989
+...it was so important to you.
+
+1187
+01:40:51,081 --> 01:40:53,323
+It was as if I wasn't even there.
+
+1188
+01:40:57,379 --> 01:41:00,250
+The play, there was nothing else.
+
+1189
+01:41:03,010 --> 01:41:05,050
+I'm sorry.
+
+1190
+01:41:08,599 --> 01:41:11,268
+You know I wanted you here.
+
+1191
+01:41:11,435 --> 01:41:13,891
+Well, I mean...
+
+1192
+01:41:14,355 --> 01:41:17,439
+...this might sound all wrong, but, um...
+
+1193
+01:41:19,193 --> 01:41:21,862
+Well, I was just trying to...
+
+1194
+01:41:22,738 --> 01:41:24,778
+...remember myself then.
+
+1195
+01:41:27,869 --> 01:41:29,493
+Yeah.
+
+1196
+01:41:30,830 --> 01:41:33,499
+Maybe it was, uh...
+
+1197
+01:41:35,293 --> 01:41:37,962
+...Iove I wanted to try to remember.
+
+1198
+01:41:54,145 --> 01:41:59,566
+Ah, there's a... a lot of things
+I want to talk to you about.
+
+1199
+01:42:04,155 --> 01:42:05,780
+Yeah.
+
+1200
+01:42:10,829 --> 01:42:12,868
+I've been thinking, Ella...
+
+1201
+01:42:12,998 --> 01:42:15,037
+...thinking a lot.
+
+1202
+01:42:15,166 --> 01:42:17,206
+I've been watching.
+
+1203
+01:42:17,669 --> 01:42:19,709
+It's like people, uh...
+
+1204
+01:42:19,838 --> 01:42:23,123
+...had a choice a long time ago between...
+
+1205
+01:42:23,258 --> 01:42:25,416
+...well, having all them nice things...
+
+1206
+01:42:25,552 --> 01:42:28,387
+...or, uh... freedom.
+
+1207
+01:42:29,181 --> 01:42:31,220
+Of course, they, uh...
+
+1208
+01:42:32,017 --> 01:42:34,056
+...chose comfort.
+
+1209
+01:42:34,227 --> 01:42:36,469
+<i>(Ella)</i> But comfort is freedom.
+
+1210
+01:42:36,772 --> 01:42:39,014
+It always has been.
+
+1211
+01:42:39,149 --> 01:42:43,562
+The whole history of civilisation is
+the struggle against poverty and need.
+
+1212
+01:42:43,695 --> 01:42:47,396
+No! No, that... that's not it.
+That's never been it.
+
+1213
+01:42:47,533 --> 01:42:50,024
+I mean, them privileges just buy us off.
+
+1214
+01:42:50,160 --> 01:42:52,200
+<i>(thunder)</i>
+
+1215
+01:42:54,415 --> 01:42:55,446
+Look...
+
+1216
+01:42:55,582 --> 01:42:58,156
+...they want me to quit, Ella.
+
+1217
+01:43:00,546 --> 01:43:02,585
+Then quit.
+
+1218
+01:43:03,716 --> 01:43:05,755
+Just like that, huh?
+
+1219
+01:43:05,884 --> 01:43:08,210
+But you've got to do it now.
+
+1220
+01:43:08,345 --> 01:43:12,343
+You've got to, before it's too late,
+whether you want to or not.
+
+1221
+01:43:15,060 --> 01:43:17,100
+Look, Johnny...
+
+1222
+01:43:17,229 --> 01:43:20,681
+...the next game, there won't be
+any substitutions allowed.
+
+1223
+01:43:20,816 --> 01:43:22,608
+And no time limit.
+
+1224
+01:43:23,444 --> 01:43:26,361
+You'll die, Johnny. Everybody will die.
+
+1225
+01:43:26,489 --> 01:43:29,655
+- No time limit. They tell you that?
+- Yes.
+
+1226
+01:43:29,784 --> 01:43:32,275
+They tell you to convince me to quit?
+
+1227
+01:43:32,411 --> 01:43:34,867
+Yes, but that isn't why I came here.
+
+1228
+01:43:35,623 --> 01:43:38,079
+You have to get out for your own sake.
+
+1229
+01:43:38,668 --> 01:43:41,159
+Oh, please, Johnny, please.
+
+1230
+01:43:42,130 --> 01:43:45,130
+Did they tell you to stay
+if, uh... if I did quit?
+
+1231
+01:43:48,344 --> 01:43:50,384
+Are you my big reward?
+
+1232
+01:44:29,886 --> 01:44:32,638
+You still don't understand why I came here.
+
+1233
+01:44:36,643 --> 01:44:39,099
+You were the only person I ever wanted.
+
+1234
+01:44:40,856 --> 01:44:43,394
+I wanted you on my side, that's all.
+
+1235
+01:45:35,286 --> 01:45:37,528
+It's like you're a God now.
+
+1236
+01:45:39,832 --> 01:45:41,872
+Maybe you know what I don't.
+
+1237
+01:45:46,756 --> 01:45:48,380
+I've...
+
+1238
+01:45:49,634 --> 01:45:52,303
+I've been so stupid for so long.
+
+1239
+01:46:02,397 --> 01:46:04,436
+I feel so stubborn.
+
+1240
+01:46:05,024 --> 01:46:07,064
+L-I don't even know why.
+
+1241
+01:46:07,360 --> 01:46:09,400
+It scares me.
+
+1242
+01:46:14,117 --> 01:46:16,156
+I'm know I'm probably gonna...
+
+1243
+01:46:16,286 --> 01:46:18,325
+I'm probably gonna die.
+
+1244
+01:46:21,624 --> 01:46:25,159
+And you'll be in there pumping away
+long after I'm gone.
+
+1245
+01:46:39,434 --> 01:46:40,549
+<i>(beeping)</i>
+
+1246
+01:46:40,685 --> 01:46:42,725
+Hey, you've, uh...
+
+1247
+01:46:43,021 --> 01:46:45,477
+...you've got it made, old buddy.
+
+1248
+01:46:46,399 --> 01:46:48,439
+Bluebonnets and everything.
+
+1249
+01:48:53,612 --> 01:48:55,651
+<i>(crowd cheers)</i>
+
+1250
+01:48:57,741 --> 01:49:00,410
+<i>(crowd chants)</i>
+Jonathan! Jonathan! Jonathan!
+
+1251
+01:49:01,953 --> 01:49:05,073
+Houston! Houston! Houston!
+
+1252
+01:49:05,415 --> 01:49:10,077
+Houston! Houston! Houston!
+
+1253
+01:49:10,212 --> 01:49:13,082
+Jonathan! Jonathan!
+
+1254
+01:49:13,423 --> 01:49:16,424
+Jonathan! Jonathan!
+
+1255
+01:49:16,552 --> 01:49:18,010
+Jonathan!
+
+1256
+01:49:18,137 --> 01:49:20,888
+Jonathan! Jonathan!
+
+1257
+01:49:21,014 --> 01:49:23,719
+Jonathan! Jonathan!
+
+1258
+01:49:23,851 --> 01:49:28,928
+<i>Jonathan! Jonathan! Jonathan! Jonathan!</i>
+
+1259
+01:49:29,273 --> 01:49:35,062
+<i>Jonathan! Jonathan! Jonathan! Jonathan!</i>
+
+1260
+01:49:35,195 --> 01:49:37,900
+<i>Jonathan! Jonathan!</i>
+
+1261
+01:49:38,032 --> 01:49:41,864
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+1262
+01:49:42,203 --> 01:49:46,781
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+1263
+01:49:46,916 --> 01:49:50,996
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+1264
+01:49:51,128 --> 01:49:55,256
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+1265
+01:49:55,383 --> 01:49:59,427
+<i>Jonathan! Jonathan! Jonathan!</i>
+
+1266
+01:49:59,553 --> 01:50:05,177
+<i>Jonathan! Jonathan! Jonathan! Jonathan!</i>
+
+1267
+01:50:05,309 --> 01:50:07,349
+<i>(crowd cheers)</i>
+
+1268
+01:50:11,065 --> 01:50:13,354
+<i>(team)</i> Jonathan's dead! Jonathan's dead!
+
+1269
+01:50:13,484 --> 01:50:15,691
+Jonathan's dead! Jonathan's dead!
+
+1270
+01:50:16,070 --> 01:50:18,063
+Jonathan's dead! Jonathan's dead!
+
+1271
+01:50:18,448 --> 01:50:20,524
+Jonathan's dead! Jonathan's dead!
+
+1272
+01:50:20,658 --> 01:50:21,856
+Jonathan's dead!
+
+1273
+01:50:21,993 --> 01:50:24,032
+<i>(crowd cheers)</i>
+
+1274
+01:50:33,463 --> 01:50:35,539
+Jonathan's dead! Jonathan's dead!
+
+1275
+01:50:35,840 --> 01:50:37,963
+Jonathan's dead! Jonathan's dead!
+
+1276
+01:50:38,092 --> 01:50:40,050
+Houston! Houston!
+
+1277
+01:50:40,178 --> 01:50:42,087
+Houston! Houston!
+
+1278
+01:50:42,222 --> 01:50:44,179
+Houston! Houston! Houston!
+
+1279
+01:50:47,811 --> 01:50:50,895
+(announcer) <i>Attention. Your attention, please.</i>
+
+1280
+01:50:51,022 --> 01:50:54,142
+<i>Rule changes for tonight's</i>
+<i>world championship game.</i>
+
+1281
+01:50:54,276 --> 01:50:56,482
+<i>No substitutions...</i>
+
+1282
+01:50:56,611 --> 01:50:58,651
+<i>... no penalties...</i>
+
+1283
+01:50:58,780 --> 01:51:01,734
+<i>... and no time limit!</i>
+
+1284
+01:51:05,078 --> 01:51:06,074
+<i>(klaxon)</i>
+
+1285
+01:51:20,469 --> 01:51:22,508
+<i>(crowd cheers)</i>
+
+1286
+01:51:25,933 --> 01:51:29,017
+Watch now, he's got the ball.
+Next time around we defend.
+
+1287
+01:51:35,859 --> 01:51:37,899
+<i>(crowd cheers)</i>
+
+1288
+01:51:55,504 --> 01:51:57,793
+Jonathan's dead! Jonathan's dead!
+
+1289
+01:51:57,923 --> 01:52:00,628
+Jonathan's dead! Jonathan's dead!
+
+1290
+01:52:18,486 --> 01:52:20,644
+Houston! Houston! Houston!
+
+1291
+01:52:20,780 --> 01:52:22,488
+Houston! Houston!
+
+1292
+01:52:22,615 --> 01:52:24,489
+Houston! Houston!
+
+1293
+01:52:51,936 --> 01:52:54,392
+<i>(crowd chants)</i> Jonathan! Jonathan!
+
+1294
+01:52:54,522 --> 01:52:58,141
+Jonathan! Jonathan! Jonathan!
+
+1295
+01:53:02,322 --> 01:53:04,231
+Houston! Houston!
+
+1296
+01:53:04,366 --> 01:53:05,943
+Houston! Houston!
+
+1297
+01:53:12,040 --> 01:53:13,700
+Let's go!
+
+1298
+01:53:29,641 --> 01:53:31,681
+Let's get him.
+
+1299
+01:54:02,675 --> 01:54:04,751
+Come on! Come on, get out of there!
+
+1300
+01:54:20,443 --> 01:54:21,356
+Get him up.
+
+1301
+01:54:36,209 --> 01:54:38,248
+He did it!
+
+1302
+01:54:45,510 --> 01:54:48,179
+That's right. Get him in the elevator.
+
+1303
+01:54:54,269 --> 01:54:55,348
+Get off the rail!
+
+1304
+01:54:58,565 --> 01:55:00,474
+Jonathan's dead! Jonathan's dead!
+
+1305
+01:55:03,653 --> 01:55:05,112
+Get him off the track!
+
+1306
+01:55:11,161 --> 01:55:12,074
+Get 'em off!
+
+1307
+01:55:16,166 --> 01:55:20,329
+I don't want another man on that track!
+Houston, what the hell are you doing?
+
+1308
+01:55:26,176 --> 01:55:31,217
+- Ain't nobody gonna win this game!
+- Game! This wasn't meant to be a game!
+
+1309
+01:55:31,640 --> 01:55:33,264
+Never!
+
+1310
+01:55:41,275 --> 01:55:43,433
+Jonathan! Jonathan!
+
+1311
+01:55:44,611 --> 01:55:46,236
+<i>(klaxon)</i>
+
+1312
+01:55:50,576 --> 01:55:52,449
+Watch his leg, watch that leg.
+
+1313
+01:55:52,578 --> 01:55:54,617
+Easy, easy!
+
+1314
+01:55:55,956 --> 01:55:58,827
+Let me have him, let me have him.
+Let me have him!
+
+1315
+01:56:13,599 --> 01:56:15,426
+Move out.
+
+1316
+01:56:15,851 --> 01:56:17,891
+Move out.
+
+1317
+01:56:19,021 --> 01:56:20,646
+<i>(klaxon)</i>
+
+1318
+01:58:02,960 --> 01:58:04,584
+Aargh!
+
+1319
+02:00:53,382 --> 02:00:55,422
+<i>(whispers)</i> Jonathan!
+
+1320
+02:00:55,968 --> 02:00:57,131
+Jonathan!
+
+1321
+02:00:57,261 --> 02:01:02,766
+<i>(soft and slow)</i>
+Jonathan! Jonathan! Jonathan!
+
+1322
+02:01:02,892 --> 02:01:06,972
+Jonathan! Jonathan! Jonathan!
+
+1323
+02:01:07,105 --> 02:01:12,063
+<i>(louder)</i> Jonathan! Jonathan! Jonathan!
+
+1324
+02:01:12,193 --> 02:01:13,818
+Jonathan!
+
+1325
+02:01:13,945 --> 02:01:15,569
+Jonathan!
+
+1326
+02:01:15,697 --> 02:01:17,239
+Jonathan!
+
+1327
+02:01:17,365 --> 02:01:18,693
+Jonathan!
+
+1328
+02:01:18,825 --> 02:01:20,568
+Jonathan!
+
+1329
+02:01:20,702 --> 02:01:23,656
+<i>(all chanting)</i> Jonathan! Jonathan!
+
+1330
+02:01:23,788 --> 02:01:25,117
+Jonathan!
+
+1331
+02:01:25,248 --> 02:01:26,872
+Jonathan!
+
+1332
+02:01:27,000 --> 02:01:30,120
+Jonathan! Jonathan! Jonathan!
+
+1333
+02:01:30,253 --> 02:01:31,628
+Jonathan!
+
+1334
+02:01:31,755 --> 02:01:32,917
+Jonathan!
+
+1335
+02:01:33,047 --> 02:01:35,965
+Jonathan! Jonathan!
+
+1336
+02:01:36,092 --> 02:01:37,290
+Jonathan!
+
+1337
+02:01:37,427 --> 02:01:40,214
+Jonathan! Jonathan!
+
+1338
+02:01:40,347 --> 02:01:44,475
+Jonathan! Jonathan! Jonathan!
+
+1339
+02:01:44,601 --> 02:01:46,973
+Jonathan! Jonathan!
+
+1340
+02:01:49,606 --> 02:01:49,689
+# <i>Bach "Toccata and Fugue in D minor"</i>
+
+1341
+02:01:49,689 --> 02:01:52,940
+# <i>Bach "Toccata and Fugue in D minor"</i>
+
+1342
+02:02:13,130 --> 02:02:16,748

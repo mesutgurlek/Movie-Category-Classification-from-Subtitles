@@ -7,7 +7,13 @@ import matplotlib.pyplot as plt
 from os import path
 import numpy as np
 from tokenization import *
-import nltk
+
+import numpy as np
+from sklearn.pipeline import Pipeline
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.svm import LinearSVC
+from sklearn.multiclass import OneVsRestClassifier
+
 
 #  # Categorize words and plot them
 category_dict = categorize_words(path.relpath("ProcessedNormalText"))
@@ -48,9 +54,10 @@ alpha_values = [.1, .5, 1, 2, 3, 4, 5]
 print(alpha_values)
 for a in alpha_values:
     #clf = MultinomialNB(alpha=a) #naive bayes
-    clf = LogisticRegression(C=a, max_iter= 1000)
+    #clf = LogisticRegression(C=a, max_iter= 1000)
     #clf = neighbors.KNeighborsClassifier( a * 10, 'distance') # knn
-    #clf = svm.SVC() #support vector machine
+    clf = svm.LinearSVC() #support vector machine
+
     acc = 0
     print('.', a)
     sample_num = 10

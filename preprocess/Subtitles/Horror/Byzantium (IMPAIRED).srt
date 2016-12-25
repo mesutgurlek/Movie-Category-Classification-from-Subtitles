@@ -1,0 +1,9485 @@
+﻿1
+00:00:02,002 --> 00:00:05,004
+[Silence]
+
+2
+00:00:05,006 --> 00:00:43,008
+[Low, almost inaudible hum]
+
+3
+00:00:43,010 --> 00:01:02,995
+♪
+
+4
+00:01:02,997 --> 00:01:14,706
+Woman: <i>My story can</i>
+<i>never be told.</i>
+
+5
+00:01:14,708 --> 00:01:17,209
+<i>Never be told.</i>
+<i>I write it over and over</i>
+
+6
+00:01:17,211 --> 00:01:21,847
+<i>i write it over and over</i>
+<i>wherever we find shelter.</i>
+
+7
+00:01:21,849 --> 00:01:22,981
+<i>Wherever we find shelter.</i>
+<i>I write of what I cannot</i>
+
+8
+00:01:22,983 --> 00:01:28,387
+<i>i write of what I cannot</i>
+<i>speak-- the truth.</i>
+
+9
+00:01:28,389 --> 00:01:31,256
+<i>Speak-- the truth.</i>
+<i>I write all I know of it</i>
+
+10
+00:01:31,258 --> 00:01:32,257
+<i>i write all I know of it</i>
+<i>and then I throw the pages</i>
+
+11
+00:01:32,259 --> 00:01:36,161
+<i>and then I throw the pages</i>
+<i>to the wind.</i>
+
+12
+00:01:36,163 --> 00:01:38,363
+<i>To the wind.</i>
+<i>Maybe the birds can read it.</i>
+
+13
+00:01:38,365 --> 00:01:45,504
+<i>Maybe the birds can read it.</i>
+<i>[♪...]</i>
+
+14
+00:01:45,506 --> 00:02:36,989
+<i>This yours?</i>
+<i>I often find them here,</i>
+
+15
+00:02:36,991 --> 00:02:40,025
+<i>i often find them here,</i>
+<i>these scraps.</i>
+
+16
+00:02:40,027 --> 00:02:40,859
+<i>These scraps.</i>
+<i>Must float down from</i>
+
+17
+00:02:40,861 --> 00:02:42,161
+<i>must float down from</i>
+<i>someone's window.</i>
+
+18
+00:02:42,163 --> 00:02:50,169
+<i>Someone's window.</i>
+<i>[♪...]</i>
+
+19
+00:02:50,171 --> 00:02:54,840
+<i>"She had meant to smother the</i>
+<i>baby as soon as it was born,</i>
+
+20
+00:02:54,842 --> 00:02:55,941
+<i>baby as soon as it was born,</i>
+<i>but something made her look</i>
+
+21
+00:02:55,943 --> 00:02:58,677
+<i>but something made her look</i>
+<i>at it.</i>
+
+22
+00:02:58,679 --> 00:02:59,611
+<i>At it.</i>
+<i>She heard the thundering</i>
+
+23
+00:02:59,613 --> 00:03:01,914
+<i>she heard the thundering</i>
+<i>heartbeat, she smelled the</i>
+
+24
+00:03:01,916 --> 00:03:04,516
+<i>heartbeat, she smelled the</i>
+<i>baby's bloodied head and</i>
+
+25
+00:03:04,518 --> 00:03:06,785
+<i>baby's bloodied head and</i>
+<i>love confounded her."</i>
+
+26
+00:03:06,787 --> 00:03:09,688
+<i>Love confounded her."</i>
+<i>It's just a scrap, like you say.</i>
+
+27
+00:03:09,690 --> 00:03:12,791
+<i>It's just a scrap, like you say.</i>
+<i>But there's a story there.</i>
+
+28
+00:03:12,793 --> 00:03:15,294
+<i>But there's a story there.</i>
+<i>You can feel it.</i>
+
+29
+00:03:15,296 --> 00:03:16,995
+<i>You can feel it.</i>
+<i>Shall we walk a little?</i>
+
+30
+00:03:16,997 --> 00:03:20,399
+<i>Shall we walk a little?</i>
+ <i>My story starts with Clara.</i>
+
+31
+00:03:20,401 --> 00:03:24,002
+ <i>My story starts with Clara.</i>
+<i>One day, it will end with her.</i>
+
+32
+00:03:24,004 --> 00:03:29,942
+<i>One day, it will end with her.</i>
+<i>Clara... full of secrets.</i>
+
+33
+00:03:29,944 --> 00:03:32,444
+<i>Clara... full of secrets.</i>
+<i>My savior.</i>
+
+34
+00:03:32,446 --> 00:03:34,980
+<i>My savior.</i>
+<i>My burden.</i>
+
+35
+00:03:34,982 --> 00:03:37,316
+<i>My burden.</i>
+<i>My muse.</i>
+
+36
+00:03:37,318 --> 00:03:38,317
+<i>My muse.</i>
+<i>Woman: ♪ ...Won't you come</i>
+
+37
+00:03:38,319 --> 00:03:40,852
+<i>woman: ♪ ...Won't you come</i>
+<i>and be with me</i>
+
+38
+00:03:40,854 --> 00:03:45,524
+<i>and be with me</i>
+<i>and see what I've got? ♪</i>
+
+39
+00:03:45,526 --> 00:03:47,693
+<i>And see what I've got? ♪</i>
+<i>♪ 'cause what I've got</i>
+
+40
+00:03:47,695 --> 00:03:49,861
+<i>♪ 'cause what I've got</i>
+<i>is what you need ♪</i>
+
+41
+00:03:49,863 --> 00:03:51,129
+<i>Is what you need ♪</i>
+<i>♪ what I got</i>
+
+42
+00:03:51,131 --> 00:03:52,331
+<i>♪ what I got</i>
+<i>is what you need... ♪</i>
+
+43
+00:03:52,333 --> 00:03:53,732
+<i>Is what you need... ♪</i>
+<i>man: Hey!</i>
+
+44
+00:03:53,734 --> 00:03:55,033
+<i>Man: Hey!</i>
+<i>[Clara grunts, yells]</i>
+
+45
+00:03:55,035 --> 00:03:57,169
+<i>[Clara grunts, yells]</i>
+<i>Fucking hell... Wendy!</i>
+
+46
+00:03:57,171 --> 00:03:58,370
+<i>Fucking hell... Wendy!</i>
+<i>I'll call you back.</i>
+
+47
+00:03:58,372 --> 00:03:59,705
+<i>I'll call you back.</i>
+<i>You!</i>
+
+48
+00:03:59,707 --> 00:04:03,675
+<i>You!</i>
+<i>[Thud, man screams]</i>
+
+49
+00:04:03,677 --> 00:04:05,077
+<i>[Thud, man screams]</i>
+<i>Clara: You bastard!</i>
+
+50
+00:04:05,079 --> 00:04:06,144
+<i>Clara: You bastard!</i>
+<i>Did you see that?</i>
+
+51
+00:04:06,146 --> 00:04:07,212
+<i>Did you see that?</i>
+<i>He fucking attacked me!</i>
+
+52
+00:04:07,214 --> 00:04:08,046
+<i>He fucking attacked me!</i>
+<i>Wendy: What's she done?</i>
+
+53
+00:04:08,048 --> 00:04:09,648
+<i>Wendy: What's she done?</i>
+<i>Really fucked his nose.</i>
+
+54
+00:04:09,650 --> 00:04:10,849
+<i>Really fucked his nose.</i>
+<i>Yeah, well, he deserved it.</i>
+
+55
+00:04:10,851 --> 00:04:12,050
+<i>Yeah, well, he deserved it.</i>
+<i>Come on. Oi...</i>
+
+56
+00:04:12,052 --> 00:04:13,452
+<i>Come on. Oi...</i>
+<i>Man: Ernie, get him out of</i>
+
+57
+00:04:13,454 --> 00:04:15,053
+<i>man: Ernie, get him out of</i>
+<i>here, will you?</i>
+
+58
+00:04:15,055 --> 00:04:16,021
+<i>Here, will you?</i>
+<i>My nose!</i>
+
+59
+00:04:16,023 --> 00:04:17,889
+<i>My nose!</i>
+<i>My nose...</i>
+
+60
+00:04:17,891 --> 00:04:25,897
+<i>Man: Would you care for tea?</i>
+
+61
+00:04:25,899 --> 00:04:38,877
+<i>Please come in.</i>
+<i>I have been working here for</i>
+
+62
+00:04:38,879 --> 00:04:41,647
+<i>I have been working here for</i>
+<i>14 nights-- I want my pay!</i>
+
+63
+00:04:41,649 --> 00:04:42,648
+<i>14 nights-- I want my pay!</i>
+<i>You're not on the books.</i>
+
+64
+00:04:42,650 --> 00:04:43,882
+<i>You're not on the books.</i>
+<i>What pay?</i>
+
+65
+00:04:43,884 --> 00:04:44,816
+<i>What pay?</i>
+<i>Woman: ♪ don't you wanna,</i>
+
+66
+00:04:44,818 --> 00:04:47,219
+<i>woman: ♪ don't you wanna,</i>
+<i>wanna, don't you ♪</i>
+
+67
+00:04:47,221 --> 00:04:48,854
+<i>Wanna, don't you ♪</i>
+<i>♪ don't you wanna see me</i>
+
+68
+00:04:48,856 --> 00:04:52,391
+<i>♪ don't you wanna see me</i>
+<i>flaunt what I got? ♪</i>
+
+69
+00:04:52,393 --> 00:04:54,526
+<i>Flaunt what I got? ♪</i>
+<i>♪ don't you,</i>
+
+70
+00:04:54,528 --> 00:04:55,794
+<i>♪ don't you,</i>
+<i>don't you wanna, wanna... ♪</i>
+
+71
+00:04:55,796 --> 00:04:57,529
+<i>Don't you wanna, wanna... ♪</i>
+<i>excuse me.</i>
+
+72
+00:04:57,531 --> 00:04:59,498
+<i>Excuse me.</i>
+<i>Have you seen this girl?</i>
+
+73
+00:04:59,500 --> 00:05:02,000
+<i>Have you seen this girl?</i>
+<i>No-- sorry, mate.</i>
+
+74
+00:05:02,002 --> 00:05:03,402
+<i>No-- sorry, mate.</i>
+<i>Sorry.</i>
+
+75
+00:05:03,404 --> 00:05:04,202
+<i>Sorry.</i>
+<i>Woman: ♪ ...Flaunt</i>
+
+76
+00:05:04,204 --> 00:05:06,872
+<i>woman: ♪ ...Flaunt</i>
+<i>what I got... ♪</i>
+
+77
+00:05:06,874 --> 00:05:08,073
+<i>What I got... ♪</i>
+<i>no.</i>
+
+78
+00:05:08,075 --> 00:05:11,410
+<i>No.</i>
+<i>[♪...]</i>
+
+79
+00:05:11,412 --> 00:05:12,411
+<i>[♪...]</i>
+<i>Oi, what are you doing?</i>
+
+80
+00:05:12,413 --> 00:05:13,745
+<i>Oi, what are you doing?</i>
+<i>Sorry, babe, but they owe me.</i>
+
+81
+00:05:13,747 --> 00:05:14,880
+<i>Sorry, babe, but they owe me.</i>
+<i>No! Stop, you can't take</i>
+
+82
+00:05:14,882 --> 00:05:16,048
+<i>no! Stop, you can't take</i>
+<i>money out of the till!</i>
+
+83
+00:05:16,050 --> 00:05:19,051
+<i>Money out of the till!</i>
+<i>[♪...]</i>
+
+84
+00:05:19,053 --> 00:05:20,819
+<i>[♪...]</i>
+<i>Hello, Clara.</i>
+
+85
+00:05:20,821 --> 00:05:22,554
+<i>Hello, Clara.</i>
+<i>[Bottle shatters, man grunts]</i>
+
+86
+00:05:22,556 --> 00:05:23,755
+<i>[Bottle shatters, man grunts]</i>
+<i>We get a lot of bitches in</i>
+
+87
+00:05:23,757 --> 00:05:24,756
+<i>we get a lot of bitches in</i>
+<i>here, but she took the</i>
+
+88
+00:05:24,758 --> 00:05:25,757
+<i>here, but she took the</i>
+<i>fucking prize.</i>
+
+89
+00:05:25,759 --> 00:05:28,226
+<i>Fucking prize.</i>
+<i>Shame. She was morbidly sexy.</i>
+
+90
+00:05:28,228 --> 00:05:33,765
+<i>Shame. She was morbidly sexy.</i>
+<i>[♪...]</i>
+
+91
+00:05:33,767 --> 00:05:35,967
+<i>[♪...]</i>
+<i>Clara: Move!</i>
+
+92
+00:05:35,969 --> 00:05:37,336
+<i>Clara: Move!</i>
+<i>Aah!</i>
+
+93
+00:05:37,338 --> 00:05:40,005
+<i>Aah!</i>
+<i>Clara: No...</i>
+
+94
+00:05:40,007 --> 00:05:42,307
+<i>Clara: No...</i>
+<i>[Screams]</i>
+
+95
+00:05:42,309 --> 00:05:44,176
+<i>[Screams]</i>
+<i>[Grunts]</i>
+
+96
+00:05:44,178 --> 00:05:48,380
+<i>[Grunts]</i>
+<i>[Crashing, clattering]</i>
+
+97
+00:05:48,382 --> 00:05:49,448
+<i>[Crashing, clattering]</i>
+<i>[Grunts]</i>
+
+98
+00:05:49,450 --> 00:05:57,456
+<i>[Grunts]</i>
+<i>[♪...]</i>
+
+99
+00:05:57,458 --> 00:06:19,311
+<i>Clara...!</i>
+<i>[♪...]</i>
+
+100
+00:06:19,313 --> 00:06:25,317
+<i>[♪...]</i>
+<i>[Siren wails in distance]</i>
+
+101
+00:06:25,319 --> 00:06:30,522
+<i>[Siren wails in distance]</i>
+<i>Shit! Fuck! [Whimpers]</i>
+
+102
+00:06:30,524 --> 00:06:37,396
+<i>[Glass shatters, Clara yelling]</i>
+<i>[People screaming]</i>
+
+103
+00:06:37,398 --> 00:06:39,164
+<i>[People screaming]</i>
+<i>[Clara gasping]</i>
+
+104
+00:06:39,166 --> 00:06:43,001
+<i>[Clara gasping]</i>
+<i>[Man grunts]</i>
+
+105
+00:06:43,003 --> 00:06:44,436
+<i>[Man grunts]</i>
+<i>The tedium I've experienced</i>
+
+106
+00:06:44,438 --> 00:06:46,037
+<i>the tedium I've experienced</i>
+<i>in this pursuit! My time you</i>
+
+107
+00:06:46,039 --> 00:06:47,706
+<i>in this pursuit! My time you</i>
+<i>have wasted! [Clara gasping]</i>
+
+108
+00:06:47,708 --> 00:06:49,274
+<i>Have wasted! [Clara gasping]</i>
+<i>You would sell nations with</i>
+
+109
+00:06:49,276 --> 00:06:51,676
+<i>you would sell nations with</i>
+<i>your whoredoms.</i>
+
+110
+00:06:51,678 --> 00:06:52,844
+<i>Your whoredoms.</i>
+<i>Come on.</i>
+
+111
+00:06:52,846 --> 00:06:54,112
+<i>Come on.</i>
+<i>You know who I'm looking for.</i>
+
+112
+00:06:54,114 --> 00:06:56,081
+<i>You know who I'm looking for.</i>
+<i>Where is she? Huh?</i>
+
+113
+00:06:56,083 --> 00:06:57,115
+<i>Where is she? Huh?</i>
+<i>Where is she?!</i>
+
+114
+00:06:57,117 --> 00:07:01,019
+<i>Where is she?!</i>
+<i>I was him once.</i>
+
+115
+00:07:01,021 --> 00:07:05,023
+<i>I was him once.</i>
+<i>And that girl...</i>
+
+116
+00:07:05,025 --> 00:07:09,861
+<i>And that girl...</i>
+<i>Love confounded me for her.</i>
+
+117
+00:07:09,863 --> 00:07:11,663
+<i>Love confounded me for her.</i>
+<i>I loved her my whole</i>
+
+118
+00:07:11,665 --> 00:07:15,467
+<i>i loved her my whole</i>
+<i>life through.</i>
+
+119
+00:07:15,469 --> 00:07:18,770
+<i>Life through.</i>
+<i>Your wife?</i>
+
+120
+00:07:18,772 --> 00:07:20,338
+<i>Your wife?</i>
+<i>She was married to my</i>
+
+121
+00:07:20,340 --> 00:07:23,508
+<i>she was married to my</i>
+<i>brother John...</i>
+
+122
+00:07:23,510 --> 00:07:27,012
+<i>Brother John...</i>
+<i>Most happily.</i>
+
+123
+00:07:27,014 --> 00:07:30,315
+<i>Most happily.</i>
+<i>She never knew the way I felt.</i>
+
+124
+00:07:30,317 --> 00:07:32,317
+<i>She never knew the way I felt.</i>
+<i>Nor did he.</i>
+
+125
+00:07:32,319 --> 00:07:47,532
+<i>There comes a time in life</i>
+<i>when secrets should be told.</i>
+
+126
+00:07:47,534 --> 00:07:51,703
+<i>When secrets should be told.</i>
+<i>[♪...]</i>
+
+127
+00:07:51,705 --> 00:07:58,810
+<i>[♪...]</i>
+<i>You've got secrets, haven't you?</i>
+
+128
+00:07:58,812 --> 00:08:00,479
+<i>You've got secrets, haven't you?</i>
+<i>There was a story told when</i>
+
+129
+00:08:00,481 --> 00:08:04,282
+<i>there was a story told when</i>
+<i>i was a boy about the</i>
+
+130
+00:08:04,284 --> 00:08:08,687
+<i>i was a boy about the</i>
+<i>neamh-mhairbh,</i> the revenants.
+
+131
+00:08:08,689 --> 00:08:14,359
+<i>Neamh-mhairbh,</i> the revenants.
+Neither dead nor alive.
+
+132
+00:08:14,361 --> 00:08:16,795
+Neither dead nor alive.
+The priests used to tell it
+
+133
+00:08:16,797 --> 00:08:20,532
+the priests used to tell it
+to frighten us.
+
+134
+00:08:20,534 --> 00:08:25,504
+To frighten us.
+[♪...]
+
+135
+00:08:25,506 --> 00:08:29,708
+[♪...]
+My name is Eleanor webb.
+
+136
+00:08:29,710 --> 00:08:33,178
+My name is Eleanor webb.
+Eleanor webb.
+
+137
+00:08:33,180 --> 00:08:37,449
+Eleanor webb.
+I am ready.
+
+138
+00:08:37,451 --> 00:08:39,551
+I am ready.
+Are you sure?
+
+139
+00:08:39,553 --> 00:08:42,287
+Are you sure?
+[Chuckles]
+
+140
+00:08:42,289 --> 00:08:43,788
+[Chuckles]
+I've spent quite enough
+
+141
+00:08:43,790 --> 00:08:45,891
+I've spent quite enough
+time here.
+
+142
+00:08:45,893 --> 00:08:48,894
+Time here.
+Believe me.
+
+143
+00:08:48,896 --> 00:08:56,902
+Believe me.
+[♪...]
+
+144
+00:08:56,904 --> 00:09:18,723
+[Gasps softly]
+
+145
+00:09:18,725 --> 00:09:34,339
+I feel at great peace.
+As if order is about
+
+146
+00:09:34,341 --> 00:09:38,209
+as if order is about
+to be restored.
+
+147
+00:09:38,211 --> 00:09:42,013
+To be restored.
+She is an aberration.
+
+148
+00:09:42,015 --> 00:09:43,048
+She is an aberration.
+I don't know what that
+
+149
+00:09:43,050 --> 00:09:45,717
+I don't know what that
+means, sir.
+
+150
+00:09:45,719 --> 00:09:53,925
+Where do you think
+you're going?
+
+151
+00:09:53,927 --> 00:09:54,960
+You're going?
+I was going to clean
+
+152
+00:09:54,962 --> 00:09:56,661
+I was going to clean
+the wound, sir.
+
+153
+00:09:56,663 --> 00:09:57,295
+The wound, sir.
+You've been cut,
+
+154
+00:09:57,297 --> 00:10:01,399
+you've been cut,
+it's conspicuous.
+
+155
+00:10:01,401 --> 00:10:12,177
+[Water runs]
+All the time you've had
+
+156
+00:10:12,179 --> 00:10:15,747
+all the time you've had
+and you've learned nothing.
+
+157
+00:10:15,749 --> 00:10:17,382
+And you've learned nothing.
+Truly you're base.
+
+158
+00:10:17,384 --> 00:10:35,600
+[♪...]
+Close your eyes.
+
+159
+00:10:35,602 --> 00:10:36,701
+Close your eyes.
+[Whir whips and whooshes]
+
+160
+00:10:36,703 --> 00:10:37,836
+[Whir whips and whooshes]
+[Clara grunts]
+
+161
+00:10:37,838 --> 00:10:40,038
+[Clara grunts]
+[Man gasping]
+
+162
+00:10:40,040 --> 00:10:42,874
+[Man gasping]
+[Clara yells, exhales loudly]
+
+163
+00:10:42,876 --> 00:10:46,311
+[Clara yells, exhales loudly]
+[Eleanor pants, gasps,
+
+164
+00:10:46,313 --> 00:10:51,850
+[Eleanor pants, gasps,
+breathes heavily]
+
+165
+00:10:51,852 --> 00:10:59,858
+Breathes heavily]
+[♪...]
+
+166
+00:10:59,860 --> 00:11:21,780
+[Sighs]
+[Door opens and closes]
+
+167
+00:11:21,782 --> 00:11:22,814
+[Door opens and closes]
+Eleanor: Clara?
+
+168
+00:11:22,816 --> 00:11:25,817
+Eleanor: Clara?
+Get out.
+
+169
+00:11:25,819 --> 00:11:29,988
+How could you bring
+someone here? He was
+
+170
+00:11:29,990 --> 00:11:30,989
+someone here? He was
+stronger than I thought.
+
+171
+00:11:30,991 --> 00:11:31,990
+Stronger than I thought.
+This is our home.
+
+172
+00:11:31,992 --> 00:11:32,991
+This is our home.
+Eleanor...
+
+173
+00:11:32,993 --> 00:11:34,292
+Eleanor...
+We have to leave.
+
+174
+00:11:34,294 --> 00:11:35,293
+We have to leave.
+I'm not moving on again...
+
+175
+00:11:35,295 --> 00:11:37,295
+I'm not moving on again...
+I had to do it!
+
+176
+00:11:37,297 --> 00:11:38,129
+I had to do it!
+One day you'll understand.
+
+177
+00:11:38,131 --> 00:11:39,130
+One day you'll understand.
+What, when I'm older?
+
+178
+00:11:39,132 --> 00:11:40,131
+What, when I'm older?
+You have no idea,
+
+179
+00:11:40,133 --> 00:11:41,132
+you have no idea,
+no fucking idea
+
+180
+00:11:41,134 --> 00:11:42,534
+no fucking idea
+of what I do for you!
+
+181
+00:11:42,536 --> 00:11:43,501
+Of what I do for you!
+You did that for me?
+
+182
+00:11:43,503 --> 00:11:44,602
+You did that for me?
+Pack!
+
+183
+00:11:44,604 --> 00:11:45,603
+Pack!
+I liked it here.
+
+184
+00:11:45,605 --> 00:11:48,540
+I liked it here.
+I said pack!
+
+185
+00:11:48,542 --> 00:12:08,059
+[♪...]
+[Water gurgles down drain]
+
+186
+00:12:08,061 --> 00:12:12,964
+[Water gurgles down drain]
+[Gasoline splashing]
+
+187
+00:12:12,966 --> 00:12:14,866
+[Gasoline splashing]
+[Match scratches]
+
+188
+00:12:14,868 --> 00:12:16,034
+[Match scratches]
+[Flames whoosh]
+
+189
+00:12:16,036 --> 00:12:18,803
+[Flames whoosh]
+Who was he? No one.
+
+190
+00:12:18,805 --> 00:12:22,006
+Who was he? No one.
+[Flames roaring]
+
+191
+00:12:22,008 --> 00:12:25,477
+[Flames roaring]
+[Dog barking...]
+
+192
+00:12:25,479 --> 00:12:29,714
+[Dog barking...]
+[♪...]
+
+193
+00:12:29,716 --> 00:12:37,522
+[People laughing,
+talking excitedly]
+
+194
+00:12:37,524 --> 00:12:40,625
+Talking excitedly]
+[Sirens in distance]
+
+195
+00:12:40,627 --> 00:12:57,842
+[Brakes squeaking]
+[Brakes hiss, engine idles]
+
+196
+00:12:57,844 --> 00:13:04,015
+[Brakes hiss, engine idles]
+[♪...]
+
+197
+00:13:04,017 --> 00:13:05,183
+[♪...]
+♪ mother was bathing
+
+198
+00:13:05,185 --> 00:13:08,286
+♪ mother was bathing
+her baby one night ♪
+
+199
+00:13:08,288 --> 00:13:10,455
+Her baby one night ♪
+♪ youngest of 10
+
+200
+00:13:10,457 --> 00:13:15,493
+♪ youngest of 10
+and a poor little mite ♪
+
+201
+00:13:15,495 --> 00:13:17,662
+And a poor little mite ♪
+♪ mother was fat
+
+202
+00:13:17,664 --> 00:13:21,499
+♪ mother was fat
+and the baby was thin ♪
+
+203
+00:13:21,501 --> 00:13:23,468
+And the baby was thin ♪
+♪ it was nought but a
+
+204
+00:13:23,470 --> 00:13:24,702
+♪ it was nought but a
+both: ♪ skellington
+
+205
+00:13:24,704 --> 00:13:30,875
+both: ♪ skellington
+wrapped up in skin ♪
+
+206
+00:13:30,877 --> 00:13:32,343
+Wrapped up in skin ♪
+♪ mother turned 'round
+
+207
+00:13:32,345 --> 00:13:34,946
+♪ mother turned 'round
+for the soap from the rack... ♪
+
+208
+00:13:34,948 --> 00:13:37,282
+For the soap from the rack... ♪
+[Engine idles]
+
+209
+00:13:37,284 --> 00:13:37,982
+[Engine idles]
+Thank you!
+
+210
+00:13:37,984 --> 00:13:42,086
+Thank you!
+All right, see you, girls.
+
+211
+00:13:42,088 --> 00:14:01,806
+[♪...]
+
+212
+00:14:01,808 --> 00:14:14,485
+[Birds chirping...]
+Man: You'll have a look
+
+213
+00:14:14,487 --> 00:14:15,887
+man: You'll have a look
+at the greenhouse, eh?
+
+214
+00:14:15,889 --> 00:14:19,390
+At the greenhouse, eh?
+Man 2: Aye.
+
+215
+00:14:19,392 --> 00:14:22,260
+Man 2: Aye.
+[Sheep bleating...]
+
+216
+00:14:22,262 --> 00:14:25,263
+[Sheep bleating...]
+[Birds chirping...]
+
+217
+00:14:25,265 --> 00:14:33,271
+[Birds chirping...]
+[Choir singing...]
+
+218
+00:14:33,273 --> 00:14:58,796
+[Gasps]
+[Choir continues...]
+
+219
+00:14:58,798 --> 00:15:05,536
+[Choir continues...]
+[Gulls cawing...]
+
+220
+00:15:05,538 --> 00:15:08,539
+[Gulls cawing...]
+[Panting nervously]
+
+221
+00:15:08,541 --> 00:15:10,541
+[Panting nervously]
+We've been here before.
+
+222
+00:15:10,543 --> 00:15:12,343
+We've been here before.
+Oh, don't be silly.
+
+223
+00:15:12,345 --> 00:15:14,112
+Oh, don't be silly.
+Come on.
+
+224
+00:15:14,114 --> 00:15:16,314
+Come on.
+But don't you remember?
+
+225
+00:15:16,316 --> 00:15:21,319
+But don't you remember?
+[Music playing...]
+
+226
+00:15:21,321 --> 00:15:22,720
+[Music playing...]
+It's going to be good for us
+
+227
+00:15:22,722 --> 00:15:24,822
+it's going to be good for us
+here, I can feel it.
+
+228
+00:15:24,824 --> 00:15:25,623
+Here, I can feel it.
+You said that about the
+
+229
+00:15:25,625 --> 00:15:26,291
+you said that about the
+last place.
+
+230
+00:15:26,293 --> 00:15:27,325
+Last place.
+What, that dump that we
+
+231
+00:15:27,327 --> 00:15:28,860
+what, that dump that we
+just left?
+
+232
+00:15:28,862 --> 00:15:33,031
+Just left?
+I've forgotten it already.
+
+233
+00:15:33,033 --> 00:15:34,666
+I've forgotten it already.
+What's the matter?
+
+234
+00:15:34,668 --> 00:15:35,867
+What's the matter?
+You can't throw the past away
+
+235
+00:15:35,869 --> 00:15:39,203
+you can't throw the past away
+as if it didn't happen.
+
+236
+00:15:39,205 --> 00:15:43,975
+As if it didn't happen.
+My concern is now, o.K.?
+
+237
+00:15:43,977 --> 00:15:45,877
+My concern is now, o.K.?
+Silly sod.
+
+238
+00:15:45,879 --> 00:16:02,860
+Why don't you go and play on
+the amusements, yeah?
+
+239
+00:16:02,862 --> 00:16:10,101
+The amusements, yeah?
+Gonna make us some money.
+
+240
+00:16:10,103 --> 00:16:12,370
+Gonna make us some money.
+Man: Go on.
+
+241
+00:16:12,372 --> 00:16:12,971
+Man: Go on.
+Eleanor: <i>Clara is</i>
+
+242
+00:16:12,973 --> 00:16:14,973
+Eleanor: <i>Clara is</i>
+<i>never alone.</i>
+
+243
+00:16:14,975 --> 00:16:16,708
+<i>Never alone.</i>
+<i>She finds money and company</i>
+
+244
+00:16:16,710 --> 00:16:19,043
+<i>she finds money and company</i>
+<i>every day.</i>
+
+245
+00:16:19,045 --> 00:16:21,479
+<i>Every day.</i>
+<i>It comes easily to her,</i>
+
+246
+00:16:21,481 --> 00:16:22,480
+<i>it comes easily to her,</i>
+<i>like lying.</i>
+
+247
+00:16:22,482 --> 00:16:24,816
+<i>Like lying.</i>
+<i>Man: Who's that?</i>
+
+248
+00:16:24,818 --> 00:16:26,284
+<i>Man: Who's that?</i>
+<i>You know her? No.</i>
+
+249
+00:16:26,286 --> 00:16:29,120
+<i>You know her? No.</i>
+<i>You seen her? No.</i>
+
+250
+00:16:29,122 --> 00:16:36,928
+ <i>But I like solitude.</i>
+<i>I walk and the past walks</i>
+
+251
+00:16:36,930 --> 00:16:39,364
+<i>i walk and the past walks</i>
+<i>with me.</i>
+
+252
+00:16:39,366 --> 00:16:42,667
+<i>With me.</i>
+<i>It lives.</i>
+
+253
+00:16:42,669 --> 00:16:46,771
+<i>It lives.</i>
+<i>[Waves crashing...]</i>
+
+254
+00:16:46,773 --> 00:17:06,391
+<i>[Laughter,</i>
+<i>indistinct conversations]</i>
+
+255
+00:17:06,393 --> 00:17:26,010
+<i>[Playing slow melody...]</i>
+
+256
+00:17:26,012 --> 00:18:03,614
+<i>[Piano continues...]</i>
+<i>[Rides clanking, people scream</i>
+
+257
+00:18:03,616 --> 00:18:07,652
+<i>[rides clanking, people scream</i>
+<i>happily in distance...]</i>
+
+258
+00:18:07,654 --> 00:18:14,358
+<i>[Continues playing...]</i>
+
+259
+00:18:14,360 --> 00:18:33,978
+<i>[Piano continues...]</i>
+
+260
+00:18:33,980 --> 00:18:38,149
+<i>[Quietly] Hi.</i>
+<i>It's 50 for a blow,</i>
+
+261
+00:18:38,151 --> 00:18:40,051
+<i>it's 50 for a blow,</i>
+<i>100 for a full whack.</i>
+
+262
+00:18:40,053 --> 00:18:48,960
+<i>100 for a full whack.</i>
+<i>[Piano continues...]</i>
+
+263
+00:18:48,962 --> 00:19:03,908
+<i>[Finishes playing]</i>
+
+264
+00:19:03,910 --> 00:19:14,952
+<i>Did they hire you?</i>
+<i>You're busking.</i>
+
+265
+00:19:14,954 --> 00:19:16,954
+<i>You're busking.</i>
+<i>You could pass the hat around.</i>
+
+266
+00:19:16,956 --> 00:19:21,425
+<i>You could pass the hat around.</i>
+<i>I don't mind.</i>
+
+267
+00:19:21,427 --> 00:19:26,931
+<i>I don't mind.</i>
+<i>That... was great.</i>
+
+268
+00:19:26,933 --> 00:19:30,168
+<i>That... was great.</i>
+<i>Can you speak?</i>
+
+269
+00:19:30,170 --> 00:19:34,505
+<i>Can you speak?</i>
+<i>I haven't got a hat.</i>
+
+270
+00:19:34,507 --> 00:19:39,810
+<i>I haven't got a hat.</i>
+<i>[Giggles]</i>
+
+271
+00:19:39,812 --> 00:19:40,478
+<i>[Giggles]</i>
+<i>How do you remember</i>
+
+272
+00:19:40,480 --> 00:19:42,513
+<i>how do you remember</i>
+<i>all those notes?</i>
+
+273
+00:19:42,515 --> 00:19:44,982
+<i>All those notes?</i>
+<i>I remember everything.</i>
+
+274
+00:19:44,984 --> 00:19:49,854
+<i>I remember everything.</i>
+<i>It's a burden.</i>
+
+275
+00:19:49,856 --> 00:19:53,724
+<i>It's a burden.</i>
+<i>So...</i>
+
+276
+00:19:53,726 --> 00:19:57,728
+<i>So...</i>
+<i>You know anything else?</i>
+
+277
+00:19:57,730 --> 00:20:00,198
+<i>You know anything else?</i>
+<i>Try and liven them up.</i>
+
+278
+00:20:00,200 --> 00:20:01,465
+<i>Try and liven them up.</i>
+<i>It's the valley of the stiffs</i>
+
+279
+00:20:01,467 --> 00:20:04,202
+<i>it's the valley of the stiffs</i>
+<i>in here.</i>
+
+280
+00:20:04,204 --> 00:20:12,109
+<i>I have to go.</i>
+
+281
+00:20:12,111 --> 00:20:23,788
+<i>I finish at 10!</i>
+
+282
+00:20:23,790 --> 00:20:32,496
+<i>[♪...]</i>
+<i>Come in.</i>
+
+283
+00:20:32,498 --> 00:20:34,999
+<i>Come in.</i>
+<i>[Door rattles]</i>
+
+284
+00:20:35,001 --> 00:20:42,873
+<i>[Door rattles]</i>
+<i>[♪...]</i>
+
+285
+00:20:42,875 --> 00:20:51,549
+<i>50.</i>
+<i>Lovely.</i>
+
+286
+00:20:51,551 --> 00:20:54,952
+<i>Lovely.</i>
+<i>So, are you on holiday then?</i>
+
+287
+00:20:54,954 --> 00:20:55,753
+<i>So, are you on holiday then?</i>
+<i>[Quietly] No.</i>
+
+288
+00:20:55,755 --> 00:20:57,321
+<i>[Quietly] No.</i>
+<i>Oh, you live around here?</i>
+
+289
+00:20:57,323 --> 00:20:58,756
+<i>Oh, you live around here?</i>
+<i>Yeah.</i>
+
+290
+00:20:58,758 --> 00:21:01,192
+<i>Yeah.</i>
+<i>Fancied a bit of company.</i>
+
+291
+00:21:01,194 --> 00:21:05,062
+<i>Fancied a bit of company.</i>
+<i>[Tearfully] She...</i>
+
+292
+00:21:05,064 --> 00:21:09,634
+<i>[Tearfully] She...</i>
+<i>Who?</i>
+
+293
+00:21:09,636 --> 00:21:11,869
+<i>Who?</i>
+<i>Mum.</i>
+
+294
+00:21:11,871 --> 00:21:14,505
+<i>Mum.</i>
+<i>She, she died.</i>
+
+295
+00:21:14,507 --> 00:21:18,009
+<i>She, she died.</i>
+<i>Oh, I'm so sorry.</i>
+
+296
+00:21:18,011 --> 00:21:19,844
+<i>Oh, I'm so sorry.</i>
+<i>There was a funeral.</i>
+
+297
+00:21:19,846 --> 00:21:21,946
+<i>There was a funeral.</i>
+<i>I couldn't.</i>
+
+298
+00:21:21,948 --> 00:21:23,014
+<i>I couldn't.</i>
+<i>I ran away from it.</i>
+
+299
+00:21:23,016 --> 00:21:23,981
+<i>I ran away from it.</i>
+<i>I've not been out.</i>
+
+300
+00:21:23,983 --> 00:21:28,919
+<i>I've not been out.</i>
+<i>I've not been out since.</i>
+
+301
+00:21:28,921 --> 00:21:30,988
+<i>I've not been out since.</i>
+<i>[Cries]</i>
+
+302
+00:21:30,990 --> 00:21:32,690
+<i>[Cries]</i>
+<i>But your grief, that shows</i>
+
+303
+00:21:32,692 --> 00:21:35,860
+<i>but your grief, that shows</i>
+<i>how much you loved her.</i>
+
+304
+00:21:35,862 --> 00:21:41,499
+<i>How much you loved her.</i>
+<i>And love is a very good thing.</i>
+
+305
+00:21:41,501 --> 00:21:45,036
+<i>And love is a very good thing.</i>
+<i>I bet she'd be proud of you.</i>
+
+306
+00:21:45,038 --> 00:21:49,473
+<i>I bet she'd be proud of you.</i>
+<i>A lovely son like you?</i>
+
+307
+00:21:49,475 --> 00:21:52,943
+<i>A lovely son like you?</i>
+<i>No, I never made her proud.</i>
+
+308
+00:21:52,945 --> 00:21:56,781
+<i>No, I never made her proud.</i>
+<i>I just...</i>
+
+309
+00:21:56,783 --> 00:22:00,384
+<i>I just...</i>
+<i>I don't even answer the phone.</i>
+
+310
+00:22:00,386 --> 00:22:01,819
+<i>I don't even answer the phone.</i>
+<i>You know?</i>
+
+311
+00:22:01,821 --> 00:22:02,753
+<i>You know?</i>
+<i>I messed up the business,</i>
+
+312
+00:22:02,755 --> 00:22:04,755
+<i>i messed up the business,</i>
+<i>i can't pay her debts.</i>
+
+313
+00:22:04,757 --> 00:22:05,990
+<i>I can't pay her debts.</i>
+<i>Found 50 quid in one of her old</i>
+
+314
+00:22:05,992 --> 00:22:11,262
+<i>found 50 quid in one of her old</i>
+<i>books and what do I spend it on?</i>
+
+315
+00:22:11,264 --> 00:22:13,564
+<i>Books and what do I spend it on?</i>
+<i>Human contact.</i>
+
+316
+00:22:13,566 --> 00:22:23,441
+<i>[Sighs]</i>
+<i>Are you o.K.? Yeah.</i>
+
+317
+00:22:23,443 --> 00:22:24,675
+<i>Are you o.K.? Yeah.</i>
+<i>Yeah?</i>
+
+318
+00:22:24,677 --> 00:22:30,581
+<i>Yeah?</i>
+<i>I'm sorry, love.</i>
+
+319
+00:22:30,583 --> 00:22:33,851
+<i>I'm sorry, love.</i>
+<i>I'm Camilla.</i>
+
+320
+00:22:33,853 --> 00:22:35,519
+<i>I'm Camilla.</i>
+<i>Noel.</i>
+
+321
+00:22:35,521 --> 00:22:37,188
+<i>Noel.</i>
+<i>So what sort of a business</i>
+
+322
+00:22:37,190 --> 00:22:40,157
+<i>so what sort of a business</i>
+<i>did your mum have then, Noel?</i>
+
+323
+00:22:40,159 --> 00:22:41,992
+<i>Did your mum have then, Noel?</i>
+<i>It was a guesthouse.</i>
+
+324
+00:22:41,994 --> 00:22:43,994
+<i>It was a guesthouse.</i>
+<i>I trashed it.</i>
+
+325
+00:22:43,996 --> 00:22:48,766
+<i>I trashed it.</i>
+<i>Was it a big place?</i>
+
+326
+00:22:48,768 --> 00:22:52,002
+<i>Was it a big place?</i>
+<i>Yeah, it was fairly big.</i>
+
+327
+00:22:52,004 --> 00:22:55,139
+<i>Yeah, it was fairly big.</i>
+<i>Well... do you... should we</i>
+
+328
+00:22:55,141 --> 00:22:59,343
+<i>well... do you... should we</i>
+<i>go back to your place then?</i>
+
+329
+00:22:59,345 --> 00:23:01,011
+<i>Go back to your place then?</i>
+<i>Yeah? Yeah.</i>
+
+330
+00:23:01,013 --> 00:23:02,213
+<i>Yeah? Yeah.</i>
+<i>Be nice. Yeah, you could</i>
+
+331
+00:23:02,215 --> 00:23:04,782
+<i>be nice. Yeah, you could</i>
+<i>come back to mine. Yeah.</i>
+
+332
+00:23:04,784 --> 00:23:07,885
+<i>Come back to mine. Yeah.</i>
+<i>[Waves crashing]</i>
+
+333
+00:23:07,887 --> 00:23:23,701
+<i>Glad you waited for me.</i>
+<i>I didn't.</i>
+
+334
+00:23:23,703 --> 00:23:36,614
+<i>How did you learn to play</i>
+<i>like that?</i>
+
+335
+00:23:36,616 --> 00:23:38,883
+<i>Like that?</i>
+<i>I practiced.</i>
+
+336
+00:23:38,885 --> 00:23:42,219
+<i>I practiced.</i>
+<i>For how long?</i>
+
+337
+00:23:42,221 --> 00:23:46,023
+<i>For how long?</i>
+<i>200 years.</i>
+
+338
+00:23:46,025 --> 00:23:46,991
+<i>200 years.</i>
+<i>That's how it feels anyways,</i>
+
+339
+00:23:46,993 --> 00:23:49,827
+<i>that's how it feels anyways,</i>
+<i>doesn't it?</i>
+
+340
+00:23:49,829 --> 00:23:52,997
+<i>Doesn't it?</i>
+<i>Passed around a teacup.</i>
+
+341
+00:23:52,999 --> 00:23:58,969
+<i>Passed around a teacup.</i>
+<i>Raised some cash for you.</i>
+
+342
+00:23:58,971 --> 00:24:02,273
+<i>Raised some cash for you.</i>
+<i>It's not much.</i>
+
+343
+00:24:02,275 --> 00:24:06,777
+<i>It's not much.</i>
+<i>Thank you.</i>
+
+344
+00:24:06,779 --> 00:24:09,847
+<i>Thank you.</i>
+<i>That piece of paper.</i>
+
+345
+00:24:09,849 --> 00:24:14,018
+<i>That piece of paper.</i>
+<i>That's my phone number.</i>
+
+346
+00:24:14,020 --> 00:24:15,553
+<i>That's my phone number.</i>
+<i>I don't have a phone.</i>
+
+347
+00:24:15,555 --> 00:24:34,004
+<i>So... ni... nice to meet you.</i>
+
+348
+00:24:34,006 --> 00:24:37,775
+<i>Good-bye.</i>
+
+349
+00:24:37,777 --> 00:24:53,891
+<i>[Waves crashing]</i>
+
+350
+00:24:53,893 --> 00:25:03,334
+<i>Ella! Ella!</i>
+<i>Look who I found!</i>
+
+351
+00:25:03,336 --> 00:25:05,936
+<i>Look who I found!</i>
+<i>We're damsels in distress.</i>
+
+352
+00:25:05,938 --> 00:25:07,037
+<i>We're damsels in distress.</i>
+<i>Noel: Oh.</i>
+
+353
+00:25:07,039 --> 00:25:07,938
+<i>Noel: Oh.</i>
+<i>Do you know what</i>
+
+354
+00:25:07,940 --> 00:25:09,773
+<i>do you know what</i>
+<i>Noel is, Ella?</i>
+
+355
+00:25:09,775 --> 00:25:11,942
+<i>Noel is, Ella?</i>
+<i>He's a knight in shining armor</i>
+
+356
+00:25:11,944 --> 00:25:13,644
+<i>he's a knight in shining armor</i>
+<i>come to deliver us from evil,</i>
+
+357
+00:25:13,646 --> 00:25:15,779
+<i>come to deliver us from evil,</i>
+<i>aren't you? [Laughs]</i>
+
+358
+00:25:15,781 --> 00:25:19,917
+<i>Aren't you? [Laughs]</i>
+<i>This is my little baby sister.</i>
+
+359
+00:25:19,919 --> 00:25:20,951
+<i>This is my little baby sister.</i>
+<i>Hi.</i>
+
+360
+00:25:20,953 --> 00:25:22,086
+<i>Hi.</i>
+<i>Hello.</i>
+
+361
+00:25:22,088 --> 00:25:23,854
+<i>Hello.</i>
+<i>There we go.</i>
+
+362
+00:25:23,856 --> 00:25:24,922
+<i>There we go.</i>
+<i>Ah...</i>
+
+363
+00:25:24,924 --> 00:25:26,857
+<i>Ah...</i>
+<i>Been looking for you everywhere.</i>
+
+364
+00:25:26,859 --> 00:25:33,797
+<i>Been looking for you everywhere.</i>
+<i>[♪...]</i>
+
+365
+00:25:33,799 --> 00:25:41,272
+<i>Can't find my keys.</i>
+<i>Oh...</i>
+
+366
+00:25:41,274 --> 00:25:45,576
+<i>Oh...</i>
+<i>Oh-- I'll just open up.</i>
+
+367
+00:25:45,578 --> 00:26:02,593
+<i>Come in.</i>
+<i>[♪...]</i>
+
+368
+00:26:02,595 --> 00:26:04,395
+<i>[♪...]</i>
+<i>Look, I'm trusting you, Camilla.</i>
+
+369
+00:26:04,397 --> 00:26:08,799
+<i>Look, I'm trusting you, Camilla.</i>
+<i>[Clara giggles]</i>
+
+370
+00:26:08,801 --> 00:26:09,433
+<i>[Clara giggles]</i>
+<i>Don't.</i>
+
+371
+00:26:09,435 --> 00:26:11,769
+<i>Don't.</i>
+<i>I won't.</i>
+
+372
+00:26:11,771 --> 00:26:12,369
+<i>I won't.</i>
+<i>Look, I'm not saying</i>
+
+373
+00:26:12,371 --> 00:26:16,674
+<i>look, I'm not saying</i>
+<i>it's tidy.</i>
+
+374
+00:26:16,676 --> 00:26:19,677
+<i>It's tidy.</i>
+<i>[Gate rattles]</i>
+
+375
+00:26:19,679 --> 00:26:22,313
+<i>[Gate rattles]</i>
+<i>It was a hotel once.</i>
+
+376
+00:26:22,315 --> 00:26:23,814
+<i>It was a hotel once.</i>
+<i>And a boarding house.</i>
+
+377
+00:26:23,816 --> 00:26:25,449
+<i>And a boarding house.</i>
+<i>[Gate clatters]</i>
+
+378
+00:26:25,451 --> 00:26:27,751
+<i>[Gate clatters]</i>
+<i>My mum had the top three floors.</i>
+
+379
+00:26:27,753 --> 00:26:29,320
+<i>My mum had the top three floors.</i>
+<i>Used to do b-and-bs, you know?</i>
+
+380
+00:26:29,322 --> 00:26:30,788
+<i>Used to do b-and-bs, you know?</i>
+<i>Families and that.</i>
+
+381
+00:26:30,790 --> 00:26:31,989
+<i>Families and that.</i>
+<i>Then it was more, you know,</i>
+
+382
+00:26:31,991 --> 00:26:33,524
+<i>then it was more, you know,</i>
+<i>the welfare lot.</i>
+
+383
+00:26:33,526 --> 00:26:34,758
+<i>The welfare lot.</i>
+<i>It's a bit run down now,</i>
+
+384
+00:26:34,760 --> 00:26:36,894
+<i>it's a bit run down now,</i>
+<i>but she wouldn't let it go.</i>
+
+385
+00:26:36,896 --> 00:26:38,596
+<i>But she wouldn't let it go.</i>
+<i>Loved the views, you see.</i>
+
+386
+00:26:38,598 --> 00:26:43,867
+<i>Loved the views, you see.</i>
+<i>[♪...]</i>
+
+387
+00:26:43,869 --> 00:26:45,002
+<i>[♪...]</i>
+<i>Fantastic view of the pier</i>
+
+388
+00:26:45,004 --> 00:26:45,869
+<i>fantastic view of the pier</i>
+<i>from up here.</i>
+
+389
+00:26:45,871 --> 00:26:47,538
+<i>From up here.</i>
+<i>Clara: Lovely.</i>
+
+390
+00:26:47,540 --> 00:26:53,010
+<i>Clara: Lovely.</i>
+<i>This is the dining area.</i>
+
+391
+00:26:53,012 --> 00:26:57,281
+<i>This is the dining area.</i>
+<i>Well... it's nice.</i>
+
+392
+00:26:57,283 --> 00:26:58,949
+<i>Well... it's nice.</i>
+<i>Yeah-- it's lovely. It's a</i>
+
+393
+00:26:58,951 --> 00:27:00,317
+<i>yeah-- it's lovely. It's a</i>
+<i>bit of a state, like I said,</i>
+
+394
+00:27:00,319 --> 00:27:06,190
+<i>bit of a state, like I said,</i>
+<i>but I wasn't expecting company.</i>
+
+395
+00:27:06,192 --> 00:27:07,658
+<i>But I wasn't expecting company.</i>
+<i>[Clara giggles]</i>
+
+396
+00:27:07,660 --> 00:27:10,828
+<i>[Clara giggles]</i>
+<i>[♪...]</i>
+
+397
+00:27:10,830 --> 00:27:11,695
+<i>[♪...]</i>
+<i>Tell my sister where</i>
+
+398
+00:27:11,697 --> 00:27:13,964
+<i>tell my sister where</i>
+<i>her room is, love.</i>
+
+399
+00:27:13,966 --> 00:27:16,834
+<i>Her room is, love.</i>
+<i>Yeah.</i>
+
+400
+00:27:16,836 --> 00:27:19,036
+<i>Yeah.</i>
+<i>Ella?</i>
+
+401
+00:27:19,038 --> 00:27:21,405
+<i>Ella?</i>
+<i>I'll show you to your room.</i>
+
+402
+00:27:21,407 --> 00:27:35,185
+<i>[Waves crashing in the distance]</i>
+<i>[Clara humming...]</i>
+
+403
+00:27:35,187 --> 00:27:38,989
+<i>[Clara humming...]</i>
+<i>I went 'round the house and...</i>
+
+404
+00:27:38,991 --> 00:27:42,593
+<i>I went 'round the house and...</i>
+<i>Smashed things up.</i>
+
+405
+00:27:42,595 --> 00:27:49,133
+<i>Smashed things up.</i>
+<i>I didn't wanna look at myself.</i>
+
+406
+00:27:49,135 --> 00:27:52,803
+<i>I didn't wanna look at myself.</i>
+<i>Camilla said that, um,</i>
+
+407
+00:27:52,805 --> 00:27:54,838
+<i>Camilla said that, um,</i>
+<i>you lost your mum too.</i>
+
+408
+00:27:54,840 --> 00:27:59,209
+<i>You lost your mum too.</i>
+<i>She's your legal guardian.</i>
+
+409
+00:27:59,211 --> 00:28:01,712
+<i>She's your legal guardian.</i>
+<i>How brave of her.</i>
+
+410
+00:28:01,714 --> 00:28:04,848
+<i>How brave of her.</i>
+<i>[Clara singing softly...]</i>
+
+411
+00:28:04,850 --> 00:28:05,849
+<i>[Clara singing softly...]</i>
+<i>I understand what she's</i>
+
+412
+00:28:05,851 --> 00:28:08,519
+<i>i understand what she's</i>
+<i>had to do.</i>
+
+413
+00:28:08,521 --> 00:28:10,788
+<i>Had to do.</i>
+<i>Do you?</i>
+
+414
+00:28:10,790 --> 00:28:12,489
+<i>Do you?</i>
+<i>Well, she needs money.</i>
+
+415
+00:28:12,491 --> 00:28:25,035
+<i>Well, what I'm saying is, um...</i>
+<i>I don't care.</i>
+
+416
+00:28:25,037 --> 00:28:27,071
+<i>I don't care.</i>
+<i>You can stay.</i>
+
+417
+00:28:27,073 --> 00:28:29,039
+<i>You can stay.</i>
+<i>Thank you.</i>
+
+418
+00:28:29,041 --> 00:28:31,475
+<i>Thank you.</i>
+<i>[Clara continues singing...]</i>
+
+419
+00:28:31,477 --> 00:28:58,435
+<i>[♪...]</i>
+
+420
+00:28:58,437 --> 00:29:09,213
+<i>Clara: Only those prepared to</i>
+<i>die will find eternal life.</i>
+
+421
+00:29:09,215 --> 00:29:12,683
+<i>Die will find eternal life.</i>
+<i>[Kisses]</i>
+
+422
+00:29:12,685 --> 00:29:16,687
+<i>[Kisses]</i>
+<i>Go on, go on.</i>
+
+423
+00:29:16,689 --> 00:29:21,258
+<i>Go on, go on.</i>
+<i>[♪...]</i>
+
+424
+00:29:21,260 --> 00:29:31,468
+<i>[Screeching, whooshing,</i>
+<i>flapping]</i>
+
+425
+00:29:31,470 --> 00:29:43,247
+<i>Flapping]</i>
+<i>[♪...]</i>
+
+426
+00:29:43,249 --> 00:30:10,908
+<i>This is the end.</i>
+<i>Of what?</i>
+
+427
+00:30:10,910 --> 00:30:12,142
+<i>Of what?</i>
+<i>Of time.</i>
+
+428
+00:30:12,144 --> 00:30:16,613
+<i>Of time.</i>
+<i>[♪...]</i>
+
+429
+00:30:16,615 --> 00:30:25,689
+<i>[Gulls cawing...]</i>
+
+430
+00:30:25,691 --> 00:30:57,921
+<i>[Water splashes]</i>
+<i>[Clara and Noel moan]</i>
+
+431
+00:30:57,923 --> 00:31:00,824
+<i>[Clara and Noel moan]</i>
+<i>Clara: Good boy...</i>
+
+432
+00:31:00,826 --> 00:31:03,427
+<i>Clara: Good boy...</i>
+<i>[Noel groans loudly]</i>
+
+433
+00:31:03,429 --> 00:31:04,928
+<i>[Noel groans loudly]</i>
+<i>Ooh...</i>
+
+434
+00:31:04,930 --> 00:31:07,798
+<i>Ooh...</i>
+<i>[♪...]</i>
+
+435
+00:31:07,800 --> 00:31:11,702
+<i>[♪...]</i>
+<i>[Sirens wail in distance]</i>
+
+436
+00:31:11,704 --> 00:31:16,640
+<i>[Wire zips]</i>
+
+437
+00:31:16,642 --> 00:31:31,188
+<i>Excuse me.</i>
+
+438
+00:31:31,190 --> 00:31:39,997
+<i>[Camera beeps, clicks]</i>
+<i>[Wire clatters on floor]</i>
+
+439
+00:31:39,999 --> 00:31:43,400
+<i>[Wire clatters on floor]</i>
+<i>[♪...]</i>
+
+440
+00:31:43,402 --> 00:32:03,287
+<i>[Whispers] Who was he?</i>
+<i>It's in the past, Ella,</i>
+
+441
+00:32:03,289 --> 00:32:04,755
+<i>it's in the past, Ella,</i>
+<i>let it go.</i>
+
+442
+00:32:04,757 --> 00:32:05,355
+<i>Let it go.</i>
+<i>Who was he?</i>
+
+443
+00:32:05,357 --> 00:32:07,791
+<i>Who was he?</i>
+<i>He was a fucking monster.</i>
+
+444
+00:32:07,793 --> 00:32:08,792
+<i>He was a fucking monster.</i>
+<i>I should get a medal</i>
+
+445
+00:32:08,794 --> 00:32:11,862
+<i>i should get a medal</i>
+<i>for what I did to him.</i>
+
+446
+00:32:11,864 --> 00:32:20,037
+<i>Will we move on today?</i>
+<i>Are you tired, my love?</i>
+
+447
+00:32:20,039 --> 00:32:22,205
+<i>Are you tired, my love?</i>
+<i>[Sighs]</i>
+
+448
+00:32:22,207 --> 00:32:23,974
+<i>[Sighs]</i>
+<i>Well...</i>
+
+449
+00:32:23,976 --> 00:32:25,976
+<i>Well...</i>
+<i>I reckon that we should hang on</i>
+
+450
+00:32:25,978 --> 00:32:28,745
+<i>i reckon that we should hang on</i>
+<i>here for a few days, don't you?</i>
+
+451
+00:32:28,747 --> 00:32:31,281
+<i>Here for a few days, don't you?</i>
+<i>Yeah, we can lay low,</i>
+
+452
+00:32:31,283 --> 00:32:34,818
+<i>yeah, we can lay low,</i>
+<i>get some rest, get some money.</i>
+
+453
+00:32:34,820 --> 00:32:35,986
+<i>Get some rest, get some money.</i>
+<i>I could start up one of my old</i>
+
+454
+00:32:35,988 --> 00:32:37,955
+<i>i could start up one of my old</i>
+<i>businesses like in the old days.</i>
+
+455
+00:32:37,957 --> 00:32:38,789
+<i>Businesses like in the old days.</i>
+<i>You don't have to do that.</i>
+
+456
+00:32:38,791 --> 00:32:39,823
+<i>You don't have to do that.</i>
+<i>Oh, come on, Ella.</i>
+
+457
+00:32:39,825 --> 00:32:40,657
+<i>Oh, come on, Ella.</i>
+<i>Look at this place,</i>
+
+458
+00:32:40,659 --> 00:32:41,258
+<i>look at this place,</i>
+<i>it's perfect.</i>
+
+459
+00:32:41,260 --> 00:32:42,993
+<i>It's perfect.</i>
+<i>We'd rake it in.</i>
+
+460
+00:32:42,995 --> 00:32:43,827
+<i>We'd rake it in.</i>
+<i>Why don't we find</i>
+
+461
+00:32:43,829 --> 00:32:45,429
+<i>why don't we find</i>
+<i>another way?</i>
+
+462
+00:32:45,431 --> 00:32:47,230
+<i>Another way?</i>
+<i>It's all right, angel.</i>
+
+463
+00:32:47,232 --> 00:32:47,831
+<i>It's all right, angel.</i>
+<i>I'll make sure you're</i>
+
+464
+00:32:47,833 --> 00:32:51,335
+<i>I'll make sure you're</i>
+<i>not involved.</i>
+
+465
+00:32:51,337 --> 00:32:52,769
+<i>Not involved.</i>
+<i>[Roars]</i>
+
+466
+00:32:52,771 --> 00:32:59,376
+<i>[Roars]</i>
+<i>[Noel shouts, Clara laughs]</i>
+
+467
+00:32:59,378 --> 00:33:01,044
+<i>[Noel shouts, Clara laughs]</i>
+<i>I'm sorry, Noel. [Kisses]</i>
+
+468
+00:33:01,046 --> 00:33:06,116
+<i>I'm sorry, Noel. [Kisses]</i>
+<i>Oh...</i>
+
+469
+00:33:06,118 --> 00:33:09,653
+<i>Oh...</i>
+<i>I was worried I dreamt you.</i>
+
+470
+00:33:09,655 --> 00:33:10,654
+<i>I was worried I dreamt you.</i>
+<i>I thought I'd wake up and</i>
+
+471
+00:33:10,656 --> 00:33:12,656
+<i>i thought I'd wake up and</i>
+<i>you'd be gone.</i>
+
+472
+00:33:12,658 --> 00:33:14,524
+<i>You'd be gone.</i>
+<i>Why would I leave?</i>
+
+473
+00:33:14,526 --> 00:33:17,127
+<i>Why would I leave?</i>
+<i>You've got everything I need.</i>
+
+474
+00:33:17,129 --> 00:33:21,431
+<i>You've got everything I need.</i>
+<i>[Waves crashing, ♪...]</i>
+
+475
+00:33:21,433 --> 00:33:26,370
+<i>[Waves crashing, ♪...]</i>
+<i>[Rain pattering on window]</i>
+
+476
+00:33:26,372 --> 00:33:48,892
+<i>[♪...]</i>
+
+477
+00:33:48,894 --> 00:34:16,086
+<i>Eleanor webb.</i>
+<i>Look at you.</i>
+
+478
+00:34:16,088 --> 00:34:19,890
+<i>Look at you.</i>
+<i>Fair as a lily.</i>
+
+479
+00:34:19,892 --> 00:34:30,167
+<i>I know your mother.</i>
+<i>My mother is dead.</i>
+
+480
+00:34:30,169 --> 00:34:32,402
+<i>My mother is dead.</i>
+<i>Is that what they told you?</i>
+
+481
+00:34:32,404 --> 00:34:44,347
+<i>They fed you on lies.</i>
+<i>[♪...]</i>
+
+482
+00:34:44,349 --> 00:34:47,751
+<i>[♪...]</i>
+<i>Your mother, your mother stole</i>
+
+483
+00:34:47,753 --> 00:34:51,154
+<i>your mother, your mother stole</i>
+<i>something from me.</i>
+
+484
+00:34:51,156 --> 00:34:52,522
+<i>Something from me.</i>
+<i>Now I'll steal something</i>
+
+485
+00:34:52,524 --> 00:34:55,025
+<i>now I'll steal something</i>
+<i>from her.</i>
+
+486
+00:34:55,027 --> 00:34:58,829
+<i>From her.</i>
+<i>[Breathes heavily]</i>
+
+487
+00:34:58,831 --> 00:35:02,199
+<i>[Breathes heavily]</i>
+<i>My disease has no cure.</i>
+
+488
+00:35:02,201 --> 00:35:04,034
+<i>My disease has no cure.</i>
+<i>When I'm finished with you,</i>
+
+489
+00:35:04,036 --> 00:35:07,437
+<i>when I'm finished with you,</i>
+<i>you'll be a child no longer.</i>
+
+490
+00:35:07,439 --> 00:35:08,472
+<i>You'll be a child no longer.</i>
+<i>Look at me!</i>
+
+491
+00:35:08,474 --> 00:35:18,115
+<i>Noel: Ella?</i>
+<i>[Sobbing quietly]</i>
+
+492
+00:35:18,117 --> 00:35:21,118
+<i>[Sobbing quietly]</i>
+<i>You o.K.?</i>
+
+493
+00:35:21,120 --> 00:35:32,295
+<i>Camilla's told me about how</i>
+<i>you were in a care home.</i>
+
+494
+00:35:32,297 --> 00:35:35,866
+<i>You were in a care home.</i>
+<i>She said that...</i>
+
+495
+00:35:35,868 --> 00:35:37,300
+<i>She said that...</i>
+<i>She said that bad things</i>
+
+496
+00:35:37,302 --> 00:35:40,871
+<i>she said that bad things</i>
+<i>happened to you there.</i>
+
+497
+00:35:40,873 --> 00:35:42,139
+<i>Happened to you there.</i>
+<i>I want you to know that nothing</i>
+
+498
+00:35:42,141 --> 00:35:43,140
+<i>i want you to know that nothing</i>
+<i>bad will happen while you're</i>
+
+499
+00:35:43,142 --> 00:35:46,042
+<i>bad will happen while you're</i>
+<i>living here.</i>
+
+500
+00:35:46,044 --> 00:35:48,145
+<i>Living here.</i>
+<i>I promise, o.K.?</i>
+
+501
+00:35:48,147 --> 00:35:56,920
+<i>Her name's not Camilla and</i>
+<i>she's not my sister, she's--</i>
+
+502
+00:35:56,922 --> 00:35:59,189
+<i>she's not my sister, she's--</i>
+<i>my name's Claire.</i>
+
+503
+00:35:59,191 --> 00:35:59,923
+<i>My name's Claire.</i>
+<i>It's Clara,</i>
+
+504
+00:35:59,925 --> 00:36:00,824
+<i>it's Clara,</i>
+<i>she was born Clara.</i>
+
+505
+00:36:00,826 --> 00:36:04,361
+<i>She was born Clara.</i>
+<i>I prefer Claire.</i>
+
+506
+00:36:04,363 --> 00:36:05,795
+<i>I prefer Claire.</i>
+<i>Mmm...</i>
+
+507
+00:36:05,797 --> 00:36:06,897
+<i>Mmm...</i>
+<i>Claire.</i>
+
+508
+00:36:06,899 --> 00:36:09,766
+<i>Claire.</i>
+<i>[♪...]</i>
+
+509
+00:36:09,768 --> 00:36:10,967
+<i>[♪...]</i>
+<i>[Whispers] Don't.</i>
+
+510
+00:36:10,969 --> 00:36:11,935
+<i>[Whispers] Don't.</i>
+<i>You lie about me</i>
+
+511
+00:36:11,937 --> 00:36:12,769
+<i>you lie about me</i>
+<i>all the time.</i>
+
+512
+00:36:12,771 --> 00:36:13,336
+<i>All the time.</i>
+<i>If you tell him,</i>
+
+513
+00:36:13,338 --> 00:36:15,105
+<i>if you tell him,</i>
+<i>i will kill him.</i>
+
+514
+00:36:15,107 --> 00:36:15,872
+<i>I will kill him.</i>
+<i>Don't you sometimes crave</i>
+
+515
+00:36:15,874 --> 00:36:16,940
+<i>don't you sometimes crave</i>
+<i>to tell the truth?</i>
+
+516
+00:36:16,942 --> 00:36:17,974
+<i>To tell the truth?</i>
+<i>There is a code that we</i>
+
+517
+00:36:17,976 --> 00:36:19,476
+<i>there is a code that we</i>
+<i>survive by, Eleanor.</i>
+
+518
+00:36:19,478 --> 00:36:22,979
+<i>Survive by, Eleanor.</i>
+<i>Keep it.</i>
+
+519
+00:36:22,981 --> 00:36:26,716
+<i>Keep it.</i>
+<i>[Gulls caw]</i>
+
+520
+00:36:26,718 --> 00:36:30,287
+<i>[Gulls caw]</i>
+<i>...So, in a week say,</i>
+
+521
+00:36:30,289 --> 00:36:32,923
+<i>...so, in a week say,</i>
+<i>how much would your mum make?</i>
+
+522
+00:36:32,925 --> 00:36:35,325
+<i>How much would your mum make?</i>
+<i>Uh, what, high season?</i>
+
+523
+00:36:35,327 --> 00:36:36,893
+<i>Uh, what, high season?</i>
+<i>About a thousand.</i>
+
+524
+00:36:36,895 --> 00:36:37,928
+<i>About a thousand.</i>
+<i>Oh, we could make that</i>
+
+525
+00:36:37,930 --> 00:36:39,563
+<i>oh, we could make that</i>
+<i>in a night.</i>
+
+526
+00:36:39,565 --> 00:36:40,330
+<i>In a night.</i>
+<i>You could clear all</i>
+
+527
+00:36:40,332 --> 00:36:41,965
+<i>you could clear all</i>
+<i>your debts, noely.</i>
+
+528
+00:36:41,967 --> 00:36:43,633
+<i>Your debts, noely.</i>
+<i>Yeah, but...</i>
+
+529
+00:36:43,635 --> 00:36:44,434
+<i>Yeah, but...</i>
+<i>I want to save you</i>
+
+530
+00:36:44,436 --> 00:36:46,970
+<i>i want to save you</i>
+<i>from that life.</i>
+
+531
+00:36:46,972 --> 00:36:47,837
+<i>From that life.</i>
+<i>Well, it wouldn't have</i>
+
+532
+00:36:47,839 --> 00:36:48,939
+<i>well, it wouldn't have</i>
+<i>to be me.</i>
+
+533
+00:36:48,941 --> 00:36:52,642
+<i>To be me.</i>
+<i>We could get some girls in.</i>
+
+534
+00:36:52,644 --> 00:36:57,180
+<i>We could get some girls in.</i>
+<i>This is my mother's house.</i>
+
+535
+00:36:57,182 --> 00:37:00,684
+<i>This is my mother's house.</i>
+<i>♪ he's so fair [Kisses]</i>
+
+536
+00:37:00,686 --> 00:37:04,888
+<i>♪ He's so fair [Kisses]</i>
+<i>♪ none can compare [Kisses]</i>
+
+537
+00:37:04,890 --> 00:37:09,893
+<i>♪ None can compare [Kisses]</i>
+<i>♪ oh, but his blood runs Ruby</i>
+
+538
+00:37:09,895 --> 00:37:12,596
+<i>♪ oh, but his blood runs Ruby</i>
+<i>[♪...]</i>
+
+539
+00:37:12,598 --> 00:37:16,800
+<i>[♪...]</i>
+<i>♪ come, rosy day,</i>
+
+540
+00:37:16,802 --> 00:37:22,806
+<i>♪ come, rosy day,</i>
+<i>come quick, I pray ♪</i>
+
+541
+00:37:22,808 --> 00:37:27,611
+<i>Come quick, I pray ♪</i>
+<i>♪ let dreams of love</i>
+
+542
+00:37:27,613 --> 00:37:31,915
+<i>♪ let dreams of love</i>
+<i>be over... ♪</i>
+
+543
+00:37:31,917 --> 00:37:33,783
+<i>Be over... ♪</i>
+<i>Eleanor: Once upon a time,</i>
+
+544
+00:37:33,785 --> 00:37:37,420
+<i>Eleanor: Once upon a time,</i>
+<i>there was nothing here.</i>
+
+545
+00:37:37,422 --> 00:37:39,823
+<i>There was nothing here.</i>
+<i>There was no hotel,</i>
+
+546
+00:37:39,825 --> 00:37:43,093
+<i>there was no hotel,</i>
+<i>no promenade.</i>
+
+547
+00:37:43,095 --> 00:37:46,029
+<i>No promenade.</i>
+<i>Just a beach, nets hanging out</i>
+
+548
+00:37:46,031 --> 00:37:49,966
+<i>just a beach, nets hanging out</i>
+<i>to dry, great warships in the</i>
+
+549
+00:37:49,968 --> 00:37:53,270
+<i>to dry, great warships in the</i>
+<i>bay and children picking</i>
+
+550
+00:37:53,272 --> 00:37:57,774
+<i>bay and children picking</i>
+<i>cockles for their bread.</i>
+
+551
+00:37:57,776 --> 00:37:58,775
+<i>Cockles for their bread.</i>
+<i>My mother was one of those</i>
+
+552
+00:37:58,777 --> 00:38:02,812
+<i>my mother was one of those</i>
+<i>children, barefoot in the sand.</i>
+
+553
+00:38:02,814 --> 00:38:04,781
+<i>Children, barefoot in the sand.</i>
+<i>...Can you hear me?</i>
+
+554
+00:38:04,783 --> 00:38:08,852
+<i>...can you hear me?</i>
+<i>[Woman moans softly]</i>
+
+555
+00:38:08,854 --> 00:38:11,755
+<i>[Woman moans softly]</i>
+<i>[♪...]</i>
+
+556
+00:38:11,757 --> 00:38:14,958
+<i>[♪...]</i>
+<i>My mother lives on human blood</i>
+
+557
+00:38:14,960 --> 00:38:19,763
+<i>my mother lives on human blood</i>
+<i>and has done for two centuries.</i>
+
+558
+00:38:19,765 --> 00:38:20,964
+<i>And has done for two centuries.</i>
+<i>But once she was a girl</i>
+
+559
+00:38:20,966 --> 00:38:24,567
+<i>but once she was a girl</i>
+<i>like you.</i>
+
+560
+00:38:24,569 --> 00:38:25,702
+<i>Like you.</i>
+<i>She's never spoken</i>
+
+561
+00:38:25,704 --> 00:38:27,604
+<i>she's never spoken</i>
+<i>of her family.</i>
+
+562
+00:38:27,606 --> 00:38:28,605
+<i>Of her family.</i>
+<i>They're in the store of things</i>
+
+563
+00:38:28,607 --> 00:38:31,841
+<i>they're in the store of things</i>
+<i>she must forget.</i>
+
+564
+00:38:31,843 --> 00:38:32,942
+<i>She must forget.</i>
+<i>So her tale begins with two</i>
+
+565
+00:38:32,944 --> 00:38:34,511
+<i>so her tale begins with two</i>
+<i>officers waiting to be called</i>
+
+566
+00:38:34,513 --> 00:38:35,645
+<i>officers waiting to be called</i>
+<i>to war.</i>
+
+567
+00:38:35,647 --> 00:38:36,646
+<i>To war.</i>
+<i>Are they sweet?</i>
+
+568
+00:38:36,648 --> 00:38:38,014
+<i>Are they sweet?</i>
+<i>[♪...]</i>
+
+569
+00:38:38,016 --> 00:38:38,982
+<i>[♪...]</i>
+<i>May I try one?</i>
+
+570
+00:38:38,984 --> 00:38:39,816
+<i>May I try one?</i>
+<i>Eleanor: One was</i>
+
+571
+00:38:39,818 --> 00:38:41,151
+<i>Eleanor: One was</i>
+<i>midshipman darvell.</i>
+
+572
+00:38:41,153 --> 00:38:48,491
+<i>Midshipman darvell.</i>
+<i>[♪...]</i>
+
+573
+00:38:48,493 --> 00:38:52,028
+<i>[♪...]</i>
+<i>Mmm.</i>
+
+574
+00:38:52,030 --> 00:38:54,998
+<i>Mmm.</i>
+<i>Here.</i>
+
+575
+00:38:55,000 --> 00:38:58,001
+<i>Here.</i>
+<i>Pearl for a pearl.</i>
+
+576
+00:38:58,003 --> 00:38:58,902
+<i>Pearl for a pearl.</i>
+<i>Eleanor: And the other,</i>
+
+577
+00:38:58,904 --> 00:39:00,370
+<i>Eleanor: And the other,</i>
+<i>his superior,</i>
+
+578
+00:39:00,372 --> 00:39:03,006
+<i>his superior,</i>
+<i>was captain ruthven.</i>
+
+579
+00:39:03,008 --> 00:39:05,842
+<i>Was captain ruthven.</i>
+<i>May I offer you a ride?</i>
+
+580
+00:39:05,844 --> 00:39:07,410
+<i>May I offer you a ride?</i>
+<i>She's only a child, ruthven.</i>
+
+581
+00:39:07,412 --> 00:39:08,178
+<i>She's only a child, ruthven.</i>
+<i>She knows how to ride,</i>
+
+582
+00:39:08,180 --> 00:39:12,282
+<i>she knows how to ride,</i>
+<i>i dare say.</i>
+
+583
+00:39:12,284 --> 00:39:14,084
+<i>I dare say.</i>
+<i>Don't go with him.</i>
+
+584
+00:39:14,086 --> 00:39:21,157
+<i>Don't go with him.</i>
+<i>[♪...]</i>
+
+585
+00:39:21,159 --> 00:39:22,258
+<i>[♪...]</i>
+<i>Eleanor: The pearl stays pure</i>
+
+586
+00:39:22,260 --> 00:39:25,362
+<i>Eleanor: The pearl stays pure</i>
+<i>forever while the oyster's flesh</i>
+
+587
+00:39:25,364 --> 00:39:28,431
+<i>forever while the oyster's flesh</i>
+<i>rots around it.</i>
+
+588
+00:39:28,433 --> 00:39:30,266
+<i>Rots around it.</i>
+<i>[♪...]</i>
+
+589
+00:39:30,268 --> 00:39:32,202
+<i>[♪...]</i>
+<i>I have a gift for you.</i>
+
+590
+00:39:32,204 --> 00:39:37,507
+<i>I have a gift for you.</i>
+<i>Captain ruthven!</i>
+
+591
+00:39:37,509 --> 00:39:40,877
+<i>Captain ruthven!</i>
+<i>[Piano playing...]</i>
+
+592
+00:39:40,879 --> 00:39:49,519
+<i>Here's a treasure</i>
+<i>i found on the beach.</i>
+
+593
+00:39:49,521 --> 00:39:51,921
+<i>I found on the beach.</i>
+<i>Welcome, my dear.</i>
+
+594
+00:39:51,923 --> 00:39:53,590
+<i>Welcome, my dear.</i>
+<i>There's nothing to be afraid of.</i>
+
+595
+00:39:53,592 --> 00:39:55,492
+<i>There's nothing to be afraid of.</i>
+<i>Come on.</i>
+
+596
+00:39:55,494 --> 00:39:56,726
+<i>Come on.</i>
+<i>Let me show you to the captain's</i>
+
+597
+00:39:56,728 --> 00:39:58,128
+<i>let me show you to the captain's</i>
+<i>favorite room.</i>
+
+598
+00:39:58,130 --> 00:40:00,997
+<i>Favorite room.</i>
+<i>You'll find only friends here.</i>
+
+599
+00:40:00,999 --> 00:40:04,934
+<i>You'll find only friends here.</i>
+<i>[♪...]</i>
+
+600
+00:40:04,936 --> 00:40:07,003
+<i>[♪...]</i>
+<i>You gave me nothing, sir.</i>
+
+601
+00:40:07,005 --> 00:40:10,507
+<i>You gave me nothing, sir.</i>
+<i>You took.</i>
+
+602
+00:40:10,509 --> 00:40:11,107
+<i>You took.</i>
+<i>I've given you</i>
+
+603
+00:40:11,109 --> 00:40:14,177
+<i>I've given you</i>
+<i>your profession.</i>
+
+604
+00:40:14,179 --> 00:40:16,646
+<i>Your profession.</i>
+<i>Welcome to your adult life...</i>
+
+605
+00:40:16,648 --> 00:40:17,647
+<i>Welcome to your adult life...</i>
+<i>Eleanor: How many stories</i>
+
+606
+00:40:17,649 --> 00:40:18,815
+<i>Eleanor: How many stories</i>
+<i>start that way?</i>
+
+607
+00:40:18,817 --> 00:40:20,617
+<i>Start that way?</i>
+<i>[Coin clinks] whore.</i>
+
+608
+00:40:20,619 --> 00:40:21,217
+<i>[Coin clinks] Whore.</i>
+<i>Eleanor: Thousands upon</i>
+
+609
+00:40:21,219 --> 00:40:23,987
+<i>Eleanor: Thousands upon</i>
+<i>thousands.</i>
+
+610
+00:40:23,989 --> 00:40:27,891
+<i>Thousands.</i>
+<i>I shall return...</i>
+
+611
+00:40:27,893 --> 00:40:31,494
+<i>I shall return...</i>
+<i>To see what you have learnt.</i>
+
+612
+00:40:31,496 --> 00:40:34,998
+<i>To see what you have learnt.</i>
+<i>[♪...]</i>
+
+613
+00:40:35,000 --> 00:40:36,833
+<i>[♪...]</i>
+<i>Come now.</i>
+
+614
+00:40:36,835 --> 00:40:39,736
+<i>Come now.</i>
+<i>Why do you cry?</i>
+
+615
+00:40:39,738 --> 00:40:40,970
+<i>Why do you cry?</i>
+<i>I have a gentleman here</i>
+
+616
+00:40:40,972 --> 00:40:42,138
+<i>i have a gentleman here</i>
+<i>who will soon have you</i>
+
+617
+00:40:42,140 --> 00:40:47,710
+<i>who will soon have you</i>
+<i>smiling again.</i>
+
+618
+00:40:47,712 --> 00:40:51,848
+<i>Smiling again.</i>
+<i>[Baby cries]</i>
+
+619
+00:40:51,850 --> 00:40:54,918
+<i>[Baby cries]</i>
+<i>No children in this household.</i>
+
+620
+00:40:54,920 --> 00:40:56,853
+<i>No children in this household.</i>
+<i>You know the rule.</i>
+
+621
+00:40:56,855 --> 00:40:58,955
+<i>You know the rule.</i>
+<i>Eleanor: Once upon a time,</i>
+
+622
+00:40:58,957 --> 00:40:59,889
+<i>Eleanor: Once upon a time,</i>
+<i>i was born.</i>
+
+623
+00:40:59,891 --> 00:41:02,625
+<i>I was born.</i>
+<i>[Baby cries]</i>
+
+624
+00:41:02,627 --> 00:41:03,793
+<i>[Baby cries]</i>
+<i>It is still a fact that the day</i>
+
+625
+00:41:03,795 --> 00:41:05,128
+<i>it is still a fact that the day</i>
+<i>you are born is the day you</i>
+
+626
+00:41:05,130 --> 00:41:09,299
+<i>you are born is the day you</i>
+<i>are most likely to be murdered.</i>
+
+627
+00:41:09,301 --> 00:41:10,667
+<i>Are most likely to be murdered.</i>
+<i>More human souls are killed</i>
+
+628
+00:41:10,669 --> 00:41:12,569
+<i>more human souls are killed</i>
+<i>by mothers' hands than by</i>
+
+629
+00:41:12,571 --> 00:41:16,105
+<i>by mothers' hands than by</i>
+<i>the hands of strangers.</i>
+
+630
+00:41:16,107 --> 00:41:19,809
+<i>The hands of strangers.</i>
+<i>My mother tried to murder me...</i>
+
+631
+00:41:19,811 --> 00:41:21,578
+<i>My mother tried to murder me...</i>
+<i>But love confounded her.</i>
+
+632
+00:41:21,580 --> 00:41:29,586
+<i>But love confounded her.</i>
+<i>[♪...]</i>
+
+633
+00:41:29,588 --> 00:41:37,627
+<i>Her note said, "this is my</i>
+<i>daughter, Eleanor webb.</i>
+
+634
+00:41:37,629 --> 00:41:38,428
+<i>Daughter, Eleanor webb.</i>
+<i>I wish her to live</i>
+
+635
+00:41:38,430 --> 00:41:40,296
+<i>i wish her to live</i>
+<i>a clean life.</i>
+
+636
+00:41:40,298 --> 00:41:41,698
+<i>A clean life.</i>
+<i>I shall pay for her upkeep</i>
+
+637
+00:41:41,700 --> 00:41:43,967
+<i>i shall pay for her upkeep</i>
+<i>with gold, which I will leave</i>
+
+638
+00:41:43,969 --> 00:41:47,704
+<i>with gold, which I will leave</i>
+<i>every month that she lives.</i>
+
+639
+00:41:47,706 --> 00:41:48,972
+<i>Every month that she lives.</i>
+<i>I wish to spare her a life like</i>
+
+640
+00:41:48,974 --> 00:41:50,573
+<i>i wish to spare her a life like</i>
+<i>my own, which has been</i>
+
+641
+00:41:50,575 --> 00:41:54,310
+<i>my own, which has been</i>
+<i>despoiled from the start.</i>
+
+642
+00:41:54,312 --> 00:41:55,979
+<i>Despoiled from the start.</i>
+<i>Please tell her I'm dead."</i>
+
+643
+00:41:55,981 --> 00:41:59,082
+<i>Please tell her I'm dead."</i>
+<i>[Thumping on door]</i>
+
+644
+00:41:59,084 --> 00:42:01,951
+<i>[Thumping on door]</i>
+<i>[Waves crashing]</i>
+
+645
+00:42:01,953 --> 00:42:05,922
+<i>[Waves crashing]</i>
+<i>[♪...]</i>
+
+646
+00:42:05,924 --> 00:42:12,795
+<i>[♪...]</i>
+<i>[Choir singing...]</i>
+
+647
+00:42:12,797 --> 00:42:30,947
+<i>So I led that clean life.</i>
+<i>I sang the orphan's song.</i>
+
+648
+00:42:30,949 --> 00:42:32,148
+<i>I sang the orphan's song.</i>
+<i>I learned that virtue and</i>
+
+649
+00:42:32,150 --> 00:42:33,783
+<i>i learned that virtue and</i>
+<i>modesty would be my path</i>
+
+650
+00:42:33,785 --> 00:42:36,452
+<i>modesty would be my path</i>
+<i>to bliss.</i>
+
+651
+00:42:36,454 --> 00:42:37,921
+<i>To bliss.</i>
+<i>Northaven private orphanage</i>
+
+652
+00:42:37,923 --> 00:42:42,692
+<i>northaven private orphanage</i>
+<i>was my abode.</i>
+
+653
+00:42:42,694 --> 00:42:43,693
+<i>Was my abode.</i>
+<i>I wish I could have called</i>
+
+654
+00:42:43,695 --> 00:42:45,929
+<i>i wish I could have called</i>
+<i>it home.</i>
+
+655
+00:42:45,931 --> 00:42:52,869
+<i>It home.</i>
+<i>[♪...]</i>
+
+656
+00:42:52,871 --> 00:43:02,745
+<i>[Gasps]</i>
+<i>[Grunts]</i>
+
+657
+00:43:02,747 --> 00:43:05,148
+<i>[Grunts]</i>
+<i>I'm sorry!</i>
+
+658
+00:43:05,150 --> 00:43:07,183
+<i>I'm sorry!</i>
+<i>Fuck...</i>
+
+659
+00:43:07,185 --> 00:43:10,086
+<i>Fuck...</i>
+<i>Oh, that's gross.</i>
+
+660
+00:43:10,088 --> 00:43:12,922
+<i>Oh, that's gross.</i>
+<i>[Grunting]</i>
+
+661
+00:43:12,924 --> 00:43:14,524
+<i>[Grunting]</i>
+<i>I've got to get home.</i>
+
+662
+00:43:14,526 --> 00:43:16,893
+<i>I've got to get home.</i>
+<i>Let me get help.</i>
+
+663
+00:43:16,895 --> 00:43:23,766
+<i>I've got your bicycle,</i>
+<i>don't worry.</i>
+
+664
+00:43:23,768 --> 00:43:26,235
+<i>Don't worry.</i>
+<i>You need stitches.</i>
+
+665
+00:43:26,237 --> 00:43:28,338
+<i>You need stitches.</i>
+<i>Were you there to enroll?</i>
+
+666
+00:43:28,340 --> 00:43:30,773
+<i>Were you there to enroll?</i>
+<i>What?</i>
+
+667
+00:43:30,775 --> 00:43:32,442
+<i>What?</i>
+<i>Have you joined the college?</i>
+
+668
+00:43:32,444 --> 00:43:34,110
+<i>Have you joined the college?</i>
+<i>I don't know.</i>
+
+669
+00:43:34,112 --> 00:43:37,447
+<i>I don't know.</i>
+<i>Leave the bike there.</i>
+
+670
+00:43:37,449 --> 00:43:46,155
+<i>[Groans] I hate blood.</i>
+<i>Could you get the</i>
+
+671
+00:43:46,157 --> 00:43:47,390
+<i>could you get the</i>
+<i>doorbell, please?</i>
+
+672
+00:43:47,392 --> 00:43:49,726
+<i>Doorbell, please?</i>
+<i>[Rings bell]</i>
+
+673
+00:43:49,728 --> 00:43:56,633
+<i>Oh, my God, what happened?</i>
+<i>He fell.</i>
+
+674
+00:43:56,635 --> 00:43:57,967
+<i>He fell.</i>
+<i>Oh, my God.</i>
+
+675
+00:43:57,969 --> 00:43:59,769
+<i>Oh, my God.</i>
+<i>Mark! Mark!</i>
+
+676
+00:43:59,771 --> 00:44:01,137
+<i>Mark! Mark!</i>
+<i>[Echoing] he's bleeding!</i>
+
+677
+00:44:01,139 --> 00:44:09,145
+<i>[Echoing] He's bleeding!</i>
+<i>[Heartbeat thumping, ♪...]</i>
+
+678
+00:44:09,147 --> 00:44:11,581
+<i>Frank, oh, Frank.</i>
+ <i>It's o.K., it's o.K.</i>
+
+679
+00:44:11,583 --> 00:44:12,582
+ <i>It's o.K., it's o.K.</i>
+<i>I got him, I got him.</i>
+
+680
+00:44:12,584 --> 00:44:13,616
+<i>I got him, I got him.</i>
+<i>Get the keys.</i>
+
+681
+00:44:13,618 --> 00:44:14,917
+<i>Get the keys.</i>
+<i>[♪...]</i>
+
+682
+00:44:14,919 --> 00:44:16,786
+<i>[♪...]</i>
+ <i>Are you his girlfriend?</i>
+
+683
+00:44:16,788 --> 00:44:18,388
+ <i>Are you his girlfriend?</i>
+<i>Where are the keys?</i>
+
+684
+00:44:18,390 --> 00:44:24,293
+<i>Where are the keys?</i>
+<i>[♪...]</i>
+
+685
+00:44:24,295 --> 00:44:25,828
+<i>[♪...]</i>
+<i>Has he told you?</i>
+
+686
+00:44:25,830 --> 00:44:28,431
+<i>Has he told you?</i>
+<i>Oh...</i>
+
+687
+00:44:28,433 --> 00:44:29,165
+<i>Oh...</i>
+ <i>Got the keys?</i>
+
+688
+00:44:29,167 --> 00:44:32,335
+ <i>Got the keys?</i>
+ <i>Yeah.</i>
+
+689
+00:44:32,337 --> 00:44:38,107
+ <i>Yeah.</i>
+<i>Keep it up, keep it up, Frank.</i>
+
+690
+00:44:38,109 --> 00:44:40,910
+<i>Keep it up, keep it up, Frank.</i>
+<i>Oh, God, Frank!</i>
+
+691
+00:44:40,912 --> 00:44:46,783
+<i>Oh, God, Frank!</i>
+<i>[♪...]</i>
+
+692
+00:44:46,785 --> 00:45:07,270
+<i>[Music changes]</i>
+
+693
+00:45:07,272 --> 00:45:23,753
+<i>[♪...]</i>
+<i>Woman: ♪ don't cry...</i>
+
+694
+00:45:23,755 --> 00:45:24,654
+<i>Woman: ♪ don't cry...</i>
+<i>Pimp: Good girl.</i>
+
+695
+00:45:24,656 --> 00:45:28,324
+<i>Pimp: Good girl.</i>
+<i>♪ ...Baby, don't cry</i>
+
+696
+00:45:28,326 --> 00:45:33,963
+<i>♪ ...baby, don't cry</i>
+<i>you could do so much better.</i>
+
+697
+00:45:33,965 --> 00:45:36,232
+<i>You could do so much better.</i>
+<i>♪ dry your eyes</i>
+
+698
+00:45:36,234 --> 00:45:37,600
+<i>♪ dry your eyes</i>
+<i>[Metal stairs clatter]</i>
+
+699
+00:45:37,602 --> 00:45:39,202
+<i>[Metal stairs clatter]</i>
+<i>♪ let's be sweethearts</i>
+
+700
+00:45:39,204 --> 00:45:41,304
+<i>♪ let's be sweethearts</i>
+<i>again ♪</i>
+
+701
+00:45:41,306 --> 00:45:43,806
+<i>Again ♪</i>
+<i>♪ oh...</i>
+
+702
+00:45:43,808 --> 00:45:45,074
+<i>♪ Oh...</i>
+<i>Pimp: Oi...</i>
+
+703
+00:45:45,076 --> 00:45:46,943
+<i>Pimp: Oi...</i>
+<i>Would you like to kiss me?</i>
+
+704
+00:45:46,945 --> 00:45:47,810
+<i>Would you like to kiss me?</i>
+<i>What the fuck...?</i>
+
+705
+00:45:47,812 --> 00:45:48,845
+<i>What the fuck...?</i>
+<i>Why?</i>
+
+706
+00:45:48,847 --> 00:45:50,913
+<i>Why?</i>
+<i>In celebration of</i>
+
+707
+00:45:50,915 --> 00:45:55,752
+<i>in celebration of</i>
+<i>my wickedness.</i>
+
+708
+00:45:55,754 --> 00:45:56,953
+<i>My wickedness.</i>
+<i>♪ come on,</i>
+
+709
+00:45:56,955 --> 00:45:59,055
+<i>♪ come on,</i>
+<i>come on, sweetheart ♪</i>
+
+710
+00:45:59,057 --> 00:46:02,492
+<i>Come on, sweetheart ♪</i>
+<i>♪ and let's try it over again</i>
+
+711
+00:46:02,494 --> 00:46:04,927
+<i>♪ and let's try it over again</i>
+<i>[Clara humming...]</i>
+
+712
+00:46:04,929 --> 00:46:08,631
+<i>[Clara humming...]</i>
+<i>♪ oh, don't cry</i>
+
+713
+00:46:08,633 --> 00:46:11,167
+<i>♪ oh, don't cry</i>
+<i>♪ don't cry, baby</i>
+
+714
+00:46:11,169 --> 00:46:14,470
+<i>♪ don't cry, baby</i>
+<i>♪ don't cry,</i>
+
+715
+00:46:14,472 --> 00:46:18,007
+<i>♪ don't cry,</i>
+<i>don't cry ♪</i>
+
+716
+00:46:18,009 --> 00:46:21,010
+<i>Don't cry ♪</i>
+<i>♪ dry your eyes</i>
+
+717
+00:46:21,012 --> 00:46:25,815
+<i>♪ dry your eyes</i>
+<i>and let's be sweethearts again ♪</i>
+
+718
+00:46:25,817 --> 00:46:27,416
+<i>And let's be sweethearts again ♪</i>
+<i>♪ oh...</i>
+
+719
+00:46:27,418 --> 00:46:29,652
+<i>♪ Oh...</i>
+<i>♪ 'cause you know,</i>
+
+720
+00:46:29,654 --> 00:46:31,954
+<i>♪ 'cause you know,</i>
+<i>you know I didn't mean... ♪</i>
+
+721
+00:46:31,956 --> 00:46:35,324
+<i>You know I didn't mean... ♪</i>
+<i>[Pimp groaning, grunting]</i>
+
+722
+00:46:35,326 --> 00:46:39,295
+<i>[Pimp groaning, grunting]</i>
+<i>♪ ...To treat you so mean</i>
+
+723
+00:46:39,297 --> 00:46:41,264
+<i>♪ ...to treat you so mean</i>
+<i>♪ come on, come on...</i>
+
+724
+00:46:41,266 --> 00:46:42,899
+<i>♪ Come on, come on...</i>
+<i>[Clara moaning]</i>
+
+725
+00:46:42,901 --> 00:46:48,571
+<i>[Clara moaning]</i>
+<i>♪ let's try it over again</i>
+
+726
+00:46:48,573 --> 00:46:51,307
+<i>♪ let's try it over again</i>
+<i>♪ oh, don't cry</i>
+
+727
+00:46:51,309 --> 00:46:52,275
+<i>♪ oh, don't cry</i>
+<i>♪ don't cry,</i>
+
+728
+00:46:52,277 --> 00:46:54,944
+<i>♪ don't cry,</i>
+<i>don't cry, baby... ♪</i>
+
+729
+00:46:54,946 --> 00:46:55,778
+<i>Don't cry, baby... ♪</i>
+<i>the world'll be more</i>
+
+730
+00:46:55,780 --> 00:46:57,246
+<i>the world'll be more</i>
+<i>beautiful without you.</i>
+
+731
+00:46:57,248 --> 00:46:59,182
+<i>Beautiful without you.</i>
+<i>♪ don't cry, don't cry,</i>
+
+732
+00:46:59,184 --> 00:47:01,818
+<i>♪ don't cry, don't cry,</i>
+<i>don't cry ♪</i>
+
+733
+00:47:01,820 --> 00:47:04,587
+<i>Don't cry ♪</i>
+<i>♪ dry your eyes</i>
+
+734
+00:47:04,589 --> 00:47:08,191
+<i>♪ dry your eyes</i>
+<i>♪ let's be sweethearts again</i>
+
+735
+00:47:08,193 --> 00:47:09,692
+<i>♪ let's be sweethearts again</i>
+<i>it's all right.</i>
+
+736
+00:47:09,694 --> 00:47:10,459
+<i>It's all right.</i>
+<i>Gotcha.</i>
+
+737
+00:47:10,461 --> 00:47:11,961
+<i>Gotcha.</i>
+<i>It's o.K.</i>
+
+738
+00:47:11,963 --> 00:47:13,963
+<i>It's o.K.</i>
+<i>It's o.K.</i>
+
+739
+00:47:13,965 --> 00:47:15,264
+<i>It's o.K.</i>
+<i>I want to die.</i>
+
+740
+00:47:15,266 --> 00:47:16,833
+<i>I want to die.</i>
+<i>No, you don't.</i>
+
+741
+00:47:16,835 --> 00:47:19,001
+<i>No, you don't.</i>
+<i>Not today.</i>
+
+742
+00:47:19,003 --> 00:47:20,002
+<i>Not today.</i>
+<i>If you still want to die</i>
+
+743
+00:47:20,004 --> 00:47:20,903
+<i>if you still want to die</i>
+<i>tomorrow, I'll finish you</i>
+
+744
+00:47:20,905 --> 00:47:24,273
+<i>tomorrow, I'll finish you</i>
+<i>off myself. [Chuckles]</i>
+
+745
+00:47:24,275 --> 00:47:35,785
+<i>[Indistinct conversations...]</i>
+
+746
+00:47:35,787 --> 00:47:44,160
+<i>[Door creaks]</i>
+
+747
+00:47:44,162 --> 00:47:51,734
+<i>[Door closes]</i>
+
+748
+00:47:51,736 --> 00:48:03,880
+<i>[♪...]</i>
+
+749
+00:48:03,882 --> 00:48:21,264
+<i>[Eleanor breathing heavily]</i>
+<i>[Heartbeat thumping]</i>
+
+750
+00:48:21,266 --> 00:48:22,999
+<i>[Heartbeat thumping]</i>
+<i>[♪...]</i>
+
+751
+00:48:23,001 --> 00:48:30,206
+<i>[Door opens]</i>
+
+752
+00:48:30,208 --> 00:48:43,452
+<i>Hello?</i>
+<i>Oh, hi.</i>
+
+753
+00:48:43,454 --> 00:48:49,025
+<i>Oh, hi.</i>
+<i>Is it still visiting?</i>
+
+754
+00:48:49,027 --> 00:48:50,860
+<i>Is it still visiting?</i>
+<i>Thanks for bringing him home.</i>
+
+755
+00:48:50,862 --> 00:48:57,900
+<i>He hasn't told me anything</i>
+<i>about you.</i>
+
+756
+00:48:57,902 --> 00:49:00,937
+<i>About you.</i>
+<i>That's boys for you, isn't it?</i>
+
+757
+00:49:00,939 --> 00:49:02,905
+<i>That's boys for you, isn't it?</i>
+<i>You been going out for long?</i>
+
+758
+00:49:02,907 --> 00:49:04,273
+<i>You been going out for long?</i>
+<i>We just met.</i>
+
+759
+00:49:04,275 --> 00:49:06,976
+<i>We just met.</i>
+<i>Oh, oh.</i>
+
+760
+00:49:06,978 --> 00:49:09,445
+<i>Oh, oh.</i>
+<i>I'm glad.</i>
+
+761
+00:49:09,447 --> 00:49:11,580
+<i>I'm glad.</i>
+<i>What's your name?</i>
+
+762
+00:49:11,582 --> 00:49:13,049
+<i>What's your name?</i>
+<i>Eleanor.</i>
+
+763
+00:49:13,051 --> 00:49:16,852
+<i>Eleanor.</i>
+<i>Gabi.</i>
+
+764
+00:49:16,854 --> 00:49:26,929
+<i>He takes anti-coagulants.</i>
+<i>That's why he bled so much,</i>
+
+765
+00:49:26,931 --> 00:49:28,965
+<i>that's why he bled so much,</i>
+<i>that's what you're wondering.</i>
+
+766
+00:49:28,967 --> 00:49:29,999
+<i>That's what you're wondering.</i>
+<i>He's been fighting leukemia</i>
+
+767
+00:49:30,001 --> 00:49:33,970
+<i>he's been fighting leukemia</i>
+<i>for years.</i>
+
+768
+00:49:33,972 --> 00:49:34,870
+<i>For years.</i>
+<i>It's in remission now,</i>
+
+769
+00:49:34,872 --> 00:49:39,008
+<i>it's in remission now,</i>
+<i>so we're hoping it's all over.</i>
+
+770
+00:49:39,010 --> 00:49:40,776
+<i>So we're hoping it's all over.</i>
+<i>So full of life.</i>
+
+771
+00:49:40,778 --> 00:49:51,253
+<i>Please don't tell him</i>
+<i>i was here.</i>
+
+772
+00:49:51,255 --> 00:50:10,840
+<i>[Door opens and closes]</i>
+<i>[♪...]</i>
+
+773
+00:50:10,842 --> 00:50:52,815
+<i>Woman: Angel...</i>
+<i>[♪...]</i>
+
+774
+00:50:52,817 --> 00:51:00,823
+<i>Peace be with you.</i>
+<i>May light shine upon you.</i>
+
+775
+00:51:00,825 --> 00:51:06,562
+<i>May light shine upon you.</i>
+<i>You came for me...</i>
+
+776
+00:51:06,564 --> 00:51:10,399
+<i>You came for me...</i>
+<i>[Breathing with difficulty]</i>
+
+777
+00:51:10,401 --> 00:51:11,667
+<i>[Breathing with difficulty]</i>
+<i>Forgive me for what</i>
+
+778
+00:51:11,669 --> 00:51:13,335
+<i>forgive me for what</i>
+<i>i must do.</i>
+
+779
+00:51:13,337 --> 00:51:19,742
+<i>I must do.</i>
+<i>[♪...]</i>
+
+780
+00:51:19,744 --> 00:51:33,255
+<i>[Women shriek, laugh]</i>
+<i>Woman: Oh, hi.</i>
+
+781
+00:51:33,257 --> 00:51:36,725
+<i>Woman: Oh, hi.</i>
+<i>Woman 2: Hi.</i>
+
+782
+00:51:36,727 --> 00:51:40,129
+<i>Woman 2: Hi.</i>
+<i>Do you speak? [Women giggle]</i>
+
+783
+00:51:40,131 --> 00:51:42,264
+<i>Do you speak? [Women giggle]</i>
+<i>Speak English?</i>
+
+784
+00:51:42,266 --> 00:51:43,933
+<i>Speak English?</i>
+<i>You schoolgirl thing?</i>
+
+785
+00:51:43,935 --> 00:51:47,870
+<i>You schoolgirl thing?</i>
+<i>[Both laugh]</i>
+
+786
+00:51:47,872 --> 00:51:49,638
+<i>[Both laugh]</i>
+<i>She better pay like she say</i>
+
+787
+00:51:49,640 --> 00:51:51,941
+<i>she better pay like she say</i>
+<i>or I'll say no further.</i>
+
+788
+00:51:51,943 --> 00:51:54,076
+<i>Or I'll say no further.</i>
+<i>Maybe we do lesbian thing.</i>
+
+789
+00:51:54,078 --> 00:51:55,945
+<i>Maybe we do lesbian thing.</i>
+<i>I don't mind.</i>
+
+790
+00:51:55,947 --> 00:51:57,413
+<i>I don't mind.</i>
+<i>That's my little baby sister.</i>
+
+791
+00:51:57,415 --> 00:51:58,280
+<i>That's my little baby sister.</i>
+<i>She doesn't drink,</i>
+
+792
+00:51:58,282 --> 00:51:59,348
+<i>she doesn't drink,</i>
+<i>she doesn't join in.</i>
+
+793
+00:51:59,350 --> 00:51:59,982
+<i>She doesn't join in.</i>
+<i>You leave her be,</i>
+
+794
+00:51:59,984 --> 00:52:01,417
+<i>you leave her be,</i>
+<i>do you understand?</i>
+
+795
+00:52:01,419 --> 00:52:03,018
+<i>Do you understand?</i>
+<i>Now, your gentlemen are</i>
+
+796
+00:52:03,020 --> 00:52:04,420
+<i>now, your gentlemen are</i>
+<i>waiting for you.</i>
+
+797
+00:52:04,422 --> 00:52:05,921
+<i>Waiting for you.</i>
+<i>Now, you be professional, o.K.,</i>
+
+798
+00:52:05,923 --> 00:52:06,789
+<i>now, you be professional, o.K.,</i>
+<i>otherwise you're back sucking</i>
+
+799
+00:52:06,791 --> 00:52:08,958
+<i>otherwise you're back sucking</i>
+<i>cocks on the street-- out!</i>
+
+800
+00:52:08,960 --> 00:52:11,293
+<i>Cocks on the street-- out!</i>
+<i>[Music playing in distance...]</i>
+
+801
+00:52:11,295 --> 00:52:12,495
+<i>[Music playing in distance...]</i>
+<i>I'll try and keep you out</i>
+
+802
+00:52:12,497 --> 00:52:13,229
+<i>I'll try and keep you out</i>
+<i>of this, o.K.?</i>
+
+803
+00:52:13,231 --> 00:52:14,063
+<i>Of this, o.K.?</i>
+<i>In case you shock me?</i>
+
+804
+00:52:14,065 --> 00:52:15,097
+<i>In case you shock me?</i>
+<i>Look, we need the money.</i>
+
+805
+00:52:15,099 --> 00:52:15,798
+<i>Look, we need the money.</i>
+<i>I'm not complaining.</i>
+
+806
+00:52:15,800 --> 00:52:16,765
+<i>I'm not complaining.</i>
+<i>Well, then wipe that prissy</i>
+
+807
+00:52:16,767 --> 00:52:18,134
+<i>well, then wipe that prissy</i>
+<i>look off your face.</i>
+
+808
+00:52:18,136 --> 00:52:19,435
+<i>Look off your face.</i>
+<i>How can I be prissy when</i>
+
+809
+00:52:19,437 --> 00:52:20,636
+<i>how can I be prissy when</i>
+<i>I've seen it all a thousand</i>
+
+810
+00:52:20,638 --> 00:52:21,704
+<i>I've seen it all a thousand</i>
+<i>times before?</i>
+
+811
+00:52:21,706 --> 00:52:22,471
+<i>Times before?</i>
+<i>Well, what else are we</i>
+
+812
+00:52:22,473 --> 00:52:24,607
+<i>well, what else are we</i>
+<i>supposed to do?</i>
+
+813
+00:52:24,609 --> 00:52:25,808
+<i>Supposed to do?</i>
+<i>I know I won't get your thanks</i>
+
+814
+00:52:25,810 --> 00:52:26,609
+<i>i know I won't get your thanks</i>
+<i>or your gratitude or</i>
+
+815
+00:52:26,611 --> 00:52:27,409
+<i>or your gratitude or</i>
+<i>your respect.</i>
+
+816
+00:52:27,411 --> 00:52:28,577
+<i>Your respect.</i>
+<i>You could do so much better.</i>
+
+817
+00:52:28,579 --> 00:52:29,845
+<i>You could do so much better.</i>
+<i>I put money on the table.</i>
+
+818
+00:52:29,847 --> 00:52:30,913
+<i>I put money on the table.</i>
+<i>That's what mothers do!</i>
+
+819
+00:52:30,915 --> 00:52:32,348
+<i>That's what mothers do!</i>
+<i>Mothers care about the lives</i>
+
+820
+00:52:32,350 --> 00:52:34,150
+<i>mothers care about the lives</i>
+<i>their children live.</i>
+
+821
+00:52:34,152 --> 00:52:36,685
+<i>Their children live.</i>
+<i>What kind of life is this?</i>
+
+822
+00:52:36,687 --> 00:52:40,289
+<i>What kind of life is this?</i>
+<i>[Music continues in distance...]</i>
+
+823
+00:52:40,291 --> 00:52:42,825
+<i>[Music continues in distance...]</i>
+<i>Woman: ♪ ...Care for ya</i>
+
+824
+00:52:42,827 --> 00:52:45,427
+<i>woman: ♪ ...Care for ya</i>
+<i>♪ just remember,</i>
+
+825
+00:52:45,429 --> 00:52:48,898
+<i>♪ just remember,</i>
+<i>i l... l... l... l...</i>
+
+826
+00:52:48,900 --> 00:52:51,200
+<i>I l... l... l... l...</i>
+<i>L... love ya. ♪</i>
+
+827
+00:52:51,202 --> 00:53:06,582
+<i>[Indistinct conversations]</i>
+
+828
+00:53:06,584 --> 00:53:10,953
+<i>[♪...]</i>
+<i>Man: Humans need to</i>
+
+829
+00:53:10,955 --> 00:53:11,987
+<i>man: Humans need to</i>
+<i>tell stories.</i>
+
+830
+00:53:11,989 --> 00:53:13,956
+<i>Tell stories.</i>
+<i>It's a fundamental and</i>
+
+831
+00:53:13,958 --> 00:53:16,959
+<i>it's a fundamental and</i>
+<i>uniting thing.</i>
+
+832
+00:53:16,961 --> 00:53:18,260
+<i>Uniting thing.</i>
+<i>It's through stories that we</i>
+
+833
+00:53:18,262 --> 00:53:20,963
+<i>it's through stories that we</i>
+<i>come to understand ourselves and</i>
+
+834
+00:53:20,965 --> 00:53:25,134
+<i>come to understand ourselves and</i>
+<i>we come to understand the world.</i>
+
+835
+00:53:25,136 --> 00:53:29,805
+<i>We come to understand the world.</i>
+<i>So, close your eyes.</i>
+
+836
+00:53:29,807 --> 00:53:31,674
+<i>So, close your eyes.</i>
+<i>It's our own experience that is</i>
+
+837
+00:53:31,676 --> 00:53:33,776
+<i>it's our own experience that is</i>
+<i>the starting point for all</i>
+
+838
+00:53:33,778 --> 00:53:36,912
+<i>the starting point for all</i>
+<i>our creativity.</i>
+
+839
+00:53:36,914 --> 00:53:37,479
+<i>Our creativity.</i>
+<i>Think about your</i>
+
+840
+00:53:37,481 --> 00:53:41,884
+<i>think about your</i>
+<i>early childhood.</i>
+
+841
+00:53:41,886 --> 00:53:45,888
+<i>Early childhood.</i>
+<i>And when I say your name,</i>
+
+842
+00:53:45,890 --> 00:53:48,757
+<i>and when I say your name,</i>
+<i>give me a memory, a, a detail,</i>
+
+843
+00:53:48,759 --> 00:53:51,794
+<i>give me a memory, a, a detail,</i>
+<i>a sensation, a feeling...</i>
+
+844
+00:53:51,796 --> 00:53:52,795
+<i>A sensation, a feeling...</i>
+<i>[Voice fading] the first thing</i>
+
+845
+00:53:52,797 --> 00:53:54,930
+<i>[voice fading] The first thing</i>
+<i>that comes into your mind, o.K.?</i>
+
+846
+00:53:54,932 --> 00:53:56,432
+<i>That comes into your mind, o.K.?</i>
+<i>[Girl coughing]</i>
+
+847
+00:53:56,434 --> 00:54:03,205
+<i>[Girl coughing]</i>
+<i>[♪...]</i>
+
+848
+00:54:03,207 --> 00:54:20,055
+<i>[Whispers] Eleanor.</i>
+<i>[♪...]</i>
+
+849
+00:54:20,057 --> 00:54:21,257
+<i>[♪...]</i>
+<i>Teacher: Eleanor.</i>
+
+850
+00:54:21,259 --> 00:54:23,993
+<i>Teacher: Eleanor.</i>
+<i>Mother.</i>
+
+851
+00:54:23,995 --> 00:54:27,663
+<i>Mother.</i>
+<i>What about her?</i>
+
+852
+00:54:27,665 --> 00:54:28,797
+<i>What about her?</i>
+<i>She would come to the</i>
+
+853
+00:54:28,799 --> 00:54:31,967
+<i>she would come to the</i>
+<i>skylight at night.</i>
+
+854
+00:54:31,969 --> 00:54:33,902
+<i>Skylight at night.</i>
+<i>I was afraid.</i>
+
+855
+00:54:33,904 --> 00:54:37,473
+<i>I was afraid.</i>
+<i>Why?</i>
+
+856
+00:54:37,475 --> 00:54:38,841
+<i>Why?</i>
+<i>They told me since infancy</i>
+
+857
+00:54:38,843 --> 00:54:42,845
+<i>they told me since infancy</i>
+<i>that she was dead.</i>
+
+858
+00:54:42,847 --> 00:54:46,815
+<i>That she was dead.</i>
+<i>And then?</i>
+
+859
+00:54:46,817 --> 00:54:48,951
+<i>And then?</i>
+<i>[♪...]</i>
+
+860
+00:54:48,953 --> 00:54:49,785
+<i>[♪...]</i>
+<i>Eleanor: The face at the</i>
+
+861
+00:54:49,787 --> 00:54:50,886
+<i>Eleanor: The face at the</i>
+<i>window had more substance</i>
+
+862
+00:54:50,888 --> 00:54:51,820
+<i>window had more substance</i>
+<i>than a ghost.</i>
+
+863
+00:54:51,822 --> 00:54:53,555
+<i>Than a ghost.</i>
+<i>O.K., thanks.</i>
+
+864
+00:54:53,557 --> 00:54:55,157
+<i>O.K., thanks.</i>
+ <i>And yet..</i>Frank.
+
+865
+00:54:55,159 --> 00:54:56,892
+ <i>And yet..</i>Frank.
+<i>I knew it could not live.</i>
+
+866
+00:54:56,894 --> 00:55:00,929
+<i>I knew it could not live.</i>
+<i>Frank: Yeah, um, my friend,</i>
+
+867
+00:55:00,931 --> 00:55:05,334
+<i>Frank: Yeah, um, my friend,</i>
+<i>David Atkinson.</i>
+
+868
+00:55:05,336 --> 00:55:06,402
+<i>David Atkinson.</i>
+<i>I'm the only person who can</i>
+
+869
+00:55:06,404 --> 00:55:08,771
+<i>I'm the only person who can</i>
+<i>see him.</i>
+
+870
+00:55:08,773 --> 00:55:11,940
+<i>See him.</i>
+<i>Um... I was probably too much</i>
+
+871
+00:55:11,942 --> 00:55:12,941
+<i>um... I was probably too much</i>
+<i>alone, whatever,</i>
+
+872
+00:55:12,943 --> 00:55:16,578
+<i>alone, whatever,</i>
+<i>and David Atkinson used to</i>
+
+873
+00:55:16,580 --> 00:55:21,283
+<i>and David Atkinson used to</i>
+<i>appear in my room.</i>
+
+874
+00:55:21,285 --> 00:55:24,019
+<i>Appear in my room.</i>
+<i>And we'd play.</i>
+
+875
+00:55:24,021 --> 00:55:26,755
+<i>And we'd play.</i>
+<i>And I guess I grew out of him.</i>
+
+876
+00:55:26,757 --> 00:55:29,091
+<i>And I guess I grew out of him.</i>
+<i>He came till I was about</i>
+
+877
+00:55:29,093 --> 00:55:31,760
+<i>he came till I was about</i>
+<i>seven or eight.</i>
+
+878
+00:55:31,762 --> 00:55:33,395
+<i>Seven or eight.</i>
+<i>Yeah.</i>
+
+879
+00:55:33,397 --> 00:55:35,130
+<i>Yeah.</i>
+<i>Thank you.</i>
+
+880
+00:55:35,132 --> 00:55:35,764
+<i>Thank you.</i>
+<i>O.K.</i>
+
+881
+00:55:35,766 --> 00:55:36,765
+<i>O.K.</i>
+<i>The really funny thing</i>
+
+882
+00:55:36,767 --> 00:55:40,202
+<i>the really funny thing</i>
+<i>is that...</i>
+
+883
+00:55:40,204 --> 00:55:43,205
+<i>Is that...</i>
+<i>Years later, I found out</i>
+
+884
+00:55:43,207 --> 00:55:44,606
+<i>years later, I found out</i>
+<i>that the family before us in</i>
+
+885
+00:55:44,608 --> 00:55:47,976
+<i>that the family before us in</i>
+<i>the house were called Atkinson.</i>
+
+886
+00:55:47,978 --> 00:55:49,244
+<i>The house were called Atkinson.</i>
+<i>They lost a baby,</i>
+
+887
+00:55:49,246 --> 00:55:52,514
+<i>they lost a baby,</i>
+<i>like a cot death.</i>
+
+888
+00:55:52,516 --> 00:55:55,651
+<i>Like a cot death.</i>
+<i>And the baby's name...</i>
+
+889
+00:55:55,653 --> 00:55:57,186
+<i>And the baby's name...</i>
+<i>Was David.</i>
+
+890
+00:55:57,188 --> 00:55:59,188
+<i>Was David.</i>
+<i>Uh-huh.</i>
+
+891
+00:55:59,190 --> 00:56:01,290
+<i>Uh-huh.</i>
+<i>Good story.</i>
+
+892
+00:56:01,292 --> 00:56:03,726
+<i>Good story.</i>
+<i>So, everyone up.</i>
+
+893
+00:56:03,728 --> 00:56:06,762
+<i>So, everyone up.</i>
+<i>Now, I want you to think about</i>
+
+894
+00:56:06,764 --> 00:56:12,868
+<i>now, I want you to think about</i>
+<i>who you are and next time,</i>
+
+895
+00:56:12,870 --> 00:56:15,804
+<i>who you are and next time,</i>
+<i>i would like an essay</i>
+
+896
+00:56:15,806 --> 00:56:19,908
+<i>i would like an essay</i>
+<i>entitled...</i>
+
+897
+00:56:19,910 --> 00:56:25,981
+<i>Entitled...</i>
+<i>"I am."</i>
+
+898
+00:56:25,983 --> 00:56:29,985
+<i>"I am."</i>
+<i>And there's only one rule.</i>
+
+899
+00:56:29,987 --> 00:56:32,488
+<i>And there's only one rule.</i>
+<i>It has to be true.</i>
+
+900
+00:56:32,490 --> 00:56:37,926
+<i>It has to be true.</i>
+<i>You don't belong here.</i>
+
+901
+00:56:37,928 --> 00:56:41,663
+<i>You don't belong here.</i>
+<i>This is my mom's hometown.</i>
+
+902
+00:56:41,665 --> 00:56:46,235
+<i>This is my mom's hometown.</i>
+<i>We came when I got ill.</i>
+
+903
+00:56:46,237 --> 00:56:49,938
+<i>We came when I got ill.</i>
+<i>The healthcare over here is free</i>
+
+904
+00:56:49,940 --> 00:56:56,779
+<i>the healthcare over here is free</i>
+<i>and I was... something of a, um,</i>
+
+905
+00:56:56,781 --> 00:57:03,652
+<i>and I was... something of a, um,</i>
+<i>drain on our limited resources.</i>
+
+906
+00:57:03,654 --> 00:57:06,789
+<i>Drain on our limited resources.</i>
+<i>My dad commutes.</i>
+
+907
+00:57:06,791 --> 00:57:08,056
+<i>My dad commutes.</i>
+<i>I don't think he likes it much,</i>
+
+908
+00:57:08,058 --> 00:57:12,594
+<i>i don't think he likes it much,</i>
+<i>but... what are you gonna do?</i>
+
+909
+00:57:12,596 --> 00:57:16,532
+<i>But... what are you gonna do?</i>
+<i>[Dog barks, gulls caw]</i>
+
+910
+00:57:16,534 --> 00:57:31,079
+<i>My mom said you came to see me</i>
+<i>when I was in hospital.</i>
+
+911
+00:57:31,081 --> 00:57:37,953
+<i>When I was in hospital.</i>
+<i>She, um, she thinks...</i>
+
+912
+00:57:37,955 --> 00:57:41,056
+<i>She, um, she thinks...</i>
+<i>That you're my girl.</i>
+
+913
+00:57:41,058 --> 00:58:10,986
+<i>Would that be so bad?</i>
+<i>Because I--</i>
+
+914
+00:58:10,988 --> 00:58:13,956
+<i>because I--</i>
+<i>it would be fatal.</i>
+
+915
+00:58:13,958 --> 00:58:18,560
+<i>It would be fatal.</i>
+<i>[♪...]</i>
+
+916
+00:58:18,562 --> 00:58:21,296
+<i>[♪...]</i>
+<i>Look...</i>
+
+917
+00:58:21,298 --> 00:58:22,898
+<i>Look...</i>
+<i>I know I'm,</i>
+
+918
+00:58:22,900 --> 00:58:23,932
+<i>i know I'm,</i>
+<i>I'm ill and all, but--</i>
+
+919
+00:58:23,934 --> 00:58:26,435
+<i>I'm ill and all, but--</i>
+<i>no...</i>
+
+920
+00:58:26,437 --> 00:58:30,906
+<i>No...</i>
+<i>For me.</i>
+
+921
+00:58:30,908 --> 00:58:37,379
+<i>[Gasps]</i>
+
+922
+00:58:37,381 --> 00:58:46,121
+<i>If you lived with a secret and</i>
+<i>the secret meant that you must</i>
+
+923
+00:58:46,123 --> 00:58:51,426
+<i>the secret meant that you must</i>
+<i>always lie and be alone and</i>
+
+924
+00:58:51,428 --> 00:58:52,461
+<i>always lie and be alone and</i>
+<i>you'd always lived that way</i>
+
+925
+00:58:52,463 --> 00:58:56,532
+<i>you'd always lived that way</i>
+<i>and yet you longed for change,</i>
+
+926
+00:58:56,534 --> 00:58:59,701
+<i>and yet you longed for change,</i>
+<i>what would you do?</i>
+
+927
+00:58:59,703 --> 00:59:16,084
+<i>I'd tell the secret.</i>
+<i>[♪...]</i>
+
+928
+00:59:16,086 --> 00:59:17,753
+<i>[♪...]</i>
+<i>[Gasping and sighing]</i>
+
+929
+00:59:17,755 --> 00:59:19,788
+<i>[Gasping and sighing]</i>
+<i>Tell me.</i>
+
+930
+00:59:19,790 --> 00:59:24,226
+<i>Tell me.</i>
+<i>[♪...]</i>
+
+931
+00:59:24,228 --> 00:59:42,477
+<i>[Breathing heavily]</i>
+
+932
+00:59:42,479 --> 00:59:51,887
+<i>[Breathing calms]</i>
+<i>[♪...]</i>
+
+933
+00:59:51,889 --> 00:59:52,821
+<i>[♪...]</i>
+<i>Eleanor: My mother did</i>
+
+934
+00:59:52,823 --> 00:59:54,990
+<i>Eleanor: My mother did</i>
+<i>three things for me.</i>
+
+935
+00:59:54,992 --> 00:59:56,925
+<i>Three things for me.</i>
+<i>One, she spared my life the day</i>
+
+936
+00:59:56,927 --> 00:59:59,795
+<i>one, she spared my life the day</i>
+<i>that I was born.</i>
+
+937
+00:59:59,797 --> 01:00:01,930
+<i>That I was born.</i>
+<i>Two, she paid for my upkeep on</i>
+
+938
+01:00:01,932 --> 01:00:05,233
+<i>two, she paid for my upkeep on</i>
+<i>her knees and on her back.</i>
+
+939
+01:00:05,235 --> 01:00:07,936
+<i>Her knees and on her back.</i>
+<i>And three, she gave me the</i>
+
+940
+01:00:07,938 --> 01:00:13,275
+<i>and three, she gave me the</i>
+<i>story I can never tell.</i>
+
+941
+01:00:13,277 --> 01:00:15,944
+<i>Story I can never tell.</i>
+<i>[Woman coughing]</i>
+
+942
+01:00:15,946 --> 01:00:23,952
+<i>[Woman coughing]</i>
+<i>[♪...]</i>
+
+943
+01:00:23,954 --> 01:00:28,991
+<i>By the time I was six,</i>
+<i>she was dying.</i>
+
+944
+01:00:28,993 --> 01:00:31,927
+<i>She was dying.</i>
+<i>Girls like Clara didn't last.</i>
+
+945
+01:00:31,929 --> 01:00:33,962
+<i>Girls like Clara didn't last.</i>
+<i>Her lungs were rotting,</i>
+
+946
+01:00:33,964 --> 01:00:35,797
+<i>her lungs were rotting,</i>
+<i>but she clung steadfastly</i>
+
+947
+01:00:35,799 --> 01:00:36,898
+<i>but she clung steadfastly</i>
+<i>to her brutal life.</i>
+
+948
+01:00:36,900 --> 01:00:39,968
+<i>To her brutal life.</i>
+<i>[Clara coughs violently]</i>
+
+949
+01:00:39,970 --> 01:00:44,706
+<i>[Clara coughs violently]</i>
+<i>[♪...]</i>
+
+950
+01:00:44,708 --> 01:00:50,912
+<i>[♪...]</i>
+<i>[Coughing]</i>
+
+951
+01:00:50,914 --> 01:00:52,748
+<i>[Coughing]</i>
+<i>Where have you been?</i>
+
+952
+01:00:52,750 --> 01:00:54,349
+<i>Where have you been?</i>
+<i>The captain's been waiting.</i>
+
+953
+01:00:54,351 --> 01:00:58,320
+<i>The captain's been waiting.</i>
+<i>[♪...]</i>
+
+954
+01:00:58,322 --> 01:00:59,655
+<i>[♪...]</i>
+ <i>Captain ruthven had returnd</i>
+
+955
+01:00:59,657 --> 01:01:00,889
+ <i>captain ruthven had returnd</i>
+<i>from the wars.</i>
+
+956
+01:01:00,891 --> 01:01:01,757
+<i>From the wars.</i>
+<i>Make sure you punish</i>
+
+957
+01:01:01,759 --> 01:01:03,425
+<i>make sure you punish</i>
+<i>her, sir.</i>
+
+958
+01:01:03,427 --> 01:01:04,426
+<i>Her, sir.</i>
+ <i>Of all the harlots he had</i>
+
+959
+01:01:04,428 --> 01:01:06,962
+ <i>of all the harlots he had</i>
+<i>ever made, Clara was</i>
+
+960
+01:01:06,964 --> 01:01:09,431
+<i>ever made, Clara was</i>
+<i>his favorite.</i>
+
+961
+01:01:09,433 --> 01:01:15,937
+<i>His favorite.</i>
+<i>[♪...]</i>
+
+962
+01:01:15,939 --> 01:01:17,773
+<i>[♪...]</i>
+<i>You'll like this one.</i>
+
+963
+01:01:17,775 --> 01:01:18,974
+<i>You'll like this one.</i>
+<i>She fights.</i>
+
+964
+01:01:18,976 --> 01:01:22,744
+<i>She fights.</i>
+ <i>Then, one winter dawn,</i>
+
+965
+01:01:22,746 --> 01:01:24,212
+ <i>then, one winter dawn,</i>
+<i>a stranger came.</i>
+
+966
+01:01:24,214 --> 01:01:28,750
+<i>A stranger came.</i>
+<i>[♪...]</i>
+
+967
+01:01:28,752 --> 01:01:32,454
+<i>[♪...]</i>
+<i>[Man coughs]</i>
+
+968
+01:01:32,456 --> 01:01:36,725
+<i>[Man coughs]</i>
+<i>[Door creaking]</i>
+
+969
+01:01:36,727 --> 01:01:44,733
+<i>[Door creaking]</i>
+<i>[Clara coughing]</i>
+
+970
+01:01:44,735 --> 01:01:54,810
+<i>Are you unwell?</i>
+<i>No, sir. [Coughs]</i>
+
+971
+01:01:54,812 --> 01:01:57,813
+<i>No, sir. [Coughs]</i>
+<i>[♪...]</i>
+
+972
+01:01:57,815 --> 01:02:15,664
+<i>I remember you.</i>
+<i>I'm much changed, sir.</i>
+
+973
+01:02:15,666 --> 01:02:18,834
+<i>I'm much changed, sir.</i>
+<i>And what of me?</i>
+
+974
+01:02:18,836 --> 01:02:20,969
+<i>And what of me?</i>
+<i>Have I changed?</i>
+
+975
+01:02:20,971 --> 01:02:23,271
+<i>Have I changed?</i>
+<i>[♪...]</i>
+
+976
+01:02:23,273 --> 01:02:24,906
+<i>[♪...]</i>
+<i>I have.</i>
+
+977
+01:02:24,908 --> 01:02:30,278
+<i>I have.</i>
+<i>More than you could imagine.</i>
+
+978
+01:02:30,280 --> 01:02:37,919
+<i>More than you could imagine.</i>
+<i>Open the curtains.</i>
+
+979
+01:02:37,921 --> 01:02:41,256
+<i>Open the curtains.</i>
+<i>[Groans]</i>
+
+980
+01:02:41,258 --> 01:02:42,691
+<i>[Groans]</i>
+<i>Curse you, whore!</i>
+
+981
+01:02:42,693 --> 01:02:45,127
+<i>Curse you, whore!</i>
+<i>Give me the dark!</i>
+
+982
+01:02:45,129 --> 01:02:47,295
+<i>Give me the dark!</i>
+<i>[♪...]</i>
+
+983
+01:02:47,297 --> 01:02:48,296
+<i>[♪...]</i>
+<i>Does the light offend you?</i>
+
+984
+01:02:48,298 --> 01:02:53,735
+<i>Does the light offend you?</i>
+<i>[Gasps softly]</i>
+
+985
+01:02:53,737 --> 01:02:55,737
+<i>[Gasps softly]</i>
+<i>Darvell...</i>
+
+986
+01:02:55,739 --> 01:02:59,941
+<i>Darvell...</i>
+<i>My friend.</i>
+
+987
+01:02:59,943 --> 01:03:03,945
+<i>My friend.</i>
+<i>[Breathes heavily]</i>
+
+988
+01:03:03,947 --> 01:03:09,251
+<i>[Breathes heavily]</i>
+<i>But I was with you.</i>
+
+989
+01:03:09,253 --> 01:03:11,953
+<i>But I was with you.</i>
+<i>I saw you dead.</i>
+
+990
+01:03:11,955 --> 01:03:12,954
+<i>I saw you dead.</i>
+<i>And I thank you</i>
+
+991
+01:03:12,956 --> 01:03:16,258
+<i>and I thank you</i>
+<i>for your service.</i>
+
+992
+01:03:16,260 --> 01:03:19,928
+<i>For your service.</i>
+<i>[♪...]</i>
+
+993
+01:03:19,930 --> 01:03:22,764
+<i>[♪...]</i>
+<i>What do you want?</i>
+
+994
+01:03:22,766 --> 01:03:23,632
+<i>What do you want?</i>
+<i>I have not come</i>
+
+995
+01:03:23,634 --> 01:03:25,867
+<i>I have not come</i>
+<i>to take from you.</i>
+
+996
+01:03:25,869 --> 01:03:28,270
+<i>To take from you.</i>
+<i>I come to give.</i>
+
+997
+01:03:28,272 --> 01:03:30,572
+<i>I come to give.</i>
+<i>I will return at nightfall.</i>
+
+998
+01:03:30,574 --> 01:03:36,711
+<i>I will return at nightfall.</i>
+<i>Like you, I prefer the dark.</i>
+
+999
+01:03:36,713 --> 01:03:43,585
+<i>Like you, I prefer the dark.</i>
+<i>[♪...]</i>
+
+1000
+01:03:43,587 --> 01:03:44,252
+<i>[♪...]</i>
+<i>No!</i>
+
+1001
+01:03:44,254 --> 01:03:45,086
+<i>No!</i>
+<i>Bitch!</i>
+
+1002
+01:03:45,088 --> 01:03:45,987
+<i>Bitch!</i>
+<i>Eleanor: He answered her</i>
+
+1003
+01:03:45,989 --> 01:03:48,490
+<i>Eleanor: He answered her</i>
+<i>questions with blows.</i>
+
+1004
+01:03:48,492 --> 01:03:51,893
+<i>Questions with blows.</i>
+<i>As usual, she endured them.</i>
+
+1005
+01:03:51,895 --> 01:03:53,094
+<i>As usual, she endured them.</i>
+<i>And she waited for the storm</i>
+
+1006
+01:03:53,096 --> 01:03:59,367
+<i>and she waited for the storm</i>
+<i>to pass.</i>
+
+1007
+01:03:59,369 --> 01:04:03,138
+<i>To pass.</i>
+<i>[Rings bell]</i>
+
+1008
+01:04:03,140 --> 01:04:07,809
+<i>[Rings bell]</i>
+<i>[♪...]</i>
+
+1009
+01:04:07,811 --> 01:04:21,957
+<i>Frank: What kind of time</i>
+<i>do you call this?</i>
+
+1010
+01:04:21,959 --> 01:04:23,124
+<i>Do you call this?</i>
+<i>Linear time.</i>
+
+1011
+01:04:23,126 --> 01:04:24,726
+<i>Linear time.</i>
+<i>[Chuckles]</i>
+
+1012
+01:04:24,728 --> 01:04:36,938
+ <i>...as the relentless day</i>
+<i>crept on, the captain told his</i>
+
+1013
+01:04:36,940 --> 01:04:38,607
+<i>crept on, the captain told his</i>
+<i>tale of events beyond his</i>
+
+1014
+01:04:38,609 --> 01:04:41,276
+<i>tale of events beyond his</i>
+<i>understanding.</i>
+
+1015
+01:04:41,278 --> 01:04:41,877
+<i>Understanding.</i>
+<i>Ruthven: There was a</i>
+
+1016
+01:04:41,879 --> 01:04:43,278
+<i>ruthven: There was a</i>
+<i>rebellion in Ireland.</i>
+
+1017
+01:04:43,280 --> 01:04:45,580
+<i>Rebellion in Ireland.</i>
+<i>We were sent to crush it.</i>
+
+1018
+01:04:45,582 --> 01:04:48,483
+<i>We were sent to crush it.</i>
+<i>Both of us were wounded by the</i>
+
+1019
+01:04:48,485 --> 01:04:53,922
+<i>both of us were wounded by the</i>
+<i>beggarly horde.</i>
+
+1020
+01:04:53,924 --> 01:04:55,257
+<i>Beggarly horde.</i>
+<i>My wounds were superficial,</i>
+
+1021
+01:04:55,259 --> 01:04:59,561
+<i>my wounds were superficial,</i>
+<i>but darvell developed fever.</i>
+
+1022
+01:04:59,563 --> 01:05:03,198
+<i>But darvell developed fever.</i>
+<i>It decimated him.</i>
+
+1023
+01:05:03,200 --> 01:05:03,965
+<i>It decimated him.</i>
+<i>I tried to persuade him</i>
+
+1024
+01:05:03,967 --> 01:05:05,934
+<i>i tried to persuade him</i>
+<i>to come home.</i>
+
+1025
+01:05:05,936 --> 01:05:08,069
+<i>To come home.</i>
+<i>Clara: That was good of you.</i>
+
+1026
+01:05:08,071 --> 01:05:08,870
+<i>Clara: That was good of you.</i>
+<i>I knew the journey would</i>
+
+1027
+01:05:08,872 --> 01:05:13,808
+<i>I knew the journey would</i>
+<i>quicken his decline.</i>
+
+1028
+01:05:13,810 --> 01:05:17,879
+<i>Quicken his decline.</i>
+<i>Darvell was rich and naive.</i>
+
+1029
+01:05:17,881 --> 01:05:21,650
+<i>Darvell was rich and naive.</i>
+<i>He had no heir.</i>
+
+1030
+01:05:21,652 --> 01:05:23,318
+<i>He had no heir.</i>
+<i>I had begun to wish him dead...</i>
+
+1031
+01:05:23,320 --> 01:05:26,888
+<i>I had begun to wish him dead...</i>
+<i>[Coughs]</i>
+
+1032
+01:05:26,890 --> 01:05:27,889
+<i>[Coughs]</i>
+<i>...But before the grave took</i>
+
+1033
+01:05:27,891 --> 01:05:31,826
+<i>...but before the grave took</i>
+<i>him, two men entered his life.</i>
+
+1034
+01:05:31,828 --> 01:05:34,129
+<i>Him, two men entered his life.</i>
+<i>Scholars, I presumed, of dead</i>
+
+1035
+01:05:34,131 --> 01:05:38,934
+<i>scholars, I presumed, of dead</i>
+<i>languages and aged manuscripts.</i>
+
+1036
+01:05:38,936 --> 01:05:40,268
+<i>Languages and aged manuscripts.</i>
+<i>As if ancient knowledge might</i>
+
+1037
+01:05:40,270 --> 01:05:42,404
+<i>as if ancient knowledge might</i>
+<i>keep his death at bay.</i>
+
+1038
+01:05:42,406 --> 01:05:48,043
+<i>Keep his death at bay.</i>
+<i>[♪...]</i>
+
+1039
+01:05:48,045 --> 01:05:49,044
+<i>[♪...]</i>
+<i>You have been looking in the</i>
+
+1040
+01:05:49,046 --> 01:05:50,879
+<i>you have been looking in the</i>
+<i>wrong place, my son.</i>
+
+1041
+01:05:50,881 --> 01:05:58,253
+<i>Wrong place, my son.</i>
+<i>[♪...]</i>
+
+1042
+01:05:58,255 --> 01:05:59,988
+<i>[♪...]</i>
+<i>[Darvell gasps]</i>
+
+1043
+01:05:59,990 --> 01:06:03,792
+<i>[Darvell gasps]</i>
+<i>Here it is.</i>
+
+1044
+01:06:03,794 --> 01:06:07,262
+<i>Here it is.</i>
+<i>Thank you.</i>
+
+1045
+01:06:07,264 --> 01:06:08,663
+<i>Thank you.</i>
+<i>Thank you.</i>
+
+1046
+01:06:08,665 --> 01:06:15,971
+<i>Thank you.</i>
+<i>[♪...]</i>
+
+1047
+01:06:15,973 --> 01:06:17,272
+<i>[♪...]</i>
+<i>Ruthven: He told me we must</i>
+
+1048
+01:06:17,274 --> 01:06:20,308
+<i>ruthven: He told me we must</i>
+<i>find a shrine, an ancient myth</i>
+
+1049
+01:06:20,310 --> 01:06:24,446
+<i>find a shrine, an ancient myth</i>
+<i>said it had healing powers.</i>
+
+1050
+01:06:24,448 --> 01:06:25,613
+<i>Said it had healing powers.</i>
+<i>It was on an empty island</i>
+
+1051
+01:06:25,615 --> 01:06:29,918
+<i>it was on an empty island</i>
+<i>off a barren coast.</i>
+
+1052
+01:06:29,920 --> 01:06:31,119
+<i>Off a barren coast.</i>
+<i>I thought it the desperate quest</i>
+
+1053
+01:06:31,121 --> 01:06:33,088
+<i>i thought it the desperate quest</i>
+<i>of a dying man.</i>
+
+1054
+01:06:33,090 --> 01:06:41,396
+<i>Of a dying man.</i>
+<i>[♪...]</i>
+
+1055
+01:06:41,398 --> 01:06:49,838
+<i>It was a sinister black</i>
+<i>thumbnail sticking out of the</i>
+
+1056
+01:06:49,840 --> 01:06:54,709
+<i>thumbnail sticking out of the</i>
+<i>ocean, more rock than island.</i>
+
+1057
+01:06:54,711 --> 01:06:58,813
+<i>Ocean, more rock than island.</i>
+<i>[♪...]</i>
+
+1058
+01:06:58,815 --> 01:07:10,892
+<i>[Screeching, flapping]</i>
+<i>The oarsmen wouldn't set foot</i>
+
+1059
+01:07:10,894 --> 01:07:12,894
+<i>the oarsmen wouldn't set foot</i>
+<i>on the place.</i>
+
+1060
+01:07:12,896 --> 01:07:15,263
+<i>On the place.</i>
+<i>Said it was cursed.</i>
+
+1061
+01:07:15,265 --> 01:07:22,203
+<i>Said it was cursed.</i>
+<i>[♪...]</i>
+
+1062
+01:07:22,205 --> 01:07:42,991
+<i>The way was steep, but darvell</i>
+<i>kept on climbing regardless.</i>
+
+1063
+01:07:42,993 --> 01:07:44,993
+<i>Kept on climbing regardless.</i>
+<i>I thought-- well, maybe I</i>
+
+1064
+01:07:44,995 --> 01:07:46,828
+<i>i thought-- well, maybe I</i>
+<i>hoped-- his heart would</i>
+
+1065
+01:07:46,830 --> 01:07:47,996
+<i>hoped-- his heart would</i>
+<i>give way.</i>
+
+1066
+01:07:47,998 --> 01:07:50,598
+<i>Give way.</i>
+<i>[Darvell coughs]</i>
+
+1067
+01:07:50,600 --> 01:07:58,606
+<i>[Darvell coughs]</i>
+<i>[♪...]</i>
+
+1068
+01:07:58,608 --> 01:08:03,945
+<i>...is this what you've dragged</i>
+<i>us here to find?</i>
+
+1069
+01:08:03,947 --> 01:08:05,947
+<i>Us here to find?</i>
+<i>A hermit's hut?</i>
+
+1070
+01:08:05,949 --> 01:08:08,883
+<i>A hermit's hut?</i>
+<i>...I hated that place.</i>
+
+1071
+01:08:08,885 --> 01:08:11,553
+<i>...I hated that place.</i>
+<i>So many birds in the sky.</i>
+
+1072
+01:08:11,555 --> 01:08:14,622
+<i>So many birds in the sky.</i>
+<i>Almost darkened the sun.</i>
+
+1073
+01:08:14,624 --> 01:08:15,457
+<i>Almost darkened the sun.</i>
+<i>They seemed to know something</i>
+
+1074
+01:08:15,459 --> 01:08:16,891
+<i>they seemed to know something</i>
+<i>we didn't.</i>
+
+1075
+01:08:16,893 --> 01:08:19,227
+<i>We didn't.</i>
+<i>[♪...]</i>
+
+1076
+01:08:19,229 --> 01:08:21,563
+<i>[♪...]</i>
+<i>He sent me to fetch water,</i>
+
+1077
+01:08:21,565 --> 01:08:23,264
+<i>he sent me to fetch water,</i>
+<i>but that was just a ruse.</i>
+
+1078
+01:08:23,266 --> 01:08:32,440
+<i>But that was just a ruse.</i>
+<i>[♪...]</i>
+
+1079
+01:08:32,442 --> 01:08:42,750
+<i>[Darvell gasps]</i>
+<i>[♪...]</i>
+
+1080
+01:08:42,752 --> 01:08:50,925
+<i>[Darvell gasps]</i>
+<i>[Screeching, flapping,</i>
+
+1081
+01:08:50,927 --> 01:08:52,794
+<i>[screeching, flapping,</i>
+<i>whooshing]</i>
+
+1082
+01:08:52,796 --> 01:09:01,903
+<i>Whooshing]</i>
+<i>[♪...]</i>
+
+1083
+01:09:01,905 --> 01:09:43,411
+<i>I found the corpse.</i>
+<i>His breath had gone.</i>
+
+1084
+01:09:43,413 --> 01:09:45,813
+<i>His breath had gone.</i>
+<i>His soul had fled.</i>
+
+1085
+01:09:45,815 --> 01:09:48,816
+<i>His soul had fled.</i>
+<i>[Chuckles]</i>
+
+1086
+01:09:48,818 --> 01:09:52,387
+<i>[Chuckles]</i>
+<i>And I ran.</i>
+
+1087
+01:09:52,389 --> 01:09:56,958
+<i>And I ran.</i>
+<i>I've never spoken of it since.</i>
+
+1088
+01:09:56,960 --> 01:09:57,926
+<i>I've never spoken of it since.</i>
+<i>I took his rings...</i>
+
+1089
+01:09:57,928 --> 01:09:59,294
+<i>I took his rings...</i>
+<i>...Hey!</i>
+
+1090
+01:09:59,296 --> 01:10:01,095
+<i>...hey!</i>
+<i>...And when I returned,</i>
+
+1091
+01:10:01,097 --> 01:10:05,934
+<i>...and when I returned,</i>
+<i>i took his property.</i>
+
+1092
+01:10:05,936 --> 01:10:08,970
+<i>I took his property.</i>
+<i>Everything I own is his.</i>
+
+1093
+01:10:08,972 --> 01:10:13,708
+<i>Everything I own is his.</i>
+<i>What will he do?</i>
+
+1094
+01:10:13,710 --> 01:10:18,413
+<i>What will he do?</i>
+<i>[Dramatic music on TV...]</i>
+
+1095
+01:10:18,415 --> 01:10:19,414
+<i>[Dramatic music on TV...]</i>
+<i>Bear in mind, Mr. Kent,</i>
+
+1096
+01:10:19,416 --> 01:10:20,415
+<i>bear in mind, Mr. Kent,</i>
+<i>this woman is not your</i>
+
+1097
+01:10:20,417 --> 01:10:22,150
+<i>this woman is not your</i>
+<i>sister-in-law-- she's dead.</i>
+
+1098
+01:10:22,152 --> 01:10:23,618
+<i>Sister-in-law-- she's dead.</i>
+<i>This is a shell and what it</i>
+
+1099
+01:10:23,620 --> 01:10:25,320
+<i>this is a shell and what it</i>
+<i>contains is pure evil.</i>
+
+1100
+01:10:25,322 --> 01:10:26,888
+<i>Contains is pure evil.</i>
+<i>Oi! Shh!</i>
+
+1101
+01:10:26,890 --> 01:10:28,389
+<i>Oi! Shh!</i>
+<i>...You destroy only the evil.</i>
+
+1102
+01:10:28,391 --> 01:10:31,726
+<i>...you destroy only the evil.</i>
+<i>[♪...]</i>
+
+1103
+01:10:31,728 --> 01:10:34,195
+<i>[♪...]</i>
+<i>[Woman hisses]</i>
+
+1104
+01:10:34,197 --> 01:10:36,464
+<i>[Woman hisses]</i>
+<i>[Doorbell rings]</i>
+
+1105
+01:10:36,466 --> 01:10:37,031
+<i>[Doorbell rings]</i>
+<i>I'll get it.</i>
+
+1106
+01:10:37,033 --> 01:10:37,765
+<i>I'll get it.</i>
+<i>No, no, no, no.</i>
+
+1107
+01:10:37,767 --> 01:10:39,534
+<i>No, no, no, no.</i>
+<i>I'll get it.</i>
+
+1108
+01:10:39,536 --> 01:10:47,542
+<i>I'll get it.</i>
+<i>[♪...]</i>
+
+1109
+01:10:47,544 --> 01:10:52,614
+<i>[Woman on television screams]</i>
+<i>[Gate rattles]</i>
+
+1110
+01:10:52,616 --> 01:11:05,627
+<i>[Chuckles] Aren't you a</i>
+<i>little young?</i>
+
+1111
+01:11:05,629 --> 01:11:08,229
+<i>Little young?</i>
+<i>Eleanor, is she in?</i>
+
+1112
+01:11:08,231 --> 01:11:13,101
+<i>Eleanor, is she in?</i>
+<i>Why, what's it to you?</i>
+
+1113
+01:11:13,103 --> 01:11:14,569
+<i>Why, what's it to you?</i>
+<i>I read her story.</i>
+
+1114
+01:11:14,571 --> 01:11:16,838
+<i>I read her story.</i>
+<i>Can you tell her please?</i>
+
+1115
+01:11:16,840 --> 01:11:19,674
+<i>Can you tell her please?</i>
+<i>Well, she's not in.</i>
+
+1116
+01:11:19,676 --> 01:11:21,509
+<i>Well, she's not in.</i>
+<i>Go on.</i>
+
+1117
+01:11:21,511 --> 01:11:26,948
+<i>Go on.</i>
+<i>Off you go.</i>
+
+1118
+01:11:26,950 --> 01:11:33,788
+<i>Off you go.</i>
+<i>[♪...]</i>
+
+1119
+01:11:33,790 --> 01:11:36,891
+<i>[♪...]</i>
+<i>Ella.</i>
+
+1120
+01:11:36,893 --> 01:11:38,393
+<i>Ella.</i>
+<i>Look, I understand what Claire's</i>
+
+1121
+01:11:38,395 --> 01:11:39,560
+<i>look, I understand what Claire's</i>
+<i>had to do, right, 'cause there's</i>
+
+1122
+01:11:39,562 --> 01:11:40,828
+<i>had to do, right, 'cause there's</i>
+<i>money to be made, but--</i>
+
+1123
+01:11:40,830 --> 01:11:41,896
+<i>money to be made, but--</i>
+<i>if you don't like what</i>
+
+1124
+01:11:41,898 --> 01:11:44,999
+<i>if you don't like what</i>
+<i>Clara's doing, tell her.</i>
+
+1125
+01:11:45,001 --> 01:11:46,401
+<i>Clara's doing, tell her.</i>
+<i>You don't like it either,</i>
+
+1126
+01:11:46,403 --> 01:11:49,937
+<i>you don't like it either,</i>
+<i>do you, eh?</i>
+
+1127
+01:11:49,939 --> 01:11:51,372
+<i>Do you, eh?</i>
+<i>Why she's like that?</i>
+
+1128
+01:11:51,374 --> 01:11:54,275
+<i>Why she's like that?</i>
+<i>Why's she so...</i>
+
+1129
+01:11:54,277 --> 01:11:57,845
+<i>Why's she so...</i>
+<i>What happened to her, Ella?</i>
+
+1130
+01:11:57,847 --> 01:11:59,280
+<i>What happened to her, Ella?</i>
+<i>She got bitten by a vampire.</i>
+
+1131
+01:11:59,282 --> 01:12:02,050
+<i>She got bitten by a vampire.</i>
+<i>Did I?</i>
+
+1132
+01:12:02,052 --> 01:12:09,891
+<i>[Click]</i>
+<i>There was a boy for you</i>
+
+1133
+01:12:09,893 --> 01:12:11,592
+<i>there was a boy for you</i>
+<i>at the door.</i>
+
+1134
+01:12:11,594 --> 01:12:13,961
+<i>At the door.</i>
+<i>I sent him on his way.</i>
+
+1135
+01:12:13,963 --> 01:12:16,831
+<i>I sent him on his way.</i>
+<i>He says he's read your story.</i>
+
+1136
+01:12:16,833 --> 01:12:25,506
+<i>[Whispers] What story, Ella?</i>
+<i>The one we always tell.</i>
+
+1137
+01:12:25,508 --> 01:12:26,741
+<i>The one we always tell.</i>
+<i>About the care home and how my</i>
+
+1138
+01:12:26,743 --> 01:12:28,142
+<i>about the care home and how my</i>
+<i>sister rescued me.</i>
+
+1139
+01:12:28,144 --> 01:12:32,180
+<i>Sister rescued me.</i>
+<i>It's homework.</i>
+
+1140
+01:12:32,182 --> 01:12:37,785
+<i>It's homework.</i>
+<i>You frighten me sometimes.</i>
+
+1141
+01:12:37,787 --> 01:12:40,054
+<i>You frighten me sometimes.</i>
+<i>Don't.</i>
+
+1142
+01:12:40,056 --> 01:12:43,491
+<i>Don't.</i>
+<i>I won't.</i>
+
+1143
+01:12:43,493 --> 01:12:44,492
+<i>I won't.</i>
+<i>[Gate squeaks]</i>
+
+1144
+01:12:44,494 --> 01:13:04,979
+<i>Fucking brilliant story.</i>
+<i>Thank you.</i>
+
+1145
+01:13:04,981 --> 01:13:05,880
+<i>Thank you.</i>
+<i>But the assignment asked</i>
+
+1146
+01:13:05,882 --> 01:13:09,784
+<i>but the assignment asked</i>
+<i>for truth.</i>
+
+1147
+01:13:09,786 --> 01:13:10,618
+<i>For truth.</i>
+<i>I didn't write it</i>
+
+1148
+01:13:10,620 --> 01:13:12,854
+<i>I didn't write it</i>
+<i>as an assignment.</i>
+
+1149
+01:13:12,856 --> 01:13:16,958
+<i>As an assignment.</i>
+<i>I wrote it for you.</i>
+
+1150
+01:13:16,960 --> 01:13:19,794
+<i>I wrote it for you.</i>
+<i>I don't want to lie anymore.</i>
+
+1151
+01:13:19,796 --> 01:13:21,929
+<i>I don't want to lie anymore.</i>
+<i>Something has to change.</i>
+
+1152
+01:13:21,931 --> 01:13:25,400
+<i>Something has to change.</i>
+<i>But this?</i>
+
+1153
+01:13:25,402 --> 01:13:29,771
+<i>But this?</i>
+<i>It's crazy.</i>
+
+1154
+01:13:29,773 --> 01:13:32,206
+<i>It's crazy.</i>
+<i>I thought...</i>
+
+1155
+01:13:32,208 --> 01:13:35,376
+<i>I thought...</i>
+<i>If I told, all the walls would</i>
+
+1156
+01:13:35,378 --> 01:13:38,279
+<i>if I told, all the walls would</i>
+<i>come tumbling down.</i>
+
+1157
+01:13:38,281 --> 01:13:42,049
+<i>Come tumbling down.</i>
+<i>Yes.</i>
+
+1158
+01:13:42,051 --> 01:13:44,952
+<i>Yes.</i>
+<i>I think I get that you're using</i>
+
+1159
+01:13:44,954 --> 01:13:46,487
+<i>i think I get that you're using</i>
+<i>the story to say that</i>
+
+1160
+01:13:46,489 --> 01:13:49,190
+<i>the story to say that</i>
+<i>bad things happened.</i>
+
+1161
+01:13:49,192 --> 01:13:51,459
+<i>Bad things happened.</i>
+<i>But... why don't you</i>
+
+1162
+01:13:51,461 --> 01:13:52,794
+<i>but... why don't you</i>
+<i>just say the truth?</i>
+
+1163
+01:13:52,796 --> 01:14:12,880
+<i>I am Eleanor webb.</i>
+<i>I've given you my secret.</i>
+
+1164
+01:14:12,882 --> 01:14:15,116
+<i>I've given you my secret.</i>
+<i>I've told you how I live.</i>
+
+1165
+01:14:15,118 --> 01:14:22,857
+<i>[Piano playing...]</i>
+
+1166
+01:14:22,859 --> 01:14:35,303
+<i>[Woman continues playing...]</i>
+
+1167
+01:14:35,305 --> 01:15:13,708
+<i>Woman, weakly: Hello.</i>
+<i>...Would you put the record on?</i>
+
+1168
+01:15:13,710 --> 01:15:34,562
+<i>[Woman sings opera]</i>
+<i>It's called "nacht und traume."</i>
+
+1169
+01:15:34,564 --> 01:15:36,497
+<i>It's called "nacht und traume."</i>
+<i>[♪...]</i>
+
+1170
+01:15:36,499 --> 01:15:39,800
+<i>[♪...]</i>
+<i>Peace be with you.</i>
+
+1171
+01:15:39,802 --> 01:15:41,736
+<i>Peace be with you.</i>
+<i>May light shine upon you.</i>
+
+1172
+01:15:41,738 --> 01:15:46,641
+<i>May light shine upon you.</i>
+<i>[Singing continues...]</i>
+
+1173
+01:15:46,643 --> 01:16:15,269
+<i>[Singing continues...]</i>
+
+1174
+01:16:15,271 --> 01:16:52,073
+<i>[Playing piano slowly]</i>
+<i>[Stops playing]</i>
+
+1175
+01:16:52,075 --> 01:16:55,743
+<i>[Stops playing]</i>
+<i>I think you should read this.</i>
+
+1176
+01:16:55,745 --> 01:17:05,953
+<i>[Resumes playing]</i>
+<i>[Stops]</i>
+
+1177
+01:17:05,955 --> 01:17:07,288
+<i>[Stops]</i>
+<i>...I set this every year.</i>
+
+1178
+01:17:07,290 --> 01:17:09,190
+<i>...I set this every year.</i>
+<i>It's a simple autobiography and</i>
+
+1179
+01:17:09,192 --> 01:17:12,026
+<i>it's a simple autobiography and</i>
+<i>then I get this amazing piece.</i>
+
+1180
+01:17:12,028 --> 01:17:13,594
+<i>Then I get this amazing piece.</i>
+<i>It's as if Edgar Allan poe and</i>
+
+1181
+01:17:13,596 --> 01:17:15,930
+<i>it's as if Edgar Allan poe and</i>
+<i>Mary shelley got together and</i>
+
+1182
+01:17:15,932 --> 01:17:19,533
+<i>Mary shelley got together and</i>
+<i>had a very strange little child.</i>
+
+1183
+01:17:19,535 --> 01:17:21,702
+<i>Had a very strange little child.</i>
+<i>"A true account of my making</i>
+
+1184
+01:17:21,704 --> 01:17:23,804
+<i>"a true account of my making</i>
+<i>and my life and death from the</i>
+
+1185
+01:17:23,806 --> 01:17:26,774
+<i>and my life and death from the</i>
+<i>year of my birth 1804."</i>
+
+1186
+01:17:26,776 --> 01:17:27,808
+<i>Year of my birth 1804."</i>
+<i>Kidding.</i>
+
+1187
+01:17:27,810 --> 01:17:28,809
+<i>Kidding.</i>
+<i>If that was a piece of</i>
+
+1188
+01:17:28,811 --> 01:17:31,979
+<i>if that was a piece of</i>
+<i>fiction, you'd say it was dark,</i>
+
+1189
+01:17:31,981 --> 01:17:33,881
+<i>fiction, you'd say it was dark,</i>
+<i>passionate, violent, sick,</i>
+
+1190
+01:17:33,883 --> 01:17:36,517
+<i>passionate, violent, sick,</i>
+<i>brilliant bit of writing.</i>
+
+1191
+01:17:36,519 --> 01:17:37,518
+<i>Brilliant bit of writing.</i>
+<i>But she's saying,</i>
+
+1192
+01:17:37,520 --> 01:17:39,787
+<i>but she's saying,</i>
+<i>"this is who I am."</i>
+
+1193
+01:17:39,789 --> 01:17:40,588
+<i>"This is who I am."</i>
+<i>Which makes me think there's</i>
+
+1194
+01:17:40,590 --> 01:17:42,556
+<i>which makes me think there's</i>
+<i>something going on with her.</i>
+
+1195
+01:17:42,558 --> 01:17:44,759
+<i>Something going on with her.</i>
+<i>She's a very closed-off kid.</i>
+
+1196
+01:17:44,761 --> 01:17:45,626
+<i>She's a very closed-off kid.</i>
+<i>Well, she wants to</i>
+
+1197
+01:17:45,628 --> 01:17:46,761
+<i>well, she wants to</i>
+<i>communicate, obviously.</i>
+
+1198
+01:17:46,763 --> 01:17:47,762
+<i>Communicate, obviously.</i>
+<i>I mean, look at the effort</i>
+
+1199
+01:17:47,764 --> 01:17:48,429
+<i>i mean, look at the effort</i>
+<i>she's made.</i>
+
+1200
+01:17:48,431 --> 01:17:50,097
+<i>She's made.</i>
+<i>Her handwriting.</i>
+
+1201
+01:17:50,099 --> 01:17:50,931
+<i>Her handwriting.</i>
+<i>Turn of phrase.</i>
+
+1202
+01:17:50,933 --> 01:17:55,336
+<i>Turn of phrase.</i>
+<i>Who writes like this these days?</i>
+
+1203
+01:17:55,338 --> 01:17:56,904
+<i>Who writes like this these days?</i>
+<i>"As darkness fell,</i>
+
+1204
+01:17:56,906 --> 01:17:59,740
+<i>"as darkness fell,</i>
+<i>the soucriant returned."</i>
+
+1205
+01:17:59,742 --> 01:18:00,875
+<i>The soucriant returned."</i>
+<i>Eleanor: And captain ruthven</i>
+
+1206
+01:18:00,877 --> 01:18:02,877
+<i>Eleanor: And captain ruthven</i>
+<i>prepared for the worst.</i>
+
+1207
+01:18:02,879 --> 01:18:08,683
+<i>Prepared for the worst.</i>
+<i>[♪...]</i>
+
+1208
+01:18:08,685 --> 01:18:12,553
+<i>[♪...]</i>
+<i>I took these for safekeeping.</i>
+
+1209
+01:18:12,555 --> 01:18:14,889
+<i>I took these for safekeeping.</i>
+<i>Forgive me, my friend.</i>
+
+1210
+01:18:14,891 --> 01:18:16,891
+<i>Forgive me, my friend.</i>
+<i>Forgiveness is a Christian</i>
+
+1211
+01:18:16,893 --> 01:18:20,094
+<i>forgiveness is a Christian</i>
+<i>value, ruthven.</i>
+
+1212
+01:18:20,096 --> 01:18:23,731
+<i>Value, ruthven.</i>
+<i>My gods are older...</i>
+
+1213
+01:18:23,733 --> 01:18:25,733
+<i>My gods are older...</i>
+<i>More ruthless.</i>
+
+1214
+01:18:25,735 --> 01:18:27,234
+<i>More ruthless.</i>
+<i>You died.</i>
+
+1215
+01:18:27,236 --> 01:18:28,269
+<i>You died.</i>
+<i>How else does one find</i>
+
+1216
+01:18:28,271 --> 01:18:30,771
+<i>how else does one find</i>
+<i>life eternal?</i>
+
+1217
+01:18:30,773 --> 01:18:33,240
+<i>Life eternal?</i>
+<i>[♪...]</i>
+
+1218
+01:18:33,242 --> 01:18:37,411
+<i>[♪...]</i>
+<i>I sent you to fetch water.</i>
+
+1219
+01:18:37,413 --> 01:18:40,548
+<i>I sent you to fetch water.</i>
+<i>And I met the nameless Saint.</i>
+
+1220
+01:18:40,550 --> 01:18:47,421
+<i>And I met the nameless Saint.</i>
+<i>[♪...]</i>
+
+1221
+01:18:47,423 --> 01:18:48,422
+<i>[♪...]</i>
+<i>[Screeching, flapping,</i>
+
+1222
+01:18:48,424 --> 01:18:54,061
+<i>[screeching, flapping,</i>
+<i>whooshing...]</i>
+
+1223
+01:18:54,063 --> 01:18:57,431
+<i>Whooshing...]</i>
+<i>[Gasps]</i>
+
+1224
+01:18:57,433 --> 01:18:59,867
+<i>[Gasps]</i>
+<i>This is what happens.</i>
+
+1225
+01:18:59,869 --> 01:19:01,535
+<i>This is what happens.</i>
+<i>When?</i>
+
+1226
+01:19:01,537 --> 01:19:03,437
+<i>When?</i>
+<i>When you pray for it.</i>
+
+1227
+01:19:03,439 --> 01:19:11,445
+<i>When you pray for it.</i>
+<i>[Screaming]</i>
+
+1228
+01:19:11,447 --> 01:19:19,487
+<i>[♪...]</i>
+<i>...I arose and saw</i>
+
+1229
+01:19:19,489 --> 01:19:21,555
+<i>...I arose and saw</i>
+<i>with different eyes.</i>
+
+1230
+01:19:21,557 --> 01:19:29,563
+<i>With different eyes.</i>
+<i>[♪...]</i>
+
+1231
+01:19:29,565 --> 01:19:34,535
+<i>Everything I looked on</i>
+<i>was a source of wonder.</i>
+
+1232
+01:19:34,537 --> 01:19:37,805
+<i>Was a source of wonder.</i>
+<i>But my vision had a price.</i>
+
+1233
+01:19:37,807 --> 01:19:41,842
+<i>But my vision had a price.</i>
+<i>My soul was lost.</i>
+
+1234
+01:19:41,844 --> 01:19:42,710
+<i>My soul was lost.</i>
+<i>The price of my existence</i>
+
+1235
+01:19:42,712 --> 01:19:45,079
+<i>the price of my existence</i>
+<i>is this sacrifice.</i>
+
+1236
+01:19:45,081 --> 01:19:46,080
+<i>Is this sacrifice.</i>
+<i>It flows from...</i>
+
+1237
+01:19:46,082 --> 01:19:49,917
+<i>It flows from...</i>
+<i>[Clara coughing]</i>
+
+1238
+01:19:49,919 --> 01:19:53,120
+<i>[Clara coughing]</i>
+<i>It flows from blood.</i>
+
+1239
+01:19:53,122 --> 01:19:56,323
+<i>It flows from blood.</i>
+<i>His blood is yours.</i>
+
+1240
+01:19:56,325 --> 01:19:59,927
+<i>His blood is yours.</i>
+<i>Drink, my son.</i>
+
+1241
+01:19:59,929 --> 01:20:02,062
+<i>Drink, my son.</i>
+<i>[Man groans]</i>
+
+1242
+01:20:02,064 --> 01:20:05,065
+<i>[Man groans]</i>
+<i>Mine is a cruel existence...</i>
+
+1243
+01:20:05,067 --> 01:20:07,935
+<i>Mine is a cruel existence...</i>
+<i>But, you do have the qualities</i>
+
+1244
+01:20:07,937 --> 01:20:10,704
+<i>but, you do have the qualities</i>
+<i>one needs.</i>
+
+1245
+01:20:10,706 --> 01:20:15,910
+<i>One needs.</i>
+<i>You are ever... a survivor.</i>
+
+1246
+01:20:15,912 --> 01:20:17,745
+<i>You are ever... a survivor.</i>
+<i>I would give my soul to be</i>
+
+1247
+01:20:17,747 --> 01:20:20,748
+<i>I would give my soul to be</i>
+<i>as you are now.</i>
+
+1248
+01:20:20,750 --> 01:20:23,717
+<i>As you are now.</i>
+<i>So be it.</i>
+
+1249
+01:20:23,719 --> 01:20:28,823
+<i>So be it.</i>
+<i>[♪...]</i>
+
+1250
+01:20:28,825 --> 01:20:32,293
+<i>[♪...]</i>
+<i>Eternal life will only come to</i>
+
+1251
+01:20:32,295 --> 01:20:34,762
+<i>eternal life will only come to</i>
+<i>those prepared to die.</i>
+
+1252
+01:20:34,764 --> 01:20:54,048
+<i>[Gate clatters]</i>
+
+1253
+01:20:54,050 --> 01:21:12,132
+<i>Hello?</i>
+<i>You want up?</i>
+
+1254
+01:21:12,134 --> 01:21:15,903
+<i>You want up?</i>
+<i>Thanks.</i>
+
+1255
+01:21:15,905 --> 01:21:19,707
+<i>Thanks.</i>
+<i>Have some fun now.</i>
+
+1256
+01:21:19,709 --> 01:21:33,287
+<i>[Gate clatters]</i>
+<i>[Music thumping...]</i>
+
+1257
+01:21:33,289 --> 01:21:35,656
+<i>[Music thumping...]</i>
+<i>Hello?</i>
+
+1258
+01:21:35,658 --> 01:21:42,329
+<i>Mr. minton.</i>
+<i>Hello, Noel, how are you?</i>
+
+1259
+01:21:42,331 --> 01:21:43,097
+<i>Hello, Noel, how are you?</i>
+<i>What, have I got detention</i>
+
+1260
+01:21:43,099 --> 01:21:44,431
+<i>what, have I got detention</i>
+<i>or something?</i>
+
+1261
+01:21:44,433 --> 01:21:45,532
+<i>Or something?</i>
+<i>[Chuckles] No.</i>
+
+1262
+01:21:45,534 --> 01:21:47,334
+<i>[Chuckles] No.</i>
+<i>I'm actually trying to get some</i>
+
+1263
+01:21:47,336 --> 01:21:48,102
+<i>I'm actually trying to get some</i>
+<i>information on one of our</i>
+
+1264
+01:21:48,104 --> 01:21:51,705
+<i>information on one of our</i>
+<i>current students-- Eleanor webb.</i>
+
+1265
+01:21:51,707 --> 01:21:52,773
+<i>Current students-- Eleanor webb.</i>
+<i>She gave this as her address.</i>
+
+1266
+01:21:52,775 --> 01:21:53,607
+<i>She gave this as her address.</i>
+<i>Eleanor?</i>
+
+1267
+01:21:53,609 --> 01:21:56,944
+<i>Eleanor?</i>
+<i>Is everything o.K.?</i>
+
+1268
+01:21:56,946 --> 01:21:57,945
+<i>Is everything o.K.?</i>
+<i>We're trying to set up a</i>
+
+1269
+01:21:57,947 --> 01:21:58,746
+<i>we're trying to set up a</i>
+<i>meeting with all the parties</i>
+
+1270
+01:21:58,748 --> 01:22:00,347
+<i>meeting with all the parties</i>
+<i>interested in her welfare.</i>
+
+1271
+01:22:00,349 --> 01:22:04,518
+<i>Interested in her welfare.</i>
+<i>Sure.</i>
+
+1272
+01:22:04,520 --> 01:22:05,920
+<i>Sure.</i>
+<i>Are her parents here?</i>
+
+1273
+01:22:05,922 --> 01:22:08,923
+<i>Are her parents here?</i>
+<i>Um... you need to speak</i>
+
+1274
+01:22:08,925 --> 01:22:10,424
+<i>um... you need to speak</i>
+<i>to Claire.</i>
+
+1275
+01:22:10,426 --> 01:22:11,525
+<i>To Claire.</i>
+<i>She's Eleanor's big sister.</i>
+
+1276
+01:22:11,527 --> 01:22:13,060
+<i>She's Eleanor's big sister.</i>
+<i>Claire's her legal guardian.</i>
+
+1277
+01:22:13,062 --> 01:22:13,928
+<i>Claire's her legal guardian.</i>
+<i>Is Claire here?</i>
+
+1278
+01:22:13,930 --> 01:22:16,230
+<i>Is Claire here?</i>
+<i>No, she's, um... busy.</i>
+
+1279
+01:22:16,232 --> 01:22:18,799
+<i>No, she's, um... busy.</i>
+<i>[Laughter...]</i>
+
+1280
+01:22:18,801 --> 01:22:28,943
+<i>It's not what you think.</i>
+<i>It's Claire's business.</i>
+
+1281
+01:22:28,945 --> 01:22:29,910
+<i>It's Claire's business.</i>
+<i>She saves girls from</i>
+
+1282
+01:22:29,912 --> 01:22:31,679
+<i>she saves girls from</i>
+<i>the streets.</i>
+
+1283
+01:22:31,681 --> 01:22:32,680
+<i>The streets.</i>
+<i>The thing is, Noel,</i>
+
+1284
+01:22:32,682 --> 01:22:34,882
+<i>the thing is, Noel,</i>
+<i>Eleanor's written a story and in</i>
+
+1285
+01:22:34,884 --> 01:22:36,116
+<i>Eleanor's written a story and in</i>
+<i>her story, she says that she</i>
+
+1286
+01:22:36,118 --> 01:22:41,355
+<i>her story, she says that she</i>
+<i>lives with vampires.</i>
+
+1287
+01:22:41,357 --> 01:22:42,356
+<i>Lives with vampires.</i>
+<i>So can you please pass this</i>
+
+1288
+01:22:42,358 --> 01:22:45,025
+<i>so can you please pass this</i>
+<i>letter on and tell Claire that</i>
+
+1289
+01:22:45,027 --> 01:22:46,593
+<i>letter on and tell Claire that</i>
+<i>if I don't hear from her today,</i>
+
+1290
+01:22:46,595 --> 01:22:48,062
+<i>if I don't hear from her today,</i>
+<i>then I'll be in touch with</i>
+
+1291
+01:22:48,064 --> 01:22:51,865
+<i>then I'll be in touch with</i>
+<i>social services and the police.</i>
+
+1292
+01:22:51,867 --> 01:22:56,704
+<i>Social services and the police.</i>
+<i>[Gate clatters, elevator whirs]</i>
+
+1293
+01:22:56,706 --> 01:22:57,705
+<i>[Gate clatters, elevator whirs]</i>
+<i>Shit...</i>
+
+1294
+01:22:57,707 --> 01:22:59,673
+<i>Shit...</i>
+<i>So darvell gave the map and</i>
+
+1295
+01:22:59,675 --> 01:23:02,543
+<i>so darvell gave the map and</i>
+<i>passage to your mother?</i>
+
+1296
+01:23:02,545 --> 01:23:04,678
+<i>Passage to your mother?</i>
+<i>No, to captain ruthven.</i>
+
+1297
+01:23:04,680 --> 01:23:08,549
+<i>No, to captain ruthven.</i>
+<i>[♪...]</i>
+
+1298
+01:23:08,551 --> 01:23:09,750
+<i>[♪...]</i>
+<i>My mother saw her chance</i>
+
+1299
+01:23:09,752 --> 01:23:14,788
+<i>my mother saw her chance</i>
+<i>and took it.</i>
+
+1300
+01:23:14,790 --> 01:23:17,624
+<i>And took it.</i>
+<i>[Gunshot, ruthven shouts]</i>
+
+1301
+01:23:17,626 --> 01:23:18,892
+<i>[Gunshot, ruthven shouts]</i>
+<i>Aah!</i>
+
+1302
+01:23:18,894 --> 01:23:19,893
+<i>Aah!</i>
+<i>Bitch!</i>
+
+1303
+01:23:19,895 --> 01:23:21,261
+<i>Bitch!</i>
+<i>Bitch!</i>
+
+1304
+01:23:21,263 --> 01:23:23,263
+<i>Bitch!</i>
+<i>Bitch!</i>
+
+1305
+01:23:23,265 --> 01:23:25,065
+<i>Bitch!</i>
+<i>Eleanor: She stole the map</i>
+
+1306
+01:23:25,067 --> 01:23:27,701
+<i>Eleanor: She stole the map</i>
+<i>and rode into the night</i>
+
+1307
+01:23:27,703 --> 01:23:29,970
+<i>and rode into the night</i>
+<i>towards her unknown future.</i>
+
+1308
+01:23:29,972 --> 01:23:34,408
+<i>Towards her unknown future.</i>
+<i>[♪...]</i>
+
+1309
+01:23:34,410 --> 01:23:35,442
+<i>[♪...]</i>
+<i>And she made her way to</i>
+
+1310
+01:23:35,444 --> 01:23:39,013
+<i>and she made her way to</i>
+<i>where, to this ruin and this...</i>
+
+1311
+01:23:39,015 --> 01:23:42,082
+<i>Where, to this ruin and this...</i>
+<i>Soucriant thing took her?</i>
+
+1312
+01:23:42,084 --> 01:23:44,218
+<i>Soucriant thing took her?</i>
+<i>I didn't give you my story.</i>
+
+1313
+01:23:44,220 --> 01:23:46,620
+<i>I didn't give you my story.</i>
+<i>I've been betrayed into this.</i>
+
+1314
+01:23:46,622 --> 01:23:48,022
+<i>I've been betrayed into this.</i>
+<i>You can leave anytime</i>
+
+1315
+01:23:48,024 --> 01:23:53,160
+<i>you can leave anytime</i>
+<i>you like.</i>
+
+1316
+01:23:53,162 --> 01:24:02,369
+<i>So when did Clara come back</i>
+<i>for you?</i>
+
+1317
+01:24:02,371 --> 01:24:04,438
+<i>For you?</i>
+<i>When I was 16.</i>
+
+1318
+01:24:04,440 --> 01:24:05,406
+<i>When I was 16.</i>
+<i>And what did she do</i>
+
+1319
+01:24:05,408 --> 01:24:07,074
+<i>and what did she do</i>
+<i>in the meantime?</i>
+
+1320
+01:24:07,076 --> 01:24:08,709
+<i>In the meantime?</i>
+<i>She's never talked about it.</i>
+
+1321
+01:24:08,711 --> 01:24:10,544
+<i>She's never talked about it.</i>
+<i>Really?</i>
+
+1322
+01:24:10,546 --> 01:24:12,046
+<i>Really?</i>
+<i>She says she can't recall,</i>
+
+1323
+01:24:12,048 --> 01:24:15,215
+<i>she says she can't recall,</i>
+<i>but I expect she's lying.</i>
+
+1324
+01:24:15,217 --> 01:24:18,419
+<i>But I expect she's lying.</i>
+<i>Lying is a way of life to her.</i>
+
+1325
+01:24:18,421 --> 01:24:19,920
+<i>Lying is a way of life to her.</i>
+<i>But I was raised in an orphanage</i>
+
+1326
+01:24:19,922 --> 01:24:20,921
+<i>but I was raised in an orphanage</i>
+<i>where I was taught to tell</i>
+
+1327
+01:24:20,923 --> 01:24:23,023
+<i>where I was taught to tell</i>
+<i>the truth.</i>
+
+1328
+01:24:23,025 --> 01:24:34,134
+<i>Are there others like you?</i>
+<i>I've never met one.</i>
+
+1329
+01:24:34,136 --> 01:24:37,037
+<i>I've never met one.</i>
+<i>And Clara never speaks of any.</i>
+
+1330
+01:24:37,039 --> 01:24:38,038
+<i>And Clara never speaks of any.</i>
+<i>I think we're the only two</i>
+
+1331
+01:24:38,040 --> 01:24:42,042
+<i>i think we're the only two</i>
+<i>who still endure.</i>
+
+1332
+01:24:42,044 --> 01:24:43,677
+<i>Who still endure.</i>
+<i>How often do you feed?</i>
+
+1333
+01:24:43,679 --> 01:24:44,711
+<i>How often do you feed?</i>
+<i>I'd rather not talk about it.</i>
+
+1334
+01:24:44,713 --> 01:24:45,846
+<i>I'd rather not talk about it.</i>
+<i>Thank you.</i>
+
+1335
+01:24:45,848 --> 01:24:47,414
+<i>Thank you.</i>
+<i>That's the distasteful part</i>
+
+1336
+01:24:47,416 --> 01:24:50,951
+<i>that's the distasteful part</i>
+<i>of being an immortal, isn't it?</i>
+
+1337
+01:24:50,953 --> 01:24:51,919
+<i>Of being an immortal, isn't it?</i>
+<i>If you don't believe a word</i>
+
+1338
+01:24:51,921 --> 01:24:53,921
+<i>if you don't believe a word</i>
+<i>i say, why this pretense?</i>
+
+1339
+01:24:53,923 --> 01:24:56,457
+<i>I say, why this pretense?</i>
+<i>[Clicks tongue] Eleanor, how</i>
+
+1340
+01:24:56,459 --> 01:24:59,193
+<i>[clicks tongue] Eleanor, how</i>
+<i>can you be two centuries old?</i>
+
+1341
+01:24:59,195 --> 01:25:04,298
+<i>Can you be two centuries old?</i>
+<i>By, by what miracle of science?</i>
+
+1342
+01:25:04,300 --> 01:25:08,268
+<i>By, by what miracle of science?</i>
+<i>You see, that's the tricky</i>
+
+1343
+01:25:08,270 --> 01:25:11,038
+<i>you see, that's the tricky</i>
+<i>thing, because it's only over</i>
+
+1344
+01:25:11,040 --> 01:25:14,708
+<i>thing, because it's only over</i>
+<i>time that I can prove it.</i>
+
+1345
+01:25:14,710 --> 01:25:19,379
+<i>Time that I can prove it.</i>
+<i>30, maybe 40 years from now,</i>
+
+1346
+01:25:19,381 --> 01:25:20,848
+<i>30, maybe 40 years from now,</i>
+<i>when you're pruning roses from</i>
+
+1347
+01:25:20,850 --> 01:25:24,118
+<i>when you're pruning roses from</i>
+<i>your wheelchair, I'll stroll by</i>
+
+1348
+01:25:24,120 --> 01:25:27,287
+<i>your wheelchair, I'll stroll by</i>
+<i>your garden gate and say,</i>
+
+1349
+01:25:27,289 --> 01:25:29,590
+<i>your garden gate and say,</i>
+<i>"hello, morag."</i>
+
+1350
+01:25:29,592 --> 01:25:34,128
+<i>"Hello, morag."</i>
+<i>And nothing will have changed.</i>
+
+1351
+01:25:34,130 --> 01:25:37,831
+<i>And nothing will have changed.</i>
+<i>I am 16 forever.</i>
+
+1352
+01:25:37,833 --> 01:25:40,934
+<i>I am 16 forever.</i>
+<i>And you'll realize this and it</i>
+
+1353
+01:25:40,936 --> 01:25:43,237
+<i>and you'll realize this and it</i>
+<i>will hurt your heart and I'll</i>
+
+1354
+01:25:43,239 --> 01:25:48,108
+<i>will hurt your heart and I'll</i>
+<i>say, "may peace be with you."</i>
+
+1355
+01:25:48,110 --> 01:25:53,881
+<i>Say, "may peace be with you."</i>
+<i>And I'll help you with the pain.</i>
+
+1356
+01:25:53,883 --> 01:25:55,149
+<i>And I'll help you with the pain.</i>
+<i>Why don't you do it now?</i>
+
+1357
+01:25:55,151 --> 01:25:56,817
+<i>Why don't you do it now?</i>
+<i>I'm not strong, you could...</i>
+
+1358
+01:25:56,819 --> 01:26:02,356
+<i>I'm not strong, you could...</i>
+<i>Overpower me.</i>
+
+1359
+01:26:02,358 --> 01:26:09,630
+<i>Overpower me.</i>
+<i>You're not ready.</i>
+
+1360
+01:26:09,632 --> 01:26:16,270
+<i>You're not ready.</i>
+<i>[♪...]</i>
+
+1361
+01:26:16,272 --> 01:26:21,708
+<i>[♪...]</i>
+<i>[Playing fast, complex piece...]</i>
+
+1362
+01:26:21,710 --> 01:26:34,087
+<i>How do you do it?</i>
+<i>[Stops playing]</i>
+
+1363
+01:26:34,089 --> 01:26:36,857
+<i>[Stops playing]</i>
+<i>Where are your fangs?</i>
+
+1364
+01:26:36,859 --> 01:26:37,758
+<i>Where are your fangs?</i>
+<i>Why don't you die in</i>
+
+1365
+01:26:37,760 --> 01:26:38,625
+<i>why don't you die in</i>
+<i>the daylight?</i>
+
+1366
+01:26:38,627 --> 01:26:39,626
+<i>The daylight?</i>
+<i>How could you give my story</i>
+
+1367
+01:26:39,628 --> 01:26:41,962
+<i>how could you give my story</i>
+<i>to those people?</i>
+
+1368
+01:26:41,964 --> 01:26:43,397
+<i>To those people?</i>
+<i>I wrote it for you.</i>
+
+1369
+01:26:43,399 --> 01:26:46,867
+<i>I wrote it for you.</i>
+<i>How do you kill?</i>
+
+1370
+01:26:46,869 --> 01:26:49,770
+<i>How do you kill?</i>
+<i>I never...</i>
+
+1371
+01:26:49,772 --> 01:26:51,738
+<i>I never...</i>
+<i>People have to consent.</i>
+
+1372
+01:26:51,740 --> 01:26:53,473
+<i>People have to consent.</i>
+<i>They have to want.</i>
+
+1373
+01:26:53,475 --> 01:26:55,442
+<i>They have to want.</i>
+<i>Want death?</i>
+
+1374
+01:26:55,444 --> 01:26:56,243
+<i>Want death?</i>
+<i>It has to be an...</i>
+
+1375
+01:26:56,245 --> 01:26:57,711
+<i>It has to be an...</i>
+<i>Who the fuck wants death?</i>
+
+1376
+01:26:57,713 --> 01:26:59,246
+<i>Who the fuck wants death?</i>
+<i>Sometimes it releases people.</i>
+
+1377
+01:26:59,248 --> 01:27:00,347
+<i>Sometimes it releases people.</i>
+<i>So you're moral.</i>
+
+1378
+01:27:00,349 --> 01:27:02,015
+<i>So you're moral.</i>
+<i>No.</i>
+
+1379
+01:27:02,017 --> 01:27:03,517
+<i>No.</i>
+<i>I'm ruthless.</i>
+
+1380
+01:27:03,519 --> 01:27:06,853
+<i>I'm ruthless.</i>
+<i>Bullshit.</i>
+
+1381
+01:27:06,855 --> 01:27:08,722
+<i>Bullshit.</i>
+<i>All this "I'm 206, I remember</i>
+
+1382
+01:27:08,724 --> 01:27:12,392
+<i>all this "I'm 206, I remember</i>
+<i>everything and it's a burden."</i>
+
+1383
+01:27:12,394 --> 01:27:13,727
+<i>Everything and it's a burden."</i>
+<i>It's pathetic.</i>
+
+1384
+01:27:13,729 --> 01:27:30,777
+<i>[Sighs]</i>
+<i>My mom's giving me a</i>
+
+1385
+01:27:30,779 --> 01:27:33,914
+<i>my mom's giving me a</i>
+<i>birthday party.</i>
+
+1386
+01:27:33,916 --> 01:27:35,282
+<i>Birthday party.</i>
+<i>It's not really a party 'cause</i>
+
+1387
+01:27:35,284 --> 01:27:37,784
+<i>it's not really a party 'cause</i>
+<i>I'm only inviting you.</i>
+
+1388
+01:27:37,786 --> 01:27:39,019
+<i>I'm only inviting you.</i>
+<i>Will you come?</i>
+
+1389
+01:27:39,021 --> 01:27:41,788
+<i>Will you come?</i>
+<i>Yes.</i>
+
+1390
+01:27:41,790 --> 01:27:45,626
+<i>Yes.</i>
+<i>Good.</i>
+
+1391
+01:27:45,628 --> 01:27:53,667
+<i>Good.</i>
+<i>[Playing same piece...]</i>
+
+1392
+01:27:53,669 --> 01:28:10,484
+<i>[Door creaks]</i>
+
+1393
+01:28:10,486 --> 01:28:34,841
+<i>[♪...]</i>
+
+1394
+01:28:34,843 --> 01:28:53,627
+<i>[Rings doorbell]</i>
+<i>[♪...]</i>
+
+1395
+01:28:53,629 --> 01:28:59,066
+<i>[Breathes deeply]</i>
+
+1396
+01:28:59,068 --> 01:29:12,179
+<i>Frank: Hi.</i>
+<i>Happy Birthday.</i>
+
+1397
+01:29:12,181 --> 01:29:17,751
+<i>Happy Birthday.</i>
+<i>For you.</i>
+
+1398
+01:29:17,753 --> 01:29:19,453
+<i>For you.</i>
+<i>Do I have to invite you in?</i>
+
+1399
+01:29:19,455 --> 01:29:27,561
+<i>[♪...]</i>
+<i>You'd better come in.</i>
+
+1400
+01:29:27,563 --> 01:29:33,667
+<i>Gabi: Hello again, Ella.</i>
+<i>Hello.</i>
+
+1401
+01:29:33,669 --> 01:29:41,675
+<i>Hello.</i>
+<i>[♪...]</i>
+
+1402
+01:29:41,677 --> 01:29:46,480
+<i>Seriously, you can try</i>
+<i>if you like.</i>
+
+1403
+01:29:46,482 --> 01:29:53,186
+<i>If you like.</i>
+<i>[♪...]</i>
+
+1404
+01:29:53,188 --> 01:30:06,266
+<i>I was hoping to arrange</i>
+<i>a more official meeting,</i>
+
+1405
+01:30:06,268 --> 01:30:07,267
+<i>a more official meeting,</i>
+<i>ideally with the school</i>
+
+1406
+01:30:07,269 --> 01:30:08,568
+<i>ideally with the school</i>
+<i>counselor and with</i>
+
+1407
+01:30:08,570 --> 01:30:09,936
+<i>counselor and with</i>
+<i>Eleanor herself.</i>
+
+1408
+01:30:09,938 --> 01:30:10,871
+<i>Eleanor herself.</i>
+<i>Well, what's the problem?</i>
+
+1409
+01:30:10,873 --> 01:30:12,072
+<i>Well, what's the problem?</i>
+<i>'Cause, you know, usually she</i>
+
+1410
+01:30:12,074 --> 01:30:14,374
+<i>'cause, you know, usually she</i>
+<i>sails through school.</i>
+
+1411
+01:30:14,376 --> 01:30:16,009
+<i>Sails through school.</i>
+<i>Well, um, Eleanor wrote her</i>
+
+1412
+01:30:16,011 --> 01:30:19,012
+<i>well, um, Eleanor wrote her</i>
+<i>life story and uh, she's quite</i>
+
+1413
+01:30:19,014 --> 01:30:20,914
+<i>life story and uh, she's quite</i>
+<i>insistent that it's true.</i>
+
+1414
+01:30:20,916 --> 01:30:22,482
+<i>Insistent that it's true.</i>
+<i>I don't expect you to be</i>
+
+1415
+01:30:22,484 --> 01:30:23,750
+<i>i don't expect you to be</i>
+<i>flattered by this, but in it</i>
+
+1416
+01:30:23,752 --> 01:30:24,751
+<i>flattered by this, but in it</i>
+<i>she describes you as a</i>
+
+1417
+01:30:24,753 --> 01:30:25,886
+<i>she describes you as a</i>
+<i>soucriant, which I believe</i>
+
+1418
+01:30:25,888 --> 01:30:27,387
+<i>soucriant, which I believe</i>
+<i>is a sort of vampire.</i>
+
+1419
+01:30:27,389 --> 01:30:29,856
+<i>Is a sort of vampire.</i>
+<i>[Scoffs, laughs] Well, she</i>
+
+1420
+01:30:29,858 --> 01:30:32,926
+<i>[scoffs, laughs] Well, she</i>
+<i>has got a great imagination.</i>
+
+1421
+01:30:32,928 --> 01:30:35,095
+<i>Has got a great imagination.</i>
+<i>I hope she gets top marks.</i>
+
+1422
+01:30:35,097 --> 01:30:36,296
+<i>I hope she gets top marks.</i>
+<i>Who else has read it?</i>
+
+1423
+01:30:36,298 --> 01:30:37,297
+<i>Who else has read it?</i>
+<i>You have sole care of her,</i>
+
+1424
+01:30:37,299 --> 01:30:38,799
+<i>you have sole care of her,</i>
+<i>don't you? That boyfriend,</i>
+
+1425
+01:30:38,801 --> 01:30:40,233
+<i>don't you? That boyfriend,</i>
+<i>i bet he's read it.</i>
+
+1426
+01:30:40,235 --> 01:30:41,768
+<i>I bet he's read it.</i>
+<i>Lot of responsibility for</i>
+
+1427
+01:30:41,770 --> 01:30:42,736
+<i>lot of responsibility for</i>
+<i>somebody so young.</i>
+
+1428
+01:30:42,738 --> 01:30:44,638
+<i>Somebody so young.</i>
+<i>I'm doing just fine,</i>
+
+1429
+01:30:44,640 --> 01:30:47,340
+<i>I'm doing just fine,</i>
+<i>thank you.</i>
+
+1430
+01:30:47,342 --> 01:30:53,880
+<i>So, I shoot the bastard ruthven</i>
+<i>and I Nick the map and</i>
+
+1431
+01:30:53,882 --> 01:30:55,816
+<i>and I Nick the map and</i>
+<i>then what? Well, it ends.</i>
+
+1432
+01:30:55,818 --> 01:30:56,883
+<i>Then what? Well, it ends.</i>
+<i>She doesn't say, does she?</i>
+
+1433
+01:30:56,885 --> 01:30:57,851
+<i>She doesn't say, does she?</i>
+<i>That's 'cause I never</i>
+
+1434
+01:30:57,853 --> 01:30:59,319
+<i>that's 'cause I never</i>
+<i>told her.</i>
+
+1435
+01:30:59,321 --> 01:31:01,054
+<i>Told her.</i>
+<i>[♪...]</i>
+
+1436
+01:31:01,056 --> 01:31:01,888
+<i>[♪...]</i>
+<i>Should we arrange a</i>
+
+1437
+01:31:01,890 --> 01:31:02,889
+<i>should we arrange a</i>
+<i>more formal--</i>
+
+1438
+01:31:02,891 --> 01:31:03,557
+<i>more formal--</i>
+<i>I saw that ruthven</i>
+
+1439
+01:31:03,559 --> 01:31:04,191
+<i>I saw that ruthven</i>
+<i>wasn't dead.</i>
+
+1440
+01:31:04,193 --> 01:31:05,392
+<i>Wasn't dead.</i>
+<i>I should have killed him then,</i>
+
+1441
+01:31:05,394 --> 01:31:08,462
+<i>i should have killed him then,</i>
+<i>but I had mercy on the cunt.</i>
+
+1442
+01:31:08,464 --> 01:31:10,063
+<i>But I had mercy on the cunt.</i>
+<i>Now, hold that thought because</i>
+
+1443
+01:31:10,065 --> 01:31:11,898
+<i>now, hold that thought because</i>
+<i>I'll tell you what he did.</i>
+
+1444
+01:31:11,900 --> 01:31:14,468
+<i>I'll tell you what he did.</i>
+<i>But first, shall I tell you</i>
+
+1445
+01:31:14,470 --> 01:31:17,370
+<i>but first, shall I tell you</i>
+<i>what it was like for me?</i>
+
+1446
+01:31:17,372 --> 01:31:18,238
+<i>What it was like for me?</i>
+<i>[Nervously] O.K., yeah.</i>
+
+1447
+01:31:18,240 --> 01:31:20,774
+<i>[Nervously] O.K., yeah.</i>
+<i>It was wonderful.</i>
+
+1448
+01:31:20,776 --> 01:31:22,309
+<i>It was wonderful.</i>
+<i>I had eyes that cut through</i>
+
+1449
+01:31:22,311 --> 01:31:24,878
+<i>i had eyes that cut through</i>
+<i>lies, lungs that breathed</i>
+
+1450
+01:31:24,880 --> 01:31:26,980
+<i>lies, lungs that breathed</i>
+<i>eternity.</i>
+
+1451
+01:31:26,982 --> 01:31:28,114
+<i>Eternity.</i>
+<i>I felt I'd lived my whole</i>
+
+1452
+01:31:28,116 --> 01:31:30,784
+<i>i felt I'd lived my whole</i>
+<i>wretched life just to prepare me</i>
+
+1453
+01:31:30,786 --> 01:31:32,986
+<i>wretched life just to prepare me</i>
+<i>for that moment.</i>
+
+1454
+01:31:32,988 --> 01:31:36,590
+<i>For that moment.</i>
+<i>[♪...]</i>
+
+1455
+01:31:36,592 --> 01:31:59,546
+<i>[♪...]</i>
+
+1456
+01:31:59,548 --> 01:32:13,627
+<i>[Man yells, Clara shouts,</i>
+<i>growls, moans]</i>
+
+1457
+01:32:13,629 --> 01:32:24,437
+<i>[Whispers] It was easy.</i>
+<i>[♪...]</i>
+
+1458
+01:32:24,439 --> 01:32:29,743
+<i>[♪...]</i>
+<i>[Gasps, laughs]</i>
+
+1459
+01:32:29,745 --> 01:32:31,878
+<i>[Gasps, laughs]</i>
+<i>Where's ruthven?</i>
+
+1460
+01:32:31,880 --> 01:32:32,445
+<i>Where's ruthven?</i>
+<i>He wasn't worthy of</i>
+
+1461
+01:32:32,447 --> 01:32:34,881
+<i>he wasn't worthy of</i>
+<i>your gift.</i>
+
+1462
+01:32:34,883 --> 01:32:37,183
+<i>Your gift.</i>
+<i>You stole it?</i>
+
+1463
+01:32:37,185 --> 01:32:39,586
+<i>You stole it?</i>
+<i>Are we thieves now?</i>
+
+1464
+01:32:39,588 --> 01:32:42,022
+<i>Are we thieves now?</i>
+<i>Do we steal time?</i>
+
+1465
+01:32:42,024 --> 01:32:44,791
+<i>Do we steal time?</i>
+<i>We buy it.</i>
+
+1466
+01:32:44,793 --> 01:32:48,828
+<i>We buy it.</i>
+<i>With blood.</i>
+
+1467
+01:32:48,830 --> 01:32:50,897
+<i>With blood.</i>
+<i>We are a brotherhood.</i>
+
+1468
+01:32:50,899 --> 01:32:55,035
+<i>We are a brotherhood.</i>
+<i>There are no women amongst us.</i>
+
+1469
+01:32:55,037 --> 01:32:56,836
+<i>There are no women amongst us.</i>
+<i>What is her parentage?</i>
+
+1470
+01:32:56,838 --> 01:32:57,837
+<i>What is her parentage?</i>
+<i>It is low.</i>
+
+1471
+01:32:57,839 --> 01:32:59,706
+<i>It is low.</i>
+<i>And her life before?</i>
+
+1472
+01:32:59,708 --> 01:33:00,874
+<i>And her life before?</i>
+<i>She made ends meet.</i>
+
+1473
+01:33:00,876 --> 01:33:03,743
+<i>She made ends meet.</i>
+<i>I was a harlot.</i>
+
+1474
+01:33:03,745 --> 01:33:06,313
+<i>I was a harlot.</i>
+<i>But that is in the past.</i>
+
+1475
+01:33:06,315 --> 01:33:08,348
+<i>But that is in the past.</i>
+<i>Some things are eternal.</i>
+
+1476
+01:33:08,350 --> 01:33:09,549
+<i>Some things are eternal.</i>
+<i>You were to find a man of</i>
+
+1477
+01:33:09,551 --> 01:33:10,383
+<i>you were to find a man of</i>
+<i>good blood who appreciates this</i>
+
+1478
+01:33:10,385 --> 01:33:11,985
+<i>good blood who appreciates this</i>
+<i>brotherhood and what we do.</i>
+
+1479
+01:33:11,987 --> 01:33:15,488
+<i>Brotherhood and what we do.</i>
+<i>What is it you do?</i>
+
+1480
+01:33:15,490 --> 01:33:16,923
+<i>What is it you do?</i>
+<i>We are the pointed nails</i>
+
+1481
+01:33:16,925 --> 01:33:19,693
+<i>we are the pointed nails</i>
+<i>of justice.</i>
+
+1482
+01:33:19,695 --> 01:33:22,562
+<i>Of justice.</i>
+<i>How will you use this gift?</i>
+
+1483
+01:33:22,564 --> 01:33:23,730
+<i>How will you use this gift?</i>
+<i>To punish those who prey on</i>
+
+1484
+01:33:23,732 --> 01:33:25,665
+<i>to punish those who prey on</i>
+<i>the weak.</i>
+
+1485
+01:33:25,667 --> 01:33:28,969
+<i>The weak.</i>
+<i>To curb the power of men.</i>
+
+1486
+01:33:28,971 --> 01:33:30,070
+<i>To curb the power of men.</i>
+<i>We should not permit</i>
+
+1487
+01:33:30,072 --> 01:33:32,539
+<i>we should not permit</i>
+<i>her to survive.</i>
+
+1488
+01:33:32,541 --> 01:33:34,507
+<i>Her to survive.</i>
+<i>We have no choice</i>
+
+1489
+01:33:34,509 --> 01:33:37,043
+<i>we have no choice</i>
+<i>unless she breaks our code.</i>
+
+1490
+01:33:37,045 --> 01:33:39,312
+<i>Unless she breaks our code.</i>
+<i>You have no part in our order.</i>
+
+1491
+01:33:39,314 --> 01:33:41,014
+<i>You have no part in our order.</i>
+<i>Man 2: Truly you're base.</i>
+
+1492
+01:33:41,016 --> 01:33:44,884
+<i>Man 2: Truly you're base.</i>
+<i>Will you not speak for me?</i>
+
+1493
+01:33:44,886 --> 01:33:48,521
+<i>Will you not speak for me?</i>
+<i>[♪...]</i>
+
+1494
+01:33:48,523 --> 01:33:58,098
+<i>...they banished me.</i>
+<i>I learned that immortality is</i>
+
+1495
+01:33:58,100 --> 01:34:00,433
+<i>i learned that immortality is</i>
+<i>unendurable alone.</i>
+
+1496
+01:34:00,435 --> 01:34:02,469
+<i>Unendurable alone.</i>
+<i>So I came back.</i>
+
+1497
+01:34:02,471 --> 01:34:04,771
+<i>So I came back.</i>
+<i>I watched my daughter grow.</i>
+
+1498
+01:34:04,773 --> 01:34:05,939
+<i>I watched my daughter grow.</i>
+<i>She was my only link with</i>
+
+1499
+01:34:05,941 --> 01:34:09,876
+<i>she was my only link with</i>
+<i>everything alive.</i>
+
+1500
+01:34:09,878 --> 01:34:11,878
+<i>Everything alive.</i>
+<i>Woman: Back to sleep!</i>
+
+1501
+01:34:11,880 --> 01:34:15,582
+<i>Woman: Back to sleep!</i>
+<i>Back to sleep!</i>
+
+1502
+01:34:15,584 --> 01:34:20,587
+<i>Back to sleep!</i>
+<i>You!</i>
+
+1503
+01:34:20,589 --> 01:34:23,189
+<i>You!</i>
+<i>Come on.</i>
+
+1504
+01:34:23,191 --> 01:34:30,030
+<i>Come on.</i>
+<i>[♪...]</i>
+
+1505
+01:34:30,032 --> 01:34:32,399
+<i>[♪...]</i>
+<i>[Gasps]</i>
+
+1506
+01:34:32,401 --> 01:34:33,199
+<i>[Gasps]</i>
+<i>...It was because of</i>
+
+1507
+01:34:33,201 --> 01:34:36,102
+<i>...it was because of</i>
+<i>Eleanor I broke their code.</i>
+
+1508
+01:34:36,104 --> 01:34:38,238
+<i>Eleanor I broke their code.</i>
+<i>How did you do that?</i>
+
+1509
+01:34:38,240 --> 01:34:39,139
+<i>How did you do that?</i>
+<i>A woman's not permitted</i>
+
+1510
+01:34:39,141 --> 01:34:42,609
+<i>a woman's not permitted</i>
+<i>to create.</i>
+
+1511
+01:34:42,611 --> 01:34:43,610
+<i>To create.</i>
+<i>I took my darling to the</i>
+
+1512
+01:34:43,612 --> 01:34:45,211
+<i>i took my darling to the</i>
+<i>nameless island, I let that</i>
+
+1513
+01:34:45,213 --> 01:34:48,648
+<i>nameless island, I let that</i>
+<i>thing save her.</i>
+
+1514
+01:34:48,650 --> 01:34:49,482
+<i>Thing save her.</i>
+<i>And for that, they would</i>
+
+1515
+01:34:49,484 --> 01:34:52,719
+<i>and for that, they would</i>
+<i>annihilate us both.</i>
+
+1516
+01:34:52,721 --> 01:34:54,654
+<i>Annihilate us both.</i>
+<i>You see, I had made a</i>
+
+1517
+01:34:54,656 --> 01:34:57,157
+<i>you see, I had made a</i>
+<i>fatal error.</i>
+
+1518
+01:34:57,159 --> 01:34:59,559
+<i>Fatal error.</i>
+<i>I'd been merciful.</i>
+
+1519
+01:34:59,561 --> 01:35:00,760
+<i>I'd been merciful.</i>
+<i>I'd let ruthven live.</i>
+
+1520
+01:35:00,762 --> 01:35:01,861
+<i>I'd let ruthven live.</i>
+<i>...Eleanor!</i>
+
+1521
+01:35:01,863 --> 01:35:03,396
+<i>...Eleanor!</i>
+<i>[Shudders]</i>
+
+1522
+01:35:03,398 --> 01:35:06,633
+<i>[Shudders]</i>
+<i>Eleanor!</i>
+
+1523
+01:35:06,635 --> 01:35:07,634
+<i>Eleanor!</i>
+<i>Give my regards to</i>
+
+1524
+01:35:07,636 --> 01:35:10,370
+<i>give my regards to</i>
+<i>your mother. [Eleanor sobbing]</i>
+
+1525
+01:35:10,372 --> 01:35:12,205
+<i>Your mother. [Eleanor sobbing]</i>
+<i>Welcome to a slow death.</i>
+
+1526
+01:35:12,207 --> 01:35:13,973
+<i>Welcome to a slow death.</i>
+<i>Eleanor!</i>
+
+1527
+01:35:13,975 --> 01:35:15,475
+<i>Eleanor!</i>
+<i>[Coins clink on floor]</i>
+
+1528
+01:35:15,477 --> 01:35:17,277
+<i>[Coins clink on floor]</i>
+<i>Welcome...</i>
+
+1529
+01:35:17,279 --> 01:35:18,778
+<i>Welcome...</i>
+<i>Whore...</i>
+
+1530
+01:35:18,780 --> 01:35:19,746
+<i>Whore...</i>
+<i>No!</i>
+
+1531
+01:35:19,748 --> 01:35:20,847
+<i>No!</i>
+<i>[Ruthven grunting]</i>
+
+1532
+01:35:20,849 --> 01:35:23,283
+<i>[Ruthven grunting]</i>
+<i>[Screaming]</i>
+
+1533
+01:35:23,285 --> 01:35:26,519
+<i>[Screaming]</i>
+<i>Die! Die! [Sobs]</i>
+
+1534
+01:35:26,521 --> 01:35:29,222
+<i>Die! Die! [Sobs]</i>
+<i>...Now you know everything.</i>
+
+1535
+01:35:29,224 --> 01:35:31,257
+<i>...now you know everything.</i>
+<i>I'm never merciful.</i>
+
+1536
+01:35:31,259 --> 01:35:33,893
+<i>I'm never merciful.</i>
+<i>And knowledge is a fatal thing.</i>
+
+1537
+01:35:33,895 --> 01:35:37,597
+<i>And knowledge is a fatal thing.</i>
+<i>[Minton gasping]</i>
+
+1538
+01:35:37,599 --> 01:35:44,704
+<i>[Clara sobbing and sighing]</i>
+
+1539
+01:35:44,706 --> 01:35:51,444
+<i>Eleanor: When I was born,</i>
+<i>there were only seven planets.</i>
+
+1540
+01:35:51,446 --> 01:35:52,812
+<i>There were only seven planets.</i>
+<i>Neptune hadn't been discovered,</i>
+
+1541
+01:35:52,814 --> 01:35:56,816
+<i>Neptune hadn't been discovered,</i>
+<i>so nobody believed in it.</i>
+
+1542
+01:35:56,818 --> 01:35:57,851
+<i>So nobody believed in it.</i>
+<i>Heaven and earth are full of</i>
+
+1543
+01:35:57,853 --> 01:36:00,653
+<i>heaven and earth are full of</i>
+<i>things we don't yet understand.</i>
+
+1544
+01:36:00,655 --> 01:36:12,866
+<i>I had a year of chemotherapy.</i>
+<i>Spent too much time lying in my</i>
+
+1545
+01:36:12,868 --> 01:36:19,472
+<i>spent too much time lying in my</i>
+<i>bed, so I made this.</i>
+
+1546
+01:36:19,474 --> 01:36:34,020
+<i>That's you.</i>
+<i>Near the sun.</i>
+
+1547
+01:36:34,022 --> 01:36:38,525
+<i>Near the sun.</i>
+<i>Where it's warm and bright.</i>
+
+1548
+01:36:38,527 --> 01:36:43,196
+<i>Where it's warm and bright.</i>
+<i>And that's me.</i>
+
+1549
+01:36:43,198 --> 01:36:47,901
+<i>And that's me.</i>
+<i>Where light barely penetrates.</i>
+
+1550
+01:36:47,903 --> 01:36:51,337
+<i>Where light barely penetrates.</i>
+<i>And it's cold.</i>
+
+1551
+01:36:51,339 --> 01:36:54,107
+<i>And it's cold.</i>
+<i>Time moves so slowly.</i>
+
+1552
+01:36:54,109 --> 01:37:07,554
+<i>You're not cold.</i>
+<i>[♪...]</i>
+
+1553
+01:37:07,556 --> 01:37:09,255
+<i>[♪...]</i>
+<i>Everything outside of time</i>
+
+1554
+01:37:09,257 --> 01:37:11,391
+<i>everything outside of time</i>
+<i>is cold.</i>
+
+1555
+01:37:11,393 --> 01:37:19,399
+<i>Is cold.</i>
+<i>[♪...]</i>
+
+1556
+01:37:19,401 --> 01:37:25,071
+<i>If you kiss me right now,</i>
+<i>would I live forever?</i>
+
+1557
+01:37:25,073 --> 01:37:32,445
+<i>Would I live forever?</i>
+<i>[♪...]</i>
+
+1558
+01:37:32,447 --> 01:38:11,851
+<i>[Frank gasps]</i>
+<i>[Gasps]</i>
+
+1559
+01:38:11,853 --> 01:38:14,854
+<i>[Gasps]</i>
+<i>I'm sorry!</i>
+
+1560
+01:38:14,856 --> 01:38:16,256
+<i>I'm sorry!</i>
+<i>Wait!</i>
+
+1561
+01:38:16,258 --> 01:38:22,862
+<i>Wait!</i>
+<i>[♪...]</i>
+
+1562
+01:38:22,864 --> 01:38:25,965
+<i>[♪...]</i>
+<i>Stop!</i>
+
+1563
+01:38:25,967 --> 01:38:27,367
+<i>Stop!</i>
+<i>Why do you always run away</i>
+
+1564
+01:38:27,369 --> 01:38:28,601
+<i>why do you always run away</i>
+<i>from me?</i>
+
+1565
+01:38:28,603 --> 01:38:29,369
+<i>From me?</i>
+<i>If you stay with me,</i>
+
+1566
+01:38:29,371 --> 01:38:30,169
+<i>if you stay with me,</i>
+<i>you'll die.</i>
+
+1567
+01:38:30,171 --> 01:38:32,272
+<i>You'll die.</i>
+<i>I'm dying anyway.</i>
+
+1568
+01:38:32,274 --> 01:38:33,773
+<i>I'm dying anyway.</i>
+<i>It isn't life I offer you.</i>
+
+1569
+01:38:33,775 --> 01:38:35,775
+<i>It isn't life I offer you.</i>
+<i>Do you understand that?</i>
+
+1570
+01:38:35,777 --> 01:38:37,877
+<i>Do you understand that?</i>
+<i>You'll take life.</i>
+
+1571
+01:38:37,879 --> 01:38:39,879
+<i>You'll take life.</i>
+<i>By consent, like you do.</i>
+
+1572
+01:38:39,881 --> 01:38:40,880
+<i>By consent, like you do.</i>
+<i>[Tearfully] It's still</i>
+
+1573
+01:38:40,882 --> 01:38:41,781
+<i>[tearfully] It's still</i>
+<i>monstrous.</i>
+
+1574
+01:38:41,783 --> 01:38:46,819
+<i>Monstrous.</i>
+<i>You'll leave everything behind.</i>
+
+1575
+01:38:46,821 --> 01:38:49,022
+<i>You'll leave everything behind.</i>
+<i>Except you.</i>
+
+1576
+01:38:49,024 --> 01:38:51,925
+<i>Except you.</i>
+<i>[♪...]</i>
+
+1577
+01:38:51,927 --> 01:39:09,609
+<i>The gift I gave you, open it.</i>
+<i>Wait until I knock.</i>
+
+1578
+01:39:09,611 --> 01:39:12,712
+<i>Wait until I knock.</i>
+<i>[♪...]</i>
+
+1579
+01:39:12,714 --> 01:39:14,881
+<i>[♪...]</i>
+<i>Morag: Kevin?</i>
+
+1580
+01:39:14,883 --> 01:39:17,750
+<i>Morag: Kevin?</i>
+<i>Do you want to come to...</i>
+
+1581
+01:39:17,752 --> 01:39:25,658
+<i>Do you want to come to...</i>
+<i>[♪...]</i>
+
+1582
+01:39:25,660 --> 01:39:35,368
+<i>[Gate clatters]</i>
+<i>There you are.</i>
+
+1583
+01:39:35,370 --> 01:39:36,736
+<i>There you are.</i>
+<i>I've been worried sick.</i>
+
+1584
+01:39:36,738 --> 01:39:39,038
+<i>I've been worried sick.</i>
+<i>Claire's not happy.</i>
+
+1585
+01:39:39,040 --> 01:39:40,473
+<i>Claire's not happy.</i>
+<i>I've made changes.</i>
+
+1586
+01:39:40,475 --> 01:39:41,240
+<i>I've made changes.</i>
+<i>Sent the girls home.</i>
+
+1587
+01:39:41,242 --> 01:39:41,808
+<i>Sent the girls home.</i>
+<i>Bought them tickets on</i>
+
+1588
+01:39:41,810 --> 01:39:43,242
+<i>bought them tickets on</i>
+<i>the eurostar.</i>
+
+1589
+01:39:43,244 --> 01:39:44,243
+<i>The eurostar.</i>
+<i>It's going to be a clean</i>
+
+1590
+01:39:44,245 --> 01:39:44,811
+<i>it's going to be a clean</i>
+<i>house now.</i>
+
+1591
+01:39:44,813 --> 01:39:47,180
+<i>House now.</i>
+<i>No, I'm leaving.</i>
+
+1592
+01:39:47,182 --> 01:39:47,947
+<i>No, I'm leaving.</i>
+<i>What are you talking about?</i>
+
+1593
+01:39:47,949 --> 01:39:48,781
+<i>What are you talking about?</i>
+<i>What do you think</i>
+
+1594
+01:39:48,783 --> 01:39:49,382
+<i>what do you think</i>
+<i>you're doing?</i>
+
+1595
+01:39:49,384 --> 01:39:50,283
+<i>You're doing?</i>
+<i>Telling that fucking school</i>
+
+1596
+01:39:50,285 --> 01:39:51,384
+<i>telling that fucking school</i>
+<i>who we are.</i>
+
+1597
+01:39:51,386 --> 01:39:52,385
+<i>Who we are.</i>
+<i>I hate the way you speak,</i>
+
+1598
+01:39:52,387 --> 01:39:52,952
+<i>I hate the way you speak,</i>
+<i>it makes me sick!</i>
+
+1599
+01:39:52,954 --> 01:39:53,953
+<i>It makes me sick!</i>
+<i>How dare you put us in</i>
+
+1600
+01:39:53,955 --> 01:39:54,954
+<i>how dare you put us in</i>
+<i>such danger!</i>
+
+1601
+01:39:54,956 --> 01:39:55,955
+<i>Such danger!</i>
+<i>You told that fucking teacher</i>
+
+1602
+01:39:55,957 --> 01:39:57,190
+<i>you told that fucking teacher</i>
+<i>our story!</i>
+
+1603
+01:39:57,192 --> 01:39:58,524
+<i>Our story!</i>
+<i>I listened to his crap about</i>
+
+1604
+01:39:58,526 --> 01:40:00,059
+<i>i listened to his crap about</i>
+<i>your fantasies of death and all</i>
+
+1605
+01:40:00,061 --> 01:40:01,227
+<i>your fantasies of death and all</i>
+<i>the while, he was implying</i>
+
+1606
+01:40:01,229 --> 01:40:02,261
+<i>the while, he was implying</i>
+<i>my neglect!</i>
+
+1607
+01:40:02,263 --> 01:40:04,630
+<i>My neglect!</i>
+<i>Neglect, Eleanor, of you!</i>
+
+1608
+01:40:04,632 --> 01:40:05,431
+<i>Neglect, Eleanor, of you!</i>
+<i>Stop it, Claire!</i>
+
+1609
+01:40:05,433 --> 01:40:06,632
+<i>Stop it, Claire!</i>
+<i>There is a rule that we live</i>
+
+1610
+01:40:06,634 --> 01:40:08,935
+<i>there is a rule that we live</i>
+<i>by and you broke it!</i>
+
+1611
+01:40:08,937 --> 01:40:10,036
+<i>By and you broke it!</i>
+<i>What if I broke free?</i>
+
+1612
+01:40:10,038 --> 01:40:10,870
+<i>What if I broke free?</i>
+<i>No!</i>
+
+1613
+01:40:10,872 --> 01:40:11,904
+<i>No!</i>
+<i>To tell another is forbidden.</i>
+
+1614
+01:40:11,906 --> 01:40:12,905
+<i>To tell another is forbidden.</i>
+<i>Those with knowledge</i>
+
+1615
+01:40:12,907 --> 01:40:13,740
+<i>those with knowledge</i>
+<i>have to die.</i>
+
+1616
+01:40:13,742 --> 01:40:14,741
+<i>Have to die.</i>
+<i>You made that rule so you</i>
+
+1617
+01:40:14,743 --> 01:40:15,375
+<i>you made that rule so you</i>
+<i>could isolate me.</i>
+
+1618
+01:40:15,377 --> 01:40:17,443
+<i>Could isolate me.</i>
+<i>No, I kept you safe!</i>
+
+1619
+01:40:17,445 --> 01:40:18,811
+<i>No, I kept you safe!</i>
+<i>You stupid fucking cunt,</i>
+
+1620
+01:40:18,813 --> 01:40:21,447
+<i>you stupid fucking cunt,</i>
+<i>mother, I hate you!</i>
+
+1621
+01:40:21,449 --> 01:40:24,050
+<i>Mother, I hate you!</i>
+<i>[Clara sobs]</i>
+
+1622
+01:40:24,052 --> 01:40:25,318
+<i>[Clara sobs]</i>
+<i>No, no, no, leave her!</i>
+
+1623
+01:40:25,320 --> 01:40:26,486
+<i>No, no, no, leave her!</i>
+<i>Just leave her!</i>
+
+1624
+01:40:26,488 --> 01:40:28,821
+<i>Just leave her!</i>
+<i>Don't leave! Come back, Ella!</i>
+
+1625
+01:40:28,823 --> 01:40:31,157
+<i>Don't leave! Come back, Ella!</i>
+<i>Get off!</i>
+
+1626
+01:40:31,159 --> 01:40:31,991
+<i>Get off!</i>
+<i>Eleanor!</i>
+
+1627
+01:40:31,993 --> 01:40:32,725
+<i>Eleanor!</i>
+<i>Claire!</i>
+
+1628
+01:40:32,727 --> 01:40:34,327
+<i>Claire!</i>
+<i>No, you can't leave!</i>
+
+1629
+01:40:34,329 --> 01:40:35,395
+<i>No, you can't leave!</i>
+<i>You're making it worse!</i>
+
+1630
+01:40:35,397 --> 01:40:36,963
+<i>You're making it worse!</i>
+<i>It's not safe, Eleanor!</i>
+
+1631
+01:40:36,965 --> 01:40:38,731
+<i>It's not safe, Eleanor!</i>
+<i>You can't leave!</i>
+
+1632
+01:40:38,733 --> 01:40:40,400
+<i>You can't leave!</i>
+<i>Just leave her be!</i>
+
+1633
+01:40:40,402 --> 01:40:42,368
+<i>Just leave her be!</i>
+<i>[Elevator stops]</i>
+
+1634
+01:40:42,370 --> 01:40:44,037
+<i>[Elevator stops]</i>
+<i>No! Eleanor: Clara?</i>
+
+1635
+01:40:44,039 --> 01:40:44,971
+<i>No! Eleanor: Clara?</i>
+<i>You can't leave,</i>
+
+1636
+01:40:44,973 --> 01:40:45,972
+<i>you can't leave,</i>
+<i>it's not safe! Clara!</i>
+
+1637
+01:40:45,974 --> 01:40:47,306
+<i>It's not safe! Clara!</i>
+<i>She has every right to go!</i>
+
+1638
+01:40:47,308 --> 01:40:48,808
+<i>She has every right to go!</i>
+<i>[Screams] [Gasps] no!</i>
+
+1639
+01:40:48,810 --> 01:40:50,910
+<i>[Screams] [Gasps] No!</i>
+<i>[Thud, Eleanor gasps]</i>
+
+1640
+01:40:50,912 --> 01:40:56,015
+<i>[Thud, Eleanor gasps]</i>
+<i>[♪...]</i>
+
+1641
+01:40:56,017 --> 01:40:58,551
+<i>[♪...]</i>
+<i>Man: Know where she lives?</i>
+
+1642
+01:40:58,553 --> 01:41:00,686
+<i>Man: Know where she lives?</i>
+<i>Yes, I believe it's the hotel</i>
+
+1643
+01:41:00,688 --> 01:41:01,854
+<i>yes, I believe it's the hotel</i>
+<i>on the seafront.</i>
+
+1644
+01:41:01,856 --> 01:41:03,890
+<i>On the seafront.</i>
+<i>Does she trust you?</i>
+
+1645
+01:41:03,892 --> 01:41:04,891
+<i>Does she trust you?</i>
+<i>Maybe.</i>
+
+1646
+01:41:04,893 --> 01:41:06,192
+<i>Maybe.</i>
+<i>I've never lied to her.</i>
+
+1647
+01:41:06,194 --> 01:41:07,293
+<i>I've never lied to her.</i>
+<i>Darvell: That's good.</i>
+
+1648
+01:41:07,295 --> 01:41:09,062
+<i>Darvell: That's good.</i>
+<i>What will happen?</i>
+
+1649
+01:41:09,064 --> 01:41:09,896
+<i>What will happen?</i>
+<i>She'll be taken</i>
+
+1650
+01:41:09,898 --> 01:41:11,531
+<i>she'll be taken</i>
+<i>somewhere safe.</i>
+
+1651
+01:41:11,533 --> 01:41:14,233
+<i>Somewhere safe.</i>
+<i>We just want to talk to her.</i>
+
+1652
+01:41:14,235 --> 01:41:15,701
+<i>We just want to talk to her.</i>
+<i>You've told your little</i>
+
+1653
+01:41:15,703 --> 01:41:16,702
+<i>you've told your little</i>
+<i>boyfriend all about us,</i>
+
+1654
+01:41:16,704 --> 01:41:17,703
+<i>boyfriend all about us,</i>
+<i>haven't you? No!</i>
+
+1655
+01:41:17,705 --> 01:41:18,704
+<i>Haven't you? No!</i>
+<i>You know what happens to</i>
+
+1656
+01:41:18,706 --> 01:41:19,872
+<i>you know what happens to</i>
+<i>those with knowledge, Ella!</i>
+
+1657
+01:41:19,874 --> 01:41:20,873
+<i>Those with knowledge, Ella!</i>
+<i>No, Clara, don't!</i>
+
+1658
+01:41:20,875 --> 01:41:21,874
+<i>No, Clara, don't!</i>
+<i>It's like a virus--</i>
+
+1659
+01:41:21,876 --> 01:41:22,875
+<i>it's like a virus--</i>
+<i>it's deadly,</i>
+
+1660
+01:41:22,877 --> 01:41:24,410
+<i>it's deadly,</i>
+<i>it needs to be stamped out.</i>
+
+1661
+01:41:24,412 --> 01:41:25,845
+<i>It needs to be stamped out.</i>
+<i>Clara, please, don't!</i>
+
+1662
+01:41:25,847 --> 01:41:26,746
+<i>Clara, please, don't!</i>
+<i>I know where he lives.</i>
+
+1663
+01:41:26,748 --> 01:41:29,916
+<i>I know where he lives.</i>
+<i>Don't! Clara, don't go!</i>
+
+1664
+01:41:29,918 --> 01:41:33,886
+<i>Don't! Clara, don't go!</i>
+<i>Clara! Clara!</i>
+
+1665
+01:41:33,888 --> 01:41:36,656
+<i>Clara! Clara!</i>
+<i>[Sobbing]</i>
+
+1666
+01:41:36,658 --> 01:41:39,025
+<i>[Sobbing]</i>
+<i>[Gate clatters]</i>
+
+1667
+01:41:39,027 --> 01:41:47,800
+<i>[Gate clatters]</i>
+<i>[♪...]</i>
+
+1668
+01:41:47,802 --> 01:41:59,445
+<i>[Cell phone buzzing]</i>
+
+1669
+01:41:59,447 --> 01:42:29,108
+<i>[♪...]</i>
+
+1670
+01:42:29,110 --> 01:42:33,246
+<i>Hello...</i>
+<i>Frank.</i>
+
+1671
+01:42:33,248 --> 01:42:34,747
+<i>Frank.</i>
+<i>Where's Eleanor?</i>
+
+1672
+01:42:34,749 --> 01:42:35,948
+<i>Where's Eleanor?</i>
+<i>She's got a message for you,</i>
+
+1673
+01:42:35,950 --> 01:42:37,550
+<i>she's got a message for you,</i>
+<i>can I come in?</i>
+
+1674
+01:42:37,552 --> 01:42:45,057
+<i>Well, you're going to have to</i>
+<i>come out here then, aren't you?</i>
+
+1675
+01:42:45,059 --> 01:42:50,963
+<i>Come out here then, aren't you?</i>
+<i>[♪...]</i>
+
+1676
+01:42:50,965 --> 01:42:55,701
+<i>[♪...]</i>
+<i>[Eleanor breathes raggedly]</i>
+
+1677
+01:42:55,703 --> 01:43:04,243
+<i>I must say, you are</i>
+<i>definitely Ella's type.</i>
+
+1678
+01:43:04,245 --> 01:43:06,345
+<i>Definitely Ella's type.</i>
+<i>Earnest, clueless, 'bout sexy</i>
+
+1679
+01:43:06,347 --> 01:43:10,049
+<i>earnest, clueless, 'bout sexy</i>
+<i>as a pair of shoes.</i>
+
+1680
+01:43:10,051 --> 01:43:11,050
+<i>As a pair of shoes.</i>
+<i>I knew you wouldn't let her</i>
+
+1681
+01:43:11,052 --> 01:43:12,952
+<i>I knew you wouldn't let her</i>
+<i>go without a fight.</i>
+
+1682
+01:43:12,954 --> 01:43:14,353
+<i>Go without a fight.</i>
+<i>Oh... is that what you're</i>
+
+1683
+01:43:14,355 --> 01:43:17,723
+<i>oh... is that what you're</i>
+<i>suggesting, Frank?</i>
+
+1684
+01:43:17,725 --> 01:43:18,991
+<i>Suggesting, Frank?</i>
+<i>A fight?</i>
+
+1685
+01:43:18,993 --> 01:43:21,160
+<i>A fight?</i>
+<i>[Frank gasps]</i>
+
+1686
+01:43:21,162 --> 01:43:34,607
+<i>Go on.</i>
+<i>Finish me.</i>
+
+1687
+01:43:34,609 --> 01:43:37,410
+<i>Finish me.</i>
+<i>I still have the advantage.</i>
+
+1688
+01:43:37,412 --> 01:43:40,746
+<i>I still have the advantage.</i>
+<i>She's going to leave you anyway.</i>
+
+1689
+01:43:40,748 --> 01:43:45,251
+<i>She's going to leave you anyway.</i>
+<i>[Phone ringing]</i>
+
+1690
+01:43:45,253 --> 01:43:46,385
+<i>[Phone ringing]</i>
+<i>Eleanor: Frank!</i>
+
+1691
+01:43:46,387 --> 01:43:48,020
+<i>Eleanor: Frank!</i>
+<i>Clara's coming.</i>
+
+1692
+01:43:48,022 --> 01:43:48,788
+<i>Clara's coming.</i>
+<i>Don't answer the door,</i>
+
+1693
+01:43:48,790 --> 01:43:49,922
+<i>don't answer the door,</i>
+<i>don't let her in.</i>
+
+1694
+01:43:49,924 --> 01:43:50,890
+<i>Don't let her in.</i>
+<i>I'm trapped here.</i>
+
+1695
+01:43:50,892 --> 01:43:51,857
+<i>I'm trapped here.</i>
+<i>She caught me.</i>
+
+1696
+01:43:51,859 --> 01:43:52,858
+<i>She caught me.</i>
+<i>Just don't let her get you.</i>
+
+1697
+01:43:52,860 --> 01:43:55,428
+<i>Just don't let her get you.</i>
+<i>It's too late, my love.</i>
+
+1698
+01:43:55,430 --> 01:43:57,029
+<i>It's too late, my love.</i>
+<i>I will never forgive,</i>
+
+1699
+01:43:57,031 --> 01:44:00,533
+<i>I will never forgive,</i>
+<i>i will never, ever forgive!</i>
+
+1700
+01:44:00,535 --> 01:44:01,968
+<i>I will never, ever forgive!</i>
+<i>Eleanor, what the hell</i>
+
+1701
+01:44:01,970 --> 01:44:03,035
+<i>Eleanor, what the hell</i>
+<i>is going on?</i>
+
+1702
+01:44:03,037 --> 01:44:03,803
+<i>Is going on?</i>
+<i>It's Clara, you have to</i>
+
+1703
+01:44:03,805 --> 01:44:04,637
+<i>it's Clara, you have to</i>
+<i>stop her! [Gate clatters]</i>
+
+1704
+01:44:04,639 --> 01:44:05,238
+<i>Stop her! [Gate clatters]</i>
+<i>These men are looking</i>
+
+1705
+01:44:05,240 --> 01:44:06,239
+<i>these men are looking</i>
+<i>for her, where she is?</i>
+
+1706
+01:44:06,241 --> 01:44:07,306
+<i>For her, where she is?</i>
+<i>Eleanor: She's here. Ella.</i>
+
+1707
+01:44:07,308 --> 01:44:08,608
+<i>Eleanor: She's here. Ella.</i>
+<i>Eleanor, you have to tell us</i>
+
+1708
+01:44:08,610 --> 01:44:09,976
+<i>Eleanor, you have to tell us</i>
+<i>the truth... something terrible</i>
+
+1709
+01:44:09,978 --> 01:44:10,810
+<i>the truth... something terrible</i>
+<i>has happened to Kevin.</i>
+
+1710
+01:44:10,812 --> 01:44:12,511
+<i>Has happened to Kevin.</i>
+<i>Clara webb?</i>
+
+1711
+01:44:12,513 --> 01:44:13,512
+<i>Clara webb?</i>
+<i>Who is this?</i>
+
+1712
+01:44:13,514 --> 01:44:14,513
+<i>Who is this?</i>
+<i>You know who we are,</i>
+
+1713
+01:44:14,515 --> 01:44:15,514
+<i>you know who we are,</i>
+<i>whore mother.</i>
+
+1714
+01:44:15,516 --> 01:44:16,849
+<i>Whore mother.</i>
+<i>I will take care of Eleanor now.</i>
+
+1715
+01:44:16,851 --> 01:44:18,818
+<i>I will take care of Eleanor now.</i>
+<i>Ella!</i>
+
+1716
+01:44:18,820 --> 01:44:21,354
+<i>Ella!</i>
+<i>[Gasps] Ella!</i>
+
+1717
+01:44:21,356 --> 01:44:24,690
+<i>[Gasps] Ella!</i>
+<i>[♪...]</i>
+
+1718
+01:44:24,692 --> 01:44:25,825
+<i>[♪...]</i>
+<i>These men are from the</i>
+
+1719
+01:44:25,827 --> 01:44:26,826
+<i>these men are from the</i>
+<i>police, Eleanor.</i>
+
+1720
+01:44:26,828 --> 01:44:28,928
+<i>Police, Eleanor.</i>
+<i>They've come to, to help.</i>
+
+1721
+01:44:28,930 --> 01:44:30,663
+<i>They've come to, to help.</i>
+<i>[Latch snaps, gate clatters]</i>
+
+1722
+01:44:30,665 --> 01:44:31,731
+<i>[Latch snaps, gate clatters]</i>
+<i>We have to get to Frank!</i>
+
+1723
+01:44:31,733 --> 01:44:32,732
+<i>We have to get to Frank!</i>
+<i>Morag: We will get to Frank,</i>
+
+1724
+01:44:32,734 --> 01:44:33,899
+<i>morag: We will get to Frank,</i>
+<i>we need to get you to a doctor,</i>
+
+1725
+01:44:33,901 --> 01:44:34,867
+<i>we need to get you to a doctor,</i>
+<i>Eleanor, don't run!</i>
+
+1726
+01:44:34,869 --> 01:44:36,202
+<i>Eleanor, don't run!</i>
+<i>What are you doing?</i>
+
+1727
+01:44:36,204 --> 01:44:37,303
+<i>What are you doing?</i>
+<i>We need to get to Frank!</i>
+
+1728
+01:44:37,305 --> 01:44:37,870
+<i>We need to get to Frank!</i>
+<i>Morag: You don't need</i>
+
+1729
+01:44:37,872 --> 01:44:39,372
+<i>morag: You don't need</i>
+<i>handcuffs, she's a child!</i>
+
+1730
+01:44:39,374 --> 01:44:41,807
+<i>Handcuffs, she's a child!</i>
+<i>Eleanor, I'm coming with you.</i>
+
+1731
+01:44:41,809 --> 01:44:42,775
+<i>Eleanor, I'm coming with you.</i>
+<i>Man: Certainly, come.</i>
+
+1732
+01:44:42,777 --> 01:44:49,682
+<i>[Clara breathes raggedly]</i>
+<i>[♪...]</i>
+
+1733
+01:44:49,684 --> 01:44:50,716
+<i>[♪...]</i>
+<i>I will be with you whatever</i>
+
+1734
+01:44:50,718 --> 01:44:51,617
+<i>I will be with you whatever</i>
+<i>happens, there's no need</i>
+
+1735
+01:44:51,619 --> 01:44:52,685
+<i>happens, there's no need</i>
+<i>to be afraid.</i>
+
+1736
+01:44:52,687 --> 01:44:54,887
+<i>To be afraid.</i>
+<i>Man: Of course not.</i>
+
+1737
+01:44:54,889 --> 01:44:55,721
+<i>Man: Of course not.</i>
+<i>It's a privilege to meet you,</i>
+
+1738
+01:44:55,723 --> 01:44:59,892
+<i>it's a privilege to meet you,</i>
+<i>Eleanor.</i>
+
+1739
+01:44:59,894 --> 01:45:05,131
+<i>[♪...]</i>
+
+1740
+01:45:05,133 --> 01:45:15,174
+<i>I thought Clara and I</i>
+<i>were the only ones.</i>
+
+1741
+01:45:15,176 --> 01:45:16,075
+<i>Were the only ones.</i>
+<i>Surely she told you of</i>
+
+1742
+01:45:16,077 --> 01:45:18,144
+<i>surely she told you of</i>
+<i>the brotherhood.</i>
+
+1743
+01:45:18,146 --> 01:45:19,812
+<i>The brotherhood.</i>
+<i>Excuse me, what are you</i>
+
+1744
+01:45:19,814 --> 01:45:22,081
+<i>excuse me, what are you</i>
+<i>saying to-- darvell.</i>
+
+1745
+01:45:22,083 --> 01:45:24,483
+<i>Saying to-- darvell.</i>
+<i>You're just as I imagined.</i>
+
+1746
+01:45:24,485 --> 01:45:25,484
+<i>You're just as I imagined.</i>
+<i>Help me.</i>
+
+1747
+01:45:25,486 --> 01:45:26,485
+<i>Help me.</i>
+<i>Morag: Where exactly are you</i>
+
+1748
+01:45:26,487 --> 01:45:27,853
+<i>morag: Where exactly are you</i>
+<i>taking us, because we've just</i>
+
+1749
+01:45:27,855 --> 01:45:28,888
+<i>taking us, because we've just</i>
+<i>gone right past the police</i>
+
+1750
+01:45:28,890 --> 01:45:31,657
+<i>gone right past the police</i>
+<i>station and the hospital.</i>
+
+1751
+01:45:31,659 --> 01:45:33,192
+<i>Station and the hospital.</i>
+<i>Seriously, where are we going?</i>
+
+1752
+01:45:33,194 --> 01:45:35,795
+<i>Seriously, where are we going?</i>
+<i>Eleanor! [Glass cracks]</i>
+
+1753
+01:45:35,797 --> 01:45:36,829
+<i>Eleanor! [Glass cracks]</i>
+<i>Ella! [Glass shatters]</i>
+
+1754
+01:45:36,831 --> 01:45:39,899
+<i>Ella! [Glass shatters]</i>
+<i>Ella! Mother!</i>
+
+1755
+01:45:39,901 --> 01:45:41,734
+<i>Ella! Mother!</i>
+<i>They'll destroy you, Ella!</i>
+
+1756
+01:45:41,736 --> 01:45:42,935
+<i>They'll destroy you, Ella!</i>
+<i>They'll destroy you!</i>
+
+1757
+01:45:42,937 --> 01:45:44,603
+<i>They'll destroy you!</i>
+<i>Darvell, let her go!</i>
+
+1758
+01:45:44,605 --> 01:45:50,409
+<i>Darvell, let her go!</i>
+<i>[Tires screeching...]</i>
+
+1759
+01:45:50,411 --> 01:45:52,011
+<i>[Tires screeching...]</i>
+<i>Mother! Please!</i>
+
+1760
+01:45:52,013 --> 01:45:53,212
+<i>Mother! Please!</i>
+<i>Now I'm going to show you,</i>
+
+1761
+01:45:53,214 --> 01:45:56,248
+<i>now I'm going to show you,</i>
+<i>piece of whore.</i>
+
+1762
+01:45:56,250 --> 01:45:59,852
+<i>Piece of whore.</i>
+<i>[Brakes squeal, Clara screams]</i>
+
+1763
+01:45:59,854 --> 01:46:02,054
+<i>[Brakes squeal, Clara screams]</i>
+<i>Yes! [Tires screech]</i>
+
+1764
+01:46:02,056 --> 01:46:04,824
+<i>Yes! [Tires screech]</i>
+<i>Oh, my God, you killed her!</i>
+
+1765
+01:46:04,826 --> 01:46:09,195
+<i>Oh, my God, you killed her!</i>
+<i>Nothing is that easy.</i>
+
+1766
+01:46:09,197 --> 01:46:10,963
+<i>Nothing is that easy.</i>
+<i>[Changes gears, morag whimpers]</i>
+
+1767
+01:46:10,965 --> 01:46:13,199
+<i>[Changes gears, morag whimpers]</i>
+<i>Mother! Mother!</i>
+
+1768
+01:46:13,201 --> 01:46:14,066
+<i>Mother! Mother!</i>
+<i>With this act, I cleanse</i>
+
+1769
+01:46:14,068 --> 01:46:17,036
+<i>with this act, I cleanse</i>
+<i>the earth! Mother! No!</i>
+
+1770
+01:46:17,038 --> 01:46:24,343
+<i>The earth! Mother! No!</i>
+<i>[Tires screech]</i>
+
+1771
+01:46:24,345 --> 01:46:25,578
+<i>[Tires screech]</i>
+<i>[Morag whimpering]</i>
+
+1772
+01:46:25,580 --> 01:46:27,012
+<i>[Morag whimpering]</i>
+<i>Be calm, be calm.</i>
+
+1773
+01:46:27,014 --> 01:46:28,848
+<i>Be calm, be calm.</i>
+<i>Who are you people?</i>
+
+1774
+01:46:28,850 --> 01:46:31,050
+<i>Who are you people?</i>
+<i>I said be calm!</i>
+
+1775
+01:46:31,052 --> 01:46:33,619
+<i>I said be calm!</i>
+<i>[Bones crack]</i>
+
+1776
+01:46:33,621 --> 01:46:36,222
+<i>[Bones crack]</i>
+<i>I hate these crying women.</i>
+
+1777
+01:46:36,224 --> 01:46:48,934
+<i>[♪...]</i>
+<i>Damn you.</i>
+
+1778
+01:46:48,936 --> 01:46:57,910
+<i>I've followed you</i>
+<i>for many years.</i>
+
+1779
+01:46:57,912 --> 01:46:58,911
+<i>For many years.</i>
+<i>You take only those who are</i>
+
+1780
+01:46:58,913 --> 01:47:00,780
+<i>you take only those who are</i>
+<i>ready... and that has</i>
+
+1781
+01:47:00,782 --> 01:47:02,348
+<i>ready... and that has</i>
+<i>a certain grace.</i>
+
+1782
+01:47:02,350 --> 01:47:06,886
+<i>A certain grace.</i>
+<i>[Metal creaks, bangs underfoot]</i>
+
+1783
+01:47:06,888 --> 01:47:09,121
+<i>[Metal creaks, bangs underfoot]</i>
+<i>You have been condemned from</i>
+
+1784
+01:47:09,123 --> 01:47:11,857
+<i>you have been condemned from</i>
+<i>the moment Clara made you.</i>
+
+1785
+01:47:11,859 --> 01:47:13,225
+<i>The moment Clara made you.</i>
+<i>Our code does not permit women</i>
+
+1786
+01:47:13,227 --> 01:47:14,527
+<i>our code does not permit women</i>
+<i>to create.</i>
+
+1787
+01:47:14,529 --> 01:47:22,535
+<i>To create.</i>
+<i>[♪...]</i>
+
+1788
+01:47:22,537 --> 01:47:28,607
+<i>In her stories,</i>
+<i>you are wonderful.</i>
+
+1789
+01:47:28,609 --> 01:47:32,678
+<i>You are wonderful.</i>
+<i>You had compassion and respect.</i>
+
+1790
+01:47:32,680 --> 01:47:34,680
+<i>You had compassion and respect.</i>
+<i>You gave her life.</i>
+
+1791
+01:47:34,682 --> 01:47:37,850
+<i>You gave her life.</i>
+<i>She stole her life.</i>
+
+1792
+01:47:37,852 --> 01:47:39,185
+<i>She stole her life.</i>
+<i>Please.</i>
+
+1793
+01:47:39,187 --> 01:47:40,352
+<i>Please.</i>
+<i>Please, stop him.</i>
+
+1794
+01:47:40,354 --> 01:47:40,953
+<i>Please, stop him.</i>
+<i>She killed one of</i>
+
+1795
+01:47:40,955 --> 01:47:42,521
+<i>she killed one of</i>
+<i>the brethren.</i>
+
+1796
+01:47:42,523 --> 01:47:43,589
+<i>The brethren.</i>
+<i>And that's unforgivable.</i>
+
+1797
+01:47:43,591 --> 01:47:45,458
+<i>And that's unforgivable.</i>
+<i>Don't go...</i>
+
+1798
+01:47:45,460 --> 01:47:48,894
+<i>Don't go...</i>
+<i>[Thud, man grunts]</i>
+
+1799
+01:47:48,896 --> 01:47:49,929
+<i>[Thud, man grunts]</i>
+<i>[Clara shouts]</i>
+
+1800
+01:47:49,931 --> 01:47:51,864
+<i>[Clara shouts]</i>
+<i>[Man gasping]</i>
+
+1801
+01:47:51,866 --> 01:47:53,532
+<i>[Man gasping]</i>
+<i>Amazing how two little girls</i>
+
+1802
+01:47:53,534 --> 01:47:54,967
+<i>amazing how two little girls</i>
+<i>with no money and learning</i>
+
+1803
+01:47:54,969 --> 01:47:56,035
+<i>with no money and learning</i>
+<i>slipped through your fingers</i>
+
+1804
+01:47:56,037 --> 01:47:57,803
+<i>slipped through your fingers</i>
+<i>for an eternity.</i>
+
+1805
+01:47:57,805 --> 01:48:01,740
+<i>For an eternity.</i>
+<i>[Shouting]</i>
+
+1806
+01:48:01,742 --> 01:48:04,910
+<i>[Shouting]</i>
+<i>[Thud, Clara grunts, screams]</i>
+
+1807
+01:48:04,912 --> 01:48:06,245
+<i>[Thud, Clara grunts, screams]</i>
+<i>Hold her down. Ella!</i>
+
+1808
+01:48:06,247 --> 01:48:07,613
+<i>Hold her down. Ella!</i>
+<i>Hold her down.</i>
+
+1809
+01:48:07,615 --> 01:48:10,850
+<i>Hold her down.</i>
+<i>No, no, no...!</i>
+
+1810
+01:48:10,852 --> 01:48:14,753
+<i>No, no, no...!</i>
+<i>No! Eleanor! Ah!</i>
+
+1811
+01:48:14,755 --> 01:48:16,589
+<i>No! Eleanor! Ah!</i>
+<i>Ella!</i>
+
+1812
+01:48:16,591 --> 01:48:19,124
+<i>Ella!</i>
+<i>Eleanor!</i>
+
+1813
+01:48:19,126 --> 01:48:20,793
+<i>Eleanor!</i>
+<i>Bring it here.</i>
+
+1814
+01:48:20,795 --> 01:48:21,660
+<i>Bring it here.</i>
+<i>Bring it here!</i>
+
+1815
+01:48:21,662 --> 01:48:24,029
+<i>Bring it here!</i>
+<i>Isn't the present everything?</i>
+
+1816
+01:48:24,031 --> 01:48:25,631
+<i>Isn't the present everything?</i>
+<i>Ella!</i>
+
+1817
+01:48:25,633 --> 01:48:27,233
+<i>Ella!</i>
+<i>This is your last night,</i>
+
+1818
+01:48:27,235 --> 01:48:28,501
+<i>this is your last night,</i>
+<i>witch. No...!</i>
+
+1819
+01:48:28,503 --> 01:48:29,502
+<i>Witch. No...!</i>
+<i>Last night!</i>
+
+1820
+01:48:29,504 --> 01:48:33,472
+<i>Last night!</i>
+<i>Eleanor! [Sobbing]</i>
+
+1821
+01:48:33,474 --> 01:48:34,573
+<i>Eleanor! [Sobbing]</i>
+<i>[Metal scrapes]</i>
+
+1822
+01:48:34,575 --> 01:48:38,377
+<i>[Metal scrapes]</i>
+<i>[♪...]</i>
+
+1823
+01:48:38,379 --> 01:48:40,980
+<i>[♪...]</i>
+<i>[Eleanor sobbing]</i>
+
+1824
+01:48:40,982 --> 01:48:43,949
+<i>[Eleanor sobbing]</i>
+<i>[Clara panting...]</i>
+
+1825
+01:48:43,951 --> 01:48:56,729
+<i>This blade is from Byzantium.</i>
+<i>My souvenir of the crusades.</i>
+
+1826
+01:48:56,731 --> 01:48:59,231
+<i>My souvenir of the crusades.</i>
+<i>May it send you to eternity.</i>
+
+1827
+01:48:59,233 --> 01:49:00,499
+<i>May it send you to eternity.</i>
+<i>It was on a beach like this</i>
+
+1828
+01:49:00,501 --> 01:49:02,768
+<i>it was on a beach like this</i>
+<i>that we first met.</i>
+
+1829
+01:49:02,770 --> 01:49:03,769
+<i>That we first met.</i>
+<i>But I went with ruthven,</i>
+
+1830
+01:49:03,771 --> 01:49:06,839
+<i>but I went with ruthven,</i>
+<i>for all my damnation.</i>
+
+1831
+01:49:06,841 --> 01:49:08,874
+<i>For all my damnation.</i>
+<i>But it was you,</i>
+
+1832
+01:49:08,876 --> 01:49:10,910
+<i>but it was you,</i>
+<i>you were the pearl.</i>
+
+1833
+01:49:10,912 --> 01:49:12,845
+<i>You were the pearl.</i>
+<i>See how the bitch uses</i>
+
+1834
+01:49:12,847 --> 01:49:15,514
+<i>see how the bitch uses</i>
+<i>her arts to the last.</i>
+
+1835
+01:49:15,516 --> 01:49:18,551
+<i>Her arts to the last.</i>
+<i>The honor is yours.</i>
+
+1836
+01:49:18,553 --> 01:49:20,286
+<i>The honor is yours.</i>
+<i>[♪...]</i>
+
+1837
+01:49:20,288 --> 01:49:21,887
+<i>[♪...]</i>
+<i>Do what you like with me,</i>
+
+1838
+01:49:21,889 --> 01:49:23,389
+<i>do what you like with me,</i>
+<i>but let her go, please!</i>
+
+1839
+01:49:23,391 --> 01:49:24,156
+<i>But let her go, please!</i>
+<i>Hold her still.</i>
+
+1840
+01:49:24,158 --> 01:49:25,991
+<i>Hold her still.</i>
+<i>Please, I beg you, darvell!</i>
+
+1841
+01:49:25,993 --> 01:49:26,692
+<i>Please, I beg you, darvell!</i>
+<i>Still, I said!</i>
+
+1842
+01:49:26,694 --> 01:49:27,826
+<i>Still, I said!</i>
+<i>She's going to die anyway!</i>
+
+1843
+01:49:27,828 --> 01:49:29,895
+<i>She's going to die anyway!</i>
+<i>She can't survive on her own!</i>
+
+1844
+01:49:29,897 --> 01:49:32,131
+<i>She can't survive on her own!</i>
+<i>Eleanor... [eleanor screams]</i>
+
+1845
+01:49:32,133 --> 01:49:33,499
+<i>Eleanor... [eleanor screams]</i>
+<i>My baby!</i>
+
+1846
+01:49:33,501 --> 01:49:35,000
+<i>My baby!</i>
+<i>[Whoosh, squish]</i>
+
+1847
+01:49:35,002 --> 01:49:38,737
+<i>[Whoosh, squish]</i>
+<i>[♪...]</i>
+
+1848
+01:49:38,739 --> 01:49:40,005
+<i>[♪...]</i>
+<i>[Head bangs down stairs]</i>
+
+1849
+01:49:40,007 --> 01:49:48,781
+<i>[Sighs]</i>
+<i>[Eleanor gasps, sobs]</i>
+
+1850
+01:49:48,783 --> 01:49:52,217
+<i>[Eleanor gasps, sobs]</i>
+<i>You truly are a wonder.</i>
+
+1851
+01:49:52,219 --> 01:49:56,121
+<i>[Sniffles, sobs]</i>
+
+1852
+01:49:56,123 --> 01:50:18,143
+<i>[Sobbing]</i>
+<i>[Both crying]</i>
+
+1853
+01:50:18,145 --> 01:50:21,880
+<i>Darvell: I've been following</i>
+<i>you for years...</i>
+
+1854
+01:50:21,882 --> 01:50:25,117
+<i>You for years...</i>
+<i>So assiduously.</i>
+
+1855
+01:50:25,119 --> 01:50:26,118
+<i>So assiduously.</i>
+<i>Because if I wasn't the one</i>
+
+1856
+01:50:26,120 --> 01:50:27,519
+<i>because if I wasn't the one</i>
+<i>to find you, they certainly</i>
+
+1857
+01:50:27,521 --> 01:50:29,521
+<i>to find you, they certainly</i>
+<i>would have killed you.</i>
+
+1858
+01:50:29,523 --> 01:50:30,489
+<i>Would have killed you.</i>
+<i>What will they do,</i>
+
+1859
+01:50:30,491 --> 01:50:32,558
+<i>what will they do,</i>
+<i>the others?</i>
+
+1860
+01:50:32,560 --> 01:50:34,727
+<i>The others?</i>
+<i>The brotherhood is strong,</i>
+
+1861
+01:50:34,729 --> 01:50:37,129
+<i>the brotherhood is strong,</i>
+<i>unchanging.</i>
+
+1862
+01:50:37,131 --> 01:50:38,731
+<i>Unchanging.</i>
+<i>They will come.</i>
+
+1863
+01:50:38,733 --> 01:50:39,531
+<i>They will come.</i>
+<i>With their pointed nails</i>
+
+1864
+01:50:39,533 --> 01:50:42,101
+<i>with their pointed nails</i>
+<i>of justice.</i>
+
+1865
+01:50:42,103 --> 01:50:47,706
+<i>Of justice.</i>
+<i>[Flames roar, crackle]</i>
+
+1866
+01:50:47,708 --> 01:50:58,250
+<i>[Clara humming...]</i>
+<i>Will he travel with us now?</i>
+
+1867
+01:50:58,252 --> 01:51:01,420
+<i>Will he travel with us now?</i>
+<i>You're not coming with us.</i>
+
+1868
+01:51:01,422 --> 01:51:03,789
+<i>You're not coming with us.</i>
+<i>What?</i>
+
+1869
+01:51:03,791 --> 01:51:07,926
+<i>What?</i>
+<i>I'm cutting you loose.</i>
+
+1870
+01:51:07,928 --> 01:51:09,094
+<i>I'm cutting you loose.</i>
+<i>You can't stay with your mother</i>
+
+1871
+01:51:09,096 --> 01:51:10,629
+<i>you can't stay with your mother</i>
+<i>all your life, can you?</i>
+
+1872
+01:51:10,631 --> 01:51:22,841
+<i>Come on.</i>
+<i>[♪...]</i>
+
+1873
+01:51:22,843 --> 01:51:24,543
+<i>[♪...]</i>
+<i>Come here.</i>
+
+1874
+01:51:24,545 --> 01:51:25,577
+<i>Come here.</i>
+<i>[Eleanor cries,</i>
+
+1875
+01:51:25,579 --> 01:51:28,213
+<i>[Eleanor cries,</i>
+<i>Clara stifles sob]</i>
+
+1876
+01:51:28,215 --> 01:51:32,084
+<i>Clara stifles sob]</i>
+<i>Go on.</i>
+
+1877
+01:51:32,086 --> 01:51:35,621
+<i>Go on.</i>
+<i>Look forward, not back.</i>
+
+1878
+01:51:35,623 --> 01:51:37,856
+<i>Look forward, not back.</i>
+<i>Always.</i>
+
+1879
+01:51:37,858 --> 01:51:45,864
+<i>Always.</i>
+<i>[♪...]</i>
+
+1880
+01:51:45,866 --> 01:52:01,747
+<i>[Sobs, crying...]</i>
+<i>[♪...]</i>
+
+1881
+01:52:01,749 --> 01:52:03,582
+<i>[♪...]</i>
+<i>Your instinct is to hunt the</i>
+
+1882
+01:52:03,584 --> 01:52:08,253
+<i>your instinct is to hunt the</i>
+<i>powerful and protect the weak.</i>
+
+1883
+01:52:08,255 --> 01:52:09,455
+<i>Powerful and protect the weak.</i>
+<i>I'd like to try and live</i>
+
+1884
+01:52:09,457 --> 01:52:10,956
+<i>I'd like to try and live</i>
+<i>that way.</i>
+
+1885
+01:52:10,958 --> 01:52:12,024
+<i>That way.</i>
+<i>Live your life how you</i>
+
+1886
+01:52:12,026 --> 01:52:14,526
+<i>live your life how you</i>
+<i>choose, it's no concern of mine.</i>
+
+1887
+01:52:14,528 --> 01:52:17,529
+<i>Choose, it's no concern of mine.</i>
+<i>[♪...]</i>
+
+1888
+01:52:17,531 --> 01:52:19,064
+<i>[♪...]</i>
+<i>If you could have anything,</i>
+
+1889
+01:52:19,066 --> 01:52:20,899
+<i>if you could have anything,</i>
+<i>what would it be?</i>
+
+1890
+01:52:20,901 --> 01:52:23,168
+<i>What would it be?</i>
+<i>Your pardon?</i>
+
+1891
+01:52:23,170 --> 01:52:25,137
+<i>Your pardon?</i>
+<i>In time.</i>
+
+1892
+01:52:25,139 --> 01:52:27,873
+<i>In time.</i>
+<i>Maybe.</i>
+
+1893
+01:52:27,875 --> 01:52:30,642
+<i>Maybe.</i>
+<i>Your company, then?</i>
+
+1894
+01:52:30,644 --> 01:52:32,144
+<i>Your company, then?</i>
+<i>We have time.</i>
+
+1895
+01:52:32,146 --> 01:52:35,280
+<i>We have time.</i>
+<i>[♪...]</i>
+
+1896
+01:52:35,282 --> 01:52:40,185
+<i>[♪...]</i>
+<i>[Gulls cawing...]</i>
+
+1897
+01:52:40,187 --> 01:52:42,855
+<i>[Gulls cawing...]</i>
+<i>[Water rushing...]</i>
+
+1898
+01:52:42,857 --> 01:52:45,557
+<i>[Water rushing...]</i>
+<i>[♪...]</i>
+
+1899
+01:52:45,559 --> 01:53:01,607
+<i>Frank: I'm afraid.</i>
+<i>Don't be.</i>
+
+1900
+01:53:01,609 --> 01:53:03,876
+<i>Don't be.</i>
+<i>[♪...]</i>
+
+1901
+01:53:03,878 --> 01:53:06,845
+<i>[♪...]</i>
+<i>I am Eleanor webb.</i>
+
+1902
+01:53:06,847 --> 01:53:09,114
+<i>I am Eleanor webb.</i>
+<i>I throw my story to the wind</i>
+
+1903
+01:53:09,116 --> 01:53:12,518
+<i>i throw my story to the wind</i>
+<i>and never will I tell it more.</i>
+
+1904
+01:53:12,520 --> 01:53:14,486
+<i>And never will I tell it more.</i>
+<i>Another one begins.</i>
+
+1905
+01:53:14,488 --> 01:53:17,823
+<i>♪</i>
+
+1906
+01:53:17,825 --> 01:54:02,835
+<i>♪</i>

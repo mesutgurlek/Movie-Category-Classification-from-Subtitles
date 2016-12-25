@@ -104,7 +104,7 @@ def tag_subtitles(input_folder):
         if len(listdir(input_folder_path)) < lowest:
             lowest = len(listdir(input_folder_path))
 
-    print(lowest)
+    print(lowest * len(categories))
 
     for category in categories:
         input_folder_path = "%s/%s" % (subtitles_path, category)
@@ -137,6 +137,10 @@ def bag_of_words_and_tf(data):
     train_tf = tf_transformer.transform(train_counts)
 
     return train_tf
+
+
+def word_to_vec(data):
+    pass
 
 
 def randomize(text, genre):
