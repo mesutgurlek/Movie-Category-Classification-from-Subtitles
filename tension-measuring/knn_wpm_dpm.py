@@ -1,5 +1,6 @@
 import pickle
-
+from sklearn import svm
+from os import path
 from eval_subtitles import *
 import os.path
 import matplotlib.pyplot as plt
@@ -28,15 +29,15 @@ def main():
 
 def generate_dataset_wpm_dpm():
     dataset = {'training': {
-                    'values': [],
-                    'labels': [],
-                    'filenames': [],
-                    'movie_times_minute': []},
-           'testing': {
-                    'values': [],
-                    'labels': [],
-                    'filenames': [],
-                    'movie_times_minute': []}}
+        'values': [],
+        'labels': [],
+        'filenames': [],
+        'movie_times_minute': []},
+        'testing': {
+            'values': [],
+            'labels': [],
+            'filenames': [],
+            'movie_times_minute': []}}
 
     count_movie = 0
 
@@ -124,55 +125,16 @@ def makeTest(k):
     for i in range(count_movie):
         predicted = neigh.predict([dataset['testing']['values'][i]])[0]
         true_label = dataset['testing']['labels'][i]
+
+        # if i < 10:
+        #     print(true_label, predicted)
+        #     print(dataset['testing']['values'][i], dataset['testing']['labels'][i], dataset['testing']['filenames'][i])
         test_labels.append(true_label)
         predictions.append(predicted)
 
         if true_label == predicted:
             count_true += 1
 
-
-    '''for dirpath, dirnames, filenames in os.walk("../NonImpairedSubtitles"):
-        dirname = dirpath.split("/")[-1]
-
-        if dirname == "Test" or dirname == "Adventure" or dirname == "Western":
-            continue
-
-        cnt = 0
-        indices = []
-        word_per_minutes = []
-        dialog_per_minutes = []
-        for filename in [f for f in filenames if f.endswith(".srt")][-200:]:
-            subs = parse_subtitle(os.path.join(dirpath, filename))
-            if len(subs) <= 0:
-                continue
-            word_count = 0
-            for sub in subs:
-                word_count += len(str(sub.content).split(" "))
-
-            cnt += 1
-            count_movie += 1
-            movie_time_minute = 60 * int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
-            if movie_time_minute <= 0:
-                continue
-            word_per_minute = word_count / movie_time_minute
-
-            indices.append(count_movie)
-            word_per_minutes.append(word_per_minute)
-
-            dialog_per_minute = len(subs) / movie_time_minute
-            indices.append(count_movie)
-            dialog_per_minutes.append(dialog_per_minute)
-
-            predicted = neigh.predict([[dialog_per_minute, word_per_minute]])[0]
-
-            test_labels.append(dirname)
-            predictions.append(predicted)
-            if dirname == predicted:
-                count_true += 1'''
-
-    #print(test_labels)
-    #print(predictions)
-    #print(confusion_matrix(test_labels, predictions))
     print(classification_report(test_labels, predictions))
     return 100. * count_true / count_movie
 
@@ -197,8 +159,8 @@ def test():
     plt.title("Accuracies / K Values")
 
     for k, accuracy in zip(k_values, accuracies):
-        plt.text(k - 0.6, accuracy+1, str(k) + ", " + str(format(accuracy, '.1f')), fontsize=10)
+        plt.text(k - 0.6, accuracy + 1, str(k) + ", " + str(format(accuracy, '.1f')), fontsize=10)
 
-    plt.show()
+        # plt.show()
 
 main()
