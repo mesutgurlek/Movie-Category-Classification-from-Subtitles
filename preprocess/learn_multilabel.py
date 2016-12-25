@@ -22,9 +22,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.multiclass import OneVsRestClassifier
+import global_variables
 
-
-categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+categories = global_variables.genres
 def text2num(text):
 
     nums = range(len(categories))

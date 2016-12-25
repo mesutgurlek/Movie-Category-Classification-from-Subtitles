@@ -3,6 +3,7 @@ from os import listdir
 from os import mkdir
 import re
 import codecs
+import global_variables
 
 
 def filter_hearing_descriptions(line):
@@ -26,10 +27,11 @@ def parse(file_path, output_path):
         with open(output_path, 'w') as f:
             f.write(content)
 
+
 def preprocess_subtitles(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)
     output_path = path.relpath(output_folder)
-    categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+    categories = global_variables.genres
 
     for category in categories:
         input_folder_path = "%s/%s" % (subtitles_path, category)
@@ -43,7 +45,7 @@ def preprocess_subtitles(input_folder, output_folder):
         except OSError:
             print("Directorty cannot be opened in %s" % output_folder_path)
 
-        impaired = '(IMPAIRED)';
+        impaired = '(IMPAIRED)'
         for f in listdir(input_folder_path):
             if impaired in f:
                 # Parse hearing descriptions in subtitles

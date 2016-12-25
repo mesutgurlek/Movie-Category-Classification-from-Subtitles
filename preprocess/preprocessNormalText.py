@@ -7,6 +7,7 @@ from itertools import groupby
 import string
 from tokenization import clean_stopword
 from tokenization import stemming
+import global_variables
 
 
 def parse_subtitle(filename):
@@ -67,7 +68,7 @@ def parse(file_path, output_path):
 def preprocess_normal_text(input_folder, output_folder):
     subtitles_path = path.relpath(input_folder)
     output_path = path.relpath(output_folder)
-    categories = ['Action', 'Adventure', 'Comedy', 'Horror', 'Romance', 'War']
+    categories = global_variables.genres
 
     # get lower bound and put equal amount of catagories in the train set.
 
@@ -83,17 +84,11 @@ def preprocess_normal_text(input_folder, output_folder):
         except OSError:
             print("Directorty cannot be opened in %s" % output_folder_path)
 
-        if __name__ == '__main__':
-            for f in listdir(input_folder_path):
-                # Parse hearing descriptions in subtitles
-                input_subtitle = "%s/%s" % (input_folder_path, f)
-                output_subtitle = "%s/%s" % (output_folder_path, f)
-                parse(input_subtitle, output_subtitle)
+
+        for f in listdir(input_folder_path):
+            # Parse hearing descriptions in subtitles
+            input_subtitle = "%s/%s" % (input_folder_path, f)
+            output_subtitle = "%s/%s" % (output_folder_path, f)
+            parse(input_subtitle, output_subtitle)
 
 
-#test the code
-
-in_path = path.relpath("Subtitles")
-out_path = path.relpath("ProcessedNormalText")
-
-preprocess_normal_text(in_path, out_path)
