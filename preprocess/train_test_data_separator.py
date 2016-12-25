@@ -35,10 +35,9 @@ def prepare_dataset(input_folder, train_output_folder, test_output_folder):
 
         # Get IMPAIRED and srt files, store them in a list
         impaired = '(IMPAIRED)'
-        srt = '.srt'
         files = []
         for f in listdir(input_folder_path):
-            if impaired in f and srt in f:
+            if impaired in f and f.endswith('.srt'):
                 files.append(f)
 
         # Shuffle files and separate as %20 test and %80 train data

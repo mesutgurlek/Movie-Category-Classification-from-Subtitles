@@ -1,0 +1,24 @@
+10,10,190,230,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125
+400,10,190,270,100,400)\fad(0,1000)\fscx25\fscy25\t(0,6000,\fscx125\fscy125
+Rings
+Phone Rings
+Woman
+Phone Beeping
+Water Running
+Folk Pop
+Stops
+Elevator Bell Dings
+Knocking
+iPod Clicks
+Folk Pop
+Man
+Music Box Tinkling
+Water Running
+Chuckles
+Knocking
+Continues
+Plates Rattling
+Exhales
+Folk Pop
+Whispers
+Fades
