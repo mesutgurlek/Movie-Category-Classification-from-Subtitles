@@ -16,6 +16,8 @@ class FullTextClassification:
         self.vectorizer = None
         self.test_path = path.relpath(test_path)
 
+        self.tune_and_train()
+
     # 2
     def tune_and_train(self):
 
@@ -83,7 +85,7 @@ class FullTextClassification:
         # print(classification_report(genre, predictions))
         # print("accuracy = " + str(accuracy * 100.0 / len(genre)))
         # print("no_pridiction = " + str(no_pridiction * 100.0 / len(genre)))
-        fdict = {'Comedy': '0.42', 'War': '0.77', 'Crime': '0.41', 'Musical': '0.73', 'Horror': '0.61', 'Action': '0.46', 'Romance': '0.25', 'Western': '0.87'}
+        fdict = {'Comedy': 0.42, 'War': 0.77, 'Crime': 0.41, 'Musical': 0.73, 'Horror': 0.61, 'Action': 0.46, 'Romance': 0.25, 'Western': 0.87}
 
         return fdict
 
@@ -91,7 +93,6 @@ class FullTextClassification:
     def predict(self, filepath):
         paths = filepath.split('/')
         newpath = 'TestProcessed/{}/{}'.format(paths[-2], paths[-1])
-        print('newpath', newpath)
         with codecs.open(newpath, 'r', encoding='utf-8', errors='ignore') as f:
             # finds hearing descriptions
             text = ' '.join(f.read().split('\n'))
@@ -99,14 +100,23 @@ class FullTextClassification:
 
         highest_index = -1
         highest_prob = 0
+
+        probNidx = []
+
         for idx, model in enumerate(self.clf):
             # print(model.predict(data))
             curr = model.predict_proba(bow_tf)[0][0]
+            probNidx.append((curr, idx))
             if highest_prob < curr:
                 highest_prob = curr
                 highest_index = idx
 
-        return global_variables.genres[highest_index]
+        probNidx = sorted(probNidx, key=lambda val: val[0])
+        best3 = [(p[0],global_variables.genres[p[1]]) for p in probNidx][-3:]
+        best3.reverse()
+
+        #return best3 #best3[0][1]
+        return best3[0][1]
 
 
 # print('init:')
@@ -116,4 +126,4 @@ class FullTextClassification:
 # print('get_f1')
 # print(model.get_f1_scores())
 # print('predict')
-# print(model.predict(path.relpath('TestProcessed/Musical/Another Cinderella Story (IMPAIRED).srt')))
+# print(model.predict(path.relpath('TestProcessed/Western/Blindman (IMPAIRED).srt')))
