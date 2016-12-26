@@ -101,6 +101,7 @@ class ImpairedClassification:
 
         for idx, cat in enumerate(categories):
             f1_dict[cat] = f1_scores[idx]
+        print(f1_dict)
         return f1_dict
 
     def predict(self, filepath):
