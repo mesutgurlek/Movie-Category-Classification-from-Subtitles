@@ -2,7 +2,7 @@ import pickle
 from sklearn import svm
 from os import path
 from os import listdir
-from eval_subtitles import *
+from tension_measuring.eval_subtitles import *
 import os.path
 import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
@@ -10,6 +10,7 @@ import numpy as np
 from sklearn.metrics import classification_report
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.utils import shuffle
+from preprocess import global_variables
 
 min_wpm = 999
 max_wpm = 0
@@ -32,17 +33,22 @@ class KnnDpmWpm:
                         break
         for dir in listdir(testPath):
             for file in listdir(testPath + "/" + dir):
+
+                flag = True
                 for f in self.dataset['training']:
                     if f['filename'] == file:
                         f['labels'] = dir
                         self.test_data.append(f)
                         # print(f)
+                        flag = False
                         break
+                if flag:
+                    print('bulamiyoom', file)
 
     def train_model(self):
         best_accuracy = 0
         self.best_k = 0
-        for k in range(1, 30):
+        for k in range(1, 2):
             values, labels = shuffle([f['values'] for f in self.training_data],
                                      [f['labels'] for f in self.training_data])
 
@@ -75,7 +81,16 @@ class KnnDpmWpm:
         return (100.0 * count_true) / len(test_values)
 
     def predict(self, file_name):
+        # print("filename(old): ", file_name)
+        file_name = file_name.split("/")[-1]
+        # print("filename(new): ", file_name)
         for f in self.test_data:
+            # if f['filename'] == 'Alex Cross (IMPAIRED).srt':
+            #     print('buldum')
+            # else:
+            #     print('bulamadim')
+            #if file_name == 'Broken Arrow (IMPAIRED).srt':
+            #    print(f['filename'])
             if f['filename'] == file_name:
                 return self.model.predict([f['values']])[0]
 
@@ -115,7 +130,12 @@ class KnnDpmWpm:
         print(classification_report(true_labels, predictions))
         p, r, f1, s = precision_recall_fscore_support(true_labels, predictions)
         f1_scores = [float("{0:.2f}".format(a)) for a in f1]
-        print(f1_scores)
+        #print(f1_scores)
+        f1_dict = {}
+        for idx, cat in enumerate(global_variables.genres):
+            f1_dict[cat] = f1_scores[idx]
+        #print(f1_dict)
+        return f1_dict
 
     def load_dataset(self):
         f = open(self.pickleFile, 'rb')
@@ -130,13 +150,15 @@ class KnnDpmWpm:
         self.test_path = path.relpath(test_path)
         self.model = None
         self.best_k = 0
-        self.pickleFile = 'wpm_new.pickle'
+        self.dataset = None
+        self.pickleFile = '../tension_measuring/wpm_new.pickle'
         self.training_data = []
         self.test_data = []
 
         if os.path.isfile(self.pickleFile):
             self.dataset = self.load_dataset()
-
+        else:
+            print("pickle yok")
         print(self.train_path)
         print(self.test_path)
         self.read_files("../" + self.train_path, "../" + self.test_path)
@@ -177,6 +199,8 @@ def generate_dataset_wpm_dpm():
 
         files = [f for f in filenames if f.endswith(".srt")]
         for index, filename in enumerate(files):
+            # if filename == 'Broken Arrow (IMPAIRED).srt':
+            #     print(os.path.join(dirpath, filename))
             subs = parse_subtitle(os.path.join(dirpath, filename))
             if len(subs) <= 0:
                 continue
@@ -186,7 +210,7 @@ def generate_dataset_wpm_dpm():
 
             cnt += 1
             count_movie += 1
-            movie_time_minute = 60 * int(subs[-1].start.split(":")[0]) + int(subs[-1].start.split(":")[1])
+            movie_time_minute = 60 * int(subs[-1].start.split(":")[0]) + int(subs[-2].start.split(":")[1])
             if movie_time_minute <= 0:
                 continue
 
@@ -294,4 +318,4 @@ def test():
 
         # plt.show()
 
-# main()
+#main()

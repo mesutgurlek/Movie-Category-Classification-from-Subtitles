@@ -11,7 +11,7 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
 
     if dirname == "Subtitles":
         continue
-    print(dirname)
+    #print(dirname)
     cnt = 0;
     sum = 0;
     indices = []
@@ -40,10 +40,10 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
         word_per_minutes.append(word_per_minute)
         sum += word_per_minute
     plt.plot(indices, word_per_minutes,'o', label=dirname)
-    print(indices, " ", word_per_minutes)
+    #print(indices, " ", word_per_minutes)
 
     if cnt > 0:
-        print(sum/cnt)
+        print(dirname, sum/cnt)
 
 plt.axis([0, count_movie+10, 0, 150])
 

@@ -1,0 +1,1562 @@
+﻿1
+00:00:00,075 --> 00:00:03,331
+Previously on AMC's The Walking Dead...
+
+2
+00:00:03,451 --> 00:00:06,262
+Someone knows what you did at the prison.
+They accepted.
+
+3
+00:00:06,499 --> 00:00:07,684
+You don't have to.
+
+4
+00:00:07,804 --> 00:00:10,029
+No, they do.
+
+5
+00:00:10,276 --> 00:00:11,610
+I owe you everything.
+
+6
+00:00:11,730 --> 00:00:14,030
+I sent you away and now we're joining you.
+
+7
+00:00:15,225 --> 00:00:16,473
+Will you have us?
+
+8
+00:00:19,228 --> 00:00:22,097
+- What are you doing?
+- I don't know.
+
+9
+00:00:22,908 --> 00:00:24,205
+They got Beth!
+
+10
+00:00:24,567 --> 00:00:26,388
+Come on, get in.
+
+11
+00:00:30,350 --> 00:00:32,418
+(engine starts)
+
+12
+00:00:55,621 --> 00:00:59,591
+<i>♪ Good Lord, take my hand ♪</i>
+
+13
+00:00:59,593 --> 00:01:03,863
+<i>♪ I've dried up</i>
+<i>this promised land ♪</i>
+
+14
+00:01:03,865 --> 00:01:09,171
+<i>♪ Afraid that the sun</i>
+<i>won't rise for me... ♪</i>
+
+15
+00:01:09,173 --> 00:01:12,143
+(crying)
+
+16
+00:01:12,145 --> 00:01:15,849
+<i>♪ Good Lord, hear my cries ♪</i>
+
+17
+00:01:15,851 --> 00:01:20,022
+<i>♪ I've run out of wasted time ♪</i>
+
+18
+00:01:20,024 --> 00:01:24,028
+<i>♪ Dead just floating</i>
+<i>out to sea... ♪</i>
+
+19
+00:01:24,030 --> 00:01:26,432
+(snarling)
+
+20
+00:01:26,434 --> 00:01:28,504
+Go away!
+
+21
+00:01:28,506 --> 00:01:33,078
+<i>♪ 'Cause I got</i>
+<i>bad blood... ♪</i>
+
+22
+00:01:33,080 --> 00:01:35,213
+Go away!
+
+23
+00:01:35,215 --> 00:01:37,817
+<i>(car engine starts)</i>
+
+24
+00:01:37,819 --> 00:01:39,822
+<i>(tires screech)</i>
+
+25
+00:01:44,230 --> 00:01:48,505
+<i>♪ Ooh, ooh ♪</i>
+
+26
+00:01:48,507 --> 00:01:52,577
+<i>♪ Ooh, ooh ♪</i>
+
+27
+00:01:52,579 --> 00:01:56,646
+<i>♪ Ooh, ooh ♪</i>
+
+28
+00:01:56,648 --> 00:02:00,417
+<i>♪ Ooh, ooh ♪</i>
+
+29
+00:02:00,419 --> 00:02:04,388
+<i>♪ Good Lord, find my soul ♪</i>
+
+30
+00:02:04,390 --> 00:02:08,592
+<i>♪ Waiting to be whole ♪</i>
+
+31
+00:02:08,594 --> 00:02:13,598
+<i>♪ Hold those gates if I don't
+make it out tonight... ♪</i>
+
+32
+00:02:15,401 --> 00:02:20,474
+- (rattles)
+- <i> ♪ Good Lord, give me peace ♪</i>
+
+33
+00:02:20,476 --> 00:02:24,442
+<i>♪ From a lifelong</i>
+<i>of pain and greed ♪</i>
+
+34
+00:02:24,444 --> 00:02:27,513
+<i>♪ But not yet,</i>
+<i>I'm not done paying ♪</i>
+
+35
+00:02:27,515 --> 00:02:30,952
+<i>♪ For my crimes ♪</i>
+
+36
+00:02:32,721 --> 00:02:35,655
+<i>♪ Bad blood ♪</i>
+
+37
+00:02:35,657 --> 00:02:39,996
+<i>♪ I got bad blood ♪</i>
+
+38
+00:02:39,998 --> 00:02:43,933
+<i>♪ You don't want none ♪</i>
+
+39
+00:02:43,935 --> 00:02:48,936
+<i>♪ Of what I have ♪</i>
+
+40
+00:03:07,016 --> 00:03:10,448
+<i>♪ Don't listen</i>
+<i>to any word I say ♪</i>
+
+41
+00:03:10,450 --> 00:03:14,520
+<i>♪ I'd say anything</i>
+<i>to make you feel okay ♪</i>
+
+42
+00:03:14,522 --> 00:03:18,356
+<i>♪ I'm not who I thought I was ♪</i>
+
+43
+00:03:18,358 --> 00:03:21,927
+<i>♪ Not today ♪</i>
+
+44
+00:03:21,929 --> 00:03:27,128
+<i>♪ 'Cause I got bad blood ♪</i>
+
+45
+00:03:27,130 --> 00:03:30,394
+<i>♪ Bad blood ♪</i>
+
+46
+00:03:30,396 --> 00:03:34,326
+<i>♪ You don't want none ♪</i>
+
+47
+00:03:34,328 --> 00:03:40,029
+<i>♪ Of what I have. ♪</i>
+
+48
+00:03:59,537 --> 00:04:02,471
+<i>(theme music playing)</i>
+
+49
+00:04:24,093 --> 00:04:34,782
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+
+50
+00:04:36,199 --> 00:04:38,133
+So it was just
+<i>you and Beth after?</i>
+
+51
+00:04:38,135 --> 00:04:40,499
+- Daryl:<i> Yeah.</i>
+- <i> You save her?</i>
+
+52
+00:04:40,501 --> 00:04:44,366
+<i>She's tough.</i>
+<i>She saved herself.</i>
+
+53
+00:04:44,368 --> 00:04:46,804
+We were out there for a while.
+
+54
+00:04:46,806 --> 00:04:50,239
+<i>We got cornered, she got out</i>
+<i>in front of me and...</i>
+
+55
+00:04:50,241 --> 00:04:52,607
+<i>I don't know, she was gone.</i>
+
+56
+00:04:52,609 --> 00:04:54,208
+<i>I came out</i>
+<i>and a car's pulling out</i>
+
+57
+00:04:54,210 --> 00:04:56,977
+<i>with a white cross</i>
+<i>on the window.</i>
+
+58
+00:04:56,979 --> 00:04:59,047
+- <i> Just like that one?</i>
+- <i> Yep.</i>
+
+59
+00:04:59,049 --> 00:05:02,051
+(snarling)
+
+60
+00:05:13,965 --> 00:05:17,203
+Daryl: <i>Rick's gonna
+wonder where we went.</i>
+
+61
+00:05:17,205 --> 00:05:19,673
+Tank's runnin' low.
+
+62
+00:05:19,675 --> 00:05:23,341
+We can end this quick.
+Just run him off the road.
+
+63
+00:05:23,343 --> 00:05:26,012
+Nah, we're good for a bit.
+
+64
+00:05:26,014 --> 00:05:28,884
+If they're holding her somewhere,
+we can get it out of the driver.
+
+65
+00:05:28,886 --> 00:05:32,221
+Yeah, but if he don't talk,
+we're back to square one.
+
+66
+00:05:32,223 --> 00:05:35,424
+Right now we got the advantage.
+
+67
+00:05:35,426 --> 00:05:37,025
+We'll see who they are.
+
+68
+00:05:37,027 --> 00:05:40,061
+If they're a group,
+see what they can do.
+
+69
+00:05:40,063 --> 00:05:44,329
+And then we'll do what we
+gotta do to get her back.
+
+70
+00:05:44,331 --> 00:05:47,968
+They're heading north,
+I-85.
+
+71
+00:06:06,660 --> 00:06:09,696
+(walker snarling)
+
+72
+00:06:38,102 --> 00:06:40,235
+What the hell's he waiting for?
+
+73
+00:06:56,820 --> 00:06:58,856
+There's two of 'em.
+
+74
+00:07:01,524 --> 00:07:03,389
+Is that a cop?
+
+75
+00:07:08,896 --> 00:07:10,697
+They might've seen us.
+
+76
+00:07:28,944 --> 00:07:30,746
+(snarling)
+
+77
+00:07:30,748 --> 00:07:32,348
+(sighs)
+
+78
+00:07:32,350 --> 00:07:35,084
+(thudding)
+
+79
+00:08:03,768 --> 00:08:07,537
+<i>(snarling, thudding continue)</i>
+
+80
+00:08:22,878 --> 00:08:26,717
+<i>(car engine sputters)</i>
+
+81
+00:08:26,719 --> 00:08:30,486
+Aw, shit!
+Tank's tapped.
+
+82
+00:08:30,488 --> 00:08:32,258
+They'd have taken the
+bypass and they didn't.
+
+83
+00:08:32,260 --> 00:08:34,596
+They must be holed up
+in the city somewhere.
+
+84
+00:08:34,598 --> 00:08:37,098
+<i>(walkers snarling)</i>
+
+85
+00:08:40,505 --> 00:08:43,841
+We gotta move, find someplace
+to hole up till sunlight.
+
+86
+00:08:45,342 --> 00:08:47,444
+I know a place just a
+couple of blocks from here.
+
+87
+00:08:47,446 --> 00:08:49,146
+We can make it.
+
+88
+00:08:55,285 --> 00:08:58,287
+- <i> (flesh squelches)</i>
+- <i> (rapid tapping)</i>
+
+89
+00:09:02,492 --> 00:09:05,428
+- Two more.
+- I almost got it.
+
+90
+00:09:05,430 --> 00:09:08,364
+<i>(walkers snarling)</i>
+
+91
+00:09:08,366 --> 00:09:10,066
+Come on.
+
+92
+00:09:12,469 --> 00:09:14,470
+<i>(walkers snarling)</i>
+
+93
+00:10:22,560 --> 00:10:25,694
+You used to work here
+or something?
+
+94
+00:10:25,696 --> 00:10:27,626
+Something.
+
+95
+00:10:54,307 --> 00:10:56,475
+(doorknob rattles)
+
+96
+00:10:58,044 --> 00:10:59,911
+(mutters)
+
+97
+00:11:32,202 --> 00:11:35,406
+- Daryl: What's this place?
+- It's temporary housing.
+
+98
+00:11:41,846 --> 00:11:44,314
+You came here?
+
+99
+00:11:44,316 --> 00:11:46,682
+<i>We didn't stay.</i>
+
+100
+00:11:55,892 --> 00:11:58,460
+I'll take the top bunk.
+
+101
+00:11:58,462 --> 00:12:00,431
+I think that one's
+more your style.
+
+102
+00:12:00,433 --> 00:12:01,966
+(chuckles)
+
+103
+00:12:04,002 --> 00:12:07,372
+You should sleep.
+I'll take first watch.
+
+104
+00:12:07,374 --> 00:12:10,410
+- This is locked up pretty tight.
+- I know.
+
+105
+00:12:12,214 --> 00:12:13,714
+Then we're good, then.
+
+106
+00:12:13,716 --> 00:12:17,251
+I'll keep first watch.
+I don't mind.
+
+107
+00:12:17,253 --> 00:12:19,754
+Suit yourself.
+
+108
+00:12:34,670 --> 00:12:37,573
+You said we get to start over.
+
+109
+00:12:37,575 --> 00:12:39,309
+<i>Yeah.</i>
+
+110
+00:12:40,578 --> 00:12:42,245
+Did you?
+
+111
+00:12:43,581 --> 00:12:45,115
+I'm tryin'.
+
+112
+00:12:57,428 --> 00:12:59,663
+Why don't you say
+what's really on your mind?
+
+113
+00:13:02,667 --> 00:13:05,769
+I don't think we get
+to save people anymore.
+
+114
+00:13:12,110 --> 00:13:14,511
+Then why are you here?
+
+115
+00:13:18,016 --> 00:13:19,817
+I'm tryin'.
+
+116
+00:13:30,328 --> 00:13:32,797
+When we were out by the car...
+
+117
+00:13:34,100 --> 00:13:36,468
+what if I didn't show up?
+
+118
+00:13:38,069 --> 00:13:40,603
+I still don't know.
+
+119
+00:13:54,856 --> 00:13:57,893
+<i>(distant banging)</i>
+
+120
+00:14:12,445 --> 00:14:14,581
+<i>(distant banging)</i>
+
+121
+00:14:34,438 --> 00:14:37,412
+(snarling)
+
+122
+00:14:53,298 --> 00:14:55,300
+You don't have to.
+
+123
+00:14:57,939 --> 00:14:59,940
+You don't.
+
+124
+00:15:21,799 --> 00:15:24,801
+<i>(birds chirping)</i>
+
+125
+00:16:21,119 --> 00:16:23,320
+Thank you.
+
+126
+00:17:08,400 --> 00:17:11,000
+Daryl: <i>That car was
+headed downtown.</i>
+
+127
+00:17:11,002 --> 00:17:13,469
+I say we get up
+in one of the tall ones,
+
+128
+00:17:13,471 --> 00:17:15,604
+get ourselves a view,
+see what we see.
+
+129
+00:17:15,606 --> 00:17:17,703
+We can stay close to the
+buildings and keep quiet,
+
+130
+00:17:17,705 --> 00:17:21,273
+but sooner or later,
+we're gonna be drawing 'em.
+
+131
+00:17:37,152 --> 00:17:39,452
+<i>(walkers snarling)</i>
+
+132
+00:17:44,356 --> 00:17:47,325
+<i>(walkers snarling)</i>
+
+133
+00:18:01,708 --> 00:18:04,176
+(snarling)
+
+134
+00:18:06,746 --> 00:18:09,048
+All right, we can get up there.
+
+135
+00:18:09,050 --> 00:18:10,915
+There's a bridge.
+
+136
+00:18:26,490 --> 00:18:29,360
+(snarling continues)
+
+137
+00:18:42,865 --> 00:18:45,401
+(snarls)
+
+138
+00:19:18,142 --> 00:19:21,144
+(walkers snarling)
+
+139
+00:19:48,812 --> 00:19:50,845
+(walkers snarling)
+
+140
+00:19:52,581 --> 00:19:54,982
+Some days, I don't know
+what the hell to think.
+
+141
+00:20:43,055 --> 00:20:45,522
+Good thing we skipped breakfast.
+
+142
+00:20:56,769 --> 00:20:58,470
+(whistles)
+
+143
+00:21:29,839 --> 00:21:32,907
+How did we get here?
+
+144
+00:21:32,909 --> 00:21:35,375
+Mm-mm.
+
+145
+00:21:35,377 --> 00:21:37,377
+We just did.
+
+146
+00:21:41,854 --> 00:21:44,955
+You still haven't
+asked me what happened.
+
+147
+00:21:44,957 --> 00:21:48,258
+After I met up
+with Tyreese, the girls.
+
+148
+00:21:48,260 --> 00:21:50,896
+Yeah, I know what happened.
+
+149
+00:21:50,898 --> 00:21:52,596
+They ain't here.
+
+150
+00:21:54,566 --> 00:21:57,033
+It was worse than that.
+
+151
+00:22:04,771 --> 00:22:08,172
+The reason I said
+we get to start over...
+
+152
+00:22:08,174 --> 00:22:10,209
+is because we gotta.
+
+153
+00:22:14,580 --> 00:22:16,649
+The way it was...
+
+154
+00:22:22,190 --> 00:22:24,192
+Yeah.
+
+155
+00:22:31,703 --> 00:22:33,806
+You see something?
+
+156
+00:22:33,808 --> 00:22:36,273
+I don't know.
+Hand me that rifle.
+
+157
+00:22:54,059 --> 00:22:56,260
+Right there.
+
+158
+00:23:03,470 --> 00:23:05,771
+It's been there a while.
+
+159
+00:23:08,607 --> 00:23:10,608
+Definitely one of 'em.
+
+160
+00:23:10,610 --> 00:23:13,310
+It's definitely
+some kind of lead.
+
+161
+00:23:17,649 --> 00:23:19,185
+We should fill up.
+
+162
+00:23:20,454 --> 00:23:22,618
+All right.
+
+163
+00:23:22,620 --> 00:23:24,119
+Hmm.
+
+164
+00:23:39,209 --> 00:23:41,843
+What?
+
+165
+00:23:41,845 --> 00:23:45,314
+I bet this cost some rich
+prick a lot of money.
+
+166
+00:23:49,120 --> 00:23:51,222
+Looks like a dog sat in paint,
+
+167
+00:23:51,224 --> 00:23:53,891
+wiped its ass
+all over the place.
+
+168
+00:23:55,360 --> 00:23:59,263
+Really?
+I kinda like it.
+
+169
+00:23:59,265 --> 00:24:02,232
+(laughs)
+Stop.
+
+170
+00:24:02,234 --> 00:24:05,403
+I'm serious.
+
+171
+00:24:05,405 --> 00:24:06,907
+You don't know me.
+
+172
+00:24:10,045 --> 00:24:13,382
+Yep, you keep
+tellin' yourself that.
+
+173
+00:24:16,823 --> 00:24:19,824
+<i>(walkers snarling)</i>
+
+174
+00:24:35,177 --> 00:24:37,546
+- Daryl, don't.
+- Get up.
+
+175
+00:24:37,548 --> 00:24:39,984
+Hands up, both of you.
+
+176
+00:24:44,757 --> 00:24:46,888
+Lay down your crossbow.
+
+177
+00:24:46,890 --> 00:24:48,922
+You got some sack on you.
+
+178
+00:24:48,924 --> 00:24:49,990
+Look, nobody has to get hurt.
+
+179
+00:24:49,992 --> 00:24:51,692
+I just need weapons, that's it.
+
+180
+00:24:53,394 --> 00:24:54,897
+So, please, lay down
+your crossbow.
+
+181
+00:25:04,941 --> 00:25:06,676
+Back up.
+
+182
+00:25:15,919 --> 00:25:18,820
+- Sorry about this.
+- <i> (walker snarling)</i>
+
+183
+00:25:18,822 --> 00:25:20,756
+You look tough.
+
+184
+00:25:20,758 --> 00:25:22,492
+You'll be all right.
+
+185
+00:25:27,331 --> 00:25:30,466
+(snarling)
+
+186
+00:25:35,338 --> 00:25:37,206
+(gunshot)
+
+187
+00:25:41,276 --> 00:25:43,880
+<i>(door closes)</i>
+
+188
+00:25:43,882 --> 00:25:46,720
+<i>(chains rattle)</i>
+
+189
+00:25:51,157 --> 00:25:53,160
+Three bullets.
+
+190
+00:25:53,162 --> 00:25:56,096
+We're in the middle of a city.
+He was stealing our weapons.
+
+191
+00:25:58,703 --> 00:26:01,137
+Did you think
+I was gonna kill him?
+
+192
+00:26:02,938 --> 00:26:05,139
+I was aiming for his leg.
+
+193
+00:26:05,141 --> 00:26:06,874
+Could that have killed him?
+Maybe, I don't know.
+
+194
+00:26:06,876 --> 00:26:08,808
+But he was stealing our weapons.
+
+195
+00:26:08,810 --> 00:26:11,511
+He's a damn kid.
+
+196
+00:26:11,513 --> 00:26:13,546
+Without weapons we could die.
+
+197
+00:26:13,548 --> 00:26:15,448
+Beth could die.
+
+198
+00:26:15,450 --> 00:26:18,852
+We'll find more weapons.
+
+199
+00:26:18,854 --> 00:26:21,919
+I don't want you to die.
+I don't want Beth to die.
+
+200
+00:26:21,921 --> 00:26:23,587
+I don't want anybody
+at the church to die,
+
+201
+00:26:23,589 --> 00:26:26,792
+but I can't stand around
+and watch it happen either.
+
+202
+00:26:26,794 --> 00:26:29,394
+I can't.
+That's why I left.
+
+203
+00:26:29,396 --> 00:26:31,229
+I just had to be somewhere else.
+
+204
+00:26:31,231 --> 00:26:34,232
+Well, you ain't somewhere
+else; you're right here.
+
+205
+00:26:34,234 --> 00:26:35,833
+Tryin'.
+
+206
+00:26:38,604 --> 00:26:41,108
+Look, you're not who you
+were and neither am I.
+
+207
+00:26:42,310 --> 00:26:44,542
+(exhales)
+
+208
+00:26:44,544 --> 00:26:47,211
+I don't know if I believe
+in God anymore or heaven,
+
+209
+00:26:47,213 --> 00:26:49,882
+but if I'm going to hell,
+I'm making damn sure
+
+210
+00:26:49,884 --> 00:26:51,850
+I'm holding it off
+as long as I can.
+
+211
+00:26:57,592 --> 00:27:00,027
+<i>(items clatter)</i>
+
+212
+00:27:00,029 --> 00:27:01,828
+<i>(door opens)</i>
+
+213
+00:28:12,300 --> 00:28:14,637
+All right, let's get this done.
+
+214
+00:28:14,639 --> 00:28:17,542
+It's not stable.
+I'm lighter.
+
+215
+00:28:20,809 --> 00:28:22,475
+(grunts)
+
+216
+00:28:22,477 --> 00:28:25,213
+(snarling)
+
+217
+00:28:33,560 --> 00:28:35,728
+(Carol grunts)
+
+218
+00:28:41,602 --> 00:28:44,109
+(rattling)
+
+219
+00:28:54,354 --> 00:28:57,160
+<i>(walkers snarling)</i>
+
+220
+00:28:59,929 --> 00:29:01,446
+There's more coming.
+
+221
+00:29:01,558 --> 00:29:03,394
+We're gonna
+have to fight through.
+
+222
+00:29:03,396 --> 00:29:04,966
+Yeah, I see 'em.
+
+223
+00:29:07,738 --> 00:29:10,272
+- We have to go.
+- GMH, what's that? A hospital?
+
+224
+00:29:10,274 --> 00:29:12,076
+I don't know.
+Grady Memorial, maybe?
+
+225
+00:29:12,078 --> 00:29:14,280
+Grady, the white crosses-- it
+might be where they're holing up.
+
+226
+00:29:14,282 --> 00:29:16,314
+(snarling)
+
+227
+00:29:21,894 --> 00:29:24,765
+- Carol:<i> Daryl!</i>
+- <i> (knife piercing)</i>
+
+228
+00:29:24,767 --> 00:29:26,534
+Daryl:
+<i>Go, go, go, go!</i>
+
+229
+00:29:30,043 --> 00:29:31,777
+<i>(knife piercing)</i>
+
+230
+00:29:46,863 --> 00:29:48,363
+Anything we can use?
+
+231
+00:29:48,365 --> 00:29:50,598
+Nothin' but what we got.
+
+232
+00:29:57,505 --> 00:30:00,174
+Daryl:
+All right, buckle up.
+
+233
+00:30:06,680 --> 00:30:09,448
+(snarling)
+
+234
+00:30:19,056 --> 00:30:21,024
+You hold on.
+
+235
+00:30:31,369 --> 00:30:34,339
+<i>(snarling continues faintly)</i>
+
+236
+00:30:38,777 --> 00:30:42,313
+- <i> (Daryl groans)</i>
+- We're okay.
+
+237
+00:30:42,315 --> 00:30:43,813
+We're okay.
+
+238
+00:30:48,383 --> 00:30:51,350
+<i>(bodies thudding)</i>
+
+239
+00:30:57,295 --> 00:30:58,960
+God.
+
+240
+00:30:59,994 --> 00:31:01,993
+(groans)
+
+241
+00:31:11,104 --> 00:31:12,874
+Ow.
+
+242
+00:31:13,910 --> 00:31:17,177
+(walker snarling)
+
+243
+00:31:53,032 --> 00:31:54,093
+Here.
+
+244
+00:31:54,357 --> 00:31:55,823
+I'm fine.
+
+245
+00:31:55,825 --> 00:31:57,358
+Prove it.
+
+246
+00:32:08,668 --> 00:32:10,437
+How bad is it?
+
+247
+00:32:10,439 --> 00:32:12,640
+I've had worse.
+
+248
+00:32:19,111 --> 00:32:21,579
+Damn, that was stupid.
+
+249
+00:32:21,581 --> 00:32:23,413
+We made good time down.
+
+250
+00:32:23,415 --> 00:32:25,111
+(scoffs)
+
+251
+00:32:27,282 --> 00:32:29,885
+There's only three blocks
+between us and Grady.
+
+252
+00:32:31,956 --> 00:32:35,156
+We need to find a place nearby,
+
+253
+00:32:35,158 --> 00:32:37,494
+scope it out,
+see what we can see.
+
+254
+00:32:40,331 --> 00:32:42,534
+You really think we're gonna
+find out what we need to know
+
+255
+00:32:42,536 --> 00:32:44,470
+just by watching?
+
+256
+00:32:45,939 --> 00:32:47,572
+It's where we start.
+
+257
+00:32:47,574 --> 00:32:49,109
+Come on.
+
+258
+00:32:54,216 --> 00:32:57,487
+(snarling weakly)
+
+259
+00:33:10,836 --> 00:33:13,036
+<i>(snarling stops)</i>
+
+260
+00:33:16,607 --> 00:33:18,574
+It's them.
+
+261
+00:33:26,281 --> 00:33:28,581
+All right.
+
+262
+00:33:28,583 --> 00:33:30,750
+Let's see what we see.
+
+263
+00:33:33,789 --> 00:33:37,123
+(crunching)
+
+264
+00:33:49,470 --> 00:33:52,574
+You said I ain't like
+how I was before?
+
+265
+00:33:52,576 --> 00:33:54,876
+Yeah.
+
+266
+00:33:54,878 --> 00:33:56,744
+How was I?
+
+267
+00:33:58,848 --> 00:34:01,454
+It's like you were a kid.
+
+268
+00:34:03,826 --> 00:34:05,494
+Now you're a man.
+
+269
+00:34:09,432 --> 00:34:11,233
+What about you?
+
+270
+00:34:20,409 --> 00:34:24,677
+Me and Sophia stayed at that
+shelter for a day and a half
+
+271
+00:34:24,679 --> 00:34:28,012
+before I went
+running back to Ed.
+
+272
+00:34:28,014 --> 00:34:31,047
+I went home, I got
+beat up, life went on,
+
+273
+00:34:31,049 --> 00:34:37,088
+and I just kept praying
+for something to happen.
+
+274
+00:34:37,090 --> 00:34:40,293
+But I didn't do anything.
+
+275
+00:34:40,295 --> 00:34:42,961
+Not a damn thing.
+
+276
+00:34:46,296 --> 00:34:50,201
+Who I was with him...
+
+277
+00:34:50,203 --> 00:34:51,771
+she got burned away.
+
+278
+00:34:51,773 --> 00:34:55,607
+And I was happy about that.
+I mean, not happy, but...
+
+279
+00:34:55,609 --> 00:34:58,144
+And at the prison
+
+280
+00:34:58,146 --> 00:35:02,979
+I got to be who I always
+thought I should be,
+
+281
+00:35:02,981 --> 00:35:05,581
+thought I should've been.
+
+282
+00:35:08,687 --> 00:35:10,887
+And then she got burned away.
+
+283
+00:35:16,329 --> 00:35:19,065
+Everything now just...
+
+284
+00:35:19,067 --> 00:35:21,600
+consumes you.
+
+285
+00:35:27,244 --> 00:35:29,878
+Well, hey...
+
+286
+00:35:29,880 --> 00:35:31,478
+we ain't ashes.
+
+287
+00:35:39,790 --> 00:35:41,957
+<i>(distant door closes)</i>
+
+288
+00:35:54,672 --> 00:35:56,639
+<i>(thudding)</i>
+
+289
+00:35:59,306 --> 00:36:01,305
+<i>(walker snarling)</i>
+
+290
+00:36:05,449 --> 00:36:08,784
+<i>(thudding continues)</i>
+
+291
+00:36:08,786 --> 00:36:11,321
+<i>(snarling continues)</i>
+
+292
+00:36:15,163 --> 00:36:17,097
+Is that yours?
+
+293
+00:36:17,099 --> 00:36:18,999
+Yeah.
+
+294
+00:36:27,078 --> 00:36:29,446
+- <i> (automatic gunfire)</i>
+- <i> (walker snarling)</i>
+
+295
+00:36:36,021 --> 00:36:38,458
+(yelling)
+
+296
+00:36:40,059 --> 00:36:43,025
+(groans)
+Oh, God.
+
+297
+00:36:44,594 --> 00:36:46,629
+I'm good.
+
+298
+00:36:46,631 --> 00:36:48,431
+I'm good.
+You go.
+
+299
+00:36:50,233 --> 00:36:51,900
+God.
+(panting)
+
+300
+00:36:51,902 --> 00:36:54,936
+<i>(man grunting)</i>
+
+301
+00:37:11,620 --> 00:37:15,261
+- (snarling)
+- (groaning, gasping)
+
+302
+00:37:19,098 --> 00:37:21,667
+Plea-- please.
+I had to protect myself.
+
+303
+00:37:21,669 --> 00:37:25,308
+- Why you followin' us?
+- I-I didn't, I swear! I thought you followed me.
+
+304
+00:37:25,310 --> 00:37:26,810
+Bullshit.
+
+305
+00:37:26,812 --> 00:37:28,980
+<i>(walker continues snarling)</i>
+
+306
+00:37:35,955 --> 00:37:38,925
+Noah: <i>Come on, man.
+Plea-- please!</i>
+
+307
+00:37:38,927 --> 00:37:41,098
+(groans)
+
+308
+00:37:41,100 --> 00:37:46,166
+- Please, please.
+- Nah, I already helped you once.
+
+309
+00:37:46,168 --> 00:37:48,803
+It ain't happenin' again.
+
+310
+00:37:51,775 --> 00:37:54,774
+<i>(walker continues snarling)</i>
+
+311
+00:37:56,678 --> 00:37:58,579
+Have fun with Hoss over there.
+
+312
+00:37:58,581 --> 00:38:00,077
+Noah:
+<i>No. No, no, no.</i>
+
+313
+00:38:00,079 --> 00:38:02,545
+<i>No. No, no, no!</i>
+<i>Please! Please!</i>
+
+314
+00:38:02,547 --> 00:38:04,115
+<i>Please!</i>
+<i>I'm sorry, please!</i>
+
+315
+00:38:04,117 --> 00:38:06,553
+- Please! Please, please!
+- Daryl. Daryl. Stop.
+
+316
+00:38:06,555 --> 00:38:08,155
+You almost died 'cause of him!
+
+317
+00:38:08,157 --> 00:38:09,690
+But I didn't.
+
+318
+00:38:14,196 --> 00:38:17,732
+Nah, let him be.
+
+319
+00:38:20,570 --> 00:38:22,907
+- Noah:<i> I'm sorry. Please, I'm sorry!</i>
+- Daryl!
+
+320
+00:38:22,909 --> 00:38:25,377
+(yelling)
+
+321
+00:38:25,379 --> 00:38:27,380
+(snarling)
+
+322
+00:39:33,911 --> 00:39:36,746
+(grunting)
+
+323
+00:39:36,748 --> 00:39:39,718
+Come on, just a little more.
+
+324
+00:39:39,720 --> 00:39:42,221
+Oh, thank you. Thank you.
+Thank you.
+
+325
+00:39:42,223 --> 00:39:44,223
+(panting)
+
+326
+00:39:47,593 --> 00:39:49,293
+Daryl:
+<i>You okay?</i>
+
+327
+00:39:52,263 --> 00:39:54,430
+You okay?
+
+328
+00:39:54,432 --> 00:39:56,766
+I'm still here.
+
+329
+00:39:56,768 --> 00:39:59,133
+I gotta go.
+I gotta go.
+
+330
+00:39:59,135 --> 00:40:01,267
+They're gonna come.
+They probably heard the shot.
+
+331
+00:40:01,269 --> 00:40:03,435
+If they find me...
+
+332
+00:40:03,437 --> 00:40:06,004
+- Who?
+- Them, people at the hospital.
+
+333
+00:40:06,006 --> 00:40:08,508
+Wait, wait, wait, just tell us--
+is there a blonde girl there?
+
+334
+00:40:08,510 --> 00:40:11,243
+- You see a blonde girl?
+- Beth?
+
+335
+00:40:11,245 --> 00:40:12,811
+<i>You know her?</i>
+
+336
+00:40:14,949 --> 00:40:16,750
+She helped me get out,
+but she's still there.
+
+337
+00:40:19,752 --> 00:40:22,186
+They're coming.
+
+338
+00:40:22,188 --> 00:40:24,456
+We gotta go now. We gotta go.
+We gotta go.
+
+339
+00:40:28,189 --> 00:40:29,858
+The building next door
+has a basement.
+
+340
+00:40:29,860 --> 00:40:32,363
+It's clear.
+We'll be safe.
+
+341
+00:40:32,365 --> 00:40:34,131
+Ah! Ah!
+
+342
+00:40:34,133 --> 00:40:35,767
+Daryl:
+Go, I got him.
+
+343
+00:40:35,769 --> 00:40:37,271
+Come on, get up.
+
+344
+00:40:37,273 --> 00:40:39,976
+- <i> Get up.</i>
+- <i> (groans) Okay.</i>
+
+345
+00:40:41,545 --> 00:40:43,511
+(tires screech)
+
+346
+00:40:45,680 --> 00:40:47,450
+No, no, no!
+Wait, wait, wait!
+
+347
+00:40:47,452 --> 00:40:49,252
+- Let go of me!
+- Wait! They can help her.
+
+348
+00:40:49,254 --> 00:40:50,653
+<i>They're the only ones who can.</i>
+
+349
+00:40:50,655 --> 00:40:54,023
+<i>They have medicine,</i>
+<i>machines, a doctor.</i>
+
+350
+00:40:54,025 --> 00:40:57,361
+<i>You go out there,</i>
+<i>you'll have to kill them, okay?</i>
+
+351
+00:40:57,363 --> 00:40:59,997
+<i>And then she can't get their help.
+Is that what you want?</i>
+
+352
+00:40:59,999 --> 00:41:02,669
+(panting)
+
+353
+00:41:02,671 --> 00:41:04,968
+We can get her back.
+We can get Beth back.
+
+354
+00:41:08,375 --> 00:41:11,278
+What's it gonna take?
+
+355
+00:41:11,280 --> 00:41:14,145
+A lot.
+
+356
+00:41:14,147 --> 00:41:17,249
+They got guns, people.
+
+357
+00:41:19,220 --> 00:41:21,020
+So do we.
+
+358
+00:41:23,392 --> 00:41:25,895
+(snarling)
+
+359
+00:42:31,486 --> 00:42:42,024
+<font color="#ec14bd">Sync & corrections by honeybunny</font>
+<font color="#ec14bd">www.addic7ed.com</font>
+

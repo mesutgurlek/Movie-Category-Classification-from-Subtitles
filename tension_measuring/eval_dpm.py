@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 
 count_movie = 0
 plt.figure(figsize=(12, 9), dpi=80)
-for dirpath, dirnames, filenames in os.walk("../Subtitles"):
+for dirpath, dirnames, filenames in os.walk("../NonImpairedSubtitles"):
     dirname = dirpath.split("/")[-1]
 
-    if dirname == "Subtitles":
+    if dirname == "NonImpairedSubtitles":
         continue
-    print(dirname)
-    cnt = 0;
-    sum = 0;
+    #print(dirname)
+    cnt = 0
+    sum = 0
     indices = []
     dialog_per_minutes = []
     for filename in [f for f in filenames if f.endswith(".srt")]:
@@ -28,10 +28,10 @@ for dirpath, dirnames, filenames in os.walk("../Subtitles"):
         dialog_per_minutes.append(dialog_per_minute)
         sum += dialog_per_minute
     plt.plot(indices, dialog_per_minutes,'o', label=dirname)
-    print(indices, " ", dialog_per_minutes)
+    #print(indices, " ", dialog_per_minutes)
     plt.axis([0, count_movie+10, 0, 40])
     if cnt > 0:
-        print(sum/cnt)
+        print(dirname, sum/cnt)
 
 plt.xlabel('Movies')
 plt.ylabel('Dialog per Minute')

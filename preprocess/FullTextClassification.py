@@ -85,8 +85,10 @@ class FullTextClassification:
         # print(classification_report(genre, predictions))
         # print("accuracy = " + str(accuracy * 100.0 / len(genre)))
         # print("no_pridiction = " + str(no_pridiction * 100.0 / len(genre)))
-        fdict = {'Comedy': 0.42, 'War': 0.77, 'Crime': 0.41, 'Musical': 0.73, 'Horror': 0.61, 'Action': 0.46, 'Romance': 0.25, 'Western': 0.87}
-
+        #fdict = {'Comedy': 0.42, 'War': 0.77, 'Crime': 0.41, 'Musical': 0.73, 'Horror': 0.61, 'Action': 0.46, 'Romance': 0.25, 'Western': 0.87}
+        #fdict = {'Comedy': 0.42, 'War': 0.77, 'Crime': 0.41, 'Musical': 0.73, 'Horror': 0.61, 'Action': 0.46, 'Romance': 0.25, 'Western': 0.87}
+        #fdict = {'Action': 0.46, 'Western': 0.87, 'Comedy': 0.42, 'Crime': 0.41, 'War': 0.77, 'Romance': 0.25, 'Musical': 0.73, 'Horror': 0.61}
+        fdict = {'Action': 0.68, 'Western': 0.95, 'Comedy': 0.70, 'Crime': 0.73, 'War': 0.89, 'Romance': 0.76, 'Musical': 0.87, 'Horror': 0.86}
         return fdict
 
     # 4
