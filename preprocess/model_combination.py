@@ -65,7 +65,7 @@ def main():
 
         max_f1 = 0
         best_predict = 0
-        #
+
         # for i, predicted in enumerate(predicteds):
         #     #print(f1_scores[i][predicted])
         #     try:

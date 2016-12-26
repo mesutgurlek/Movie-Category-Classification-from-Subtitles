@@ -1,8 +1,8 @@
 scrapy_project/.idea/
 scrapy_project/subtitle_scraper/__pycache__/
-tension-measuring/__pycache__/
+tension_measuring/__pycache__/
 scrapy_project/subtitle_scraper/spiders/__pycache__/
-tension-measuring/.idea/
+tension_measuring/.idea/
 .idea/
 ipython/.ipynb_checkpoints/
 .gitignore

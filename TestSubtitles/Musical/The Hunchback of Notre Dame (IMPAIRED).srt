@@ -1,0 +1,6540 @@
+1
+00:00:04,087 --> 00:00:05,885
+(BELL TOLLING)
+
+2
+00:00:06,089 --> 00:00:08,933
+(CHOIR SINGING SOFTLY)
+
+3
+00:00:10,427 --> 00:00:12,395
+(BELL TOLLING)
+
+4
+00:00:16,892 --> 00:00:19,486
+(BELLS RINGING)
+
+5
+00:00:25,692 --> 00:00:29,447
+(BELLS RINGING LOUDLY)
+
+6
+00:00:34,284 --> 00:00:37,879
+(CHOIR SINGING DRAMATICALLY)
+
+7
+00:00:55,639 --> 00:00:56,811
+(ROOSTER CROWS)
+
+8
+00:00:56,890 --> 00:01:00,144
+CLOPIN: (SINGING) <i>Morning in Paris</i>
+<i>The city awakes</i>
+
+9
+00:01:00,227 --> 00:01:03,481
+<i>To the bells of Notre Dame</i>
+
+10
+00:01:03,564 --> 00:01:07,149
+<i>The fisherman fishes The baker man bakes</i>
+
+11
+00:01:07,150 --> 00:01:10,245
+<i>To the bells of Notre Dame</i>
+
+12
+00:01:10,320 --> 00:01:12,664
+<i>To the big bells as loud as the thunder</i>
+
+13
+00:01:12,665 --> 00:01:13,748
+(BELL TOLLING)
+
+14
+00:01:13,824 --> 00:01:16,247
+<i>To the little bells soft as a psalm</i>
+
+15
+00:01:16,326 --> 00:01:17,418
+(BELLS RINGING)
+
+16
+00:01:17,494 --> 00:01:20,839
+<i>And some say the soul</i>
+<i>of the city's the toll</i>
+
+17
+00:01:20,914 --> 00:01:21,998
+<i>Of the bells</i>
+
+18
+00:01:21,999 --> 00:01:24,377
+(BELL TOLLING)
+
+19
+00:01:24,459 --> 00:01:30,933
+<i>The bells of Notre Dame</i>
+
+20
+00:01:31,592 --> 00:01:34,266
+Listen. They're beautiful, no?
+
+21
+00:01:34,344 --> 00:01:38,190
+So many colors of sound,
+so many changing moods.
+
+22
+00:01:38,265 --> 00:01:41,439
+Because you know they don't
+ring all by themselves.
+
+23
+00:01:41,518 --> 00:01:43,612
+- PUPPET: They don't?
+- No, you silly boy.
+
+24
+00:01:43,687 --> 00:01:45,062
+Up there,
+(BELL TOLLING)
+
+25
+00:01:45,063 --> 00:01:47,361
+high, high in the dark bell tower,
+
+26
+00:01:47,441 --> 00:01:50,285
+lives the mysterious bell ringer.
+
+27
+00:01:50,360 --> 00:01:52,533
+- Who is this creature?
+- PUPPET: Who?
+
+28
+00:01:52,613 --> 00:01:53,956
+- What is he?
+- PUPPET: What?
+
+29
+00:01:54,031 --> 00:01:56,375
+- How did he come to be there?
+- PUPPET: How?
+
+30
+00:01:56,450 --> 00:01:57,952
+- Hush.
+- PUPPET: Ow.
+
+31
+00:01:58,035 --> 00:02:00,037
+Clopin will tell you.
+
+32
+00:02:00,120 --> 00:02:03,795
+It is a tale, a tale of a man...
+
+33
+00:02:03,874 --> 00:02:06,297
+And a monster.
+
+34
+00:02:06,376 --> 00:02:08,629
+(SINGING) <i>Dark was the night</i>
+<i>when our tale was begun</i>
+
+35
+00:02:08,712 --> 00:02:09,713
+(BABY CRYING)
+
+36
+00:02:09,796 --> 00:02:12,114
+<i>On the docks near Notre Dame</i>
+
+37
+00:02:12,115 --> 00:02:13,886
+- Shut it up, will you?
+- We'll be spotted!
+
+38
+00:02:13,887 --> 00:02:14,885
+Hush, little one.
+
+39
+00:02:14,968 --> 00:02:18,220
+<i>Four frightened gypsies</i>
+<i>slid silently under</i>
+
+40
+00:02:18,221 --> 00:02:20,815
+<i>The docks near Notre Dame</i>
+
+41
+00:02:20,891 --> 00:02:22,768
+Four guilders
+for safe passage into Paris.
+
+42
+00:02:22,851 --> 00:02:25,730
+<i>A trap had been laid for the gypsies</i>
+
+43
+00:02:25,812 --> 00:02:29,282
+<i>And they gazed up in fear and alarm</i>
+
+44
+00:02:29,358 --> 00:02:31,110
+<i>At a figure whose clutches</i>
+
+45
+00:02:31,193 --> 00:02:33,992
+<i>Were iron as much as the bells</i>
+
+46
+00:02:34,071 --> 00:02:35,243
+Judge Claude Frollo!
+
+47
+00:02:35,864 --> 00:02:40,085
+<i>The bells of Notre Dame</i>
+
+48
+00:02:40,160 --> 00:02:42,834
+CHOIR: <i>Kyrie eleison</i>
+
+49
+00:02:42,913 --> 00:02:48,125
+CLOPIN: <i>Judge Claude Frollo longed</i>
+<i>to purge the world of vice and sin</i>
+
+50
+00:02:48,126 --> 00:02:50,845
+CHOIR: <i>Kyrie eleison</i>
+
+51
+00:02:50,962 --> 00:02:53,431
+CLOPIN: <i>And he saw corruption</i>
+
+52
+00:02:53,507 --> 00:02:57,102
+<i>Everywhere except within</i>
+
+53
+00:02:57,177 --> 00:03:00,101
+Bring these gypsy vermin
+to the palace of justice.
+
+54
+00:03:00,263 --> 00:03:01,765
+You there! What are you hiding?
+
+55
+00:03:01,848 --> 00:03:05,102
+Stolen goods, no doubt.
+Take them from her.
+
+56
+00:03:05,185 --> 00:03:07,279
+(THUNDER CRACKING)
+She ran.
+
+57
+00:03:08,146 --> 00:03:10,865
+CHOIR: <i>Dies irae</i>
+<i>Dies irae</i>
+
+58
+00:03:10,941 --> 00:03:14,318
+<i>Dies illa
+Dies illa</i>
+
+59
+00:03:14,319 --> 00:03:17,539
+<i>Solvet saeclum in favilla</i>
+
+60
+00:03:17,614 --> 00:03:18,786
+(PANTING)
+
+61
+00:03:19,366 --> 00:03:20,367
+(GRUNTS)
+
+62
+00:03:20,450 --> 00:03:23,294
+<i>Quantus tremor est futurus</i>
+
+63
+00:03:23,370 --> 00:03:25,043
+(HORSE WHINNYING)
+
+64
+00:03:25,122 --> 00:03:27,966
+<i>Quando judex est venturus</i>
+
+65
+00:03:28,041 --> 00:03:30,544
+Sanctuary! Please, give us sanctuary!
+
+66
+00:03:30,627 --> 00:03:34,006
+<i>Quantus tremor est futurus</i>
+
+67
+00:03:34,089 --> 00:03:35,466
+(HORSE WHINNYING)
+
+68
+00:03:36,466 --> 00:03:37,683
+(GASPING)
+
+69
+00:03:38,635 --> 00:03:40,637
+<i>Dies irae</i>
+
+70
+00:03:40,762 --> 00:03:41,888
+(BABY CRYING)
+
+71
+00:03:41,972 --> 00:03:43,474
+A baby?
+
+72
+00:03:44,474 --> 00:03:46,684
+(GASPS) A monster!
+
+73
+00:03:46,685 --> 00:03:50,235
+<i>Solvet saeclum in favilla</i>
+
+74
+00:03:50,313 --> 00:03:54,819
+<i>Dies irae
+Dies irae</i>
+
+75
+00:03:55,110 --> 00:03:57,863
+(CHOIR SINGING DRAMATICALLY)
+
+76
+00:04:01,283 --> 00:04:02,330
+(THUNDER CRACKING)
+
+77
+00:04:02,331 --> 00:04:04,669
+"Stop!" cried the archdeacon.
+
+78
+00:04:04,745 --> 00:04:06,338
+This is an unholy demon.
+
+79
+00:04:06,413 --> 00:04:08,836
+I'm sending it back to hell,
+where it belongs.
+
+80
+00:04:09,082 --> 00:04:12,177
+(SINGING) <i>See, there,</i>
+<i>the innocent blood you have spilt</i>
+
+81
+00:04:12,252 --> 00:04:14,503
+<i>On the steps of Notre Dame</i>
+
+82
+00:04:14,504 --> 00:04:17,007
+I am guiltless. She ran. I pursued.
+
+83
+00:04:17,090 --> 00:04:20,264
+<i>Now you would add this child's</i>
+<i>blood to your guilt</i>
+
+84
+00:04:20,343 --> 00:04:22,344
+<i>On the steps of Notre Dame</i>
+
+85
+00:04:22,345 --> 00:04:23,722
+My conscience is clear.
+
+86
+00:04:23,723 --> 00:04:26,771
+<i>You can lie to yourself
+and your minions</i>
+
+87
+00:04:26,850 --> 00:04:29,979
+<i>You can claim that you haven't a qualm</i>
+
+88
+00:04:30,103 --> 00:04:32,447
+<i>But you never can run from</i>
+
+89
+00:04:32,522 --> 00:04:35,901
+<i>Nor hide what you've done
+from the eyes</i>
+
+90
+00:04:36,777 --> 00:04:38,575
+<i>The very eyes</i>
+
+91
+00:04:38,653 --> 00:04:42,072
+<i>Of Notre Dame</i>
+
+92
+00:04:42,073 --> 00:04:44,576
+CHOIR: <i>Kyrie eleison</i>
+
+93
+00:04:44,701 --> 00:04:47,454
+CLOPIN: <i>And for one time in his life</i>
+
+94
+00:04:47,537 --> 00:04:49,460
+<i>Of power and control</i>
+
+95
+00:04:49,539 --> 00:04:52,249
+CHOIR: <i>Kyrie eleison</i>
+
+96
+00:04:52,250 --> 00:04:59,134
+CLOPIN: <i>Frollo felt a twinge of fear</i>
+<i>for his immortal soul</i>
+
+97
+00:04:59,216 --> 00:05:00,263
+What must I do?
+
+98
+00:05:00,383 --> 00:05:03,227
+Care for the child
+and raise it as your own.
+
+99
+00:05:03,228 --> 00:05:06,895
+What? I am to be saddled
+with this misshapen...
+
+100
+00:05:07,974 --> 00:05:09,021
+Very well.
+
+101
+00:05:09,309 --> 00:05:11,482
+But let him live with you in your church.
+
+102
+00:05:11,561 --> 00:05:13,563
+Live here? Where?
+
+103
+00:05:13,647 --> 00:05:15,149
+Anywhere.
+
+104
+00:05:15,232 --> 00:05:17,075
+(SINGING)
+<i>Just so he's kept locked away</i>
+
+105
+00:05:17,076 --> 00:05:19,320
+<i>Where no one else can see</i>
+
+106
+00:05:19,402 --> 00:05:21,325
+The bell tower, perhaps.
+
+107
+00:05:21,404 --> 00:05:25,329
+And who knows? Our Lord works
+in mysterious ways.
+
+108
+00:05:26,660 --> 00:05:31,040
+(SINGING) <i>Even this foul creature</i>
+<i>may yet prove one day to be</i>
+
+109
+00:05:31,915 --> 00:05:35,510
+<i>Of use to me</i>
+
+110
+00:05:35,585 --> 00:05:39,010
+And Frollo gave the child a cruel name,
+
+111
+00:05:39,089 --> 00:05:41,933
+a name that means "half-formed."
+
+112
+00:05:42,008 --> 00:05:44,301
+Quasimodo.
+
+113
+00:05:44,302 --> 00:05:48,933
+(SINGING) <i>Now here is a riddle</i>
+<i>to guess if you can</i>
+
+114
+00:05:49,015 --> 00:05:52,440
+<i>Sing the bells of Notre Dame</i>
+
+115
+00:05:52,519 --> 00:05:56,444
+<i>Who is the monster and who is the man</i>
+
+116
+00:05:56,523 --> 00:05:57,775
+(BELL CHIMING)
+
+117
+00:05:57,858 --> 00:06:01,783
+<i>Sing the bells, bells
+Bells, bells</i>
+
+118
+00:06:01,862 --> 00:06:05,116
+<i>Bells, bells
+Bells, bells</i>
+
+119
+00:06:05,198 --> 00:06:12,207
+<i>Bells of Notre Dame</i>
+
+120
+00:06:12,455 --> 00:06:16,301
+(CHOIR SINGING DRAMATICALLY)
+
+121
+00:06:35,645 --> 00:06:37,989
+Good morning.
+(CHIRPING)
+
+122
+00:06:38,064 --> 00:06:41,409
+Will today be the day?
+Are you ready to fly?
+
+123
+00:06:41,484 --> 00:06:44,988
+(CHIRPING SADLY)
+You sure? Good day to try.
+
+124
+00:06:45,071 --> 00:06:49,668
+Why, if I picked a day to fly,
+oh, this would be it.
+
+125
+00:06:49,743 --> 00:06:51,962
+The Festival of Fools.
+
+126
+00:06:52,913 --> 00:06:53,960
+(GULPING)
+
+127
+00:06:54,080 --> 00:06:55,297
+(CHIRPING NERVOUSLY)
+
+128
+00:06:55,415 --> 00:06:59,591
+It will be fun with jugglers
+and music and dancing.
+
+129
+00:07:00,170 --> 00:07:01,513
+(LAUGHS)
+
+130
+00:07:02,589 --> 00:07:03,841
+(CHIRPING HAPPILY)
+
+131
+00:07:06,927 --> 00:07:08,474
+(CHIRPING EXCITEDLY)
+
+132
+00:07:08,929 --> 00:07:12,183
+Go on. Nobody wants
+to be cooped up here forever.
+
+133
+00:07:12,184 --> 00:07:14,184
+(CHIRPING)
+
+134
+00:07:19,064 --> 00:07:21,442
+(SPITTING) Oh, man!
+
+135
+00:07:21,524 --> 00:07:24,368
+I thought he'd never leave.
+I'll be spittin' feathers for a week.
+
+136
+00:07:24,444 --> 00:07:26,913
+Well, that's what you get
+for sleeping with your mouth open.
+
+137
+00:07:26,988 --> 00:07:28,765
+(LAUGHING SARCASTICALLY)
+Go scare a nun.
+
+138
+00:07:28,849 --> 00:07:30,371
+Hey, Quasi, what's goin' on out there?
+
+139
+00:07:30,450 --> 00:07:32,043
+- A fight? A flogging?
+- A festival.
+
+140
+00:07:32,118 --> 00:07:33,670
+- You mean a Feast of Fools?
+- Uh-huh.
+
+141
+00:07:33,753 --> 00:07:36,751
+All right, all right!
+Pour the wine and cut the cheese.
+
+142
+00:07:36,752 --> 00:07:40,376
+It is a treat to watch the colorful
+pageantry of the simple peasant folk.
+
+143
+00:07:40,377 --> 00:07:42,630
+Boy, nothin' like balcony seats
+for watching the ol' FOF.
+
+144
+00:07:42,712 --> 00:07:44,305
+Yeah, watchin'.
+
+145
+00:07:44,381 --> 00:07:46,554
+Oh, look. A mime.
+
+146
+00:07:46,841 --> 00:07:48,514
+(HOCKING)
+
+147
+00:07:49,803 --> 00:07:51,055
+(GULPS)
+
+148
+00:07:52,472 --> 00:07:54,224
+Hey, hey, hey, hey. What gives?
+
+149
+00:07:54,307 --> 00:07:57,060
+Aren't you
+going to watch the festival with us?
+
+150
+00:07:57,143 --> 00:07:58,770
+- I don't get it.
+- Perhaps he's sick.
+
+151
+00:07:58,853 --> 00:07:59,898
+LAVERNE: Impossible.
+
+152
+00:07:59,899 --> 00:08:03,992
+If 20 years of listenin' to you two hasn't
+made him sick by now, nothin' will.
+
+153
+00:08:04,067 --> 00:08:05,614
+Watching the Festival of Fools
+
+154
+00:08:05,694 --> 00:08:08,115
+has always been the highlight
+of the year for Quasimodo.
+
+155
+00:08:08,116 --> 00:08:10,491
+What good is watchin' the party
+if you never get to go?
+
+156
+00:08:10,573 --> 00:08:13,326
+Here, get away from me!
+Go on, ya bunch of buzzards!
+
+157
+00:08:13,410 --> 00:08:15,458
+He's not made of stone, like us.
+
+158
+00:08:33,513 --> 00:08:37,518
+Quasi, what's wrong?
+You want to tell ol' Laverne all about it?
+
+159
+00:08:38,351 --> 00:08:41,104
+I just don't feel
+like watching the festival, that's all.
+
+160
+00:08:41,187 --> 00:08:43,610
+Well, did ya ever think
+of goin' there instead?
+
+161
+00:08:43,690 --> 00:08:46,034
+Sure. But I'd never fit in out there.
+
+162
+00:08:46,109 --> 00:08:48,453
+I'm not normal.
+
+163
+00:08:48,528 --> 00:08:51,202
+Oh, Quasi, Quasi, Quasi.
+
+164
+00:08:51,281 --> 00:08:52,373
+Do ya mind?
+
+165
+00:08:52,449 --> 00:08:55,826
+I would like to have a moment
+with the boy, if it's all right with you!
+
+166
+00:08:55,827 --> 00:08:57,428
+Hey, quit beatin' around the bell tower.
+
+167
+00:08:57,454 --> 00:08:59,625
+What do we gotta do, paint ya a fresco?
+
+168
+00:08:59,626 --> 00:09:02,717
+As your friends and guardians,
+we insist you attend the festival.
+
+169
+00:09:02,792 --> 00:09:05,134
+- Me?
+- No, the pope. Of course, you!
+
+170
+00:09:05,135 --> 00:09:07,802
+It would be a veritable potpourri
+of educational experience.
+
+171
+00:09:07,881 --> 00:09:09,178
+Wine, women and song.
+
+172
+00:09:09,257 --> 00:09:11,349
+You can learn to identify
+various regional cheeses.
+
+173
+00:09:11,350 --> 00:09:13,640
+- Bobbin' for snails.
+- Study indigenous folk music.
+
+174
+00:09:13,720 --> 00:09:15,472
+Playin' dunk the monk!
+
+175
+00:09:15,555 --> 00:09:19,683
+Quasi, take it from an old spectator.
+Life's not a spectator sport.
+
+176
+00:09:19,684 --> 00:09:21,482
+If watchin' is all you're gonna do,
+
+177
+00:09:21,561 --> 00:09:24,155
+then you're gonna watch
+your life go by without ya.
+
+178
+00:09:24,230 --> 00:09:27,985
+Yeah, you're human, with the flesh
+and the hair and the navel lint.
+
+179
+00:09:28,068 --> 00:09:30,162
+We're just part of the architecture.
+Right, Victor?
+
+180
+00:09:30,236 --> 00:09:33,581
+Yet, if you kick us, will we not flake?
+
+181
+00:09:33,656 --> 00:09:36,330
+If you moisten us, do we not grow moss?
+
+182
+00:09:36,331 --> 00:09:37,373
+(HUGO WARBLING)
+
+183
+00:09:37,452 --> 00:09:40,205
+Quasi, just grab a fresh tunic
+and a clean pair of hose, and...
+
+184
+00:09:40,288 --> 00:09:43,918
+Thanks for the encouragement.
+But you're all forgetting one big thing.
+
+185
+00:09:44,000 --> 00:09:45,422
+GARGOYLES: What?
+
+186
+00:09:45,585 --> 00:09:47,679
+My master, Frollo.
+
+187
+00:09:47,754 --> 00:09:49,973
+GARGOYLES: Oh.
+VICTOR: Yeah. Oh, dear, yes.
+
+188
+00:09:50,090 --> 00:09:54,266
+Well, when he says you're forbidden
+from ever leaving the bell tower,
+
+189
+00:09:54,344 --> 00:09:56,060
+does he mean "ever, " ever?
+
+190
+00:09:56,061 --> 00:09:58,933
+Never ever.
+And he hates the Feast of Fools.
+
+191
+00:09:59,015 --> 00:10:02,519
+- He'd be furious if I asked to go.
+- Who says ya gotta ask?
+
+192
+00:10:02,602 --> 00:10:04,525
+- Oh, no.
+- Ya sneak out.
+
+193
+00:10:04,604 --> 00:10:06,197
+- It's just one afternoon.
+- I couldn't.
+
+194
+00:10:06,272 --> 00:10:08,070
+And ya sneak back in.
+
+195
+00:10:08,149 --> 00:10:10,402
+- He'll never know you were gone.
+- And if I got caught?
+
+196
+00:10:10,485 --> 00:10:12,362
+Better to beg forgiveness
+than ask permission.
+
+197
+00:10:12,445 --> 00:10:13,446
+He might see me.
+
+198
+00:10:13,530 --> 00:10:15,703
+You could wear a disguise.
+Just this once.
+
+199
+00:10:15,782 --> 00:10:17,625
+What Frollo doesn't know can't hurt ya.
+
+200
+00:10:17,700 --> 00:10:19,575
+- Ignorance is bliss.
+- Look who's talkin'.
+
+201
+00:10:19,576 --> 00:10:22,581
+Nobody wants to stay
+cooped up here forever.
+
+202
+00:10:23,123 --> 00:10:25,467
+You're right. I'll go.
+(GARGOYLES CHEERING)
+
+203
+00:10:25,542 --> 00:10:27,135
+- I'll get cleaned up.
+- Yes, sir!
+
+204
+00:10:27,210 --> 00:10:29,053
+- I'll stroll down those stairs.
+- There ya go!
+
+205
+00:10:29,129 --> 00:10:30,529
+I'll march through the doors and...
+
+206
+00:10:30,839 --> 00:10:32,216
+Good morning, Quasimodo.
+
+207
+00:10:33,216 --> 00:10:36,891
+(STUTTERING)
+Oh, good morning, Master.
+
+208
+00:10:36,970 --> 00:10:39,894
+Dear boy, whomever are you talking to?
+
+209
+00:10:40,223 --> 00:10:42,897
+My friends.
+
+210
+00:10:43,059 --> 00:10:46,563
+I see. And what are your
+friends made of, Quasimodo?
+
+211
+00:10:46,646 --> 00:10:47,989
+Stone.
+
+212
+00:10:48,815 --> 00:10:52,160
+- Can stone talk?
+- No, it can't.
+
+213
+00:10:52,235 --> 00:10:54,488
+That's right. You're a smart lad.
+
+214
+00:10:54,571 --> 00:10:56,915
+Now, lunch.
+
+215
+00:11:01,494 --> 00:11:03,997
+Shall we review your alphabet today?
+
+216
+00:11:04,080 --> 00:11:07,505
+Oh, yes, Master.
+I would like that very much.
+
+217
+00:11:07,584 --> 00:11:11,009
+- Very well. "A"?
+- Abomination.
+
+218
+00:11:11,087 --> 00:11:12,760
+- "B"?
+- Blasphemy.
+
+219
+00:11:12,839 --> 00:11:14,762
+- "C"?
+- Contrition.
+
+220
+00:11:14,841 --> 00:11:16,263
+- "D"?
+- Damnation.
+
+221
+00:11:16,342 --> 00:11:18,436
+- "E"?
+- Eternal damnation.
+
+222
+00:11:18,511 --> 00:11:20,013
+- Good. "F"?
+- Festival.
+
+223
+00:11:20,096 --> 00:11:21,393
+(FROLLO SPITTING)
+
+224
+00:11:21,931 --> 00:11:24,650
+Excuse me?
+(STUTTERING) - Forgiveness.
+
+225
+00:11:24,651 --> 00:11:27,191
+- You said, "Festival."
+- No!
+
+226
+00:11:27,270 --> 00:11:30,114
+You are thinking
+about going to the festival.
+
+227
+00:11:30,190 --> 00:11:32,441
+It's just that you go every year.
+
+228
+00:11:32,442 --> 00:11:35,867
+I am a public official. I must go.
+
+229
+00:11:35,945 --> 00:11:38,949
+But I don't enjoy a moment.
+
+230
+00:11:39,032 --> 00:11:42,326
+Thieves and cutpurses,
+the dregs of humankind,
+
+231
+00:11:42,327 --> 00:11:46,878
+all mixed together
+in a shallow, drunken stupor.
+
+232
+00:11:46,956 --> 00:11:50,005
+I didn't mean to upset you, Master.
+
+233
+00:11:50,084 --> 00:11:53,054
+Quasimodo, can't you understand?
+
+234
+00:11:53,129 --> 00:11:56,303
+When your heartless mother
+abandoned you as a child,
+
+235
+00:11:56,382 --> 00:11:58,885
+anyone else would have drowned you.
+
+236
+00:11:58,968 --> 00:12:02,643
+And this is my thanks for taking you in
+and raising you as my son?
+
+237
+00:12:02,722 --> 00:12:04,224
+I'm sorry, sir.
+
+238
+00:12:04,557 --> 00:12:06,901
+Oh, my dear Quasimodo.
+
+239
+00:12:06,976 --> 00:12:09,479
+You don't know what it's like out there.
+
+240
+00:12:09,729 --> 00:12:12,733
+I do. I do.
+
+241
+00:12:13,316 --> 00:12:15,318
+(SINGING) <i>The world is cruel</i>
+
+242
+00:12:15,401 --> 00:12:17,574
+<i>The world is wicked</i>
+
+243
+00:12:17,654 --> 00:12:21,579
+<i>It's I alone whom you can</i>
+<i>trust in this whole city</i>
+
+244
+00:12:21,658 --> 00:12:25,333
+<i>I am your only friend</i>
+
+245
+00:12:26,663 --> 00:12:30,008
+<i>I, who keep you, teach you</i>
+<i>feed you, dress you</i>
+
+246
+00:12:30,750 --> 00:12:33,754
+<i>I, who look upon you without fear</i>
+
+247
+00:12:34,921 --> 00:12:37,005
+<i>How can I protect you, boy</i>
+
+248
+00:12:37,006 --> 00:12:41,102
+<i>Unless you always stay in here</i>
+
+249
+00:12:41,177 --> 00:12:43,805
+<i>Away in here</i>
+
+250
+00:12:44,347 --> 00:12:47,442
+Remember what
+I've taught you, Quasimodo.
+
+251
+00:12:47,517 --> 00:12:49,688
+<i>- You are deformed</i>
+<i>- I am deformed</i>
+
+252
+00:12:49,689 --> 00:12:51,903
+<i>- And you are ugly</i>
+<i>- And I am ugly</i>
+
+253
+00:12:51,904 --> 00:12:55,617
+<i>And these are crimes</i>
+<i>for which the world shows little pity</i>
+
+254
+00:12:55,692 --> 00:12:57,911
+<i>You do not comprehend</i>
+
+255
+00:12:57,986 --> 00:13:00,862
+<i>You are my one defender</i>
+
+256
+00:13:00,863 --> 00:13:03,582
+<i>Out there they'll</i>
+<i>revile you as a monster</i>
+
+257
+00:13:03,658 --> 00:13:05,205
+<i>I am a monster</i>
+
+258
+00:13:05,285 --> 00:13:08,038
+<i>Out there they</i>
+<i>will hate and scorn and jeer</i>
+
+259
+00:13:08,121 --> 00:13:09,373
+<i>Only a monster</i>
+
+260
+00:13:09,455 --> 00:13:13,505
+<i>Why invite their calumny</i>
+<i>and consternation</i>
+
+261
+00:13:13,626 --> 00:13:15,469
+<i>Stay in here</i>
+
+262
+00:13:15,545 --> 00:13:18,139
+<i>- Be faithful to me</i>
+- QUASIMODO: <i>I'm faithful</i>
+
+263
+00:13:18,214 --> 00:13:21,218
+- FROLLO: <i>Grateful to me</i>
+<i>- I'm grateful</i>
+
+264
+00:13:21,301 --> 00:13:24,145
+<i>Do as I say</i>
+
+265
+00:13:24,220 --> 00:13:25,722
+<i>Obey</i>
+
+266
+00:13:25,805 --> 00:13:31,983
+<i>- And stay in here</i>
+<i>- I'll stay in here</i>
+
+267
+00:13:32,478 --> 00:13:35,072
+You are good to me, Master.
+
+268
+00:13:35,148 --> 00:13:37,992
+- I'm sorry.
+- You are forgiven.
+
+269
+00:13:38,067 --> 00:13:42,243
+But, remember, Quasimodo,
+this is your sanctuary.
+
+270
+00:13:43,906 --> 00:13:45,499
+My sanctuary.
+
+271
+00:13:46,743 --> 00:13:50,589
+<i>Safe behind these windows</i>
+<i>and these parapets of stone</i>
+
+272
+00:13:51,080 --> 00:13:54,082
+<i>Gazing at the people down below me</i>
+
+273
+00:13:54,083 --> 00:13:55,505
+(CROWD CHATTERING)
+
+274
+00:13:55,585 --> 00:13:58,930
+<i>All my life, I watch them</i>
+<i>as I hide up here alone</i>
+
+275
+00:13:59,255 --> 00:14:02,885
+<i>Hungry for the histories they show me</i>
+
+276
+00:14:03,426 --> 00:14:07,272
+<i>All my life I memorize their faces</i>
+
+277
+00:14:07,347 --> 00:14:11,443
+<i>Knowing them
+as they will never know me</i>
+
+278
+00:14:11,517 --> 00:14:15,192
+<i>All my life, I wonder</i>
+<i>how it feels to pass a day</i>
+
+279
+00:14:15,271 --> 00:14:17,615
+<i>Not above them</i>
+
+280
+00:14:19,025 --> 00:14:23,121
+<i>But part of them</i>
+
+281
+00:14:23,613 --> 00:14:26,617
+<i>And out there</i>
+
+282
+00:14:26,699 --> 00:14:30,203
+<i>Living in the sun</i>
+
+283
+00:14:30,286 --> 00:14:34,041
+<i>Give me one day out there</i>
+
+284
+00:14:34,123 --> 00:14:37,468
+<i>All I ask is one</i>
+
+285
+00:14:37,543 --> 00:14:40,003
+<i>To hold forever</i>
+
+286
+00:14:40,004 --> 00:14:41,802
+<i>Out there</i>
+
+287
+00:14:41,881 --> 00:14:46,478
+<i>Where they all live unaware</i>
+
+288
+00:14:46,552 --> 00:14:48,771
+<i>What I'd give</i>
+
+289
+00:14:50,223 --> 00:14:53,397
+<i>What I'd dare</i>
+
+290
+00:14:54,060 --> 00:14:55,977
+<i>Just to live</i>
+
+291
+00:14:55,978 --> 00:14:58,146
+<i>One day</i>
+
+292
+00:14:58,147 --> 00:14:58,759
+<i>Out there</i>
+
+293
+00:15:05,238 --> 00:15:08,833
+<i>Out there among the millers</i>
+<i>and the weavers and their wives</i>
+
+294
+00:15:08,908 --> 00:15:10,158
+(CROWD CHATTERING)
+
+295
+00:15:10,159 --> 00:15:12,912
+<i>Through the roofs and gables</i>
+<i>I can see them</i>
+
+296
+00:15:12,995 --> 00:15:16,750
+<i>Every day they shout and scold</i>
+<i>and go about their lives</i>
+
+297
+00:15:16,833 --> 00:15:20,007
+<i>Heedless of the gift it is to be them</i>
+
+298
+00:15:20,086 --> 00:15:24,172
+<i>If I was in their skin</i>
+
+299
+00:15:24,173 --> 00:15:27,050
+<i>I'd treasure</i>
+
+300
+00:15:27,051 --> 00:15:29,719
+<i>Every instant</i>
+
+301
+00:15:29,720 --> 00:15:31,518
+<i>Out there</i>
+
+302
+00:15:31,597 --> 00:15:35,272
+<i>Strolling by the Seine</i>
+
+303
+00:15:35,351 --> 00:15:38,696
+<i>Taste the morning out there</i>
+
+304
+00:15:38,771 --> 00:15:42,696
+<i>Like ordinary men</i>
+
+305
+00:15:42,775 --> 00:15:46,530
+<i>Who freely walk about there</i>
+
+306
+00:15:46,612 --> 00:15:50,116
+<i>Just one day and then</i>
+
+307
+00:15:50,199 --> 00:15:55,456
+<i>I swear I'll be content</i>
+
+308
+00:15:55,538 --> 00:15:59,042
+<i>With my share</i>
+
+309
+00:15:59,125 --> 00:16:02,629
+<i>Won't resent
+Won't despair</i>
+
+310
+00:16:02,712 --> 00:16:06,307
+<i>Old and bent
+I won't care</i>
+
+311
+00:16:06,382 --> 00:16:11,761
+<i>I'll have spent
+One day</i>
+
+312
+00:16:11,762 --> 00:16:12,374
+<i>Out there</i>
+
+313
+00:16:30,072 --> 00:16:32,120
+(HORSE WHINNYING)
+
+314
+00:16:32,783 --> 00:16:34,581
+(PEOPLE CHATTERING)
+
+315
+00:16:39,165 --> 00:16:41,167
+Hmm. Uh-uh.
+
+316
+00:16:41,250 --> 00:16:45,596
+You leave town for a couple of decades,
+and they change everything.
+
+317
+00:16:45,671 --> 00:16:48,971
+Excuse me, gentlemen, I'm looking for
+the palace of justice. Would you...
+
+318
+00:16:49,050 --> 00:16:51,269
+Mmm. I guess not.
+
+319
+00:16:53,095 --> 00:16:56,269
+(CHATTERING INDISTINCTLY)
+
+320
+00:16:56,432 --> 00:16:58,105
+(GYPSY MUSIC PLAYING)
+
+321
+00:16:58,184 --> 00:16:59,811
+Ah! (GIGGLING)
+
+322
+00:16:59,894 --> 00:17:04,024
+Stay away, child. They're gypsies.
+They'll steal us blind.
+
+323
+00:17:15,743 --> 00:17:16,960
+(WHISTLES)
+
+324
+00:17:17,119 --> 00:17:18,166
+(GASPS)
+
+325
+00:17:20,831 --> 00:17:22,378
+(GOAT BLEATING)
+
+326
+00:17:24,919 --> 00:17:26,294
+All right, gypsy.
+
+327
+00:17:26,295 --> 00:17:29,299
+- Where'd ya get the money?
+- For your information, I earned it.
+
+328
+00:17:29,300 --> 00:17:32,643
+- Gypsies don't earn money.
+- They steal it.
+
+329
+00:17:32,718 --> 00:17:34,516
+You'd know a lot about stealing.
+
+330
+00:17:34,637 --> 00:17:36,230
+Troublemaker, eh?
+
+331
+00:17:36,305 --> 00:17:39,479
+Maybe a day in the stocks
+will cool ya down.
+
+332
+00:17:39,642 --> 00:17:41,019
+Oof!
+(GROANS)
+
+333
+00:17:43,646 --> 00:17:45,398
+Come back here, gypsy!
+
+334
+00:17:45,481 --> 00:17:47,700
+(HORSE WHINNYING)
+(MEN GRUNTING)
+
+335
+00:17:48,401 --> 00:17:49,493
+Achilles, sit.
+
+336
+00:17:49,819 --> 00:17:51,152
+Hey! Whoa!
+
+337
+00:17:51,153 --> 00:17:53,872
+Oh, dear, I'm sorry.
+
+338
+00:17:53,948 --> 00:17:55,746
+Naughty horse! Naughty!
+
+339
+00:17:55,825 --> 00:17:58,999
+He's just impossible.
+Really, I can't take him anywhere.
+
+340
+00:17:59,078 --> 00:18:02,173
+Get this thing off me!
+
+341
+00:18:02,290 --> 00:18:05,009
+I'll teach you a lesson, peasant!
+(CROWD GASPS)
+
+342
+00:18:06,085 --> 00:18:08,429
+You were saying, Lieutenant?
+
+343
+00:18:08,713 --> 00:18:10,714
+(STAMMERING) Oh, Captain!
+
+344
+00:18:10,715 --> 00:18:12,513
+(CLANGING)
+Ow!
+
+345
+00:18:12,675 --> 00:18:14,427
+At your service, sir!
+
+346
+00:18:16,262 --> 00:18:18,264
+I know you have a lot
+on your mind right now,
+
+347
+00:18:18,347 --> 00:18:20,896
+but the palace of justice?
+
+348
+00:18:20,975 --> 00:18:24,352
+- Make way for the captain!
+- Go on, make way!
+
+349
+00:18:24,353 --> 00:18:25,650
+SOLDIER 1: Make way!
+
+350
+00:18:26,606 --> 00:18:28,231
+Everybody out of the way!
+
+351
+00:18:28,232 --> 00:18:29,859
+SOLDIER 2: You,
+make way for the captain!
+
+352
+00:18:29,942 --> 00:18:32,286
+SOLDIER 1: Make way!
+SOLDIER 2: Make way, now!
+
+353
+00:18:37,366 --> 00:18:40,040
+Come on, boy. Achilles, heel!
+(HORSE SNORTING)
+
+354
+00:18:54,133 --> 00:18:56,807
+(WHIP CRACKING)
+
+355
+00:18:57,053 --> 00:18:58,896
+- FROLLO: Stop.
+- Sir?
+
+356
+00:18:58,971 --> 00:19:01,565
+Ease up. Wait between lashes.
+
+357
+00:19:01,641 --> 00:19:04,315
+Otherwise the old sting
+will dull him to the new.
+
+358
+00:19:04,393 --> 00:19:05,645
+Yes, sir.
+
+359
+00:19:05,728 --> 00:19:10,404
+Ah, so this is the gallant
+Captain Phoebus, home from the wars.
+
+360
+00:19:10,483 --> 00:19:12,235
+Reporting for duty, as ordered, sir.
+
+361
+00:19:12,318 --> 00:19:15,071
+Your service record
+precedes you, Phoebus.
+
+362
+00:19:15,154 --> 00:19:18,749
+I expect nothing but the best
+from a war hero of your caliber.
+
+363
+00:19:18,824 --> 00:19:20,792
+And you shall have it, sir. I guarantee it.
+
+364
+00:19:20,868 --> 00:19:21,960
+Yes.
+
+365
+00:19:22,078 --> 00:19:26,584
+You know, my last captain of the guard
+was a bit of a disappointment to me.
+
+366
+00:19:26,666 --> 00:19:28,088
+(WHIP CRACKS)
+(MAN SCREAMS)
+
+367
+00:19:28,167 --> 00:19:32,013
+Well, no matter.
+I'm sure you'll whip my men into shape.
+
+368
+00:19:32,713 --> 00:19:36,684
+(STAMMERING) Uh, thank you.
+It's a tremendous honor, sir.
+
+369
+00:19:36,759 --> 00:19:39,433
+FROLLO: You've come to Paris
+in her darkest hour, Captain.
+
+370
+00:19:39,512 --> 00:19:42,186
+It will take a firm hand
+to save the weak-minded
+
+371
+00:19:42,264 --> 00:19:45,518
+- from being so easily misled.
+- Misled, sir?
+
+372
+00:19:45,601 --> 00:19:47,854
+Look, Captain. Gypsies.
+(GYPSY MUSIC PLAYING)
+
+373
+00:19:47,937 --> 00:19:50,531
+The gypsies live outside
+the normal order.
+
+374
+00:19:50,606 --> 00:19:54,452
+Their heathen ways inflame
+the people's lowest instincts.
+
+375
+00:19:54,527 --> 00:19:57,280
+And they must be stopped.
+
+376
+00:19:57,363 --> 00:19:59,036
+I was summoned from the wars
+
+377
+00:19:59,115 --> 00:20:01,117
+to capture fortune tellers
+and palm readers?
+
+378
+00:20:01,200 --> 00:20:04,704
+Oh, the real war, Captain,
+is what you see before you.
+
+379
+00:20:04,787 --> 00:20:09,124
+For 20 years, I have been
+taking care of the gypsies,
+
+380
+00:20:09,125 --> 00:20:11,719
+one by one.
+
+381
+00:20:12,378 --> 00:20:16,383
+And yet, for all my success,
+they have thrived.
+
+382
+00:20:16,465 --> 00:20:20,891
+I believe they have a safe haven
+within the walls of this very city.
+
+383
+00:20:20,970 --> 00:20:23,064
+A nest, if you will.
+
+384
+00:20:23,139 --> 00:20:26,313
+They call it the court of miracles.
+
+385
+00:20:26,392 --> 00:20:29,111
+What are we going to do about it, sir?
+
+386
+00:20:31,480 --> 00:20:33,403
+You make your point quite vividly, sir.
+
+387
+00:20:33,482 --> 00:20:36,486
+You know, I like you, Captain. Shall we?
+
+388
+00:20:36,569 --> 00:20:38,663
+(CROWD CHEERING)
+
+389
+00:20:38,946 --> 00:20:40,744
+Oh, duty calls.
+
+390
+00:20:40,823 --> 00:20:43,497
+Have you ever attended
+a peasant festival, Captain?
+
+391
+00:20:43,576 --> 00:20:45,160
+Not recently, sir.
+
+392
+00:20:45,161 --> 00:20:47,255
+Then this should be
+quite an education for you.
+
+393
+00:20:47,329 --> 00:20:48,330
+Come along.
+
+394
+00:20:50,124 --> 00:20:53,048
+(FANFARE)
+
+395
+00:21:00,426 --> 00:21:02,349
+CROWD: (SINGING) <i>Come, one</i>
+
+396
+00:21:02,762 --> 00:21:04,514
+<i>Come, all</i>
+
+397
+00:21:04,597 --> 00:21:06,691
+<i>Leave your looms and milking stools</i>
+
+398
+00:21:06,692 --> 00:21:09,435
+<i>Coop the hens and pen the mules</i>
+
+399
+00:21:09,518 --> 00:21:11,361
+<i>Come, one</i>
+
+400
+00:21:11,437 --> 00:21:13,439
+<i>Come, all</i>
+
+401
+00:21:13,522 --> 00:21:15,693
+<i>Close the churches and the schools</i>
+
+402
+00:21:15,694 --> 00:21:17,409
+<i>It's the day for breaking rules</i>
+
+403
+00:21:17,410 --> 00:21:18,698
+(YELLING)
+
+404
+00:21:18,778 --> 00:21:24,535
+<i>Come and join the Feast Of Fools</i>
+
+405
+00:21:24,700 --> 00:21:26,122
+(LAUGHING)
+
+406
+00:21:26,202 --> 00:21:28,375
+(CROWD CHEERING)
+
+407
+00:21:28,788 --> 00:21:32,540
+(SINGING) <i>Once a year we throw</i>
+<i>a party here in town</i>
+
+408
+00:21:32,541 --> 00:21:35,886
+<i>Once a year we turn</i>
+<i>all Paris upside-down</i>
+
+409
+00:21:35,961 --> 00:21:39,306
+<i>Every man's a king</i>
+<i>and every king's a clown</i>
+
+410
+00:21:39,381 --> 00:21:42,555
+<i>Once again it's topsy-turvy day</i>
+
+411
+00:21:42,635 --> 00:21:45,980
+<i>It's the day the devil in us gets released</i>
+
+412
+00:21:46,055 --> 00:21:49,309
+<i>It's the day we mock the prig</i>
+<i>and shock the priest</i>
+
+413
+00:21:49,391 --> 00:21:54,147
+<i>Everything is topsy-turvy</i>
+<i>at the Feast of Fools</i>
+
+414
+00:21:54,230 --> 00:21:55,948
+CROWD: <i>Topsy-turvy</i>
+
+415
+00:21:56,023 --> 00:21:59,241
+- CLOPIN: <i>Everything is upsy-daisy</i>
+<i>- Topsy-turvy</i>
+
+416
+00:21:59,242 --> 00:22:01,110
+CLOPIN: <i>Everyone is acting crazy</i>
+
+417
+00:22:01,111 --> 00:22:03,455
+<i>Dross is gold and weeds are a bouquet</i>
+
+418
+00:22:03,531 --> 00:22:04,781
+(WOMEN SQUEAKING)
+
+419
+00:22:04,782 --> 00:22:07,410
+<i>That's the way on topsy-turvy day</i>
+
+420
+00:22:07,493 --> 00:22:08,745
+Whoa!
+
+421
+00:22:09,328 --> 00:22:11,501
+Hey! Are you all right?
+
+422
+00:22:11,580 --> 00:22:14,424
+I didn't mean to. I'm sorry.
+
+423
+00:22:14,500 --> 00:22:17,003
+Well, you're not hurt, are you?
+Here, here, let's see.
+
+424
+00:22:17,086 --> 00:22:19,180
+- No, no! No!
+- There.
+
+425
+00:22:19,380 --> 00:22:21,633
+(BLEATS DISGUSTEDLY)
+See? No harm done.
+
+426
+00:22:22,424 --> 00:22:24,518
+Just try to be a little more careful.
+
+427
+00:22:24,593 --> 00:22:26,436
+(STUTTERING) I will.
+
+428
+00:22:26,512 --> 00:22:29,516
+By the way, great mask.
+
+429
+00:22:32,935 --> 00:22:34,482
+CROWD: <i>Topsy-turvy</i>
+
+430
+00:22:34,562 --> 00:22:36,314
+CLOPIN: <i>Beat the drums</i>
+<i>and blow the trumpets</i>
+
+431
+00:22:36,315 --> 00:22:37,510
+CROWD: <i>Topsy-turvy</i>
+
+432
+00:22:37,590 --> 00:22:39,440
+CLOPIN: <i>Join the bums</i>
+<i>and thieves and strumpets</i>
+
+433
+00:22:39,441 --> 00:22:40,442
+QUASIMODO: Whoa!
+
+434
+00:22:40,526 --> 00:22:42,949
+<i>Streaming in from Chartres to Calais</i>
+
+435
+00:22:43,028 --> 00:22:46,373
+<i>Scurvy knaves are extra scurvy</i>
+<i>on the sixth of Januervy</i>
+
+436
+00:22:46,448 --> 00:22:50,123
+<i>All because it's topsy-turvy day</i>
+
+437
+00:22:50,619 --> 00:22:52,371
+<i>Come, one</i>
+
+438
+00:22:52,621 --> 00:22:54,623
+<i>Come, all</i>
+
+439
+00:22:54,707 --> 00:22:56,709
+<i>Hurry, hurry
+Here's your chance</i>
+
+440
+00:22:56,792 --> 00:22:59,671
+<i>See the mystery and romance</i>
+
+441
+00:22:59,753 --> 00:23:03,474
+<i>Come, one
+Come, all</i>
+
+442
+00:23:03,549 --> 00:23:06,052
+<i>See the finest girl in France</i>
+
+443
+00:23:06,135 --> 00:23:08,303
+<i>Make an entrance to entrance</i>
+
+444
+00:23:08,304 --> 00:23:13,975
+<i>Dance la Esmeralda</i>
+
+445
+00:23:13,976 --> 00:23:15,478
+<i>Dance</i>
+
+446
+00:23:15,603 --> 00:23:17,981
+(CROWD CHEERING)
+
+447
+00:23:18,063 --> 00:23:20,657
+(GYPSY MUSIC PLAYING)
+
+448
+00:23:20,900 --> 00:23:24,325
+- Look at that disgusting display.
+- Yes, sir.
+
+449
+00:23:25,070 --> 00:23:28,040
+(CROWD CLAMORING)
+
+450
+00:23:45,174 --> 00:23:47,893
+(CROWD WHOOPING)
+
+451
+00:23:51,013 --> 00:23:55,940
+And now, ladies and gentlemen,
+the <i>piece de résistance!</i>
+
+452
+00:23:56,018 --> 00:23:59,739
+(SINGING) <i>Here it is</i>
+<i>The moment you've been waiting for</i>
+
+453
+00:23:59,740 --> 00:24:03,200
+<i>Here it is</i>
+<i>You know exactly what's in store</i>
+
+454
+00:24:03,275 --> 00:24:06,529
+<i>Now's the time we laugh</i>
+<i>until our sides get sore</i>
+
+455
+00:24:06,612 --> 00:24:09,536
+<i>Now's the time</i>
+<i>we crown the king of fools</i>
+
+456
+00:24:09,615 --> 00:24:11,538
+<i>You all remember last year's king</i>
+
+457
+00:24:11,617 --> 00:24:13,119
+(CROWD CHEERING)
+(BELCHING)
+
+458
+00:24:13,202 --> 00:24:16,877
+<i>So make a face that's</i>
+<i>horrible and frightening</i>
+
+459
+00:24:16,956 --> 00:24:19,709
+<i>Make a face that's gruesome</i>
+<i>as a gargoyle's wing</i>
+
+460
+00:24:19,710 --> 00:24:20,709
+Hey!
+
+461
+00:24:20,793 --> 00:24:24,587
+<i>For the face that's ugliest</i>
+<i>will be the king of fools</i>
+
+462
+00:24:24,588 --> 00:24:25,589
+Why?
+
+463
+00:24:25,673 --> 00:24:27,090
+CROWD: <i>Topsy-turvy</i>
+
+464
+00:24:27,091 --> 00:24:28,718
+CLOPIN: <i>Ugly folks forget your shyness</i>
+
+465
+00:24:28,719 --> 00:24:30,219
+CROWD: <i>Topsy-turvy</i>
+
+466
+00:24:30,302 --> 00:24:32,225
+<i>You could soon be called
+your highness</i>
+
+467
+00:24:32,226 --> 00:24:35,441
+CROWD: <i>Put your foulest</i>
+<i>features on display</i>
+
+468
+00:24:35,516 --> 00:24:38,565
+<i>Be the king of topsy-turvy day</i>
+
+469
+00:24:39,645 --> 00:24:40,897
+(CROWD BOOING)
+
+470
+00:24:42,147 --> 00:24:43,569
+Bleah!
+(BOOING CONTINUES)
+
+471
+00:24:46,735 --> 00:24:48,863
+(MEN GRUNTING)
+(GOAT BLEATING)
+
+472
+00:24:50,114 --> 00:24:51,331
+(GASPING)
+(CROWD SCREAMING)
+
+473
+00:24:51,407 --> 00:24:53,830
+- That's no mask.
+- It's his face!
+
+474
+00:24:53,909 --> 00:24:55,252
+WOMAN: He's hideous!
+
+475
+00:24:55,327 --> 00:24:58,171
+It's the bell ringer from Notre Dame!
+
+476
+00:24:58,288 --> 00:24:59,756
+(CROWD MURMURING)
+
+477
+00:24:59,915 --> 00:25:01,508
+(CROWD GASPING)
+
+478
+00:25:01,750 --> 00:25:04,549
+Oh! Oh! Oh!
+
+479
+00:25:05,004 --> 00:25:07,473
+Ladies and gentlemen, don't panic.
+
+480
+00:25:07,548 --> 00:25:11,928
+We asked for the ugliest face in Paris,
+and here it is!
+
+481
+00:25:12,011 --> 00:25:15,471
+Quasimodo, the hunchback of Notre Dame!
+
+482
+00:25:15,472 --> 00:25:16,973
+(ALL CHEERING)
+
+483
+00:25:16,974 --> 00:25:21,855
+CLOPIN: Everybody!
+
+484
+00:25:21,937 --> 00:25:26,107
+CROWD: (SINGING) <i>Once a year</i>
+<i>we throw a party</i>
+
+485
+00:25:26,108 --> 00:25:29,203
+<i>- Here in town</i>
+- CLOPIN: <i>Hail to the king</i>
+
+486
+00:25:29,278 --> 00:25:31,872
+CROWD: <i>Once a year</i>
+<i>we turn all Paris upside-down</i>
+
+487
+00:25:31,947 --> 00:25:32,994
+(CLOPIN LAUGHING)
+
+488
+00:25:32,995 --> 00:25:34,788
+<i>Oh, what a king</i>
+
+489
+00:25:34,867 --> 00:25:36,869
+CROWD: <i>Once a year</i>
+<i>the ugliest will wear a crown</i>
+
+490
+00:25:36,952 --> 00:25:39,328
+CLOPIN: <i>Girls, give a kiss.</i>
+
+491
+00:25:39,329 --> 00:25:41,047
+<i>We never had a king like this</i>
+
+492
+00:25:41,123 --> 00:25:44,627
+<i>And it's the day we do</i>
+<i>the things that we deplore</i>
+
+493
+00:25:44,710 --> 00:25:48,129
+<i>On the other three hundred</i>
+<i>and sixty-four</i>
+
+494
+00:25:48,130 --> 00:25:51,350
+<i>Once a year we love to drop in</i>
+<i>where the beer is never stopping</i>
+
+495
+00:25:51,425 --> 00:25:54,224
+<i>For the chance to pop some popinjay</i>
+
+496
+00:25:54,303 --> 00:25:56,351
+<i>And pick a king who put the "top"</i>
+
+497
+00:25:56,352 --> 00:25:59,725
+<i>In topsy-turvy</i>
+
+498
+00:25:59,808 --> 00:26:03,187
+<i>Topsy-turvy</i>
+<i>Mad-and-crazy upsy-daisy</i>
+
+499
+00:26:03,270 --> 00:26:05,313
+<i>Topsy-turvy day</i>
+
+500
+00:26:05,314 --> 00:26:07,032
+(CROWD CHEERING)
+
+501
+00:26:07,483 --> 00:26:09,156
+(WHOOPING)
+(HORN BLOWING)
+
+502
+00:26:09,318 --> 00:26:10,911
+(CROWD CHANTING)
+
+503
+00:26:11,403 --> 00:26:14,657
+ALL: Quasimodo! Quasimodo!
+
+504
+00:26:14,740 --> 00:26:17,038
+You think he's ugly now? Watch this.
+
+505
+00:26:17,159 --> 00:26:19,002
+ALL: Quasimodo!
+(GRUNTS)
+
+506
+00:26:21,288 --> 00:26:22,663
+(ALL GASPING)
+
+507
+00:26:22,664 --> 00:26:23,916
+Now that's ugly!
+
+508
+00:26:24,166 --> 00:26:25,338
+(PANTING)
+
+509
+00:26:25,667 --> 00:26:27,795
+Hail to the king!
+
+510
+00:26:28,003 --> 00:26:29,346
+(GRUNTS)
+
+511
+00:26:30,089 --> 00:26:31,762
+SOLDIER: Bon appétit!
+
+512
+00:26:32,174 --> 00:26:33,346
+Whoa!
+
+513
+00:26:33,467 --> 00:26:35,390
+(ALL LAUGHING)
+
+514
+00:26:35,761 --> 00:26:37,354
+MAN: Where are you goin', hunchback?
+
+515
+00:26:37,429 --> 00:26:39,523
+The fun's just beginning.
+
+516
+00:26:40,182 --> 00:26:41,183
+(GRUNTS)
+
+517
+00:26:41,266 --> 00:26:42,643
+(CHOKING)
+
+518
+00:26:43,268 --> 00:26:44,560
+(ALL LAUGHING)
+
+519
+00:26:44,561 --> 00:26:45,687
+(GROANING)
+
+520
+00:26:49,566 --> 00:26:50,863
+(GRUNTING)
+
+521
+00:26:52,194 --> 00:26:53,320
+(YELPS)
+
+522
+00:26:54,863 --> 00:26:56,035
+(ROARING)
+
+523
+00:26:57,116 --> 00:26:58,368
+(GROANING)
+
+524
+00:27:01,662 --> 00:27:02,879
+(MOANING)
+
+525
+00:27:08,127 --> 00:27:09,299
+Master!
+
+526
+00:27:10,629 --> 00:27:13,052
+Master, please, help me!
+
+527
+00:27:16,051 --> 00:27:17,553
+(CROWD CHEERING)
+
+528
+00:27:17,636 --> 00:27:20,310
+Sir, request permission
+to stop this cruelty.
+
+529
+00:27:20,389 --> 00:27:24,610
+In a moment, Captain.
+A lesson needs to be learned here.
+
+530
+00:27:24,685 --> 00:27:26,232
+(CROWD GASPING)
+
+531
+00:27:39,908 --> 00:27:41,535
+Don't be afraid.
+
+532
+00:27:42,369 --> 00:27:43,666
+I'm sorry.
+
+533
+00:27:44,663 --> 00:27:46,665
+This wasn't supposed to happen.
+
+534
+00:27:49,334 --> 00:27:50,802
+You! Gypsy girl!
+
+535
+00:27:51,211 --> 00:27:52,963
+Get down at once!
+
+536
+00:27:53,046 --> 00:27:56,300
+Yes, your honor.
+Just as soon as I free this poor creature.
+
+537
+00:27:56,425 --> 00:27:57,472
+I forbid it!
+
+538
+00:27:59,678 --> 00:28:02,522
+How dare you defy me?
+
+539
+00:28:02,598 --> 00:28:05,852
+You mistreat this poor boy
+the same way you mistreat my people.
+
+540
+00:28:05,934 --> 00:28:09,689
+You speak of justice, yet you are cruel
+to those most in need of your help.
+
+541
+00:28:09,771 --> 00:28:11,273
+- Silence!
+- Justice!
+
+542
+00:28:11,398 --> 00:28:12,650
+(CROWD MURMURING)
+
+543
+00:28:16,945 --> 00:28:20,916
+Mark my words, gypsy.
+You will pay for this insolence.
+
+544
+00:28:20,991 --> 00:28:23,710
+Then it appears
+we've crowned the wrong fool.
+
+545
+00:28:23,785 --> 00:28:26,334
+The only fool I see is you!
+
+546
+00:28:26,496 --> 00:28:28,919
+(SPUTTERING)
+(CROWD LAUGHING)
+
+547
+00:28:29,166 --> 00:28:31,294
+Captain Phoebus, arrest her.
+
+548
+00:28:31,960 --> 00:28:33,212
+(SNAPS FINGERS)
+
+549
+00:28:33,629 --> 00:28:34,846
+(HORSE WHINNIES)
+
+550
+00:28:35,464 --> 00:28:36,465
+Now, let's see.
+
+551
+00:28:36,548 --> 00:28:38,642
+One, two, three, four, five,
+six, seven, eight, nine.
+
+552
+00:28:38,717 --> 00:28:42,893
+So there's ten of you and one of me.
+What's a poor girl to do?
+
+553
+00:28:42,971 --> 00:28:45,520
+(WEEPING)
+
+554
+00:28:45,807 --> 00:28:47,150
+(BLOWS NOSE)
+(EXPLOSION)
+
+555
+00:28:47,643 --> 00:28:49,316
+Witchcraft!
+
+556
+00:28:49,394 --> 00:28:51,854
+ESMERALDA: Oh, boys. Over here.
+
+557
+00:28:51,855 --> 00:28:53,482
+(CROWD GASPING)
+
+558
+00:28:53,565 --> 00:28:55,488
+SOLDIER 1: There she is!
+SOLDIER 2: Get her!
+
+559
+00:28:57,569 --> 00:28:59,446
+(CROWD CHEERING)
+
+560
+00:29:02,407 --> 00:29:03,499
+(SOLDIERS GRUNTING)
+
+561
+00:29:03,992 --> 00:29:05,118
+(CRASHING)
+
+562
+00:29:08,747 --> 00:29:10,169
+(SOLDIERS GROANING)
+
+563
+00:29:11,667 --> 00:29:13,635
+(CROWD CHEERING)
+
+564
+00:29:14,586 --> 00:29:15,678
+(BLEATING)
+
+565
+00:29:23,303 --> 00:29:24,520
+(ALL SCREAMING)
+
+566
+00:29:24,763 --> 00:29:26,060
+(CLATTERING)
+
+567
+00:29:30,352 --> 00:29:32,525
+I'm free! I'm free! Ooh!
+
+568
+00:29:33,605 --> 00:29:34,606
+Dang it.
+
+569
+00:29:40,320 --> 00:29:42,698
+SOLDIER: Whoa! Whoo-hoo!
+
+570
+00:29:43,615 --> 00:29:45,743
+(CROWD CHEERING)
+
+571
+00:29:45,867 --> 00:29:47,414
+(HORSES WHINNYING)
+
+572
+00:29:51,039 --> 00:29:52,415
+What a woman.
+
+573
+00:29:52,416 --> 00:29:53,884
+(HORSE WHINNYING)
+
+574
+00:29:55,502 --> 00:29:56,674
+(WHISTLING)
+
+575
+00:29:58,088 --> 00:29:59,180
+Whoa!
+
+576
+00:29:59,298 --> 00:30:00,345
+(GASPING)
+
+577
+00:30:01,717 --> 00:30:03,560
+(CROWD CHEERING)
+
+578
+00:30:05,345 --> 00:30:08,394
+(DRUM ROLL)
+
+579
+00:30:10,851 --> 00:30:11,977
+(FANFARE)
+
+580
+00:30:21,069 --> 00:30:24,613
+Find her, Captain. I want her alive.
+
+581
+00:30:24,614 --> 00:30:26,740
+Yes, sir. Seal off the area, men.
+
+582
+00:30:26,741 --> 00:30:28,870
+Find the gypsy girl and do not harm her.
+
+583
+00:30:38,754 --> 00:30:43,225
+I'm sorry, Master.
+I will never disobey you again.
+
+584
+00:30:46,053 --> 00:30:48,431
+(CROWD MURMURING)
+MAN: Stand back. Stand back.
+
+585
+00:30:50,807 --> 00:30:52,809
+WOMAN: Oh, he's hideous.
+
+586
+00:31:22,130 --> 00:31:23,973
+SOLDIER: You, there, get away!
+Move on.
+
+587
+00:31:24,549 --> 00:31:25,801
+Hmm.
+
+588
+00:31:51,326 --> 00:31:52,535
+(GRUNTING)
+
+589
+00:31:52,536 --> 00:31:53,661
+You!
+
+590
+00:31:53,662 --> 00:31:55,756
+Easy, easy. I just shaved this morning.
+
+591
+00:31:55,831 --> 00:31:58,673
+- Oh, really? You missed a spot.
+- All right, all right.
+
+592
+00:31:58,674 --> 00:32:01,386
+Just calm down.
+Just give me a chance to apologize.
+
+593
+00:32:01,461 --> 00:32:02,670
+For what?
+
+594
+00:32:02,671 --> 00:32:04,173
+(GASPING)
+That, for example.
+
+595
+00:32:04,256 --> 00:32:06,554
+You sneaky son of a...
+
+596
+00:32:06,633 --> 00:32:08,681
+Ah, ah, ah. Watch it. You're in a church.
+
+597
+00:32:08,760 --> 00:32:11,889
+Are you always this charming,
+or am I just lucky?
+
+598
+00:32:12,180 --> 00:32:14,023
+Whoa! (LAUGHING)
+
+599
+00:32:14,099 --> 00:32:17,059
+Candlelight, privacy, music.
+
+600
+00:32:17,060 --> 00:32:19,438
+Can't think of a better place
+for hand-to-hand combat.
+
+601
+00:32:19,521 --> 00:32:20,613
+Ooh!
+
+602
+00:32:20,689 --> 00:32:22,111
+You fight almost as well as a man.
+
+603
+00:32:22,190 --> 00:32:24,914
+Funny, I was going to say
+the same thing about you.
+
+604
+00:32:24,993 --> 00:32:27,195
+That's hitting a little below the belt,
+don't you think?
+
+605
+00:32:27,279 --> 00:32:28,747
+No. This is.
+
+606
+00:32:28,822 --> 00:32:29,864
+Ooh!
+
+607
+00:32:29,865 --> 00:32:31,208
+(GROANING)
+(CLANGING)
+
+608
+00:32:32,117 --> 00:32:33,710
+Touché. (GROANS)
+
+609
+00:32:33,785 --> 00:32:37,585
+- I didn't know you had a kid.
+- Well, he doesn't take kindly to soldiers.
+
+610
+00:32:37,664 --> 00:32:39,917
+Uh, I noticed. Uh...
+
+611
+00:32:40,375 --> 00:32:41,547
+Permit me.
+
+612
+00:32:41,626 --> 00:32:45,051
+I'm Phoebus. It means "sun god."
+
+613
+00:32:47,716 --> 00:32:50,640
+- And you are?
+- Is this an interrogation?
+
+614
+00:32:51,178 --> 00:32:53,099
+I believe it's called an introduction.
+
+615
+00:32:53,100 --> 00:32:56,726
+- You're not arresting me?
+- Not as long as you're in here. I can't.
+
+616
+00:32:57,392 --> 00:32:59,736
+Huh. You're not at all
+like the other soldiers.
+
+617
+00:32:59,811 --> 00:33:01,103
+Thank you.
+
+618
+00:33:01,104 --> 00:33:05,399
+So, if you're not going to arrest me,
+what do you want?
+
+619
+00:33:05,400 --> 00:33:07,118
+I'd settle for your name.
+
+620
+00:33:08,278 --> 00:33:10,747
+- Esmeralda.
+- Beautiful.
+
+621
+00:33:12,991 --> 00:33:15,710
+Much better than Phoebus, anyway.
+
+622
+00:33:20,790 --> 00:33:23,919
+Good work, Captain. Now arrest her.
+
+623
+00:33:24,002 --> 00:33:25,094
+(BLEATING)
+
+624
+00:33:25,670 --> 00:33:27,297
+(WHISPERING) Claim "sanctuary."
+
+625
+00:33:29,090 --> 00:33:31,513
+- Say it!
+- You tricked me.
+
+626
+00:33:31,593 --> 00:33:33,766
+I'm waiting, Captain.
+
+627
+00:33:33,845 --> 00:33:36,314
+I'm sorry, sir. She claimed sanctuary.
+
+628
+00:33:36,389 --> 00:33:37,766
+There's nothing I can do.
+
+629
+00:33:37,849 --> 00:33:40,309
+Then drag her outside and...
+
+630
+00:33:40,310 --> 00:33:43,771
+Frollo, you will not touch her!
+Don't worry.
+
+631
+00:33:43,772 --> 00:33:48,369
+Minister Frollo learned years ago
+to respect the sanctity of the church.
+
+632
+00:33:58,787 --> 00:34:00,067
+All right, all right. I'm going.
+
+633
+00:34:01,289 --> 00:34:03,291
+(GASPING)
+
+634
+00:34:03,583 --> 00:34:05,836
+You think you've outwitted me.
+(STRUGGLING)
+
+635
+00:34:05,837 --> 00:34:07,883
+But I'm a patient man.
+
+636
+00:34:07,963 --> 00:34:12,309
+And gypsies don't do well
+inside stone walls.
+
+637
+00:34:14,177 --> 00:34:15,302
+(SNIFFING)
+
+638
+00:34:15,303 --> 00:34:16,804
+What are you doing?
+
+639
+00:34:16,805 --> 00:34:21,481
+I was just imagining a rope
+around that beautiful neck.
+
+640
+00:34:21,560 --> 00:34:24,645
+I know what you were imagining.
+
+641
+00:34:24,646 --> 00:34:26,148
+Such a clever witch.
+
+642
+00:34:26,231 --> 00:34:28,905
+So typical of your kind to twist the truth.
+
+643
+00:34:28,984 --> 00:34:32,238
+To cloud the mind with unholy thoughts.
+
+644
+00:34:32,320 --> 00:34:34,197
+Well, no matter.
+
+645
+00:34:35,156 --> 00:34:38,080
+You've chosen a magnificent prison.
+
+646
+00:34:38,159 --> 00:34:41,003
+But it is a prison, nonetheless.
+
+647
+00:34:41,079 --> 00:34:44,754
+Set one foot outside, and you're mine.
+
+648
+00:34:52,007 --> 00:34:54,351
+Frollo's orders.
+Post a guard at every door.
+
+649
+00:34:54,509 --> 00:34:55,635
+(GRUNTS)
+
+650
+00:34:58,221 --> 00:34:59,391
+Don't worry, Djali.
+
+651
+00:34:59,392 --> 00:35:01,608
+If Frollo thinks he can keep us here,
+he's wrong.
+
+652
+00:35:01,683 --> 00:35:03,401
+Don't act rashly, my child.
+
+653
+00:35:03,476 --> 00:35:07,021
+You created quite a stir at the festival.
+
+654
+00:35:07,022 --> 00:35:10,240
+It would be unwise to arouse
+Frollo's anger further.
+
+655
+00:35:10,241 --> 00:35:14,077
+You saw what he did out there,
+letting the crowd torture that poor boy.
+
+656
+00:35:14,078 --> 00:35:17,745
+I thought if just one person
+could stand up to him, then...
+
+657
+00:35:17,746 --> 00:35:19,038
+(SIGHING)
+
+658
+00:35:19,409 --> 00:35:21,876
+What do they have against people
+who are different, anyway?
+
+659
+00:35:21,877 --> 00:35:25,545
+You can't right
+all the wrongs of this world by yourself.
+
+660
+00:35:25,624 --> 00:35:27,922
+No one out there is going to help,
+that's for sure.
+
+661
+00:35:27,923 --> 00:35:31,888
+Well, perhaps there's
+someone in here who can.
+
+662
+00:35:40,472 --> 00:35:43,897
+(PARISHIONERS MURMURING)
+
+663
+00:35:51,066 --> 00:35:54,411
+(SINGING) <i>I don't know</i>
+<i>if You can hear me</i>
+
+664
+00:35:54,486 --> 00:35:57,946
+<i>Or if You're even there</i>
+
+665
+00:35:57,947 --> 00:36:01,952
+<i>I don't know if You would listen</i>
+
+666
+00:36:02,035 --> 00:36:05,915
+<i>To a gypsy's prayer</i>
+
+667
+00:36:05,997 --> 00:36:09,627
+<i>Yes, I know I'm just an outcast</i>
+
+668
+00:36:09,709 --> 00:36:13,930
+<i>I shouldn't speak to You</i>
+
+669
+00:36:14,005 --> 00:36:18,932
+<i>Still, I see your face and wonder</i>
+
+670
+00:36:19,010 --> 00:36:25,768
+<i>Were You once an outcast, too?</i>
+
+671
+00:36:31,106 --> 00:36:35,031
+<i>God help the outcasts</i>
+
+672
+00:36:35,110 --> 00:36:37,986
+<i>Hungry from birth</i>
+
+673
+00:36:37,987 --> 00:36:42,037
+<i>Show them the mercy</i>
+
+674
+00:36:42,117 --> 00:36:46,120
+<i>They don't find on earth</i>
+
+675
+00:36:46,121 --> 00:36:49,289
+<i>God help my people</i>
+
+676
+00:36:49,290 --> 00:36:53,293
+<i>We look to You still</i>
+
+677
+00:36:53,294 --> 00:36:56,969
+<i>God help the outcasts</i>
+
+678
+00:36:57,048 --> 00:37:00,518
+<i>Or nobody will</i>
+
+679
+00:37:02,053 --> 00:37:05,227
+PARISHIONERS: <i>I ask for wealth</i>
+
+680
+00:37:05,306 --> 00:37:08,142
+<i>I ask for fame</i>
+
+681
+00:37:08,143 --> 00:37:11,353
+<i>I ask for glory</i>
+
+682
+00:37:11,354 --> 00:37:15,357
+<i>To shine on my name</i>
+
+683
+00:37:15,358 --> 00:37:19,153
+<i>I ask for love</i>
+
+684
+00:37:19,154 --> 00:37:22,704
+<i>I can possess</i>
+
+685
+00:37:22,782 --> 00:37:26,878
+<i>I ask for God and His angels</i>
+
+686
+00:37:26,953 --> 00:37:31,049
+<i>To bless me</i>
+
+687
+00:37:31,124 --> 00:37:34,674
+<i>I ask for nothing</i>
+
+688
+00:37:34,753 --> 00:37:37,838
+<i>I can get by</i>
+
+689
+00:37:37,839 --> 00:37:41,675
+<i>But I know so many</i>
+
+690
+00:37:41,676 --> 00:37:45,271
+<i>Less lucky than I</i>
+
+691
+00:37:45,346 --> 00:37:48,771
+<i>Please help my people</i>
+
+692
+00:37:48,850 --> 00:37:52,730
+<i>The poor and downtrod</i>
+
+693
+00:37:52,812 --> 00:37:56,862
+<i>I thought we all were</i>
+
+694
+00:37:56,941 --> 00:38:01,412
+<i>The children of God</i>
+
+695
+00:38:02,906 --> 00:38:08,202
+<i>God help the outcasts</i>
+
+696
+00:38:08,203 --> 00:38:12,915
+<i>Children of</i>
+
+697
+00:38:12,916 --> 00:38:13,416
+<i>God</i>
+
+698
+00:38:34,896 --> 00:38:36,237
+You! Bell ringer!
+(GASPS)
+
+699
+00:38:36,238 --> 00:38:37,733
+What are you doing down here?
+
+700
+00:38:37,734 --> 00:38:38,824
+Oh!
+
+701
+00:38:39,192 --> 00:38:41,445
+Haven't you caused
+enough trouble already?
+
+702
+00:38:41,446 --> 00:38:42,536
+Wait.
+
+703
+00:38:43,363 --> 00:38:45,331
+I want to talk to you.
+
+704
+00:38:46,908 --> 00:38:48,910
+Look, he's got a friend with him.
+
+705
+00:38:48,993 --> 00:38:51,496
+Yeah. Maybe today wasn't
+a total loss after all.
+
+706
+00:38:51,579 --> 00:38:54,251
+- A vision of loveliness.
+- The one in the dress ain't bad either.
+
+707
+00:38:54,252 --> 00:38:56,172
+- Way to go, Quasi!
+- Congratulations.
+
+708
+00:38:56,251 --> 00:38:59,130
+- We knew you had it in ya.
+- Got the girls chasin' ya already.
+
+709
+00:38:59,131 --> 00:39:00,175
+Actually, I...
+
+710
+00:39:00,255 --> 00:39:02,178
+You mustn't run too fast,
+or she'll get away.
+
+711
+00:39:02,257 --> 00:39:03,679
+Yes, I know. That's what I...
+
+712
+00:39:03,758 --> 00:39:05,431
+Give her some slack, then reel her in.
+
+713
+00:39:05,510 --> 00:39:07,262
+Then give her some slack,
+then reel her in.
+
+714
+00:39:07,345 --> 00:39:09,473
+- Then give her some slack...
+- Knock it off, Hugo.
+
+715
+00:39:09,474 --> 00:39:11,640
+She's a girl, not a mackerel.
+
+716
+00:39:11,641 --> 00:39:14,690
+Here you are. I was afraid I'd lost you.
+
+717
+00:39:14,769 --> 00:39:16,942
+Yes. (COUGHS) Well, I, uh...
+
+718
+00:39:17,438 --> 00:39:22,615
+I have chores to do.
+It was nice seeing you again.
+
+719
+00:39:22,902 --> 00:39:24,870
+(GROANING) - Oh.
+No, wait!
+
+720
+00:39:25,738 --> 00:39:26,785
+(SMOOCHING)
+
+721
+00:39:28,783 --> 00:39:31,957
+I'm really sorry about this afternoon.
+I had no idea who you were.
+
+722
+00:39:32,036 --> 00:39:34,164
+I would never in my life
+have pulled you...
+
+723
+00:39:35,623 --> 00:39:37,717
+Up on the...
+
+724
+00:39:39,544 --> 00:39:41,091
+Stage.
+
+725
+00:39:43,423 --> 00:39:46,552
+- What is this place?
+- This is where I live.
+
+726
+00:39:46,634 --> 00:39:49,353
+Did you make all these things yourself?
+
+727
+00:39:49,429 --> 00:39:50,646
+QUASIMODO: Most of them.
+
+728
+00:39:50,647 --> 00:39:51,972
+This is beautiful.
+
+729
+00:39:51,973 --> 00:39:55,352
+If I could do this, you wouldn't find me
+dancing in the streets for coins.
+
+730
+00:39:55,435 --> 00:39:57,310
+But you're a wonderful dancer.
+
+731
+00:39:57,311 --> 00:40:00,486
+Well, it keeps bread on the table,
+anyway. What's this?
+
+732
+00:40:00,648 --> 00:40:03,149
+(STAMMERING) Oh, no, please!
+I'm not finished.
+
+733
+00:40:03,150 --> 00:40:04,824
+I still have to paint them.
+
+734
+00:40:04,825 --> 00:40:08,323
+(LAUGHING)
+It's the blacksmith and the baker!
+
+735
+00:40:11,701 --> 00:40:14,750
+You're a surprising person, Quasimodo.
+
+736
+00:40:14,829 --> 00:40:18,174
+Not to mention lucky.
+All this room to yourself.
+
+737
+00:40:18,249 --> 00:40:20,208
+Well, it's not just me.
+
+738
+00:40:20,209 --> 00:40:24,510
+There's the gargoyles
+and, of course, the bells.
+
+739
+00:40:24,589 --> 00:40:28,093
+- Would you like to see them?
+- Yes, of course. Wouldn't we, Djali?
+
+740
+00:40:30,178 --> 00:40:32,397
+Follow me. I'll introduce you.
+
+741
+00:40:33,264 --> 00:40:36,734
+- I never knew there were so many.
+- That's Little Sophia.
+
+742
+00:40:36,809 --> 00:40:39,187
+And Jeane-Marie,
+Anne-Marie, Louise-Marie.
+
+743
+00:40:39,188 --> 00:40:40,520
+Triplets, you know.
+
+744
+00:40:40,521 --> 00:40:42,694
+- And who's this?
+- Big Marie.
+
+745
+00:40:42,899 --> 00:40:45,903
+(ECHOING) Hello!
+(BELL RESONATING)
+
+746
+00:40:46,277 --> 00:40:48,871
+She likes you.
+Would you like to see more?
+
+747
+00:40:48,947 --> 00:40:50,199
+How about it, Djali?
+
+748
+00:40:50,531 --> 00:40:51,874
+(BELCH ECHOING)
+
+749
+00:40:51,950 --> 00:40:54,034
+- We'd love to.
+- Good.
+
+750
+00:40:54,035 --> 00:40:56,333
+I've saved the best for last.
+
+751
+00:41:03,252 --> 00:41:04,595
+ESMERALDA: Oh!
+
+752
+00:41:07,215 --> 00:41:10,594
+ESMERALDA: I bet the king
+himself doesn't have a view like this.
+
+753
+00:41:10,595 --> 00:41:14,388
+- I could stay up here forever.
+- You could, you know.
+
+754
+00:41:14,389 --> 00:41:15,766
+No, I couldn't.
+
+755
+00:41:15,848 --> 00:41:18,941
+- Oh, yes, you have sanctuary.
+- But not freedom.
+
+756
+00:41:18,942 --> 00:41:21,609
+"Gypsies don't do well
+inside stone walls."
+
+757
+00:41:21,688 --> 00:41:26,285
+But you're not like other gypsies.
+They are evil.
+
+758
+00:41:26,359 --> 00:41:29,403
+- Who told you that?
+- My master, Frollo.
+
+759
+00:41:29,404 --> 00:41:30,576
+He raised me.
+
+760
+00:41:30,655 --> 00:41:33,283
+How can such a cruel man have
+raised someone like you?
+
+761
+00:41:33,366 --> 00:41:35,242
+Cruel? Oh, no.
+
+762
+00:41:35,243 --> 00:41:38,588
+He saved my life.
+He took me in when no one else would.
+
+763
+00:41:38,705 --> 00:41:41,675
+- I am a monster, you know.
+- He told you that?
+
+764
+00:41:41,749 --> 00:41:43,422
+Look at me.
+
+765
+00:41:44,585 --> 00:41:47,088
+- Give me your hand. Just let me see it.
+- What?
+
+766
+00:41:47,714 --> 00:41:48,886
+Hmm.
+
+767
+00:41:49,132 --> 00:41:50,634
+A long lifeline.
+
+768
+00:41:50,717 --> 00:41:53,391
+Oh, and this one means you're shy.
+
+769
+00:41:54,137 --> 00:41:56,435
+Hmm. Hmm, hmm, hmm.
+
+770
+00:41:56,723 --> 00:41:58,646
+- Well, that's funny.
+- What?
+
+771
+00:41:58,725 --> 00:42:01,103
+- I don't see any...
+- Any what?
+
+772
+00:42:01,185 --> 00:42:04,109
+Monster lines. Not a single one.
+
+773
+00:42:05,314 --> 00:42:08,158
+Now you look at me.
+Do you think I'm evil?
+
+774
+00:42:08,234 --> 00:42:12,660
+No! No, no.
+You are kind and good and...
+
+775
+00:42:12,739 --> 00:42:16,994
+And a gypsy. And maybe Frollo's wrong
+about the both of us.
+
+776
+00:42:17,326 --> 00:42:18,327
+What did she say?
+
+777
+00:42:18,411 --> 00:42:20,630
+Frollo's nose is long,
+and he wears a truss.
+
+778
+00:42:20,631 --> 00:42:22,294
+Ha! Told ya! Pay up.
+
+779
+00:42:22,373 --> 00:42:24,125
+- Oh, dear.
+- Chump.
+
+780
+00:42:27,545 --> 00:42:30,344
+You helped me. Now I will help you.
+
+781
+00:42:30,423 --> 00:42:33,142
+But there's no way out.
+There are soldiers at every door.
+
+782
+00:42:33,217 --> 00:42:35,015
+We won't use a door.
+
+783
+00:42:35,094 --> 00:42:37,512
+- You mean, climb down?
+- Sure.
+
+784
+00:42:37,513 --> 00:42:40,733
+- You carry him. I carry you.
+- Okay.
+
+785
+00:42:42,310 --> 00:42:43,857
+Come on, Djali.
+
+786
+00:42:45,813 --> 00:42:47,147
+- Ready?
+- Yes.
+
+787
+00:42:47,148 --> 00:42:49,025
+- Don't be afraid.
+- I'm not afraid.
+
+788
+00:42:50,068 --> 00:42:53,322
+- Now I'm afraid.
+- The trick is not to look down.
+
+789
+00:42:55,865 --> 00:42:57,208
+(BLEATING)
+
+790
+00:42:58,209 --> 00:42:59,706
+ESMERALDA: You've done this before?
+
+791
+00:42:59,786 --> 00:43:00,958
+QUASIMODO: No.
+
+792
+00:43:02,497 --> 00:43:03,589
+(GASPING)
+
+793
+00:43:03,664 --> 00:43:05,541
+Ooh!
+
+794
+00:43:12,173 --> 00:43:13,846
+Wow, you're quite an acrobat.
+
+795
+00:43:13,847 --> 00:43:14,842
+Thank you.
+
+796
+00:43:14,926 --> 00:43:16,974
+Whoa!
+
+797
+00:43:23,059 --> 00:43:24,106
+(CRASHING)
+
+798
+00:43:24,185 --> 00:43:26,279
+SOLDIER 1: Check the alley!
+SOLDIER 2: This way!
+
+799
+00:43:26,854 --> 00:43:28,197
+(ESMERALDA GASPING)
+
+800
+00:43:37,949 --> 00:43:40,748
+- I hope I didn't scare you.
+- Not for an instant.
+
+801
+00:43:40,827 --> 00:43:43,706
+(BLEATING TIREDLY)
+I'll never forget you, Esmeralda.
+
+802
+00:43:44,997 --> 00:43:46,448
+- Come with me.
+- What?
+
+803
+00:43:46,449 --> 00:43:48,217
+To the court of miracles.
+Leave this place.
+
+804
+00:43:48,218 --> 00:43:49,256
+Oh, no.
+
+805
+00:43:49,335 --> 00:43:52,134
+I'm never going back out there again.
+You saw what happened today.
+
+806
+00:43:52,213 --> 00:43:55,090
+No. This is where I belong.
+
+807
+00:43:55,091 --> 00:43:57,059
+All right, then I'll come to see you.
+
+808
+00:43:57,135 --> 00:44:01,263
+- Here? But the soldiers and Frollo!
+- I'll come after sunset.
+
+809
+00:44:01,264 --> 00:44:05,062
+But at sunset, I ring the evening mass,
+and after that I clean the cloisters.
+
+810
+00:44:05,063 --> 00:44:08,563
+And then I ring the vespers, and...
+Whatever is good for you.
+
+811
+00:44:08,646 --> 00:44:12,651
+If you ever need sanctuary,
+this will show you the way.
+
+812
+00:44:12,733 --> 00:44:14,576
+- But how?
+- Just remember.
+
+813
+00:44:14,652 --> 00:44:18,657
+When you wear this woven band,
+you hold the city in your hand.
+
+814
+00:44:21,117 --> 00:44:22,243
+(BLEATING)
+
+815
+00:44:22,910 --> 00:44:24,286
+(MEN MURMURING)
+
+816
+00:44:24,287 --> 00:44:25,504
+Hurry. You must go.
+
+817
+00:44:25,580 --> 00:44:27,332
+SOLDIER 1: Check the alley.
+
+818
+00:44:27,415 --> 00:44:30,917
+SOLDIER 2: Yes, sir. No one here, sir.
+
+819
+00:44:30,918 --> 00:44:32,261
+SOLDIER 3: No one here, sir.
+
+820
+00:44:32,670 --> 00:44:34,297
+SOLDIER 1: Check the street.
+
+821
+00:44:40,261 --> 00:44:41,353
+(GASPING)
+Hi, there.
+
+822
+00:44:41,679 --> 00:44:43,677
+I'm looking for the gypsy girl.
+Have you seen her?
+
+823
+00:44:43,678 --> 00:44:44,598
+(GROWLING)
+
+824
+00:44:44,599 --> 00:44:48,729
+- Whoa, whoa! Easy!
+- No soldiers! Sanctuary! Get out!
+
+825
+00:44:48,811 --> 00:44:50,654
+- Wait! All I want is to...
+- Go!
+
+826
+00:44:50,655 --> 00:44:52,444
+I mean her no harm.
+
+827
+00:44:52,523 --> 00:44:54,617
+(GROWLING) Go!
+
+828
+00:44:57,695 --> 00:45:00,993
+You tell her for me,
+I didn't mean to trap her here.
+
+829
+00:45:00,994 --> 00:45:03,789
+But it was the only way
+I could save her life.
+
+830
+00:45:03,790 --> 00:45:07,288
+Will you tell her that? Will you?
+
+831
+00:45:07,371 --> 00:45:09,669
+If you go. Now.
+
+832
+00:45:09,749 --> 00:45:12,000
+I'll go.
+
+833
+00:45:12,001 --> 00:45:15,471
+Now, will you put me down, please?
+
+834
+00:45:22,470 --> 00:45:24,679
+Oh, and one more thing.
+
+835
+00:45:24,680 --> 00:45:28,016
+- Tell Esmeralda she's very lucky.
+- Why?
+
+836
+00:45:28,017 --> 00:45:30,190
+To have a friend like you.
+
+837
+00:45:36,317 --> 00:45:38,194
+HUGO: Hey, hey, there he is.
+
+838
+00:45:39,153 --> 00:45:41,497
+(CHEERING)
+
+839
+00:45:41,822 --> 00:45:45,370
+You ejected that tin-plated buffoon
+with great panache.
+
+840
+00:45:45,371 --> 00:45:48,338
+The nerve of him, snoopin' around here,
+tryin' to steal your girl.
+
+841
+00:45:48,339 --> 00:45:50,423
+- My girl?
+- Esmeralda.
+
+842
+00:45:50,498 --> 00:45:52,751
+Dark hair, works with a goat, remember?
+
+843
+00:45:52,833 --> 00:45:55,168
+Boy, I do. Way to go, lover boy.
+
+844
+00:45:55,169 --> 00:45:57,547
+"Lover boy"? Oh, no, no, no, no.
+
+845
+00:45:57,630 --> 00:45:59,257
+Oh, don't be so modest.
+
+846
+00:45:59,674 --> 00:46:02,516
+Look, I appreciate
+what you're all trying to do.
+
+847
+00:46:02,517 --> 00:46:06,765
+But let's not fool ourselves.
+"Ugliest face in all Paris, " remember?
+
+848
+00:46:08,182 --> 00:46:10,276
+I don't think I'm her type.
+
+849
+00:46:12,186 --> 00:46:16,612
+(SINGING) <i>So many times out there</i>
+<i>I've watched a happy pair</i>
+
+850
+00:46:16,691 --> 00:46:20,867
+<i>Of lovers walking in the night</i>
+
+851
+00:46:21,696 --> 00:46:26,574
+<i>They had a kind of glow around them</i>
+
+852
+00:46:26,575 --> 00:46:30,580
+<i>It almost looked like heaven's light</i>
+
+853
+00:46:30,663 --> 00:46:31,664
+(SIGHS)
+
+854
+00:46:32,456 --> 00:46:34,879
+<i>I knew I'd never know</i>
+
+855
+00:46:34,959 --> 00:46:37,212
+<i>That warm and loving glow</i>
+
+856
+00:46:37,295 --> 00:46:42,090
+<i>Though I might wish with all my might</i>
+
+857
+00:46:42,091 --> 00:46:47,097
+<i>No face as hideous as my face</i>
+
+858
+00:46:47,179 --> 00:46:52,434
+<i>Was ever meant for heaven's light</i>
+
+859
+00:46:52,435 --> 00:46:56,781
+<i>But suddenly an angel has smiled at me</i>
+
+860
+00:46:56,856 --> 00:47:01,703
+<i>And kissed my cheek</i>
+<i>without a trace of fright</i>
+
+861
+00:47:03,863 --> 00:47:06,114
+<i>I dare to dream that she</i>
+
+862
+00:47:06,115 --> 00:47:08,241
+<i>Might even care for me</i>
+
+863
+00:47:08,242 --> 00:47:12,088
+<i>And as I ring these bells tonight</i>
+
+864
+00:47:12,163 --> 00:47:13,621
+(CLICKING TONGUE) Eh?
+
+865
+00:47:13,622 --> 00:47:19,300
+<i>My cold dark tower seems so bright</i>
+
+866
+00:47:19,378 --> 00:47:23,599
+<i>I swear it must be heaven's light</i>
+
+867
+00:47:23,674 --> 00:47:26,052
+(BELLS CHIMING)
+
+868
+00:47:44,278 --> 00:47:47,623
+(SINGING) <i>Confiteor Deo</i>
+
+869
+00:47:47,698 --> 00:47:51,999
+<i>Omnipotenti</i>
+
+870
+00:47:52,953 --> 00:47:57,208
+<i>Beatae Mariae</i>
+
+871
+00:47:57,291 --> 00:48:02,639
+<i>Semper Virgini</i>
+
+872
+00:48:02,713 --> 00:48:09,177
+<i>Beato Michaeli archangelo</i>
+
+873
+00:48:09,178 --> 00:48:13,306
+<i>Sanctis apostolis</i>
+
+874
+00:48:13,307 --> 00:48:15,350
+<i>Omnibus</i>
+
+875
+00:48:15,351 --> 00:48:15,851
+<i>Sanctis</i>
+
+876
+00:48:23,359 --> 00:48:26,486
+(SINGING) <i>Beata Maria</i>
+
+877
+00:48:26,487 --> 00:48:29,823
+<i>You know I am a righteous man</i>
+
+878
+00:48:29,824 --> 00:48:35,328
+<i>- Of my virtue I am justly proud</i>
+- CHOIR: <i>Et tibit Pater</i>
+
+879
+00:48:35,329 --> 00:48:38,003
+<i>Beata Maria</i>
+
+880
+00:48:38,082 --> 00:48:40,881
+<i>You know I'm so much purer than</i>
+
+881
+00:48:40,960 --> 00:48:44,385
+<i>The common, vulgar, weak</i>
+<i>licentious crowd</i>
+
+882
+00:48:44,463 --> 00:48:46,381
+CHOIR: <i>Quia peccavi nimis</i>
+
+883
+00:48:46,382 --> 00:48:49,010
+<i>Then tell me, Maria</i>
+
+884
+00:48:49,093 --> 00:48:52,053
+<i>Why I see her dancing there</i>
+
+885
+00:48:52,054 --> 00:48:55,854
+<i>Why her smoldering eyes</i>
+<i>still scorch my soul</i>
+
+886
+00:48:55,933 --> 00:48:57,856
+CHOIR: <i>Cogitatione</i>
+
+887
+00:48:57,935 --> 00:49:00,529
+<i>I feel her, I see her</i>
+
+888
+00:49:00,604 --> 00:49:03,733
+<i>The sun caught in her raven hair</i>
+
+889
+00:49:03,816 --> 00:49:07,402
+<i>Is blazing in me out of all control</i>
+
+890
+00:49:07,403 --> 00:49:09,872
+CHOIR: <i>Verbo et opere</i>
+
+891
+00:49:09,947 --> 00:49:12,198
+<i>Like fire</i>
+
+892
+00:49:12,199 --> 00:49:15,078
+<i>Hellfire</i>
+
+893
+00:49:15,161 --> 00:49:19,712
+<i>This fire in my skin</i>
+
+894
+00:49:19,790 --> 00:49:24,261
+<i>This burning desire</i>
+
+895
+00:49:24,336 --> 00:49:29,217
+<i>Is turning me to sin</i>
+
+896
+00:49:31,385 --> 00:49:33,385
+<i>- It's not my fault</i>
+<i>- Mea culpa</i>
+
+897
+00:49:33,386 --> 00:49:35,433
+<i>- I'm not to blame</i>
+<i>- Mea culpa</i>
+
+898
+00:49:35,434 --> 00:49:37,900
+<i>It is the gypsy girl</i>
+<i>The witch who sent this flame</i>
+
+899
+00:49:37,901 --> 00:49:39,269
+<i>Mea maxima culpa</i>
+
+900
+00:49:39,351 --> 00:49:42,070
+<i>- It's not my fault if in God's plan</i>
+<i>- Mea culpa</i>
+
+901
+00:49:42,146 --> 00:49:43,147
+<i>Mea Culpa</i>
+
+902
+00:49:43,230 --> 00:49:48,776
+<i>He made the devil so much</i>
+<i>stronger than a man</i>
+
+903
+00:49:48,777 --> 00:49:51,446
+<i>Protect me, Maria</i>
+
+904
+00:49:51,447 --> 00:49:54,240
+<i>Don't let this siren cast her spell</i>
+
+905
+00:49:54,241 --> 00:49:59,412
+<i>Don't let her fire</i>
+<i>sear my flesh and bone</i>
+
+906
+00:49:59,413 --> 00:50:02,132
+<i>Destroy Esmeralda</i>
+
+907
+00:50:02,208 --> 00:50:05,126
+<i>And let her taste the fires of hell</i>
+
+908
+00:50:05,127 --> 00:50:10,054
+<i>Or else let her be mine and mine alone</i>
+
+909
+00:50:10,341 --> 00:50:11,593
+(KNOCKING AT DOOR)
+
+910
+00:50:12,676 --> 00:50:15,428
+Minister Frollo, the gypsy has escaped.
+
+911
+00:50:15,429 --> 00:50:17,932
+- What?
+- She's nowhere in the cathedral.
+
+912
+00:50:18,015 --> 00:50:22,769
+- She's gone.
+- But how? Never mind.
+
+913
+00:50:22,770 --> 00:50:25,865
+Get out, you idiot. I'll find her.
+
+914
+00:50:25,940 --> 00:50:29,444
+I'll find her if I have to
+burn down all of Paris.
+
+915
+00:50:30,361 --> 00:50:34,616
+(SINGING) <i>Hellfire
+Dark fire</i>
+
+916
+00:50:34,698 --> 00:50:38,293
+<i>Now, gypsy
+It's your turn</i>
+
+917
+00:50:39,119 --> 00:50:43,625
+<i>Choose me or your pyre</i>
+
+918
+00:50:43,707 --> 00:50:48,838
+<i>Be mine or you will burn</i>
+
+919
+00:50:48,921 --> 00:50:55,019
+- CHOIR: <i>Kyrie eleison</i>
+<i>- God have mercy on her</i>
+
+920
+00:50:55,094 --> 00:51:00,726
+<i>- Kyrie eleison</i>
+<i>- God have mercy on me</i>
+
+921
+00:51:00,808 --> 00:51:05,853
+<i>- Kyrie eleison</i>
+<i>- But she will be mine</i>
+
+922
+00:51:05,854 --> 00:51:09,148
+<i>Or she</i>
+
+923
+00:51:09,149 --> 00:51:11,698
+<i>Will</i>
+
+924
+00:51:11,777 --> 00:51:12,277
+<i>Burn</i>
+
+925
+00:51:26,292 --> 00:51:27,885
+(HORSE PULLING CARRIAGE)
+
+926
+00:51:27,960 --> 00:51:29,212
+PHOEBUS: <i>'Tention!</i>
+
+927
+00:51:29,461 --> 00:51:30,678
+(HORSE WHINNIES)
+
+928
+00:51:31,755 --> 00:51:32,756
+Good morning, sir.
+
+929
+00:51:32,881 --> 00:51:34,178
+Oh. (MUTTERING)
+
+930
+00:51:34,258 --> 00:51:35,508
+Are you feeling all right?
+
+931
+00:51:35,509 --> 00:51:38,683
+(GROANS) I had a little trouble
+with the fireplace.
+
+932
+00:51:38,684 --> 00:51:42,434
+- I see. Your orders, sir?
+- Find the gypsy girl.
+
+933
+00:51:44,351 --> 00:51:45,898
+(CHOIR SINGING)
+
+934
+00:51:48,939 --> 00:51:53,319
+Ten pieces of silver
+for the gypsy, Esmeralda.
+
+935
+00:51:56,030 --> 00:51:57,031
+Lock them up.
+
+936
+00:52:02,828 --> 00:52:04,045
+(GASPING)
+
+937
+00:52:04,121 --> 00:52:07,796
+Twenty pieces of silver
+for the gypsy, Esmeralda.
+
+938
+00:52:08,876 --> 00:52:10,219
+Take them away!
+
+939
+00:52:10,419 --> 00:52:12,387
+(PEOPLE CLAMORING)
+(SIGHING)
+
+940
+00:52:17,176 --> 00:52:19,429
+(PEOPLE MURMURING)
+(HORSE WHINNYING)
+
+941
+00:52:19,970 --> 00:52:22,723
+WOMAN: Poor miller.
+He's never harmed anyone!
+
+942
+00:52:22,806 --> 00:52:24,729
+MAN: Frollo's gone mad.
+
+943
+00:52:24,808 --> 00:52:27,732
+FROLLO: We found this gypsy talisman
+on your property.
+
+944
+00:52:27,811 --> 00:52:29,233
+Have you been harboring gypsies?
+
+945
+00:52:29,313 --> 00:52:31,782
+Our home is always open
+to the weary traveler.
+
+946
+00:52:31,899 --> 00:52:33,401
+Have mercy, my lord.
+
+947
+00:52:33,484 --> 00:52:35,787
+I am placing you and your family
+under house arrest
+
+948
+00:52:35,870 --> 00:52:37,287
+until I get to the bottom of this.
+
+949
+00:52:37,363 --> 00:52:39,238
+If what you say is true
+and you are innocent,
+
+950
+00:52:39,239 --> 00:52:40,456
+then you have nothing to fear.
+
+951
+00:52:40,532 --> 00:52:45,083
+But we are innocent. I assure you,
+we know nothing of these gypsies.
+
+952
+00:52:50,501 --> 00:52:52,219
+- Burn it.
+- What?
+
+953
+00:52:53,337 --> 00:52:54,805
+Until it smolders.
+
+954
+00:52:54,880 --> 00:52:57,679
+These people are traitors
+and must be made examples of.
+
+955
+00:52:57,758 --> 00:53:01,262
+With all due respect, sir, I was
+not trained to murder the innocent.
+
+956
+00:53:01,345 --> 00:53:04,440
+But you were trained to follow orders.
+
+957
+00:53:10,479 --> 00:53:12,447
+Insolent coward.
+
+958
+00:53:18,821 --> 00:53:20,619
+(HORSE WHINNYING)
+(FIRE ROARING)
+
+959
+00:53:20,906 --> 00:53:21,953
+(GASPING)
+
+960
+00:53:24,243 --> 00:53:26,452
+(WOMAN AND CHILD SCREAMING)
+
+961
+00:53:26,453 --> 00:53:27,579
+(GLASS SHATTERING)
+
+962
+00:53:28,122 --> 00:53:30,841
+(CHILD CRYING)
+
+963
+00:53:39,591 --> 00:53:40,638
+(GROANING)
+
+964
+00:53:42,302 --> 00:53:45,226
+The sentence
+for insubordination is death.
+
+965
+00:53:45,305 --> 00:53:49,560
+Such a pity.
+You threw away a promising career.
+
+966
+00:53:49,643 --> 00:53:52,237
+Consider it my highest honor, sir.
+
+967
+00:53:55,983 --> 00:53:57,360
+(HORSE WHINNYING)
+
+968
+00:53:57,651 --> 00:53:58,652
+(SOLDIER GRUNTING)
+
+969
+00:54:01,739 --> 00:54:04,492
+FROLLO: Get him!
+And don't hit my horse!
+
+970
+00:54:07,286 --> 00:54:08,327
+(GROANING)
+
+971
+00:54:08,328 --> 00:54:09,375
+(GASPING)
+
+972
+00:54:15,669 --> 00:54:19,640
+Don't waste your arrows.
+Let the traitor rot in his watery grave.
+
+973
+00:54:20,007 --> 00:54:21,259
+Find the girl.
+
+974
+00:54:21,341 --> 00:54:25,266
+If you have to burn the city
+to the ground, so be it.
+
+975
+00:54:30,768 --> 00:54:32,315
+(BREATHING HEAVILY)
+
+976
+00:54:36,440 --> 00:54:37,692
+(GASPING)
+
+977
+00:54:41,028 --> 00:54:46,032
+CHOIR: <i>Kyrie eleison</i>
+
+978
+00:54:46,033 --> 00:54:51,039
+<i>Kyrie eleison</i>
+
+979
+00:54:51,121 --> 00:54:54,216
+Sir, we've looked everywhere
+and still no sign of the gypsy girl.
+
+980
+00:54:54,792 --> 00:54:58,046
+I had the entire cathedral surrounded.
+
+981
+00:54:58,128 --> 00:55:01,678
+Guards at every door. There was
+no way she could have escaped.
+
+982
+00:55:01,757 --> 00:55:02,758
+(BELL TOLLING)
+
+983
+00:55:02,883 --> 00:55:04,226
+Unless...
+
+984
+00:55:05,385 --> 00:55:06,932
+(BELL TOLLING)
+
+985
+00:55:10,557 --> 00:55:12,651
+Oh, it doesn't look good.
+
+986
+00:55:12,726 --> 00:55:16,651
+- It's hopeless. Absolutely hopeless.
+- HUGO: You're tellin' me.
+
+987
+00:55:16,730 --> 00:55:18,232
+I'm losing' to a bird!
+
+988
+00:55:18,315 --> 00:55:21,740
+Oh, but that poor gypsy girl.
+I'm beginning to fear the worst.
+
+989
+00:55:21,819 --> 00:55:25,323
+I know. But now don't you say
+anything to upset Quasimodo.
+
+990
+00:55:25,405 --> 00:55:26,952
+He's worried enough already.
+
+991
+00:55:27,032 --> 00:55:28,672
+Yeah, you're right. We better lighten up.
+
+992
+00:55:28,700 --> 00:55:31,078
+(SHUSHING) - Here he comes.
+Now just stay calm.
+
+993
+00:55:31,161 --> 00:55:32,504
+- Not a word.
+- Easy does it.
+
+994
+00:55:32,579 --> 00:55:34,798
+- Stone-faced.
+- Any sign of her?
+
+995
+00:55:34,873 --> 00:55:37,046
+Mmm. Mmm. (TEETH RATTLING)
+
+996
+00:55:37,167 --> 00:55:40,797
+Oh, it's a lost cause!
+She could be anywhere!
+
+997
+00:55:40,879 --> 00:55:43,758
+In the stocks,
+in the dungeon, on the rack!
+
+998
+00:55:43,841 --> 00:55:45,434
+Oh! (WEEPING)
+
+999
+00:55:45,759 --> 00:55:49,605
+- Nice work, Victor.
+- No, he's right. What are we gonna do?
+
+1000
+00:55:49,680 --> 00:55:51,271
+What are you guys talkin' about?
+
+1001
+00:55:51,272 --> 00:55:52,480
+If I know Esmeralda,
+
+1002
+00:55:52,481 --> 00:55:55,774
+she's three steps ahead of Frollo
+and well out of harm's way.
+
+1003
+00:55:55,853 --> 00:55:56,854
+Do you really think so?
+
+1004
+00:55:56,937 --> 00:56:00,316
+Hey, when things cool off,
+she'll be back. You'll see.
+
+1005
+00:56:00,399 --> 00:56:03,027
+- What makes you so sure?
+- Because she likes ya.
+
+1006
+00:56:03,110 --> 00:56:04,783
+We always said you were the cute one.
+
+1007
+00:56:04,862 --> 00:56:06,284
+I thought I was the cute one.
+
+1008
+00:56:06,363 --> 00:56:09,116
+No, you're the fat, stupid one
+with the big mouth!
+
+1009
+00:56:09,783 --> 00:56:11,251
+What are you saying', exactly?
+
+1010
+00:56:11,577 --> 00:56:14,956
+Take it from us, Quasi.
+You got nothin' to worry about.
+
+1011
+00:56:15,038 --> 00:56:16,631
+Yeah. You're irresistible.
+
+1012
+00:56:16,748 --> 00:56:19,718
+(CHUCKLING) Knights in shining
+armor certainly aren't her type.
+
+1013
+00:56:19,793 --> 00:56:22,128
+And those guys are a dime a dozen.
+
+1014
+00:56:22,129 --> 00:56:26,475
+But you, you're one of a kind. Look.
+
+1015
+00:56:26,550 --> 00:56:31,556
+(SINGING) <i>Paris, the city of lovers</i>
+<i>is glowing this evening</i>
+
+1016
+00:56:32,139 --> 00:56:33,391
+(SIGHING)
+
+1017
+00:56:33,724 --> 00:56:36,350
+<i>True, that's because it's on fire</i>
+
+1018
+00:56:36,351 --> 00:56:40,356
+<i>But still there's glamour</i>
+
+1019
+00:56:41,899 --> 00:56:44,743
+<i>Somewhere out there in the night</i>
+
+1020
+00:56:45,402 --> 00:56:48,406
+<i>Her heart is also alight</i>
+
+1021
+00:56:48,488 --> 00:56:55,167
+<i>And I know the guy</i>
+<i>she just might be burning for</i>
+
+1022
+00:56:56,496 --> 00:56:59,841
+<i>A guy like you</i>
+
+1023
+00:57:00,417 --> 00:57:03,216
+<i>She's never known, kid</i>
+
+1024
+00:57:03,295 --> 00:57:04,545
+<i>A guy like you</i>
+
+1025
+00:57:04,546 --> 00:57:07,846
+<i>A girl does not meet every day</i>
+
+1026
+00:57:07,925 --> 00:57:10,144
+<i>You've got a look</i>
+
+1027
+00:57:10,344 --> 00:57:14,394
+<i>That's all your own, kid</i>
+<i>Could there be two?</i>
+
+1028
+00:57:14,473 --> 00:57:17,568
+ALL: <i>Like you?</i>
+<i>No way</i>
+
+1029
+00:57:17,643 --> 00:57:20,227
+HUGO: <i>Those other guys</i>
+
+1030
+00:57:20,228 --> 00:57:22,447
+<i>That she could dangle</i>
+
+1031
+00:57:22,522 --> 00:57:27,278
+<i>All look the same from every</i>
+<i>boring point of view</i>
+
+1032
+00:57:27,361 --> 00:57:29,784
+<i>You're a surprise</i>
+
+1033
+00:57:29,863 --> 00:57:32,036
+<i>From every angle</i>
+
+1034
+00:57:32,115 --> 00:57:36,541
+<i>Mon Dieu above</i>
+<i>She's gotta love a guy like you</i>
+
+1035
+00:57:36,620 --> 00:57:38,964
+<i>A guy like you</i>
+
+1036
+00:57:39,039 --> 00:57:41,462
+<i>Gets extra credit</i>
+
+1037
+00:57:41,541 --> 00:57:45,136
+<i>Because it's true you've got</i>
+<i>a certain something more</i>
+
+1038
+00:57:45,212 --> 00:57:46,304
+You're aces, kid.
+
+1039
+00:57:46,380 --> 00:57:50,055
+<i>You see that face
+Ya don't forget it</i>
+
+1040
+00:57:50,801 --> 00:57:52,394
+<i>Want something new</i>
+
+1041
+00:57:52,469 --> 00:57:53,552
+That's you.
+
+1042
+00:57:53,553 --> 00:57:55,897
+<i>For sure</i>
+
+1043
+00:57:55,973 --> 00:58:00,319
+<i>We all have gaped at some Adonis</i>
+
+1044
+00:58:00,394 --> 00:58:05,106
+<i>But then we crave a meal</i>
+<i>more nourishing to chew</i>
+
+1045
+00:58:05,107 --> 00:58:07,405
+HUGO: <i>And since you're shaped</i>
+
+1046
+00:58:07,484 --> 00:58:09,657
+<i>Like a croissant is</i>
+
+1047
+00:58:09,736 --> 00:58:14,412
+<i>No question of</i>
+<i>she's gotta love a guy like you</i>
+
+1048
+00:58:17,160 --> 00:58:19,788
+<i>Call me a hopeless romantic</i>
+
+1049
+00:58:19,871 --> 00:58:22,420
+<i>But Quasi
+I feel it</i>
+
+1050
+00:58:24,501 --> 00:58:26,085
+<i>She wants you so</i>
+
+1051
+00:58:26,086 --> 00:58:30,432
+<i>Any moment she'll walk
+through that door</i>
+
+1052
+00:58:30,507 --> 00:58:32,760
+ALL: <i>For</i>
+
+1053
+00:58:32,843 --> 00:58:35,594
+<i>A guy so swell</i>
+
+1054
+00:58:35,595 --> 00:58:39,316
+<i>A guy like you with all you bring her</i>
+
+1055
+00:58:39,391 --> 00:58:42,361
+<i>A fool could tell it's why she fell</i>
+
+1056
+00:58:42,436 --> 00:58:44,812
+<i>For you-know-who</i>
+
+1057
+00:58:44,813 --> 00:58:47,032
+<i>You'll ring the bell</i>
+
+1058
+00:58:47,107 --> 00:58:50,077
+<i>You're the bell ringer</i>
+
+1059
+00:58:50,444 --> 00:58:54,449
+<i>When she wants ooh-la-la</i>
+<i>And she wants you-la-la</i>
+
+1060
+00:58:54,531 --> 00:58:56,625
+<i>She will discover, guy</i>
+
+1061
+00:58:56,700 --> 00:58:58,826
+<i>You're one heck of a guy</i>
+
+1062
+00:58:58,827 --> 00:59:02,081
+<i>Who wouldn't love a guy</i>
+
+1063
+00:59:02,164 --> 00:59:03,666
+<i>Like you</i>
+
+1064
+00:59:03,749 --> 00:59:05,342
+<i>- You got a lot</i>
+<i>- The rest have not</i>
+
+1065
+00:59:05,417 --> 00:59:07,135
+<i>She's gotta love a guy like you</i>
+
+1066
+00:59:08,545 --> 00:59:09,717
+ESMERALDA: Quasi?
+
+1067
+00:59:11,214 --> 00:59:12,386
+Quasimodo?
+
+1068
+00:59:12,716 --> 00:59:14,059
+Esmeralda?
+
+1069
+00:59:14,634 --> 00:59:18,309
+Esmeralda, you're all right!
+I knew you'd come back!
+
+1070
+00:59:18,972 --> 00:59:21,475
+You've done so much
+for me already, my friend.
+
+1071
+00:59:21,558 --> 00:59:23,560
+But I must ask your help one more time.
+
+1072
+00:59:23,643 --> 00:59:25,145
+Yes, anything.
+
+1073
+00:59:28,815 --> 00:59:32,319
+This is Phoebus.
+He's wounded and a fugitive like me.
+
+1074
+00:59:32,652 --> 00:59:36,657
+He can't go on much longer.
+I knew he'd be safe here.
+
+1075
+00:59:36,740 --> 00:59:38,413
+Please, can you hide him?
+
+1076
+00:59:38,825 --> 00:59:40,077
+This way.
+
+1077
+00:59:46,625 --> 00:59:47,751
+(SIGHING)
+
+1078
+00:59:48,001 --> 00:59:50,504
+- Esmeralda.
+- Shh.
+
+1079
+00:59:50,670 --> 00:59:53,514
+You'll hide here
+until you're strong enough to move.
+
+1080
+00:59:55,509 --> 00:59:58,183
+Great. I could use a drink.
+
+1081
+00:59:58,512 --> 00:59:59,513
+Ahhh!
+
+1082
+00:59:59,679 --> 01:00:02,023
+Yes. Mmm.
+
+1083
+01:00:02,099 --> 01:00:06,605
+Feels like a 1470 burgundy.
+Not a good year.
+
+1084
+01:00:06,686 --> 01:00:08,939
+That family owes you their lives.
+
+1085
+01:00:09,022 --> 01:00:13,619
+You're either the single bravest soldier
+I've ever seen or the craziest.
+
+1086
+01:00:13,693 --> 01:00:15,536
+Ex-soldier, remember?
+
+1087
+01:00:15,612 --> 01:00:16,704
+(GROANING)
+
+1088
+01:00:16,780 --> 01:00:20,626
+Why is it, whenever we meet,
+I end up bleeding?
+
+1089
+01:00:20,826 --> 01:00:23,124
+(SIGHING)
+You're lucky.
+
+1090
+01:00:23,203 --> 01:00:25,376
+That arrow almost pierced your heart.
+
+1091
+01:00:26,998 --> 01:00:28,375
+I'm not so sure it didn't.
+
+1092
+01:00:44,141 --> 01:00:46,610
+QUASIMODO: (SINGING)
+<i>I knew I'd never know</i>
+
+1093
+01:00:46,685 --> 01:00:49,154
+<i>That warm and loving glow</i>
+
+1094
+01:00:49,229 --> 01:00:53,905
+<i>Though I might wish with all my might</i>
+
+1095
+01:00:53,984 --> 01:00:58,740
+<i>No face as hideous as my face</i>
+
+1096
+01:00:58,822 --> 01:01:04,170
+<i>Was ever meant for heaven's light</i>
+
+1097
+01:01:17,632 --> 01:01:20,010
+(BLEATING)
+
+1098
+01:01:24,806 --> 01:01:25,898
+(GASPS)
+
+1099
+01:01:26,099 --> 01:01:27,772
+Frollo's coming. You must leave.
+
+1100
+01:01:27,773 --> 01:01:32,022
+Quick, follow me.
+Go down the south tower steps.
+
+1101
+01:01:32,105 --> 01:01:36,360
+Be careful, my friend. Promise
+you won't let anything happen to him.
+
+1102
+01:01:36,443 --> 01:01:39,117
+- I promise.
+- Thank you.
+
+1103
+01:01:42,449 --> 01:01:44,451
+Quick, we gotta stash the stiff.
+
+1104
+01:01:44,951 --> 01:01:47,295
+(QUASIMODO GRUNTING)
+
+1105
+01:01:50,207 --> 01:01:51,504
+(PANTING)
+
+1106
+01:02:00,217 --> 01:02:03,642
+Oh. Oh, Master,
+I didn't think you'd be coming.
+
+1107
+01:02:03,720 --> 01:02:07,315
+I am never too busy to share
+a meal with you, dear boy.
+
+1108
+01:02:07,641 --> 01:02:10,190
+I brought a little treat.
+
+1109
+01:02:12,646 --> 01:02:13,863
+(CLEARING THROAT)
+
+1110
+01:02:14,147 --> 01:02:15,319
+Oh!
+
+1111
+01:02:17,067 --> 01:02:19,320
+(DISHES CLATTERING)
+
+1112
+01:02:22,239 --> 01:02:24,992
+Is there something troubling you,
+Quasimodo?
+
+1113
+01:02:25,075 --> 01:02:27,999
+- Oh. No!
+- Oh, but there is.
+
+1114
+01:02:29,079 --> 01:02:30,956
+I know there is.
+
+1115
+01:02:41,591 --> 01:02:44,845
+I think you're hiding something.
+
+1116
+01:02:44,928 --> 01:02:46,894
+Oh, no, Master. I... There's no...
+
+1117
+01:02:46,895 --> 01:02:48,185
+You're not eating, boy.
+
+1118
+01:02:48,306 --> 01:02:49,307
+Mmm.
+
+1119
+01:02:49,599 --> 01:02:52,102
+(MUFFLED) It's very good. Thank you.
+
+1120
+01:02:52,185 --> 01:02:54,688
+(PHOEBUS GROANING)
+Mmm.
+
+1121
+01:02:55,021 --> 01:02:56,193
+(GROANING)
+
+1122
+01:02:56,606 --> 01:02:59,860
+(COUGHING LOUDLY)
+
+1123
+01:03:00,443 --> 01:03:01,444
+Seeds.
+
+1124
+01:03:02,862 --> 01:03:05,786
+What's different in here?
+
+1125
+01:03:05,865 --> 01:03:07,538
+Nothing. Sir.
+
+1126
+01:03:09,703 --> 01:03:11,870
+Isn't this one new?
+
+1127
+01:03:11,871 --> 01:03:16,547
+It's awfully good.
+It looks very much like the gypsy girl.
+
+1128
+01:03:16,960 --> 01:03:22,057
+I know you helped her escape!
+
+1129
+01:03:22,132 --> 01:03:27,229
+And now all Paris is burning
+because of you!
+
+1130
+01:03:27,304 --> 01:03:29,306
+She was kind to me, Master.
+
+1131
+01:03:29,389 --> 01:03:33,392
+You idiot!
+That wasn't kindness. It was cunning!
+
+1132
+01:03:33,393 --> 01:03:37,739
+She's a gypsy!
+Gypsies are not capable of real love!
+
+1133
+01:03:37,814 --> 01:03:41,159
+Think, boy. Think of your mother.
+
+1134
+01:03:42,193 --> 01:03:43,902
+(PANTING)
+
+1135
+01:03:43,903 --> 01:03:45,237
+(CLEARING THROAT)
+
+1136
+01:03:45,238 --> 01:03:49,163
+But what chance could
+a poor, misshapen child like you
+
+1137
+01:03:49,242 --> 01:03:53,088
+have against her heathen treachery?
+
+1138
+01:03:53,163 --> 01:03:56,087
+Well, never you mind, Quasimodo.
+
+1139
+01:03:56,166 --> 01:03:58,589
+She'll be out of our lives soon enough.
+
+1140
+01:03:58,668 --> 01:04:01,962
+I will free you from her evil spell.
+
+1141
+01:04:01,963 --> 01:04:04,591
+She will torment you no longer.
+
+1142
+01:04:04,674 --> 01:04:06,597
+What do you mean?
+
+1143
+01:04:06,676 --> 01:04:09,429
+I know where her hideout is.
+
+1144
+01:04:09,512 --> 01:04:12,436
+And tomorrow at dawn, I attack
+
+1145
+01:04:12,515 --> 01:04:15,064
+with 1,000 men.
+
+1146
+01:04:25,528 --> 01:04:26,700
+(PHOEBUS GROANS)
+
+1147
+01:04:26,905 --> 01:04:29,374
+We have to find the court
+of miracles before daybreak.
+
+1148
+01:04:29,449 --> 01:04:32,544
+If Frollo gets there first...
+Are you coming with me?
+
+1149
+01:04:33,536 --> 01:04:36,210
+- I can't.
+- I thought you were Esmeralda's friend.
+
+1150
+01:04:36,289 --> 01:04:38,963
+Frollo is my master.
+I can't disobey him again.
+
+1151
+01:04:39,042 --> 01:04:42,888
+She stood up for you. You've got
+a funny way of showing gratitude.
+
+1152
+01:04:46,341 --> 01:04:50,221
+Well, I'm not going to sit by and
+watch Frollo massacre innocent people.
+
+1153
+01:04:50,303 --> 01:04:52,146
+You do what you think is right.
+
+1154
+01:04:57,560 --> 01:04:59,904
+What? What am I supposed to do?
+
+1155
+01:04:59,979 --> 01:05:02,823
+Go out there and rescue
+the girl from the jaws of death,
+
+1156
+01:05:02,899 --> 01:05:05,652
+and the whole town will cheer
+like I'm some kind of a hero?
+
+1157
+01:05:05,735 --> 01:05:09,706
+She already has her knight
+in shining armor, and it's not me.
+
+1158
+01:05:09,989 --> 01:05:11,787
+(SIGHING)
+
+1159
+01:05:12,575 --> 01:05:16,421
+Frollo was right.
+Frollo was right about everything.
+
+1160
+01:05:16,496 --> 01:05:19,716
+I'm tired of trying to be
+something that I'm not.
+
+1161
+01:05:39,936 --> 01:05:41,529
+I must be out of my mind.
+
+1162
+01:05:43,857 --> 01:05:45,279
+- Phoebus! Shh.
+- Aah!
+
+1163
+01:05:45,358 --> 01:05:47,781
+- I'm coming with you!
+- Glad you changed your mind.
+
+1164
+01:05:47,861 --> 01:05:50,034
+I'm not doing it for you.
+I'm doing it for her.
+
+1165
+01:05:50,113 --> 01:05:51,205
+You know where she is?
+
+1166
+01:05:51,281 --> 01:05:53,875
+No, but she said
+that this will help us find her.
+
+1167
+01:05:53,950 --> 01:05:57,295
+Good, good, good. Ah, great.
+
+1168
+01:05:57,871 --> 01:05:58,963
+What is it?
+
+1169
+01:05:59,038 --> 01:06:02,383
+- I'm not sure.
+- Hmm. It must be some sort of code.
+
+1170
+01:06:02,459 --> 01:06:05,554
+Maybe it's Arabic. No, no. It's not
+Arabic. Maybe it's ancient Greek.
+
+1171
+01:06:05,628 --> 01:06:10,134
+"When you wear this woven band,
+you hold the city in your hand."
+
+1172
+01:06:10,216 --> 01:06:11,431
+- What?
+- It's the city.
+
+1173
+01:06:11,432 --> 01:06:13,203
+- What are you talking about?
+- It's a map.
+
+1174
+01:06:13,286 --> 01:06:16,263
+See, here's the cathedral and the river,
+and this little stone must be...
+
+1175
+01:06:16,264 --> 01:06:19,565
+- I've never seen a map that looks like...
+- I've lived in the tower for 20 years.
+
+1176
+01:06:19,566 --> 01:06:21,734
+And I think I know
+what the city looks like from above.
+
+1177
+01:06:21,735 --> 01:06:23,401
+- This is it.
+- This is not it.
+
+1178
+01:06:23,480 --> 01:06:25,733
+(BOTH BREATHING DEEPLY)
+
+1179
+01:06:25,899 --> 01:06:29,745
+All right. Okay.
+If you say it's a map, fine. It's a map.
+
+1180
+01:06:29,819 --> 01:06:33,073
+But if we're going to find Esmeralda,
+we have to work together.
+
+1181
+01:06:33,156 --> 01:06:34,499
+Truce?
+
+1182
+01:06:34,949 --> 01:06:36,576
+Well, okay.
+
+1183
+01:06:36,659 --> 01:06:38,627
+Ahh! (GROANS)
+
+1184
+01:06:39,329 --> 01:06:40,501
+Sorry.
+
+1185
+01:06:41,372 --> 01:06:42,919
+PHOEBUS: No, you're not.
+
+1186
+01:06:46,961 --> 01:06:48,588
+(DOGS BARKING)
+
+1187
+01:06:55,678 --> 01:06:57,474
+This looks like the symbol on the map.
+
+1188
+01:06:57,475 --> 01:06:58,940
+But what does it mean?
+
+1189
+01:06:59,098 --> 01:07:00,395
+Hmm.
+
+1190
+01:07:00,683 --> 01:07:02,435
+I'm not sure.
+
+1191
+01:07:02,519 --> 01:07:03,862
+I can make out an inscription,
+
+1192
+01:07:03,937 --> 01:07:06,611
+but it's going to
+take a few minutes to translate it.
+
+1193
+01:07:08,775 --> 01:07:11,699
+Yes, well.
+Or we could just go down those stairs.
+
+1194
+01:07:20,453 --> 01:07:22,624
+QUASIMODO:
+Is this the court of miracles?
+
+1195
+01:07:22,625 --> 01:07:26,297
+PHOEBUS: Offhand, I'd say it's
+the court of ankle-deep sewage.
+
+1196
+01:07:26,376 --> 01:07:28,424
+Must be the old catacombs.
+(MOUSE SQUEAKING)
+
+1197
+01:07:33,216 --> 01:07:34,763
+Cheerful place.
+
+1198
+01:07:34,926 --> 01:07:36,303
+(CHUCKLING)
+
+1199
+01:07:36,553 --> 01:07:39,350
+Kinda makes ya wish
+ya got out more often, eh, Quasi?
+
+1200
+01:07:39,351 --> 01:07:41,349
+Not me. I just want to warn Esmeralda
+
+1201
+01:07:41,432 --> 01:07:43,981
+and get back to the bell tower
+before I get in more trouble.
+
+1202
+01:07:44,978 --> 01:07:47,652
+Speaking of trouble, we should
+have run into some by now.
+
+1203
+01:07:47,730 --> 01:07:51,325
+- What do you mean?
+- You know. A guard. A booby trap.
+
+1204
+01:07:52,569 --> 01:07:54,037
+Or an ambush.
+
+1205
+01:07:54,654 --> 01:07:56,873
+(MEN LAUGHING)
+
+1206
+01:07:59,659 --> 01:08:02,583
+Well, well, well. What have we here?
+
+1207
+01:08:02,662 --> 01:08:04,005
+- Trespassers!
+- Spies!
+
+1208
+01:08:04,080 --> 01:08:05,807
+- We're not spies.
+- You've got to listen...
+
+1209
+01:08:05,890 --> 01:08:08,009
+(MUFFLED STRUGGLING)
+Don't interrupt me.
+
+1210
+01:08:08,084 --> 01:08:11,054
+You're very clever
+to have found our hideaway.
+
+1211
+01:08:11,129 --> 01:08:14,715
+Unfortunately, you won't
+live to tell the tale.
+
+1212
+01:08:14,716 --> 01:08:15,763
+(MEN LAUGHING)
+
+1213
+01:08:15,842 --> 01:08:17,888
+(SINGING) <i>Maybe you've heard</i>
+<i>of a terrible place</i>
+
+1214
+01:08:17,889 --> 01:08:20,354
+<i>Where the scoundrels of Paris</i>
+<i>collect in a lair</i>
+
+1215
+01:08:20,430 --> 01:08:23,934
+<i>Maybe you've heard of that mythical</i>
+<i>place called the court of miracles</i>
+
+1216
+01:08:24,017 --> 01:08:25,064
+Hello, you're there.
+
+1217
+01:08:25,065 --> 01:08:27,019
+<i>Where the lame can walk</i>
+
+1218
+01:08:27,020 --> 01:08:29,443
+<i>And the blind can see</i>
+
+1219
+01:08:29,522 --> 01:08:31,695
+<i>But the dead don't talk</i>
+
+1220
+01:08:31,774 --> 01:08:34,618
+<i>So you won't be around</i>
+<i>to reveal what you found</i>
+
+1221
+01:08:34,694 --> 01:08:36,911
+<i>We have a method
+for spies and intruders</i>
+
+1222
+01:08:36,912 --> 01:08:39,453
+<i>Rather like hornets</i>
+<i>protecting their hive</i>
+
+1223
+01:08:39,532 --> 01:08:44,129
+<i>Here in the court of miracles</i>
+<i>where it's a miracle if you get out alive</i>
+
+1224
+01:08:44,370 --> 01:08:46,338
+(ALL LAUGHING)
+
+1225
+01:08:46,956 --> 01:08:50,881
+Gather around, everybody.
+There's "good noose" tonight.
+
+1226
+01:08:50,960 --> 01:08:54,806
+It's a doubleheader.
+A couple of Frollo's spies.
+
+1227
+01:08:54,881 --> 01:08:57,054
+(CROWD BOOING)
+And not just any spies.
+
+1228
+01:08:57,133 --> 01:09:02,606
+His captain of the guard
+and his loyal, bell-ringing henchman.
+
+1229
+01:09:02,680 --> 01:09:05,058
+(SINGING) <i>Justice is swift</i>
+<i>in the court of miracles</i>
+
+1230
+01:09:05,183 --> 01:09:07,481
+<i>I am the lawyers and judge all in one</i>
+
+1231
+01:09:07,560 --> 01:09:09,562
+<i>We like to get the trial over with quickly</i>
+
+1232
+01:09:09,646 --> 01:09:12,069
+<i>Because it's the sentence</i>
+<i>that's really the fun</i>
+
+1233
+01:09:12,148 --> 01:09:14,150
+Any last words?
+
+1234
+01:09:14,233 --> 01:09:16,235
+(MUFFLED STRUGGLING)
+
+1235
+01:09:16,402 --> 01:09:18,746
+(CRACKING KNUCKLES)
+That's what they all say.
+
+1236
+01:09:18,821 --> 01:09:21,743
+<i>- Now that we've seen all the evidence</i>
+- PUPPET: <i>Wait, I object</i>
+
+1237
+01:09:21,744 --> 01:09:22,984
+- Overruled.
+- PUPPET: I object.
+
+1238
+01:09:23,034 --> 01:09:24,911
+- Quiet.
+- PUPPET: Dang.
+
+1239
+01:09:24,994 --> 01:09:28,339
+<i>We find you totally innocent</i>
+
+1240
+01:09:28,414 --> 01:09:31,509
+<i>Which is the worst crime of all</i>
+
+1241
+01:09:31,584 --> 01:09:33,177
+<i>So you're going to hang</i>
+
+1242
+01:09:34,003 --> 01:09:35,129
+ESMERALDA: Stop!
+
+1243
+01:09:37,048 --> 01:09:38,174
+(MUFFLED SHOUTING)
+
+1244
+01:09:38,257 --> 01:09:40,635
+These men aren't spies.
+They're our friends.
+
+1245
+01:09:40,636 --> 01:09:43,595
+- Why didn't they say so?
+- We did say so.
+
+1246
+01:09:43,596 --> 01:09:45,769
+This is the soldier
+who saved the miller's family.
+
+1247
+01:09:45,848 --> 01:09:48,192
+And Quasimodo helped me
+escape the cathedral.
+
+1248
+01:09:48,267 --> 01:09:51,020
+We came to warn you. Frollo's coming!
+
+1249
+01:09:51,104 --> 01:09:52,651
+He says he knows where you're hiding,
+
+1250
+01:09:52,652 --> 01:09:56,026
+and he's attacking at dawn
+with 1,000 men.
+
+1251
+01:09:56,109 --> 01:09:59,113
+Then let's waste no time.
+We must leave immediately.
+
+1252
+01:09:59,278 --> 01:10:00,951
+(CROWD CLAMORING
+IN AGREEMENT)
+
+1253
+01:10:02,865 --> 01:10:05,118
+You took a terrible risk coming here.
+
+1254
+01:10:05,201 --> 01:10:07,829
+It may not exactly show,
+but we're grateful.
+
+1255
+01:10:10,873 --> 01:10:13,046
+Don't thank me. Thank Quasimodo.
+
+1256
+01:10:13,126 --> 01:10:15,720
+Without his help,
+I would never have found my way here.
+
+1257
+01:10:15,795 --> 01:10:17,468
+FROLLO: Nor would I.
+
+1258
+01:10:17,797 --> 01:10:19,799
+(GYPSIES SHOUTING)
+
+1259
+01:10:24,220 --> 01:10:25,813
+(BLEATING)
+
+1260
+01:10:27,724 --> 01:10:30,976
+After 20 years of searching,
+
+1261
+01:10:30,977 --> 01:10:34,902
+the court of miracles is mine at last.
+
+1262
+01:10:35,898 --> 01:10:37,741
+Dear Quasimodo.
+
+1263
+01:10:37,817 --> 01:10:40,912
+I always knew
+you would someday be of use to me.
+
+1264
+01:10:40,987 --> 01:10:43,206
+- No.
+- What are you talking about?
+
+1265
+01:10:43,207 --> 01:10:47,325
+- Why, he led me right to you, my dear.
+- You're a liar.
+
+1266
+01:10:47,326 --> 01:10:50,170
+And look what else
+I've caught in my net.
+
+1267
+01:10:50,246 --> 01:10:53,341
+Captain Phoebus, back from the dead.
+
+1268
+01:10:53,416 --> 01:10:56,511
+Another "miracle, " no doubt.
+(GRUNTING)
+
+1269
+01:10:56,586 --> 01:10:58,429
+I shall remedy that.
+
+1270
+01:11:00,256 --> 01:11:03,556
+There'll be a little bonfire
+in the square tomorrow.
+
+1271
+01:11:03,634 --> 01:11:06,513
+And you're all invited to attend.
+
+1272
+01:11:06,596 --> 01:11:08,221
+Lock them up.
+
+1273
+01:11:08,222 --> 01:11:10,350
+No, please, Master!
+
+1274
+01:11:14,604 --> 01:11:16,277
+No, no.
+
+1275
+01:11:16,355 --> 01:11:20,076
+Take him back to the bell tower.
+And make sure he stays there.
+
+1276
+01:11:20,077 --> 01:11:21,535
+(DRUM ROLL)
+
+1277
+01:11:24,864 --> 01:11:27,242
+(CHOIR SINGING)
+
+1278
+01:11:28,701 --> 01:11:30,576
+FROLLO: The prisoner, Esmeralda,
+
+1279
+01:11:30,577 --> 01:11:33,878
+has been found guilty
+of the crime of witchcraft.
+
+1280
+01:11:36,292 --> 01:11:37,885
+The sentence...
+
+1281
+01:11:37,960 --> 01:11:39,007
+Death!
+
+1282
+01:11:39,086 --> 01:11:40,713
+(CROWD SHOUTING)
+
+1283
+01:11:54,185 --> 01:11:58,440
+The time has come, gypsy.
+You stand upon the brink of the abyss.
+
+1284
+01:11:58,731 --> 01:12:01,234
+Yet even now it is not too late.
+
+1285
+01:12:01,317 --> 01:12:05,868
+I can save you from the flames
+of this world and the next.
+
+1286
+01:12:06,906 --> 01:12:09,580
+Choose me. Or the fire.
+
+1287
+01:12:10,076 --> 01:12:12,124
+(SPITTING)
+(CROWD GASPING)
+
+1288
+01:12:14,580 --> 01:12:18,926
+The gypsy, Esmeralda,
+has refused to recant.
+
+1289
+01:12:19,418 --> 01:12:23,797
+This evil witch has put the soul
+of every citizen in Paris
+
+1290
+01:12:23,798 --> 01:12:25,971
+in awful jeopardy.
+
+1291
+01:12:28,177 --> 01:12:30,098
+Come on, Quasi. Snap out of it!
+
+1292
+01:12:30,099 --> 01:12:32,770
+- Your friends are down there.
+- It's all my fault.
+
+1293
+01:12:32,849 --> 01:12:34,442
+You gotta break these chains.
+
+1294
+01:12:34,517 --> 01:12:37,191
+I can't. I tried.
+What difference would it make?
+
+1295
+01:12:37,270 --> 01:12:40,274
+- But you can't let Frollo win!
+- He already has.
+
+1296
+01:12:40,356 --> 01:12:43,030
+So you're givin' up? That's it?
+
+1297
+01:12:43,109 --> 01:12:45,783
+These chains aren't what's
+holding you back, Quasimodo.
+
+1298
+01:12:45,862 --> 01:12:47,409
+Leave me alone.
+
+1299
+01:12:50,199 --> 01:12:54,045
+Okay. Okay, Quasi.
+We'll leave ya alone.
+
+1300
+01:12:54,120 --> 01:12:56,623
+After all, we're only made out of stone.
+
+1301
+01:12:56,706 --> 01:12:59,926
+We just thought maybe
+you were made of somethin' stronger.
+
+1302
+01:13:04,046 --> 01:13:06,798
+FROLLO: For justice, for Paris,
+
+1303
+01:13:06,799 --> 01:13:09,643
+and for her own salvation,
+
+1304
+01:13:09,719 --> 01:13:14,806
+it is my sacred duty
+to send this unholy demon
+
+1305
+01:13:14,807 --> 01:13:17,481
+back where she belongs.
+
+1306
+01:13:19,478 --> 01:13:21,526
+No!
+
+1307
+01:13:23,149 --> 01:13:25,572
+(BELLS RESONATING)
+
+1308
+01:13:28,905 --> 01:13:30,248
+(STONE CRACKING)
+
+1309
+01:13:31,949 --> 01:13:32,996
+(COUGHING)
+
+1310
+01:13:34,285 --> 01:13:35,582
+(CHAINS RATTLING)
+
+1311
+01:13:35,828 --> 01:13:37,080
+(STONE CRACKING)
+
+1312
+01:13:40,374 --> 01:13:43,719
+(CHOIR SINGING DRAMATICALLY)
+
+1313
+01:14:03,356 --> 01:14:06,155
+(CROWD CHEERING)
+
+1314
+01:14:08,611 --> 01:14:09,954
+(SOLDIERS GRUNTING)
+
+1315
+01:14:11,781 --> 01:14:13,033
+Quasimodo!
+
+1316
+01:14:25,795 --> 01:14:29,015
+Sanctuary!
+(CROWD CHEERING)
+
+1317
+01:14:29,382 --> 01:14:31,510
+Sanctuary!
+(CROWD CHEERING)
+
+1318
+01:14:33,135 --> 01:14:36,935
+Sanctuary!
+(CROWD CHEERING)
+
+1319
+01:14:37,431 --> 01:14:38,723
+- Captain.
+- Sir?
+
+1320
+01:14:38,724 --> 01:14:40,021
+Seize the cathedral.
+
+1321
+01:14:42,144 --> 01:14:44,317
+Don't worry. You'll be safe here.
+
+1322
+01:14:44,397 --> 01:14:45,569
+SOLDIER: Charge!
+
+1323
+01:14:55,658 --> 01:14:57,251
+(CROWD GASPING)
+
+1324
+01:15:02,331 --> 01:15:04,754
+Come back, you cowards!
+
+1325
+01:15:05,501 --> 01:15:08,801
+You, men, pick up that beam.
+Break down the door.
+
+1326
+01:15:09,755 --> 01:15:11,473
+Alone at last.
+(GROANING)
+
+1327
+01:15:11,474 --> 01:15:12,799
+(BIRDS CHIRPING)
+
+1328
+01:15:12,800 --> 01:15:13,926
+(GRUNTING)
+
+1329
+01:15:15,261 --> 01:15:17,104
+Citizens of Paris!
+
+1330
+01:15:17,179 --> 01:15:21,605
+Frollo has persecuted our people,
+ransacked our city!
+
+1331
+01:15:21,684 --> 01:15:26,281
+Now he has declared war
+on Notre Dame herself!
+
+1332
+01:15:26,355 --> 01:15:27,356
+(GRUNTING)
+
+1333
+01:15:27,440 --> 01:15:29,613
+Will we allow it?
+
+1334
+01:15:29,692 --> 01:15:31,535
+(SHOUTING IN PROTEST)
+
+1335
+01:15:33,070 --> 01:15:35,914
+(CHOIR SINGING DRAMATICALLY)
+
+1336
+01:15:36,282 --> 01:15:37,454
+(SHOUTING)
+
+1337
+01:15:37,742 --> 01:15:39,460
+(CROWD CLAMORING)
+
+1338
+01:15:39,535 --> 01:15:41,458
+I think the cavalry is here.
+
+1339
+01:15:41,579 --> 01:15:42,624
+Hey, isn't that...
+
+1340
+01:15:42,625 --> 01:15:43,713
+- Uh, Feeble?
+- Doofus.
+
+1341
+01:15:43,789 --> 01:15:45,006
+Phoebus!
+
+1342
+01:15:45,291 --> 01:15:46,463
+(GRUNTING)
+
+1343
+01:15:50,546 --> 01:15:51,718
+(HUMMING NERVOUSLY)
+
+1344
+01:15:51,881 --> 01:15:52,964
+(CLANGING)
+
+1345
+01:15:52,965 --> 01:15:54,137
+Sorry. Sorry.
+
+1346
+01:15:54,925 --> 01:15:56,142
+(MUNCHING)
+
+1347
+01:15:56,761 --> 01:15:58,809
+(IMITATES AIRPLANE BUZZING)
+
+1348
+01:15:59,388 --> 01:16:01,231
+(MACHINE GUN SOUND)
+
+1349
+01:16:01,307 --> 01:16:02,604
+Harder!
+
+1350
+01:16:03,434 --> 01:16:06,313
+(CROWD SHOUTING)
+(GRUNTING)
+
+1351
+01:16:10,858 --> 01:16:13,862
+Oh! I'm free! I'm free!
+
+1352
+01:16:13,944 --> 01:16:15,036
+(SHOUTS)
+
+1353
+01:16:15,738 --> 01:16:16,739
+Dang it!
+
+1354
+01:16:21,827 --> 01:16:23,829
+(SOLDIERS SCREAMING)
+
+1355
+01:16:27,249 --> 01:16:30,469
+VICTOR: Ready, aim, fire!
+
+1356
+01:16:33,047 --> 01:16:34,549
+(SHOUTING)
+
+1357
+01:16:35,174 --> 01:16:36,767
+Are you sure that's how it works?
+
+1358
+01:16:37,009 --> 01:16:38,261
+(MOANING)
+
+1359
+01:16:38,469 --> 01:16:39,846
+Works for me.
+
+1360
+01:16:40,096 --> 01:16:41,313
+(GRUNTING)
+
+1361
+01:16:45,434 --> 01:16:46,936
+(SHOUTING)
+
+1362
+01:16:47,686 --> 01:16:48,733
+Achilles, sit.
+
+1363
+01:16:50,314 --> 01:16:51,861
+(MUFFLED SHOUTING)
+Ahh! Get off me!
+
+1364
+01:16:51,862 --> 01:16:54,531
+Fly, my pretties! Fly, fly!
+
+1365
+01:16:54,652 --> 01:16:56,325
+(CACKLING)
+
+1366
+01:16:56,695 --> 01:16:57,787
+(GASPING)
+
+1367
+01:16:59,740 --> 01:17:01,117
+(SHOUTING)
+
+1368
+01:17:01,200 --> 01:17:03,794
+Put your backs into it!
+(GRUNTING)
+
+1369
+01:17:05,079 --> 01:17:07,628
+(BLOWING)
+
+1370
+01:17:10,126 --> 01:17:11,127
+(GROANING)
+
+1371
+01:17:36,360 --> 01:17:38,158
+Frollo, have you gone mad?
+
+1372
+01:17:38,237 --> 01:17:41,161
+I will not tolerate
+this assault on the house of God!
+
+1373
+01:17:41,240 --> 01:17:43,493
+Silence, you old fool!
+
+1374
+01:17:43,576 --> 01:17:46,420
+The hunchback and I
+have unfinished business to attend to.
+
+1375
+01:17:46,495 --> 01:17:49,044
+And this time you will not interfere.
+
+1376
+01:17:51,917 --> 01:17:54,841
+We've done it, Esmeralda!
+We've beaten them back!
+
+1377
+01:17:54,920 --> 01:17:56,388
+Come and see.
+
+1378
+01:18:00,092 --> 01:18:02,094
+Esmeralda, wake up.
+
+1379
+01:18:02,261 --> 01:18:03,433
+You're safe now.
+
+1380
+01:18:05,264 --> 01:18:06,607
+Esmeralda?
+
+1381
+01:18:08,934 --> 01:18:10,311
+Oh, no.
+
+1382
+01:18:27,286 --> 01:18:28,458
+Oh, no.
+
+1383
+01:18:28,954 --> 01:18:30,877
+(WEEPING)
+
+1384
+01:19:03,155 --> 01:19:04,498
+You killed her.
+
+1385
+01:19:04,573 --> 01:19:09,545
+It was my duty, horrible as it was.
+I hope you will forgive me.
+
+1386
+01:19:11,664 --> 01:19:15,339
+There, there, Quasimodo.
+I know it hurts.
+
+1387
+01:19:15,417 --> 01:19:19,672
+But now the time has come
+to end your suffering...
+
+1388
+01:19:20,923 --> 01:19:22,049
+Forever.
+
+1389
+01:19:22,174 --> 01:19:23,926
+(GASPING)
+(GRUNTING)
+
+1390
+01:19:28,931 --> 01:19:30,683
+(GRUNTING)
+
+1391
+01:19:31,183 --> 01:19:35,228
+Now, now, listen to me, Quasimodo.
+
+1392
+01:19:35,229 --> 01:19:36,355
+No, you listen!
+
+1393
+01:19:36,438 --> 01:19:39,692
+All my life, you have told me
+the world is a dark, cruel place.
+
+1394
+01:19:39,775 --> 01:19:44,030
+But now I see that the only thing dark
+and cruel about it is people like you.
+
+1395
+01:19:44,113 --> 01:19:45,535
+Quasimodo?
+
+1396
+01:19:45,948 --> 01:19:47,541
+Esmeralda!
+
+1397
+01:19:47,658 --> 01:19:49,205
+She lives.
+
+1398
+01:19:49,285 --> 01:19:50,332
+No!
+
+1399
+01:19:51,203 --> 01:19:52,876
+(PANTING)
+
+1400
+01:20:12,057 --> 01:20:14,105
+Leaving so soon?
+
+1401
+01:20:15,561 --> 01:20:16,653
+(GRUNTING)
+
+1402
+01:20:17,313 --> 01:20:19,065
+Look, up there!
+
+1403
+01:20:19,857 --> 01:20:21,074
+Hang on!
+
+1404
+01:20:21,150 --> 01:20:23,152
+(GRUNTING)
+
+1405
+01:20:24,194 --> 01:20:26,538
+(CHOIR SINGING DRAMATICALLY)
+
+1406
+01:20:33,412 --> 01:20:34,459
+(GRUNTING)
+
+1407
+01:20:35,914 --> 01:20:39,509
+I should have known you'd risk your life
+to save that gypsy witch,
+
+1408
+01:20:39,585 --> 01:20:43,590
+just as your own mother
+died trying to save you.
+
+1409
+01:20:43,672 --> 01:20:44,673
+What?
+
+1410
+01:20:44,757 --> 01:20:49,763
+Now I'm going to do
+what I should have done 20 years ago!
+
+1411
+01:20:51,013 --> 01:20:52,936
+(GRUNTING) Whoa!
+
+1412
+01:20:53,557 --> 01:20:55,400
+(GROANING) Oh!
+
+1413
+01:20:58,729 --> 01:20:59,771
+(STRAINING)
+
+1414
+01:20:59,772 --> 01:21:01,069
+(PANTING)
+
+1415
+01:21:07,529 --> 01:21:08,530
+(GRUNTING)
+
+1416
+01:21:08,614 --> 01:21:09,866
+(GASPING) Hold on.
+
+1417
+01:21:09,948 --> 01:21:11,291
+ESMERALDA: Hold on.
+
+1418
+01:21:15,162 --> 01:21:18,462
+(LAUGHING WICKEDLY)
+
+1419
+01:21:19,875 --> 01:21:26,303
+And he shall smite the wicked
+and plunge them into the fiery pit!
+
+1420
+01:21:26,423 --> 01:21:27,675
+(CRACKING)
+
+1421
+01:21:30,135 --> 01:21:31,307
+(SNARLING)
+
+1422
+01:21:31,512 --> 01:21:37,144
+(SCREAMING)
+
+1423
+01:21:42,398 --> 01:21:44,857
+Quasimodo! Quasi!
+
+1424
+01:21:44,858 --> 01:21:47,327
+No!
+
+1425
+01:21:47,778 --> 01:21:49,872
+(GRUNTING)
+
+1426
+01:22:41,665 --> 01:22:44,043
+(CROWD CHEERING)
+
+1427
+01:22:51,800 --> 01:22:53,222
+(CHEERING SUBSIDES)
+
+1428
+01:23:29,254 --> 01:23:30,506
+(QUASIMODO GASPS)
+
+1429
+01:23:46,104 --> 01:23:49,984
+Three cheers for Quasimodo!
+
+1430
+01:23:50,067 --> 01:23:52,365
+(CROWD CHEERING)
+
+1431
+01:23:52,611 --> 01:23:57,162
+(SINGING) <i>So here is a riddle</i>
+<i>to guess if you can</i>
+
+1432
+01:23:57,241 --> 01:24:00,791
+<i>Sing the bells of Notre Dame</i>
+
+1433
+01:24:00,869 --> 01:24:06,342
+<i>What makes a monster</i>
+<i>and what makes a man</i>
+
+1434
+01:24:06,416 --> 01:24:10,171
+CROWD: <i>Sing the bells, bells</i>
+<i>Bells, bells</i>
+
+1435
+01:24:10,254 --> 01:24:11,722
+CLOPIN: <i>Whatever their pitch</i>
+
+1436
+01:24:11,797 --> 01:24:16,849
+<i>You can feel them bewitch you</i>
+<i>The rich and the ritual knells</i>
+
+1437
+01:24:16,927 --> 01:24:18,520
+<i>Of the bells</i>
+
+1438
+01:24:18,595 --> 01:24:19,139
+<i>Of Notre</i>
+
+1439
+01:24:23,809 --> 01:24:24,309
+<i>Dame</i>
+
+1440
+01:24:31,608 --> 01:24:35,329
+(CHOIR SINGING)
+
+1441
+01:24:39,908 --> 01:24:42,411
+LAVERNE: Don't you ever migrate?
+
+1442
+01:25:03,682 --> 01:25:06,151
+<i>Ooo-ooo</i>
+
+1443
+01:25:09,146 --> 01:25:15,119
+<i>Someday when we are wiser</i>
+
+1444
+01:25:16,653 --> 01:25:20,157
+<i>When the world's older</i>
+
+1445
+01:25:20,866 --> 01:25:23,915
+<i>When we have learned</i>
+
+1446
+01:25:26,371 --> 01:25:29,966
+<i>I pray someday</i>
+
+1447
+01:25:30,042 --> 01:25:34,138
+<i>We may yet live</i>
+
+1448
+01:25:34,463 --> 01:25:36,716
+<i>To live</i>
+
+1449
+01:25:37,049 --> 01:25:42,556
+<i>And let live</i>
+
+1450
+01:25:43,555 --> 01:25:45,774
+<i>Someday</i>
+
+1451
+01:25:46,808 --> 01:25:50,187
+<i>Life will be fairer</i>
+
+1452
+01:25:51,063 --> 01:25:55,159
+<i>Need will be rarer</i>
+
+1453
+01:25:55,233 --> 01:26:00,080
+<i>And greed will not pay</i>
+
+1454
+01:26:00,697 --> 01:26:03,701
+<i>Godspeed</i>
+
+1455
+01:26:03,950 --> 01:26:08,376
+<i>This fine millennium</i>
+
+1456
+01:26:09,456 --> 01:26:12,801
+<i>On its way</i>
+
+1457
+01:26:13,752 --> 01:26:18,929
+<i>Let me come someday</i>
+
+1458
+01:26:22,010 --> 01:26:25,731
+<i>Ooo-ooo</i>
+
+1459
+01:26:26,765 --> 01:26:29,518
+<i>Someday</i>
+
+1460
+01:26:29,601 --> 01:26:33,771
+<i>Our fight will be won then</i>
+
+1461
+01:26:33,772 --> 01:26:38,198
+<i>We'll stand in the sun then</i>
+
+1462
+01:26:38,276 --> 01:26:41,487
+<i>That bright afternoon</i>
+
+1463
+01:26:41,488 --> 01:26:43,989
+<i>Oh-oh-oh</i>
+
+1464
+01:26:43,990 --> 01:26:46,709
+<i>Till then</i>
+
+1465
+01:26:46,785 --> 01:26:51,666
+<i>On days when the sun is gone</i>
+
+1466
+01:26:52,582 --> 01:26:55,756
+<i>We'll hang on</i>
+
+1467
+01:26:56,211 --> 01:27:02,639
+<i>And we'll wish upon the moon</i>
+
+1468
+01:27:03,051 --> 01:27:05,145
+<i>Whoa-oh</i>
+
+1469
+01:27:05,220 --> 01:27:07,179
+<i>And some days</i>
+
+1470
+01:27:07,180 --> 01:27:09,353
+<i>- Are dark and deary</i>
+<i>- Dark and deary</i>
+
+1471
+01:27:09,433 --> 01:27:12,232
+<i>Seems we haven't
+Got a prayer</i>
+
+1472
+01:27:12,310 --> 01:27:14,688
+<i>- Haven't we got</i>
+<i>- But a prayer</i>
+
+1473
+01:27:14,771 --> 01:27:17,695
+<i>For somethin' better</i>
+
+1474
+01:27:17,774 --> 01:27:22,405
+<i>Is the one thing
+We all share</i>
+
+1475
+01:27:22,738 --> 01:27:26,157
+<i>- Someday</i>
+<i>- Someday</i>
+
+1476
+01:27:26,158 --> 01:27:30,703
+<i>- When we are wiser</i>
+<i>- When we are wiser</i>
+
+1477
+01:27:30,704 --> 01:27:34,665
+<i>- When the world is older</i>
+<i>- When the world is older</i>
+
+1478
+01:27:34,666 --> 01:27:40,014
+<i>- When we have love</i>
+<i>- When we have love</i>
+
+1479
+01:27:40,088 --> 01:27:42,716
+<i>I pray</i>
+
+1480
+01:27:42,799 --> 01:27:46,178
+<i>- Someday we may yet</i>
+<i>- Let live</i>
+
+1481
+01:27:46,511 --> 01:27:51,682
+<i>Let live, to live, to live</i>
+<i>To live, to live</i>
+
+1482
+01:27:51,683 --> 01:27:55,358
+<i>And yet live</i>
+
+1483
+01:27:55,437 --> 01:27:57,189
+<i>Oh-oh</i>
+
+1484
+01:27:57,272 --> 01:27:59,775
+<i>Someday</i>
+
+1485
+01:28:00,525 --> 01:28:04,905
+<i>- Life will be fairer</i>
+<i>- Life will be fairer</i>
+
+1486
+01:28:05,030 --> 01:28:09,410
+<i>- Need will be rarer</i>
+<i>- Need will be rarer</i>
+
+1487
+01:28:09,493 --> 01:28:14,420
+<i>- Greed will not pay</i>
+<i>- No, no, no</i>
+
+1488
+01:28:14,498 --> 01:28:17,001
+<i>Godspeed</i>
+
+1489
+01:28:17,876 --> 01:28:22,052
+<i>This fine millennium</i>
+
+1490
+01:28:23,089 --> 01:28:26,559
+<i>Let it come</i>
+
+1491
+01:28:27,511 --> 01:28:34,520
+<i>Wish upon a moon</i>
+
+1492
+01:28:36,144 --> 01:28:42,026
+<i>One day someday</i>
+
+1493
+01:28:45,570 --> 01:28:46,070
+<i>Soon</i>
+
+1494
+01:28:53,620 --> 01:28:55,748
+<i>Ooo-ooo</i>
+
+1495
+01:28:56,540 --> 01:28:58,167
+<i>- One day</i>
+<i>- Someday</i>
+
+1496
+01:28:58,250 --> 01:29:00,252
+<i>Someday</i>
+
+1497
+01:29:01,670 --> 01:29:05,095
+<i>Soon</i>
+
+1498
+01:30:36,848 --> 01:30:39,101
+Good night, everybody!
+(LAUGHING)

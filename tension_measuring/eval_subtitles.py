@@ -14,7 +14,6 @@ def parse_subtitle(filename):
     for sub in res:
         if len(sub) >= 3: # not strictly necessary, but better safe than sorry
             sub = [x.strip() for x in sub]
-
             try:
                 number = sub[0].decode("UTF-8")
             except:
@@ -31,8 +30,14 @@ def parse_subtitle(filename):
                         at_minute = int(start[:2]) * 60 + int(start[3:5])
                         at_seconds = int(start[:2]) * 3600 + int(start[3:5]) * 60 + int(start[6:8])
                     except:
-                        continue
+                        at_minute = 0
+                        at_seconds = 0
+                        #continue
                     subs.append(Subtitle(number, start, end, content, at_minute, at_seconds))
+            # if filename == '../Subtitles/Action/Broken Arrow (IMPAIRED).srt':
+            #     print('a   ', number, start, end, content, at_minute, at_seconds)
+            #     print('b   ', Subtitle(number, start, end, content, at_minute, at_seconds))
+            #     print('c   ', number, start, end, content, at_minute, at_seconds)
 
     return subs
 
