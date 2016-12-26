@@ -9,16 +9,16 @@ from sklearn.utils import shuffle
 
 from impaired_classification import ImpairedClassification
 from tension_measuring.knn_dpm import KnnDpmWpm
-
+from FullTextClassification import FullTextClassification
 
 def main():
     # Hold f1 scores for each model
     f1_scores = []
     impaired_model = ImpairedClassification('TrainSubtitles', 'TestSubtitles')
     knn_model = KnnDpmWpm('TrainSubtitles', 'TestSubtitles')
-
+    full_text_classification = FullTextClassification('TrainSubtitles', 'TestProcessed')
     # impaired_model.tune_and_train()
-    models = [impaired_model, knn_model]
+    models = [impaired_model, knn_model, full_text_classification]
 
     test_folder = 'CategoryDataTest'
     categories = global_variables.genres
